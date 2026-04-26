@@ -1,0 +1,48 @@
+---
+id: 1386
+title: "Wilhelmine and Adam Kaltwasser"
+subtitle: "Ginnheimer Landstraße 198"
+coordinates: [50.143057, 8.648411]
+updated_at: "2024-02-13 15:00:16"
+categories:
+  - "Biographies"
+filters:
+  - "Places of debate"
+---
+
+# Wilhelmine and Adam Kaltwasser
+
+*Ginnheimer Landstraße 198*
+
+![<p>Kaltwasser couple; S-004247</p>](../../images/5dfe6daa9b4e314ea562c76cc797349c_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Kaltwasser couple; S-004247</p>*
+
+For many years, Jehovah's Witnesses belonged to the "forgotten victims" and were hardly mentioned. We would like to bring the Frankfurt victims out of oblivion. Since 1997, the Frankfurt Jehovah's Witnesses who suffered under the Nazi regime because of their Christian convictions, have been remembered. Through volunteer work, archives and memorials are researching the experiences of the victims.
+
+The research results and biographies are published on the website www.geschichte-jz-ffm.de.
+
+By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
+
+## Gallery
+
+![<p>Kaltwasser couple; S-004247</p>](../../images/Kaltwasser_136118cb0b672515e5a1c173186ccea0_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Kaltwasser couple; S-004247</p>*
+
+![<p>Notice of resignation for Adam Kaltwasser as a civil service employee dated 22.01.1935</p>](../../images/Kaltwasser_8ee365a0c00c0c365917ec042d454f07_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Notice of resignation for Adam Kaltwasser as a civil service employee dated 22.01.1935</p>*
+
+![<p>Summons for Adam Kaltwasser before the Frankfurt Special Court dated 18.05.1937</p>](../../images/Kaltwasser_7fc58d35787ec84643982caf04d434aa_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Summons for Adam Kaltwasser before the Frankfurt Special Court dated 18.05.1937</p>*
+
+![<p>Telegram with the death notification of Adam Kaltwasser from 19.04.1940</p>](../../images/Kaltwasser_fd08dd8009a90a592803ea35f09c2038_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Telegram with the death notification of Adam Kaltwasser from 19.04.1940</p>*
+
+![<p>Stolperstein for Adam Kaltwasser</p>](../../images/Adam Kaltw_150d7d06bb3c1ae20ccfd2163e5abbe7_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein for Adam Kaltwasser</p>*
+
+![<p>Stolperstein for Wilhelmine Kaltwasser</p>](../../images/Wilhelmine_cfe2b5e78a2b412037eee199960fbea2_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein for Wilhelmine Kaltwasser</p>*
+
+
+## Links
+
