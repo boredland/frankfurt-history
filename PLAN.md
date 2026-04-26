@@ -10,7 +10,7 @@ A static web app for exploring the Frankfurt History archive on an interactive m
 |---------|--------|-----|
 | Framework | **TanStack Start** (React) | SSG-capable, type-safe routing with first-class URL search param state — ideal for map/layer/filter state in the URL |
 | Map | **MapLibre GL JS** via `react-map-gl` | Free Mapbox GL fork, vector tiles, clustering; react-map-gl gives declarative React bindings |
-| Tiles | **MapTiler** free tier or self-hosted PMTiles | Vector basemap; PMTiles removes the tile server dependency entirely |
+| Tiles | **Self-hosted PMTiles** on R2 | No tile server, no API key, no rate limits; served as a single static file via Cloudflare R2 with range-request support |
 | Routing | **OpenRouteService** | Free tier (40 req/min, 500/day), proper walking profile, isochrones; nearest-neighbor routes pre-cached at build time |
 | TTS | **Piper ONNX** via `onnxruntime-web` | Offline, runs in browser, good German voices (~20 MB model) |
 | Translation | **API-native** (Accept-Language header) | The API already serves English translations; archive both `de` and `en` at fetch time. Override system allows hand-correcting any translation. |
@@ -243,7 +243,7 @@ A visual language that feels like studying a well-curated museum map — not a t
 | Sepia | `#8B7355` | Accent, active states, links |
 | Sepia Light | `#D4C5AD` | Borders, dividers, inactive markers |
 | Red Oxide | `#A0522D` | Alert accent, current-location pin |
-| Map Tint | desaturated warm | Custom MapLibre style with muted tones to let markers pop |
+| Map Tint | desaturated warm | Custom Protomaps style with muted tones to let markers pop |
 
 Each **theme** gets its own marker color from a restrained palette of muted earth tones — no neon, no primary colors. The original app's filter colors (turquoise, purple, pink, etc.) are translated into desaturated equivalents.
 
@@ -330,6 +330,6 @@ Each **theme** gets its own marker color from a restrained palette of muted eart
 
 ## Open Questions
 
-- **Tile source**: MapTiler free tier (100k loads/month) vs self-hosted PMTiles on GitHub Pages (free, no rate limit, ~50 MB file)?
+- **PMTiles source**: Use [Protomaps](https://protomaps.com/) basemap extract for the Frankfurt area (~50–100 MB), or a full Germany extract (~1–2 GB)? Frankfurt-only keeps R2 storage minimal. Custom MapLibre style to match the warm archival color palette.
 - **Historical map overlays**: the original app has Mapbox tilesets for historical maps. We could add georeferenced historical map overlays if the tile data is accessible, or skip this for v1.
 - **Image hosting**: currently images are in Git LFS (~1 GB). For the web app, serve them directly from LFS or copy to the static build output?
