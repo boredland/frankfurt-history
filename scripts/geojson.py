@@ -115,6 +115,14 @@ def build_theme(theme_dir: Path) -> tuple[dict | None, dict | None]:
 
         slug = poi_path.stem
 
+        # Extract first image URL for thumbnail
+        thumb = ""
+        body = poi_path.read_text()
+        img_match = re.search(r"!\[[^\]]*\]\(([^)]+)\)", body)
+        if img_match:
+            thumb = img_match.group(1)
+            thumb = re.sub(r"(\.\./)+images/", f"{R2_PUBLIC_URL}/images/", thumb)
+
         feature = {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [lng, lat]},
@@ -126,6 +134,8 @@ def build_theme(theme_dir: Path) -> tuple[dict | None, dict | None]:
                 "slug": slug,
             },
         }
+        if thumb:
+            feature["properties"]["thumb"] = thumb
         if categories:
             feature["properties"]["categories"] = categories
         if filters:

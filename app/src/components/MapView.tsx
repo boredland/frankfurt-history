@@ -11,6 +11,7 @@ import MapGL, {
   Source,
   type ViewStateChangeEvent,
 } from "react-map-gl/maplibre";
+import { imageUrl } from "~/lib/imageUrl";
 import { createMapStyle } from "~/lib/mapStyle";
 import { useNavigation } from "~/lib/NavigationContext";
 import { THEME_COLORS, type Theme, themeColor } from "~/lib/themes";
@@ -66,7 +67,13 @@ export function MapView({
   const [stackPopup, setStackPopup] = useState<{
     lng: number;
     lat: number;
-    pois: { title: string; subtitle: string; theme: string; slug: string }[];
+    pois: {
+      title: string;
+      subtitle: string;
+      theme: string;
+      slug: string;
+      thumb: string;
+    }[];
   } | null>(null);
 
   useEffect(() => {
@@ -94,6 +101,7 @@ export function MapView({
       subtitle: string;
       theme: string;
       slug: string;
+      thumb: string;
     }[]
   >([]);
   const registeredSlugs = useRef<Set<string>>(new Set());
@@ -113,6 +121,7 @@ export function MapView({
         subtitle: (p.subtitle as string) || "",
         theme: (p.theme as string) || "",
         slug,
+        thumb: (p.thumb as string) || "",
       });
     }
 
@@ -326,31 +335,31 @@ export function MapView({
           className="stack-popup"
         >
           <div className="-mx-2.5 -my-1.5">
-            <div className="flex items-center justify-between px-3 pt-2.5 pb-1.5">
-              <span className="text-[11px] font-medium text-faded uppercase tracking-wider">
+            <div className="flex items-center justify-between px-4 pt-3 pb-2">
+              <span className="text-[11px] font-medium text-faded/80 tracking-wide">
                 {stackPopup.pois.length} {lang === "de" ? "Orte" : "places"}
               </span>
               <button
                 type="button"
                 onClick={() => setStackPopup(null)}
-                className="text-faded/60 hover:text-ink cursor-pointer -mr-1 p-0.5"
+                className="w-6 h-6 flex items-center justify-center rounded-full text-faded/50 hover:text-ink hover:bg-sepia-light/30 cursor-pointer transition-colors"
                 aria-label="Close"
               >
                 <svg
-                  width="12"
-                  height="12"
-                  viewBox="0 0 12 12"
+                  width="10"
+                  height="10"
+                  viewBox="0 0 10 10"
                   fill="none"
                   stroke="currentColor"
                   strokeWidth="1.5"
                   role="img"
                   aria-label="Close"
                 >
-                  <path d="M3 3l6 6M9 3l-6 6" />
+                  <path d="M2 2l6 6M8 2l-6 6" />
                 </svg>
               </button>
             </div>
-            <div className="max-h-56 overflow-y-auto px-2 pb-2 space-y-1">
+            <div className="max-h-64 overflow-y-auto px-2.5 pb-2.5 space-y-1.5">
               {stackPopup.pois.map((poi) => (
                 <button
                   key={`${poi.theme}-${poi.slug}`}
@@ -367,38 +376,52 @@ export function MapView({
                       search: (prev: Record<string, unknown>) => prev,
                     });
                   }}
-                  className="w-full flex items-stretch rounded-lg overflow-hidden bg-paper border border-sepia-light/60 hover:border-sepia hover:shadow-sm cursor-pointer transition-all text-left group"
+                  className="w-full flex items-center gap-2.5 rounded-lg overflow-hidden bg-paper border border-sepia-light/60 hover:border-sepia hover:shadow-sm cursor-pointer transition-all text-left group p-1.5"
                 >
-                  <div
-                    className="w-1 shrink-0"
-                    style={{
-                      backgroundColor: THEME_COLORS[poi.theme] || "#8B7355",
-                    }}
-                  />
-                  <div className="min-w-0 px-2.5 py-2">
-                    <div className="text-[13px] font-medium text-ink leading-snug group-hover:text-sepia transition-colors">
+                  {poi.thumb ? (
+                    <img
+                      src={imageUrl(poi.thumb, "thumbnail")}
+                      alt=""
+                      className="w-11 h-11 rounded object-cover shrink-0 bg-sepia-light/30"
+                    />
+                  ) : (
+                    <div
+                      className="w-11 h-11 rounded shrink-0 flex items-center justify-center"
+                      style={{
+                        backgroundColor: `${THEME_COLORS[poi.theme] || "#8B7355"}20`,
+                      }}
+                    >
+                      <span
+                        className="w-3 h-3 rounded-full"
+                        style={{
+                          backgroundColor: THEME_COLORS[poi.theme] || "#8B7355",
+                        }}
+                      />
+                    </div>
+                  )}
+                  <div className="min-w-0 flex-1">
+                    <div className="text-[13px] font-medium text-ink leading-snug group-hover:text-sepia transition-colors line-clamp-2">
                       {poi.title}
                     </div>
                     {poi.subtitle && poi.subtitle !== poi.title && (
-                      <div className="text-[11px] text-faded mt-0.5 leading-tight">
+                      <div className="text-[11px] text-faded mt-0.5 leading-tight truncate">
                         {poi.subtitle}
                       </div>
                     )}
                   </div>
-                  <div className="flex items-center pr-2 shrink-0 text-sepia-light group-hover:text-sepia transition-colors">
-                    <svg
-                      width="14"
-                      height="14"
-                      viewBox="0 0 14 14"
-                      fill="none"
-                      stroke="currentColor"
-                      strokeWidth="1.5"
-                      role="img"
-                      aria-label="Open"
-                    >
-                      <path d="M5 3l4 4-4 4" />
-                    </svg>
-                  </div>
+                  <svg
+                    width="14"
+                    height="14"
+                    viewBox="0 0 14 14"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="1.5"
+                    className="shrink-0 text-sepia-light group-hover:text-sepia transition-colors"
+                    role="img"
+                    aria-label="Open"
+                  >
+                    <path d="M5 3l4 4-4 4" />
+                  </svg>
                 </button>
               ))}
             </div>
