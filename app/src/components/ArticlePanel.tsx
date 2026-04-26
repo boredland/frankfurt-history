@@ -1,6 +1,5 @@
 import { useNavigate } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
-import { getArticle } from "~/lib/content";
 
 interface ArticlePanelProps {
   lang: string;
@@ -12,6 +11,11 @@ interface ArticleData {
   title: string;
   subtitle?: string;
   html: string;
+}
+
+interface ArticleJson {
+  frontmatter: Record<string, string>;
+  body: string;
 }
 
 function markdownToHtml(md: string): string {
@@ -49,6 +53,48 @@ function markdownToHtml(md: string): string {
   return paragraphs.join("\n");
 }
 
+async function fetchJson(url: string): Promise<ArticleJson | null> {
+  try {
+    const r = await fetch(url);
+    if (!r.ok) return null;
+    return (await r.json()) as ArticleJson;
+  } catch {
+    return null;
+  }
+}
+
+async function fetchArticle(
+  lang: string,
+  theme: string,
+  slug: string,
+): Promise<ArticleJson | null> {
+  const poiId = slug.match(/^(\d+)/)?.[1];
+
+  // Try exact slug in requested language
+  const exact = await fetchJson(`/data/content/${lang}/${theme}/${slug}.json`);
+  if (exact) return exact;
+
+  // Try ID-based lookup (slugs differ across languages)
+  if (poiId) {
+    const indexResp = await fetchJson(
+      `/data/content/${lang}/${theme}/_index.json`,
+    );
+    if (indexResp) {
+      const index = indexResp as unknown as Record<string, string>;
+      const filename = index[poiId];
+      if (filename) {
+        const byId = await fetchJson(
+          `/data/content/${lang}/${theme}/${filename}`,
+        );
+        if (byId) return byId;
+      }
+    }
+  }
+
+  // Fallback to flat layout (no lang prefix)
+  return fetchJson(`/data/content/${theme}/${slug}.json`);
+}
+
 export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
   const navigate = useNavigate();
   const [article, setArticle] = useState<ArticleData | null>(null);
@@ -56,7 +102,7 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
 
   useEffect(() => {
     setLoading(true);
-    getArticle({ data: { lang, theme, slug } })
+    fetchArticle(lang, theme, slug)
       .then((json) => {
         if (!json) {
           setArticle(null);
