@@ -5,9 +5,20 @@ import {
   useNavigate,
   useRouter,
 } from "@tanstack/react-router";
-import { useCallback, useEffect, useMemo, useState } from "react";
+import {
+  lazy,
+  Suspense,
+  useCallback,
+  useEffect,
+  useMemo,
+  useState,
+} from "react";
 import { z } from "zod";
-import { MapView } from "~/components/MapView";
+
+const MapView = lazy(() =>
+  import("~/components/MapView").then((m) => ({ default: m.MapView })),
+);
+
 import { NearbyPanel } from "~/components/NearbyPanel";
 import { SearchDialog } from "~/components/SearchDialog";
 import { NavigationProvider } from "~/lib/NavigationContext";
@@ -202,15 +213,24 @@ function LangLayout() {
           </div>
         </header>
         <div className="flex-1 flex overflow-hidden relative">
-          <MapView
-            lat={search.lat}
-            lng={search.lng}
-            zoom={search.z}
-            lang={lang}
-            activeLayers={activeLayers}
-            onToggleLayer={handleToggleLayer}
-            activeSlug={activeSlug}
-          />
+          <Suspense
+            fallback={
+              <div
+                className="w-full h-full"
+                style={{ background: "#FAF8F5" }}
+              />
+            }
+          >
+            <MapView
+              lat={search.lat}
+              lng={search.lng}
+              zoom={search.z}
+              lang={lang}
+              activeLayers={activeLayers}
+              onToggleLayer={handleToggleLayer}
+              activeSlug={activeSlug}
+            />
+          </Suspense>
           <Outlet />
         </div>
       </div>

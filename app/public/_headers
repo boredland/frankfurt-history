@@ -1,0 +1,5 @@
+/*.pmtiles
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Headers: Range
+  Cache-Control: public, max-age=604800
+  Content-Encoding: identity
