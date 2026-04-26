@@ -12,7 +12,7 @@ filters:
 
 *Straßennamen nach Frauen benannt*
 
-![Rosa Luxemburg Straße](../images/ee1966f7f56103ae1baeb63686d7c114_original.jpg)
+![Rosa Luxemburg Straße](../images/ee1966f7f56103ae1baeb63686d7c114_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Rosa Luxemburg Straße*
 
 Diese Straße ist nach Rosa Luxemburg benannt, die eine unbeugsame Kämpferin für Frieden und gegen Unterdrückung war.
@@ -23,6 +23,6 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
-![Rosa Luxemburg Straße](../images/FemFFM_pla_51ec9396b1132f5f5b3e40ef28814ea6_original.jpg)
+![Rosa Luxemburg Straße](../images/FemFFM_pla_51ec9396b1132f5f5b3e40ef28814ea6_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Rosa Luxemburg Straße*
 

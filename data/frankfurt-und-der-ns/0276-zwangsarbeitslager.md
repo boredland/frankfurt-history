@@ -15,7 +15,7 @@ filters:
 
 *Schwanheimer Straße 23*
 
-![Foto eines Schulgebäudes der Salzmannschule in der Schwanheimer Straße 23, welches als Zwangsarbeitslager genutzt wurde](../images/51d70870e9552ec8ca2fe6becd03eb8d_original.jpg)
+![Foto eines Schulgebäudes der Salzmannschule in der Schwanheimer Straße 23, welches als Zwangsarbeitslager genutzt wurde](../images/51d70870e9552ec8ca2fe6becd03eb8d_medium.jpg)
 *1987 — Author: Hade-Foto | License: HMF Ph14500 | Description: Foto eines Schulgebäudes der Salzmannschule in der Schwanheimer Straße 23, welches als Zwangsarbeitslager genutzt wurde*
 
 Im Schulgebäude der Salzmannschule waren Kriegsgefangene untergebracht, die im Arbeitskommando 763 Zwangsarbeit leisten mussten, unter anderem für die Reichsbahn. Sie mussten körperlich schwer arbeiten, zum Beispiel bei Räumarbeiten nach Luftangriffen.
@@ -24,7 +24,7 @@ Im Schulgebäude der Salzmannschule waren Kriegsgefangene untergebracht, die im 
 
 ## Gallery
 
-![Foto eines Schulgebäudes der Salzmannschule in der Schwanheimer Straße 23, welches als Zwangsarbeitslager genutzt wurde](../images/51d70870e9552ec8ca2fe6becd03eb8d_original.jpg)
+![Foto eines Schulgebäudes der Salzmannschule in der Schwanheimer Straße 23, welches als Zwangsarbeitslager genutzt wurde](../images/51d70870e9552ec8ca2fe6becd03eb8d_medium.jpg)
 *1987 — Author: Hade-Foto | License: HMF Ph14500 | Description: Foto eines Schulgebäudes der Salzmannschule in der Schwanheimer Straße 23, welches als Zwangsarbeitslager genutzt wurde*
 
 

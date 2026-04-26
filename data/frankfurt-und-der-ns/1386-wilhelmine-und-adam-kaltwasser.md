@@ -28,7 +28,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 ![<p>Ehepaar Kaltwasser; S-004247</p>](../images/Kaltwasser_136118cb0b672515e5a1c173186ccea0_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Ehepaar Kaltwasser; S-004247</p>*
 
-![<p>Kündigung für Adam Kaltwasser als Mitarbeiter im Öffentlichen Dienst vom 22.01.1935</p>](../images/Kaltwasser_8ee365a0c00c0c365917ec042d454f07_original.jpg)
+![<p>Kündigung für Adam Kaltwasser als Mitarbeiter im Öffentlichen Dienst vom 22.01.1935</p>](../images/Kaltwasser_8ee365a0c00c0c365917ec042d454f07_medium.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Kündigung für Adam Kaltwasser als Mitarbeiter im Öffentlichen Dienst vom 22.01.1935</p>*
 
 ![<p>Ladung für Adam Kaltwasser vor das Sondergericht Frankfurt vom 18.05.1937</p>](../images/Kaltwasser_7fc58d35787ec84643982caf04d434aa_original.jpg)

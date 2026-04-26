@@ -15,7 +15,7 @@ filters:
 
 *Saarbrücker Straße 4*
 
-![Bildpostkarte mit Außenansicht des Turnvereins Schwanheim](../images/11118bc2b3e06577663bc84e73151e25_original.jpg)
+![Bildpostkarte mit Außenansicht des Turnvereins Schwanheim](../images/11118bc2b3e06577663bc84e73151e25_medium.jpg)
 *1939 — Author: unbekannt | License: HMF / Sammlung Church C80405 | Description: Bildpostkarte mit Außenansicht des Turnvereins Schwanheim*
 
 Die I.G. Farben-Industrie AG setzte in ihren drei Frankfurter Chemiewerken Höchst, Griesheim und Mainkur seit März 1940 Zwangsarbeiter*innen ein. Der Konzern betrieb allein in Frankfurt über 20 Zwangsarbeitslager. Eines von ihnen befand sich hier in der Saarbrücker Straße 6 in der Turnhalle des Turnvereins Schwanheim. Zusätzlich ließ der Konzern mehrere Nebengebäude bauen, um französische Kriegsgefangene unterzubringen. In dem Lager waren zwischen 1943 und 1944 34 Zwangsarbeiter*innen einquartiert, die im Werk Griesheim arbeiten mussten.
@@ -25,7 +25,7 @@ Die I.G. Farben-Industrie AG setzte in ihren drei Frankfurter Chemiewerken Höch
 
 ## Gallery
 
-![Bildpostkarte mit Außenansicht des Turnvereins Schwanheim](../images/11118bc2b3e06577663bc84e73151e25_original.jpg)
+![Bildpostkarte mit Außenansicht des Turnvereins Schwanheim](../images/11118bc2b3e06577663bc84e73151e25_medium.jpg)
 *1939 — Author: unbekannt | License: HMF / Sammlung Church C80405 | Description: Bildpostkarte mit Außenansicht des Turnvereins Schwanheim*
 
 

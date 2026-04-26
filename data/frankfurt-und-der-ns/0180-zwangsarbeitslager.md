@@ -14,13 +14,13 @@ filters:
 
 *Theodor-Heuss-Allee 2*
 
-![<span class="tab2">Zwangsarbeitslager</span>](../images/3da405785c78da47a7eb3c4883634b82_original.jpg)
+![<span class="tab2">Zwangsarbeitslager</span>](../images/3da405785c78da47a7eb3c4883634b82_medium.jpg)
 *ca. 1925 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2000-368 | Description: <span class="tab2">Zwangsarbeitslager</span>*
 
 Die Herrenkleiderfabrik Deutsche Kleiderwerke AG betrieb in der Bismarckallee 2 (heute Theodor-Heuss-Allee) ein Lager für Zivilarbeiter.
 
 ## Gallery
 
-![<span class="tab2">Zwangsarbeitslager</span>](../images/3da405785c78da47a7eb3c4883634b82_original.jpg)
+![<span class="tab2">Zwangsarbeitslager</span>](../images/3da405785c78da47a7eb3c4883634b82_medium.jpg)
 *ca. 1925 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2000-368 | Description: <span class="tab2">Zwangsarbeitslager</span>*
 

@@ -31,7 +31,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 ![<p>Missionsfahrt mit dem "Wasserauto", ein LKW der Fa. "Luna-Quelle"; S-0161186</p>](../images/Krämer_A_ea501ac4f36f78f2a8ee4578b75cdd8a_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Missionsfahrt mit dem "Wasserauto", ein LKW der Fa. "Luna-Quelle"; S-0161186</p>*
 
-![<p>Sonderausweis für Verfolgte (rot) für Adolf Krämer, ausgestellt am 06.08.1946</p>](../images/Krämer_A_e3a44dd40532af92e7345d0585448efc_original.jpg)
+![<p>Sonderausweis für Verfolgte (rot) für Adolf Krämer, ausgestellt am 06.08.1946</p>](../images/Krämer_A_e3a44dd40532af92e7345d0585448efc_medium.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Sonderausweis für Verfolgte (rot) für Adolf Krämer, ausgestellt am 06.08.1946</p>*
 
 ![<p>Stolperstein für Adolf Krämer</p>](../images/Adolf Krä_ca2b45c1fe8f90c7c8db0099ff2e1ff4_original.jpg)

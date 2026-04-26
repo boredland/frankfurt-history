@@ -15,7 +15,7 @@ filters:
 
 *Gründenseestraße 6*
 
-![<p>Foto eines Hochbunkers in der Gründenseestraße</p>](../images/fd88e0ad7a77cc6a2bbb4fc304a78dbf_original.jpg)
+![<p>Foto eines Hochbunkers in der Gründenseestraße</p>](../images/fd88e0ad7a77cc6a2bbb4fc304a78dbf_medium.jpg)
 *o.D. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: <p>Foto eines Hochbunkers in der Gründenseestraße</p>*
 
 Dieser Bunker war Teil des sogenannten Führer-Sofortprogramms. Da er eine ähnliche Größe wie das Rathaus und die Kirche in der Nähe hatte, war er aus der Luft nicht zu erkennen. Auf drei Etagen gab es Platz für 690 Menschen. Nur 35.000 Frankfurter hatten einen Bunkerplatz. Viele flohen in die Keller ihrer Häuser und in die öffentlichen Luftschutzkeller, die nicht bombensicher waren. Als dies bekannt wurde, drängten immer mehr Menschen in die Bunker. Jüdinnen und Juden, Zwangsarbeiter*innen und Kriegsgefangenen war der Zutritt jedoch untersagt. Die Bauarbeiten begannen im April 1941. 1987, gegen Ende des Kalten Kriegs, wurde der Bunker hergerichtet, um im Fall eines Angriffs für ein bis zwei Tage Schutz zu bieten. Er steht seit 2012 unter Denkmalschutz.
@@ -26,7 +26,7 @@ Bauunternehmen: Hoch- und Tiefbau Wilhelm Franz, Hanau am Main. Architekt: Adam 
 
 ## Gallery
 
-![<p>Foto eines Hochbunkers in der Gründenseestraße</p>](../images/fd88e0ad7a77cc6a2bbb4fc304a78dbf_original.jpg)
+![<p>Foto eines Hochbunkers in der Gründenseestraße</p>](../images/fd88e0ad7a77cc6a2bbb4fc304a78dbf_medium.jpg)
 *o.D. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: <p>Foto eines Hochbunkers in der Gründenseestraße</p>*
 
 

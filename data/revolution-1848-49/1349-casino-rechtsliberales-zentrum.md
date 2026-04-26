@@ -35,6 +35,6 @@ In der 1849 dominierenden Frage nach einer kleindeutschen oder großdeutschen L�
 
 ## Gallery
 
-![<p>Foto des Gebäudes der Casinogesellschaft am Roßmarkt</p>](../images/07 Casino _11f845dcc5b398bc07f1037186f99daa_original.jpg)
+![<p>Foto des Gebäudes der Casinogesellschaft am Roßmarkt</p>](../images/07 Casino _11f845dcc5b398bc07f1037186f99daa_medium.jpg)
 *1884 — Author: Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-72 | Description: <p>Foto des Gebäudes der Casinogesellschaft am Roßmarkt</p>*
 

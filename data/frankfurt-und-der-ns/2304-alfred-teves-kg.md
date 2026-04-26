@@ -14,7 +14,7 @@ filters:
 
 *Marburger Straße 28*
 
-![Straßenfront des Gebäudekomplexes Marburger Straße 28.](../images/Marburger _321e981a642b3e71589ec0555bd25c3d_original.jpg)
+![Straßenfront des Gebäudekomplexes Marburger Straße 28.](../images/Marburger _321e981a642b3e71589ec0555bd25c3d_medium.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: Straßenfront des Gebäudekomplexes Marburger Straße 28.*
 
 Zwangsarbeitslager 
@@ -35,9 +35,9 @@ Eine junge katholische Ostarbeiterin, Walja M., 1923 geboren, wurde aus dem Lage
 
 ## Gallery
 
-![Straßenfront des Gebäudekomplexes Marburger Straße 28.](../images/Marburger _321e981a642b3e71589ec0555bd25c3d_original.jpg)
+![Straßenfront des Gebäudekomplexes Marburger Straße 28.](../images/Marburger _321e981a642b3e71589ec0555bd25c3d_medium.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: Straßenfront des Gebäudekomplexes Marburger Straße 28.*
 
-![Marburger Straße 28, Seitenansicht.](../images/Marburger _54ab062e762edd38a5373c6a08e5fb30_original.jpg)
+![Marburger Straße 28, Seitenansicht.](../images/Marburger _54ab062e762edd38a5373c6a08e5fb30_medium.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: Marburger Straße 28, Seitenansicht.*
 

@@ -14,7 +14,7 @@ filters:
 
 *Münzgasse 9*
 
-![Außenansicht des Instituts für Stadtgeschichte](../images/e68394343e4d56a31d11853b9cae57b0_original.jpg)
+![Außenansicht des Instituts für Stadtgeschichte](../images/e68394343e4d56a31d11853b9cae57b0_medium.jpg)
 *2021 — Author: Uwe Dettmar | License: Institut für Stadtgeschichte | Description: Außenansicht des Instituts für Stadtgeschichte*
 
 Das Institut für Stadtgeschichte (ISG) ist das kommunale Archiv der Stadt Frankfurt und eine der ältesten Kultureinrichtungen der Stadt. Gemäß seinem gesetzlichen Auftrag sichert das ISG historisch und rechtlich bedeutsame Unterlagen der Stadtverwaltung. Seine Bestände reichen vom 9. Jahrhundert bis in die Gegenwart und umfassen heute ungefähr 25 Regalkilometer in zwei Magazinen. Neben den städtischen Unterlagen sammelt das ISG auch Fotografien, Nachlässe, Karten, Pläne und Zeitungsausschnitte zur Stadtgeschichte sowie Zeugnisse Frankfurter Vereine und Firmen. Die Fotosammlung des ISG umfasst mehr als zwei Millionen Frankfurter Bilder vom 19. Jahrhundert bis heute. Die Archivalien, Sammlungen und Bilder des ISG werden der Öffentlichkeit im Lesesaal für verschiedenste Fragestellungen zur Verfügung gestellt.
@@ -23,13 +23,13 @@ Das Institut für Stadtgeschichte (ISG) ist das kommunale Archiv der Stadt Frank
 
 ## Gallery
 
-![Außenansicht des Instituts für Stadtgeschichte](../images/Außenansi_e460e0e6976397cdfb7e6b38af98070c_original.jpg)
+![Außenansicht des Instituts für Stadtgeschichte](../images/Außenansi_e460e0e6976397cdfb7e6b38af98070c_medium.jpg)
 *2021 — Author: Uwe Dettmar | License: Institut für Stadtgeschichte | Description: Außenansicht des Instituts für Stadtgeschichte*
 
 ![Kreuzgang im Institut für Stadtgeschichte](../images/Kreuzgang__d65d641e0b2574fbfcb8c4ace874e539_original.jpg)
 *2012 — Author: Uwe Dettmar | License: Institut für Stadtgeschichte | Description: Kreuzgang im Institut für Stadtgeschichte*
 
-![Blick in eines der Außenmagazine](../images/ISG_Außen_05342b53c9eacad509c5218603e05665_original.jpg)
+![Blick in eines der Außenmagazine](../images/ISG_Außen_05342b53c9eacad509c5218603e05665_medium.jpg)
 *2012 — Author: Uwe Dettmar | License: Institut für Stadtgeschichte | Description: Blick in eines der Außenmagazine*
 
 

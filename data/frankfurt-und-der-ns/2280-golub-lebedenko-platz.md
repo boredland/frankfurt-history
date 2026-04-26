@@ -31,7 +31,7 @@ Seit 1998 trägt der Platz an der Ecke Lahnstraße/Kriegkstraße den Namen Golub
 ![Gedenktafel auf dem Golub-Lebedenko-Platz in Ukrainisch.](../images/Altmeyer, _cf3c4080731ccc723337892ba57dbf84_original.jpg)
 *2025 — Author: Thomas Altmeyer | License: gemeinfrei | Description: Gedenktafel auf dem Golub-Lebedenko-Platz in Ukrainisch.*
 
-![Zeremonie auf dem Golub-Lebedenko-Platz zum Gedenken an den Todesmarsch aus dem KZ „Katzbach“ im März 2025. Es singt ein ukrainischer Chor. Ein ukrainisch-orthodoxer Priester leitet die Zeremonie.](../images/Altmeyer, _74706c49141ee8382748e8535e9ad515_original.jpg)
+![Zeremonie auf dem Golub-Lebedenko-Platz zum Gedenken an den Todesmarsch aus dem KZ „Katzbach“ im März 2025. Es singt ein ukrainischer Chor. Ein ukrainisch-orthodoxer Priester leitet die Zeremonie.](../images/Altmeyer, _74706c49141ee8382748e8535e9ad515_medium.jpg)
 *Author: Thomas Altmeyer | License: gemeinfrei | Description: Zeremonie auf dem Golub-Lebedenko-Platz zum Gedenken an den Todesmarsch aus dem KZ „Katzbach“ im März 2025. Es singt ein ukrainischer Chor. Ein ukrainisch-orthodoxer Priester leitet die Zeremonie.*
 
 

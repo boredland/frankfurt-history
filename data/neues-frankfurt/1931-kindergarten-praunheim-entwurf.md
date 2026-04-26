@@ -32,6 +32,6 @@ Quelle: Peter Noever (Hrsg.), Margarete Schütte-Lihotzky. Soziale Architektur. 
 ![Modell eines Kindergartens in der Siedlung Praunheim nach einem Entwurf von Margarete Schütte-Lihotzky](../images/Kindergart_6af0dc4c9d7e33784795631e6b69f989_original.jpg)
 *1930 — Author: Unbekannt | License: Das Neue Frankfurt, 1930, Heft 2/3, S. 46 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Modell eines Kindergartens in der Siedlung Praunheim nach einem Entwurf von Margarete Schütte-Lihotzky*
 
-![Grundriss des Kindergartenentwurfs](../images/Kindergart_6d7780a12b40f1c566cf9ae64adb204e_original.jpg)
+![Grundriss des Kindergartenentwurfs](../images/Kindergart_6d7780a12b40f1c566cf9ae64adb204e_medium.jpg)
 *1930 — Author: Margarete Schütte-Lihotzky | License: Das Neue Frankfurt, 1930, Heft 2/3, S. 46 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Grundriss des Kindergartenentwurfs*
 

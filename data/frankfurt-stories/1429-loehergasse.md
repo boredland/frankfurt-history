@@ -27,19 +27,19 @@ Reiffenstein beschreibt diese hölzernen Häuser als „ein äußerst charakteri
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Löhergasse 12, Haus Rote Badstube mit dem Oberpförtchen, 1865, aquarellierte Bleistiftzeichnung, HMF RS0076</p>](../images/RS0076_png_1eb9921b484cc1fcf3a36cd04f8a6ffc_original.jpg)
+![<p>Carl Theodor Reiffenstein, Löhergasse 12, Haus Rote Badstube mit dem Oberpförtchen, 1865, aquarellierte Bleistiftzeichnung, HMF RS0076</p>](../images/RS0076_png_1eb9921b484cc1fcf3a36cd04f8a6ffc_medium.jpg)
 *1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Löhergasse 12, Haus Rote Badstube mit dem Oberpförtchen, 1865, aquarellierte Bleistiftzeichnung, HMF RS0076</p>*
 
-![<p>Carl Theodor Reiffenstein, Blick in die Löhergasse, 1874, aquarellierte Bleistiftzeichnung, HMF RS0053</p>](../images/RS0053_png_ffc42b4877f280e06ad646d3cfd19012_original.jpg)
+![<p>Carl Theodor Reiffenstein, Blick in die Löhergasse, 1874, aquarellierte Bleistiftzeichnung, HMF RS0053</p>](../images/RS0053_png_ffc42b4877f280e06ad646d3cfd19012_medium.jpg)
 *1874 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Blick in die Löhergasse, 1874, aquarellierte Bleistiftzeichnung, HMF RS0053</p>*
 
-![<p>Carl Theodor Reiffenstein, Löhergasse 47, 1878/1879, aquarellierte Bleistiftzeichnung, HMF RS0212</p>](../images/RS0212_png_78fbc2d03a950defb6684e35e151fe55_original.jpg)
+![<p>Carl Theodor Reiffenstein, Löhergasse 47, 1878/1879, aquarellierte Bleistiftzeichnung, HMF RS0212</p>](../images/RS0212_png_78fbc2d03a950defb6684e35e151fe55_medium.jpg)
 *1878/1879 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Löhergasse 47, 1878/1879, aquarellierte Bleistiftzeichnung, HMF RS0212</p>*
 
-![<p>Carl Theodor Reiffenstein, Löhergasse, Ausgang zu einer Mainpforte, 1893, aquarellierte Bleistiftzeichnung, HMF RS0230</p>](../images/RS0230_png_2b718dc017c688cb7270f429d28ea4f0_original.jpg)
+![<p>Carl Theodor Reiffenstein, Löhergasse, Ausgang zu einer Mainpforte, 1893, aquarellierte Bleistiftzeichnung, HMF RS0230</p>](../images/RS0230_png_2b718dc017c688cb7270f429d28ea4f0_medium.jpg)
 *1893 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Löhergasse, Ausgang zu einer Mainpforte, 1893, aquarellierte Bleistiftzeichnung, HMF RS0230</p>*
 
-![<p>Carl Theodor Reiffenstein, Löhergasse 44, Blick aus dem 2. Stock über den Main zum Dom, 1861/1874, aquarellierte Bleistiftzeichnung, HMF RS0052</p>](../images/RS0052_png_6d7b569066aedb66b77699454e0494d1_original.jpg)
+![<p>Carl Theodor Reiffenstein, Löhergasse 44, Blick aus dem 2. Stock über den Main zum Dom, 1861/1874, aquarellierte Bleistiftzeichnung, HMF RS0052</p>](../images/RS0052_png_6d7b569066aedb66b77699454e0494d1_medium.jpg)
 *1861/1874 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Löhergasse 44, Blick aus dem 2. Stock über den Main zum Dom, 1861/1874, aquarellierte Bleistiftzeichnung, HMF RS0052</p>*
 
 

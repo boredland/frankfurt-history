@@ -14,12 +14,12 @@ filters:
 
 *Feuerwehrstraße 1*
 
-![](../images/c5297ca38428e969630fe61f6ff6ef4a_original.jpg)
+![](../images/c5297ca38428e969630fe61f6ff6ef4a_medium.jpg)
 
 Hier befand sich die 1938 eingeweihte Wehrmachtskaserne einer Nachrichteneinheit. Nach dem Zweiten Weltkrieg wurde die Kaserne von der US Army genutzt. Heute befindet sich hier das Brand- und Katastrophenschutzzentrum der Frankfurter Feuerwehr. Einige Kasernengebäude stehen leer.
 
 ## Gallery
 
-![Ehemaliges Kasernengebäude](../images/Kasernenge_f6883ecc726d61d0f0a36bd16d122bb4_original.jpg)
+![Ehemaliges Kasernengebäude](../images/Kasernenge_f6883ecc726d61d0f0a36bd16d122bb4_medium.jpg)
 *2023 — Description: Ehemaliges Kasernengebäude*
 

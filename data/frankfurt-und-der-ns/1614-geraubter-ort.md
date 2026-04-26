@@ -14,7 +14,7 @@ filters:
 
 *Bockenheimer Landstraße 102*
 
-![Bockenheimer Landstraße 102](../images/31518a533772d3b06ce67adde79da27f_original.jpg)
+![Bockenheimer Landstraße 102](../images/31518a533772d3b06ce67adde79da27f_medium.jpg)
 *License: ISG | Description: Bockenheimer Landstraße 102*
 
 Mit Kaufvertrag vom 5. August 1937 erwarb die Stadt das unbebaute Grundstück mit 2.399 Quadratmetern von Dr. phil. A. Sondheimer. Der Kaufpreis betrug 85.000 Reichsmark. Die Liegenschaft sollte als Reichsarboretum genutzt werden.
@@ -23,6 +23,6 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
-![Bockenheimer Landstraße 102](../images/Bockenheim_efa6576ac39155b6cb8ed1442ea573cf_original.jpg)
+![Bockenheimer Landstraße 102](../images/Bockenheim_efa6576ac39155b6cb8ed1442ea573cf_medium.jpg)
 *License: ISG | Description: Bockenheimer Landstraße 102*
 

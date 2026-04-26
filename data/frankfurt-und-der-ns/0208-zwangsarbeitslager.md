@@ -14,13 +14,13 @@ filters:
 
 *Franziusstraße 15*
 
-![<p>Zwangsarbeitslager</p>](../images/69724ac276a7db6be1c7efbbeac26efa_original.jpg)
+![<p>Zwangsarbeitslager</p>](../images/69724ac276a7db6be1c7efbbeac26efa_medium.jpg)
 *1912 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29486 | Description: <p>Zwangsarbeitslager</p>*
 
 Die Frankfurter Mühlenwerke AG betrieb in der Franziusstraße 15 ein Lager für Zivilarbeiter.
 
 ## Gallery
 
-![<p>Zwangsarbeitslager</p>](../images/69724ac276a7db6be1c7efbbeac26efa_original.jpg)
+![<p>Zwangsarbeitslager</p>](../images/69724ac276a7db6be1c7efbbeac26efa_medium.jpg)
 *1912 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29486 | Description: <p>Zwangsarbeitslager</p>*
 

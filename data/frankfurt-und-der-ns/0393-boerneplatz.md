@@ -10,13 +10,13 @@ filters:
 
 # Börneplatz
 
-![<p><span class="tab2">Foto der Synagoge am Börneplatz</span></p>](../images/48e6e9b8e308e3e64b232579c3eda8ae_original.jpg)
+![<p><span class="tab2">Foto der Synagoge am Börneplatz</span></p>](../images/48e6e9b8e308e3e64b232579c3eda8ae_medium.jpg)
 *1939 — Author: Fred Kochmann | License: HMF, Ph03821b | Description: <p><span class="tab2">Foto der Synagoge am Börneplatz</span></p>*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![<p><span class="tab2">Foto der Synagoge am Börneplatz</span></p>](../images/48e6e9b8e308e3e64b232579c3eda8ae_original.jpg)
+![<p><span class="tab2">Foto der Synagoge am Börneplatz</span></p>](../images/48e6e9b8e308e3e64b232579c3eda8ae_medium.jpg)
 *1939 — Author: Fred Kochmann | License: HMF, Ph03821b | Description: <p><span class="tab2">Foto der Synagoge am Börneplatz</span></p>*
 

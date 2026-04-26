@@ -15,7 +15,7 @@ filters:
 
 *Buchgasse 11a*
 
-![Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Altstadt](../images/042f8c17e764e770fdf6ded195947976_original.jpg)
+![Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Altstadt](../images/042f8c17e764e770fdf6ded195947976_medium.jpg)
 *1910 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2427 | Description: Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Altstadt*
 
 Ein Blick in das Adressbuch von 1935 zeigt, dass hier insgesamt fünf nationalsozialistischer Organisationen ihre Ortsgruppe hatten: die Nationalsozialistische Deutsche Arbeiterpartei (NSDAP), die der Frauenschaft der NSDAP, die Nationalsozialistische Volkswohlfahrt e.V. (NSV), die Nationalsozialistische Betriebszellenorganisation (NSBO) und die Nationalsozialistische Handwerks-, Handels- und Gewerbeorganisation (NS-Hago).
@@ -24,6 +24,6 @@ Ein Blick in das Adressbuch von 1935 zeigt, dass hier insgesamt fünf nationalso
 
 ## Gallery
 
-![Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Altstadt](../images/042f8c17e764e770fdf6ded195947976_original.jpg)
+![Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Altstadt](../images/042f8c17e764e770fdf6ded195947976_medium.jpg)
 *1910 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2427 | Description: Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Altstadt*
 

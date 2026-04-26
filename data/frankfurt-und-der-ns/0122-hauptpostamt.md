@@ -15,7 +15,7 @@ filters:
 
 *Zeil 106-110*
 
-![Foto des Hauptpostamtes](../images/60e79eeee0ff0278e4629ac517f8ce24_original.jpg)
+![Foto des Hauptpostamtes](../images/60e79eeee0ff0278e4629ac517f8ce24_medium.jpg)
 *1942 — Author: Fred Kochmann | License: HMF Ph00665 | Description: Foto des Hauptpostamtes*
 
 Im Hauptpostamt gab es ein heimliches Postfach, mit dem die Gestapo unauffällig Kontakt zu ihren V-Leuten und Spitzeln halten konnte. Über dieses Postfach wurden Informationen ausgetauscht, die dazu führten, dass viele dem Nationalsozialismus kritisch gegenüberstehende Menschen entdeckt, verhaftet und zum Teil auch deportiert wurden.
@@ -24,6 +24,6 @@ Im Hauptpostamt gab es ein heimliches Postfach, mit dem die Gestapo unauffällig
 
 ## Gallery
 
-![Foto des Hauptpostamtes](../images/60e79eeee0ff0278e4629ac517f8ce24_original.jpg)
+![Foto des Hauptpostamtes](../images/60e79eeee0ff0278e4629ac517f8ce24_medium.jpg)
 *1942 — Author: Fred Kochmann | License: HMF Ph00665 | Description: Foto des Hauptpostamtes*
 

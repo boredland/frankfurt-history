@@ -14,7 +14,7 @@ filters:
 
 *Fontanestraße 8*
 
-![Luftaufnahme der Wohnhausgruppe Hügelstraße.](../images/19ece140e20c1149ba86d0bd2e8292c7_original.jpg)
+![Luftaufnahme der Wohnhausgruppe Hügelstraße.](../images/19ece140e20c1149ba86d0bd2e8292c7_medium.jpg)
 *Juni 1929 — Author: Hugo Junkers Luftbild | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Luftaufnahme der Wohnhausgruppe Hügelstraße.*
 
 Die architektonisch vielgestaltige Wohnhausgruppe an der Hügelstraße wurde für genossenschaftliche Wohnungsformen entwickelt, mit drei beteiligten Baugesellschaften. Die KOMBA errichtete 1926 nach Plänen von Franz Roeckle einen geschlossenen Baublock mit sechs 2-Zimmer-Wohnungen für wohnungslose Bankangestellte an der Jakob-Schiff-Straße und 1929 59 zweigeschossige Einfamilienhäuser entlang der Fontanestraße. Besonders markant ist die sägezahnförmige Anordnung der Häuser Fontanestraße 15–35, die an das sogenannte Zickzackhausen in Niederrad erinnert und in den 1950er Jahren im Stile der Zeit baulich fortgeführt wurde. Parallel dazu baute die GAGFAH nach Entwürfen von Ludwig Bernoully Zeilen mit 51 Einfamilienhäusern sowie mehrere Mehrfamilienhäuser mit insgesamt 130 Wohnungen. Östlich davon realisierte die Südwestdeutsche A.-G. für Kleinwohnungsbau die von Gustav Schaupp entworfene SÜWAG-Gruppe mit 73 Wohnungen und großzügigen Grünflächen.
@@ -77,6 +77,6 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
-![Luftaufnahme der Wohnhausgruppe Hügelstraße.](../images/isg_ffm_s7_59216d80099853dc38a52c3a14e4d6c6_original.jpg)
+![Luftaufnahme der Wohnhausgruppe Hügelstraße.](../images/isg_ffm_s7_59216d80099853dc38a52c3a14e4d6c6_medium.jpg)
 *Juni 1929 — Author: Hugo Junkers Luftbild | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Luftaufnahme der Wohnhausgruppe Hügelstraße.*
 

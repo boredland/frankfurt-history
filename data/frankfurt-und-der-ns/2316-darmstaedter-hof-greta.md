@@ -14,7 +14,7 @@ filters:
 
 *An der Walkmühle 1*
 
-![Darmstädter Hof, Seitenansicht](../images/9cf3e28a271e462c7577150dfe22d0d2_original.jpg)
+![Darmstädter Hof, Seitenansicht](../images/9cf3e28a271e462c7577150dfe22d0d2_medium.jpg)
 *2026 — Author: Peter Brosche | License: Privat | Description: Darmstädter Hof, Seitenansicht*
 
 Unterkunft für Zwangsarbeitende
@@ -49,7 +49,7 @@ Ab dem 1.August 1972 gehörte Nieder-Eschbach als Ortsbezirk 15 zu Frankfurt. Di
 
 ## Gallery
 
-![Darmstädter Hof, Seitenansicht](../images/Darmstädt_923dfa2a0648a52ee2498b877df78eae_original.jpg)
+![Darmstädter Hof, Seitenansicht](../images/Darmstädt_923dfa2a0648a52ee2498b877df78eae_medium.jpg)
 *2026 — Author: Peter Brosche | License: Privat | Description: Darmstädter Hof, Seitenansicht*
 
 ![Blick in den Festsaal unter dem Dach.](../images/Vorhöfer__e2c2a3d518e3f670eb58151b85d148c6_original.jpg)

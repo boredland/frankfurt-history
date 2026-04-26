@@ -12,7 +12,7 @@ filters:
 
 *Gebäude von Fritz Epstein*
 
-![](../images/516126520f7e8bc7c439c394400c18f3_original.jpg)
+![](../images/516126520f7e8bc7c439c394400c18f3_medium.jpg)
 *2024 — Author: Moritz Bernoully | License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 
 Einfamilienhaus aus dem Jahr 1929 in der Dehnhardtstraße 24 und 26. Das Haus ist in der Werkliste Fritz Epsteins als Einfamilienhaus vermerkt. Warum es heute aufgeteilt ist und wann das geschah, ist unklar.
@@ -27,7 +27,7 @@ Der Architekt Fritz Epstein hat in Frankfurt etwa 150 Gebäude geplant, gebaut o
 
 ## Gallery
 
-![](../images/20241004_B_2de7974c2f53f5fae26457babbc78c1d_original.jpg)
+![](../images/20241004_B_2de7974c2f53f5fae26457babbc78c1d_medium.jpg)
 *2024 — Author: Moritz Bernoully | License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 
 

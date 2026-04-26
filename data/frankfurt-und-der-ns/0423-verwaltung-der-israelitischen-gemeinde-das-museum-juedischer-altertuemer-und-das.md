@@ -15,7 +15,7 @@ filters:
 
 *Fahrgasse 146*
 
-![Fahrgasse 146](../images/1ad3e4b62313ee098fa086edb8747783_original.jpg)
+![Fahrgasse 146](../images/1ad3e4b62313ee098fa086edb8747783_medium.jpg)
 *ca. 1900 — Author: unbekannt | License: HMF, Ph00758 | Description: Fahrgasse 146*
 
 An dieser Stelle befand sich das Museum Jüdischer Altertümer. Es wurde 1922 im früheren Geschäftshaus des Frankfurter Bankhauses M.A. Rothschild & Söhne eröffnet. Hier hatten auch die Verwaltung der Israelitischen Gemeinde und das Rothschild Museum ihren Sitz. Während der Novemberpogrome wurden sämtliche Einrichtungen überfallen und verwüstet. Mitarbeiter des Stadtgeschichtlichen Museums (wie das Historische Museum seit 1934 hieß) holten unter der Leitung des Direktors Dr. Ernstotto zu Solms-Laubach über 1.000 Gegenstände des religiösen Lebens (Judaica) aus dem Museum Jüdischer Altertümer und aus den Frankfurter Synagogen. In den Akten wurde dieser Raub als „Sicherstellung“ bezeichnet. 
@@ -31,6 +31,6 @@ An dieser Stelle befand sich das Museum Jüdischer Altertümer. Es wurde 1922 im
 
 ## Gallery
 
-![Fahrgasse 146](../images/1ad3e4b62313ee098fa086edb8747783_original.jpg)
+![Fahrgasse 146](../images/1ad3e4b62313ee098fa086edb8747783_medium.jpg)
 *ca. 1900 — Author: unbekannt | License: HMF, Ph00758 | Description: Fahrgasse 146*
 

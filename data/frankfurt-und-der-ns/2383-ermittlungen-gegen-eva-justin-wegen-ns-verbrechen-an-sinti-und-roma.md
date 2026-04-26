@@ -14,7 +14,7 @@ filters:
 
 *Landgericht Frankfurt am Main*
 
-![Eva Justin im Jahr 1946. ISG FFM S7P Nr. 7326.](../images/155514aea7ffcd2be0d81d357d1dd0b5_original.jpg)
+![Eva Justin im Jahr 1946. ISG FFM S7P Nr. 7326.](../images/155514aea7ffcd2be0d81d357d1dd0b5_medium.jpg)
 *1946 — License: Institut für Stadtgeschichte Frankfurt | Description: Eva Justin im Jahr 1946. ISG FFM S7P Nr. 7326.*
 
 Zwischen 1948 und 1960 führte die Staatsanwaltschaft Frankfurt am Main mehrere Ermittlungsverfahren zur NS-Verfolgung von Sinti und Roma durch. Ab 1958 wurde auch gegen Eva Justin, Mitarbeiterin der „Rassenhygienischen Forschungsstelle“, ermittelt.
@@ -41,10 +41,10 @@ Dennoch kann der „Fall Justin“ als exemplarisch für den Umgang der bundesde
 
 ## Gallery
 
-![Eva Justin im Jahr 1946. ISG FFM S7P Nr. 7326.](../images/isg_ffm_s7_a81a60dbf5a0efd010b5a09b08c51dca_original.jpg)
+![Eva Justin im Jahr 1946. ISG FFM S7P Nr. 7326.](../images/isg_ffm_s7_a81a60dbf5a0efd010b5a09b08c51dca_medium.jpg)
 *1946 — License: Institut für Stadtgeschichte Frankfurt | Description: Eva Justin im Jahr 1946. ISG FFM S7P Nr. 7326.*
 
-![Eva Justin im Jahr 1964. ISG FFM S7P Nr. 7327.](../images/isg_ffm_s7_b9ad1503c792af992763a93d8e066714_original.jpg)
+![Eva Justin im Jahr 1964. ISG FFM S7P Nr. 7327.](../images/isg_ffm_s7_b9ad1503c792af992763a93d8e066714_medium.jpg)
 *1964 — License: Institut für Stadtgeschichte Frankfurt | Description: Eva Justin im Jahr 1964. ISG FFM S7P Nr. 7327.*
 
 

@@ -15,7 +15,7 @@ filters:
 
 *Friedrich-Ebert-Anlage 5-11*
 
-![Foto des Polizeipräsidiums und der Gestapo Staatspolizeitstelle](../images/da657d6e351eafeccf8d27e3dda3a6ce_original.jpg)
+![Foto des Polizeipräsidiums und der Gestapo Staatspolizeitstelle](../images/da657d6e351eafeccf8d27e3dda3a6ce_medium.jpg)
 *1933 — Author: Hannah Reeck | License: HMF, Ph03225a | Description: Foto des Polizeipräsidiums und der Gestapo Staatspolizeitstelle*
 
 An der Hohenzollernanlage 5-11 (heute: Friedrich-Ebert-Anlage) befand sich bis 2002 das Polizeipräsidium. 1933 wurde die Polizei „gleichgeschaltet“: Wer gegen die Nationalsozialist*innen war, wurde entlassen – ohne Anspruch auf eine Rente. Der Frankfurter Polizeipräsident Steinberg wurde bereits am 30. Januar 1933 seines Amtes enthoben. Auch der Leiter der politischen Polizei, Kriminalpolizeirat Ferdinand Mührdel, musste um seinen Posten fürchten. Er war während der Weimarer Republik unbeirrt gegen Nationalsozialist*innen vorgegangen und wurde immer wieder bedroht. Im April 1933 kam Mührdel wegen angeblicher Bestechung und anderer Vergehen in Untersuchungshaft. In einem Schauprozess im Oktober 1933 wurde er schließlich zu sieben Monaten Haft verurteilt. Nach seiner Entlassung setzte die Gestapo seine Überwachung fort. Außerdem wurde er aus dem Staatsdienst entlassen.
@@ -34,6 +34,6 @@ Im Jahr 1936 erfolgte der Umzug in die Bürgerstraße 22 (heute Wilhelm-Leuscher
 
 ## Gallery
 
-![Foto des Polizeipräsidiums und der Gestapo Staatspolizeitstelle](../images/da657d6e351eafeccf8d27e3dda3a6ce_original.jpg)
+![Foto des Polizeipräsidiums und der Gestapo Staatspolizeitstelle](../images/da657d6e351eafeccf8d27e3dda3a6ce_medium.jpg)
 *1933 — Author: Hannah Reeck | License: HMF, Ph03225a | Description: Foto des Polizeipräsidiums und der Gestapo Staatspolizeitstelle*
 

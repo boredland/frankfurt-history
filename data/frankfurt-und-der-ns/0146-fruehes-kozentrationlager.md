@@ -16,7 +16,7 @@ filters:
 
 *Ederstraße 12*
 
-![Foto eines frühen Konzentrationslagers im alten Bockenheimer Krankenhaus](../images/435423696b749b039f6243ec126e6a22_original.jpg)
+![Foto eines frühen Konzentrationslagers im alten Bockenheimer Krankenhaus](../images/435423696b749b039f6243ec126e6a22_medium.jpg)
 *ca. 1932 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-26829 | Description: Foto eines frühen Konzentrationslagers im alten Bockenheimer Krankenhaus*
 
 Im alten Bockenheimer Krankenhaus befand sich ein Konzentrationslager, das vermutlich im Sommer 1933 von der Sturmabteilung (SA) der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) betrieben wurde. Ziel dieser frühen Konzentrationslager war es, die politische Opposition zum Nationalsozialismus zu zerschlagen.
@@ -25,6 +25,6 @@ Im alten Bockenheimer Krankenhaus befand sich ein Konzentrationslager, das vermu
 
 ## Gallery
 
-![Foto eines frühen Konzentrationslagers im alten Bockenheimer Krankenhaus](../images/435423696b749b039f6243ec126e6a22_original.jpg)
+![Foto eines frühen Konzentrationslagers im alten Bockenheimer Krankenhaus](../images/435423696b749b039f6243ec126e6a22_medium.jpg)
 *ca. 1932 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-26829 | Description: Foto eines frühen Konzentrationslagers im alten Bockenheimer Krankenhaus*
 

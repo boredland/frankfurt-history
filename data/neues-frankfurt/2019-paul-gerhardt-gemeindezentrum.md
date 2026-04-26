@@ -14,7 +14,7 @@ filters:
 
 *Gerauer Straße 52*
 
-![Die Paul-Gerhardt-Kirche im Rohbau](../images/243f03623da717ac469614f0b838bc97_original.jpg)
+![Die Paul-Gerhardt-Kirche im Rohbau](../images/243f03623da717ac469614f0b838bc97_medium.jpg)
 *1930 — Author: Unbekannt | License: Bauwelt, 1930, Heft 41, Seite 16 | Description: Die Paul-Gerhardt-Kirche im Rohbau*
 
 Im Jahr 1900 wurde Niederrad ein Stadtteil Frankfurts. Erst dreißig Jahre später erhielt der Stadtteil ein eigenes evangelisches Gotteshaus, das nach dem lutherischen Theologen und Kirchenlieddichter Paul Gerhardt (1607–1676) benannt wurde. Der kubische Bau beherbergte auf einem rechteckigen Grundriss im Sockelgeschoss eine Vorhalle und zwei Gemeindesäle. Darüber im Saalgeschoss befand sich der Altarbereich im Osten und eine Bühne im Westen. Im angebauten Turmflügel gab es einen Jugendraum. Nach der Zerstörung im Zweiten Weltkrieg wurde das Gemeindezentrum 1950 wiederaufgebaut und 1952 neu geweiht. Die Bühne wird heute auch für Theateraufführungen genutzt. 
@@ -34,6 +34,6 @@ Philipp Sturm: Das moderne Gemeindehaus der Paul-Gerhardt-Gemeinde und sein Arch
 
 ## Gallery
 
-![Die Paul-Gerhardt-Kirche im Rohbau](../images/Paul-Gerha_da332d3d99fa27c6543e6658e51016d5_original.jpg)
+![Die Paul-Gerhardt-Kirche im Rohbau](../images/Paul-Gerha_da332d3d99fa27c6543e6658e51016d5_medium.jpg)
 *1930 — Author: Unbekannt | License: Bauwelt, 1930, Heft 41, Seite 16 | Description: Die Paul-Gerhardt-Kirche im Rohbau*
 

@@ -21,7 +21,7 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
-![<p>Heinz Woelcke, Bücherverbrennung auf dem Römerberg, Öl auf Leinwand, 1933, HMF B1614</p>](../images/8556216263cbb08d7db49257c0f2e2c0_original.jpg)
+![<p>Heinz Woelcke, Bücherverbrennung auf dem Römerberg, Öl auf Leinwand, 1933, HMF B1614</p>](../images/8556216263cbb08d7db49257c0f2e2c0_medium.jpg)
 *1933 — Author: Heinz Woelcke | Description: <p>Heinz Woelcke, Bücherverbrennung auf dem Römerberg, Öl auf Leinwand, 1933, HMF B1614</p>*
 
 

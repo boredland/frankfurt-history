@@ -14,7 +14,7 @@ filters:
 
 *Orber Straße 4-6*
 
-![Bildpostkarte mit dem Werk Mayfarth in der Mainkur](../images/baf0717772727e0b31862785bc48676b_original.jpg)
+![Bildpostkarte mit dem Werk Mayfarth in der Mainkur](../images/baf0717772727e0b31862785bc48676b_medium.jpg)
 *o.D. — Author: unbekannt | License: HMF / Sammlung Church C80387 | Description: Bildpostkarte mit dem Werk Mayfarth in der Mainkur*
 
 Zwangsarbeitsbetrieb
@@ -47,6 +47,6 @@ Lutz Becht vermerkt in seiner Aufstellung zu Zwangsarbeiter*innenlagern in Frank
 
 ## Gallery
 
-![Bildpostkarte mit dem Werk Mayfarth in der Mainkur](../images/574afe1affd94c4fbc1eb183542f0187_original.jpg)
+![Bildpostkarte mit dem Werk Mayfarth in der Mainkur](../images/574afe1affd94c4fbc1eb183542f0187_medium.jpg)
 *o.D. — Author: unbekannt | License: HMF / Sammlung Church C80387 | Description: Bildpostkarte mit dem Werk Mayfarth in der Mainkur*
 

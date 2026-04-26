@@ -34,10 +34,10 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 ![<p>Stolperstein für Anna Engler</p>](../images/Engler_Sto_a2e8b1c80af40cd7066d81083e443efe_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Stolperstein für Anna Engler</p>*
 
-![<p>Frieda und Paul Engler; Engler_Albert_004</p>](../images/Engler_Alb_02ec8cf94cbe47cf09576431036ee40c_original.jpg)
+![<p>Frieda und Paul Engler; Engler_Albert_004</p>](../images/Engler_Alb_02ec8cf94cbe47cf09576431036ee40c_medium.jpg)
 *ca. 1933 — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Frieda und Paul Engler; Engler_Albert_004</p>*
 
-![<p>Verkleidete Kinder für ein Theaterstück; Engler_Albert_007</p>](../images/Engler_Alb_bff3e5d8cbc2a94f9863b7c406c7fbbc_original.jpg)
+![<p>Verkleidete Kinder für ein Theaterstück; Engler_Albert_007</p>](../images/Engler_Alb_bff3e5d8cbc2a94f9863b7c406c7fbbc_medium.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Verkleidete Kinder für ein Theaterstück; Engler_Albert_007</p>*
 
 

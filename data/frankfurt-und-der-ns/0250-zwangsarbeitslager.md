@@ -15,14 +15,14 @@ filters:
 
 *Mainzer Landstraße 218*
 
-![Vorderansicht und Schnitt des Geschäftshauses an der Mainzer Landstraße 218](../images/5bedc7f9e3226cf47e20c7aef79106c7_original.jpg)
+![Vorderansicht und Schnitt des Geschäftshauses an der Mainzer Landstraße 218](../images/5bedc7f9e3226cf47e20c7aef79106c7_medium.jpg)
 *ca. 1906 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-2 Nr. 836-2 | Description: Vorderansicht und Schnitt des Geschäftshauses an der Mainzer Landstraße 218*
 
 Hier befand sich die Felina Miederfabrik Greiling & Co. In ihr mussten 20 sowjetische Arbeiter*innen Zwangsarbeit leisten. Sie waren vermutlich auf dem Firmengelände untergebracht.
 
 ## Gallery
 
-![Vorderansicht und Schnitt des Geschäftshauses an der Mainzer Landstraße 218](../images/5bedc7f9e3226cf47e20c7aef79106c7_original.jpg)
+![Vorderansicht und Schnitt des Geschäftshauses an der Mainzer Landstraße 218](../images/5bedc7f9e3226cf47e20c7aef79106c7_medium.jpg)
 *ca. 1906 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-2 Nr. 836-2 | Description: Vorderansicht und Schnitt des Geschäftshauses an der Mainzer Landstraße 218*
 
 

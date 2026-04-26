@@ -15,7 +15,7 @@ filters:
 
 *Uhlandstraße 4*
 
-![Bildpostkarte mit Außen- und Innenansicht der Gaststätte Beck](../images/de2bec38da67e5fd57f95cb54a592016_original.jpg)
+![Bildpostkarte mit Außen- und Innenansicht der Gaststätte Beck](../images/de2bec38da67e5fd57f95cb54a592016_medium.jpg)
 *1942 — Author: unbekannt | License: HMF / Sammlung Church C80392 | Description: Bildpostkarte mit Außen- und Innenansicht der Gaststätte Beck*
 
 In der Uhlandstraße 4 wohnten 1943 und 1944 30 Zwangsarbeiter und 37 Zwangsarbeiterinnen, die von der Firma Adam Hettler eingesetzt wurden. Aus welchem Land sie kamen und ob sie überlebten, ist nicht überliefert.
@@ -24,7 +24,7 @@ In der Uhlandstraße 4 wohnten 1943 und 1944 30 Zwangsarbeiter und 37 Zwangsarbe
 
 ## Gallery
 
-![Bildpostkarte mit Außen- und Innenansicht der Gaststätte Beck](../images/de2bec38da67e5fd57f95cb54a592016_original.jpg)
+![Bildpostkarte mit Außen- und Innenansicht der Gaststätte Beck](../images/de2bec38da67e5fd57f95cb54a592016_medium.jpg)
 *1942 — Author: unbekannt | License: HMF / Sammlung Church C80392 | Description: Bildpostkarte mit Außen- und Innenansicht der Gaststätte Beck*
 
 

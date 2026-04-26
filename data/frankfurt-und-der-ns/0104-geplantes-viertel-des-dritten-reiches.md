@@ -15,7 +15,7 @@ filters:
 
 *Untermainkai 27*
 
-![Architekturmodell eines Bau­projekts mit dem Namen „Vier­tel des Drit­ten Rei­ches“](../images/7f19f3643dab19718dba685c79c7b7bd_original.jpg)
+![Architekturmodell eines Bau­projekts mit dem Namen „Vier­tel des Drit­ten Rei­ches“](../images/7f19f3643dab19718dba685c79c7b7bd_medium.jpg)
 *1937 — Author: Hugo Schmölz | License: HMF C35090 | Description: Architekturmodell eines Bau­projekts mit dem Namen „Vier­tel des Drit­ten Rei­ches“*
 
 Auf dem Gelände des Gewerkschaftshauses plante die Deutsche Arbeitsfront (DAF) 1935 einen gewaltigen Erweiterungsbau. Er war Teil eines großen Bauprojekts mit dem Namen „Viertel des Dritten Reiches“, das am nördlichen Mainufer entstehen sollte. Dazu sollten auch ein „Haus des deutschen Handwerks“ und ein Gauhaus gehören. Kulturell und historisch wichtige Gebäude wie das Gewerkschaftshaus und das Rothschildpalais sollten dafür abgerissen werden. Der Entwurf stammte vom Architekten Clemens Klotz, der für die DAF arbeitete. Letztlich wurde das Projekt jedoch nie begonnen.
@@ -24,6 +24,6 @@ Auf dem Gelände des Gewerkschaftshauses plante die Deutsche Arbeitsfront (DAF) 
 
 ## Gallery
 
-![Architekturmodell eines Bau­projekts mit dem Namen „Vier­tel des Drit­ten Rei­ches“](../images/7f19f3643dab19718dba685c79c7b7bd_original.jpg)
+![Architekturmodell eines Bau­projekts mit dem Namen „Vier­tel des Drit­ten Rei­ches“](../images/7f19f3643dab19718dba685c79c7b7bd_medium.jpg)
 *1937 — Author: Hugo Schmölz | License: HMF C35090 | Description: Architekturmodell eines Bau­projekts mit dem Namen „Vier­tel des Drit­ten Rei­ches“*
 

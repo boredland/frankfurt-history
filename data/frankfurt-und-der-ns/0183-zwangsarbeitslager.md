@@ -15,7 +15,7 @@ filters:
 
 *Buchrainstraße 18*
 
-![Zwangsarbeitslager, Buchrainstraße 18](../images/dd738be9322cc0a9a2f88a62aa68b6ee_original.jpg)
+![Zwangsarbeitslager, Buchrainstraße 18](../images/dd738be9322cc0a9a2f88a62aa68b6ee_medium.jpg)
 *2002 — Author: Claus Graubner | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2015-913 | Description: Zwangsarbeitslager, Buchrainstraße 18*
 
 Die Firma Schweißapparate Peter Görres setzte Zwangsarbeiter*innen ein, die in einem Lager in der Gruneliusstraße untergebracht waren. Es gibt allerdings Hinweise darauf, dass auch auf dem Werksgelände in der Buchrainstraße Zwangsarbeitskräfte wohnten. Die Polizei meldete 1946, dass dort vom 19. Januar 1944 bis Januar 1945 ein Zivilarbeiter aus Frankreich registriert war. Dies geht aus einem Dokument hervor, das in den Arolsen Archives vorliegt.
@@ -24,7 +24,7 @@ Die Firma Schweißapparate Peter Görres setzte Zwangsarbeiter*innen ein, die in
 
 ## Gallery
 
-![Zwangsarbeitslager, Buchrainstraße 18](../images/dd738be9322cc0a9a2f88a62aa68b6ee_original.jpg)
+![Zwangsarbeitslager, Buchrainstraße 18](../images/dd738be9322cc0a9a2f88a62aa68b6ee_medium.jpg)
 *2002 — Author: Claus Graubner | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2015-913 | Description: Zwangsarbeitslager, Buchrainstraße 18*
 
 

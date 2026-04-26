@@ -44,7 +44,7 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 ![Polizeiliche Anordnung der Vorbeugungshaft für Karl Kipp](../images/Berliner_S_40e413d538a54cb065ab0045ee0d3c08_original.jpg)
 *unbekannt — Author: HHStAW | License: HHStAW | Description: Polizeiliche Anordnung der Vorbeugungshaft für Karl Kipp*
 
-![](../images/0d3205913720e1606dd012f93cf352b9_original.jpg)
+![](../images/0d3205913720e1606dd012f93cf352b9_medium.jpg)
 *Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 
 

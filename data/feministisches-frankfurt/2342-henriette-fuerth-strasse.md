@@ -12,7 +12,7 @@ filters:
 
 *Straßennamen nach Frauen benannt*
 
-![Henriette Fürth Straße](../images/431c46f0faebbb9b374e7fb2b68a2f43_original.jpg)
+![Henriette Fürth Straße](../images/431c46f0faebbb9b374e7fb2b68a2f43_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Henriette Fürth Straße*
 
 Diese Straße ist nach Henriette Fürth benannt, die sich in der jüdischen und proletarischen Frauenbewegung in Frankfurt engagierte und eine Brücke zwischen beiden schuf.
@@ -23,6 +23,6 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
-![Henriette Fürth Straße](../images/Henriette _24d64160155b455cd416dd7e3e7a9faa_original.jpg)
+![Henriette Fürth Straße](../images/Henriette _24d64160155b455cd416dd7e3e7a9faa_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Henriette Fürth Straße*
 

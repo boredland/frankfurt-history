@@ -18,7 +18,7 @@ filters:
 
 Frankfurter Mobilitätsorte
 
-![Johann Michael Eben (1716-1761), Palais Thurn und Taxis, 19. Jahrhundert, HMF.C01274, gemeinfrei](../images/57ccdf7e9b89ae83805b283f7ff4467d_original.png)
+![Johann Michael Eben (1716-1761), Palais Thurn und Taxis, 19. Jahrhundert, HMF.C01274, gemeinfrei](../images/57ccdf7e9b89ae83805b283f7ff4467d_medium.png)
 *18. Jahrhundert — Author: Johann Michael Eben | License: Gemeinfrei; HMF, Foto: Ursula Seitz Gray | Description: Johann Michael Eben (1716-1761), Palais Thurn und Taxis, 19. Jahrhundert, HMF.C01274, gemeinfrei*
 
 Das Palais Thurn und Taxis wurde bis 1739 von Robert de Cotte im Auftrag der gleichnamigen Familie erbaut. Das prachtvolle Barockgebäude repräsentierte den Wohlstand und die Macht der ursprünglich aus Italien stammenden Familie.
@@ -35,21 +35,21 @@ Die für Reisen genutzte „Fahrpost“ war bis 1841 im Palais Thurn und Taxis u
 
 ## Gallery
 
-![Johann Michael Eben (1716-1761), Palais Thurn und Taxis, 19. Jahrhundert, HMF.C01274, gemeinfrei](../images/C01274_001_ba7c5a7758dc5ccb6c3a8072822568e8_original.jpg)
+![Johann Michael Eben (1716-1761), Palais Thurn und Taxis, 19. Jahrhundert, HMF.C01274, gemeinfrei](../images/C01274_001_ba7c5a7758dc5ccb6c3a8072822568e8_medium.jpg)
 *18. Jahrhundert — Author: Johann Michael Eben | License: Gemeinfrei; HMF, Foto: Ursula Seitz Gray | Description: Johann Michael Eben (1716-1761), Palais Thurn und Taxis, 19. Jahrhundert, HMF.C01274, gemeinfrei*
 
 
 ## Gallery
 
-![Paul Emil Rumpf (1860-1948), Postkutsche bei Regenwetter, um 1879, HMF.C24080, gemeinfrei](../images/C24080_001_5aa6f3944bbaeccc7ffc1d6359f923ab_original.jpg)
+![Paul Emil Rumpf (1860-1948), Postkutsche bei Regenwetter, um 1879, HMF.C24080, gemeinfrei](../images/C24080_001_5aa6f3944bbaeccc7ffc1d6359f923ab_medium.jpg)
 *1879 — Author: Paul Emil Rumpf | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Paul Emil Rumpf (1860-1948), Postkutsche bei Regenwetter, um 1879, HMF.C24080, gemeinfrei*
 
 
 ## Gallery
 
-![Carl Iffland, Große Eschenheimer Straße mit Palais Thurn und Taxis, Frankfurt 1907, HMF.Ph05579](../images/Ph05579_00_20d095bff06c8167b6e5f96112b8b68b_original.jpg)
+![Carl Iffland, Große Eschenheimer Straße mit Palais Thurn und Taxis, Frankfurt 1907, HMF.Ph05579](../images/Ph05579_00_20d095bff06c8167b6e5f96112b8b68b_medium.jpg)
 *1907 — Author: Carl Iffland | License: HMF, Foto: Horst Ziegenfusz | Description: Carl Iffland, Große Eschenheimer Straße mit Palais Thurn und Taxis, Frankfurt 1907, HMF.Ph05579*
 
-![Johann Balthasar Bauer (1811-1883), Die Post im „Roten Haus“ auf der Zeil, um 1830, HMF.N43231, Dauerleihgabe Städel Museum Frankfurt](../images/N43231_001_7011f6e5d8d0c19463733d64cfd59463_original.jpg)
+![Johann Balthasar Bauer (1811-1883), Die Post im „Roten Haus“ auf der Zeil, um 1830, HMF.N43231, Dauerleihgabe Städel Museum Frankfurt](../images/N43231_001_7011f6e5d8d0c19463733d64cfd59463_medium.jpg)
 *Um 1830 — Author: Johann Balthasar Bauer | License: HMF, Dauerleihgabe Städel Museum Frankfurt; Foto: Horst Ziegenfusz | Description: Johann Balthasar Bauer (1811-1883), Die Post im „Roten Haus“ auf der Zeil, um 1830, HMF.N43231, Dauerleihgabe Städel Museum Frankfurt*
 

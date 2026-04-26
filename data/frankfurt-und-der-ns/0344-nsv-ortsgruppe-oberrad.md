@@ -14,7 +14,7 @@ filters:
 
 *Offenbacher Landstraße 281*
 
-![Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Oberrad](../images/dccf594676626b1298bf413978d008de_original.jpg)
+![Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Oberrad](../images/dccf594676626b1298bf413978d008de_medium.jpg)
 *1934 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 2006-1 | Description: Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Oberrad*
 
 NSV Ortsgruppe Oberrad
@@ -25,6 +25,6 @@ Auch die Ortsgruppe Oberrad des Vereins Nationalsozialistische Volkswohlfahrt e.
 
 ## Gallery
 
-![Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Oberrad](../images/dccf594676626b1298bf413978d008de_original.jpg)
+![Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Oberrad](../images/dccf594676626b1298bf413978d008de_medium.jpg)
 *1934 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 2006-1 | Description: Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Oberrad*
 

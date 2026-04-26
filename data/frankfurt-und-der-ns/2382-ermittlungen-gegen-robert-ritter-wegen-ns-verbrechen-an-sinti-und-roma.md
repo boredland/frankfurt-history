@@ -14,7 +14,7 @@ filters:
 
 *Landgericht Frankfurt am Main*
 
-![Robert Ritter um 1947. ISG FFM S7P Nr. 11819.](../images/be02fc1c4848604776546f2ebd66f75b_original.jpg)
+![Robert Ritter um 1947. ISG FFM S7P Nr. 11819.](../images/be02fc1c4848604776546f2ebd66f75b_medium.jpg)
 *ca. 1947 — License: Institut für Stadtgeschichte Frankfurt am Main | Description: Robert Ritter um 1947. ISG FFM S7P Nr. 11819.*
 
 Zwischen 1948 und 1960 ermittelte die Frankfurter Staatsanwaltschaft zur NS-Verfolgung von Sinti und Roma. Das erste Verfahren richtete sich gegen den ehemaligen Leiter der „Rassenhygienischen Forschungsstelle“, Dr. Robert Ritter. Die „Forschungsstelle“ wurde 1936 beim Reichsgesundheitsamt eingerichtet und seine Arbeit diente als pseudowissenschaftliche Grundlage für die Zwangssterilisation und Ermordung von Sinti und Roma.
@@ -31,10 +31,10 @@ So glaubten die Ermittler seiner Behauptung, Ritter habe weder von den Deportati
 
 ## Gallery
 
-![Robert Ritter um 1947. ISG FFM S7P Nr. 11819.](../images/isg_ffm_s7_762f9797c5f6521da270ad077887cc5b_original.jpg)
+![Robert Ritter um 1947. ISG FFM S7P Nr. 11819.](../images/isg_ffm_s7_762f9797c5f6521da270ad077887cc5b_medium.jpg)
 *ca. 1947 — License: Institut für Stadtgeschichte Frankfurt am Main | Description: Robert Ritter um 1947. ISG FFM S7P Nr. 11819.*
 
-![Erfassungskartei der der „Ras­sen­hygie­ni­schen For­schungs­stel­le“ zu Barbara Mebach. Bundesarchiv Berlin, R 165/12.](../images/R_165_12_1_6848f98a255a554f8de25a8eae32a433_original.jpg)
+![Erfassungskartei der der „Ras­sen­hygie­ni­schen For­schungs­stel­le“ zu Barbara Mebach. Bundesarchiv Berlin, R 165/12.](../images/R_165_12_1_6848f98a255a554f8de25a8eae32a433_medium.jpg)
 *1938 — License: Bundesarchiv Berlin | Description: Erfassungskartei der der „Ras­sen­hygie­ni­schen For­schungs­stel­le“ zu Barbara Mebach. Bundesarchiv Berlin, R 165/12.*
 
 

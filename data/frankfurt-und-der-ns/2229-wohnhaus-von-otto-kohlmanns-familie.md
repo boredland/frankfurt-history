@@ -29,10 +29,10 @@ Vor dem Haus der Familie Kohlmann erinnern seit 2025 Stolpersteine an Otto Kohlm
 ![Hier wohnten Otto Kohlmann und ihre Familie von 1913 bis mindestens 1934. Foto: Frauke Steinhäuser, Frankfurt, 2025.](../images/ro├ƒdor_61891274b4c760de4506c2889549e265_original.jpg)
 *2025 — Author: Frauke Steinhäuser | License: CC:BY-NC 4.0 | Description: Hier wohnten Otto Kohlmann und ihre Familie von 1913 bis mindestens 1934. Foto: Frauke Steinhäuser, Frankfurt, 2025.*
 
-![Stolpersteine für Sophie, Karl und Otto Kohlmann vor der Roßdorfer Straße 32, verlegt am 29.10.2025, Foto: Norbert Dräger.](../images/Stolperste_e2070ee78fb4e9dcc53de3aa6a28ea81_original.jpg)
+![Stolpersteine für Sophie, Karl und Otto Kohlmann vor der Roßdorfer Straße 32, verlegt am 29.10.2025, Foto: Norbert Dräger.](../images/Stolperste_e2070ee78fb4e9dcc53de3aa6a28ea81_medium.jpg)
 *Author: Norbert Dräger | License: Norbert Dräger | Description: Stolpersteine für Sophie, Karl und Otto Kohlmann vor der Roßdorfer Straße 32, verlegt am 29.10.2025, Foto: Norbert Dräger.*
 
-![Die Roßdorfer Straße 32 mit den neu verlegten Stolpersteinen am 29.10.2025.](../images/Roßdörf_9aab2b965c8082718f28db9cced22c2c_original.jpg)
+![Die Roßdorfer Straße 32 mit den neu verlegten Stolpersteinen am 29.10.2025.](../images/Roßdörf_9aab2b965c8082718f28db9cced22c2c_medium.jpg)
 *License: gemeinfrei | Description: Die Roßdorfer Straße 32 mit den neu verlegten Stolpersteinen am 29.10.2025.*
 
 

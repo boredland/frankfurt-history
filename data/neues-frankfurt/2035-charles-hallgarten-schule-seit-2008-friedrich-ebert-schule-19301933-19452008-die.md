@@ -14,7 +14,7 @@ filters:
 
 *Am Bornheimer Hang 10*
 
-![Schule am Bornheimer Hang von der Gartenseite aus gesehen](../images/d5e0e6c450a65994ed1b19c53ab9d7af_original.jpg)
+![Schule am Bornheimer Hang von der Gartenseite aus gesehen](../images/d5e0e6c450a65994ed1b19c53ab9d7af_medium.jpg)
 *um 1930 — Author: Paul Wolff | License: Historisches Museum Frankfurt | Description: Schule am Bornheimer Hang von der Gartenseite aus gesehen*
 
 Im Rahmen des von Ernst May groß angelegten Schulneubauprogramms erhielt die Anfang der 1920er Jahre gegründete Reformvolksschule Röderberg ein eigenes Gebäude. Das Konzept der zunächst in Friedrich-Ebert-Schule umbenannten Freiflächenschule setzte auf eine enge Verbindung der Kinder zur Natur. Am begrünten Bornheimer Hang entstand ein mehrgeschossiger Verwaltungstrakt mit Sporthalle, Bibliothek, Festsaal und zwei Wohnungen. Von einem rechtwinklig daran anschließenden Korridor zweigen drei eingeschossige Bauten ab. Hier befinden sich die Klassenzimmer mit jeweils direktem Zugang zum eigenen Garten, wo mithilfe flexibler Möbel auch unterrichtet werden konnte. Zwischen den Gebäudeachsen stand eine große Fläche für Sport, ein Planschbecken und ein Schulgarten zur Verfügung. Heute steht das Ensemble unter Denkmalschutz. 
@@ -31,6 +31,6 @@ Quelle: Jutta Frieß: Der Frankfurter Reformschulversuch 1921–1937. Frankfurt 
 
 ## Gallery
 
-![Schule am Bornheimer Hang von der Gartenseite aus gesehen](../images/C35129_001_cfd74c62d89c13af889f4baf50b928ac_original.jpg)
+![Schule am Bornheimer Hang von der Gartenseite aus gesehen](../images/C35129_001_cfd74c62d89c13af889f4baf50b928ac_medium.jpg)
 *um 1930 — Author: Paul Wolff | License: Historisches Museum Frankfurt | Description: Schule am Bornheimer Hang von der Gartenseite aus gesehen*
 

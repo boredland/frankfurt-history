@@ -16,7 +16,7 @@ filters:
 
 Reiffensteins Frankfurt<br />(1820-1893)
 
-![<p>Carl Theodor Reiffenstein, Johanniterkirche, Eingangstor, Sakristei und Umgebung (Zustand 1839), 1871, aquarellierte Bleistiftzeichnung, HMF R0184</p>](../images/e7d65b0c3ae05752de341a4892a67cab_original.jpg)
+![<p>Carl Theodor Reiffenstein, Johanniterkirche, Eingangstor, Sakristei und Umgebung (Zustand 1839), 1871, aquarellierte Bleistiftzeichnung, HMF R0184</p>](../images/e7d65b0c3ae05752de341a4892a67cab_medium.jpg)
 *1871 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Johanniterkirche, Eingangstor, Sakristei und Umgebung (Zustand 1839), 1871, aquarellierte Bleistiftzeichnung, HMF R0184</p>*
 
 Die Niederlassung des Ritterordens lag an der Fahrgasse. Schon in der Mitte des 14. Jahrhunderts besaß er hier einen Hof und eine Kirche. Die Bauarbeiten zogen sich jedoch bis in die Mitte des 16. Jahrhunderts.
@@ -28,16 +28,16 @@ Reiffenstein zeichnete die Kirche mit den angrenzenden Verkaufsbuden, die 1845 a
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Johanniterkirche, Eingangstor, Sakristei und Umgebung (Zustand 1839), 1871, aquarellierte Bleistiftzeichnung, HMF R0184</p>](../images/R0184_png_077fd90882d80c05dd7f2bce0472c53a_original.jpg)
+![<p>Carl Theodor Reiffenstein, Johanniterkirche, Eingangstor, Sakristei und Umgebung (Zustand 1839), 1871, aquarellierte Bleistiftzeichnung, HMF R0184</p>](../images/R0184_png_077fd90882d80c05dd7f2bce0472c53a_medium.jpg)
 *1871 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Johanniterkirche, Eingangstor, Sakristei und Umgebung (Zustand 1839), 1871, aquarellierte Bleistiftzeichnung, HMF R0184</p>*
 
-![<p>Carl Theodor Reiffenstein, Johanniterkirche, Innenansicht, 1874/1875, aquarellierte Bleistiftzeichnung, HMF R0192</p>](../images/R0192_png_8ffe1ea80d090b3113a9304af8708c0d_original.jpg)
+![<p>Carl Theodor Reiffenstein, Johanniterkirche, Innenansicht, 1874/1875, aquarellierte Bleistiftzeichnung, HMF R0192</p>](../images/R0192_png_8ffe1ea80d090b3113a9304af8708c0d_medium.jpg)
 *1874/1875 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Johanniterkirche, Innenansicht, 1874/1875, aquarellierte Bleistiftzeichnung, HMF R0192</p>*
 
-![<p>Carl Theodor Reiffenstein, Johanniterhof, Teil des Hofes und Hinterhäuser des Goldenen Löwen, 1853, aquarellierte Bleistiftzeichnung, HMF R0183</p>](../images/R0183_png_e7397fc323056941e1cb3640bb6bf978_original.jpg)
+![<p>Carl Theodor Reiffenstein, Johanniterhof, Teil des Hofes und Hinterhäuser des Goldenen Löwen, 1853, aquarellierte Bleistiftzeichnung, HMF R0183</p>](../images/R0183_png_e7397fc323056941e1cb3640bb6bf978_medium.jpg)
 *1853 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Johanniterhof, Teil des Hofes und Hinterhäuser des Goldenen Löwen, 1853, aquarellierte Bleistiftzeichnung, HMF R0183</p>*
 
-![<p>Carl Theodor Reiffenstein, Johanniterhof, Gässchen im hinteren Teil, 1855/1874, aquarellierte Bleistiftzeichnung, HMF R0188</p>](../images/R0188_png_3be529c373b8b10b7c39e9a922c62453_original.jpg)
+![<p>Carl Theodor Reiffenstein, Johanniterhof, Gässchen im hinteren Teil, 1855/1874, aquarellierte Bleistiftzeichnung, HMF R0188</p>](../images/R0188_png_3be529c373b8b10b7c39e9a922c62453_medium.jpg)
 *1855/1874 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Johanniterhof, Gässchen im hinteren Teil, 1855/1874, aquarellierte Bleistiftzeichnung, HMF R0188</p>*
 
 

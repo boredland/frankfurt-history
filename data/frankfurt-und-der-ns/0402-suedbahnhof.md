@@ -10,7 +10,7 @@ filters:
 
 # Südbahnhof
 
-![Blick auf den Südbahnhof](../images/3a2860a951268f91ab46b55564363796_original.jpg)
+![Blick auf den Südbahnhof](../images/3a2860a951268f91ab46b55564363796_medium.jpg)
 *Description: Blick auf den Südbahnhof*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
@@ -19,6 +19,6 @@ Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![Blick auf den Südbahnhof](../images/3a2860a951268f91ab46b55564363796_original.jpg)
+![Blick auf den Südbahnhof](../images/3a2860a951268f91ab46b55564363796_medium.jpg)
 *Description: Blick auf den Südbahnhof*
 

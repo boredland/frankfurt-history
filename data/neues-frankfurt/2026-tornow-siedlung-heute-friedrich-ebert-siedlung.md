@@ -14,7 +14,7 @@ filters:
 
 *Mainzer Landstraße 415*
 
-![Luftaufnahme der Siedlung.](../images/3c8799038530a73396280c847958b602_original.jpg)
+![Luftaufnahme der Siedlung.](../images/3c8799038530a73396280c847958b602_medium.jpg)
 *um 1939 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Luftaufnahme der Siedlung.*
 
 Die Friedrich-Ebert-Siedlung im Gallusviertel sollte Wohnraum für arme und kinderreiche Arbeiterfamilien schaffen, doch zuerst entstanden nur Kleinstwohnungen in mehrgeschossigen Zeilenbauten. Deren Nord-Süd-Ausrichtung und die langen Fensterbänder sorgten für eine gute Belichtung der kleinen Räume. Die Ausstattung hingegen war sparsam: Frankfurter Küche in reduzierter Form, keine Zentraleinrichtungen und Balkone. Grünflächen zwischen den Blocks boten dafür öffentliche Freiräume, die durch Einfamilienreihenhäuser an der Mainzer Landstraße vom Straßenlärm abgeschirmt wurden. Auch nach 1933 wurde an der Siedlung weitergebaut. Vom Zweiten Weltkrieg zu 90 Prozent beschädigt, erfolgte der Wiederaufbau in vereinfachter Form. Seit 2020 ersetzen Passivhäuser die Geschossbauten des ersten Bauabschnitts.
@@ -37,9 +37,9 @@ Lutz Mohnhaupt: Die Friedrich-Ebert-Siedlung. In: Geschichtswerkstatt Gallus (Hg
 
 ## Gallery
 
-![Luftaufnahme der Siedlung.](../images/isg_ffm_s7_6328420e9aff31f3982f3d45395ff3aa_original.jpg)
+![Luftaufnahme der Siedlung.](../images/isg_ffm_s7_6328420e9aff31f3982f3d45395ff3aa_medium.jpg)
 *um 1939 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Luftaufnahme der Siedlung.*
 
-![Wohnbauten des ersten Bauabschnitts mit öffentlicher Grünfläche.](../images/isg_ffm_s7_7353fbad0427fdf476ff5bf952033fd5_original.jpg)
+![Wohnbauten des ersten Bauabschnitts mit öffentlicher Grünfläche.](../images/isg_ffm_s7_7353fbad0427fdf476ff5bf952033fd5_medium.jpg)
 *um 1935 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Wohnbauten des ersten Bauabschnitts mit öffentlicher Grünfläche.*
 

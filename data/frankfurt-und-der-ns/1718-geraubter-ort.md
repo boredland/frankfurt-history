@@ -14,7 +14,7 @@ filters:
 
 *Leipziger Straße 51*
 
-![Leipziger Straße 51](../images/b2e6011ddd77c14dbd99c26c24b78d6e_original.jpg)
+![Leipziger Straße 51](../images/b2e6011ddd77c14dbd99c26c24b78d6e_medium.jpg)
 *ca. 1930 — Author: unbekannt | License: ISG | Description: Leipziger Straße 51*
 
 Die Liegenschaften Leipziger Straße 51 und Kurfürstenstraße 1 hatten ursprünglich Dr. Arthur Nawartzki gehört. Der antisemitisch Verfolgte musste seine Häuser 1939 an einen nichtjüdischen Erwerber veräußern.
@@ -23,6 +23,6 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
-![Leipziger Straße 51](../images/Leipziger-_9fda50b2bd5ffdea8d649eefd2e25a05_original.jpg)
+![Leipziger Straße 51](../images/Leipziger-_9fda50b2bd5ffdea8d649eefd2e25a05_medium.jpg)
 *ca. 1930 — Author: unbekannt | License: ISG | Description: Leipziger Straße 51*
 

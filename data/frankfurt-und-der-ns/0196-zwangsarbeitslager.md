@@ -15,7 +15,7 @@ filters:
 
 *Eintracht-Stadion Riederwald*
 
-![Bildpostkarte mit dem Riederwald-Stadion](../images/a0ca46616632c69f542fea340b1e5b28_original.jpg)
+![Bildpostkarte mit dem Riederwald-Stadion](../images/a0ca46616632c69f542fea340b1e5b28_medium.jpg)
 *nach 1937 — Author: Unbekannt | License: HMF, Sammlung Church, C80399 | Description: Bildpostkarte mit dem Riederwald-Stadion*
 
 Im Eintracht-Stadion am Riederwald befand sich ein Lager für Zwangsarbeiter*innen, die beim Opel Kundendienst Auto-Schaum in der Hanauer Landstraße 295 eingesetzt wurden. 1942 waren hier 20 Russen und eine Russin untergebracht, 1943 waren es 25 Ukrainer.
@@ -24,7 +24,7 @@ Im Eintracht-Stadion am Riederwald befand sich ein Lager für Zwangsarbeiter*inn
 
 ## Gallery
 
-![Bildpostkarte mit dem Riederwald-Stadion](../images/a0ca46616632c69f542fea340b1e5b28_original.jpg)
+![Bildpostkarte mit dem Riederwald-Stadion](../images/a0ca46616632c69f542fea340b1e5b28_medium.jpg)
 *nach 1937 — Author: Unbekannt | License: HMF, Sammlung Church, C80399 | Description: Bildpostkarte mit dem Riederwald-Stadion*
 
 

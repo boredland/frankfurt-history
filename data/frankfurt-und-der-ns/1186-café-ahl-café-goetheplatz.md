@@ -14,7 +14,7 @@ filters:
 
 *Roßmarkt*
 
-![Schwarzweißzeichnung mit Tusche und Folienstift eines tanzendes Paar im Innenraum einer Bar](../images/6cc229e585670999cbfe2083b0b1ee34_original.jpg)
+![Schwarzweißzeichnung mit Tusche und Folienstift eines tanzendes Paar im Innenraum einer Bar](../images/6cc229e585670999cbfe2083b0b1ee34_medium.jpg)
 *2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Schwarzweißzeichnung mit Tusche und Folienstift eines tanzendes Paar im Innenraum einer Bar*
 
 Das Café Goetheplatz war seit 1939 ein beliebter Treffpunkt der Frankfurter Jazz- und Swingszene. Vor allem die „O.K.-Gang“ und der „Harlem-Club“ trafen sich hier, um verbotene Swingplatten zu hören. Über einen Hinterausgang konnten sie schnell verschwinden, wenn eine Streife der Hitlerjugend das Lokal kontrollierte. 
@@ -24,7 +24,7 @@ Das Café Goetheplatz war seit 1939 ein beliebter Treffpunkt der Frankfurter Jaz
 
 ## Gallery
 
-![Schwarzweißzeichnung mit Tusche und Folienstift eines tanzendes Paar im Innenraum einer Bar](../images/6cc229e585670999cbfe2083b0b1ee34_original.jpg)
+![Schwarzweißzeichnung mit Tusche und Folienstift eines tanzendes Paar im Innenraum einer Bar](../images/6cc229e585670999cbfe2083b0b1ee34_medium.jpg)
 *2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Schwarzweißzeichnung mit Tusche und Folienstift eines tanzendes Paar im Innenraum einer Bar*
 
 

@@ -12,7 +12,7 @@ filters:
 
 *Straßennamen nach Frauen benannt*
 
-![Bertha Pappenheim Platz](../images/bec31d85264d252ac255aa96f2482a6d_original.jpg)
+![Bertha Pappenheim Platz](../images/bec31d85264d252ac255aa96f2482a6d_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Bertha Pappenheim Platz*
 
 Dieser Platz ist nach Bertha Pappenheim benannt, die sich in der jüdischen Wohlfahrt engagierte, sie grundlegend veränderte und damit vielen Menschen in Not half.
@@ -23,6 +23,6 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
-![Bertha Pappenheim Platz](../images/Bertha Pap_a8bdfe56abd4036a5d6f2850f5c92af8_original.jpg)
+![Bertha Pappenheim Platz](../images/Bertha Pap_a8bdfe56abd4036a5d6f2850f5c92af8_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Bertha Pappenheim Platz*
 

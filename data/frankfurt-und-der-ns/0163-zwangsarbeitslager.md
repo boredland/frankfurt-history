@@ -15,7 +15,7 @@ filters:
 
 *Alexanderstraße 69*
 
-![Bildpostkarte mit Gesamtansicht der Weilwerke (Torpedo-Werke)](../images/64a43b222b0b23c29e4eba5ae5db98a2_original.jpg)
+![Bildpostkarte mit Gesamtansicht der Weilwerke (Torpedo-Werke)](../images/64a43b222b0b23c29e4eba5ae5db98a2_medium.jpg)
 *unbekannt — Author: Unbekannt | License: HMF, Sammlung Church, C80403 | Description: Bildpostkarte mit Gesamtansicht der Weilwerke (Torpedo-Werke)*
 
 Die Torpedo-Werke AG produzierte Büromaschinen und Fahrräder. Während des Zweiten Weltkriegs betrieb die Firma vier Zwangsarbeitslager in Frankfurt. Davon befand sich eines hier auf dem Werksgelände. Das Institut für Stadtgeschichte wies 2003 nach, dass hier 1943 elf Männer aus Litauen und elf Frauen aus Russland ausgebeutet wurden. Andere Quellen sprechen sogar von 400 Zwangsarbeiter*innen, die hier einquartiert waren.
@@ -24,7 +24,7 @@ Die Torpedo-Werke AG produzierte Büromaschinen und Fahrräder. Während des Zwe
 
 ## Gallery
 
-![Bildpostkarte mit Gesamtansicht der Weilwerke (Torpedo-Werke)](../images/64a43b222b0b23c29e4eba5ae5db98a2_original.jpg)
+![Bildpostkarte mit Gesamtansicht der Weilwerke (Torpedo-Werke)](../images/64a43b222b0b23c29e4eba5ae5db98a2_medium.jpg)
 *unbekannt — Author: Unbekannt | License: HMF, Sammlung Church, C80403 | Description: Bildpostkarte mit Gesamtansicht der Weilwerke (Torpedo-Werke)*
 
 

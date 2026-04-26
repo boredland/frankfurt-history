@@ -14,7 +14,7 @@ filters:
 
 *Frankfurter Mobilitätsorte*
 
-![Unbekannt, Oeder Weg im Sommer 2022, Stefan Lüddecke, Mobilitätsdezernat Frankfurt](../images/d1474160e30adaf68309c0e72f312254_original.png)
+![Unbekannt, Oeder Weg im Sommer 2022, Stefan Lüddecke, Mobilitätsdezernat Frankfurt](../images/d1474160e30adaf68309c0e72f312254_medium.png)
 *2022 — License: Stefan Lüddecke, Mobilitätsdezernat Frankfurt | Description: Unbekannt, Oeder Weg im Sommer 2022, Stefan Lüddecke, Mobilitätsdezernat Frankfurt*
 
 Trotz vieler Fahrradfahrenden und Fußgänger*innen sind Straßen oft ausschließlich auf die Bedürfnisse des Autoverkehrs ausgerichtet. Mangelnde Sichtbarkeit, hohe Unfallzahlen bei Radfahrenden, Lärm und mangelnde Lebensqualität waren die Argumente, mit denen die Initiative „Radentscheid“ ab 2017 konkrete Vorschläge zum Umbau der Autostraßen machte. Für das Bürgerbegehren sammelte sie 40.000 Unterschriften. 2019 wurden die wesentlichen Forderungen in ein Maßnahmenpaket übernommen. Seit 2021 wird auch der Oeder Weg „fahrradfreundlich“ umgestaltet. Er ist eine der wichtigsten Nord-Süd-Verbindungen. Die Straße ist stark befahren, gleichzeitig ist ein Teil des Straßenverlaufs auch eine wichtige Einkaufsstraße im Nordend.
@@ -31,12 +31,12 @@ Die „fahrradfreundlichen Nebenstraßen“ beinhalten rote Markierungen in Kreu
 
 ## Gallery
 
-![Fotografie: Rote Fahrradstraße im Oeder Weg mit Verbotsschildern für Autos, rechts und links sind große Pflanzenkübel](../images/cebfd1075b_cf955afa1020d564e6377be78dc6d550_original.jpg)
+![Fotografie: Rote Fahrradstraße im Oeder Weg mit Verbotsschildern für Autos, rechts und links sind große Pflanzenkübel](../images/cebfd1075b_cf955afa1020d564e6377be78dc6d550_medium.jpg)
 *2022 — License: Stefan Lüddecke, Mobilitätsdezernat Frankfurt | Description: Fotografie: Rote Fahrradstraße im Oeder Weg mit Verbotsschildern für Autos, rechts und links sind große Pflanzenkübel*
 
 
 ## Gallery
 
-![Oeder Weg als Fahrradstraße, Grafik des Radentscheids Frankfurt zum Umgestaltung des Oeder Wegs, Frankfurt 2020, Radentscheid Frankfurt, R. Faller](../images/bemo184,1-_8d53078764eca158e27475d496d11e0e_original.jpg)
+![Oeder Weg als Fahrradstraße, Grafik des Radentscheids Frankfurt zum Umgestaltung des Oeder Wegs, Frankfurt 2020, Radentscheid Frankfurt, R. Faller](../images/bemo184,1-_8d53078764eca158e27475d496d11e0e_medium.jpg)
 *2020 — Author: Rebecca Faller | License: Radentscheid Frankfurt, R. Faller | Description: Oeder Weg als Fahrradstraße, Grafik des Radentscheids Frankfurt zum Umgestaltung des Oeder Wegs, Frankfurt 2020, Radentscheid Frankfurt, R. Faller*
 

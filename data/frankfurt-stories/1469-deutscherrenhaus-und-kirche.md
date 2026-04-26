@@ -30,19 +30,19 @@ Nach dem Zweiten Weltkrieg wurden die Gebäude ab 1963 wiederaufgebaut. Heute be
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Blick über die Alte Brücke auf Deutschordenshaus und Kirche, 1852, aquarellierte Bleistiftzeichnung, HMF RS0026</p>](../images/RS0026_png_2b035f5c6e51f3d7c61d039b42b88769_original.jpg)
+![<p>Carl Theodor Reiffenstein, Blick über die Alte Brücke auf Deutschordenshaus und Kirche, 1852, aquarellierte Bleistiftzeichnung, HMF RS0026</p>](../images/RS0026_png_2b035f5c6e51f3d7c61d039b42b88769_medium.jpg)
 *1852 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Blick über die Alte Brücke auf Deutschordenshaus und Kirche, 1852, aquarellierte Bleistiftzeichnung, HMF RS0026</p>*
 
-![<p>Carl Theodor Reiffenstein, Deutschordenskirche, Chor und Sakristei vom Hof her gesehen, 1877, aquarellierte Bleistiftzeichnung, HMF RS0205</p>](../images/RS0205_png_224b8de036a9aede12bdeb917bbac596_original.jpg)
+![<p>Carl Theodor Reiffenstein, Deutschordenskirche, Chor und Sakristei vom Hof her gesehen, 1877, aquarellierte Bleistiftzeichnung, HMF RS0205</p>](../images/RS0205_png_224b8de036a9aede12bdeb917bbac596_medium.jpg)
 *1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Deutschordenskirche, Chor und Sakristei vom Hof her gesehen, 1877, aquarellierte Bleistiftzeichnung, HMF RS0205</p>*
 
-![<p>Carl Theodor Reiffenstein, Sachsenhausen, Stadtmauer, dahinter Frankensteinerhof und Deutschordenshaus, 1836/1888(?), aquarellierte Bleistiftzeichnung, HMF R1673</p>](../images/R1673_png_54375ec1c933b699ba298df074455952_original.jpg)
+![<p>Carl Theodor Reiffenstein, Sachsenhausen, Stadtmauer, dahinter Frankensteinerhof und Deutschordenshaus, 1836/1888(?), aquarellierte Bleistiftzeichnung, HMF R1673</p>](../images/R1673_png_54375ec1c933b699ba298df074455952_medium.jpg)
 *1836/1888 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Sachsenhausen, Stadtmauer, dahinter Frankensteinerhof und Deutschordenshaus, 1836/1888(?), aquarellierte Bleistiftzeichnung, HMF R1673</p>*
 
-![<p>Carl Theodor Reiffenstein, Deutschordenshaus, Fachwerkbauten im Hof, 1838/1865, aquarellierte Bleistiftzeichnung, HMF RS0029</p>](../images/RS0029_png_610a8595413d7166cfe200da9a7f3778_original.jpg)
+![<p>Carl Theodor Reiffenstein, Deutschordenshaus, Fachwerkbauten im Hof, 1838/1865, aquarellierte Bleistiftzeichnung, HMF RS0029</p>](../images/RS0029_png_610a8595413d7166cfe200da9a7f3778_medium.jpg)
 *1838/1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Deutschordenshaus, Fachwerkbauten im Hof, 1838/1865, aquarellierte Bleistiftzeichnung, HMF RS0029</p>*
 
-![<p>Carl Theodor Reiffenstein, Blick auf das Deutschordenshaus, von der Alten Brücke gesehen, 1860, Bleistiftzeichnung, HMF RS0021</p>](../images/RS0021_png_d2eb3f124fde26a61293f1c0d9dfdbf6_original.jpg)
+![<p>Carl Theodor Reiffenstein, Blick auf das Deutschordenshaus, von der Alten Brücke gesehen, 1860, Bleistiftzeichnung, HMF RS0021</p>](../images/RS0021_png_d2eb3f124fde26a61293f1c0d9dfdbf6_medium.jpg)
 *1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Blick auf das Deutschordenshaus, von der Alten Brücke gesehen, 1860, Bleistiftzeichnung, HMF RS0021</p>*
 
 

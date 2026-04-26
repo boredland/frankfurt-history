@@ -15,7 +15,7 @@ filters:
 
 *Alt Heddernheim 30*
 
-![Foto des Sitzes der NSV Ortsgruppe Heddernheim](../images/aa5079cffd9f5725d097934ba7c08142_original.jpg)
+![Foto des Sitzes der NSV Ortsgruppe Heddernheim](../images/aa5079cffd9f5725d097934ba7c08142_medium.jpg)
 *1915 — Author: Abt Carl Andreas | License: HMF C23244a | Description: Foto des Sitzes der NSV Ortsgruppe Heddernheim*
 
 Hier hatte die Ortsgruppe Heddernheim der Nationalsozialistischen Volkswohlfahrt e.V. (NSV), der zweitgrößten Massenorganisation in der Zeit des Nationalsozialismus, ihren Sitz. Ihr Angebot richtete sich aber nur an sogenannte Volksgenossen. Alle anderen Menschen in Notlagen wurden nicht unterstützt. Für die NSV waren Wohnungslose und Menschen, die auf das Betteln angewiesen waren, eine Konkurrenz beim Sammeln von Spenden. Sie galten als „asozial“ und wurden verfolgt. Während des Kriegs organisierte die NSV Hilfe für Flüchtlinge und Ausgebombte. Dazu erwarb sie auch Möbel und Kleidung von deportierten oder geflohenen Juden und beteiligte sich an den Versteigerungen der geraubten Güter.
@@ -24,7 +24,7 @@ Hier hatte die Ortsgruppe Heddernheim der Nationalsozialistischen Volkswohlfahrt
 
 ## Gallery
 
-![Foto des Sitzes der NSV Ortsgruppe Heddernheim](../images/aa5079cffd9f5725d097934ba7c08142_original.jpg)
+![Foto des Sitzes der NSV Ortsgruppe Heddernheim](../images/aa5079cffd9f5725d097934ba7c08142_medium.jpg)
 *1915 — Author: Abt Carl Andreas | License: HMF C23244a | Description: Foto des Sitzes der NSV Ortsgruppe Heddernheim*
 
 

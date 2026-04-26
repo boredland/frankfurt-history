@@ -14,7 +14,7 @@ filters:
 
 *Berkersheimer Untergasse 18*
 
-![Außeansicht der Berkersheimer Volksschule. ISG FFM S7A/1998-19782.](../images/975c35e7a887b8166d6fb4b901e42acf_original.jpg)
+![Außeansicht der Berkersheimer Volksschule. ISG FFM S7A/1998-19782.](../images/975c35e7a887b8166d6fb4b901e42acf_medium.jpg)
 *ca. 1935 — Author: Theodor Derlam | License: Institut für Stadtgeschichte Frankfurt | Description: Außeansicht der Berkersheimer Volksschule. ISG FFM S7A/1998-19782.*
 
 Von 1929 bis 1935 existierte an der Friedberger Landstraße ein Lager für Sinti und Roma. Es zielte auf deren Konzentration am Stadtrand und darauf, ihnen das Leben zu erschweren. Das betraf auch den Schulbesuch der Kinder.
@@ -27,7 +27,7 @@ Die Behörden planten zunächst eine Schulbaracke im Lager einzurichten, wozu ih
 
 ## Gallery
 
-![Außeansicht der Berkersheimer Volksschule. ISG FFM S7A/1998-19782.](../images/Volksschul_f3d9a7b3ba517132f03ef3c1261f07be_original.jpg)
+![Außeansicht der Berkersheimer Volksschule. ISG FFM S7A/1998-19782.](../images/Volksschul_f3d9a7b3ba517132f03ef3c1261f07be_medium.jpg)
 *ca. 1935 — Author: Theodor Derlam | License: Institut für Stadtgeschichte Frankfurt | Description: Außeansicht der Berkersheimer Volksschule. ISG FFM S7A/1998-19782.*
 
 

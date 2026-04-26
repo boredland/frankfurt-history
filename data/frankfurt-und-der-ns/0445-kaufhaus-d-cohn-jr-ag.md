@@ -15,7 +15,7 @@ filters:
 
 *Zeil 109*
 
-![Foto des Kaufhauses D. Cohn Jr. AG](../images/160e87af122a9fac8e7a80da045db971_original.jpg)
+![Foto des Kaufhauses D. Cohn Jr. AG](../images/160e87af122a9fac8e7a80da045db971_medium.jpg)
 *ca. 1930 — Author: Lauterwasser | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-10249 | Description: Foto des Kaufhauses D. Cohn Jr. AG*
 
 Das Familienunternehmen D. Cohn Jr. AG hatte seinen Sitz auf der Zeil 109. Es war auf Damenkonfektion und Pelzwaren spezialisiert. Gegründet wurde es vom Kaufmann David Cohn. Das Gebäude gehörte seiner Ehefrau Bertha. Das Ehepaar hatte drei Kinder. Der Sohn Fritz folgte seinem Vater als Inhaber der Firma. Eine der Töchter, Gertrud Cohn, heiratete Richard Purwin, Aktionär und Vorstandsmitglied bei D. Cohn Jr. AG. Anfang der 1930er Jahre hatte die Firma etwa 300 Angestellte und einen Jahresumsatz von drei bis vier Millionen Reichsmark (RM).
@@ -33,6 +33,6 @@ Das Familienunternehmen D. Cohn Jr. AG hatte seinen Sitz auf der Zeil 109. Es wa
 
 ## Gallery
 
-![Foto des Kaufhauses D. Cohn Jr. AG](../images/160e87af122a9fac8e7a80da045db971_original.jpg)
+![Foto des Kaufhauses D. Cohn Jr. AG](../images/160e87af122a9fac8e7a80da045db971_medium.jpg)
 *ca. 1930 — Author: Lauterwasser | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-10249 | Description: Foto des Kaufhauses D. Cohn Jr. AG*
 

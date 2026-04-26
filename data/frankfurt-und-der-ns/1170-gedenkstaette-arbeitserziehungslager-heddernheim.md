@@ -14,7 +14,7 @@ filters:
 
 *Oberschelder Weg 10-12*
 
-![Gedenkpyramide während der Gedenkveranstaltung im Jahr 2024.](../images/b427db789c25bc6ff6dd95dc92bd8fbd_original.jpg)
+![Gedenkpyramide während der Gedenkveranstaltung im Jahr 2024.](../images/b427db789c25bc6ff6dd95dc92bd8fbd_medium.jpg)
 *Author: Lisa Schrimpf | License: gemeinfrei | Description: Gedenkpyramide während der Gedenkveranstaltung im Jahr 2024.*
 
 Die hier gelegene Gedenkstätte befindet sich im Oberschelder Weg 10-12 mit Zugang über die Ludwig-Reinheimer-Straße. Ludwig Reinheimer war ein Häftling im Arbeitserziehungslager Heddernheim und wurde 1945 im KZ Flossenbürg ermordet.
@@ -27,16 +27,16 @@ Bei der Neugestaltung der Gedenkstätte 2017/2018 entstand eine Pyramide aus Zie
 
 ## Gallery
 
-![Gedenkpyramide während der Gedenkveranstaltung im Jahr 2024.](../images/Gedenkstä_b589a994d998d9ee2a6ec37a1649d595_original.jpg)
+![Gedenkpyramide während der Gedenkveranstaltung im Jahr 2024.](../images/Gedenkstä_b589a994d998d9ee2a6ec37a1649d595_medium.jpg)
 *Author: Lisa Schrimpf | License: gemeinfrei | Description: Gedenkpyramide während der Gedenkveranstaltung im Jahr 2024.*
 
-![Gedenkpyramide in Erinnerung an die Häftlinge des AEL Heddernheim.](../images/Gedenkstä_c49aca8f7524d223d99948d9a53faee0_original.jpg)
+![Gedenkpyramide in Erinnerung an die Häftlinge des AEL Heddernheim.](../images/Gedenkstä_c49aca8f7524d223d99948d9a53faee0_medium.jpg)
 *Author: Lisa Schrimpf | License: gemeinfrei | Description: Gedenkpyramide in Erinnerung an die Häftlinge des AEL Heddernheim.*
 
-![Vermutlich Überreste einer Arrestzelle auf dem Gelände des ehemaligen AEL Heddernheim.](../images/Gedenkstä_3e5f4277abf2cd4a1a58c7f70cce23f3_original.jpg)
+![Vermutlich Überreste einer Arrestzelle auf dem Gelände des ehemaligen AEL Heddernheim.](../images/Gedenkstä_3e5f4277abf2cd4a1a58c7f70cce23f3_medium.jpg)
 *Author: Lisa Schrimpf | License: gemeinfrei | Description: Vermutlich Überreste einer Arrestzelle auf dem Gelände des ehemaligen AEL Heddernheim.*
 
-![Die am 16. Januar 1987 enthüllten Gedenktafeln für das AEL Heddernheim.](../images/Arbeitserz_dd7c9ab72176ca14ec2c2bda449b226b_original.jpg)
+![Die am 16. Januar 1987 enthüllten Gedenktafeln für das AEL Heddernheim.](../images/Arbeitserz_dd7c9ab72176ca14ec2c2bda449b226b_medium.jpg)
 *o.D. — Author: Daniel Ebert | License: ISG FFM (ohne Signatur) | Description: Die am 16. Januar 1987 enthüllten Gedenktafeln für das AEL Heddernheim.*
 
 

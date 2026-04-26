@@ -15,7 +15,7 @@ filters:
 
 *Lindenstraße 19 und 27*
 
-![Foto der Geheimen Staatspolizeistelle Frankfurt a. M.](../images/54c8ca1bc0359a68200f60946aacb4dc_original.jpg)
+![Foto der Geheimen Staatspolizeistelle Frankfurt a. M.](../images/54c8ca1bc0359a68200f60946aacb4dc_medium.jpg)
 *1947 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13183 | Description: Foto der Geheimen Staatspolizeistelle Frankfurt a. M.*
 
 Die Geheime Staatspolizeistelle Frankfurt am Main (Gestapo) hatte ab dem 1. April 1941 hier ihren Sitz. Das Gebäude gehörte zuvor dem Damenstift der Cronstett- und Hynspergischen evangelischen Stiftung, die es zwangsweise an die Gestapo verkaufen musste. 1942 waren hier etwa 180 Mitarbeiter*innen beschäftigt. Im Keller des Gebäudes befanden sich drei Zellen, in denen die Häftlinge vor und nach Verhören eingesperrt waren. Die Gestapo folterte sie, um sie zu Geständnissen zu bringen. Ende September oder Anfang Oktober 1941 wurden etwa 18 Mitglieder des sogenannten Harlem-Clubs, der zur Swingszene gehörte, verhaftet und hier von der Gestapo verhört. Obwohl die Jugendlichen aus der Jazz- und Swingszene meist unpolitisch waren, wurden sie von der Gestapo verfolgt. Sie warf den Mitgliedern des „Harlem-Clubs“ vor, Radiosender aus Ländern gehört zu haben, mit denen sich das Deutsche Reich im Krieg befand. Dies war seit Kriegsbeginn 1939 verboten. Im Deutschen Reich galt allerdings bereits seit Oktober 1935 ein Sendeverbot für Jazz im Rundfunk.
@@ -27,6 +27,6 @@ Die Geheime Staatspolizeistelle Frankfurt am Main (Gestapo) hatte ab dem 1. Apri
 
 ## Gallery
 
-![Foto der Geheimen Staatspolizeistelle Frankfurt a. M.](../images/54c8ca1bc0359a68200f60946aacb4dc_original.jpg)
+![Foto der Geheimen Staatspolizeistelle Frankfurt a. M.](../images/54c8ca1bc0359a68200f60946aacb4dc_medium.jpg)
 *1947 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13183 | Description: Foto der Geheimen Staatspolizeistelle Frankfurt a. M.*
 

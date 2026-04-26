@@ -14,7 +14,7 @@ filters:
 
 *Am Rütschlehen 4*
 
-![Jakobsbrunnenstraße in der Siedlung Rütschlehen.](../images/7ce761f6ea00aa4c1e485050676978e8_original.jpg)
+![Jakobsbrunnenstraße in der Siedlung Rütschlehen.](../images/7ce761f6ea00aa4c1e485050676978e8_medium.jpg)
 *um 1940 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Jakobsbrunnenstraße in der Siedlung Rütschlehen.*
 
 Die Siedlung Rütschlehen befindet sich südlich vom Gelände des ehemaligen Chemiewerks Cassella in Fechenheim, für dessen Arbeiter*innen die 20 Mehrfamilienhäuser auch gedacht waren. In zwei Bauabschnitten entstand eine winkelförmige Randbebauung an der Jakobsbrunnenstraße und Am Rütschlehen. Ein dritter Bauabschnitt an der heutigen Leo-Gans-Straße wurde zwar geplant, aber nicht mehr unter Ernst May realisiert. Die 103 Wohnungen mit zwei oder drei Zimmern waren alle mit einer Frankfurter Küche ausgestattet. Der Wohnblock umschloss eine gemeinschaftlich genutzte Gartenfläche, die Erdgeschosswohnungen verfügten dort sogar über angrenzende Hausgärten. Dass die Wohnblocks keine Flach-, sondern Satteldächer besitzen, mag ein Zugeständnis an die bereits vorhandene Bebauung gewesen sein. 
@@ -33,6 +33,6 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
-![Jakobsbrunnenstraße in der Siedlung Rütschlehen.](../images/isg_ffm_s7_59c76cd567f1c9007a5cb859fe8dc8a0_original.jpg)
+![Jakobsbrunnenstraße in der Siedlung Rütschlehen.](../images/isg_ffm_s7_59c76cd567f1c9007a5cb859fe8dc8a0_medium.jpg)
 *um 1940 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Jakobsbrunnenstraße in der Siedlung Rütschlehen.*
 

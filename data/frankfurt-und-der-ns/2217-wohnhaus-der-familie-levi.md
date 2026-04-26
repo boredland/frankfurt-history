@@ -39,7 +39,7 @@ Mit der Machtübergabe an die Nationalsozialisten wurde Levi aus dem Schuldienst
 
 ## Gallery
 
-![Lotti Levis Einschulung 1925](../images/Lotti_jpg_8e38986b7b9cc2ae50b912b4ed1e9ff5_original.jpg)
+![Lotti Levis Einschulung 1925](../images/Lotti_jpg_8e38986b7b9cc2ae50b912b4ed1e9ff5_medium.jpg)
 *1925 — Author: Unbekannt | License: gemeinfrei | Description: Lotti Levis Einschulung 1925*
 
 

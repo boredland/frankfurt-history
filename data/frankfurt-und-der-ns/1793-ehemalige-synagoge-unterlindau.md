@@ -14,7 +14,7 @@ filters:
 
 Reise in die Vergangenheit: Jüdisches Leben im Westend vor 100 Jahren
 
-![Die Unterlindau 23 heute](../images/1b8765e83800971123f4eed00445654e_original.jpg)
+![Die Unterlindau 23 heute](../images/1b8765e83800971123f4eed00445654e_medium.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Die Unterlindau 23 heute*
 
 Hier stand ab 1893 eine Synagoge.
@@ -34,7 +34,7 @@ Nach dem Krieg wurden alle Überreste skrupellos beseitigt, was ich sehr traurig
 
 ## Gallery
 
-![Die Unterlindau 23 heute](../images/Unterlinda_959fa73e4dfda49c9ccfd0efe3392158_original.jpg)
+![Die Unterlindau 23 heute](../images/Unterlinda_959fa73e4dfda49c9ccfd0efe3392158_medium.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Die Unterlindau 23 heute*
 
 

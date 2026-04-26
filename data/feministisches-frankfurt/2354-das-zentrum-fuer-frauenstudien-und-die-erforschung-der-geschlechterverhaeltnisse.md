@@ -14,7 +14,7 @@ filters:
 
 *Robert-Mayer-Str. 5*
 
-![Die Gründungsdirektorinnen des Zentrums bei der Gründungsfeier: Von links nach rechts sind dies Ute Gerhard, Heide Schlüpmann, Susanne Opfermann und Brita Rang.](../images/66152830bdc391555d92f165068d782b_original.jpg)
+![Die Gründungsdirektorinnen des Zentrums bei der Gründungsfeier: Von links nach rechts sind dies Ute Gerhard, Heide Schlüpmann, Susanne Opfermann und Brita Rang.](../images/66152830bdc391555d92f165068d782b_medium.jpg)
 *1997 — Author: N.N. | License: gemeinfrei | Description: Die Gründungsdirektorinnen des Zentrums bei der Gründungsfeier: Von links nach rechts sind dies Ute Gerhard, Heide Schlüpmann, Susanne Opfermann und Brita Rang.*
 
 1997 wurde das Zentrum für Frauenstudien und die Erforschung der Geschlechterverhältnisse am Campus Bockenheim der Goethe-Universität Frankfurt gegründet. Die Initiative ging von Ute Gerhard aus, die 1987 auf die Professur für Soziologie mit dem Schwerpunkt Frauen- und Geschlechterforschung an der Universität Frankfurt berufen wurde. Dies war die erste Professur für Frauen- und Geschlechterforschung in der Bundesrepublik. Weitere Gründungsmitglieder waren die Professorinnen Susanne Opfermann (Amerikanistik), Brita Rang (Erziehungswissenschaften) und Heide Schlüpmann (Filmwissenschaften). Am 11. Juni 1997 nahm das Zentrum mit den beiden Mitarbeiter*innen Ulla Wischermann (Soziologie) und Christine Huth-Hildebrand (Erziehungswissenschaften) seine Arbeit auf.
@@ -25,7 +25,7 @@ Am 7. Dezember 2000 wurde das Zentrum anlässlich des 250. Geburtstags von Corne
 
 ## Gallery
 
-![Die Gründungsdirektorinnen des Zentrums bei der Gründungsfeier: Von links nach rechts sind dies Ute Gerhard, Heide Schlüpmann, Susanne Opfermann und Brita Rang.](../images/Gründung _b64b9a0873afbc6225267d907560025c_original.jpg)
+![Die Gründungsdirektorinnen des Zentrums bei der Gründungsfeier: Von links nach rechts sind dies Ute Gerhard, Heide Schlüpmann, Susanne Opfermann und Brita Rang.](../images/Gründung _b64b9a0873afbc6225267d907560025c_medium.jpg)
 *1997 — Author: N.N. | License: gemeinfrei | Description: Die Gründungsdirektorinnen des Zentrums bei der Gründungsfeier: Von links nach rechts sind dies Ute Gerhard, Heide Schlüpmann, Susanne Opfermann und Brita Rang.*
 
 

@@ -24,9 +24,9 @@ Der „Weiße Hirsch“ war eines der größten Anwesen mit weitläufigem Garten
 ![Haus Weißer Hirsch, Vogelschauansicht, Weißfrauenkloster, Zeichnung](../images/R0077+001__e57852f534ac942cbbf5b522abfe3f32_original.jpg)
 *1872 — Author: Carl Theodor Reiffenstein | License: HMF/Gemeinfrei | Description: Haus Weißer Hirsch, Vogelschauansicht, Weißfrauenkloster, Zeichnung*
 
-![Gebäude an der Gartenseite des Weißen Hirschs](../images/FemFFM_pla_51ec9396b1132f5f5b3e40ef28814ea6_original.jpg)
+![Gebäude an der Gartenseite des Weißen Hirschs](../images/FemFFM_pla_51ec9396b1132f5f5b3e40ef28814ea6_medium.jpg)
 *um 1840 — Author: Jakob Fay | License: HMF/Gemeinfrei | Description: Gebäude an der Gartenseite des Weißen Hirschs*
 
-![Der Weiße Hirsch und sein ausgedehnter aus der Vogelschau nach Westen](../images/FemFFM_pla_51ec9396b1132f5f5b3e40ef28814ea6_original.jpg)
+![Der Weiße Hirsch und sein ausgedehnter aus der Vogelschau nach Westen](../images/FemFFM_pla_51ec9396b1132f5f5b3e40ef28814ea6_medium.jpg)
 *1872 — Author: Carl Theodor Reiffenstein | License: HMF/Gemeinfrei | Description: Der Weiße Hirsch und sein ausgedehnter aus der Vogelschau nach Westen*
 

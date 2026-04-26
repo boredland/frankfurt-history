@@ -15,7 +15,7 @@ filters:
 
 *Untermainkai 27*
 
-![<span class="tab2">Foto des Sitzes der NSV Ortsgruppe Untermain</span>](../images/04c3b756e7236b23b9f5b93ed962c656_original.jpg)
+![<span class="tab2">Foto des Sitzes der NSV Ortsgruppe Untermain</span>](../images/04c3b756e7236b23b9f5b93ed962c656_medium.jpg)
 *1938 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1938-33 | Description: <span class="tab2">Foto des Sitzes der NSV Ortsgruppe Untermain</span>*
 
 Laut dem Adressbuch von 1935 befand sich am Hermann-Göring-Ufer 27 (heute: Untermainkai) eine Ortsgruppe der Nationalsozialistischen Volkswohlfahrt e.V. (NSV). Die NSV war die zweitgrößte Massenorganisation in der Zeit des Nationalsozialismus. Ihr Angebot richtete sich aber nur an sogenannte Volksgenossen. Alle anderen Menschen in Notlagen wurden nicht unterstützt. Für die NSV waren Wohnungslose und Menschen, die auf das Betteln angewiesen waren, eine Konkurrenz beim Sammeln von Spenden. Sie galten als „asozial“ und wurden verfolgt. Während des Kriegs organisierte die NSV Hilfe für Flüchtlinge und „Ausgebombte“. Dazu erwarb sie auch Möbel und Kleidung von deportierten oder geflohenen Jüdinnen und Juden und beteiligte sich an den Versteigerungen der geraubten Güter.
@@ -24,6 +24,6 @@ Laut dem Adressbuch von 1935 befand sich am Hermann-Göring-Ufer 27 (heute: Unte
 
 ## Gallery
 
-![<span class="tab2">Foto des Sitzes der NSV Ortsgruppe Untermain</span>](../images/04c3b756e7236b23b9f5b93ed962c656_original.jpg)
+![<span class="tab2">Foto des Sitzes der NSV Ortsgruppe Untermain</span>](../images/04c3b756e7236b23b9f5b93ed962c656_medium.jpg)
 *1938 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1938-33 | Description: <span class="tab2">Foto des Sitzes der NSV Ortsgruppe Untermain</span>*
 

@@ -14,7 +14,7 @@ filters:
 
 *Niddapark*
 
-![Das Niddatal mit Blick auf die Siedlung Römerstadt.](../images/3446f74d62a3d468091be3f76a9e7af2_original.jpg)
+![Das Niddatal mit Blick auf die Siedlung Römerstadt.](../images/3446f74d62a3d468091be3f76a9e7af2_medium.jpg)
 *um 1930 — Author: Unbekannt | License: Privat | Description: Das Niddatal mit Blick auf die Siedlung Römerstadt.*
 
 Rund um das Frankfurter Stadtzentrum liegt ein grüner Ring, der Grüngürtel. Geschützt durch die Grüngürtel-Verfassung (1991) reihen sich vom Stadtwald im Süden über verschiedene Parkanlagen bis zum Niddapark im Norden Grünflächen aneinander. Die Idee des grünen Gürtels geht bis in die 1920er Jahre zurück und war ein Baustein des Neuen Frankfurt. Nach dem Trabantensystem wurden neue Wohngebiete in der Peripherie errichtet. So entstanden die Siedlungen Westhausen, Praunheim, Römerstadt und Höhenblick um das Niddatal herum – das sogenannte Niddatal-Projekt. Die Nutzung des Geländes ist vielfältig. Neben den Siedlungen gibt es parkähnliche Anlagen, Sport- und Spielplätze, Dauerkleingärten und Flächen für die landwirtschaftliche Intensivkultur.
@@ -31,6 +31,6 @@ Architekten: Leberecht Migge, Max Bromme
 
 ## Gallery
 
-![Das Niddatal mit Blick auf die Siedlung Römerstadt.](../images/Niddatal_P_f15dfb1fa62fa80c0e3f0cb7b987b698_original.jpg)
+![Das Niddatal mit Blick auf die Siedlung Römerstadt.](../images/Niddatal_P_f15dfb1fa62fa80c0e3f0cb7b987b698_medium.jpg)
 *um 1930 — Author: Unbekannt | License: Privat | Description: Das Niddatal mit Blick auf die Siedlung Römerstadt.*
 

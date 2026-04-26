@@ -39,7 +39,7 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 ![Stolpersteine für Karl Brandenstein in der Hattsteiner Straße 6](../images/stolperst__18b049ea272fd0a78bf4d3b55253c1b5_original.jpg)
 *2021 — Author: Initiative Stolpersteine Frankfurt am Main | Description: Stolpersteine für Karl Brandenstein in der Hattsteiner Straße 6*
 
-![](../images/0d3205913720e1606dd012f93cf352b9_original.jpg)
+![](../images/0d3205913720e1606dd012f93cf352b9_medium.jpg)
 *Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 
 

@@ -29,16 +29,16 @@ Während des Zweiten Weltkriegs wurde das Haus zerstört und für die 2018 einge
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Hinter dem Lämmchen 6, Madonna am Eck des Hauses, 1878, aquarellierte Bleistiftzeichnung, HMF R1561</p>](../images/R1561_png_c720f7e65bc8d7480c089d6eb606810d_original.jpg)
+![<p>Carl Theodor Reiffenstein, Hinter dem Lämmchen 6, Madonna am Eck des Hauses, 1878, aquarellierte Bleistiftzeichnung, HMF R1561</p>](../images/R1561_png_c720f7e65bc8d7480c089d6eb606810d_medium.jpg)
 *1878 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Hinter dem Lämmchen 6, Madonna am Eck des Hauses, 1878, aquarellierte Bleistiftzeichnung, HMF R1561</p>*
 
-![<p>Carl Theodor Reiffenstein, Haus Hinter dem Lämmchen 6, Madonna an der Hausecke, 1876, aquarellierte Bleistiftzeichnung, HMF R1187</p>](../images/R1187_png_8d1e49c7fa62b97380d92ae02541e627_original.jpg)
+![<p>Carl Theodor Reiffenstein, Haus Hinter dem Lämmchen 6, Madonna an der Hausecke, 1876, aquarellierte Bleistiftzeichnung, HMF R1187</p>](../images/R1187_png_8d1e49c7fa62b97380d92ae02541e627_medium.jpg)
 *1876 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Haus Hinter dem Lämmchen 6, Madonna an der Hausecke, 1876, aquarellierte Bleistiftzeichnung, HMF R1187</p>*
 
-![<p>Carl Theodor Reiffenstein, Haus Hinter dem Lämmchen 6, Innenhof mit Holzgalerie, 1856, aquarellierte Bleistiftzeichnung, HMF R0432</p>](../images/R0432_png_c3d72ea3fd492ce2a91d79eb7409dfa0_original.jpg)
+![<p>Carl Theodor Reiffenstein, Haus Hinter dem Lämmchen 6, Innenhof mit Holzgalerie, 1856, aquarellierte Bleistiftzeichnung, HMF R0432</p>](../images/R0432_png_c3d72ea3fd492ce2a91d79eb7409dfa0_medium.jpg)
 *1856 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Haus Hinter dem Lämmchen 6, Innenhof mit Holzgalerie, 1856, aquarellierte Bleistiftzeichnung, HMF R0432</p>*
 
-![<p>Carl Theodor Reiffenstein, Neugasse 3, Haus Zum Lämmchen, Eingang im Hof, 1877, aquarellierte Bleistiftzeichnung, HMF R1536</p>](../images/R1536_png_95ef46e378e1ee70bd74bae6ad0d8835_original.jpg)
+![<p>Carl Theodor Reiffenstein, Neugasse 3, Haus Zum Lämmchen, Eingang im Hof, 1877, aquarellierte Bleistiftzeichnung, HMF R1536</p>](../images/R1536_png_95ef46e378e1ee70bd74bae6ad0d8835_medium.jpg)
 *1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Neugasse 3, Haus Zum Lämmchen, Eingang im Hof, 1877, aquarellierte Bleistiftzeichnung, HMF R1536</p>*
 
 

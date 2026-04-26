@@ -12,7 +12,7 @@ filters:
 
 *Straßennamen nach Frauen benannt*
 
-![Johanna Tesch Platz](../images/fb5872f1e4e7e23163a63e6c0574d700_original.jpg)
+![Johanna Tesch Platz](../images/fb5872f1e4e7e23163a63e6c0574d700_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Johanna Tesch Platz*
 
 Dieser Platz ist nach Johanna Tesch benannt, die ihr Leben lang für die Rechte von Müttern, Hausangestellten und Arbeiterinnen kämpfte.
@@ -23,6 +23,6 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
-![Johanna Tesch Platz](../images/Johanna Te_4df9ff421974e3a2bed66af3edc0bd41_original.jpg)
+![Johanna Tesch Platz](../images/Johanna Te_4df9ff421974e3a2bed66af3edc0bd41_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Johanna Tesch Platz*
 

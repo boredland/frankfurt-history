@@ -14,7 +14,7 @@ filters:
 
 *Rödelheimer Parkweg 11*
 
-![](../images/bff582385a115a10474341173bbb82b7_original.jpg)
+![](../images/bff582385a115a10474341173bbb82b7_medium.jpg)
 
 ## Interactive Before & After
 

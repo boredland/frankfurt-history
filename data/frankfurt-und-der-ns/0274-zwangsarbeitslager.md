@@ -15,7 +15,7 @@ filters:
 
 *Schloßstraße 72*
 
-![Foto der elektro- und lichttechnischen Spezialfabrik G. Schanzenbach &amp; Co. GmbH, die in der Schloßstraße 72 ein Zwangsarbeitslager betrieb](../images/7a228d8ac28bbbfa1eefec039bf10827_original.jpg)
+![Foto der elektro- und lichttechnischen Spezialfabrik G. Schanzenbach &amp; Co. GmbH, die in der Schloßstraße 72 ein Zwangsarbeitslager betrieb](../images/7a228d8ac28bbbfa1eefec039bf10827_medium.jpg)
 *1932 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-30477 | Description: Foto der elektro- und lichttechnischen Spezialfabrik G. Schanzenbach &amp; Co. GmbH, die in der Schloßstraße 72 ein Zwangsarbeitslager betrieb*
 
 Bei der elektro- und lichttechnischen Spezialfabrik G. Schanzenbach & Co. GmbH mit Sitz in der Adalbertstraße 15 arbeiteten 17 Zwangsarbeiterinnen aus Frankreich und eine aus der Slowakei. Das Zwangsarbeitslager war nur wenige Gehminuten vom Sitz der Firma entfernt.
@@ -24,7 +24,7 @@ Bei der elektro- und lichttechnischen Spezialfabrik G. Schanzenbach & Co. GmbH m
 
 ## Gallery
 
-![Foto der elektro- und lichttechnischen Spezialfabrik G. Schanzenbach &amp; Co. GmbH, die in der Schloßstraße 72 ein Zwangsarbeitslager betrieb](../images/7a228d8ac28bbbfa1eefec039bf10827_original.jpg)
+![Foto der elektro- und lichttechnischen Spezialfabrik G. Schanzenbach &amp; Co. GmbH, die in der Schloßstraße 72 ein Zwangsarbeitslager betrieb](../images/7a228d8ac28bbbfa1eefec039bf10827_medium.jpg)
 *1932 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-30477 | Description: Foto der elektro- und lichttechnischen Spezialfabrik G. Schanzenbach &amp; Co. GmbH, die in der Schloßstraße 72 ein Zwangsarbeitslager betrieb*
 
 

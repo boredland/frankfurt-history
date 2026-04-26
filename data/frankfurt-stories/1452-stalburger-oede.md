@@ -26,16 +26,16 @@ Im Zuge der Stadterweiterung wurde das Gebiet 1873 als Wohnviertel bebaut. Trotz
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Stalburger Oede, Ostseite mit Brücke und Graben, 1859, aquarellierte Bleistiftzeichnung, HMF RS0131</p>](../images/RS0131_png_80fab762820749e63b105124ffb4f891_original.jpg)
+![<p>Carl Theodor Reiffenstein, Stalburger Oede, Ostseite mit Brücke und Graben, 1859, aquarellierte Bleistiftzeichnung, HMF RS0131</p>](../images/RS0131_png_80fab762820749e63b105124ffb4f891_medium.jpg)
 *1859 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Stalburger Oede, Ostseite mit Brücke und Graben, 1859, aquarellierte Bleistiftzeichnung, HMF RS0131</p>*
 
-![<p>Carl Theodor Reiffenstein, Stalburger Oede, Brunnen, 1860, aquarellierte Bleistiftzeichnung, HMF RS0130</p>](../images/RS0130_png_5da3585261c2febb91e9c63781e9b663_original.jpg)
+![<p>Carl Theodor Reiffenstein, Stalburger Oede, Brunnen, 1860, aquarellierte Bleistiftzeichnung, HMF RS0130</p>](../images/RS0130_png_5da3585261c2febb91e9c63781e9b663_medium.jpg)
 *1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Stalburger Oede, Brunnen, 1860, aquarellierte Bleistiftzeichnung, HMF RS0130</p>*
 
-![<p>Carl Theodor Reiffenstein, Stalburger Oede, Wappen und Zinnenkrönung des Hauses, 1859, aquarellierte Bleistiftzeichnung, HMF RS0127</p>](../images/RS0127_png_1ec2e25ca4d3162c8308144d50b46e04_original.jpg)
+![<p>Carl Theodor Reiffenstein, Stalburger Oede, Wappen und Zinnenkrönung des Hauses, 1859, aquarellierte Bleistiftzeichnung, HMF RS0127</p>](../images/RS0127_png_1ec2e25ca4d3162c8308144d50b46e04_medium.jpg)
 *1859 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Stalburger Oede, Wappen und Zinnenkrönung des Hauses, 1859, aquarellierte Bleistiftzeichnung, HMF RS0127</p>*
 
-![<p>Carl Theodor Reiffenstein, Die Seufzerallee, heute Oeder Weg, 1861, aquarellierte Bleistiftzeichnung, HMF RS0155</p>](../images/RS0155_png_72c45b98db74679ec39f92ced0db8b5b_original.jpg)
+![<p>Carl Theodor Reiffenstein, Die Seufzerallee, heute Oeder Weg, 1861, aquarellierte Bleistiftzeichnung, HMF RS0155</p>](../images/RS0155_png_72c45b98db74679ec39f92ced0db8b5b_medium.jpg)
 *1861 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Die Seufzerallee, heute Oeder Weg, 1861, aquarellierte Bleistiftzeichnung, HMF RS0155</p>*
 
 

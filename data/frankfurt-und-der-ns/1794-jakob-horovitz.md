@@ -14,7 +14,7 @@ filters:
 
 Reise in die Vergangenheit: Jüdisches Leben im Westend vor 100 Jahren
 
-![Jakob Horovitz](../images/542ecb839e1cb6101f060a9d019b2463_original.jpg)
+![Jakob Horovitz](../images/542ecb839e1cb6101f060a9d019b2463_medium.jpg)
 *Über Hinweise zur/m Bildeigentümer/in sind wir dankbar! — Author: Daniel Fricke | License: ISG FFM S7P Nr. 6890 | Description: Jakob Horovitz*
 
 Hinter uns in dem Haus lebte vor circa 90 Jahren der Rabbiner Jakob Horovitz. Dies hier ist leider nicht mehr das originale Haus, in dem er gelebt hat, weil viele Häuser im Krieg zerstört worden sind.
@@ -27,13 +27,13 @@ Die Erinnerung an ihn und seine Familie bleibt, denn nächstes Jahr (2025) werde
 
 ## Gallery
 
-![Jakob Horovitz](../images/isg_ffm_s7_d775e14140845140bc80bc9ca6b698d8_original.jpg)
+![Jakob Horovitz](../images/isg_ffm_s7_d775e14140845140bc80bc9ca6b698d8_medium.jpg)
 *Über Hinweise zur/m Bildeigentümer/in sind wir dankbar! — License: ISG FFM S7P Nr. 6890 | Description: Jakob Horovitz*
 
 
 ## Gallery
 
-![<span class="tab2">Staufenstraße 33 (heute): Das Haus von Jakob Horovitz</span>](../images/Staufenstr_fc4d9a37545728a7cc9ee06815e2ef8d_original.jpg)
+![<span class="tab2">Staufenstraße 33 (heute): Das Haus von Jakob Horovitz</span>](../images/Staufenstr_fc4d9a37545728a7cc9ee06815e2ef8d_medium.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: <span class="tab2">Staufenstraße 33 (heute): Das Haus von Jakob Horovitz</span>*
 
 

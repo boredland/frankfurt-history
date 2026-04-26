@@ -15,7 +15,7 @@ filters:
 
 *Zeil 97*
 
-![Foto eines Kaufhauses der Hermann Wronker AG auf der Zeil](../images/49587b41df234c13fd7eb18cf076105a_original.jpg)
+![Foto eines Kaufhauses der Hermann Wronker AG auf der Zeil](../images/49587b41df234c13fd7eb18cf076105a_medium.jpg)
 *ca. 1940 — Author: Stuhl | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-10243 | Description: Foto eines Kaufhauses der Hermann Wronker AG auf der Zeil*
 
 Das Warenhaus in der Zeil 97 war Teil der 1921 gegründeten Hermann Wronker AG. In der Hochphase hatte die Warenhauskette rund 2.000 Mitarbeiter. 1930 belief sich der Gesamtumsatz auf 30 Millionen Reichsmark. Hermann Wronker entwickelte sein Warenhaus nach US-amerikanischem Vorbild. Es war das größte seiner Art in Frankfurt und bot den Kund*innen ein vollständiges und branchenübergreifendes Sortiment an. Daneben ergänzten ein Kunstsalon mit Ausstellungen und eine Abteilung für Kunstgewerbe und Grafik das beispiellose Angebot. Der Geschäftsmann engagierte sich als Philanthrop und Mäzen in Frankfurt mit seiner Frau Ida in zahlreichen sozialen Projekten. Infolge des Boykotts am 1. April 1933 sank die Zahl der Mitarbeiter*innen auf 500. SA-Männer verboten Wronker den Zutritt zu seinem Warenhaus. 1934 übernahm im Zuge der „Arisierung“ die Hansa-AG das Unternehmen. 
@@ -23,6 +23,6 @@ Das Warenhaus in der Zeil 97 war Teil der 1921 gegründeten Hermann Wronker AG. 
 
 ## Gallery
 
-![Foto eines Kaufhauses der Hermann Wronker AG auf der Zeil](../images/49587b41df234c13fd7eb18cf076105a_original.jpg)
+![Foto eines Kaufhauses der Hermann Wronker AG auf der Zeil](../images/49587b41df234c13fd7eb18cf076105a_medium.jpg)
 *ca. 1940 — Author: Stuhl | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-10243 | Description: Foto eines Kaufhauses der Hermann Wronker AG auf der Zeil*
 

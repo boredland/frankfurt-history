@@ -14,7 +14,7 @@ filters:
 
 *Am Salzhaus 1*
 
-![<p>Foto des Salon der Clotilde Koch-Gontard</p>](../images/86ee131a203a2b7868bf1ea8487ce2c0_original.jpg)
+![<p>Foto des Salon der Clotilde Koch-Gontard</p>](../images/86ee131a203a2b7868bf1ea8487ce2c0_medium.jpg)
 *um 1908 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2348 | Description: <p>Foto des Salon der Clotilde Koch-Gontard</p>*
 
 In ihrem Haus in der Innenstadt nahm Clotilde Koch-Gontard – die Gattin des englischen Konsuls Robert Koch – Abgesandte auf und an ihrem Mittagstisch versammelten sich regelmäßig befreundete Parlamentarier. Somit wurde ihr Haus am Großen Hirschgraben zum politischen Salon, wo sich die liberale Bewegung traf und sich mit der Hausherrin in politischen Fragen austauschte. Ein besonders vertrauensvolles Verhältnis bestand zwischen Koch-Gontard und Parlamentspräsident Heinrich von Gagern.
@@ -25,6 +25,6 @@ Frauen blieb im 19. Jahrhundert die rechtliche Gleichstellung verwehrt. So fehlt
 
 ## Gallery
 
-![<p>Foto des Salon der Clotilde Koch-Gontard</p>](../images/04 Am Salz_2225e20aa4d481a4b659b25eb3608eb6_original.jpg)
+![<p>Foto des Salon der Clotilde Koch-Gontard</p>](../images/04 Am Salz_2225e20aa4d481a4b659b25eb3608eb6_medium.jpg)
 *um 1908 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2348 | Description: <p>Foto des Salon der Clotilde Koch-Gontard</p>*
 

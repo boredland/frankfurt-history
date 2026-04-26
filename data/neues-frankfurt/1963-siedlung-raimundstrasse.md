@@ -14,7 +14,7 @@ filters:
 
 *Fallerslebenstraße 25*
 
-![](../images/549f32ef88ccb37548ac9f02b0c8dde0_original.jpg)
+![](../images/549f32ef88ccb37548ac9f02b0c8dde0_medium.jpg)
 
 ## Interactive Before & After
 

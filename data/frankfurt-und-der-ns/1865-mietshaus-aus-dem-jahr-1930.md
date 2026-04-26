@@ -12,7 +12,7 @@ filters:
 
 *Gebäude von Fritz Epstein*
 
-![](../images/c93eb46e72b7d7d5705a939e6f9cb8b1_original.jpg)
+![](../images/c93eb46e72b7d7d5705a939e6f9cb8b1_medium.jpg)
 *2024 — Author: Moritz Bernoully | License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 
 Mietshaus aus dem Jahr 1930 in der Landgraf-Wilhelm-Straße 18.
@@ -27,7 +27,7 @@ Der Architekt Fritz Epstein hat in Frankfurt etwa 150 Gebäude geplant, gebaut o
 
 ## Gallery
 
-![](../images/20241004_B_1b94d4e69445fe125965279dcac852d9_original.jpg)
+![](../images/20241004_B_1b94d4e69445fe125965279dcac852d9_medium.jpg)
 *2024 — Author: Moritz Bernoully | License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 
 

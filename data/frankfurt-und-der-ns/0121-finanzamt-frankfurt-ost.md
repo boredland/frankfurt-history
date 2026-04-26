@@ -15,7 +15,7 @@ filters:
 
 *Stiftstraße 9-17*
 
-![Bildpostkarte mit dem Hansahaus](../images/7cc4f4861b9f5e93db070a4c60957310_original.jpg)
+![Bildpostkarte mit dem Hansahaus](../images/7cc4f4861b9f5e93db070a4c60957310_medium.jpg)
 *1903 — Author: unbekannt | License: HMF / Sammlung Church C80383 | Description: Bildpostkarte mit dem Hansahaus*
 
 Die Finanzämter Frankfurt-Ost und -West hatten hier ihren Sitz. Wie alle Finanzämter arbeiteten sie daran mit, als "Juden" Verfolgte wirtschaftlich zu benachteiligen und sie schlussendlich ihrer finanziellen Mittel vollständig zu berauben. Möglich war dies beispielsweise durch die sogenannte Reichsfluchtsteuer, die Auswanderungswillige seit 1931 zahlen mussten. Dieses Gesetz war von der Regierung unter Reichskanzler Heinrich Brüning erlassen worden und betraf in erster Linie Personen, die vermögend waren oder viel verdienten. Doch die Nationalsozialist*innen setzten den Freibetrag im Mai 1934 so weit herunter, dass selbst Bürger*innen aus der Mittelschicht diese Zwangsabgabe von 25 Prozent ihres Vermögens und Einkommens entrichten mussten. Das übrige Geld konnte nur unter großen Verlusten bei der Deutschen Golddiskontbank in ausländische Währung umgetauscht werden. Die Reichsfluchtsteuer war eine der wichtigsten Einnahmequellen des nationalsozialistischen Regimes. 
@@ -29,6 +29,6 @@ Die Finanzämter Frankfurt-Ost und -West hatten hier ihren Sitz. Wie alle Finanz
 
 ## Gallery
 
-![Bildpostkarte mit dem Hansahaus](../images/7cc4f4861b9f5e93db070a4c60957310_original.jpg)
+![Bildpostkarte mit dem Hansahaus](../images/7cc4f4861b9f5e93db070a4c60957310_medium.jpg)
 *1903 — Author: unbekannt | License: HMF / Sammlung Church C80383 | Description: Bildpostkarte mit dem Hansahaus*
 

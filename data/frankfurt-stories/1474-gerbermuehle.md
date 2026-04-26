@@ -16,7 +16,7 @@ filters:
 
 Reiffensteins Frankfurt<br />(1820-1893)
 
-![](../images/3cfba2ccf3643fa17f11c8e1c382209b_original.png)
+![](../images/3cfba2ccf3643fa17f11c8e1c382209b_medium.png)
 
 Die Gerbermühle wurde um 1600 als Getreidemühle gebaut. Sie erhielt ihren Namen, da hier 1688 bis 1723 Tierhäute zu Leder gegerbt wurden.
 
@@ -30,18 +30,18 @@ Die Gebäude der Mühle wurden 1904 renoviert und nach dem Zweiten Weltkrieg in 
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Blick auf die Gerbermühle, 19. Jahrhundert, Aquarell, HMF C29583</p>](../images/C29583_png_cb9b4fc7353a3e5f611d8c3ec6ae4a7f_original.jpg)
+![<p>Carl Theodor Reiffenstein, Blick auf die Gerbermühle, 19. Jahrhundert, Aquarell, HMF C29583</p>](../images/C29583_png_cb9b4fc7353a3e5f611d8c3ec6ae4a7f_medium.jpg)
 *19. Jhd. — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Blick auf die Gerbermühle, 19. Jahrhundert, Aquarell, HMF C29583</p>*
 
-![<p>Carl Theodor Reiffenstein, Gerbermühle, 1864, Aquarell, HMF C19644</p>](../images/C19644_png_91f3201fdef2caf1113addbbcc8fc341_original.jpg)
+![<p>Carl Theodor Reiffenstein, Gerbermühle, 1864, Aquarell, HMF C19644</p>](../images/C19644_png_91f3201fdef2caf1113addbbcc8fc341_medium.jpg)
 *1864 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Gerbermühle, 1864, Aquarell, HMF C19644</p>*
 
-![<p>Carl Theodor Reiffenstein, Blick über den Main zur Gerbermühle, am Abend, 1862, Aquarell, HMF C09323</p>](../images/C09323_png_43e6cd0cafbce1cc9afebbe3488eaaac_original.jpg)
+![<p>Carl Theodor Reiffenstein, Blick über den Main zur Gerbermühle, am Abend, 1862, Aquarell, HMF C09323</p>](../images/C09323_png_43e6cd0cafbce1cc9afebbe3488eaaac_medium.jpg)
 *1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Blick über den Main zur Gerbermühle, am Abend, 1862, Aquarell, HMF C09323</p>*
 
-![<p>Carl Theodor Reiffenstein, Heiligenstock an der Gerbermühle, Inschrift, 1863, aquarellierte Bleistiftzeichnung, HMF RS0085</p>](../images/RS0085_png_3b1079f38f914066b1551af0eb920d05_original.jpg)
+![<p>Carl Theodor Reiffenstein, Heiligenstock an der Gerbermühle, Inschrift, 1863, aquarellierte Bleistiftzeichnung, HMF RS0085</p>](../images/RS0085_png_3b1079f38f914066b1551af0eb920d05_medium.jpg)
 *1863 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Heiligenstock an der Gerbermühle, Inschrift, 1863, aquarellierte Bleistiftzeichnung, HMF RS0085</p>*
 
-![<p>Carl Theodor Reiffenstein, Heiligenstock an der Gerbermühle, 1854, aquarellierte Bleistiftzeichnung, HMF RS0084</p>](../images/RS0084_png_23b980465dff78ded8f53395ece110f2_original.jpg)
+![<p>Carl Theodor Reiffenstein, Heiligenstock an der Gerbermühle, 1854, aquarellierte Bleistiftzeichnung, HMF RS0084</p>](../images/RS0084_png_23b980465dff78ded8f53395ece110f2_medium.jpg)
 *1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Heiligenstock an der Gerbermühle, 1854, aquarellierte Bleistiftzeichnung, HMF RS0084</p>*
 

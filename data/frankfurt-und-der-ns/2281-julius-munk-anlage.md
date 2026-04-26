@@ -12,7 +12,7 @@ filters:
 
 # Julius-Munk-Anlage
 
-![Blick in die Julius-Munk-Anlage.](../images/94540682303b810f983bc097817c82c8_original.jpg)
+![Blick in die Julius-Munk-Anlage.](../images/94540682303b810f983bc097817c82c8_medium.jpg)
 *2022 — Author: Thomas Altmeyer | License: gemeinfrei | Description: Blick in die Julius-Munk-Anlage.*
 
 Gedenkort für einen Arzt. Ein Bolzplatz als Erinnerungsstätte
@@ -25,7 +25,7 @@ Auf dieser Fläche standen bis 1939 die Gebäude von vier Unternehmen, deren Eig
 
 ## Gallery
 
-![Blick in die Julius-Munk-Anlage.](../images/94540682303b810f983bc097817c82c8_original.jpg)
+![Blick in die Julius-Munk-Anlage.](../images/94540682303b810f983bc097817c82c8_medium.jpg)
 *2022 — Author: Thomas Altmeyer | License: gemeinfrei | Description: Blick in die Julius-Munk-Anlage.*
 
 

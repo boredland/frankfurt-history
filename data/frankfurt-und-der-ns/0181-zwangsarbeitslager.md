@@ -16,13 +16,13 @@ filters:
 
 im Vergnügungspalast Groß-Frankfurt
 
-![<p>Bildpostkarte mit Vergnügungspalast "Groß-Frankfurt"</p>](../images/8de8b3475533eb8b14971d32d5e9b88d_original.jpg)
+![<p>Bildpostkarte mit Vergnügungspalast "Groß-Frankfurt"</p>](../images/8de8b3475533eb8b14971d32d5e9b88d_medium.jpg)
 *unbekannt — Author: Postkartensammlung Church | License: HMF / Sammlung Church C80381 | Description: <p>Bildpostkarte mit Vergnügungspalast "Groß-Frankfurt"</p>*
 
 In dem Vergnügungspalast Groß-Frankfurt mit Kino und Gaststätte bestand ein Lager für Zivilarbeiter.
 
 ## Gallery
 
-![<p>Bildpostkarte mit Vergnügungspalast "Groß-Frankfurt"</p>](../images/8de8b3475533eb8b14971d32d5e9b88d_original.jpg)
+![<p>Bildpostkarte mit Vergnügungspalast "Groß-Frankfurt"</p>](../images/8de8b3475533eb8b14971d32d5e9b88d_medium.jpg)
 *unbekannt — Author: Postkartensammlung Church | License: HMF / Sammlung Church C80381 | Description: <p>Bildpostkarte mit Vergnügungspalast "Groß-Frankfurt"</p>*
 

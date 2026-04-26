@@ -12,7 +12,7 @@ filters:
 
 *Straßennamen nach Frauen benannt*
 
-![Stolperstein für Marie Pfungst](../images/4edbfbece13a423b7d31e3d95865b77a_original.jpg)
+![Stolperstein für Marie Pfungst](../images/4edbfbece13a423b7d31e3d95865b77a_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Stolperstein für Marie Pfungst*
 
 Der Stolperstein erinnert an Marie Pfungst, die als Wohltäterin und Fabrikantin in schweren Zeiten wirkte.
@@ -23,6 +23,6 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
-![Stolperstein für Marie Pfungst](../images/Stolperste_299fc5d0577d85bb86b706da35ad8975_original.jpg)
+![Stolperstein für Marie Pfungst](../images/Stolperste_299fc5d0577d85bb86b706da35ad8975_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Stolperstein für Marie Pfungst*
 

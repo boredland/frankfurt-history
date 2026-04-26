@@ -29,10 +29,10 @@ Wenn du mehr über Lilo erfahren willst, schaue dir noch die anderen Orte an.
 
 ## Gallery
 
-![Lilo am Tag ihrer Einschulung](../images/Gü_05_jpg_b98ff4d64beb16b9884f8b3d0dee04ab_original.jpg)
+![Lilo am Tag ihrer Einschulung](../images/Gü_05_jpg_b98ff4d64beb16b9884f8b3d0dee04ab_medium.jpg)
 *1939 — Author: unbekannt | License: Privat, Lilo Günzler: Endlich Reden, Henrich Editionen Frankfurt | Description: Lilo am Tag ihrer Einschulung*
 
-![Lilos Klasse im Jahr 1939. Lilo ist das 5. Mädchen in der ersten Reihe (von links gezählt)](../images/Li_02_jpg_667543afbe2121f1d9565346c29b1447_original.jpg)
+![Lilos Klasse im Jahr 1939. Lilo ist das 5. Mädchen in der ersten Reihe (von links gezählt)](../images/Li_02_jpg_667543afbe2121f1d9565346c29b1447_medium.jpg)
 *1939 — Author: unbekannt | License: Privat, Lilo Günzler: Endlich Reden, Henrich Editionen Frankfurt | Description: Lilos Klasse im Jahr 1939. Lilo ist das 5. Mädchen in der ersten Reihe (von links gezählt)*
 
 

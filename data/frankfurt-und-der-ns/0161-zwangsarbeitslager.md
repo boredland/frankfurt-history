@@ -15,7 +15,7 @@ filters:
 
 *Berger Straße 161*
 
-![Zwangsarbeitslager, Berger Straße 161](../images/99c9916e324812b6cb66f61659ef77e4_original.jpg)
+![Zwangsarbeitslager, Berger Straße 161](../images/99c9916e324812b6cb66f61659ef77e4_medium.jpg)
 *1963 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2007-529 | Description: Zwangsarbeitslager, Berger Straße 161*
 
 Hier – in den ehemaligen Schauburg-Lichtspielen – soll zwischen Februar 1944 und März 1945 ein Gemeinschaftslager für Zwangsarbeiter*innen bestanden haben. Auf eine Anfrage der Grünen von 1983 antwortete die hessische Landesregierung, dass darin zwischen 300 und 400 Männer untergebracht waren. Dies konnte in der neueren Forschung bislang nicht bestätigt werden. Da sich aber in der Berger Straße allein sechs Lager befanden, kann es sich bei der Adresse um eine Verwechslung handeln. Nähere Informationen zu diesem Lager liegen nicht vor.
@@ -24,7 +24,7 @@ Hier – in den ehemaligen Schauburg-Lichtspielen – soll zwischen Februar 1944
 
 ## Gallery
 
-![Zwangsarbeitslager, Berger Straße 161](../images/99c9916e324812b6cb66f61659ef77e4_original.jpg)
+![Zwangsarbeitslager, Berger Straße 161](../images/99c9916e324812b6cb66f61659ef77e4_medium.jpg)
 *1963 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2007-529 | Description: Zwangsarbeitslager, Berger Straße 161*
 
 

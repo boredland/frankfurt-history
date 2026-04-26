@@ -14,7 +14,7 @@ filters:
 
 *Theodor-W.-Adorno-Platz 6*
 
-![Die geschäftsführende Direktorin des Cornelia Goethe Centrums, Helma Lutz und Angela Davis bei der Pressekonferenz zur Inauguration der Angela-Davis Gastprofessur.](../images/23fb411c3e7652286ef6910220fa4fe3_original.jpg)
+![Die geschäftsführende Direktorin des Cornelia Goethe Centrums, Helma Lutz und Angela Davis bei der Pressekonferenz zur Inauguration der Angela-Davis Gastprofessur.](../images/23fb411c3e7652286ef6910220fa4fe3_medium.jpg)
 *2013 — Author: Anja Feix | License: Anja Feix | Description: Die geschäftsführende Direktorin des Cornelia Goethe Centrums, Helma Lutz und Angela Davis bei der Pressekonferenz zur Inauguration der Angela-Davis Gastprofessur.*
 
 Das Cornelia Goethe Centrum für Geschlechterforschung (CGC) wurde 1997 gegründet und bietet Studierenden, Doktorand*innen, wissenschaftlichen Mitarbeiter*innen und Professor*innen einen Raum für wissenschaftlichen Austausch. Es richtet interdisziplinäre und internationale Veranstaltungen wie Workshops, Vorträge und Tagungen aus, koordiniert zwei Studienprogramme in den Gender Studies und unterstützt Promovierende und Post-Docs.
@@ -26,7 +26,7 @@ Um die internationale Zusammenarbeit zu fördern, besetzt das Centrum regelmäß
 
 ## Gallery
 
-![Die geschäftsführende Direktorin des Cornelia Goethe Centrums, Helma Lutz und Angela Davis bei der Pressekonferenz zur Inauguration der Angela-Davis Gastprofessur.](../images/Angela Dav_37f299f19d612ab86bc268e7a93f2f79_original.jpg)
+![Die geschäftsführende Direktorin des Cornelia Goethe Centrums, Helma Lutz und Angela Davis bei der Pressekonferenz zur Inauguration der Angela-Davis Gastprofessur.](../images/Angela Dav_37f299f19d612ab86bc268e7a93f2f79_medium.jpg)
 *2013 — Author: Anja Feix | License: Anja Feix | Description: Die geschäftsführende Direktorin des Cornelia Goethe Centrums, Helma Lutz und Angela Davis bei der Pressekonferenz zur Inauguration der Angela-Davis Gastprofessur.*
 
 

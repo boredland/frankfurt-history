@@ -15,7 +15,7 @@ filters:
 
 *Lange Straße 4-6*
 
-![<p>Heilig-Geist-Hospital</p>](../images/10bd1b12f8c828e51ae4cc8bfe9ad1c4_original.jpg)
+![<p>Heilig-Geist-Hospital</p>](../images/10bd1b12f8c828e51ae4cc8bfe9ad1c4_medium.jpg)
 *ca. 1930 — Author: BLDAM, Bildarchiv, Neg.Nr. 42 b 30/6441.1 | License: HMF C31454 | Description: <p>Heilig-Geist-Hospital</p>*
 
 Im Heilig-Geist-Hospital in der Hans-Handwerk-Straße (heute: Lange Straße) führte das medizinische Personal seit 1935 Zwangssterilisationen durch, das heißt, Menschen wurden gegen ihren Willen unfruchtbar gemacht. 
@@ -25,6 +25,6 @@ Im Heilig-Geist-Hospital in der Hans-Handwerk-Straße (heute: Lange Straße) fü
 
 ## Gallery
 
-![<p>Heilig-Geist-Hospital</p>](../images/10bd1b12f8c828e51ae4cc8bfe9ad1c4_original.jpg)
+![<p>Heilig-Geist-Hospital</p>](../images/10bd1b12f8c828e51ae4cc8bfe9ad1c4_medium.jpg)
 *ca. 1930 — Author: BLDAM, Bildarchiv, Neg.Nr. 42 b 30/6441.1 | License: HMF C31454 | Description: <p>Heilig-Geist-Hospital</p>*
 

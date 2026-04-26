@@ -14,13 +14,13 @@ filters:
 
 *Gartenstraße 45*
 
-![<p>Gartenstraße 45</p>](../images/1522072e18a357ff36144f55aba2ca21_original.jpg)
+![<p>Gartenstraße 45</p>](../images/1522072e18a357ff36144f55aba2ca21_medium.jpg)
 *1990 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2013-2151 | Description: <p>Gartenstraße 45</p>*
 
 In der Gartenstraße 45 betrieb die Firma Stahl Schanz Adam u. Ludwig Schanz ein Lager für Zivilarbeiter.
 
 ## Gallery
 
-![<p>Gartenstraße 45</p>](../images/1522072e18a357ff36144f55aba2ca21_original.jpg)
+![<p>Gartenstraße 45</p>](../images/1522072e18a357ff36144f55aba2ca21_medium.jpg)
 *1990 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2013-2151 | Description: <p>Gartenstraße 45</p>*
 

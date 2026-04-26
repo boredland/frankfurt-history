@@ -14,7 +14,7 @@ filters:
 
 *Hadrianstraße 5*
 
-![Forum Neues Frankfurt – Treffpunkt für Information und Diskussion](../images/d91e18ca7bb9ff6b6b98435178970c23_original.jpg)
+![Forum Neues Frankfurt – Treffpunkt für Information und Diskussion](../images/d91e18ca7bb9ff6b6b98435178970c23_medium.jpg)
 *2018 — Author: Peter Paul Schepp | License: ernst-may-gesellschaft e.V. | Description: Forum Neues Frankfurt – Treffpunkt für Information und Diskussion*
 
 Das Forum Neues Frankfurt ist ein Projekt der ernst-may-gesellschaft e.V. und der Stadt Frankfurt am Main. Hier findest du Informationen rund um das Thema Neues Frankfurt sowie einen kleinen Museumsshop und kannst an Veranstaltungen teilnehmen. Außerdem ist hier die öffentlich zugängliche Bibliothek der ernst-may-gesellschaft und deren Geschäftsstelle untergebracht. 
@@ -30,7 +30,7 @@ Architekt: Carl-Hermann Rudloff
 
 ## Gallery
 
-![Forum Neues Frankfurt – Treffpunkt für Information und Diskussion](../images/Forum_Neue_b569f06bb56e40909a94516e2ef92510_original.jpg)
+![Forum Neues Frankfurt – Treffpunkt für Information und Diskussion](../images/Forum_Neue_b569f06bb56e40909a94516e2ef92510_medium.jpg)
 *2018 — Author: Peter Paul Schepp | License: ernst-may-gesellschaft e.V. | Description: Forum Neues Frankfurt – Treffpunkt für Information und Diskussion*
 
 

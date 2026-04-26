@@ -35,9 +35,9 @@ Toni Schiesser arbeitete sich ohne formale Ausbildung mit Ausdauer und unternehm
 ![Ingrid Wrobel im Modeatelier Toni Schiesser in der Friedensstraße 2](../images/Ph30682_jp_ea34e31b6025403518d6ba4a8c183c74_original.jpg)
 *1990-1995 — Author: Unbekannt | License: HMF | Description: Ingrid Wrobel im Modeatelier Toni Schiesser in der Friedensstraße 2*
 
-![Modeatelier von Toni Schiesser, Obergeschoss in der Friedensgasse 2](../images/Ph26022_JP_9aee3dd01cd26cbd2277ad958dab9ea0_original.jpg)
+![Modeatelier von Toni Schiesser, Obergeschoss in der Friedensgasse 2](../images/Ph26022_JP_9aee3dd01cd26cbd2277ad958dab9ea0_medium.jpg)
 *1951-1960 — Author: Unbekannt | License: HMF | Description: Modeatelier von Toni Schiesser, Obergeschoss in der Friedensgasse 2*
 
-![Arbeitsraum mit Schneiderinnen bei der Arbeit (Werkstatt Friedensgasse 2)](../images/Ph26032_JP_47c2d079f8c21415431b5f584e92690a_original.jpg)
+![Arbeitsraum mit Schneiderinnen bei der Arbeit (Werkstatt Friedensgasse 2)](../images/Ph26032_JP_47c2d079f8c21415431b5f584e92690a_medium.jpg)
 *1951-1960 — Author: Unbekannt | License: HMF | Description: Arbeitsraum mit Schneiderinnen bei der Arbeit (Werkstatt Friedensgasse 2)*
 

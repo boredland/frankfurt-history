@@ -32,7 +32,7 @@ Wie ist Lilos Geschichte in Frankfurt bekannt geworden? Schau bei „Lilo bekomm
 
 ## Gallery
 
-![Dieses Familienfoto entstand am Abend bevor Lilos Mutter und ihr Bruder in das Lager Theresienstadt mussten.](../images/Gü_09_neu_451eabb0de02e5f756988cb45d139b8a_original.jpg)
+![Dieses Familienfoto entstand am Abend bevor Lilos Mutter und ihr Bruder in das Lager Theresienstadt mussten.](../images/Gü_09_neu_451eabb0de02e5f756988cb45d139b8a_medium.jpg)
 *1945 — Author: unbekannt | License: Privat, Lilo Günzler: Endlich Reden, Henrich Editionen Frankfurt | Description: Dieses Familienfoto entstand am Abend bevor Lilos Mutter und ihr Bruder in das Lager Theresienstadt mussten.*
 
 

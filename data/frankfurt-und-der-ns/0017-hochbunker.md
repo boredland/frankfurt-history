@@ -15,7 +15,7 @@ filters:
 
 *Alt Schwanheim 2a*
 
-![Foto eines Hochbunkers in Alt Schwanheim](../images/acdec9ce02500d6720a4b4b2fb096243_original.jpg)
+![Foto eines Hochbunkers in Alt Schwanheim](../images/acdec9ce02500d6720a4b4b2fb096243_medium.jpg)
 *o.D. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in Alt Schwanheim*
 
 Dieser Bunker bot auf drei Etagen Schutz für 330 Menschen. Nur 35.000 Frankfurter hatten einen Bunkerplatz. Viele flohen in die Keller ihrer Häuser und in die öffentlichen Luftschutzkeller, die nicht bombensicher waren. Als dies bekannt wurde, drängten immer mehr Menschen in die Bunker. Jüdinnen und Juden, Zwangsarbeiter*innen und Kriegsgefangenen war der Zutritt jedoch untersagt. Der Bunker war durch die Form des Daches als Scheune getarnt. Die Bauarbeiten dauerten von Januar 1941 bis Juli 1942. Am Eingang neben dem Treppenturm befindet sich heute noch ein Wappenstein mit Adler und der Jahreszahl 1941. Nach Kriegsende nutzte die amerikanische Militärregierung das Gebäude. Um 1987, gegen Ende des Kalten Kriegs, wurde der Bunker hergerichtet, um für einige Stunden Schutz zu bieten. Er steht seit 2012 unter Denkmalschutz und dient heute dem Musikzug Blau-Gold als Vereinsheim.
@@ -27,6 +27,6 @@ Bauunternehmen: FA Hoffmann II.
 
 ## Gallery
 
-![Foto eines Hochbunkers in Alt Schwanheim](../images/acdec9ce02500d6720a4b4b2fb096243_original.jpg)
+![Foto eines Hochbunkers in Alt Schwanheim](../images/acdec9ce02500d6720a4b4b2fb096243_medium.jpg)
 *o.D. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in Alt Schwanheim*
 

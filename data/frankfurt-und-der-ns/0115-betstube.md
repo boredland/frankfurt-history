@@ -15,7 +15,7 @@ filters:
 
 *Obermainanlage 8*
 
-![Foto der Außenfassade der Betstube, Obermainanlage 8](../images/e76e904667b1a6efdee57e261a26e22e_original.jpg)
+![Foto der Außenfassade der Betstube, Obermainanlage 8](../images/e76e904667b1a6efdee57e261a26e22e_medium.jpg)
 *ca. 1955 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2008-124 | Description: Foto der Außenfassade der Betstube, Obermainanlage 8*
 
 Hier befand sich eine Betstube, die seit 1920 unter dem Namen Berger’sche Schul bekannt war. Vorher wurde sie Beth Hamidrasch (Das Lehrhaus) genannt. Betstuben wie diese waren kleine, einfach ausgestattete Synagogen. Sie waren ein Ort des Gebets, des Austauschs und des Lernens. 1938 gab es noch etwa 40 Betstuben in ganz Frankfurt. Die Berger’sche Schul war eine der wichtigsten Betstuben für Jüdinnen und Juden, die aus Osteuropa nach Frankfurt eingewandert waren. Ihr Lebensmittelpunkt war der Stadtteil Ostend. Die Betstuben wurden oftmals von Privatpersonen oder kleinen Vereinen geführt, um sich und anderen Gläubigen einen Ort für ihr Gebet in der Nähe ihres Zuhauses einzurichten. Die Liegenschaft Obermainanlage 8 gehörte Moses Steinlauf, der auch im Vorstand des Synagogenvereins war.
@@ -24,6 +24,6 @@ Hier befand sich eine Betstube, die seit 1920 unter dem Namen Berger’sche Schu
 
 ## Gallery
 
-![Foto der Außenfassade der Betstube, Obermainanlage 8](../images/e76e904667b1a6efdee57e261a26e22e_original.jpg)
+![Foto der Außenfassade der Betstube, Obermainanlage 8](../images/e76e904667b1a6efdee57e261a26e22e_medium.jpg)
 *ca. 1955 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2008-124 | Description: Foto der Außenfassade der Betstube, Obermainanlage 8*
 

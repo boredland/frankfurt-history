@@ -12,7 +12,7 @@ filters:
 
 *Wenn Grenzen überschritten werden!*
 
-![Alte Gasse](../images/291f61b0288f7a7f609eef64860034e5_original.jpg)
+![Alte Gasse](../images/291f61b0288f7a7f609eef64860034e5_medium.jpg)
 *2024 — Author: Chiara Mascolo, Conrad Wiedemann | Description: Alte Gasse*
 
 Familien gelten oft als das wichtigste Fundament im Leben eines Menschen. Doch was geschieht, wenn dieses Fundament durch politische Ereignisse auseinanderbricht, wie während der NS-Diktatur? Dieser Beitrag beleuchtet die Herausforderungen und Konsequenzen, die solche Ereignisse mit sich bringen, am Beispiel der Familie Sichel.
@@ -37,10 +37,10 @@ Klara Sichel, geboren am 05.08.1892 in Hochstadt, war die einzige Tochter von He
 
 ## Gallery
 
-![Alte Gasse](../images/1-Alte-Gas_c706b566828b08bf84c1b4db6d357741_original.jpg)
+![Alte Gasse](../images/1-Alte-Gas_c706b566828b08bf84c1b4db6d357741_medium.jpg)
 *2024 — Author: Chiara Mascolo, Conrad Wiedemann | Description: Alte Gasse*
 
-![Alte Gasse 69](../images/2-Alte-Gas_ff45dd9a912e58f3beee3acc072491e7_original.jpg)
+![Alte Gasse 69](../images/2-Alte-Gas_ff45dd9a912e58f3beee3acc072491e7_medium.jpg)
 *2024 — Author: Chiara Mascolo, Conrad Wiedemann | Description: Alte Gasse 69*
 
 

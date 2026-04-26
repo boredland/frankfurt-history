@@ -15,7 +15,7 @@ filters:
 
 *Löherstraße 21*
 
-![Neun Stolpersteine in der Löherstraße 21 im Frankfurter Stadtteil Sachsenhausen erinnern an die Familie Adler: Die Eltern Reinhold und Margarete Adler sowie die Kinder Wanda, Gisela, Heinz, Herbert „Ricky“, Rolf, Gertrud und Ursula.](../images/e79e861d7487cb362df036a79a521589_original.jpg)
+![Neun Stolpersteine in der Löherstraße 21 im Frankfurter Stadtteil Sachsenhausen erinnern an die Familie Adler: Die Eltern Reinhold und Margarete Adler sowie die Kinder Wanda, Gisela, Heinz, Herbert „Ricky“, Rolf, Gertrud und Ursula.](../images/e79e861d7487cb362df036a79a521589_medium.jpg)
 *License: Dokumentations- und Kulturzentrum Deutscher Sinti und Roma | Description: Neun Stolpersteine in der Löherstraße 21 im Frankfurter Stadtteil Sachsenhausen erinnern an die Familie Adler: Die Eltern Reinhold und Margarete Adler sowie die Kinder Wanda, Gisela, Heinz, Herbert „Ricky“, Rolf, Gertrud und Ursula.*
 
 Familie Adler
@@ -36,10 +36,10 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 
 ## Gallery
 
-![Neun Stolpersteine in der Löherstraße 21 im Frankfurter Stadtteil Sachsenhausen erinnern an die Familie Adler: Die Eltern Reinhold und Margarete Adler sowie die Kinder Wanda, Gisela, Heinz, Herbert „Ricky“, Rolf, Gertrud und Ursula.](../images/Stolperste_d4e7837e21409f313667a0346365cc48_original.jpg)
+![Neun Stolpersteine in der Löherstraße 21 im Frankfurter Stadtteil Sachsenhausen erinnern an die Familie Adler: Die Eltern Reinhold und Margarete Adler sowie die Kinder Wanda, Gisela, Heinz, Herbert „Ricky“, Rolf, Gertrud und Ursula.](../images/Stolperste_d4e7837e21409f313667a0346365cc48_medium.jpg)
 *Author: Andreas Pflock | License: Dokumentations- und Kulturzentrum Deutscher Sinti und Roma | Description: Neun Stolpersteine in der Löherstraße 21 im Frankfurter Stadtteil Sachsenhausen erinnern an die Familie Adler: Die Eltern Reinhold und Margarete Adler sowie die Kinder Wanda, Gisela, Heinz, Herbert „Ricky“, Rolf, Gertrud und Ursula.*
 
-![](../images/0d3205913720e1606dd012f93cf352b9_original.jpg)
+![](../images/0d3205913720e1606dd012f93cf352b9_medium.jpg)
 *Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 
 

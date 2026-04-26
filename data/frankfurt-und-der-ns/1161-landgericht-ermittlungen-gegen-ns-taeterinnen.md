@@ -14,13 +14,13 @@ filters:
 
 *Seilerstraße 2*
 
-![Das Landgericht in Frankfurt heute](../images/cf7271d52bc165084a8904672da8cb95_original.jpg)
+![Das Landgericht in Frankfurt heute](../images/cf7271d52bc165084a8904672da8cb95_medium.jpg)
 *2025 — Author: Jasmin Klotz | License: gemeinfrei | Description: Das Landgericht in Frankfurt heute*
 
 Hier finden Sie verschiedene Ermittlungsverfahren.
 
 ## Gallery
 
-![Das Landgericht in Frankfurt heute](../images/Landgerich_0237211f8beebced2c5519304e5d6c6b_original.jpg)
+![Das Landgericht in Frankfurt heute](../images/Landgerich_0237211f8beebced2c5519304e5d6c6b_medium.jpg)
 *2025 — Author: Jasmin Klotz | License: gemeinfrei | Description: Das Landgericht in Frankfurt heute*
 

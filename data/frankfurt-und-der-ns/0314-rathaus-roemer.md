@@ -14,7 +14,7 @@ filters:
 
 *Römerberg 23*
 
-![<p>Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne</p>](../images/Ph03224a_j_bdae36c341a3ed7d3683b2d62b12c23a_original.jpg)
+![<p>Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne</p>](../images/Ph03224a_j_bdae36c341a3ed7d3683b2d62b12c23a_medium.jpg)
 *Author: Hannah Reeck | License: HMF Ph03224a | Description: <p>Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne</p>*
 
 Rathaus Römer
@@ -24,6 +24,6 @@ Mit dem Regierungsantritt der Nazis im Rathaus Römer am 13. März 1933 traf hie
 
 ## Gallery
 
-![<p>Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne</p>](../images/Ph03224a_j_bdae36c341a3ed7d3683b2d62b12c23a_original.jpg)
+![<p>Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne</p>](../images/Ph03224a_j_bdae36c341a3ed7d3683b2d62b12c23a_medium.jpg)
 *Author: Hannah Reeck | License: HMF Ph03224a | Description: <p>Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne</p>*
 

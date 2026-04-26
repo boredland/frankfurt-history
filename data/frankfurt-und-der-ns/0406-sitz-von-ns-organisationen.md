@@ -12,13 +12,13 @@ filters:
 
 *Danziger Platz 2*
 
-![<p>Foto eines Chemiewerks der I.G. Farben-Industrie AG; auf dem Werksgelände in der Stroofstraße in Griesheim befand sich ein Barackenlager</p>](../images/4776fa2871647976672aaa2f47f17a44_original.jpg)
+![<p>Foto eines Chemiewerks der I.G. Farben-Industrie AG; auf dem Werksgelände in der Stroofstraße in Griesheim befand sich ein Barackenlager</p>](../images/4776fa2871647976672aaa2f47f17a44_medium.jpg)
 *1927 — Author: Südwestdeutsche Luftverkehrs AG | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-22672 | Description: <p>Foto eines Chemiewerks der I.G. Farben-Industrie AG; auf dem Werksgelände in der Stroofstraße in Griesheim befand sich ein Barackenlager</p>*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![<p>Foto eines Chemiewerks der I.G. Farben-Industrie AG; auf dem Werksgelände in der Stroofstraße in Griesheim befand sich ein Barackenlager</p>](../images/4776fa2871647976672aaa2f47f17a44_original.jpg)
+![<p>Foto eines Chemiewerks der I.G. Farben-Industrie AG; auf dem Werksgelände in der Stroofstraße in Griesheim befand sich ein Barackenlager</p>](../images/4776fa2871647976672aaa2f47f17a44_medium.jpg)
 *1927 — Author: Südwestdeutsche Luftverkehrs AG | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-22672 | Description: <p>Foto eines Chemiewerks der I.G. Farben-Industrie AG; auf dem Werksgelände in der Stroofstraße in Griesheim befand sich ein Barackenlager</p>*
 

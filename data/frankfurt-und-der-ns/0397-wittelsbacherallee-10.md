@@ -10,7 +10,7 @@ filters:
 
 # Wittelsbacherallee 10
 
-![<p>Foto der Herderschule, die sowohl als Druckschriftprüfstelle der Gestapo als auch als Zwangsarbeitslager durch die Naxos Union genutzt wurde</p>](../images/ac82349e652016e9ccbaf0329d042145_original.jpg)
+![<p>Foto der Herderschule, die sowohl als Druckschriftprüfstelle der Gestapo als auch als Zwangsarbeitslager durch die Naxos Union genutzt wurde</p>](../images/ac82349e652016e9ccbaf0329d042145_medium.jpg)
 *1929 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 705 | Description: <p>Foto der Herderschule, die sowohl als Druckschriftprüfstelle der Gestapo als auch als Zwangsarbeitslager durch die Naxos Union genutzt wurde</p>*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
@@ -19,6 +19,6 @@ Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![<p>Foto der Herderschule, die sowohl als Druckschriftprüfstelle der Gestapo als auch als Zwangsarbeitslager durch die Naxos Union genutzt wurde</p>](../images/ac82349e652016e9ccbaf0329d042145_original.jpg)
+![<p>Foto der Herderschule, die sowohl als Druckschriftprüfstelle der Gestapo als auch als Zwangsarbeitslager durch die Naxos Union genutzt wurde</p>](../images/ac82349e652016e9ccbaf0329d042145_medium.jpg)
 *1929 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 705 | Description: <p>Foto der Herderschule, die sowohl als Druckschriftprüfstelle der Gestapo als auch als Zwangsarbeitslager durch die Naxos Union genutzt wurde</p>*
 

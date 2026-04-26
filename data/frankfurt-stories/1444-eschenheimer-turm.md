@@ -27,19 +27,19 @@ Reiffenstein zeichnete den Turm und seine Innenräume. Zu seiner Zeit zählte de
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Eschenheimer Tor mit Stadtmauer (Rekonstruktion nach einer alten Zeichnung von 1790), 1859, aquarellierte Bleistiftzeichnung, HMF R0039</p>](../images/R0039_png_382afdcbbb304bb86c9ffdc0229f501b_original.jpg)
+![<p>Carl Theodor Reiffenstein, Eschenheimer Tor mit Stadtmauer (Rekonstruktion nach einer alten Zeichnung von 1790), 1859, aquarellierte Bleistiftzeichnung, HMF R0039</p>](../images/R0039_png_382afdcbbb304bb86c9ffdc0229f501b_medium.jpg)
 *1859 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Eschenheimer Tor mit Stadtmauer (Rekonstruktion nach einer alten Zeichnung von 1790), 1859, aquarellierte Bleistiftzeichnung, HMF R0039</p>*
 
-![<p>Carl Theodor Reiffenstein, Eschenheimer Turm, oberer Teil mit Wetterfahne, 1859, aquarellierte Bleistiftzeichnung, HMF R0033</p>](../images/R0033_png_e3bf9a9e2cc768cfa1d15134564a6e66_original.jpg)
+![<p>Carl Theodor Reiffenstein, Eschenheimer Turm, oberer Teil mit Wetterfahne, 1859, aquarellierte Bleistiftzeichnung, HMF R0033</p>](../images/R0033_png_e3bf9a9e2cc768cfa1d15134564a6e66_medium.jpg)
 *1859 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Eschenheimer Turm, oberer Teil mit Wetterfahne, 1859, aquarellierte Bleistiftzeichnung, HMF R0033</p>*
 
-![<p>Carl Theodor Reiffenstein, Der untere Teil des Eschenheimer Turms mit den Toren und Wehrgängen, 1864, Aquarell, HMF C28970</p>](../images/C28970_png_2dbed4b4a61a763fe0856a3103eba206_original.jpg)
+![<p>Carl Theodor Reiffenstein, Der untere Teil des Eschenheimer Turms mit den Toren und Wehrgängen, 1864, Aquarell, HMF C28970</p>](../images/C28970_png_2dbed4b4a61a763fe0856a3103eba206_medium.jpg)
 *1864 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Der untere Teil des Eschenheimer Turms mit den Toren und Wehrgängen, 1864, Aquarell, HMF C28970</p>*
 
-![<p>Carl Theodor Reiffenstein, Eschenheimer Tor, Anbau des Carlstores, von innen gesehen, 1843/1877, aquarellierte Bleistiftzeichnung, HMF R1506</p>](../images/R1506_png_4185fa9bf051c0560116055f9ff87412_original.jpg)
+![<p>Carl Theodor Reiffenstein, Eschenheimer Tor, Anbau des Carlstores, von innen gesehen, 1843/1877, aquarellierte Bleistiftzeichnung, HMF R1506</p>](../images/R1506_png_4185fa9bf051c0560116055f9ff87412_medium.jpg)
 *1843/1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Eschenheimer Tor, Anbau des Carlstores, von innen gesehen, 1843/1877, aquarellierte Bleistiftzeichnung, HMF R1506</p>*
 
-![<p>Carl Theodor Reiffenstein, Eschenheimer Turm, Küche, 1854, aquarellierte Bleistiftzeichnung, HMF R0047</p>](../images/R0047_png_6ef61d0420b4e5bfb6804da891a17633_original.jpg)
+![<p>Carl Theodor Reiffenstein, Eschenheimer Turm, Küche, 1854, aquarellierte Bleistiftzeichnung, HMF R0047</p>](../images/R0047_png_6ef61d0420b4e5bfb6804da891a17633_medium.jpg)
 *1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Eschenheimer Turm, Küche, 1854, aquarellierte Bleistiftzeichnung, HMF R0047</p>*
 
 

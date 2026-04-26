@@ -14,7 +14,7 @@ filters:
 
 *Hansaallee 150*
 
-![Westfassade Haus der Jugend mit Eingang.](../images/a708b307413d861316faf6bb6c5cb89c_original.jpg)
+![Westfassade Haus der Jugend mit Eingang.](../images/a708b307413d861316faf6bb6c5cb89c_medium.jpg)
 *um 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Westfassade Haus der Jugend mit Eingang.*
 
 Frankfurter Jugendverbände forderten nach dem Ersten Weltkrieg die Schaffung von Begegnungs- und Übernachtungsstätten. Zur Finanzierung eines Neubaus organisierte der „Verein Haus der Jugend“ eine Lotterie. 1930 entwarf der selbstständige Architekt Franz Thyriot einen modernen Bau auf winkelförmigem Grundriss. Die leicht geschwungene Hauptfassade mit dem Eingang wird dominiert von einem turmartigen, fünfgeschossigen Gebäudeteil mit Dachterrasse. Rechts daneben lag der Schlaftrakt, links schlossen sich in einem niedrigeren Bauteil Gemeinschafts- und Veranstaltungsräume an. Einst auf relativ freiem Gelände errichtet, befindet sich das ehemalige Haus der Jugend heute eingeengt zwischen neuen Wohnbauten. Es beherbergt u.a. die Bildungsstätte Anne Frank und das Rathaus für Senioren. 
@@ -33,9 +33,9 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
-![Westfassade Haus der Jugend mit Eingang.](../images/isg_ffm_s7_cb9b88ac237931b3efd68b404d74f979_original.jpg)
+![Westfassade Haus der Jugend mit Eingang.](../images/isg_ffm_s7_cb9b88ac237931b3efd68b404d74f979_medium.jpg)
 *um 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Westfassade Haus der Jugend mit Eingang.*
 
-![Flugzeugaufnahme vom Haus der Jugend.](../images/Haus_der_J_9cfea4167aa5ab87119bc2fd93f8a013_original.jpg)
+![Flugzeugaufnahme vom Haus der Jugend.](../images/Haus_der_J_9cfea4167aa5ab87119bc2fd93f8a013_medium.jpg)
 *um 1930 — Author: unbekannt (Verlag Carl Ruppert) / unknown (Verlag Carl Ruppert) | License: Privatsammlung | Description: Flugzeugaufnahme vom Haus der Jugend.*
 

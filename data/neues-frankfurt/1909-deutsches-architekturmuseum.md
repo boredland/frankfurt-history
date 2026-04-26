@@ -14,7 +14,7 @@ filters:
 
 *Schaumainkai 43*
 
-![Innenaufnahme des Deutschen Architekturmuseums, 3. Obergeschoss](../images/35a0a0035709a8d54808822ad722186f_original.jpg)
+![Innenaufnahme des Deutschen Architekturmuseums, 3. Obergeschoss](../images/35a0a0035709a8d54808822ad722186f_medium.jpg)
 *2024 — Author: Moritz Bernoully | Description: Innenaufnahme des Deutschen Architekturmuseums, 3. Obergeschoss*
 
 Als Ausstellungshalle und Diskussionszentrum widmet sich das Deutsche Architekturmuseum (DAM) seit 1984 nationalen und internationalen Themen der Architektur und des Städtebaus mit wechselnden Ausstellungen, Veranstaltungen und einem Vermittlungsprogramm. Das Museum besitzt eine umfangreiche internationale Sammlung architektonischer Objekte insbesondere des 20. und 21. Jahrhunderts.
@@ -25,10 +25,10 @@ In der Dauerausstellung können Sie die „Siedlung Bruchfeldstraße“ von 1927
 
 ## Gallery
 
-![Innenaufnahme des Deutschen Architekturmuseums, 3. Obergeschoss](../images/DAM_3_Ober_a0b987ca1bb77f4bea8014caae371bd6_original.jpg)
+![Innenaufnahme des Deutschen Architekturmuseums, 3. Obergeschoss](../images/DAM_3_Ober_a0b987ca1bb77f4bea8014caae371bd6_medium.jpg)
 *2024 — Author: Moritz Bernoully | License: Deutsches Architekturmuseum | Description: Innenaufnahme des Deutschen Architekturmuseums, 3. Obergeschoss*
 
-![Diorama der Siedlung Bruchfeldstraße in der Dauerausstellung](../images/DAM_Norber_f3d2f6e7d86e5ff722e91d4eac9f7eac_original.jpg)
+![Diorama der Siedlung Bruchfeldstraße in der Dauerausstellung](../images/DAM_Norber_f3d2f6e7d86e5ff722e91d4eac9f7eac_medium.jpg)
 *2011 — Author: Norbert Miguletz | License: Deutsches Architekturmuseum | Description: Diorama der Siedlung Bruchfeldstraße in der Dauerausstellung*
 
 

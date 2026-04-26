@@ -14,7 +14,7 @@ filters:
 
 *Damaschkeanger 27/28*
 
-![](../images/603fd5412206b6662fc24f57033ae021_original.jpg)
+![](../images/603fd5412206b6662fc24f57033ae021_medium.jpg)
 
 ## Interactive Before & After
 

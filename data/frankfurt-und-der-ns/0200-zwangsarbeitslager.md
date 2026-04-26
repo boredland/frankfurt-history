@@ -14,13 +14,13 @@ filters:
 
 *Eschersheimer Landstraße 587*
 
-![<p>Zwangsarbeitslager</p>](../images/21842482353d4802ddac18b4af16a66b_original.jpg)
+![<p>Zwangsarbeitslager</p>](../images/21842482353d4802ddac18b4af16a66b_medium.jpg)
 *1936 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1936-450 | Description: <p>Zwangsarbeitslager</p>*
 
 Die Ludwig-Richter-Schule, Eschersheimer Landstraße 587, diente als Quartier für ein Bau- und Arbeitsbataillon sowjetischer Kriegsgefangener, die wohl aus dem Stalag IX B Wegscheide oder dem Stalag IX Ziegenhain hierher verlegt worden waren.
 
 ## Gallery
 
-![<p>Zwangsarbeitslager</p>](../images/21842482353d4802ddac18b4af16a66b_original.jpg)
+![<p>Zwangsarbeitslager</p>](../images/21842482353d4802ddac18b4af16a66b_medium.jpg)
 *1936 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1936-450 | Description: <p>Zwangsarbeitslager</p>*
 

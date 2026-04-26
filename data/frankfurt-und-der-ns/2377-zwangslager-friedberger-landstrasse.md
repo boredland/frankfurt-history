@@ -14,7 +14,7 @@ filters:
 
 *Friedberger Landstraße (Heiligenstock)*
 
-![Deckel der Magistratsakte der Stadt Frankfurt zum "Konzentrationslager an der Friedberger Landstraße"](../images/8a70ee5860723f6a337412293a2b1cde_original.jpg)
+![Deckel der Magistratsakte der Stadt Frankfurt zum "Konzentrationslager an der Friedberger Landstraße"](../images/8a70ee5860723f6a337412293a2b1cde_medium.jpg)
 *1929-1930 — License: Institut für Stadtgeschichte Frankfurt | Description: Deckel der Magistratsakte der Stadt Frankfurt zum "Konzentrationslager an der Friedberger Landstraße"*
 
 Von 1929 bis 1935 gab es an der Friedberger Landstraße, hinter dem heutigen Parkfriedhof Heiligenstock an der Stadtgrenze zu Bad Vilbel, ein sogenanntes „Konzentrationslager“ für Sinti und Roma. Es war noch kein Konzentrationslager im späteren nationalsozialistischen Sinn, aber der Begriff taucht bereits 1929 in einer Magistratsakte auf. Gemeint war ein städtisch verwalteter Platz, auf dem alle Sinti und Roma, die in Wohnwagen in Frankfurt lebten, „konzentriert“ werden sollten.
@@ -27,7 +27,7 @@ Das „Konzentrationslager“ an der Friedberger Landstraße war ein erster Schr
 
 ## Gallery
 
-![Deckel der Magistratsakte der Stadt Frankfurt zum "Konzentrationslager an der Friedberger Landstraße". ISG FFM A.02.01 Nr. R-1378.](../images/isg_ffm_a__94e7f9ff7073f853a6b5a5821b9b8891_original.jpg)
+![Deckel der Magistratsakte der Stadt Frankfurt zum "Konzentrationslager an der Friedberger Landstraße". ISG FFM A.02.01 Nr. R-1378.](../images/isg_ffm_a__94e7f9ff7073f853a6b5a5821b9b8891_medium.jpg)
 *1929-1930 — License: Institut für Stadtgeschichte Frankfurt | Description: Deckel der Magistratsakte der Stadt Frankfurt zum "Konzentrationslager an der Friedberger Landstraße". ISG FFM A.02.01 Nr. R-1378.*
 
 

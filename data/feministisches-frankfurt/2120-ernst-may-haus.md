@@ -12,7 +12,7 @@ filters:
 
 *Margarete Schütte-Lihotzky – Sozialpolitisches Bauen*
 
-![Innenansicht in einem Ernst May Haus, Frankfurter Küche (Margarete Schütte-Lihotzky)](../images/eb9ddbcc25c1e2c570913bbc510fc3ef_original.jpg)
+![Innenansicht in einem Ernst May Haus, Frankfurter Küche (Margarete Schütte-Lihotzky)](../images/eb9ddbcc25c1e2c570913bbc510fc3ef_medium.jpg)
 *1993 — Author: Calle Hesslefors | License: HMF | Description: Innenansicht in einem Ernst May Haus, Frankfurter Küche (Margarete Schütte-Lihotzky)*
 
 In den späten 1920er Jahren entstand im Rahmendes Siedlungsbauprojekts Neues Frankfurt unter der Leitung von Ernst May (1886–1970) die Siedlung Römerstadt. Das Projekt sollte die wachsende Wohnungsnot in Frankfurt lindern und bezahlbaren, funktionalen Wohnraum für breite Bevölkerungsschichten schaffen. Das heute öffentlich zugängliche Ernst-May-Haus in der Römerstadt dokumentiert dieses städtebauliche Vorhaben und zeigt unter anderem ein Modell der sogenannten Frankfurter Küche.
@@ -23,7 +23,7 @@ Die Architektin Margarete Schütte-Lihotzky entwarf diese Küche als einen stand
 
 ## Gallery
 
-![Innenansicht in einem Ernst May Haus, Frankfurter Küche (Margarete Schütte-Lihotzky)](../images/PhD_02653__e02ebfd354b8cfc2726807d621bc659a_original.jpg)
+![Innenansicht in einem Ernst May Haus, Frankfurter Küche (Margarete Schütte-Lihotzky)](../images/PhD_02653__e02ebfd354b8cfc2726807d621bc659a_medium.jpg)
 *1993 — Author: Calle Hesslefors | License: HMF | Description: Innenansicht in einem Ernst May Haus, Frankfurter Küche (Margarete Schütte-Lihotzky)*
 
 ![Erbsengrüne Frankfurter Küche (Typ D aus der Römerstadt), Küche](../images/X_1979_272_2968f8148e904c0e810080b4e62b2377_original.jpg)

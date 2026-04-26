@@ -15,7 +15,7 @@ filters:
 
 *Gotenstraße 8*
 
-![Städtisches Krankenhaus](../images/d3d455b64dbae977727e9fcb05373ffa_original.jpg)
+![Städtisches Krankenhaus](../images/d3d455b64dbae977727e9fcb05373ffa_medium.jpg)
 *1908 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-22823 | Description: Städtisches Krankenhaus*
 
 Hier befand sich das Städtische Krankenhaus. Seit 1935 führte das medizinische Personal hier Zwangssterilisationen durch, das heißt, Menschen wurden gegen ihren Willen unfruchtbar gemacht.
@@ -24,6 +24,6 @@ Hier befand sich das Städtische Krankenhaus. Seit 1935 führte das medizinische
 
 ## Gallery
 
-![Städtisches Krankenhaus](../images/d3d455b64dbae977727e9fcb05373ffa_original.jpg)
+![Städtisches Krankenhaus](../images/d3d455b64dbae977727e9fcb05373ffa_medium.jpg)
 *1908 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-22823 | Description: Städtisches Krankenhaus*
 

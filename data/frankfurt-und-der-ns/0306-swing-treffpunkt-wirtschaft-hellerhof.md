@@ -15,7 +15,7 @@ filters:
 
 *Schneidhainer Straße 17*
 
-![Schneidhainer Straße 17](../images/d615954355e0da2f82ff23c0718c31c5_original.jpg)
+![Schneidhainer Straße 17](../images/d615954355e0da2f82ff23c0718c31c5_medium.jpg)
 *1931 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-12240 | Description: Schneidhainer Straße 17*
 
 Im heutigen Restaurant Menzza, früher Restaurant oder Gaststätte Hellerhof, traf sich der „Club der Kameruner“. Das war eine Clique, zu der etwa 60 bis 160 Jugendliche der Swingszene im Alter von 15 bis 18 Jahren aus dem Arbeiter*innenviertel Gallus zählten. Die Gruppe nannte sich auch „Kameruner Kippe“. Kippe bedeutete Gemeinschaft und Kamerun war ein umgangssprachlicher, aber gängiger Name für das Gallusviertel. Die Jugendlichen der Swingszene grenzten sich mit ihrer Kleidung und ihren Frisuren von der Hitlerjugend (HJ) und dem Bund Deutscher Mädel (BDM) ab: Die Jungen trugen oft schulterlanges Haar, weite Hosen mit Schlag und gemusterte Sakkos und schoben ihre Hüte über die Stirn. Die Mädchen schminkten sich häufig und kleideten sich figurbetont. Jungen und Mädchen verbrachten ihre Freizeit zudem gemeinsam und widersetzten sich so der strengen Geschlechtertrennung in den nationalsozialistischen Jugendorganisationen.
@@ -24,7 +24,7 @@ Im heutigen Restaurant Menzza, früher Restaurant oder Gaststätte Hellerhof, tr
 
 ## Gallery
 
-![Schneidhainer Straße 17](../images/d615954355e0da2f82ff23c0718c31c5_original.jpg)
+![Schneidhainer Straße 17](../images/d615954355e0da2f82ff23c0718c31c5_medium.jpg)
 *1931 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-12240 | Description: Schneidhainer Straße 17*
 
 

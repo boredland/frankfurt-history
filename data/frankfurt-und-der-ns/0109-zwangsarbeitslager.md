@@ -15,7 +15,7 @@ filters:
 
 *Kleyerstraße 45*
 
-![Bildpostkarte mit der Allgemeinen Elektricitäts-Gesellschaft](../images/4dcf5d61dc8b0a013859066c4ceedced_original.jpg)
+![Bildpostkarte mit der Allgemeinen Elektricitäts-Gesellschaft](../images/4dcf5d61dc8b0a013859066c4ceedced_medium.jpg)
 *o.D. — Author: unbekannt | License: HMF, Sammlung Church, C80376 | Description: Bildpostkarte mit der Allgemeinen Elektricitäts-Gesellschaft*
 
 Die Adler-Werke (vormals Heinrich Kleyer AG) waren während des Krieges einer der führenden Hersteller von Motoren und Getrieben für Panzer, Flugzeuge und militärische Fahrzeuge. Für deren Produktion setzte der Konzern sehr viele ausländische Zwangsarbeiter*innen, Kriegsgefangene und Gefangene aus Konzentrationslagern ein, für die er mehrere Lager in Frankfurt betrieb. Auf dem Werksgelände in der Kleyerstraße wurde im Juli 1941 ein Barackenlager für französische Zivilarbeiter*innen errichtet. Es wurde jedoch schnell zu klein, sodass Ende 1942 ein größeres Barackenlager in der Froschhäuser Straße in Griesheim gebaut werden musste. Bis zu seiner Fertigstellung brachte der Konzern die Zwangsarbeiter*innen in mehreren Baracken auf dem Werksgelände in der Kleyerstraße 17, 45 und 82 sowie in der Weilburger Straße und in der Krifteler Straße 47 unter. Es gab unterschiedliche Lager für Zwangsarbeiter*innen aus west- und osteuropäischen Ländern, wobei die Zustände für russische, weißrussische und ukrainische Personen am schlimmsten waren. 1942 setzten die Adler-Werke fast 800 Zwangsarbeiter*innen ein, 1943 waren es 1.727, darunter 545 russische, 491 ukrainische und 618 französische Menschen. Am 22. April 1944 wurde das Werk bei einem Luftangriff schwer beschädigt. 
@@ -25,7 +25,7 @@ Die Adler-Werke (vormals Heinrich Kleyer AG) waren während des Krieges einer de
 
 ## Gallery
 
-![Bildpostkarte mit der Allgemeinen Elektricitäts-Gesellschaft](../images/4dcf5d61dc8b0a013859066c4ceedced_original.jpg)
+![Bildpostkarte mit der Allgemeinen Elektricitäts-Gesellschaft](../images/4dcf5d61dc8b0a013859066c4ceedced_medium.jpg)
 *o.D. — Author: unbekannt | License: HMF, Sammlung Church, C80376 | Description: Bildpostkarte mit der Allgemeinen Elektricitäts-Gesellschaft*
 
 

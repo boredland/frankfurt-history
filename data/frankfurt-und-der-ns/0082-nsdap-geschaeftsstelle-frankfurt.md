@@ -15,7 +15,7 @@ filters:
 
 *Domstraße 12*
 
-![Foto der NSDAP Geschäftsstelle Frankfurt in der Domstraße](../images/2419d7e849b2a1604714cdfad28bd269_original.jpg)
+![Foto der NSDAP Geschäftsstelle Frankfurt in der Domstraße](../images/2419d7e849b2a1604714cdfad28bd269_medium.jpg)
 *1910 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2703 | Description: Foto der NSDAP Geschäftsstelle Frankfurt in der Domstraße*
 
 Die Geschäftsstelle der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) für den Kreis Groß-Frankfurt befand sich von 1925 bis Anfang 1927 im vierten Obergeschoss der Domstraße 12.
@@ -24,6 +24,6 @@ Die Geschäftsstelle der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP
 
 ## Gallery
 
-![Foto der NSDAP Geschäftsstelle Frankfurt in der Domstraße](../images/2419d7e849b2a1604714cdfad28bd269_original.jpg)
+![Foto der NSDAP Geschäftsstelle Frankfurt in der Domstraße](../images/2419d7e849b2a1604714cdfad28bd269_medium.jpg)
 *1910 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2703 | Description: Foto der NSDAP Geschäftsstelle Frankfurt in der Domstraße*
 

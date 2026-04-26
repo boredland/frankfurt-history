@@ -29,16 +29,16 @@ Ab 1906 entstanden in Frankfurt die ersten vereinseigenen Fußballplätze mit kl
 
 ## Gallery
 
-![Lage und Entwicklung des Spielplatzes 1904-1906](../images/Station 5-_f4f675d8ec45ec06dfdf2293483ca8e7_original.jpg)
+![Lage und Entwicklung des Spielplatzes 1904-1906](../images/Station 5-_f4f675d8ec45ec06dfdf2293483ca8e7_medium.jpg)
 *License: Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.3450, Tiefbauamt;<br />Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.3451, Tiefbauamt | Description: Lage und Entwicklung des Spielplatzes 1904-1906*
 
-![Lage und Entwicklung des Spielplatzes 1908-1913](../images/Station 5-_5ca56c9bd2e8217c39b0221a54de1d47_original.jpg)
+![Lage und Entwicklung des Spielplatzes 1908-1913](../images/Station 5-_5ca56c9bd2e8217c39b0221a54de1d47_medium.jpg)
 *License: Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.7635, Tiefbauamt<br />Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.1282, Tiefbauamt | Description: Lage und Entwicklung des Spielplatzes 1908-1913*
 
 
 ## Gallery
 
-![Zeichnung des ersten offizielle Platzes des FSV Frankfurt im Prüfling aus der 25 Jahres Festschrift des Vereins](../images/Station 5-_f787031b40714c015926d9b8c4caa240_original.jpg)
+![Zeichnung des ersten offizielle Platzes des FSV Frankfurt im Prüfling aus der 25 Jahres Festschrift des Vereins](../images/Station 5-_f787031b40714c015926d9b8c4caa240_medium.jpg)
 *Description: Zeichnung des ersten offizielle Platzes des FSV Frankfurt im Prüfling aus der 25 Jahres Festschrift des Vereins*
 
 

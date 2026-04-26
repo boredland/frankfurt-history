@@ -15,7 +15,7 @@ filters:
 
 *Gutleutstraße 8-14*
 
-![Foto des Sitzes der NSDAP Gauleitung Hessen-Nassau](../images/cbe9d58f9c9a8db7e223576aaa0067be_original.jpg)
+![Foto des Sitzes der NSDAP Gauleitung Hessen-Nassau](../images/cbe9d58f9c9a8db7e223576aaa0067be_medium.jpg)
 *Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1933-321 | Description: Foto des Sitzes der NSDAP Gauleitung Hessen-Nassau*
 
 Die Gauleitung für Hessen-Nassau der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) hatte hier von 1933 bis 1940 ihren Sitz. Das Gebäude wurde 1906 als Hotel erbaut. Die Nationalsozialisten benannten es in „Adolf-Hitler-Haus“ um. Hier befand sich auch der Dienstsitz des Gauleiters Jakob Sprenger. 1940 zog die Gauleitung in die Innenstadt, an den Horst-Wessel-Platz (heute: Rathenauplatz).
@@ -24,6 +24,6 @@ Die Gauleitung für Hessen-Nassau der Nationalsozialistischen Deutschen Arbeiter
 
 ## Gallery
 
-![Foto des Sitzes der NSDAP Gauleitung Hessen-Nassau](../images/cbe9d58f9c9a8db7e223576aaa0067be_original.jpg)
+![Foto des Sitzes der NSDAP Gauleitung Hessen-Nassau](../images/cbe9d58f9c9a8db7e223576aaa0067be_medium.jpg)
 *Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1933-321 | Description: Foto des Sitzes der NSDAP Gauleitung Hessen-Nassau*
 

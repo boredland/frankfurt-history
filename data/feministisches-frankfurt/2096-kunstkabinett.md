@@ -12,7 +12,7 @@ filters:
 
 *Hanna Bekker vom Rath - Galleristin*
 
-![Postkarte mit Blick in die Kaiserstrasse Richtung Innenstadt](../images/c5ed3e3d0b8b921d83486aed6fa2d18c_original.jpg)
+![Postkarte mit Blick in die Kaiserstrasse Richtung Innenstadt](../images/c5ed3e3d0b8b921d83486aed6fa2d18c_medium.jpg)
 *1907 — Author: Frankfurter Lichtdruckanstalt | License: HMF | Description: Postkarte mit Blick in die Kaiserstrasse Richtung Innenstadt*
 
 In der Kaiserstraße 5 eröffnete Hanna Bekker vom Rath 1947 das Frankfurter Kunstkabinett. Dort präsentierte sie Werke von Künstler*innen, die in der NS-Zeit ausgegrenzt worden waren. In den ersten Jahren brachte das Kabinett kaum Einnahmen, doch sie stellte es konsequent in den Dienst der Kunst. Als Malerin und Vermittlerin setzte sie sich mit Ausstellungen, Ankäufen und Auslandsreisen dafür ein, künstlerische Positionen zu fördern, die lange verdrängt worden waren.
@@ -21,6 +21,6 @@ In der Kaiserstraße 5 eröffnete Hanna Bekker vom Rath 1947 das Frankfurter Kun
 
 ## Gallery
 
-![Postkarte mit Blick in die Kaiserstrasse Richtung Innenstadt](../images/C97037+001_6b5134db187735ec631de24b6e23d6c3_original.jpg)
+![Postkarte mit Blick in die Kaiserstrasse Richtung Innenstadt](../images/C97037+001_6b5134db187735ec631de24b6e23d6c3_medium.jpg)
 *1907 — Author: Frankfurter Lichtdruckanstalt | License: HMF | Description: Postkarte mit Blick in die Kaiserstrasse Richtung Innenstadt*
 

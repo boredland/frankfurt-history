@@ -12,7 +12,7 @@ filters:
 
 *Gebäude von Fritz Epstein*
 
-![](../images/9117b149b6fc83f2302501a9411a9cbd_original.jpg)
+![](../images/9117b149b6fc83f2302501a9411a9cbd_medium.jpg)
 *2024 — Author: Moritz Bernoully | License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 
 Die Villa aus dem Jahr 1923 in der Ditmarstaße 5 ist heute in der Liste der Frankfurter Kulturdenkmäler zu finden. Spannend an dem Gebäude ist ein Mix aus klassischer Villenarchitektur von vor 1914, Elementen, die in den 1920er Jahren genutzt wurden, sowie skulpturalem Schmuck. 
@@ -27,7 +27,7 @@ Der Architekt Fritz Epstein hat in Frankfurt etwa 150 Gebäude geplant, gebaut o
 
 ## Gallery
 
-![](../images/20241217_B_b87b2aaca484f281cfce809fce11461a_original.jpg)
+![](../images/20241217_B_b87b2aaca484f281cfce809fce11461a_medium.jpg)
 *2024 — Author: Moritz Bernoully | License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 
 

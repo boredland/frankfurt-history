@@ -12,7 +12,7 @@ filters:
 
 *Gebäude von Fritz Epstein*
 
-![](../images/448e1a40a591e9f9cb5f4db65b4eaf52_original.jpg)
+![](../images/448e1a40a591e9f9cb5f4db65b4eaf52_medium.jpg)
 *2024 — Author: Moritz Bernoully | License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 
 Wohnhaus aus dem Jahr 1923 in der Holzhausenstraße 23-25.
@@ -27,7 +27,7 @@ Der Architekt Fritz Epstein hat in Frankfurt etwa 150 Gebäude geplant, gebaut o
 
 ## Gallery
 
-![](../images/20241004_B_d70c5105f67e9d19a4f1a7111bdeb897_original.jpg)
+![](../images/20241004_B_d70c5105f67e9d19a4f1a7111bdeb897_medium.jpg)
 *2024 — Author: Moritz Bernoully | License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 
 

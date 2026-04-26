@@ -15,7 +15,7 @@ filters:
 
 *Hainer Weg 37-53*
 
-![Zwangsarbeitsbetrieb, Hainer Weg 37-53](../images/8f98adc6357dd82abc258b26c45486d5_original.jpg)
+![Zwangsarbeitsbetrieb, Hainer Weg 37-53](../images/8f98adc6357dd82abc258b26c45486d5_medium.jpg)
 *1933 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29360 | Description: Zwangsarbeitsbetrieb, Hainer Weg 37-53*
 
 Der Geschäftsführer der familiengeführten Feist & Belmont’schen Sektkellerei AG, Alfred Feist-Belmont, konnte auf eine lange unternehmerische Tradition zurückblicken. Seine Familie hatte bereits 1828 einen Weinhandel in Koblenz gegründet. Alfred Feist-Belmont war evangelisch, hatte aber jüdische Vorfahren und galt im Nationalsozialismus als „Halbjude“. Dennoch gelang es ihm, sein Unternehmen über viele Jahre weiterzuführen. 1941 benannte er die Sektkellerei-Feist AG in Feist & Belmont’sche Sektkellerei AG um. Das Unternehmen setzte dem Institut für Stadtgeschichte zufolge zehn Zwangsarbeiterinnen aus der Ukraine ein. Es ist allerdings unklar, wo sie untergebracht waren. 
@@ -26,7 +26,7 @@ Der Geschäftsführer der familiengeführten Feist & Belmont’schen Sektkellere
 
 ## Gallery
 
-![Zwangsarbeitsbetrieb, Hainer Weg 37-53](../images/8f98adc6357dd82abc258b26c45486d5_original.jpg)
+![Zwangsarbeitsbetrieb, Hainer Weg 37-53](../images/8f98adc6357dd82abc258b26c45486d5_medium.jpg)
 *1933 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29360 | Description: Zwangsarbeitsbetrieb, Hainer Weg 37-53*
 
 

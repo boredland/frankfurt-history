@@ -14,7 +14,7 @@ filters:
 
 *Dr. Ruth K. Westheimer und die Kindertransporte*
 
-![](../images/d05eb143b853b7fc4c57202b0c6eb754_original.jpg)
+![](../images/d05eb143b853b7fc4c57202b0c6eb754_medium.jpg)
 
 Die heute in den USA berühmte Sexualtherapeutin Dr. Ruth K. Westheimer wurde am 4. Juni 1928 in Wiesenfeld geboren. Den Großteil ihrer Kindheit verbrachte sie in Frankfurt am Main. Damals hieß sie Karola Ruth Siegel.
  Das Philanthropin war eine renommierte Bildungsanstalt, die sich in der Nähe der Wohnung der Familie Siegel befand. Die Schule wurde zwar von der israelitischen Gemeinde getragen, war jedoch konfessionell offen. Karolas Eltern war es wichtig, dass ihre Tochter eine streng religiös geprägte Bildungseinrichtung besuchte, weshalb sie ihre Tochter auf die deutlich entferntere Samson-Raphael-Hirsch-Schule schickten.

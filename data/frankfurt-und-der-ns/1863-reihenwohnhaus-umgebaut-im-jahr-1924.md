@@ -12,7 +12,7 @@ filters:
 
 *umgebaut von Fritz Epstein*
 
-![](../images/3dafa693e68f326247edccbb23dbf1ab_original.jpg)
+![](../images/3dafa693e68f326247edccbb23dbf1ab_medium.jpg)
 *2024 — Author: Moritz Bernoully | License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 
 Reihenwohnhaus (ganz links, graue Fassade) in der Guiollettstraße 57 aus dem Jahr 1870. Hier nahm Fritz Epstein im Jahr 1924 einen Umbau vor.
@@ -27,7 +27,7 @@ Der Architekt Fritz Epstein hat in Frankfurt etwa 150 Gebäude geplant, gebaut o
 
 ## Gallery
 
-![](../images/20241004_B_9ab11f0f87d52dd3535ccf08ab21535a_original.jpg)
+![](../images/20241004_B_9ab11f0f87d52dd3535ccf08ab21535a_medium.jpg)
 *2024 — Author: Moritz Bernoully | License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 
 

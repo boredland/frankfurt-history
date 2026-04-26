@@ -15,7 +15,7 @@ filters:
 
 *Norbert-Wollheim-Platz 1*
 
-![<p>Foto: Staatliche Bildstelle Berlin, 1937, HMF C31431</p>](../images/C31431_jpg_6c3cd7858d4fbb52ae73dd9370ff1257_original.jpg)
+![<p>Foto: Staatliche Bildstelle Berlin, 1937, HMF C31431</p>](../images/C31431_jpg_6c3cd7858d4fbb52ae73dd9370ff1257_medium.jpg)
 *1937 — Author: Staatliche Bildstelle Berlin | Description: <p>Foto: Staatliche Bildstelle Berlin, 1937, HMF C31431</p>*
 
 Am Grüneburgplatz 20 (heute: Norbert-Wollheim-Platz 1) befand sich die Hauptverwaltung der Interessengemeinschaft Farbenindustrie AG (I.G. Farben), die 1925 gegründet wurde. Das I.G. Farben-Haus wurde zwischen 1928 und 1931 nach Plänen des Architekten Hans Poelzig errichtet. Das Verwaltungsgebäude verfügte über eine Kantine (Casino-Gebäude) und einen Labortrakt. Die I.G. Farben waren tief in das nationalsozialistische System eingebunden. Sie profitierten von Zwangsarbeit und dem Ausbeutungssystem der Nationalsozialisten in enormem Ausmaß. Allein in Frankfurt beuteten sie mehr als 11.800 Zwangsarbeiter*innen aus, davon waren acht in der Verwaltung eingesetzt. Das Gebäude blieb bei den alliierten Luftangriffen weitgehend unversehrt.
@@ -31,6 +31,6 @@ Nach dem Zweiten Weltkrieg zerschlugen die Alliierten den Chemiekonzern, der auf
 
 ## Gallery
 
-![<p>Foto: Staatliche Bildstelle Berlin, 1937, HMF C31431</p>](../images/C31431_jpg_6c3cd7858d4fbb52ae73dd9370ff1257_original.jpg)
+![<p>Foto: Staatliche Bildstelle Berlin, 1937, HMF C31431</p>](../images/C31431_jpg_6c3cd7858d4fbb52ae73dd9370ff1257_medium.jpg)
 *1937 — Author: Staatliche Bildstelle Berlin | Description: <p>Foto: Staatliche Bildstelle Berlin, 1937, HMF C31431</p>*
 

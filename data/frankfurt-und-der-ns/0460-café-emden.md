@@ -23,6 +23,6 @@ In der Klostergasse 67/69 (heute: Battonnstraße) wurde 1903 das Café Emden geg
 
 ## Gallery
 
-![<p>Detail aus dem Altstadtmodell der Gebrüder Treuner. Blick auf die westliche Bebauung an der Klostergasse zwischen Dominikanergasse und Battonnstraße. Der genaue Standort des Café Emden lässt sich nicht ermitteln, die Aufnahme vermittelt einen Eindruck der Klostergasse.</p>](../images/X281395100_ba4fe2929cfff6d2e468ee86c451ecf1_original.jpg)
+![<p>Detail aus dem Altstadtmodell der Gebrüder Treuner. Blick auf die westliche Bebauung an der Klostergasse zwischen Dominikanergasse und Battonnstraße. Der genaue Standort des Café Emden lässt sich nicht ermitteln, die Aufnahme vermittelt einen Eindruck der Klostergasse.</p>](../images/X281395100_ba4fe2929cfff6d2e468ee86c451ecf1_medium.jpg)
 *o. D. — Author: Uwe Dettmar | License: HMF | Description: <p>Detail aus dem Altstadtmodell der Gebrüder Treuner. Blick auf die westliche Bebauung an der Klostergasse zwischen Dominikanergasse und Battonnstraße. Der genaue Standort des Café Emden lässt sich nicht ermitteln, die Aufnahme vermittelt einen Eindruck der Klostergasse.</p>*
 

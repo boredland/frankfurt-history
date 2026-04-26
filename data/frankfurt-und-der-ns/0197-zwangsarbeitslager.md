@@ -15,7 +15,7 @@ filters:
 
 *Eschborner Landstraße 172*
 
-![Zwangsarbeitslager, Eschborner Landstraße 172](../images/54c41472c580dd3510ed3ebc532a16ea_original.jpg)
+![Zwangsarbeitslager, Eschborner Landstraße 172](../images/54c41472c580dd3510ed3ebc532a16ea_medium.jpg)
 *1935 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-30807 | Description: Zwangsarbeitslager, Eschborner Landstraße 172*
 
 Hier hatten zwei Firmen ihren Hauptsitz: die Westdeutsche Ziegelwerke AG und die VAG Vakuum- und Kolbengesellschaft Otto Graf & Co. Beide setzten Zwangsarbeiter*innen ein, die hier auch untergebracht waren. Für das Jahr 1943 ist belegt, dass die Westdeutsche Ziegelwerke AG neun Zwangsarbeiter*innen aus der Ukraine, sechs aus Polen und 19 aus Frankreich beschäftigte. Bei den Zwangsarbeitern aus Frankreich handelte es sich um Kriegsgefangene, die vermutlich von der Wehrmacht vom Stalag IX B Wegscheide hierhergeschickt wurden.
@@ -24,7 +24,7 @@ Hier hatten zwei Firmen ihren Hauptsitz: die Westdeutsche Ziegelwerke AG und die
 
 ## Gallery
 
-![Zwangsarbeitslager, Eschborner Landstraße 172](../images/54c41472c580dd3510ed3ebc532a16ea_original.jpg)
+![Zwangsarbeitslager, Eschborner Landstraße 172](../images/54c41472c580dd3510ed3ebc532a16ea_medium.jpg)
 *1935 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-30807 | Description: Zwangsarbeitslager, Eschborner Landstraße 172*
 
 

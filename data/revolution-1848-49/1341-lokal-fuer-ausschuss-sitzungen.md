@@ -14,7 +14,7 @@ filters:
 
 *Buchgasse 3*
 
-![<p>Foto eines Lokals in der Buchgasse, in dem Ausschuss-Sitzungen abgehalten wurden</p>](../images/c227235f39126bbfa4124beeec83135f_original.jpg)
+![<p>Foto eines Lokals in der Buchgasse, in dem Ausschuss-Sitzungen abgehalten wurden</p>](../images/c227235f39126bbfa4124beeec83135f_medium.jpg)
 *um 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2609 | Description: <p>Foto eines Lokals in der Buchgasse, in dem Ausschuss-Sitzungen abgehalten wurden</p>*
 
 Gegenüber der romanisch-gotischen Kirche St. Leonhard befand sich 1848 in der Buchgasse 1 eines von mehreren Lokalen für die zahlreichen Ausschuss-Sitzungen. Denn der Paulskirche fehlte es für Besprechungen und Beratungen an Räumlichkeiten. So fanden diese unter freiem Himmel auf dem Paulsplatz, in den Lokalen und Gaststuben als Treffpunkte der Fraktionen oder in den angemieteten Ausschusslokalen statt. Letztere befanden sich in der Paulsgasse 1 und 5, in der Neuen Kräme 7, in der Großen Sandgasse 2 sowie in der Buchgasse 1 und 16. Die Kanzlei der Nationalversammlung saß im Haus zum Korb (Sarasin) am Großen Kornmarkt 12.
@@ -27,6 +27,6 @@ Die Tage eines Abgeordneten waren lang: Fast täglich – außer sonn- und feier
 
 ## Gallery
 
-![Foto eines Lokals in der Buchgasse, in dem Ausschuss-Sitzungen abgehalten wurden](../images/14 Buchgas_5a70bc5b4bdcb14e84f02c8996ec94c5_original.jpg)
+![Foto eines Lokals in der Buchgasse, in dem Ausschuss-Sitzungen abgehalten wurden](../images/14 Buchgas_5a70bc5b4bdcb14e84f02c8996ec94c5_medium.jpg)
 *um 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2609 | Description: Foto eines Lokals in der Buchgasse, in dem Ausschuss-Sitzungen abgehalten wurden*
 

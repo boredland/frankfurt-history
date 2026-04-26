@@ -21,7 +21,7 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
-![<p>Bildrechte: Nachlass J. Bendorf</p>](../images/18383845f2b77a3f2c969048d40c6aee_original.jpg)
+![<p>Bildrechte: Nachlass J. Bendorf</p>](../images/18383845f2b77a3f2c969048d40c6aee_medium.jpg)
 *Author: Julius Bendorf | Description: <p>Bildrechte: Nachlass J. Bendorf</p>*
 
 

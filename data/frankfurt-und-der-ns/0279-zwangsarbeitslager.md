@@ -14,13 +14,13 @@ filters:
 
 *Ferdinand-Happ-Straße*
 
-![<p>Ferdinand-Happ-Straße</p>](../images/c9a51caa6be30700657ab207abe79bf4_original.jpg)
+![<p>Ferdinand-Happ-Straße</p>](../images/c9a51caa6be30700657ab207abe79bf4_medium.jpg)
 *ca. 1933 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 1386 | Description: <p>Ferdinand-Happ-Straße</p>*
 
 Die Gübaro (Güterempfangsgemeinschaft und Bahnamtliche Rollfuhr) GmbH betrieb am Hauptgüterbahnhof, Südliche Zufuhrstraße (heute Ferdinand-Happ-Straße), ein Lager für Zivilarbeiter.
 
 ## Gallery
 
-![<p>Ferdinand-Happ-Straße</p>](../images/c9a51caa6be30700657ab207abe79bf4_original.jpg)
+![<p>Ferdinand-Happ-Straße</p>](../images/c9a51caa6be30700657ab207abe79bf4_medium.jpg)
 *ca. 1933 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 1386 | Description: <p>Ferdinand-Happ-Straße</p>*
 

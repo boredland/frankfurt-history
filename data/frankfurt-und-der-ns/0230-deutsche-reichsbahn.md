@@ -15,7 +15,7 @@ filters:
 
 *Idsteiner Straße 18*
 
-![Zwangsarbeitslager, Idsteiner Straße 18](../images/9d8f28a7ad7a9e93b7c194034aae0151_original.jpg)
+![Zwangsarbeitslager, Idsteiner Straße 18](../images/9d8f28a7ad7a9e93b7c194034aae0151_medium.jpg)
 *ca. 1944 — Author: Jürgen Engelhardt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-4243 | Description: Zwangsarbeitslager, Idsteiner Straße 18*
 
 Heute, 2025, entstehen auf dem ehemaligen Reichsbahngelände im Frankfurter Stadtteil Gallus moderne Wohnanlagen, wo im 19. Jahrhundert die Industrialisierung der Stadt im Westen begann.
@@ -46,13 +46,13 @@ Eines Tages fuhren die Züge wegen der Bombenschäden vom Bahnhof Griesheim und 
 
 ## Gallery
 
-![Zwangsarbeitslager, Idsteiner Straße 18](../images/9d8f28a7ad7a9e93b7c194034aae0151_original.jpg)
+![Zwangsarbeitslager, Idsteiner Straße 18](../images/9d8f28a7ad7a9e93b7c194034aae0151_medium.jpg)
 *ca. 1944 — Author: Jürgen Engelhardt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-4243 | Description: Zwangsarbeitslager, Idsteiner Straße 18*
 
 
 ## Gallery
 
-![Zeichnung eines zerstörten Industriegebäudes im Zweiten Weltkrieg in Frankfurt am Main.](../images/Zerstörte_04405461b84000634051c84861dee6ec_original.jpg)
+![Zeichnung eines zerstörten Industriegebäudes im Zweiten Weltkrieg in Frankfurt am Main.](../images/Zerstörte_04405461b84000634051c84861dee6ec_medium.jpg)
 *2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Zeichnung eines zerstörten Industriegebäudes im Zweiten Weltkrieg in Frankfurt am Main.*
 
 
@@ -70,7 +70,7 @@ Eines Tages fuhren die Züge wegen der Bombenschäden vom Bahnhof Griesheim und 
 
 ## Gallery
 
-![Vor dem Flörsheimer Bahnhof erinnert ein Koffer-Denkmal an die Menschen, die wegen der NS-Verfolgung und Zwangsarbeit hier zwischen 1933 und 1945 hier abfuhren und ankamen.](../images/Foto 3 Ids_35d8a8fbb8c8fd3cde011de398e05a3e_original.jpg)
+![Vor dem Flörsheimer Bahnhof erinnert ein Koffer-Denkmal an die Menschen, die wegen der NS-Verfolgung und Zwangsarbeit hier zwischen 1933 und 1945 hier abfuhren und ankamen.](../images/Foto 3 Ids_35d8a8fbb8c8fd3cde011de398e05a3e_medium.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christne Hartwig-Thürmer | Description: Vor dem Flörsheimer Bahnhof erinnert ein Koffer-Denkmal an die Menschen, die wegen der NS-Verfolgung und Zwangsarbeit hier zwischen 1933 und 1945 hier abfuhren und ankamen.*
 
 

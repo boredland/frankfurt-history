@@ -17,7 +17,7 @@ filters:
 
 *Arndtstraße 51*
 
-![Das Haus in der Arndtstr. 51 heute](../images/3954065ffa6923c08c89fdaa8da9bdbb_original.jpg)
+![Das Haus in der Arndtstr. 51 heute](../images/3954065ffa6923c08c89fdaa8da9bdbb_medium.jpg)
 *Author: Susanne Thurnay | License: Privat | Description: Das Haus in der Arndtstr. 51 heute*
 
 Das Haus Arndtstraße 51 wurde 1882–83 als Spekulationsobjekt erbaut. Im März 1907 erwarben Prof. Dr. Ferdinand Blum und seine Frau Emma die rechte Haushälfte. Am 18. November 1939 schenkte Ferdinand Blum seinen Anteil den beiden Töchtern, um ihn dem Zugriff der Nationalsozialisten zu entziehen. Als die Nazis später auch Personen mit nur einem jüdischen Elternteil den Grundbesitz verboten, gaben die Töchter ihren Anteil an ihre nicht-jüdischen Ehemänner weiter. So konnte das Haus in der Familie bleiben.
@@ -42,12 +42,12 @@ Institut für Stadtgeschichte, Sig. A62.02.46, Schenkungsvertrag Arndtstr. 51.
 
 ## Gallery
 
-![Das Haus in der Arndtstr. 51 heute](../images/3954065ffa6923c08c89fdaa8da9bdbb_original.jpg)
+![Das Haus in der Arndtstr. 51 heute](../images/3954065ffa6923c08c89fdaa8da9bdbb_medium.jpg)
 *Author: Susanne Thurnay | License: Privat | Description: Das Haus in der Arndtstr. 51 heute*
 
 
 ## Gallery
 
-![Notarsschreiben wegen Schenkung.](../images/isg_ffm_a__132bee090ba49deee6eb6bbb779938b3_original.jpg)
+![Notarsschreiben wegen Schenkung.](../images/isg_ffm_a__132bee090ba49deee6eb6bbb779938b3_medium.jpg)
 *Author: unbekannt | License: Institut für Stadtgeschichte, Sig. A62.02.46 | Description: Notarsschreiben wegen Schenkung.*
 

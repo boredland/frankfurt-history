@@ -25,9 +25,9 @@ Das Heiliggeist-Pförtchen bildete den mainseitigen Eingang zum Heiliggeist-Spit
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Das Heiliggeist-Pförtchen von außen (Rekonstruktion nach einer Zeichnung von Reiß), 1854, aquarellierte Bleistiftzeichnung, HMF R0030</p>](../images/R0030_png_cd5f989de33f26a13e96154102fdff85_original.jpg)
+![<p>Carl Theodor Reiffenstein, Das Heiliggeist-Pförtchen von außen (Rekonstruktion nach einer Zeichnung von Reiß), 1854, aquarellierte Bleistiftzeichnung, HMF R0030</p>](../images/R0030_png_cd5f989de33f26a13e96154102fdff85_medium.jpg)
 *1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Das Heiliggeist-Pförtchen von außen (Rekonstruktion nach einer Zeichnung von Reiß), 1854, aquarellierte Bleistiftzeichnung, HMF R0030</p>*
 
-![<p>Carl Theodor Reiffenstein, Das Heiliggeist-Pförtchen von innen, 1854, aquarellierte Bleistiftzeichnung, HMF R0029</p>](../images/R0029_png_5bad8c89505867957641299ffe9adb94_original.jpg)
+![<p>Carl Theodor Reiffenstein, Das Heiliggeist-Pförtchen von innen, 1854, aquarellierte Bleistiftzeichnung, HMF R0029</p>](../images/R0029_png_5bad8c89505867957641299ffe9adb94_medium.jpg)
 *1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Das Heiliggeist-Pförtchen von innen, 1854, aquarellierte Bleistiftzeichnung, HMF R0029</p>*
 

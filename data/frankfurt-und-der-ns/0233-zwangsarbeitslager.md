@@ -14,13 +14,13 @@ filters:
 
 *Intzestraße 12*
 
-![<p>Zwangsarbeitslager</p>](../images/920dc9de22f04f7b2d19c633424f048c_original.jpg)
+![<p>Zwangsarbeitslager</p>](../images/920dc9de22f04f7b2d19c633424f048c_medium.jpg)
 *2017 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2017-963 | Description: <p>Zwangsarbeitslager</p>*
 
 Das Bauunternehmen Georg Lönholdt, das sich im Straßen-, Bahn-, Kanal- und Hochbau betätigte, betrieb in der Intzestraße 12 ein Lager für Zivilarbeiter.
 
 ## Gallery
 
-![<p>Zwangsarbeitslager</p>](../images/920dc9de22f04f7b2d19c633424f048c_original.jpg)
+![<p>Zwangsarbeitslager</p>](../images/920dc9de22f04f7b2d19c633424f048c_medium.jpg)
 *2017 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2017-963 | Description: <p>Zwangsarbeitslager</p>*
 

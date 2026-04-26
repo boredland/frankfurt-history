@@ -27,16 +27,16 @@ Auf dem ehemaligen Gelände des Kühhornshofs im Stadtteil Dornbusch befindet si
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Kühhornshof mit Wassergraben und Brücke, 1855, aquarellierte Bleistiftzeichnung, HMF RS0122</p>](../images/RS0122_png_f64ec14854054de6cc19207f27f2c741_original.jpg)
+![<p>Carl Theodor Reiffenstein, Kühhornshof mit Wassergraben und Brücke, 1855, aquarellierte Bleistiftzeichnung, HMF RS0122</p>](../images/RS0122_png_f64ec14854054de6cc19207f27f2c741_medium.jpg)
 *1855 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Kühhornshof mit Wassergraben und Brücke, 1855, aquarellierte Bleistiftzeichnung, HMF RS0122</p>*
 
-![<p>Carl Theodor Reiffenstein, Kühhornshof, Ostseite mit Brücke, 1836, Bleistiftzeichnung, HMF RS0120</p>](../images/RS0120_png_f89f99e57e19331227445c0a7bacbb0a_original.jpg)
+![<p>Carl Theodor Reiffenstein, Kühhornshof, Ostseite mit Brücke, 1836, Bleistiftzeichnung, HMF RS0120</p>](../images/RS0120_png_f89f99e57e19331227445c0a7bacbb0a_medium.jpg)
 *1836 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Kühhornshof, Ostseite mit Brücke, 1836, Bleistiftzeichnung, HMF RS0120</p>*
 
-![<p>Carl Theodor Reiffenstein, Kühhornshof, Innenhof mit Anbauten, 1855, aquarellierte Bleistiftzeichnung, HMF RS0125</p>](../images/RS0125_png_7bcd0654a6017b91fa086bce17077f6f_original.jpg)
+![<p>Carl Theodor Reiffenstein, Kühhornshof, Innenhof mit Anbauten, 1855, aquarellierte Bleistiftzeichnung, HMF RS0125</p>](../images/RS0125_png_7bcd0654a6017b91fa086bce17077f6f_medium.jpg)
 *1855 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Kühhornshof, Innenhof mit Anbauten, 1855, aquarellierte Bleistiftzeichnung, HMF RS0125</p>*
 
-![<p>Carl Theodor Reiffenstein, Kühhornshof, Brunnen und ehemaliges Feldgericht, 1860, aquarellierte Bleistiftzeichnung, HMF RS0117</p>](../images/RS0117_png_87349318bc89f3d4169f338ad2802f77_original.jpg)
+![<p>Carl Theodor Reiffenstein, Kühhornshof, Brunnen und ehemaliges Feldgericht, 1860, aquarellierte Bleistiftzeichnung, HMF RS0117</p>](../images/RS0117_png_87349318bc89f3d4169f338ad2802f77_medium.jpg)
 *1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Kühhornshof, Brunnen und ehemaliges Feldgericht, 1860, aquarellierte Bleistiftzeichnung, HMF RS0117</p>*
 
 

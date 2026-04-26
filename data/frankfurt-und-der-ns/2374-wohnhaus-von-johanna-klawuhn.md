@@ -12,7 +12,7 @@ filters:
 
 *Kleine Rittergasse 39*
 
-![](../images/519eb9cefd8bee12c79f440cf500c144_original.jpg)
+![](../images/519eb9cefd8bee12c79f440cf500c144_medium.jpg)
 
 Hier lebte Johanna Klawuhn, geborene Wiegand (1896-?). Sie ist ein Beispiel für die Verfolgung von psychisch kranken Menschen im Nationalsozialismus.
 

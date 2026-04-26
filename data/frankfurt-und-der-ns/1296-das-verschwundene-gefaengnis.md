@@ -12,7 +12,7 @@ filters:
 
 *Hospitalstraße 18*
 
-![](../images/7d3426b7ff800130419088c39fd0715b_original.jpg)
+![](../images/7d3426b7ff800130419088c39fd0715b_medium.jpg)
 *Author: Günter Thorwarth | License: Günter Thorwarth*
 
 Das ehemalige Gefängnis Frankfurt/Höchst, wurde ab 1912 erbaut und 2014 abgerissen. In der Zeit des Nationalsozialismus von 1933-1945 diente es u. a. als „Sondervollzugsanstalt für Gefängnisstrafen an gestrauchelte Frauen“. Unter den damaligen Gefangenen waren viele osteuropäische Frauen und mindestens 22 Zeugen Jehovas.

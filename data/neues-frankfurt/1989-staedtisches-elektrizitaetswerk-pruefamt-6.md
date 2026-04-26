@@ -14,7 +14,7 @@ filters:
 
 *Gutleutstraße 280*
 
-![Elektizitätswerk mit Prüfamt an der Gutleutstraße mit rechts angrenzenden Großgaragen der Frankfurter Automobildroschkengesellschaft von Ferdinand Kramer.](../images/6466d52b0b92e4b4906bc3435ee7bb30_original.jpg)
+![Elektizitätswerk mit Prüfamt an der Gutleutstraße mit rechts angrenzenden Großgaragen der Frankfurter Automobildroschkengesellschaft von Ferdinand Kramer.](../images/6466d52b0b92e4b4906bc3435ee7bb30_medium.jpg)
 *1933 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Elektizitätswerk mit Prüfamt an der Gutleutstraße mit rechts angrenzenden Großgaragen der Frankfurter Automobildroschkengesellschaft von Ferdinand Kramer.*
 
 Nicht weit vom Kraftwerk West wurde das Prüfamt 6 als Teil eines größeren Betriebskomplexes errichtet. Der heute kaum beachtete Stahlskelettbau gilt als einer der fortschrittlichsten Industriebauten seiner Zeit. Hier brachte man Magazine, Kabellager, Laboratorien und Werkstätten unter. Zähler und Messgeräte, die man vermehrt benötigte, wurden im Prüfamt geeicht. Ganz neu war die Verwendung der Zeiss-Dywidag-Schalenbauweise, die auch beim Bau der Großmarkthalle zum Einsatz kam. Die Überdachung des Montagehofs mit einer Kuppel von 26 Metern Durchmesser bei einer Betonstärke von nur vier Zentimetern galt als Sensation. Andere Gebäudeteile wurden mit kühnen Tonnengewölben aus Beton bedeckt. Mit einer variantenreichen Fensterrasterung setzte Adolf Meyer beim Verwaltungsbau an der Straße sichtbare gestalterische Akzente.
@@ -37,6 +37,6 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
-![Elektizitätswerk mit Prüfamt an der Gutleutstraße mit rechts angrenzenden Großgaragen der Frankfurter Automobildroschkengesellschaft von Ferdinand Kramer.](../images/isg_ffm_s7_d4f9d582f7c3e7d0b7e881a533b3e9d8_original.jpg)
+![Elektizitätswerk mit Prüfamt an der Gutleutstraße mit rechts angrenzenden Großgaragen der Frankfurter Automobildroschkengesellschaft von Ferdinand Kramer.](../images/isg_ffm_s7_d4f9d582f7c3e7d0b7e881a533b3e9d8_medium.jpg)
 *1933 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Elektizitätswerk mit Prüfamt an der Gutleutstraße mit rechts angrenzenden Großgaragen der Frankfurter Automobildroschkengesellschaft von Ferdinand Kramer.*
 

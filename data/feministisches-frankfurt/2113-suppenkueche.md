@@ -12,7 +12,7 @@ filters:
 
 *Bertha Pappenheim – Jüdische Care Arbeit*
 
-![Platzhalter](../images/ee1966f7f56103ae1baeb63686d7c114_original.jpg)
+![Platzhalter](../images/ee1966f7f56103ae1baeb63686d7c114_medium.jpg)
 *2025 — Author: Hannah Rödel | License: HMF/Hannah Rödel | Description: Platzhalter*
 
 Die Israelitische Suppenanstalt in der Theobald-Christ-Str. 5 wurde 1880 gegründet, um Bedürftige zu versorgen. Bertha Pappenheims engagierte sich sozial. Sie arbeitete in der Israelitischen Suppenanstalt im Ostend mit, wo täglich etwa 200 Personen mit koscherem Essen versorgt wurden. In der Nähe befand sich auch das von Bertha Pappenheim geleitete Israelitische Mädchenwaisenhaus und der von ihr gegründete Mädchenclub, eine der ersten Einrichtungen der offenen Mädchenarbeit in Frankfurt.
@@ -21,6 +21,6 @@ Die Israelitische Suppenanstalt in der Theobald-Christ-Str. 5 wurde 1880 gegrün
 
 ## Gallery
 
-![Platzhalter](../images/FemFFM_pla_51ec9396b1132f5f5b3e40ef28814ea6_original.jpg)
+![Platzhalter](../images/FemFFM_pla_51ec9396b1132f5f5b3e40ef28814ea6_medium.jpg)
 *2025 — Author: Hannah Rödel | License: HMF/Hannah Rödel | Description: Platzhalter*
 

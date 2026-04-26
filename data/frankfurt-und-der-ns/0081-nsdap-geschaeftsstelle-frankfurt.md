@@ -15,7 +15,7 @@ filters:
 
 *Zeil 38*
 
-![© Katharina Müller, VG Bild-Kunst, Bonn 2022](../images/df5ce683e96f640e31681d4103d03239_original.jpg)
+![© Katharina Müller, VG Bild-Kunst, Bonn 2022](../images/df5ce683e96f640e31681d4103d03239_medium.jpg)
 *2022 — Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022 | Description: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 
 Die erste Geschäftsstelle der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) befand sich ab 1925 in der Zeil 38 im zweiten Stock. Die NSDAP hatte hier ein kleines Zimmer gemietet. Das Mobiliar bestand aus zwei Stehpulten vom Trödler. Eine Schreibmaschine gab es noch nicht.
@@ -24,6 +24,6 @@ Die erste Geschäftsstelle der Nationalsozialistischen Deutschen Arbeiterpartei 
 
 ## Gallery
 
-![© Katharina Müller, VG Bild-Kunst, Bonn 2022](../images/df5ce683e96f640e31681d4103d03239_original.jpg)
+![© Katharina Müller, VG Bild-Kunst, Bonn 2022](../images/df5ce683e96f640e31681d4103d03239_medium.jpg)
 *2022 — Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022 | Description: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 

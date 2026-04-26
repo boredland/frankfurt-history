@@ -14,7 +14,7 @@ filters:
 
 *Bolongarostraße 90*
 
-![Ansicht der Bolongarostraße 90](../images/61a9d4af3612c543399c1269a4d854ac_original.jpg)
+![Ansicht der Bolongarostraße 90](../images/61a9d4af3612c543399c1269a4d854ac_medium.jpg)
 *ca. 1900 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 8135 | Description: Ansicht der Bolongarostraße 90*
 
 Hier betrieb die Höchster Eisengießerei L. Scriba ein Zwangsarbeitslager, in dem seit 1942 drei Franzosen untergebracht waren.
@@ -23,7 +23,7 @@ Hier betrieb die Höchster Eisengießerei L. Scriba ein Zwangsarbeitslager, in d
 
 ## Gallery
 
-![Ansicht der Bolongarostraße 90](../images/61a9d4af3612c543399c1269a4d854ac_original.jpg)
+![Ansicht der Bolongarostraße 90](../images/61a9d4af3612c543399c1269a4d854ac_medium.jpg)
 *ca. 1900 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 8135 | Description: Ansicht der Bolongarostraße 90*
 
 

@@ -15,7 +15,7 @@ filters:
 
 *Froschhäuser Straße*
 
-![Bauplan des Zwangsarbeitslagers Froschhäuser Straße auf Basis der originalen Bauzeichnung von 1942.](../images/70ad96f6dd766a906fc20c17e97b4ca4_original.jpg)
+![Bauplan des Zwangsarbeitslagers Froschhäuser Straße auf Basis der originalen Bauzeichnung von 1942.](../images/70ad96f6dd766a906fc20c17e97b4ca4_medium.jpg)
 *2025 — Author: Grafikdesigner: carloscusguen.com | License: Sascha Mahl | Description: Bauplan des Zwangsarbeitslagers Froschhäuser Straße auf Basis der originalen Bauzeichnung von 1942.*
 
 Hier betrieben die Adlerwerke seit 1942 ein Zwangsarbeitslager für 2.000 Menschen, das mit einem zweieinhalb Meter hohen Stacheldraht umzäunt war. Das Lager entstand Ende 1942, weil die Adlerwerke einen hohen Bedarf an Zwangsarbeiter*innen hatten. Bereits während der Bauphase des Barackenlagers lebten 800 Zwangsarbeitskräfte aus Osteuropa unter furchtbaren Bedingungen auf dem Gelände. Im März 1943 war das Lager fertiggestellt. Es bestand aus 24 Baracken, in denen auch eine Wäscherei, eine Näherei, ein Friseur und eine Reparaturwerkstatt untergebracht waren. Für die Zwangsarbeiter*innen standen lediglich zwei oder drei Quadratmeter Wohnfläche zur Verfügung. Die Lebensbedingungen waren menschenunwürdig. Hinzu kam die brutale Behandlung durch die Gestapo. Zehn Prozent der Zwangsarbeiter*innen der Adlerwerke wurden von der Gestapo verhaftet und registriert. Neben der Gefängnishaft drohte ihnen die Haft im sogenannten Arbeitserziehungslager in Heddernheim oder die Deportation in ein Konzentrationslager.
@@ -28,6 +28,6 @@ Hier betrieben die Adlerwerke seit 1942 ein Zwangsarbeitslager für 2.000 Mensch
 
 ## Gallery
 
-![Bauplan des Zwangsarbeitslagers der Adlerwerke in der Froschhäuser Straße auf Basis der originalen Bauzeichnung von 1942.](../images/map_editab_da62ad0be90eabb62ca5f4bee3b1e2ae_original.jpg)
+![Bauplan des Zwangsarbeitslagers der Adlerwerke in der Froschhäuser Straße auf Basis der originalen Bauzeichnung von 1942.](../images/map_editab_da62ad0be90eabb62ca5f4bee3b1e2ae_medium.jpg)
 *2025 — Author: Grafikdesigner: carloscusguen.com | License: Sascha Mahl | Description: Bauplan des Zwangsarbeitslagers der Adlerwerke in der Froschhäuser Straße auf Basis der originalen Bauzeichnung von 1942.*
 

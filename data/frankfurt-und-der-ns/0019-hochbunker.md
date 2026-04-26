@@ -15,7 +15,7 @@ filters:
 
 *An der Schwarzbachmühle 20*
 
-![Foto eines Hochbunkers An der Schwarzbachmühle](../images/05121597e1c33cd3fc2470e60f0e60b7_original.jpg)
+![Foto eines Hochbunkers An der Schwarzbachmühle](../images/05121597e1c33cd3fc2470e60f0e60b7_medium.jpg)
 *2007 — Author: Wolfgang Kamberger | Description: Foto eines Hochbunkers An der Schwarzbachmühle*
 
 Dieser Bunker war Teil des sogenannten Führer-Sofortprogramms und diente als Schutzraum für die Bevölkerung des Ortsteils Goldstein. Auf zwei Etagen gab es Platz für 366 Menschen. Jüdinnen und Juden, Zwangsarbeiter*innen und Kriegsgefangenen war es verboten, Bunker zu nutzen. Die Bauarbeiten begannen im Dezember 1940. Um den Bunker gegen Luftangriffe zu tarnen, wurde der Bau an die Gebäude in der Umgebung angepasst. Nur 35.000 Frankfurter hatten einen Bunkerplatz. Viele flohen in die Keller ihrer Häuser und in die öffentlichen Luftschutzkeller, die nicht bombensicher waren. Als dies bekannt wurde, drängten immer mehr Menschen in die Bunker. Nach dem Krieg nutzte die Spedition Dellihausen das Gebäude, um wertvolle Gegenstände von Ausgebombten und Evakuierten einzulagern. Der Bunker ist seit 2007 in Privatbesitz.
@@ -27,7 +27,7 @@ Bauunternehmen: unbekannt.
 
 ## Gallery
 
-![Foto eines Hochbunkers An der Schwarzbachmühle](../images/05121597e1c33cd3fc2470e60f0e60b7_original.jpg)
+![Foto eines Hochbunkers An der Schwarzbachmühle](../images/05121597e1c33cd3fc2470e60f0e60b7_medium.jpg)
 *2007 — Author: Wolfgang Kamberger | Description: Foto eines Hochbunkers An der Schwarzbachmühle*
 
 

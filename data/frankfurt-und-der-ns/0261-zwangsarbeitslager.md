@@ -15,7 +15,7 @@ filters:
 
 *Kettelerallee 72*
 
-![Bildpostkarte mit Außenansicht des Bornheimer Ratskellers](../images/47a8ae916b95f6df5596b637b741e8f6_original.jpg)
+![Bildpostkarte mit Außenansicht des Bornheimer Ratskellers](../images/47a8ae916b95f6df5596b637b741e8f6_medium.jpg)
 *1907 — Author: unbekannt | License: HMF / Sammlung Church C80203 | Description: Bildpostkarte mit Außenansicht des Bornheimer Ratskellers*
 
 Die Gaststätte Bornheimer Ratskeller im Nussberg 72 (heute: Kettelerallee) diente als Lager für Zwangsarbeiter*innen der Lurgi Werkstätten GmbH im Industriegebiet im Riederwald. 1942 waren es 29 französische Zwangsarbeiter. 1945 waren hier vier italienische Zwangsarbeiter untergebracht, die in der Apfelsaft-, Traubensaft- und Apfelweinkelterei Peter Cornel arbeiten mussten. 1946 meldete das 6. Polizeirevier an die United Nations Relief and Rehabilitation Administration (UNRRA), dass an diesem Ort von Februar 1942 bis März 1945 28 Zwangsarbeiter aus Frankreich einquartiert waren. Frankfurt war am 29. März von den alliierten Truppen befreit worden. Die UNRRA war dafür zuständig, Menschen aus den Mitgliedsstaaten der (im Oktober 1945 gegründeten) UNO zu erfassen, zu betreuen und bei der Rückkehr in ihre Heimatländer zu unterstützen.
@@ -24,7 +24,7 @@ Die Gaststätte Bornheimer Ratskeller im Nussberg 72 (heute: Kettelerallee) dien
 
 ## Gallery
 
-![Bildpostkarte mit Außenansicht des Bornheimer Ratskellers](../images/47a8ae916b95f6df5596b637b741e8f6_original.jpg)
+![Bildpostkarte mit Außenansicht des Bornheimer Ratskellers](../images/47a8ae916b95f6df5596b637b741e8f6_medium.jpg)
 *1907 — Author: unbekannt | License: HMF / Sammlung Church C80203 | Description: Bildpostkarte mit Außenansicht des Bornheimer Ratskellers*
 
 

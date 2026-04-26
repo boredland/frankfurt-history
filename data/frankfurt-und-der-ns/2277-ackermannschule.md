@@ -14,7 +14,7 @@ filters:
 
 *Ackermannstraße 37*
 
-![Das Schulgebäude der Ackermannschule ist bei Bombenangriffen beschädigt worden.](../images/Geschichts_99bbd18f13c2fd80bcb991fd431ce83a_original.jpg)
+![Das Schulgebäude der Ackermannschule ist bei Bombenangriffen beschädigt worden.](../images/Geschichts_99bbd18f13c2fd80bcb991fd431ce83a_medium.jpg)
 *1945 — Author: Unbekannt | License: Geschichtswerkstatt Gallus e.V. | Description: Das Schulgebäude der Ackermannschule ist bei Bombenangriffen beschädigt worden.*
 
 Ein Lager für Zwangsarbeiterinnen in einem Schulhaus
@@ -27,7 +27,7 @@ Die Tschechin Blažená Urbanová musste zwischen 1942 und 1945 Zwangsarbeit lei
 
 ## Gallery
 
-![Das Schulgebäude der Ackermannschule ist bei Bombenangriffen beschädigt worden.](../images/Geschichts_99bbd18f13c2fd80bcb991fd431ce83a_original.jpg)
+![Das Schulgebäude der Ackermannschule ist bei Bombenangriffen beschädigt worden.](../images/Geschichts_99bbd18f13c2fd80bcb991fd431ce83a_medium.jpg)
 *1945 — Author: Unbekannt | License: Geschichtswerkstatt Gallus e.V. | Description: Das Schulgebäude der Ackermannschule ist bei Bombenangriffen beschädigt worden.*
 
 ![Zwangsarbeiter*innen waren in dem Gebäude der Ackermannschule untergebracht. Sie stehen vor dem Gebäude.](../images/ZWA_Projek_83248eeb94a421f065fab3e895269aac_original.jpg)

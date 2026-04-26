@@ -14,7 +14,7 @@ filters:
 
 *Opernplatz 14*
 
-![](../images/6642e3a7d90d3cced1c5d1bd174db83f_original.jpg)
+![](../images/6642e3a7d90d3cced1c5d1bd174db83f_medium.jpg)
 
 Jehovas Zeugen gehörten viele Jahre zu den „vergessenen Opfern“ und fanden kaum Erwähnung. Wir möchten die Frankfurter Opfer aus der Vergessenheit holen. Seit 1997 wird an die Frankfurter Zeugen Jehovas erinnert, die unter dem NS-Regime wegen ihrer christlichen Überzeugung gelitten haben. Durch ehrenamtliche Tätigkeit wird in den Archiven und Gedenkstätten das Erlebte der Opfer aufgearbeitet.
 
@@ -24,7 +24,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
-![<p>Stolperstein für Cornelis van der Raaf</p>](../images/Cornelis v_0670cebcd1162fee7f6d961e693c4bfd_original.jpg)
+![<p>Stolperstein für Cornelis van der Raaf</p>](../images/Cornelis v_0670cebcd1162fee7f6d961e693c4bfd_medium.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein für Cornelis van der Raaf</p>*
 
 

@@ -14,7 +14,7 @@ filters:
 
 *Kaiserstraße*
 
-![Ansichtskarte der Kaiserstraße mit Blick Richtung Hauptbahnhof](../images/75dbf43bc3ce17bb47efad74b8d93196_original.jpg)
+![Ansichtskarte der Kaiserstraße mit Blick Richtung Hauptbahnhof](../images/75dbf43bc3ce17bb47efad74b8d93196_medium.jpg)
 *ca. 1900 — Author: Verlag Emil Hartmann | License: Historisches Museum Frankfurt | Description: Ansichtskarte der Kaiserstraße mit Blick Richtung Hauptbahnhof*
 
 Die Kaiserstraße war ein gründerzeitlicher Prachtboulevard in der Innenstadt von Frankfurt.
@@ -25,6 +25,6 @@ Im Januar 1925 wurde die 16-jährige trans* Person W. Heinrich in weiblicher Kle
 
 ## Gallery
 
-![Ansichtskarte der Kaiserstraße mit Blick Richtung Hauptbahnhof](../images/C57778+001_2974c3cdded3d29705026009811d07ed_original.jpg)
+![Ansichtskarte der Kaiserstraße mit Blick Richtung Hauptbahnhof](../images/C57778+001_2974c3cdded3d29705026009811d07ed_medium.jpg)
 *ca. 1900 — Author: Verlag Emil Hartmann | License: Historisches Museum Frankfurt | Description: Ansichtskarte der Kaiserstraße mit Blick Richtung Hauptbahnhof*
 

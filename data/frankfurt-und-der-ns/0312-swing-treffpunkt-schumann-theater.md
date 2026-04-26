@@ -15,7 +15,7 @@ filters:
 
 *Am Hauptbahnhof 16*
 
-![Bildpostkarte mit dem Schumann-Keller](../images/2e4f13ccf387620acdb9248e9b09d568_original.jpg)
+![Bildpostkarte mit dem Schumann-Keller](../images/2e4f13ccf387620acdb9248e9b09d568_medium.jpg)
 *1940 — Author: unbekannt | License: HMF, Sammlung Church, C80371 | Description: Bildpostkarte mit dem Schumann-Keller*
 
 Das Schumann-Theater am Hindenburgplatz (heute: Am Hauptbahnhof) gehörte zu den beliebten Treffpunkten von Jugendlichen, die Swing hörten und dazu tanzen wollten. Hier traten bis 1943 bekannte Orchester aus dem Ausland auf. Manche stammten aus Ländern, die politisch neutral waren, sich also nicht am Zweiten Weltkrieg beteiligten. Andere Künstler*innen kamen aus Ländern, die das Deutsche Reich besetzt hatte. Neben einem Varieté gab es eine Bar im Untergeschoss und das Schumann-Café im ersten Stock, das beim „Club der Kameruner“ sehr beliebt war. Das waren Jugendliche der Swingszene aus dem Gallusviertel.
@@ -24,7 +24,7 @@ Das Schumann-Theater am Hindenburgplatz (heute: Am Hauptbahnhof) gehörte zu den
 
 ## Gallery
 
-![Bildpostkarte mit dem Schumann-Keller](../images/2e4f13ccf387620acdb9248e9b09d568_original.jpg)
+![Bildpostkarte mit dem Schumann-Keller](../images/2e4f13ccf387620acdb9248e9b09d568_medium.jpg)
 *1940 — Author: unbekannt | License: HMF, Sammlung Church, C80371 | Description: Bildpostkarte mit dem Schumann-Keller*
 
 

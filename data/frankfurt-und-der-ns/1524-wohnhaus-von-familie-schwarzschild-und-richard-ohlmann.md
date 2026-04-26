@@ -14,7 +14,7 @@ filters:
 
 *Eckenheimer Landstraße 307*
 
-![](../images/14bf66afad20bd298010569c9eab6b8f_original.jpg)
+![](../images/14bf66afad20bd298010569c9eab6b8f_medium.jpg)
 *2023*
 
 Hier wohnten Josef und Selma Schwarzschild. Sie mussten von hier in die Uhlandstraße umziehen. Am 15.9.1942 wurden sie von dort deportiert. Sie starben 1943 in Theresienstadt.
@@ -23,6 +23,6 @@ Im gleichen Haus wohnte auch Richard Ohlmann, der noch im Februar 1945 nach Ther
 
 ## Gallery
 
-![Eckenheimer Landstraße 307](../images/Eckenheime_0a10c4563bd2dd35dbcb7fb729608742_original.jpg)
+![Eckenheimer Landstraße 307](../images/Eckenheime_0a10c4563bd2dd35dbcb7fb729608742_medium.jpg)
 *2023 — Description: Eckenheimer Landstraße 307*
 

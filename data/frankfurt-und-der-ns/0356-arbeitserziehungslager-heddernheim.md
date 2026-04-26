@@ -15,7 +15,7 @@ filters:
 
 *Oberschelder Weg 10-12*
 
-![Luftbildaufnahme der US Air Force von der Region Frankfurt-Heddernheim. Das Areal des ehemaligen AEL Heddernheim ist zu Darstellungszecken rot umrandet.](../images/a3312a6a34427534fa826996cbf60ae6_original.jpg)
+![Luftbildaufnahme der US Air Force von der Region Frankfurt-Heddernheim. Das Areal des ehemaligen AEL Heddernheim ist zu Darstellungszecken rot umrandet.](../images/a3312a6a34427534fa826996cbf60ae6_medium.jpg)
 *Author: Unbekannt | License: NARA RG 373 / F-14748 | Description: Luftbildaufnahme der US Air Force von der Region Frankfurt-Heddernheim. Das Areal des ehemaligen AEL Heddernheim ist zu Darstellungszecken rot umrandet.*
 
 Zwischen April 1942 und März 1945 betrieb die Gestapo Frankfurt auf dem Gelände einer alten Ziegelei das das Arbeitserziehungslager (AEL) Heddernheim. Die Zustände in diesem Lager ähnelten denen in einem Konzentrationslager. Die Gestapo sperrte hier Zwangs- und Zivilarbeiter*innen ein, denen sie unzureichende Arbeitsleistungen, mangelnde Disziplin, fehlenden Gehorsam oder Befehlsverweigerung vorwarf. Daher nannten die Nationalsozialist*innen solche Lager „Arbeitserziehungslager“. Der Begriff täuschte darüber hinweg, dass diese Lage in Wahrheit eine Brücke zwischen Zwangsarbeit und NS-Vernichtungspolitik bildeten. Der Lageralltag war von extremer Gewalt und Hinrichtungen geprägt.
@@ -34,13 +34,13 @@ Seit 1987 erinnert eine Gedenkstätte im Oberschelder Weg an das Lager und das L
 
 ## Gallery
 
-![Luftbildaufnahme der US Air Force von der Region Frankfurt-Heddernheim. Das Areal des ehemaligen AEL Heddernheim ist zu Darstellungszecken rot umrandet.](../images/Luftbildda_8b947559089a9d8462f00e855c1ce4cd_original.jpg)
+![Luftbildaufnahme der US Air Force von der Region Frankfurt-Heddernheim. Das Areal des ehemaligen AEL Heddernheim ist zu Darstellungszecken rot umrandet.](../images/Luftbildda_8b947559089a9d8462f00e855c1ce4cd_medium.jpg)
 *Author: Unbekannt | License: NARA RG 373 / F-14748 | Description: Luftbildaufnahme der US Air Force von der Region Frankfurt-Heddernheim. Das Areal des ehemaligen AEL Heddernheim ist zu Darstellungszecken rot umrandet.*
 
-![In der Nachkriegszeit angefertigte Skizze des AEL Heddernheim.](../images/isg_ffm_a__7dce9564f92f01c3ecc967084afdfe91_original.jpg)
+![In der Nachkriegszeit angefertigte Skizze des AEL Heddernheim.](../images/isg_ffm_a__7dce9564f92f01c3ecc967084afdfe91_medium.jpg)
 *o.D. — Author: Unbekannt | License: ISG FFM A.46.01 Nr. 21 | Description: In der Nachkriegszeit angefertigte Skizze des AEL Heddernheim.*
 
-![In der Nachkriegszeit angefertigte Skizze des AEL Heddernheim und der angrenzenden Areale.](../images/isg_ffm_a__3babf5f50f4c64f2bcff634192d01e8a_original.jpg)
+![In der Nachkriegszeit angefertigte Skizze des AEL Heddernheim und der angrenzenden Areale.](../images/isg_ffm_a__3babf5f50f4c64f2bcff634192d01e8a_medium.jpg)
 *o.D. — Author: Unbekannt | License: ISG FFM A.46.01 Nr. 21 | Description: In der Nachkriegszeit angefertigte Skizze des AEL Heddernheim und der angrenzenden Areale.*
 
 

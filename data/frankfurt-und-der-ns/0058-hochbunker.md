@@ -15,7 +15,7 @@ filters:
 
 *Schleifergasse 5*
 
-![Foto eines Hochbunkers in der Schleifergasse](../images/b59f1810392ceed5ff7fa2e2966791ca_original.jpg)
+![Foto eines Hochbunkers in der Schleifergasse](../images/b59f1810392ceed5ff7fa2e2966791ca_medium.jpg)
 *o.D. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Schleifergasse*
 
 Dieser Bunker war Teil des „Führer-Sofortprogramms“ und sah aus der Luft aus wie eine Scheune. Dies diente der Tarnung vor alliierten Luftangriffen. Die Luftschutztüren waren zudem hinter Türen aus Holz verborgen. 434 Menschen hatten Platz auf drei Etagen. Nur 35.000 Frankfurtern stand ein Bunkerplatz zur Verfügung. Viele flohen in die Keller ihrer Häuser und in die öffentlichen Luftschutzkeller, die nicht bombensicher waren. Als dies bekannt wurde, drängten immer mehr Menschen in die Bunker. Jüdinnen und Juden, Zwangsarbeiter*innen und Kriegsgefangenen war der Zutritt jedoch untersagt. Die Bauarbeiten dauerten von November 1940 bis Juli 1942. 30 Menschen mussten 1940 auf der Baustelle Zwangsarbeit leisten. Der Bunker, der zum Teil auf den Fundamenten der Synagoge erbaut wurde, ist seit 1989 denkmalgeschützt. Hier soll ein neuer Gedenkort entstehen.
@@ -27,7 +27,7 @@ Bauunternehmen: ARGE (Arbeitsgemeinschaft) Jobst & Milch.
 
 ## Gallery
 
-![Foto eines Hochbunkers in der Schleifergasse](../images/b59f1810392ceed5ff7fa2e2966791ca_original.jpg)
+![Foto eines Hochbunkers in der Schleifergasse](../images/b59f1810392ceed5ff7fa2e2966791ca_medium.jpg)
 *o.D. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Schleifergasse*
 
 

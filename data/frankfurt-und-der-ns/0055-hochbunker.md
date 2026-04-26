@@ -15,7 +15,7 @@ filters:
 
 *Praunheimer Landstraße 78*
 
-![<span class="tab2">Foto eines Hochbunkers in der Praunheimer Landstraße</span>](../images/38f03fe1184e1f267d5c9202755f44d0_original.jpg)
+![<span class="tab2">Foto eines Hochbunkers in der Praunheimer Landstraße</span>](../images/38f03fe1184e1f267d5c9202755f44d0_medium.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: <span class="tab2">Foto eines Hochbunkers in der Praunheimer Landstraße</span>*
 
 Dieser Bunker entstand im Rahmen des sogenannten Führer-Sofortprogramms und diente als Schutzraum für die Bevölkerung in Hausen. Auf drei Etagen gab es Platz für 536 Menschen. Nur 35.000 Frankfurter hatten einen Bunkerplatz. Viele flohen in die Keller ihrer Häuser und in die öffentlichen Luftschutzkeller, die nicht bombensicher waren. Als dies bekannt wurde, drängten immer mehr Menschen in die Bunker. Jüdinnen und Juden, Zwangsarbeiter*innen und Kriegsgefangenen war der Zutritt jedoch untersagt. Die Bauarbeiten begannen im April 1941. Sie ahmten die Form und die Größe der Gebäude in der Nähe nach, um den Bunker zu tarnen. 1965, während des Kalten Kriegs, wurde der Bunker renoviert, um im Fall eines Angriffs einen Schutzraum bereitstellen zu können. 1991 wurde er abgerissen.
@@ -27,7 +27,7 @@ Bauunternehmen: Gebrüder Weil, Limburg.
 
 ## Gallery
 
-![<span class="tab2">Foto eines Hochbunkers in der Praunheimer Landstraße</span>](../images/38f03fe1184e1f267d5c9202755f44d0_original.jpg)
+![<span class="tab2">Foto eines Hochbunkers in der Praunheimer Landstraße</span>](../images/38f03fe1184e1f267d5c9202755f44d0_medium.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: <span class="tab2">Foto eines Hochbunkers in der Praunheimer Landstraße</span>*
 
 

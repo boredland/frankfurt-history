@@ -14,7 +14,7 @@ filters:
 
 *Breubergstraße 30*
 
-![](../images/c5909aa9947716685fd5b2f80514467a_original.jpg)
+![](../images/c5909aa9947716685fd5b2f80514467a_medium.jpg)
 
 ## Interactive Before & After
 

@@ -14,7 +14,7 @@ filters:
 
 *Dr. Ruth K. Westheimer und die Kindertransporte*
 
-![](../images/86662686fe049896d71e3468223cf39b_original.jpg)
+![](../images/86662686fe049896d71e3468223cf39b_medium.jpg)
 
 Die heute in den USA berühmte Sexualtherapeutin Dr. Ruth K. Westheimer wurde am 4. Juni 1928 in Wiesenfeld geboren. Den Großteil ihrer Kindheit verbrachte sie in Frankfurt am Main. Damals hieß sie Karola Ruth Siegel.
  Karola Siegel sah am Frankfurter Hauptbahnhof ihre Mutter zum letzten Mal, bevor sie als Zehnjährige mit einem Kindertransport in die Schweiz gelangte.
@@ -23,7 +23,7 @@ Die heute in den USA berühmte Sexualtherapeutin Dr. Ruth K. Westheimer wurde am
 
 ## Gallery
 
-![](../images/Hauptbahnh_9bb60047450083dfb6518ec7c13c1208_original.jpg)
+![](../images/Hauptbahnh_9bb60047450083dfb6518ec7c13c1208_medium.jpg)
 
 
 ## Links

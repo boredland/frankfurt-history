@@ -14,7 +14,7 @@ filters:
 
 Reise in die Vergangenheit: Jüdisches Leben im Westend vor 100 Jahren
 
-![Ehemaliges Gestapo Gebäude](../images/847d00196f8301dfde335b77babca6f6_original.jpg)
+![Ehemaliges Gestapo Gebäude](../images/847d00196f8301dfde335b77babca6f6_medium.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Ehemaliges Gestapo Gebäude*
 
 In diesem Gebäude war von 1941 bis 1944 der Sitz der Geheimen Staatspolizei für den Regierungsbezirk Wiesbaden. Die Gestapo in Frankfurt saß vorher im sogenannten Siemenshaus in der heutigen Wilhelm-Leuschner-Straße nahe dem Holbeinsteg. 
@@ -25,7 +25,7 @@ Ein Bekannter von Jakob Horovitz, der auch in Haft war, hat nach dem Krieg erzä
 
 ## Gallery
 
-![Ehemaliges Gestapo Gebäude](../images/Lindenstra_d073d7b0b2d29d3098af4ffc9e52ff38_original.jpg)
+![Ehemaliges Gestapo Gebäude](../images/Lindenstra_d073d7b0b2d29d3098af4ffc9e52ff38_medium.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Ehemaliges Gestapo Gebäude*
 
 

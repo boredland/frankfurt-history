@@ -15,7 +15,7 @@ filters:
 
 *Alt Praunheim 42-44*
 
-![Zwangsarbeitslager, Alt Praunheim 42-44](../images/b0c78315b61ec6b5cf9cdec7799621f0_original.jpg)
+![Zwangsarbeitslager, Alt Praunheim 42-44](../images/b0c78315b61ec6b5cf9cdec7799621f0_medium.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-24209 | Description: Zwangsarbeitslager, Alt Praunheim 42-44*
 
 Das Institut für Stadtgeschichte wies 2003 im Zuge umfangreicher Recherchen nach, dass sich an dieser Stelle ein Zwangsarbeitslager befunden hatte, in dem Arbeiter*innen aus West- und Osteuropa untergebracht waren. Die Zwangsarbeiter*innen waren für unterschiedliche Firmen tätig, unter anderem für die Präzisionswerkzeugfabrik Günther & Co., die Schuhfabriken J. & C. A. Schneider und möglicherweise auch für die Frankfurter Baubeschlag- und Metallwarenfabrik Dr. Hans Witteler.
@@ -24,7 +24,7 @@ Das Institut für Stadtgeschichte wies 2003 im Zuge umfangreicher Recherchen nac
 
 ## Gallery
 
-![Zwangsarbeitslager, Alt Praunheim 42-44](../images/b0c78315b61ec6b5cf9cdec7799621f0_original.jpg)
+![Zwangsarbeitslager, Alt Praunheim 42-44](../images/b0c78315b61ec6b5cf9cdec7799621f0_medium.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-24209 | Description: Zwangsarbeitslager, Alt Praunheim 42-44*
 
 

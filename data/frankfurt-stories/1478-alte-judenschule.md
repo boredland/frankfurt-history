@@ -28,13 +28,13 @@ Die alte Judenschule wurde 1571 zur Kupferwage umgebaut. Schließlich berichtet 
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Judenschule, Außenansicht, 1870, aquarellierte Bleistiftzeichnung, HMF R0392</p>](../images/R0392_png_d810372de3ebc67e1a4be555019a49f3_original.jpg)
+![<p>Carl Theodor Reiffenstein, Judenschule, Außenansicht, 1870, aquarellierte Bleistiftzeichnung, HMF R0392</p>](../images/R0392_png_d810372de3ebc67e1a4be555019a49f3_medium.jpg)
 *1870 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Judenschule, Außenansicht, 1870, aquarellierte Bleistiftzeichnung, HMF R0392</p>*
 
-![<p>Carl Theodor Reiffenstein, Judenschule, Adler, seitlich über dem Haupteingang, 1870, aquarellierte Bleistiftzeichnung, HMF R0391</p>](../images/R0391_png_c4f0ef268083ebb358fef6eba49fe2b7_original.jpg)
+![<p>Carl Theodor Reiffenstein, Judenschule, Adler, seitlich über dem Haupteingang, 1870, aquarellierte Bleistiftzeichnung, HMF R0391</p>](../images/R0391_png_c4f0ef268083ebb358fef6eba49fe2b7_medium.jpg)
 *1870 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Judenschule, Adler, seitlich über dem Haupteingang, 1870, aquarellierte Bleistiftzeichnung, HMF R0391</p>*
 
-![<p>Carl Theodor Reiffenstein, Stadtwaage mit der Judenschule (nach Abbruch des Bestätteramtsgebäudes), 1873/1875, aquarellierte Bleistiftzeichnung, HMF R0374</p>](../images/R0374_png_37370a54f2249a35ad624ba6b01ae91e_original.jpg)
+![<p>Carl Theodor Reiffenstein, Stadtwaage mit der Judenschule (nach Abbruch des Bestätteramtsgebäudes), 1873/1875, aquarellierte Bleistiftzeichnung, HMF R0374</p>](../images/R0374_png_37370a54f2249a35ad624ba6b01ae91e_medium.jpg)
 *1873/1875 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Stadtwaage mit der Judenschule (nach Abbruch des Bestätteramtsgebäudes), 1873/1875, aquarellierte Bleistiftzeichnung, HMF R0374</p>*
 
 

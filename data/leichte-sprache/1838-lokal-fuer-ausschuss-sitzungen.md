@@ -14,7 +14,7 @@ filters:
 
 *Buchgasse 3*
 
-![Foto: unbekannt, um 1930, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2609](../images/201385e9bc39529c816c2303f736e199_original.jpg)
+![Foto: unbekannt, um 1930, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2609](../images/201385e9bc39529c816c2303f736e199_medium.jpg)
 *um 1930 — Author: unbekannt | Description: Foto: unbekannt, um 1930, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2609*
 
 Die Paulskirche war groß genug für die Treffen von der 
@@ -49,6 +49,6 @@ Fraktion getroffen.
 
 ## Gallery
 
-![Foto: unbekannt, um 1930, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2609](../images/LS_Lokal f_c449fe7de7825862fcb7f49a15af2614_original.jpg)
+![Foto: unbekannt, um 1930, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2609](../images/LS_Lokal f_c449fe7de7825862fcb7f49a15af2614_medium.jpg)
 *um 1930 — Author: unbekannt | Description: Foto: unbekannt, um 1930, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2609*
 

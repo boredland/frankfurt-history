@@ -15,7 +15,7 @@ filters:
 
 *Alt Praunheim 13*
 
-![Zwangsarbeitslager, Alt Praunheim 13](../images/c95be6c394247897288f8b8f84e180ad_original.jpg)
+![Zwangsarbeitslager, Alt Praunheim 13](../images/c95be6c394247897288f8b8f84e180ad_medium.jpg)
 *1944 — Author: J. van Emden | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 2002-65 | Description: Zwangsarbeitslager, Alt Praunheim 13*
 
 Hier bestand seit 1943 ein Zwangsarbeitslager, das wahrscheinlich von der Baubeschlag- und Metallwarenfabrik Witteler betrieben wurde. 1943 waren hier 16 Menschen aus Litauen registriert. Auch die Günther & Co. Präzisionswerkzeugfabrik, mit Sitz in der Voltastraße 41, brachte hier Zwangsarbeiter*innen unter.
@@ -24,7 +24,7 @@ Hier bestand seit 1943 ein Zwangsarbeitslager, das wahrscheinlich von der Baubes
 
 ## Gallery
 
-![Zwangsarbeitslager, Alt Praunheim 13](../images/c95be6c394247897288f8b8f84e180ad_original.jpg)
+![Zwangsarbeitslager, Alt Praunheim 13](../images/c95be6c394247897288f8b8f84e180ad_medium.jpg)
 *1944 — Author: J. van Emden | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 2002-65 | Description: Zwangsarbeitslager, Alt Praunheim 13*
 
 

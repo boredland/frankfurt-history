@@ -12,7 +12,7 @@ filters:
 
 *Maria Sibylla Merian - Schmetterlingsforscherin*
 
-![Merianschule](../images/436f3234d636065a3aec3f647f46e190_original.jpg)
+![Merianschule](../images/436f3234d636065a3aec3f647f46e190_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Merianschule*
 
 Die Merianschule in der Burgstraße 21–23 wurde 1886 eröffnet. Mit dem Nazi-Regime und durch einen Bombeneinschlag wurde das Schulgebäude zerstört; Lehrende und Kinder wurden aufs Land evakuiert. Nach 1945 fand der Unterricht vorübergehend in der Glauburgschule statt. Um 1960 öffnete die Merianschule in den wieder aufgebauten Räumen erneut ihre Türen.
@@ -24,6 +24,6 @@ Maria Sibylla Merian war eine Frankfurter Künstlerin und Naturforscherin, die �
 
 ## Gallery
 
-![Merianschule](../images/Merianschu_074d7550d3a9ee5b11ca58763ac75b9f_original.jpg)
+![Merianschule](../images/Merianschu_074d7550d3a9ee5b11ca58763ac75b9f_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Merianschule*
 

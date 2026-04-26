@@ -14,7 +14,7 @@ filters:
 
 *Praunheimer Hohl 4*
 
-![Unterricht im Freiluft-Klassenzimmer.](../images/7be5cf2a7177b6b759a88da8e31c5e7a_original.jpg)
+![Unterricht im Freiluft-Klassenzimmer.](../images/7be5cf2a7177b6b759a88da8e31c5e7a_medium.jpg)
 *um 1927 — Author: Institut für Stadtgeschichte, Frankfurt am Main | License: unbekannt / unknown | Description: Unterricht im Freiluft-Klassenzimmer.*
 
 Die neuen Siedlungen benötigten dringend auch Schulen. In Praunheim wurde der Bau aufgrund von Einsparungen jedoch erst spät und in reduzierter Form realisiert. Er folgte dem fortschrittlichen Konzept der Freiflächenschule in enger Verbindung zur Natur. Drei Einzelpavillons und ein Doppelpavillon mit jeweils drei Klassen wurden parallel zueinander angeordnet. Zwischen ihnen lagen Gärten, zu denen die Klassenzimmer geöffnet werden konnten. So fand mithilfe des beweglichen Mobiliars Unterricht auch im Freien statt. Jeder Pavillon war an der Nordseite um ein Geschoss erhöht. Der geplante Verwaltungstrakt wurde nicht mehr gebaut. Er hätte über die Straße eine Verbindung zu einer Turnhalle und einer Gymnastikterrasse hergestellt, die nach 1945 ergänzt wurden. Die 2016–2019 sanierte Grundschule ist heute denkmalgeschützt.
@@ -31,6 +31,6 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
-![Unterricht im Freiluft-Klassenzimmer.](../images/isg_ffm_s7_ce86734fbb85f6c42427aa7b0a4c2cc1_original.jpg)
+![Unterricht im Freiluft-Klassenzimmer.](../images/isg_ffm_s7_ce86734fbb85f6c42427aa7b0a4c2cc1_medium.jpg)
 *um 1927 — Author: Institut für Stadtgeschichte, Frankfurt am Main | License: unbekannt / unknown | Description: Unterricht im Freiluft-Klassenzimmer.*
 

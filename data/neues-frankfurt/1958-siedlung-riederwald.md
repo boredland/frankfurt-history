@@ -14,7 +14,7 @@ filters:
 
 *Am Erlenbruch 102*
 
-![](../images/e0fe63a671df9fb4d9e8ab5373feb898_original.jpg)
+![](../images/e0fe63a671df9fb4d9e8ab5373feb898_medium.jpg)
 
 ## Interactive Before & After
 

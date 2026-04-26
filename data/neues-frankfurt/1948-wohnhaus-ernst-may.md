@@ -14,7 +14,7 @@ filters:
 
 *Am Schwalbenschwanz*
 
-![Villa May, Gartenansicht mit großem Fenster.](../images/9c1a640187bd9e3f285732038b5f9ae0_original.jpg)
+![Villa May, Gartenansicht mit großem Fenster.](../images/9c1a640187bd9e3f285732038b5f9ae0_medium.jpg)
 *1925 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: Villa May, Gartenansicht mit großem Fenster.*
 
 Das Wohnhaus von Ernst May ist der erste und programmatische Bau des Neuen Frankfurt. Aufgrund seines modernen Baustils mit flachem Dach und schnörkellosen weißen Wänden wurde es zum Ausflugsziel vieler Schaulustiger. Der zweigeschossige, kubische Bau ist heute durch Umbauten teilweise verändert. Sein besonderes Merkmal war das geschossübergreifende Wohnzimmer mit einem großen, um die Hausecke geführten Fenster zum Garten. Auf der Empore im Wohnzimmer stand der am Bauhaus erworbene Webstuhl von Ilse May. Ein Anbau über der Garage bot Schlafräume für das Personal. Die darüberliegende Sonnenterrasse sollte wenig später auf hunderten Siedlungshäusern realisiert werden. Ebenso beispielhaft war der Garten, den Leberecht Migge gestaltete. 
@@ -33,9 +33,9 @@ Wolfgang Voigt: Wohnhaus May. In: Wolfgang Voigt, Dorothea Deschermeier, Peter C
 
 ## Gallery
 
-![Villa May, Gartenansicht mit großem Fenster.](../images/Wohnhaus_M_b094709be2b0d0f39dbdf818a8aa1319_original.jpg)
+![Villa May, Gartenansicht mit großem Fenster.](../images/Wohnhaus_M_b094709be2b0d0f39dbdf818a8aa1319_medium.jpg)
 *1925 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: Villa May, Gartenansicht mit großem Fenster.*
 
-![Eingerichteter Wohnraum, Galerie mit Webstuhl.](../images/Wohnhaus_M_a13414f8c1a94a153a685ec2c51d67e3_original.jpg)
+![Eingerichteter Wohnraum, Galerie mit Webstuhl.](../images/Wohnhaus_M_a13414f8c1a94a153a685ec2c51d67e3_medium.jpg)
 *1925 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: Eingerichteter Wohnraum, Galerie mit Webstuhl.*
 

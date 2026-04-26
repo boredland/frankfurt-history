@@ -12,7 +12,7 @@ filters:
 
 *Tony Sender – Ort der beruflichen Selbstständigkeit*
 
-![Platzhalter](../images/ee1966f7f56103ae1baeb63686d7c114_original.jpg)
+![Platzhalter](../images/ee1966f7f56103ae1baeb63686d7c114_medium.jpg)
 *2025 — Author: Hannah Rödel | License: HMF/Hannah Rödel | Description: Platzhalter*
 
 Das Metallhandels- und Montanunternehmen Beer & Sondheimer errichtete in der Bockenheimer Landstraße 25 ein Verwaltungsgebäude mit Laborräumen und Wohnungen. Das Originalgebäude besteht bis heute und ist ein Ort des kulturellen Austauschs.
@@ -24,6 +24,6 @@ Tony Sender war Gewerkschafterin, Redakteurin, SPD-Reichstagsabgeordnete und soz
 
 ## Gallery
 
-![Platzhalter](../images/FemFFM_pla_51ec9396b1132f5f5b3e40ef28814ea6_original.jpg)
+![Platzhalter](../images/FemFFM_pla_51ec9396b1132f5f5b3e40ef28814ea6_medium.jpg)
 *2025 — Author: Hannah Rödel | License: HMF/Hannah Rödel | Description: Platzhalter*
 

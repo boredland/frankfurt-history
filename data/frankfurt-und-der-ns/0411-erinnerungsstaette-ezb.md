@@ -12,13 +12,13 @@ filters:
 
 *Philipp-Holzmann-Weg*
 
-![<p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>](../images/d440d389c1a093da0375a32f84361d17_original.jpg)
+![<p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>](../images/d440d389c1a093da0375a32f84361d17_medium.jpg)
 *o.D. — Author: Norbert Miguletz | Description: <p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![<p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>](../images/d440d389c1a093da0375a32f84361d17_original.jpg)
+![<p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>](../images/d440d389c1a093da0375a32f84361d17_medium.jpg)
 *o.D. — Author: Norbert Miguletz | Description: <p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>*
 

@@ -29,16 +29,16 @@ Das Pharmaunternehmen C. Zimmer erwarb 1876 die Plantage »Argasarie« auf Java 
 ![Ansicht der Fabrik von Zimmer](../images/zimmer_png_0484a087c2b945a7be892d97942ef13a_original.jpg)
 *Bildergalerie — License: HMF.C41852. | Description: Ansicht der Fabrik von Zimmer*
 
-![Vereinigte Chininfabriken Zimmer &amp; Co.](../images/isg_ffm_s7_203cc281ecc1d3dfedd4365d76234056_original.jpg)
+![Vereinigte Chininfabriken Zimmer &amp; Co.](../images/isg_ffm_s7_203cc281ecc1d3dfedd4365d76234056_medium.jpg)
 *License: ISG | Description: Vereinigte Chininfabriken Zimmer &amp; Co.*
 
-![Draufsicht auf die Fabrik von Zimmer](../images/isg_ffm_s7_6228429a36e05056e574447b2cf9cf9a_original.jpg)
+![Draufsicht auf die Fabrik von Zimmer](../images/isg_ffm_s7_6228429a36e05056e574447b2cf9cf9a_medium.jpg)
 *License: ISG | Description: Draufsicht auf die Fabrik von Zimmer*
 
-![Ansichtskarte der Vereinigte Chininfabriken Zimmer &amp; Co.](../images/isg_ffm_s7_1908d804591581588ad86f4ef9acf32a_original.jpg)
+![Ansichtskarte der Vereinigte Chininfabriken Zimmer &amp; Co.](../images/isg_ffm_s7_1908d804591581588ad86f4ef9acf32a_medium.jpg)
 *License: ISG | Description: Ansichtskarte der Vereinigte Chininfabriken Zimmer &amp; Co.*
 
-![Ansichtskarte der Vereinigte Chininfabriken Zimmer &amp; Co.](../images/isg_ffm_s7_159102e0d863f9b498e39c3444bd6ca2_original.jpg)
+![Ansichtskarte der Vereinigte Chininfabriken Zimmer &amp; Co.](../images/isg_ffm_s7_159102e0d863f9b498e39c3444bd6ca2_medium.jpg)
 *1906 — License: ISG | Description: Ansichtskarte der Vereinigte Chininfabriken Zimmer &amp; Co.*
 
 

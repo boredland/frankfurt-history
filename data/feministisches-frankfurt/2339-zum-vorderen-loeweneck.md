@@ -12,7 +12,7 @@ filters:
 
 *Christina Barbara Metzler - Leitung des Bankhauses*
 
-![Ausschnit aus dem Merianplan](../images/0c82c3eaf0b38194cee52bb4242da270_original.jpg)
+![Ausschnit aus dem Merianplan](../images/0c82c3eaf0b38194cee52bb4242da270_medium.jpg)
 *um 1620 — Author: Matthäus Merian | License: HMF/Gemeinfrei | Description: Ausschnit aus dem Merianplan*
 
 Das Bankhaus Metzler seel. Sohn & Co. besteht seit 1674 und ist das älteste deutsche Bankhaus in Familienbesitz. Ursprünglich aus einem Tuchwarenhandel hervorgegangen, entwickelte es sich zu einem internationalen Bankhaus.

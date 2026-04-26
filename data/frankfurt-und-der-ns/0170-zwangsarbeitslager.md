@@ -15,7 +15,7 @@ filters:
 
 *Alt Schwanheim 8*
 
-![Bildpostkarte mit den Gebäuden Alt-Schwanheim 8 (links) und Alt-Schwanheim 6 (rechts)](../images/11f05813b969cd9b2b9435bcd01345b4_original.jpg)
+![Bildpostkarte mit den Gebäuden Alt-Schwanheim 8 (links) und Alt-Schwanheim 6 (rechts)](../images/11f05813b969cd9b2b9435bcd01345b4_medium.jpg)
 *unbekannt — Author: Unbekannt | License: HMF, Sammlung Church, C80406 | Description: Bildpostkarte mit den Gebäuden Alt-Schwanheim 8 (links) und Alt-Schwanheim 6 (rechts)*
 
 Im Wirtshaussaal der Gaststätte Jakob Heisack waren 18 Zwangsarbeiter*innen aus Frankreich untergebracht. 1947 meldete das 21. Polizeirevier, dass im Zeitraum von 1940 bis März 1945 hier auch 20 Menschen aus Belgien einquartiert waren. Sie wurden am 29. März 1945 vom amerikanischen Militär befreit. Jemand vermerkte handschriftlich „25“, also 25 Menschen aus Belgien, und zur Rubrik Beschäftigungsart „unknown“. Das Dokument zeigt, wie in der Nachkriegszeit versucht wurde, die Zwangsarbeit in Frankfurt möglichst genau zu dokumentieren. Das Dokument ist Teil eines Bestandes von insgesamt 329 Schriftstücken, die in den Arolsen Archives aufbewahrt werden.
@@ -24,7 +24,7 @@ Im Wirtshaussaal der Gaststätte Jakob Heisack waren 18 Zwangsarbeiter*innen aus
 
 ## Gallery
 
-![Bildpostkarte mit den Gebäuden Alt-Schwanheim 8 (links) und Alt-Schwanheim 6 (rechts)](../images/11f05813b969cd9b2b9435bcd01345b4_original.jpg)
+![Bildpostkarte mit den Gebäuden Alt-Schwanheim 8 (links) und Alt-Schwanheim 6 (rechts)](../images/11f05813b969cd9b2b9435bcd01345b4_medium.jpg)
 *unbekannt — Author: Unbekannt | License: HMF, Sammlung Church, C80406 | Description: Bildpostkarte mit den Gebäuden Alt-Schwanheim 8 (links) und Alt-Schwanheim 6 (rechts)*
 
 

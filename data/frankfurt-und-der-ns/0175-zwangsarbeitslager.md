@@ -14,13 +14,13 @@ filters:
 
 *Auf der Insel 16*
 
-![<p>Zwangsarbeitslager</p>](../images/f93698d8f4962fab47c831713496cb5a_original.jpg)
+![<p>Zwangsarbeitslager</p>](../images/f93698d8f4962fab47c831713496cb5a_medium.jpg)
 *1944 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-5206 | Description: <p>Zwangsarbeitslager</p>*
 
 Die Lanninger-Regner AG, die Beregnungsanlagen und Armaturen für Feuerlöschzwecke herstellte, unterhielt Auf der Insel 16 (Villa Brentano) ein Lager für Zivilarbeiter.
 
 ## Gallery
 
-![<p>Zwangsarbeitslager</p>](../images/f93698d8f4962fab47c831713496cb5a_original.jpg)
+![<p>Zwangsarbeitslager</p>](../images/f93698d8f4962fab47c831713496cb5a_medium.jpg)
 *1944 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-5206 | Description: <p>Zwangsarbeitslager</p>*
 

@@ -14,7 +14,7 @@ filters:
 
 *Lützowstraße 3*
 
-![Das Gebäude, in dem sich G. Wilds Wohnung befand, steht noch heute.](../images/5294e7aca0d7cc8a6968ee1b414cb956_original.jpg)
+![Das Gebäude, in dem sich G. Wilds Wohnung befand, steht noch heute.](../images/5294e7aca0d7cc8a6968ee1b414cb956_medium.jpg)
 *2026 — Author: Jasmin Klotz | License: gemeinfrei | Description: Das Gebäude, in dem sich G. Wilds Wohnung befand, steht noch heute.*
 
 In der Lützowstraße 3, die heute Karlsruher Straße heißt, richtete sich G. Wild während dem Nationalsozialismus eine Wohnung provisorisch ein. Hauptsächlich lebte Wild jedoch in Idar-Oberstein.
@@ -37,7 +37,7 @@ Hinweis: Der Text nennt durchgehend „G. Wild“ als Namensform, weil die Brief
 
 ## Gallery
 
-![Das Gebäude, in dem sich G. Wilds Wohnung befand, steht noch heute.](../images/Karlsruher_773250d18e8d579485b4ce73129dbd74_original.jpg)
+![Das Gebäude, in dem sich G. Wilds Wohnung befand, steht noch heute.](../images/Karlsruher_773250d18e8d579485b4ce73129dbd74_medium.jpg)
 *2026 — Author: Jasmin Klotz | License: gemeinfrei | Description: Das Gebäude, in dem sich G. Wilds Wohnung befand, steht noch heute.*
 
 

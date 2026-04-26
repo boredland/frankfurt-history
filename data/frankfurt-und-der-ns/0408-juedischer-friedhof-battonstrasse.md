@@ -12,13 +12,13 @@ filters:
 
 *Battonstraße 47*
 
-![Gedenkstätte Börneplatz](../images/e0b4f881ba21d35e11ce265fff830730_original.jpg)
+![Gedenkstätte Börneplatz](../images/e0b4f881ba21d35e11ce265fff830730_medium.jpg)
 *Author: Norbert Miguletz | Description: Gedenkstätte Börneplatz*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![Gedenkstätte Börneplatz](../images/e0b4f881ba21d35e11ce265fff830730_original.jpg)
+![Gedenkstätte Börneplatz](../images/e0b4f881ba21d35e11ce265fff830730_medium.jpg)
 *Author: Norbert Miguletz | Description: Gedenkstätte Börneplatz*
 

@@ -15,7 +15,7 @@ filters:
 
 *Leipziger Straße 44*
 
-![Foto des Sitzes der Ortsgruppe Bockenheim der NSDAP und NS-Frauenschaft](../images/313292f7d2dfba7f75933a883655e50f_original.jpg)
+![Foto des Sitzes der Ortsgruppe Bockenheim der NSDAP und NS-Frauenschaft](../images/313292f7d2dfba7f75933a883655e50f_medium.jpg)
 *1907 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-20132 | Description: Foto des Sitzes der Ortsgruppe Bockenheim der NSDAP und NS-Frauenschaft*
 
 Die Ortsgruppen Bockenheim der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP) und der Frauenschaft der NSDAP hatten hier ihren Sitz. Die Ortsgruppen waren der Kreisleitung untergeordnet. Der Kreisleiter schlug Parteimitglieder für das Amt des Ortsgruppenleiters vor. Diese wurden dann vom Gauleiter offiziell ernannt. Auf etwa 1.500 Haushalte kam eine Ortsgruppe. Ihr unterstanden die Zellen- und die Blockleiter. Ein Blockleiter war für 40 bis 60 Haushalte zuständig und bespitzelte diese auch. Die Ortsgruppen sammelten also nicht nur Informationen über Parteimitglieder in ihrem Viertel, sondern über alle Menschen, die dort wohnten. So wirkte die soziale Kontrolle bis in die einzelnen Wohnhäuser hinein. Für Frankfurt sind 47 Ortsgruppenleiter, 670 Zellenleiter und 3.630 Blockleiter bekannt.
@@ -24,6 +24,6 @@ Die Ortsgruppen Bockenheim der Nationalsozialistischen Deutschen Arbeiterpartei 
 
 ## Gallery
 
-![Foto des Sitzes der Ortsgruppe Bockenheim der NSDAP und NS-Frauenschaft](../images/313292f7d2dfba7f75933a883655e50f_original.jpg)
+![Foto des Sitzes der Ortsgruppe Bockenheim der NSDAP und NS-Frauenschaft](../images/313292f7d2dfba7f75933a883655e50f_medium.jpg)
 *1907 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-20132 | Description: Foto des Sitzes der Ortsgruppe Bockenheim der NSDAP und NS-Frauenschaft*
 

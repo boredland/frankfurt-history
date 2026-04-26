@@ -15,7 +15,7 @@ filters:
 
 *Hermesweg 10*
 
-![Foto einer SS-Kaserne und Folterstätte in der ehemaligen Klingerschule](../images/84919d5ac7bdf0cc613a4cdf4b35b2c2_original.jpg)
+![Foto einer SS-Kaserne und Folterstätte in der ehemaligen Klingerschule](../images/84919d5ac7bdf0cc613a4cdf4b35b2c2_medium.jpg)
 *o.D. — Author: unbekannt | License: HMF / Sammlung Church C80408 | Description: Foto einer SS-Kaserne und Folterstätte in der ehemaligen Klingerschule*
 
 Am 24. April 1933 erlaubte Friedrich Krebs (Kommissarischer Oberbürgermeister Frankfurts) der SS, das frühere Gebäude der Klingerschule zu nutzen. Die SS brachte hier einige Hessische sowie Frankfurter Dienststellen unter und bildete ihre Mitglieder auf dem Schulgelände militärisch aus. In den Kellern folterte die SS, also die Schutzstaffel der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP), bis 1937 politische Gegner. Sie wurden des Hochverrats bezichtigt.
@@ -32,6 +32,6 @@ Den hier Gefolterten stand meist eine jahrelange Haft in Gefängnissen oder Lage
 
 ## Gallery
 
-![Foto einer SS-Kaserne und Folterstätte in der ehemaligen Klingerschule](../images/84919d5ac7bdf0cc613a4cdf4b35b2c2_original.jpg)
+![Foto einer SS-Kaserne und Folterstätte in der ehemaligen Klingerschule](../images/84919d5ac7bdf0cc613a4cdf4b35b2c2_medium.jpg)
 *o.D. — Author: unbekannt | License: HMF / Sammlung Church C80408 | Description: Foto einer SS-Kaserne und Folterstätte in der ehemaligen Klingerschule*
 

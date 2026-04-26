@@ -15,7 +15,7 @@ filters:
 
 *Bolongarostraße*
 
-![Foto des Polizeirevier Höchst](../images/9c22e794ba6233bd9b0472ba813ea256_original.jpg)
+![Foto des Polizeirevier Höchst](../images/9c22e794ba6233bd9b0472ba813ea256_medium.jpg)
 *1938 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2006-31 | Description: Foto des Polizeirevier Höchst*
 
 Das Polizeirevier im Bolongaropalast diente während der Novemberpogrome 1938 als Sammelort für jüdische Männer, die verhaftet worden waren. Sie wurden von dort in die Festhalle gebracht und dann über den Südbahnhof in Konzentrationslager deportiert.
@@ -24,6 +24,6 @@ Das Polizeirevier im Bolongaropalast diente während der Novemberpogrome 1938 al
 
 ## Gallery
 
-![Foto des Polizeirevier Höchst](../images/9c22e794ba6233bd9b0472ba813ea256_original.jpg)
+![Foto des Polizeirevier Höchst](../images/9c22e794ba6233bd9b0472ba813ea256_medium.jpg)
 *1938 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2006-31 | Description: Foto des Polizeirevier Höchst*
 

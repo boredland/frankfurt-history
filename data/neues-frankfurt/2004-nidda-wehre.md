@@ -14,7 +14,7 @@ filters:
 
 *Rödelheimer Wehr, Hausener Wehr, Praunheimer Wehr, Eschersheimer Wehr*
 
-![Das Eschersheimer Wehr.](../images/700ad9af5b276efa6a384c2a09b3f1af_original.jpg)
+![Das Eschersheimer Wehr.](../images/700ad9af5b276efa6a384c2a09b3f1af_medium.jpg)
 *1935 — Author: Unbekannt (Ludäscher) | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Das Eschersheimer Wehr.*
 
 Rödelheimer Wehr, Hausener Wehr, Praunheimer Wehr, Eschersheimer Wehr
@@ -39,9 +39,9 @@ Annemarie Jaeggi, Adolf Meyer. Der zweite Mann. Berlin 1994, S. 356-357.
 
 ## Gallery
 
-![Das Eschersheimer Wehr.](../images/isg_ffm_s7_d4014931019c37053a79060e06e3e2b7_original.jpg)
+![Das Eschersheimer Wehr.](../images/isg_ffm_s7_d4014931019c37053a79060e06e3e2b7_medium.jpg)
 *1935 — Author: Unbekannt (Ludäscher) | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Das Eschersheimer Wehr.*
 
-![Das Praunheimer Wehr.](../images/isg_ffm_s7_c21b17557f230a90b69e33008c43cd63_original.jpg)
+![Das Praunheimer Wehr.](../images/isg_ffm_s7_c21b17557f230a90b69e33008c43cd63_medium.jpg)
 *um 1930 — Author: Unbekannt (Ludäscher) | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Das Praunheimer Wehr.*
 

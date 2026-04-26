@@ -31,7 +31,7 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
-![Die Friedenskönigin an der Portalwand](../images/Frauenfrie_757cbf706353a3e85479e96fe0a284be_original.jpg)
+![Die Friedenskönigin an der Portalwand](../images/Frauenfrie_757cbf706353a3e85479e96fe0a284be_medium.jpg)
 *um 1930 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: Die Friedenskönigin an der Portalwand*
 
 ![Der Hauptaltar](../images/Frauenfrie_bc4425f4c30d795e0f7e170b0e893003_original.jpg)

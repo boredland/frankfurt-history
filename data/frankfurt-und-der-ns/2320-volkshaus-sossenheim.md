@@ -14,7 +14,7 @@ filters:
 
 *Siegener Straße 22*
 
-![Volkshaus Sossenheim](../images/8a99714faf4d6b9c852c33811391845f_original.jpg)
+![Volkshaus Sossenheim](../images/8a99714faf4d6b9c852c33811391845f_medium.jpg)
 *1924 — Author: Bernhard Ott | License: ISG FFM  Best. S7A Nr. 1998-25583 | Description: Volkshaus Sossenheim*
 
 Zwangsarbeitslager
@@ -43,6 +43,6 @@ Heinz Hupfer, der sich intensiv der Lokalforschung gewidmet hat, bedauert, dass 
 
 ## Gallery
 
-![Volkshaus Sossenheim](../images/5f3e95a9add8da72c96897e3261d50d3_original.jpg)
+![Volkshaus Sossenheim](../images/5f3e95a9add8da72c96897e3261d50d3_medium.jpg)
 *1924 — Author: Bernhard Ott | License: ISG FFM  Best. S7A Nr. 1998-25583 | Description: Volkshaus Sossenheim*
 

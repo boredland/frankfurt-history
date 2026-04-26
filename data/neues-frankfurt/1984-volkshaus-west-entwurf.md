@@ -31,6 +31,6 @@ Quelle: Das Neue Frankfurt, Jg. 5, 1931, Heft 8, S.152-153.
 
 ## Gallery
 
-![Entwurf Volkshaus West](../images/Volkshaus-_b27e04f7db511db3c2ff6b77c3111b32_original.jpg)
+![Entwurf Volkshaus West](../images/Volkshaus-_b27e04f7db511db3c2ff6b77c3111b32_medium.jpg)
 *1930 — Author: Max Cetto | License: Das Neue Frankfurt, 1931, Heft 8, S. 152 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Entwurf Volkshaus West*
 

@@ -35,7 +35,7 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 ![Stolperstein für Herrmann Meier Am Rödelheimer Wehr 4](../images/stolperst__b0d8648d99670537df37a4ca0f7ebcdf_original.jpg)
 *2021 — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein für Herrmann Meier Am Rödelheimer Wehr 4*
 
-![](../images/0d3205913720e1606dd012f93cf352b9_original.jpg)
+![](../images/0d3205913720e1606dd012f93cf352b9_medium.jpg)
 *Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 
 

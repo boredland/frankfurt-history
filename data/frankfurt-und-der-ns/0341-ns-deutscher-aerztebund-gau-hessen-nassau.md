@@ -14,7 +14,7 @@ filters:
 
 *Gartenstraße 140*
 
-![Foto des Landesarbeitsamt Rhein-Main](../images/e42816f8095a5c5003d92f45d2ae7c76_original.jpg)
+![Foto des Landesarbeitsamt Rhein-Main](../images/e42816f8095a5c5003d92f45d2ae7c76_medium.jpg)
 *ca. 1933 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-130 | Description: Foto des Landesarbeitsamt Rhein-Main*
 
 NS Deutscher Ärztebund Gau Hessen-Nassau
@@ -23,6 +23,6 @@ In der Gartenstraße 140 hatte auch der Nationalsozialisitsche Deutscher Ärzteb
 
 ## Gallery
 
-![Foto des Landesarbeitsamt Rhein-Main](../images/e42816f8095a5c5003d92f45d2ae7c76_original.jpg)
+![Foto des Landesarbeitsamt Rhein-Main](../images/e42816f8095a5c5003d92f45d2ae7c76_medium.jpg)
 *ca. 1933 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-130 | Description: Foto des Landesarbeitsamt Rhein-Main*
 

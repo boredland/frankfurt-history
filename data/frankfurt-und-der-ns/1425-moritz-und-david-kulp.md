@@ -12,7 +12,7 @@ filters:
 
 *5 Orte – 5 Geschichten*
 
-![<p>Obermainanlage 29 (heute)</p>](../images/3dc9020a52a9fbdbd95c5b8c50b93b8d_original.jpg)
+![<p>Obermainanlage 29 (heute)</p>](../images/3dc9020a52a9fbdbd95c5b8c50b93b8d_medium.jpg)
 *2023 — Author: Gabriel Olbrich | Description: <p>Obermainanlage 29 (heute)</p>*
 
 Dieses Haus gehörte den jüdischen Brüdern Moritz und David Kulp. 
@@ -24,9 +24,9 @@ Das Haus wurde von Karl Nagel und seiner Ehefrau für 27.300 Reichsmark ersteige
 
 ## Gallery
 
-![<p>Obermainanlage 29 (heute) </p>](../images/IMG2023063_ffb51e111059656e3b1a6a151ffbf63e_original.jpg)
+![<p>Obermainanlage 29 (heute) </p>](../images/IMG2023063_ffb51e111059656e3b1a6a151ffbf63e_medium.jpg)
 *2023 — Author: Gabriel Olbrich | Description: <p>Obermainanlage 29 (heute) </p>*
 
-![<p>Obermainanlage 29 (heute)</p>](../images/IMG2023063_f78164657ae6a314bef21f8c59d24fad_original.jpg)
+![<p>Obermainanlage 29 (heute)</p>](../images/IMG2023063_f78164657ae6a314bef21f8c59d24fad_medium.jpg)
 *2023 — Author: Gabriel Olbrich | Description: <p>Obermainanlage 29 (heute)</p>*
 

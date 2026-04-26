@@ -14,7 +14,7 @@ filters:
 
 *Neue Mainzer Straße 24*
 
-![<p>Neue Mainzer Straße 24</p>](../images/7e8afdbf352e4be5c04afcc61262d70a_original.jpg)
+![<p>Neue Mainzer Straße 24</p>](../images/7e8afdbf352e4be5c04afcc61262d70a_medium.jpg)
 *ca. 1900 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2014-126 | Description: <p>Neue Mainzer Straße 24</p>*
 
 Die Firma Glasbau Georg Schäfer &Co. betrieb in der Neuen Mainzer Straße 24 ein Lager für Zivilarbeiter.
@@ -22,6 +22,6 @@ Die Firma Glasbau Georg Schäfer &Co. betrieb in der Neuen Mainzer Straße 24 ei
 
 ## Gallery
 
-![<p>Neue Mainzer Straße 24</p>](../images/7e8afdbf352e4be5c04afcc61262d70a_original.jpg)
+![<p>Neue Mainzer Straße 24</p>](../images/7e8afdbf352e4be5c04afcc61262d70a_medium.jpg)
 *ca. 1900 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2014-126 | Description: <p>Neue Mainzer Straße 24</p>*
 

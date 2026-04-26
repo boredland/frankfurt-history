@@ -30,16 +30,16 @@ Das Verputzen des Fachwerks und Anbringen von Schieferplatten veränderte das Au
 ![<p>Carl Theodor Reiffenstein, Haus Zur Goldenen Waage, 1876, aquarellierte Bleistiftzeichnung, HMF R1572</p>](../images/R1572_png_61c763c5b485243f321ad161ae61a4b6_original.jpg)
 *1876 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Haus Zur Goldenen Waage, 1876, aquarellierte Bleistiftzeichnung, HMF R1572</p>*
 
-![<p>Carl Theodor Reiffenstein, Haus Zur Goldenen Waage, Sockelgeschoss, 1857, aquarellierte Bleistiftzeichnung, HMF R0507</p>](../images/R0507_png_6634e294be4010eccac8798a72d030d9_original.jpg)
+![<p>Carl Theodor Reiffenstein, Haus Zur Goldenen Waage, Sockelgeschoss, 1857, aquarellierte Bleistiftzeichnung, HMF R0507</p>](../images/R0507_png_6634e294be4010eccac8798a72d030d9_medium.jpg)
 *1857 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Haus Zur Goldenen Waage, Sockelgeschoss, 1857, aquarellierte Bleistiftzeichnung, HMF R0507</p>*
 
-![<p>Carl Theodor Reiffenstein, Haus Zur Goldenen Waage, Großer Saal, 1874, Aquarell, HMF C09347</p>](../images/C09347_png_4ec842a01e176e0972c7878bdd1abe8a_original.jpg)
+![<p>Carl Theodor Reiffenstein, Haus Zur Goldenen Waage, Großer Saal, 1874, Aquarell, HMF C09347</p>](../images/C09347_png_4ec842a01e176e0972c7878bdd1abe8a_medium.jpg)
 *1874 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Haus Zur Goldenen Waage, Großer Saal, 1874, Aquarell, HMF C09347</p>*
 
-![<p>Carl Theodor Reiffenstein, Haus Zur Goldenen Waage, Belvederchen, 1862, aquarellierte Bleistiftzeichnung, HMF R0510</p>](../images/R0510_png_61dead22a2ff6c9d35e44784261a3ce3_original.jpg)
+![<p>Carl Theodor Reiffenstein, Haus Zur Goldenen Waage, Belvederchen, 1862, aquarellierte Bleistiftzeichnung, HMF R0510</p>](../images/R0510_png_61dead22a2ff6c9d35e44784261a3ce3_medium.jpg)
 *1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Haus Zur Goldenen Waage, Belvederchen, 1862, aquarellierte Bleistiftzeichnung, HMF R0510</p>*
 
-![<p>Carl Theodor Reiffenstein, Goldene Waage, im Belvederchen, 1862, aquarellierte Bleistiftzeichnung, HMF R0512</p>](../images/R0512_png_ea18062b8dda6b596f3d22c129fcef21_original.jpg)
+![<p>Carl Theodor Reiffenstein, Goldene Waage, im Belvederchen, 1862, aquarellierte Bleistiftzeichnung, HMF R0512</p>](../images/R0512_png_ea18062b8dda6b596f3d22c129fcef21_medium.jpg)
 *1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Goldene Waage, im Belvederchen, 1862, aquarellierte Bleistiftzeichnung, HMF R0512</p>*
 
 

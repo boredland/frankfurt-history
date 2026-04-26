@@ -15,7 +15,7 @@ filters:
 
 *Dr. Ruth K. Westheimer und die Kindertransporte*
 
-![<p>Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums</p>](../images/ffaba6401ddc08c70d39dd7714b8a144_original.jpg)
+![<p>Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums</p>](../images/ffaba6401ddc08c70d39dd7714b8a144_medium.jpg)
 *o.D. — Author: Alexander Paul Englert | License: Deutsche Nationalbibliothek | Description: <p>Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums</p>*
 
 Die heute in den USA berühmte Sexualtherapeutin Dr. Ruth K. Westheimer wurde am 4. Juni 1928 in Wiesenfeld geboren. Den Großteil ihrer Kindheit verbrachte sie in Frankfurt am Main. Damals hieß sie Karola Ruth Siegel. 
@@ -24,7 +24,7 @@ Die heute in den USA berühmte Sexualtherapeutin Dr. Ruth K. Westheimer wurde am
 
 ## Gallery
 
-![<p>Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums</p>](../images/ffaba6401ddc08c70d39dd7714b8a144_original.jpg)
+![<p>Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums</p>](../images/ffaba6401ddc08c70d39dd7714b8a144_medium.jpg)
 *o.D. — Author: Alexander Paul Englert | License: Deutsche Nationalbibliothek | Description: <p>Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums</p>*
 
 

@@ -28,16 +28,16 @@ Beim Abriss des Hauses 1866 verbreiterte sich der Eingang der Wedelgasse und es 
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Hinterhäuser des Hauses Zum Wedel, vom Paulsplatz gesehen, (um 1850), aquarellierte Bleistiftzeichnung, HMF R0545</p>](../images/R0545_png_9901502365f615ec0b7eded93df0c433_original.jpg)
+![<p>Carl Theodor Reiffenstein, Hinterhäuser des Hauses Zum Wedel, vom Paulsplatz gesehen, (um 1850), aquarellierte Bleistiftzeichnung, HMF R0545</p>](../images/R0545_png_9901502365f615ec0b7eded93df0c433_medium.jpg)
 *1850 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Hinterhäuser des Hauses Zum Wedel, vom Paulsplatz gesehen, (um 1850), aquarellierte Bleistiftzeichnung, HMF R0545</p>*
 
-![<p>Carl Theodor Reiffenstein, Haus zum Wedel, Innenhof mit Holzgalerie, 1856, aquarellierte Bleistiftzeichnung, HMF R0568</p>](../images/R0568_png_287f8e5489c7c96b84e22d869ba20511_original.jpg)
+![<p>Carl Theodor Reiffenstein, Haus zum Wedel, Innenhof mit Holzgalerie, 1856, aquarellierte Bleistiftzeichnung, HMF R0568</p>](../images/R0568_png_287f8e5489c7c96b84e22d869ba20511_medium.jpg)
 *1856 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Haus zum Wedel, Innenhof mit Holzgalerie, 1856, aquarellierte Bleistiftzeichnung, HMF R0568</p>*
 
-![<p>Carl Theodor Reiffenstein, Haus zum Wedel, Innenhof mit Treppen, 1856, aquarellierte Bleistiftzeichnung, HMF R0571</p>](../images/R0571_png_2bfbcac6152a61a3e2dd890aee62f0de_original.jpg)
+![<p>Carl Theodor Reiffenstein, Haus zum Wedel, Innenhof mit Treppen, 1856, aquarellierte Bleistiftzeichnung, HMF R0571</p>](../images/R0571_png_2bfbcac6152a61a3e2dd890aee62f0de_medium.jpg)
 *1856 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Haus zum Wedel, Innenhof mit Treppen, 1856, aquarellierte Bleistiftzeichnung, HMF R0571</p>*
 
-![<p>Carl Theodor Reiffenstein, Haus zum Wedel, Vorplatz im 1. Stock, 1866, aquarellierte Bleistiftzeichnung, HMF R0566</p>](../images/R0566_png_19978678a8e2b58a4b641a28a9822a67_original.jpg)
+![<p>Carl Theodor Reiffenstein, Haus zum Wedel, Vorplatz im 1. Stock, 1866, aquarellierte Bleistiftzeichnung, HMF R0566</p>](../images/R0566_png_19978678a8e2b58a4b641a28a9822a67_medium.jpg)
 *1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Haus zum Wedel, Vorplatz im 1. Stock, 1866, aquarellierte Bleistiftzeichnung, HMF R0566</p>*
 
 

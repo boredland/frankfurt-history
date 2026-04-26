@@ -12,12 +12,12 @@ filters:
 
 *Braubachstraße 18-22*
 
-![](../images/5a3d7d7bd8704bcf59ba3dc8e079ba7c_original.jpg)
+![](../images/5a3d7d7bd8704bcf59ba3dc8e079ba7c_medium.jpg)
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![In dem Gebäude des Stadtgesundheitsamtes befand sich auch das Fürsorgeamt. Foto: HMF.](../images/171365433b_a33d3d65be335e0328fe688fdc3a7810_original.jpg)
+![In dem Gebäude des Stadtgesundheitsamtes befand sich auch das Fürsorgeamt. Foto: HMF.](../images/171365433b_a33d3d65be335e0328fe688fdc3a7810_medium.jpg)
 *ca. 1936 — Author: Max Göllner | License: HMF, NS1366 | Description: In dem Gebäude des Stadtgesundheitsamtes befand sich auch das Fürsorgeamt. Foto: HMF.*
 

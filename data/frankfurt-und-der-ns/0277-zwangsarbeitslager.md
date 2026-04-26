@@ -15,7 +15,7 @@ filters:
 
 *Seckbächer Gasse 13*
 
-![Foto eines mehrstöckigen Gebäudes in der Seckbächer Gasse 13, welches die Firma Degussa als Zwangsarbeitslagers nutzte](../images/9104be4253893d23efa373329d624a89_original.jpg)
+![Foto eines mehrstöckigen Gebäudes in der Seckbächer Gasse 13, welches die Firma Degussa als Zwangsarbeitslagers nutzte](../images/9104be4253893d23efa373329d624a89_medium.jpg)
 *1915 — Author: unbekannt | License: HMF C23275 | Description: Foto eines mehrstöckigen Gebäudes in der Seckbächer Gasse 13, welches die Firma Degussa als Zwangsarbeitslagers nutzte*
 
 In der Seckbächer Gasse 13 befand sich eines von sechs Zwangsarbeitslagern der Firma Degussa (Deutsche Gold- und Silberscheideanstalt) in Frankfurt. Hier waren Zivilarbeiter*innen aus Frankreich untergebracht. Mehr als 2,3 Millionen Franzosen und Französinnen leisteten nach der Besetzung Frankreichs durch die Wehrmacht Zwangsarbeit in Deutschland. Etwa 1,2 Millionen von ihnen waren Kriegsgefangene. Viele kamen als Zivilarbeiter*innen nach Deutschland, das heißt, sie waren keine Kriegsgefangenen und keine Konzentrationslagerhäftlinge. Sie wurden angeworben oder zur Arbeit verpflichtet und in privaten Firmen und Behörden, bei Bauern und Familien eingesetzt, von denen sie auch überwacht wurden.
@@ -24,7 +24,7 @@ In der Seckbächer Gasse 13 befand sich eines von sechs Zwangsarbeitslagern der 
 
 ## Gallery
 
-![Foto eines mehrstöckigen Gebäudes in der Seckbächer Gasse 13, welches die Firma Degussa als Zwangsarbeitslagers nutzte](../images/9104be4253893d23efa373329d624a89_original.jpg)
+![Foto eines mehrstöckigen Gebäudes in der Seckbächer Gasse 13, welches die Firma Degussa als Zwangsarbeitslagers nutzte](../images/9104be4253893d23efa373329d624a89_medium.jpg)
 *1915 — Author: unbekannt | License: HMF C23275 | Description: Foto eines mehrstöckigen Gebäudes in der Seckbächer Gasse 13, welches die Firma Degussa als Zwangsarbeitslagers nutzte*
 
 

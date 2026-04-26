@@ -14,13 +14,13 @@ filters:
 
 *Friedrich-Ebert-Anlage 13-21*
 
-![<p>Zwangsarbeitslager</p>](../images/15cf99b4df9456ee48d51aed4b52ed27_original.jpg)
+![<p>Zwangsarbeitslager</p>](../images/15cf99b4df9456ee48d51aed4b52ed27_medium.jpg)
 *ca. 1938 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13133 | Description: <p>Zwangsarbeitslager</p>*
 
 Die Deutsche Vereinigte Schuhmaschinenfabrik GmbH betrieb in der Hohenzollernanlage 13-21 (heute Friedrich-Ebert-Anlage) ein Lager für Zivilarbeiter.
 
 ## Gallery
 
-![<p>Zwangsarbeitslager</p>](../images/15cf99b4df9456ee48d51aed4b52ed27_original.jpg)
+![<p>Zwangsarbeitslager</p>](../images/15cf99b4df9456ee48d51aed4b52ed27_medium.jpg)
 *ca. 1938 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13133 | Description: <p>Zwangsarbeitslager</p>*
 

@@ -12,7 +12,7 @@ filters:
 
 *Gebäude von Fritz Epstein*
 
-![](../images/d7675a8d6fa4fa440b05abfdf9bf31c6_original.jpg)
+![](../images/d7675a8d6fa4fa440b05abfdf9bf31c6_medium.jpg)
 *2024 — Author: Moritz Bernoully | License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 
 Zweifamilienhaus aus dem Jahr 1930 – gemeinsames Projekt mit seinem Büro-Kollegen H. Schönbein in der Körberstraße 16. 
@@ -27,7 +27,7 @@ Der Architekt Fritz Epstein hat in Frankfurt etwa 150 Gebäude geplant, gebaut o
 
 ## Gallery
 
-![](../images/20241004_B_1014c3163e25228376618609f53f1285_original.jpg)
+![](../images/20241004_B_1014c3163e25228376618609f53f1285_medium.jpg)
 *2024 — Author: Moritz Bernoully | License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 
 

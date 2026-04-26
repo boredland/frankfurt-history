@@ -15,7 +15,7 @@ filters:
 
 *Gartenstraße 111*
 
-![Aufriss der Gartenstraße 109-111, Sitz der Orts­gruppe Sachsen­hau­sen des Natio­nal­so­zialis­ti­schen Deut­schen Frontkämpferbundes](../images/6af0bd1e6ac1bc65a56acab59da798ed_original.jpg)
+![Aufriss der Gartenstraße 109-111, Sitz der Orts­gruppe Sachsen­hau­sen des Natio­nal­so­zialis­ti­schen Deut­schen Frontkämpferbundes](../images/6af0bd1e6ac1bc65a56acab59da798ed_medium.jpg)
 *1912 — Author: Max Stapf und August Haenlein | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 5494 | Description: Aufriss der Gartenstraße 109-111, Sitz der Orts­gruppe Sachsen­hau­sen des Natio­nal­so­zialis­ti­schen Deut­schen Frontkämpferbundes*
 
 Die Gartenstraße 11 war der Sitz der Ortsgruppe Sachsenhausen des Nationalsozialistischen Deutschen Frontkämpferbundes, genannt Stahlhelm.
@@ -24,6 +24,6 @@ Die Gartenstraße 11 war der Sitz der Ortsgruppe Sachsenhausen des Nationalsozia
 
 ## Gallery
 
-![Aufriss der Gartenstraße 109-111, Sitz der Orts­gruppe Sachsen­hau­sen des Natio­nal­so­zialis­ti­schen Deut­schen Frontkämpferbundes](../images/6af0bd1e6ac1bc65a56acab59da798ed_original.jpg)
+![Aufriss der Gartenstraße 109-111, Sitz der Orts­gruppe Sachsen­hau­sen des Natio­nal­so­zialis­ti­schen Deut­schen Frontkämpferbundes](../images/6af0bd1e6ac1bc65a56acab59da798ed_medium.jpg)
 *1912 — Author: Max Stapf und August Haenlein | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 5494 | Description: Aufriss der Gartenstraße 109-111, Sitz der Orts­gruppe Sachsen­hau­sen des Natio­nal­so­zialis­ti­schen Deut­schen Frontkämpferbundes*
 

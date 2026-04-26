@@ -28,10 +28,10 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 ![<p>Portät von Martin Bertram, M-000473</p>](../images/Bertram_ M_38d9d91bb679cf19c0906abfe37e8d29_original.jpg)
 *1920er — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Portät von Martin Bertram, M-000473</p>*
 
-![<p>Bäckerei, Geschäft; S-001671</p>](../images/Bertram_Ma_934d6f2e56b5a0b6b78339173f97ed53_original.jpg)
+![<p>Bäckerei, Geschäft; S-001671</p>](../images/Bertram_Ma_934d6f2e56b5a0b6b78339173f97ed53_medium.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Bäckerei, Geschäft; S-001671</p>*
 
-![<p>Bäckerei, Backstube; S-001670</p>](../images/Bertram_Ma_e831e7fd975b3df334b94c668deeb2dd_original.jpg)
+![<p>Bäckerei, Backstube; S-001670</p>](../images/Bertram_Ma_e831e7fd975b3df334b94c668deeb2dd_medium.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Bäckerei, Backstube; S-001670</p>*
 
 

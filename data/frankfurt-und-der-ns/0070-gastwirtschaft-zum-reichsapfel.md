@@ -15,7 +15,7 @@ filters:
 
 *Große Friedberger Straße 39*
 
-![](../images/43d6fa3835966bc11279a733b41b3346_original.jpg)
+![](../images/43d6fa3835966bc11279a733b41b3346_medium.jpg)
 *Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 
 In der Gastwirtschaft Zum Reichsapfel trafen sich regelmäßig die Mitglieder der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP). Hier planten die Kreisleiter und die Ortsgruppenleiter der NSDAP am Vorabend des Boykotts gegen jüdische Geschäfte, Firmen, Kanzleien und Praxen (1. April 1933) gemeinsame Aktionen. Die Ortsgruppenleiter sollten im Vorfeld Listen mit möglichen Zielen vorbereiten.
@@ -24,6 +24,6 @@ In der Gastwirtschaft Zum Reichsapfel trafen sich regelmäßig die Mitglieder de
 
 ## Gallery
 
-![](../images/43d6fa3835966bc11279a733b41b3346_original.jpg)
+![](../images/43d6fa3835966bc11279a733b41b3346_medium.jpg)
 *Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 

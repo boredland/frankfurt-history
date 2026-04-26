@@ -14,7 +14,7 @@ filters:
 
 *Rödelheimer Parkweg 11*
 
-![Blick auf die Rückseite des Pavillons mit Aussichtsterrasse.](../images/dcae6cfcd2a20edb2fed1a21603ca21f_original.jpg)
+![Blick auf die Rückseite des Pavillons mit Aussichtsterrasse.](../images/dcae6cfcd2a20edb2fed1a21603ca21f_medium.jpg)
 *um 1930 — Author: unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Blick auf die Rückseite des Pavillons mit Aussichtsterrasse.*
 
 Der 1931 nach Plänen des Architekten Eugen Kaufmann errichtete Pavillon liegt im südlichen Teil des Brentanoparks, der seinerseits ab 1928 durch Gartenbaudirektor Max Bromme neu gestaltet wurde. Der Pavillon wurde als Kombination aus Unterstandhalle und Unterrichtsgebäude konzipiert, um der Frankfurter Stadtjugend ein vertieftes Verständnis für Gartenbau zu vermitteln. Vor dem halbrunden Pavillon befanden sich fächerförmig angeordnete Arbeitsgärten für Schüler*innen. Das Gebäude besticht durch seine klare Gestaltung: weiße Fassaden, schwarzbraune Fensterrahmen und eine rot gestrichene Kante des Flachdachs. Im Erdgeschoss wird die Unterstandhalle von roten Säulen auf Kupfersockeln getragen.
@@ -31,9 +31,9 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
-![Blick auf die Rückseite des Pavillons mit Aussichtsterrasse.](../images/isg_ffm_s7_3b40f11edfe58d2784efdf779e8e106f_original.jpg)
+![Blick auf die Rückseite des Pavillons mit Aussichtsterrasse.](../images/isg_ffm_s7_3b40f11edfe58d2784efdf779e8e106f_medium.jpg)
 *um 1930 — Author: unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Blick auf die Rückseite des Pavillons mit Aussichtsterrasse.*
 
-![Blick auf die rechte halbrunde Vorderseite des Pavillons.](../images/isg_ffm_s7_605402cab07e5e343a261ffd2407fa9e_original.jpg)
+![Blick auf die rechte halbrunde Vorderseite des Pavillons.](../images/isg_ffm_s7_605402cab07e5e343a261ffd2407fa9e_medium.jpg)
 *nach 1930 — Author: unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Blick auf die rechte halbrunde Vorderseite des Pavillons.*
 

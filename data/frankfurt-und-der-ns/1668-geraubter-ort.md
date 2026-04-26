@@ -14,7 +14,7 @@ filters:
 
 *Guiollettstraße 17*
 
-![Guiollettstraße 17](../images/7f5e8eca1de8cc09d0f3ac2c41e51971_original.jpg)
+![Guiollettstraße 17](../images/7f5e8eca1de8cc09d0f3ac2c41e51971_medium.jpg)
 *1931 — Author: unbekannt | License: ISG | Description: Guiollettstraße 17*
 
 Die Liegenschaft Guiollettstraße 17 hatte ursprünglich Ludwig Gutheim gehört. Der antisemitisch Verfolgte musste sein Haus 1938 an einen nichtjüdischen Erwerber veräußern.
@@ -23,6 +23,6 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
-![Guiollettstraße 17](../images/Guiolletts_1f3376f1f531f89445417ecebf40b498_original.jpg)
+![Guiollettstraße 17](../images/Guiolletts_1f3376f1f531f89445417ecebf40b498_medium.jpg)
 *1931 — Author: unbekannt | License: ISG | Description: Guiollettstraße 17*
 

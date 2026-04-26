@@ -14,7 +14,7 @@ filters:
 
 *Mainkai 37*
 
-![<p>Foto des Lokal Donnersberg (rechts neben dem "Zähringer Hof")</p>](../images/c25f25b627bbb2a36132babf4d864072_original.jpg)
+![<p>Foto des Lokal Donnersberg (rechts neben dem "Zähringer Hof")</p>](../images/c25f25b627bbb2a36132babf4d864072_medium.jpg)
 *um 1865 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-79 | Description: <p>Foto des Lokal Donnersberg (rechts neben dem "Zähringer Hof")</p>*
 
 Wenige Tage nach dem Beginn der Nationalversammlung spaltete sich am 27. Mai 1848 die Fraktion „Donnersberg“ aus dem „Deutschen Hof“ ab. Die Vertreter trafen sich bis Ende September 1848 im Holländischen Hof und in den folgenden Monaten im Donnersberg, im Gebäude des späteren Zähringer Hofs.
@@ -31,6 +31,6 @@ Außerhalb des Parlaments schlossen sich Vertreter der „Donnersberg“-Fraktio
 
 ## Gallery
 
-![<p>Foto des Lokal Donnersberg (rechts neben dem "Zähringer Hof")</p>](../images/15 Donners_dc9fb9418cd9d31296955de03dbc2b12_original.jpg)
+![<p>Foto des Lokal Donnersberg (rechts neben dem "Zähringer Hof")</p>](../images/15 Donners_dc9fb9418cd9d31296955de03dbc2b12_medium.jpg)
 *um 1865 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-79 | Description: <p>Foto des Lokal Donnersberg (rechts neben dem "Zähringer Hof")</p>*
 

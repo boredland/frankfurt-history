@@ -14,7 +14,7 @@ filters:
 
 *Höhenblick 1*
 
-![](../images/d1ee4946a85cbaf3aafc7c3a3c99b24b_original.jpg)
+![](../images/d1ee4946a85cbaf3aafc7c3a3c99b24b_medium.jpg)
 
 ## Interactive Before & After
 

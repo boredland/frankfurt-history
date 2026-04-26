@@ -14,7 +14,7 @@ filters:
 
 *Damaschkeanger 156*
 
-![Christ-König-Kirche in der Siedlung Praunheim](../images/a2e84bfe3f1d39541fa70ce6f09a0345_original.jpg)
+![Christ-König-Kirche in der Siedlung Praunheim](../images/a2e84bfe3f1d39541fa70ce6f09a0345_medium.jpg)
 *Unbekannt — Author: Unbekannr | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Christ-König-Kirche in der Siedlung Praunheim*
 
 In der Siedlung Praunheim sah man an zentraler Stelle ein Volkshaus vor, das aber aus Kostengründen nicht realisiert wurde. Stattdessen errichtete die wachsende katholische Gemeinde dort eine Notkirche. In kürzester Zeit entstand ein kastenförmiger verputzter Fachwerkbau ohne Glockenturm, der sich gut der Siedlungsarchitektur anpasste. Der Schriftzug „Christo Regi“ und ein zentral herausragendes Kreuz schmückten die Fassade. Die leicht erhöht stehende Kirche betrat man durch eine einfache hölzerne Vorhalle. Im Innern strömt Licht durch eine fast komplett verglaste Wand. Ihr gegenüber steht eine Empore, die durch ein schmales horizontales Fensterband belichtet wird. In der Nachkriegszeit erfolgten mehrere Um- und Neugestaltungen, außen wurden ein Mosaik von Hans Leistikow und ein Glockenträger hinzugefügt. 
@@ -31,6 +31,6 @@ Adrian Seib, Der Kirchenbaumeister Martin Weber (1890–1941). Leben und Werk ei
 
 ## Gallery
 
-![Christ-König-Kirche in der Siedlung Praunheim](../images/isg_ffm_s7_e5d20c687b305c545bf4ea63ffe0d399_original.jpg)
+![Christ-König-Kirche in der Siedlung Praunheim](../images/isg_ffm_s7_e5d20c687b305c545bf4ea63ffe0d399_medium.jpg)
 *Unbekannt — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Christ-König-Kirche in der Siedlung Praunheim*
 

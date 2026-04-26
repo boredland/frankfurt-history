@@ -14,7 +14,7 @@ filters:
 
 *Hanauer Landstraße 528*
 
-![<p>Zwangsarbeitslager, Hanauer Landstraße 528</p>](../images/d520898a5c46c2c87a314c71e3330088_original.jpg)
+![<p>Zwangsarbeitslager, Hanauer Landstraße 528</p>](../images/d520898a5c46c2c87a314c71e3330088_medium.jpg)
 *1931 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29253 | Description: <p>Zwangsarbeitslager, Hanauer Landstraße 528</p>*
 
 In der Hanauer Landstraße 528 befand sich das Verwaltungsgebäude der Farbenfabrik Leopold Cassella & Co, die seit 1916 zur Interessengemeinschaft der deutschen Teerfarbenindustrie (spätere I.G. Farben) gehörte. Das Unternehmen wurde von Arthur von Weinberg (1860-1943) und seinem Bruder Carl (1861-1943) geleitet. Die Cassella-Werke gingen 1925 in der „Interessengemeinschaft Farbenindustrie Aktiengesellschaft“ (I.G. Farben) auf. Arthur von Weinberg war nun Mitglied des Aufsichtsrats und des Verwaltungsrats der I.G. Farben. Er war verantwortlich für die Themen Wissenschaft, Patente und Fabrikation der Farbstoffe. Carl von Weinberg saß ebenfalls im Aufsichtsrat und war verantwortlich für die Bereiche Verkauf und Reparationsverhandlungen. Zwischen 1935 und 1937 wurden die Brüder von Weinberg gezwungen, ihre Posten aufzugeben. Der Zentral-Ausschuss der I.G. Farben entschied am 25. April 1938, alle jüdischen Mitarbeiter*innen zu entlassen.
@@ -25,6 +25,6 @@ In der Hanauer Landstraße 528 befand sich das Verwaltungsgebäude der Farbenfab
 
 ## Gallery
 
-![<p>Zwangsarbeitslager, Hanauer Landstraße 528</p>](../images/d520898a5c46c2c87a314c71e3330088_original.jpg)
+![<p>Zwangsarbeitslager, Hanauer Landstraße 528</p>](../images/d520898a5c46c2c87a314c71e3330088_medium.jpg)
 *1931 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29253 | Description: <p>Zwangsarbeitslager, Hanauer Landstraße 528</p>*
 

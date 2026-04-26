@@ -14,7 +14,7 @@ filters:
 
 *Melemstraße 7*
 
-![<p>Ansicht der Melemstraße 7</p>](../images/d9b92bd16cc0bf840202c463cd4059fe_original.jpg)
+![<p>Ansicht der Melemstraße 7</p>](../images/d9b92bd16cc0bf840202c463cd4059fe_medium.jpg)
 *ca. 1925 — Author: Hofmann & Müller | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 5527 | Description: <p>Ansicht der Melemstraße 7</p>*
 
 In der Melemstraße 7 betrieb die Firma Bauausführungen Peter Schäfer ein Lager für Zivilarbeiter.
@@ -22,6 +22,6 @@ In der Melemstraße 7 betrieb die Firma Bauausführungen Peter Schäfer ein Lage
 
 ## Gallery
 
-![<p>Ansicht der Melemstraße 7</p>](../images/d9b92bd16cc0bf840202c463cd4059fe_original.jpg)
+![<p>Ansicht der Melemstraße 7</p>](../images/d9b92bd16cc0bf840202c463cd4059fe_medium.jpg)
 *ca. 1925 — Author: Hofmann & Müller | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 5527 | Description: <p>Ansicht der Melemstraße 7</p>*
 

@@ -12,7 +12,7 @@ filters:
 
 *Straßennamen nach Frauen benannt*
 
-![Elisabeth Schwarzhaupt Anlage](../images/adf4173f78dddffd6ba9c9cf9bbb2bb1_original.jpg)
+![Elisabeth Schwarzhaupt Anlage](../images/adf4173f78dddffd6ba9c9cf9bbb2bb1_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Elisabeth Schwarzhaupt Anlage*
 
 Diese Anlage erinnert an Elisabeth Schwarzhaupt, die sich als Frau in einem von Männern dominierten politischen System durchsetzte und die erste Bundesministerin Deutschlands wurde.
@@ -23,6 +23,6 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
-![Elisabeth Schwarzhaupt Anlage](../images/Elisabeth _e439740ff6e269bf6e8b7b814678a8b2_original.jpg)
+![Elisabeth Schwarzhaupt Anlage](../images/Elisabeth _e439740ff6e269bf6e8b7b814678a8b2_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Elisabeth Schwarzhaupt Anlage*
 

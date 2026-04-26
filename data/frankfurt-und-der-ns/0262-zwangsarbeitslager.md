@@ -14,7 +14,7 @@ filters:
 
 *Oeserstraße 12*
 
-![Bildpostkarte mit dem Bahnhof Nied](../images/7542f78183e90a9579b19b0a660e574d_original.jpg)
+![Bildpostkarte mit dem Bahnhof Nied](../images/7542f78183e90a9579b19b0a660e574d_medium.jpg)
 *o.D. — Author: unbekannt | License: HMF / Sammlung Church C80388 | Description: Bildpostkarte mit dem Bahnhof Nied*
 
 Die Deutsche Reichsbahn betrieb im Wartesaal des Bahnhofs Nied in der Oeserstraße 12 ein Zwangsarbeitslager für 24 Personen. Nach dem Einmarsch der Alliierten wurde es im Mai 1945 aufgelöst.
@@ -23,7 +23,7 @@ Die Deutsche Reichsbahn betrieb im Wartesaal des Bahnhofs Nied in der Oeserstra�
 
 ## Gallery
 
-![Bildpostkarte mit dem Bahnhof Nied](../images/7542f78183e90a9579b19b0a660e574d_original.jpg)
+![Bildpostkarte mit dem Bahnhof Nied](../images/7542f78183e90a9579b19b0a660e574d_medium.jpg)
 *o.D. — Author: unbekannt | License: HMF / Sammlung Church C80388 | Description: Bildpostkarte mit dem Bahnhof Nied*
 
 

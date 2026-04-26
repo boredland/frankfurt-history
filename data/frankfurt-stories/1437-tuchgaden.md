@@ -16,7 +16,7 @@ filters:
 
 Reiffensteins Frankfurt<br />(1820-1893)
 
-![<p>Carl Theodor Reiffenstein, Tuchgaden nach Norden, 1871, aquarellierte Bleistiftzeichnung, HMF R0579</p>](../images/76fef848871da63276b38ccda1ee8342_original.jpg)
+![<p>Carl Theodor Reiffenstein, Tuchgaden nach Norden, 1871, aquarellierte Bleistiftzeichnung, HMF R0579</p>](../images/76fef848871da63276b38ccda1ee8342_medium.jpg)
 *1871 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Tuchgaden nach Norden, 1871, aquarellierte Bleistiftzeichnung, HMF R0579</p>*
 
 Die Fläche zwischen Markt und Bendergasse war dicht mit mittelalterlichen Häusern bebaut. Im Osten grenzte sie an den Dom, im Westen an den Römerberg. Nur durch schmale Gassen in Nord-Süd-Richtung waren die Häuser erschlossen. Dabei nahm die Gasse Unter den Tuchgaden ihren Anfang unter dem Neuen Roten Haus am Markt. Dort boten Kaufleute ihre Textilwaren in sogenannten Schirnen an. Diese für die Altstadt typischen Verkaufsstände lagen auch am Tuchgaden und in der Bendergasse, die hier dem Verkauf von Fleischwaren dienten. Für Reiffenstein galten sie als malerische Orte und inspirierten auch weitere Künstler*innen zur Darstellung von alltäglichen und volksnahen Szenen. Heute erinnert nur noch der Name der Schirn Kunsthalle an die einstigen Verkaufsstände in der Frankfurter Altstadt.
@@ -25,13 +25,13 @@ Die Fläche zwischen Markt und Bendergasse war dicht mit mittelalterlichen Häus
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Tuchgaden nach Norden, 1871, aquarellierte Bleistiftzeichnung, HMF R0579</p>](../images/R0579_png_a79a334426484a9c5fae2a5a0ccfd17d_original.jpg)
+![<p>Carl Theodor Reiffenstein, Tuchgaden nach Norden, 1871, aquarellierte Bleistiftzeichnung, HMF R0579</p>](../images/R0579_png_a79a334426484a9c5fae2a5a0ccfd17d_medium.jpg)
 *1871 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Tuchgaden nach Norden, 1871, aquarellierte Bleistiftzeichnung, HMF R0579</p>*
 
-![<p>Carl Theodor Reiffenstein, Tuchgaden, Haus zum Weiblein, Blick vom Pfarrturm, 1837, Bleistiftzeichnung, HMF R0444</p>](../images/R0444_png_893537d71853f223e3a6cbfff3d3dd69_original.jpg)
+![<p>Carl Theodor Reiffenstein, Tuchgaden, Haus zum Weiblein, Blick vom Pfarrturm, 1837, Bleistiftzeichnung, HMF R0444</p>](../images/R0444_png_893537d71853f223e3a6cbfff3d3dd69_medium.jpg)
 *1837 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Tuchgaden, Haus zum Weiblein, Blick vom Pfarrturm, 1837, Bleistiftzeichnung, HMF R0444</p>*
 
-![<p>Carl Theodor Reiffenstein, Alter Markt, 1845/1864, aquarellierte Bleistiftzeichnung, HMF R0576</p>](../images/R0576_png_3e818534d4027414131ada9d87e12c2c_original.jpg)
+![<p>Carl Theodor Reiffenstein, Alter Markt, 1845/1864, aquarellierte Bleistiftzeichnung, HMF R0576</p>](../images/R0576_png_3e818534d4027414131ada9d87e12c2c_medium.jpg)
 *1845/1864 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Alter Markt, 1845/1864, aquarellierte Bleistiftzeichnung, HMF R0576</p>*
 
 

@@ -10,11 +10,11 @@ filters:
 
 # Niederräder Landstraße 10
 
-![](../images/218d2de3ece38b1f5e4ecfc22dd4ec21_original.jpg)
+![](../images/218d2de3ece38b1f5e4ecfc22dd4ec21_medium.jpg)
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![](../images/218d2de3ece38b1f5e4ecfc22dd4ec21_original.jpg)
+![](../images/218d2de3ece38b1f5e4ecfc22dd4ec21_medium.jpg)
 

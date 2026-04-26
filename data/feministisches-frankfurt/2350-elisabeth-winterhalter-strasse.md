@@ -12,7 +12,7 @@ filters:
 
 *Straßennamen nach Frauen benannt*
 
-![Elisabeth Winterhalter Straße](../images/fb6e219ce2122f055b32a1066280eb00_original.jpg)
+![Elisabeth Winterhalter Straße](../images/fb6e219ce2122f055b32a1066280eb00_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Elisabeth Winterhalter Straße*
 
 Diese Straße ist nach Elisabeth H. Winterhalter benannt, die eine der ersten Gynäkologinnen in Deutschland war und ein selbstbestimmtes Leben mit ihrer Partnerin Ottilie W. Roederstein führte.
@@ -23,6 +23,6 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
-![Elisabeth Winterhalter Straße](../images/Elisabeth _217e0b743844b60eff2ac38f40cc931c_original.jpg)
+![Elisabeth Winterhalter Straße](../images/Elisabeth _217e0b743844b60eff2ac38f40cc931c_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Elisabeth Winterhalter Straße*
 

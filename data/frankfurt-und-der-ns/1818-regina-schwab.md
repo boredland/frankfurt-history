@@ -12,7 +12,7 @@ filters:
 
 *Wenn Grenzen überschritten werden!*
 
-![](../images/a2c7c38b9688813fda74f8986c1efd8c_original.jpg)
+![](../images/a2c7c38b9688813fda74f8986c1efd8c_medium.jpg)
 
 Das Leben und qualvolle Sterben von Regina Schwab: Trotz ihrer Flucht und der Aufgabe ihres Lebensumfelds wurde sie Opfer des Holocaust.
 
@@ -29,13 +29,13 @@ Ihr letzter Wohnsitz war die Stationsstraat 408, ebenfalls in Dinxperlo. Dort be
 
 ## Gallery
 
-![Fotografie von Regina Schwabs damaligen Haus in der Mousonstraße 10.](../images/1-Mousonst_6785d6bb156d58bdd517c5260a4afd78_original.jpg)
+![Fotografie von Regina Schwabs damaligen Haus in der Mousonstraße 10.](../images/1-Mousonst_6785d6bb156d58bdd517c5260a4afd78_medium.jpg)
 *2024 — Author: Linus Hornberger | Description: Fotografie von Regina Schwabs damaligen Haus in der Mousonstraße 10.*
 
-![Fotografie von Regina und Siegmund Schwab. Porträtmaler Ernst Matthes und Kgl. bayr. Hofphotograph Georg Schönau.](../images/2-Mousonst_21923574b85327e12fb593eb136e66ef_original.jpg)
+![Fotografie von Regina und Siegmund Schwab. Porträtmaler Ernst Matthes und Kgl. bayr. Hofphotograph Georg Schönau.](../images/2-Mousonst_21923574b85327e12fb593eb136e66ef_medium.jpg)
 *Author: vermutlich Georg Schönau | License: Stichting Stolpersteine Dinxperlo | Description: Fotografie von Regina und Siegmund Schwab. Porträtmaler Ernst Matthes und Kgl. bayr. Hofphotograph Georg Schönau.*
 
-![Stolperstein für Regina Schwab in der Maurits Prinsstraat 11 (früher: Stationsstraat 408), Dinxperlo (Niederlande)](../images/3-Mousonst_b46fec783f50d9a9985bf219d206b9d1_original.jpg)
+![Stolperstein für Regina Schwab in der Maurits Prinsstraat 11 (früher: Stationsstraat 408), Dinxperlo (Niederlande)](../images/3-Mousonst_b46fec783f50d9a9985bf219d206b9d1_medium.jpg)
 *License: Stichting Stolpersteine Dinxperlo | Description: Stolperstein für Regina Schwab in der Maurits Prinsstraat 11 (früher: Stationsstraat 408), Dinxperlo (Niederlande)*
 
 

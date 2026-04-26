@@ -15,7 +15,7 @@ filters:
 
 *Gartenstraße 140*
 
-![Außenansicht des Institut für Erbbiologie und Rassenhygiene](../images/130eb3e62814dad808af4a7c64d61e96_original.jpg)
+![Außenansicht des Institut für Erbbiologie und Rassenhygiene](../images/130eb3e62814dad808af4a7c64d61e96_medium.jpg)
 *1936 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-131 | Description: Außenansicht des Institut für Erbbiologie und Rassenhygiene*
 
 An der Goethe-Universität entstand 1935 das „Institut für Erbbiologie und Rassenhygiene“ unter der Leitung von Otmar Freiherr von Verschuer. Zu den Mitarbeitenden des Instituts gehörte auch der spätere Lagerarzt von Auschwitz, Josef Mengele, der hier seine Dissertation schrieb. Das Institut nahm seinen Sitz im im „Haus der Volksgesundheit“ in der Gartenstraße 140.
@@ -29,6 +29,6 @@ Es gehörte zu den zentralen Einrichtungen für die Verbreitung der pseudowissen
 
 ## Gallery
 
-![Außenansicht des Institut für Erbbiologie und Rassenhygiene](../images/130eb3e62814dad808af4a7c64d61e96_original.jpg)
+![Außenansicht des Institut für Erbbiologie und Rassenhygiene](../images/130eb3e62814dad808af4a7c64d61e96_medium.jpg)
 *1936 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-131 | Description: Außenansicht des Institut für Erbbiologie und Rassenhygiene*
 

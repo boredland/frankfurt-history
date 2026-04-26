@@ -14,7 +14,7 @@ filters:
 
 *An der Hauptwache*
 
-![<p>Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848, Lithografie (Zigarrenreklame), um 1903, ISG S7A 1998/8562</p>](../images/e4df4b866f98f18ff6307c55ea11a782_original.jpg)
+![<p>Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848, Lithografie (Zigarrenreklame), um 1903, ISG S7A 1998/8562</p>](../images/e4df4b866f98f18ff6307c55ea11a782_medium.jpg)
 *um 1903 — License: ISG | Description: <p>Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848, Lithografie (Zigarrenreklame), um 1903, ISG S7A 1998/8562</p>*
 
 Die Hauptwache war der Sitz der Frankfurter Stadtwehr und wurde als Gefängnis für prominente Häftlinge genutzt. Als militärischer Stützpunkt im Zentrum der Stadt diente das barocke Gebäude im September 1848 den zur Niederschlagung des Aufstands eingesetzten Bundestruppen als Kommandozentrale.

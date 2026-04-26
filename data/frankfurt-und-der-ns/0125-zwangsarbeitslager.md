@@ -15,7 +15,7 @@ filters:
 
 *Schwanthalerstraße 50*
 
-![Bildpostkarte mit Außen- und Innenansicht des Gasthauses Schwanthalerhof](../images/f6f9b4390340f181677c60ba5b8048f1_original.jpg)
+![Bildpostkarte mit Außen- und Innenansicht des Gasthauses Schwanthalerhof](../images/f6f9b4390340f181677c60ba5b8048f1_medium.jpg)
 *o.D. — Author: unbekannt | License: HMF, Sammlung Church, C80416 | Description: Bildpostkarte mit Außen- und Innenansicht des Gasthauses Schwanthalerhof*
 
 In der Gastwirtschaft und dem Tanzlokal Schwanthaler Hof befand sich während des Zweiten Weltkriegs ein Zwangsarbeitslager. Die Zwangsarbeiter*innen mussten vor allem für die Deutsche Reichsbahn arbeiten, aber auch für einige Firmen aus Sachsenhausen. Im Institut für Stadtgeschichte ist ein Hausstandsbuch zu diesem Lager überliefert, das in der Zeit des Nationalsozialismus geführt wurde und etwa 640 Namen von Zwangsarbeiter*innen nennt. Auch die Metallwarenfabrik E. F. Wiedmann nutzte dieses Lager zwischen dem 16. Juni 1944 und dem 20. März 1945, um hier 463 Zwangsarbeiter*innen aus Russland und Frankreich unterzubringen. Einige der russischen Zwangsarbeiter*innen wurden im Sommer 1944 in die Tötungsanstalt Hadamar verschleppt und dort wahrscheinlich ermordet. Laut den Unterlagen der Polizei aus der Nachkriegszeit setzte die Firma E. F. Wiedmann bereits seit 1942 Zwangsarbeiter*innen ein. Auch die Elektrotechnische Fabrik Schoeller & Co, ansässig in der Mörfelder Landstraße 115-119, hat hier wahrscheinlich Zwangsarbeiter*innen einquartiert.
@@ -24,6 +24,6 @@ In der Gastwirtschaft und dem Tanzlokal Schwanthaler Hof befand sich während de
 
 ## Gallery
 
-![Bildpostkarte mit Außen- und Innenansicht des Gasthauses Schwanthalerhof](../images/f6f9b4390340f181677c60ba5b8048f1_original.jpg)
+![Bildpostkarte mit Außen- und Innenansicht des Gasthauses Schwanthalerhof](../images/f6f9b4390340f181677c60ba5b8048f1_medium.jpg)
 *o.D. — Author: unbekannt | License: HMF, Sammlung Church, C80416 | Description: Bildpostkarte mit Außen- und Innenansicht des Gasthauses Schwanthalerhof*
 

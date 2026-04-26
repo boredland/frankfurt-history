@@ -15,7 +15,7 @@ filters:
 
 *Frankfurter Mobilitätsorte*
 
-![Carl Hertel (1832-1906), Frankfurter Hauptbahnhof mit noch unbebauter Umgebung, Frankfurt 1896, HMF.C29184, gemeinfrei](../images/84721ba4a4ce59e094b6a605bb5c2fb2_original.png)
+![Carl Hertel (1832-1906), Frankfurter Hauptbahnhof mit noch unbebauter Umgebung, Frankfurt 1896, HMF.C29184, gemeinfrei](../images/84721ba4a4ce59e094b6a605bb5c2fb2_medium.png)
 *1896 — Author: Carl Hertel | License: Gemeinfrei, HMF | Description: Carl Hertel (1832-1906), Frankfurter Hauptbahnhof mit noch unbebauter Umgebung, Frankfurt 1896, HMF.C29184, gemeinfrei*
 
 Bereits kurz nach der Eröffnung der ersten deutschen Bahnstrecke zwischen Nürnberg und Fürth 1835 wurde in Frankfurt eine eigene Eisenbahnstrecke geplant. Schon 1839 eröffnete die Taunusbahn mit der Teilstrecke Frankfurt – Höchst. In den folgenden Jahren entstanden der Main-Neckar- und Main-Weser-Bahnhof an der westlichen Stadtgrenze, die Frankfurt mit Heidelberg und Kassel verbanden. Die drei nebeneinander liegenden Bahnhöfe befanden sich etwa 600 Meter vor dem heutigen Hauptbahnhof, dort wo das Bahnhofs- und das Gallusviertel liegen.
@@ -32,36 +32,36 @@ Die Eisenbahn revolutionierte die Mobilität der Bevölkerung. Vorher war das Re
 
 ## Gallery
 
-![Carl Hertel (1832-1906), Frankfurter Hauptbahnhof mit noch unbebauter Umgebung, Frankfurt 1896, HMF.C29184, gemeinfrei](../images/C29184+001_adc7875678a08b3ea36f1a82422d579b_original.jpg)
+![Carl Hertel (1832-1906), Frankfurter Hauptbahnhof mit noch unbebauter Umgebung, Frankfurt 1896, HMF.C29184, gemeinfrei](../images/C29184+001_adc7875678a08b3ea36f1a82422d579b_medium.jpg)
 *1896 — Author: Carl Hertel | License: Gemeinfrei, HMF | Description: Carl Hertel (1832-1906), Frankfurter Hauptbahnhof mit noch unbebauter Umgebung, Frankfurt 1896, HMF.C29184, gemeinfrei*
 
 
 ## Gallery
 
-![Carl Friedrich Emil Beer/Gerhard Friedrich Wilmanns (1764-1830), Das Innere des Taunusbahnhofes, Frankfurt um 1840, HMF.C10531, gemeinfrei](../images/C10531+001_02b9420c32e5cdff8fe4757b3a26960c_original.jpg)
+![Carl Friedrich Emil Beer/Gerhard Friedrich Wilmanns (1764-1830), Das Innere des Taunusbahnhofes, Frankfurt um 1840, HMF.C10531, gemeinfrei](../images/C10531+001_02b9420c32e5cdff8fe4757b3a26960c_medium.jpg)
 *Um 1840 — Author: Carl Friedrich Emil Beer (Lithograf); Gerhard Friedrich Wilmanns (Drucker) | License: Gemeinfrei, HMF | Description: Carl Friedrich Emil Beer/Gerhard Friedrich Wilmanns (1764-1830), Das Innere des Taunusbahnhofes, Frankfurt um 1840, HMF.C10531, gemeinfrei*
 
-![Unbekannt, Taunusbahnhof, nach 1839, HMF.N43235, Dauerleihgabe Städel Museum Frankfurt, gemeinfrei](../images/N43235+001_86f55bfb2cd763b5ded49390923786ad_original.jpg)
+![Unbekannt, Taunusbahnhof, nach 1839, HMF.N43235, Dauerleihgabe Städel Museum Frankfurt, gemeinfrei](../images/N43235+001_86f55bfb2cd763b5ded49390923786ad_medium.jpg)
 *Nach 1839 — License: Gemeinfrei; HMF, Dauerleihgabe Städel Museum Frankfurt | Description: Unbekannt, Taunusbahnhof, nach 1839, HMF.N43235, Dauerleihgabe Städel Museum Frankfurt, gemeinfrei*
 
-![Unbekannt, Main-Neckar-Bahnhof, Frankfurt 1871-1880, HMF.C20098, gemeinfrei](../images/C20098+001_87288f7d66f69efb0a48adc7114fe432_original.jpg)
+![Unbekannt, Main-Neckar-Bahnhof, Frankfurt 1871-1880, HMF.C20098, gemeinfrei](../images/C20098+001_87288f7d66f69efb0a48adc7114fe432_medium.jpg)
 *1871-1880 — License: Gemeinfrei, HMF | Description: Unbekannt, Main-Neckar-Bahnhof, Frankfurt 1871-1880, HMF.C20098, gemeinfrei*
 
 
 ## Gallery
 
-![Carl Hertel (1832-1906), Frankfurter Hauptbahnhof mit noch unbebauter Umgebung, Frankfurt 1896, HMF.C29184, gemeinfrei](../images/C29184+001_adc7875678a08b3ea36f1a82422d579b_original.jpg)
+![Carl Hertel (1832-1906), Frankfurter Hauptbahnhof mit noch unbebauter Umgebung, Frankfurt 1896, HMF.C29184, gemeinfrei](../images/C29184+001_adc7875678a08b3ea36f1a82422d579b_medium.jpg)
 *1896 — Author: Carl Hertel | License: Gemeinfrei, HMF | Description: Carl Hertel (1832-1906), Frankfurter Hauptbahnhof mit noch unbebauter Umgebung, Frankfurt 1896, HMF.C29184, gemeinfrei*
 
-![Ansichten des Frankfurter Hauptbahnhofs, aus: Kleine Presse, 1888, HMF.C10536, gemeinfrei](../images/C10536+001_ad65718674f190662f105eac3fce3e7e_original.jpg)
+![Ansichten des Frankfurter Hauptbahnhofs, aus: Kleine Presse, 1888, HMF.C10536, gemeinfrei](../images/C10536+001_ad65718674f190662f105eac3fce3e7e_medium.jpg)
 *1888 — License: Gemeinfrei, HMF | Description: Ansichten des Frankfurter Hauptbahnhofs, aus: Kleine Presse, 1888, HMF.C10536, gemeinfrei*
 
-![Staatliche Landesbildstelle Hessen, Luftbild vom Frankfurter Hauptbahnhof, Frankfurt um 1930, HMF.Ph06336](../images/Ph06336_00_57d718228976a2fca64368b76f32dcf8_original.jpg)
+![Staatliche Landesbildstelle Hessen, Luftbild vom Frankfurter Hauptbahnhof, Frankfurt um 1930, HMF.Ph06336](../images/Ph06336_00_57d718228976a2fca64368b76f32dcf8_medium.jpg)
 *Um 1930 — Author: Staatliche Landesbildstelle Hessen | License: HMF, Foto: Horst Ziegenfusz | Description: Staatliche Landesbildstelle Hessen, Luftbild vom Frankfurter Hauptbahnhof, Frankfurt um 1930, HMF.Ph06336*
 
 
 ## Gallery
 
-![Paul Wolff (1887-1951), Bahnsteighalle des Frankfurter Hauptbahnhofs, Frankfurt vor 1925, HMF.C26961a, Foto: Dr. Paul Wolff &amp; Trischler, Historisches Bildarchiv, Offenburg](../images/C26961a_00_fd305e2c4d4c99aed481c8e771ca507e_original.jpg)
+![Paul Wolff (1887-1951), Bahnsteighalle des Frankfurter Hauptbahnhofs, Frankfurt vor 1925, HMF.C26961a, Foto: Dr. Paul Wolff &amp; Trischler, Historisches Bildarchiv, Offenburg](../images/C26961a_00_fd305e2c4d4c99aed481c8e771ca507e_medium.jpg)
 *Um 1925 — Author: Paul Wolff | License: HMF, Foto: Dr. Paul Wolff &amp; Trischler, Historisches Bildarchiv, Offenburg | Description: Paul Wolff (1887-1951), Bahnsteighalle des Frankfurter Hauptbahnhofs, Frankfurt vor 1925, HMF.C26961a, Foto: Dr. Paul Wolff &amp; Trischler, Historisches Bildarchiv, Offenburg*
 

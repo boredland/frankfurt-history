@@ -15,7 +15,7 @@ filters:
 
 *Neue Mainzer Straße 59*
 
-![Foto eines Gebäudes der Eisenbeton-Hoch- und Tiefbau AG Wayss &amp; Freytag, welches  als Zwangsarbeitslager genutzt wurde](../images/3fd0ad4a8379b9c77084a7a9c84be1da_original.jpg)
+![Foto eines Gebäudes der Eisenbeton-Hoch- und Tiefbau AG Wayss &amp; Freytag, welches  als Zwangsarbeitslager genutzt wurde](../images/3fd0ad4a8379b9c77084a7a9c84be1da_medium.jpg)
 *ca. 1900 — Author: unbekannt | Description: Foto eines Gebäudes der Eisenbeton-Hoch- und Tiefbau AG Wayss &amp; Freytag, welches  als Zwangsarbeitslager genutzt wurde*
 
 Die Eisenbeton-Hoch- und Tiefbau AG Wayss & Freytag betrieb in der Neuen Mainzer Straße 59 ein Zwangsarbeitslager, in dem Zwangsarbeiter*innen aus Frankreich, den Niederlanden, Italien, Belgien und einer aus dem damaligen Jugoslawien wohnten.
@@ -24,7 +24,7 @@ Die Eisenbeton-Hoch- und Tiefbau AG Wayss & Freytag betrieb in der Neuen Mainzer
 
 ## Gallery
 
-![Foto eines Gebäudes der Eisenbeton-Hoch- und Tiefbau AG Wayss &amp; Freytag, welches  als Zwangsarbeitslager genutzt wurde](../images/3fd0ad4a8379b9c77084a7a9c84be1da_original.jpg)
+![Foto eines Gebäudes der Eisenbeton-Hoch- und Tiefbau AG Wayss &amp; Freytag, welches  als Zwangsarbeitslager genutzt wurde](../images/3fd0ad4a8379b9c77084a7a9c84be1da_medium.jpg)
 *ca. 1900 — Author: unbekannt | Description: Foto eines Gebäudes der Eisenbeton-Hoch- und Tiefbau AG Wayss &amp; Freytag, welches  als Zwangsarbeitslager genutzt wurde*
 
 

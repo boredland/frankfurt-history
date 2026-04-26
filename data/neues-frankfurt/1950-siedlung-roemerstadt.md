@@ -14,7 +14,7 @@ filters:
 
 *Hadrianstraße 18*
 
-![](../images/d0a20efed7ce65ee57c73dbbe9c2b1f8_original.jpg)
+![](../images/d0a20efed7ce65ee57c73dbbe9c2b1f8_medium.jpg)
 
 ## Interactive Before & After
 

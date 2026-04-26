@@ -16,7 +16,7 @@ filters:
 
 *Kalbacher Hauptstraße 7*
 
-![Laurentiuskirchgarten mit Kapelle, Katholischen Kirche St. Laurentiuskirche, die seit 2016 zur "Pfarrei Katharina von Siena" gehört.](../images/d588850cffb78d6c0b1f59c44a98e3ed_original.jpg)
+![Laurentiuskirchgarten mit Kapelle, Katholischen Kirche St. Laurentiuskirche, die seit 2016 zur "Pfarrei Katharina von Siena" gehört.](../images/d588850cffb78d6c0b1f59c44a98e3ed_medium.jpg)
 *ca. 1980 — Author: Adam Ruppel | License: ISG FFM S14Ru Nr. 1660 | Description: Laurentiuskirchgarten mit Kapelle, Katholischen Kirche St. Laurentiuskirche, die seit 2016 zur "Pfarrei Katharina von Siena" gehört.*
 
 In der Kalbacher St. Laurentius-Pfarrei in der Hauptstraße 7 waren sie willkommen: Im November 1939 wurden 45 polnische Kriegsgefangene aus dem Stalag IX B Bad Orb (Wegscheide) in das kleine Dorf beordert. Außerdem etwa dreißig Polinnen und Polen, die zur Zwangsarbeit nach Deutschland verschleppt worden waren. Pfarrer Josef Pipberger grüßte sie auf der Straße und hielt das Pfarrhaus und die katholische Kirche offen für alle Gläubigen. Für den Sonntagsgottesdienst half ein polnischer Lehrer dabei, die Predigt zu übersetzen. Man sang polnische Kirchenlieder und nahm das Abendmahl gemeinsam mit den Kalbacher Katholiken ein.
@@ -35,6 +35,6 @@ Die Kohlebürsten- und Elemente-Fabrik Carbone AG benötigte für ihre zahlreich
 
 ## Gallery
 
-![Laurentiuskirchgarten mit Kapelle, Katholischen Kirche St. Laurentiuskirche, die seit 2016 zur "Pfarrei Katharina von Siena" gehört.](../images/d588850cffb78d6c0b1f59c44a98e3ed_original.jpg)
+![Laurentiuskirchgarten mit Kapelle, Katholischen Kirche St. Laurentiuskirche, die seit 2016 zur "Pfarrei Katharina von Siena" gehört.](../images/d588850cffb78d6c0b1f59c44a98e3ed_medium.jpg)
 *ca. 1980 — Author: Adam Ruppel | License: ISG FFM S14Ru Nr. 1660 | Description: Laurentiuskirchgarten mit Kapelle, Katholischen Kirche St. Laurentiuskirche, die seit 2016 zur "Pfarrei Katharina von Siena" gehört.*
 

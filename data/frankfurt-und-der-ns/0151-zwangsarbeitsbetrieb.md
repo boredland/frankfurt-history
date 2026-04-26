@@ -15,7 +15,7 @@ filters:
 
 *Schielestraße 18-36*
 
-![Foto des Firmengeländes der Firma Messer &amp; Co., auf dem ein Barackenlager für Zwangsarbeiter*innen betrieben wurde](../images/da795a031957adb5922c006fddcfdb7d_original.jpg)
+![Foto des Firmengeländes der Firma Messer &amp; Co., auf dem ein Barackenlager für Zwangsarbeiter*innen betrieben wurde](../images/da795a031957adb5922c006fddcfdb7d_medium.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13989 | Description: Foto des Firmengeländes der Firma Messer &amp; Co., auf dem ein Barackenlager für Zwangsarbeiter*innen betrieben wurde*
 
 Die Main Gaswerke AG setzte hier auf dem Werksgelände Gaswerk Ost Zwangsarbeiter*innen ein, die in Baracken an der Ecke Schielestraße/ Riederhofstraße untergebracht waren. Im Herbst 1942 wohnten hier 16 Zwangsarbeiter*innen aus Russland und zehn aus Litauen. 1943 waren es 31 aus Russland und acht aus Litauen. 1944 waren 38 aus Russland, drei aus Litauen und neun aus Frankreich gemeldet.
@@ -24,7 +24,7 @@ Die Main Gaswerke AG setzte hier auf dem Werksgelände Gaswerk Ost Zwangsarbeite
 
 ## Gallery
 
-![Foto des Firmengeländes der Firma Messer &amp; Co., auf dem ein Barackenlager für Zwangsarbeiter*innen betrieben wurde](../images/da795a031957adb5922c006fddcfdb7d_original.jpg)
+![Foto des Firmengeländes der Firma Messer &amp; Co., auf dem ein Barackenlager für Zwangsarbeiter*innen betrieben wurde](../images/da795a031957adb5922c006fddcfdb7d_medium.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13989 | Description: Foto des Firmengeländes der Firma Messer &amp; Co., auf dem ein Barackenlager für Zwangsarbeiter*innen betrieben wurde*
 
 

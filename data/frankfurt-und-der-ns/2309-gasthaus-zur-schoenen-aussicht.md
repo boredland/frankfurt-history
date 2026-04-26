@@ -14,7 +14,7 @@ filters:
 
 *Im Sperber 24*
 
-![<p>Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"</p>](../images/b48f075984d615d6113471b9c3f4ad44_original.jpg)
+![<p>Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"</p>](../images/b48f075984d615d6113471b9c3f4ad44_medium.jpg)
 *Author: Postkartensammlung Church | License: HMF / Sammlung Church C80374 | Description: <p>Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"</p>*
 
 Zwangsarbeitslager
@@ -39,7 +39,7 @@ Eine Gedenktafel für die Zwangsarbeiter*innen in Bergen-Enkheim gibt es bisher 
 
 ## Gallery
 
-![<p>Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"</p>](../images/28a9f5b70c96acc9e0f3d6e9dc3c09c2_original.jpg)
+![<p>Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"</p>](../images/28a9f5b70c96acc9e0f3d6e9dc3c09c2_medium.jpg)
 *Author: Postkartensammlung Church | License: HMF / Sammlung Church C80374 | Description: <p>Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"</p>*
 
 ![Postkarte „Zur schönen Aussicht" aus dem Jahr 1889.](../images/ad0362936564aa738761e1eebdfa412a_original.jpg)

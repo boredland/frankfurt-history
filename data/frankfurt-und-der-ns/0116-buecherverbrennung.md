@@ -15,7 +15,7 @@ filters:
 
 *Römerberg*
 
-![<p>Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand</p>](../images/B1614_jpg_c2c481455aee1ae5e47def229dacefa3_original.jpg)
+![<p>Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand</p>](../images/B1614_jpg_c2c481455aee1ae5e47def229dacefa3_medium.jpg)
 *1933 — Author: Heinz Woelcke | License: HMF B1614 | Description: <p>Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand</p>*
 
 Auf dem Römerberg finden Sie zwischen Alter Nikolaikirche und Gerechtigkeitsbrunnen eine Bronzetafel zum Gedenken an die Bücherverbrennung. Diese wurde am 10. Mai 1933 auf dem Römerberg veranstaltet. Universitätsangehörige verbrannten hier Bücher von 131 Autor*innen wie beispielsweise Bertha von Suttner, Thomas und Heinrich Mann, Hilde Marx, Erich Kästner, Erich Maria Remarque und Anna Seghers. Reichsweit gab es insgesamt 22 Bücherverbrennungen in Universitätsstädten, die von der Deutschen Studentenschaft organisiert wurden. 
@@ -33,6 +33,6 @@ Die Menschen, die um mich standen, rückten von mir ab, keiner sagte ein Wort, e
 
 ## Gallery
 
-![<p>Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand</p>](../images/B1614_jpg_c2c481455aee1ae5e47def229dacefa3_original.jpg)
+![<p>Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand</p>](../images/B1614_jpg_c2c481455aee1ae5e47def229dacefa3_medium.jpg)
 *1933 — Author: Heinz Woelcke | License: HMF B1614 | Description: <p>Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand</p>*
 

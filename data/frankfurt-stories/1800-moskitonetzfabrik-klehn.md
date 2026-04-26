@@ -17,7 +17,7 @@ filters:
 
 Frankfurt und die Kolonialgeschichte
 
-![](../images/a976fdf93c68a2176f3fdcaaf21b5808_original.jpg)
+![](../images/a976fdf93c68a2176f3fdcaaf21b5808_medium.jpg)
 
 Von der Gründung deutscher Kolonien in Afrika und Ozeanien versprachen sich nicht nur Großunternehmen, sondern auch kleine und mittlere Betriebe neue Absatzmärkte. Aus Anzeigen in Kolonialzeitschriften geht hervor, dass der Frankfurter Unternehmer J. Klehn ab 1896 eine »Moskitonetzfabrik« betrieb. Für viele tropische Krankheiten gab es zu dieser Zeit kaum Therapiemöglichkeiten; zur Vermeidung einer Infektion war der Schutz vor Moskitos und Tsetsefliegen entscheidend. Per Postpaket konnten sich Siedler, Verwaltungsbeamte oder etwa Reisende in deutschen Kolonien und anderen tropischen Regionen Moskitonetze in verschiedenen Größen und Qualitäten aus Frankfurt schicken lassen, so das Versprechen Klehns. Möglich geworden war dieser Versandhandel durch fahrplanmäßig verkehrende Dampfschiffe, wie sie vor allem der Reeder Adolph Woermann zwischen Hamburg und den deutschen Kolonien betrieb.
 
@@ -25,7 +25,7 @@ Von der Gründung deutscher Kolonien in Afrika und Ozeanien versprachen sich nic
 
 ## Gallery
 
-![Blick auf das Fabrikgelände](../images/isg_ffm_s7_df4a00ea1833db7923e27e7b5cf11fea_original.jpg)
+![Blick auf das Fabrikgelände](../images/isg_ffm_s7_df4a00ea1833db7923e27e7b5cf11fea_medium.jpg)
 *License: ISG | Description: Blick auf das Fabrikgelände*
 
 

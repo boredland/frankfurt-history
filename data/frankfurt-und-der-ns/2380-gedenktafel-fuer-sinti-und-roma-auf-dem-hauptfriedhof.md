@@ -14,7 +14,7 @@ filters:
 
 *Eckenheimer Landstraße 194*
 
-![Gedenktafel für Sinti und Roma auf dem Hauptfriedhof](../images/0eae53f17ab1cefd692473dac2e22f96_original.jpg)
+![Gedenktafel für Sinti und Roma auf dem Hauptfriedhof](../images/0eae53f17ab1cefd692473dac2e22f96_medium.jpg)
 *2013 — Author: Daniel Ebert | License: Institut für Stadtgeschichte Frankfurt | Description: Gedenktafel für Sinti und Roma auf dem Hauptfriedhof*
 
 In den 1970er und 1980er Jahren rückte die Bürgerrechtsbewegung der Sinti und Roma durch verschiedene Proteste in das öffentliche Bewusstsein der Bundesrepublik. Mit Nachdruck wurde immer wieder auf die Verfolgung der Sinti und Roma im Nationalsozialismus sowie auf die anhaltende Diskriminierung in der Nachkriegszeit hingewiesen. Sowohl auf lokaler als auch auf bundesweiter Ebene wurde und wird für eine angemessene öffentliche Erinnerung an den Völkermord an etwa 500.000 Sinti und Roma gekämpft. 
@@ -27,7 +27,7 @@ Gefertigt wurde die Gedenktafel aus Sandstein von Steinmetzen der „Sinti-Werks
 
 ## Gallery
 
-![Gedenktafel für Sinti und Roma auf dem Hauptfriedhof](../images/030-Roma-S_12dd7d2157abf860dedc009048495615_original.jpg)
+![Gedenktafel für Sinti und Roma auf dem Hauptfriedhof](../images/030-Roma-S_12dd7d2157abf860dedc009048495615_medium.jpg)
 *2013 — Author: Daniel Ebert | License: Institut für Stadtgeschichte Frankfurt | Description: Gedenktafel für Sinti und Roma auf dem Hauptfriedhof*
 
 

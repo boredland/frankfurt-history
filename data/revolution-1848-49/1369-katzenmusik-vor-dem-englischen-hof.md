@@ -14,7 +14,7 @@ filters:
 
 *Roßmarkt 13*
 
-![<p>Foto: Der Englische Hof am Roßmarkt</p>](../images/6e022d1f52b09bc98238b7c477a34780_original.jpg)
+![<p>Foto: Der Englische Hof am Roßmarkt</p>](../images/6e022d1f52b09bc98238b7c477a34780_medium.jpg)
 *1878 (oder 1890) — Author: Karl Hertel | License: gemeinfrei | Description: <p>Foto: Der Englische Hof am Roßmarkt</p>*
 
 Nachdem die Nationalversammlung am 16. September 1848 den Waffenstillstand von Malmö mit knapper Mehrheit angenommen hatte, kam es an dem Samstagabend in Frankfurt zu ersten Ausschreitungen. Vor dem am Roßmarkt gelegenen Luxushotel Englischer Hof vollführte eine wütende Menge eine „Katzenmusik“ mit Sachbeschädigungen und Handgreiflichkeiten. Außerdem drohten die Aufrührer dem Reichsaußenminister, Johann Gustav Heckscher, den sie in der Nobelherberge vermuteten, mit dem Tod. Erst als die Bürgerwehr den Roßmarkt räumte, beruhigte sich die Lage.
@@ -27,7 +27,7 @@ Auf internationalen Druck zog Preußen seine Truppen wieder zurück und schloss 
 
 ## Gallery
 
-![<p>Foto: Der Englische Hof am Roßmarkt</p>](../images/Frankfurt__09497e330b518f36f129372ba5500d56_original.jpg)
+![<p>Foto: Der Englische Hof am Roßmarkt</p>](../images/Frankfurt__09497e330b518f36f129372ba5500d56_medium.jpg)
 *1878 (oder 1890) — Author: Karl Hertel | License: gemeinfrei | Description: <p>Foto: Der Englische Hof am Roßmarkt</p>*
 
 

@@ -15,7 +15,7 @@ filters:
 
 *Philipp-Holzmann-Weg*
 
-![<p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>](../images/d440d389c1a093da0375a32f84361d17_original.jpg)
+![<p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>](../images/d440d389c1a093da0375a32f84361d17_medium.jpg)
 *o.D. — Author: Norbert Miguletz | Description: <p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>*
 
 Entworfen wurde die Großmarkthalle Mitte der 1920er-Jahre von dem Architekten Martin Elsaesser. Sie war bautechnisch auf höchstem Niveau, konzipiert für den modernen Handel und reibungslosen Umschlag von Obst und Gemüse: mit praktischen Laderampen, großzügig dimensionierten Kühlkellern, Bahnanschlüssen mit überdachten Gleisen und einem eigenen Befehlsstellwerk.
@@ -27,7 +27,7 @@ Entworfen wurde die Großmarkthalle Mitte der 1920er-Jahre von dem Architekten M
 
 ## Gallery
 
-![<p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>](../images/d440d389c1a093da0375a32f84361d17_original.jpg)
+![<p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>](../images/d440d389c1a093da0375a32f84361d17_medium.jpg)
 *o.D. — Author: Norbert Miguletz | Description: <p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>*
 
 

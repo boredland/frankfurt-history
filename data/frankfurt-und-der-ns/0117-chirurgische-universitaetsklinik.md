@@ -15,7 +15,7 @@ filters:
 
 *Theodor-Stern-Kai/Ludwig-Rehn-Straße*
 
-![<span class="tab2">Zwangsarbeitslager, Theodor-Stern-Kai/Ludwig-Rehn-Straße</span>](../images/bf212af5a7f60af81e35c93c427a173f_original.jpg)
+![<span class="tab2">Zwangsarbeitslager, Theodor-Stern-Kai/Ludwig-Rehn-Straße</span>](../images/bf212af5a7f60af81e35c93c427a173f_medium.jpg)
 *ca. 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A No. 2002-75 | Description: <span class="tab2">Zwangsarbeitslager, Theodor-Stern-Kai/Ludwig-Rehn-Straße</span>*
 
 In der Chirurgischen Universitätsklinik wurden Frauen und Männer durch eine Strahlenbehandlung unfruchtbar gemacht.
@@ -24,6 +24,6 @@ In der Chirurgischen Universitätsklinik wurden Frauen und Männer durch eine St
 
 ## Gallery
 
-![<span class="tab2">Zwangsarbeitslager, Theodor-Stern-Kai/Ludwig-Rehn-Straße</span>](../images/bf212af5a7f60af81e35c93c427a173f_original.jpg)
+![<span class="tab2">Zwangsarbeitslager, Theodor-Stern-Kai/Ludwig-Rehn-Straße</span>](../images/bf212af5a7f60af81e35c93c427a173f_medium.jpg)
 *ca. 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A No. 2002-75 | Description: <span class="tab2">Zwangsarbeitslager, Theodor-Stern-Kai/Ludwig-Rehn-Straße</span>*
 

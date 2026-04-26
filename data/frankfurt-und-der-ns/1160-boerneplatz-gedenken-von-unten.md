@@ -11,7 +11,7 @@ filters:
 
 # Börneplatz – Gedenken „von Unten“
 
-![](../images/589ffbeae04a70035dda015017740aa8_original.jpg)
+![](../images/589ffbeae04a70035dda015017740aa8_medium.jpg)
 *1993 — Author: unbekannt | License: ISG Frankfurt Best. S7z Nr.1994/7*
 
 1993 wurde im Rahmen einer Protestaktion, die von Schüler*innen der AG gegen Antisemitismus an der Holbeinschule und ihrem Lehrer Benjamin Ortmeyer initiiert wurde, der Ermordung von über 1.300 jüdischen Roma- und Sintikindern aus Frankfurt während des NS gedacht. Der Forderung nach einer Gedenktafel wurde durch das Anbringen eines Protestplakats Nachdruck verliehen. Auf diesem stand geschrieben: „Nazi-Morde. Wir fordern Gedenktafeln für die von den Nazis ermordeten jüdischen Kinder und für die ermordeten Kinder der Sinti und Roma“. Bei der Aktion war u.a. auch Adam Strauß, der Vorsitzende des Hessischen Landesverbandes Deutscher Sinti und Roma anwesend. 
@@ -22,6 +22,6 @@ filters:
 
 ## Gallery
 
-![](../images/589ffbeae04a70035dda015017740aa8_original.jpg)
+![](../images/589ffbeae04a70035dda015017740aa8_medium.jpg)
 *1993 — Author: unbekannt | License: ISG Frankfurt Best. S7z Nr.1994/7*
 

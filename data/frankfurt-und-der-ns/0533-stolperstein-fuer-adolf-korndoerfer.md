@@ -39,16 +39,16 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 ![Stolperstein für Adolf Korndörfer in der Beethovenstraße 32](../images/stolperst__3a0e64d538295cf6a902c11b65b88176_original.jpg)
 *unbekannt — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein für Adolf Korndörfer in der Beethovenstraße 32*
 
-![Adolf Korndörfer in einem Gemälde von Emil Betzler, Öl auf Leinwand, HMF, B.1978.01.](../images/B_1978_01__355565b008d506a0b0786f6165423d82_original.jpg)
+![Adolf Korndörfer in einem Gemälde von Emil Betzler, Öl auf Leinwand, HMF, B.1978.01.](../images/B_1978_01__355565b008d506a0b0786f6165423d82_medium.jpg)
 *1925 — Author: Emil Betzler | License: Historisches Museum Frankfurt | Description: Adolf Korndörfer in einem Gemälde von Emil Betzler, Öl auf Leinwand, HMF, B.1978.01.*
 
 ![Adolf Korndörfer im Garten](../images/privat Fam_2ff629d58dc0f76c72ed44b7a187135a_original.jpg)
 *unbekannt — Author: unbekannt | License: privat, Familie Buxmann | Description: Adolf Korndörfer im Garten*
 
-![Adolf Korndörfer im Gefängnis, Gemälde von Emil Betzler, Öl auf Leinwand, HMF, B.1978.01.](../images/B_1978_01__51179ee1b4984daf0561de73baafea43_original.jpg)
+![Adolf Korndörfer im Gefängnis, Gemälde von Emil Betzler, Öl auf Leinwand, HMF, B.1978.01.](../images/B_1978_01__51179ee1b4984daf0561de73baafea43_medium.jpg)
 *1939 — Author: Emil Betzler | License: Historisches Museum Frankfurt | Description: Adolf Korndörfer im Gefängnis, Gemälde von Emil Betzler, Öl auf Leinwand, HMF, B.1978.01.*
 
-![](../images/0d3205913720e1606dd012f93cf352b9_original.jpg)
+![](../images/0d3205913720e1606dd012f93cf352b9_medium.jpg)
 *Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 
 

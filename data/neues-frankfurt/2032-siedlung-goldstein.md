@@ -14,7 +14,7 @@ filters:
 
 *Schüttenhelmweg 7*
 
-![Luftaufnahme der Siedlung mit dem namensgebenden Hofgut Goldstein in der Bildmitte.](../images/9ff08fbcb9ce4548890123e142f194cb_original.jpg)
+![Luftaufnahme der Siedlung mit dem namensgebenden Hofgut Goldstein in der Bildmitte.](../images/9ff08fbcb9ce4548890123e142f194cb_medium.jpg)
 *1937 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Luftaufnahme der Siedlung mit dem namensgebenden Hofgut Goldstein in der Bildmitte.*
 
 Das Goldstein-Projekt um einen alten Gutshof war zunächst für Werksangehörige der Industrien in Höchst und Griesheim geplant. 1929 als größtes Siedlungsprojekt für 35.000 Menschen angelegt, verzögerte sich die Umsetzung zunächst durch die Weltwirtschaftskrise. Erst ab 1932 konnte die Siedlung nach einem erneuten Wettbewerb sehr vereinfacht als Notsiedlung für erwerbslose Familien realisiert werden. Der modifizierte Bebauungsplan offenbart zwar noch Einflüsse des Neuen Frankfurt, doch die Doppelhäuser mit Pult- oder Satteldächern und die agrarische Lebensform am Stadtrand wirken wie ein Rückschritt. Von den 1933 an die Macht gekommenen Nationalsozialisten gepriesen, gibt das Projekt einen ersten Eindruck von der Entwicklung des Siedlungswesens in der Folgezeit.
@@ -45,9 +45,9 @@ Quelle: Claudia Quiring, Wolfgang Voigt, Peter Cachola Schmal, Eckhard Herrel (H
 
 ## Gallery
 
-![Luftaufnahme der Siedlung mit dem namensgebenden Hofgut Goldstein in der Bildmitte.](../images/isg_ffm_s7_ff1b2899a5d5ad560df38855376a7ba2_original.jpg)
+![Luftaufnahme der Siedlung mit dem namensgebenden Hofgut Goldstein in der Bildmitte.](../images/isg_ffm_s7_ff1b2899a5d5ad560df38855376a7ba2_medium.jpg)
 *1937 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Luftaufnahme der Siedlung mit dem namensgebenden Hofgut Goldstein in der Bildmitte.*
 
-![Zeile von Doppelhäusern mit Pultdächern.](../images/isg_ffm_s7_f3683a9f173e0c4eaba49e9adba137d1_original.jpg)
+![Zeile von Doppelhäusern mit Pultdächern.](../images/isg_ffm_s7_f3683a9f173e0c4eaba49e9adba137d1_medium.jpg)
 *um 1933 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Zeile von Doppelhäusern mit Pultdächern.*
 

@@ -15,7 +15,7 @@ filters:
 
 *Rückertstraße 53*
 
-![Frontansicht der Rückertstraße 53.](../images/db2105cf8330c9d7f849d1dbceb9d8d7_original.jpg)
+![Frontansicht der Rückertstraße 53.](../images/db2105cf8330c9d7f849d1dbceb9d8d7_medium.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: Frontansicht der Rückertstraße 53.*
 
 Für die Nutzung als Zwangsarbeitslager waren im Frankfurter Ostend zahlreiche Gebäude aus dem Besitz der „Reichsvereinigung der Juden“ im Zusammenhang der Deportationen unter Zwang verkauft worden: die frühere Klaus-Synagoge und die Gebäude Hermesweg 5-7, die Ostendstraße 18 und das ehemalige israelitische Lehrerinnen- und Studentinnen-Heim in der Rückertstraße 53. Deren Inventar wurde von der Stadt Frankfurt und der NS- Organisation „Deutschen Arbeitsfront“ (DAF) verkauft und brachte für die Stadtkasse 2.631,85 Reichsmark ein.
@@ -34,15 +34,15 @@ Das Franzosen-Sammellager Rückertstraße 53 wurde ab dem 7. November 1943 von d
 
 ## Gallery
 
-![Frontansicht der Rückertstraße 53.](../images/db2105cf8330c9d7f849d1dbceb9d8d7_original.jpg)
+![Frontansicht der Rückertstraße 53.](../images/db2105cf8330c9d7f849d1dbceb9d8d7_medium.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: Frontansicht der Rückertstraße 53.*
 
 
 ## Gallery
 
-![Kaufvertrag für die Liegenschaft Rückertstraße 53 zwischen der Reichsvereinigung der Juden in Deutschland und der Stadt Frankfurt am Main vom 14. April 1943, S. 1.](../images/isg_ffm_a__7ecf53ee98869008d463fcec5d512098_original.jpg)
+![Kaufvertrag für die Liegenschaft Rückertstraße 53 zwischen der Reichsvereinigung der Juden in Deutschland und der Stadt Frankfurt am Main vom 14. April 1943, S. 1.](../images/isg_ffm_a__7ecf53ee98869008d463fcec5d512098_medium.jpg)
 *o.D. — Author: Unbekannt | License: ISG FFM Best. A.62.02 Nr. 1022 | Description: Kaufvertrag für die Liegenschaft Rückertstraße 53 zwischen der Reichsvereinigung der Juden in Deutschland und der Stadt Frankfurt am Main vom 14. April 1943, S. 1.*
 
-![Kaufvertrag für die Liegenschaft Rückertstraße 53 zwischen der Reichsvereinigung der Juden in Deutschland und der Stadt Frankfurt am Main vom 14. April 1943, S. 2.](../images/isg_ffm_a__98db599c5684893985018ae48ab4eef3_original.jpg)
+![Kaufvertrag für die Liegenschaft Rückertstraße 53 zwischen der Reichsvereinigung der Juden in Deutschland und der Stadt Frankfurt am Main vom 14. April 1943, S. 2.](../images/isg_ffm_a__98db599c5684893985018ae48ab4eef3_medium.jpg)
 *o.D. — Author: Unbekannt | License: ISG FFM Best. A.62.02 Nr. 1022 | Description: Kaufvertrag für die Liegenschaft Rückertstraße 53 zwischen der Reichsvereinigung der Juden in Deutschland und der Stadt Frankfurt am Main vom 14. April 1943, S. 2.*
 

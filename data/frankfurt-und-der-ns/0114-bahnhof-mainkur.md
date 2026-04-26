@@ -15,7 +15,7 @@ filters:
 
 *An der Mainkur 9-11*
 
-![Bildpostkarte mit dem Empfangsgebäude des Bahnhofs Mainkur](../images/2d39c1036939f5822dc62c4cc51937b2_original.jpg)
+![Bildpostkarte mit dem Empfangsgebäude des Bahnhofs Mainkur](../images/2d39c1036939f5822dc62c4cc51937b2_medium.jpg)
 *nach 1913 — Author: unbekannt | License: HMF, Sammlung Church C80390 | Description: Bildpostkarte mit dem Empfangsgebäude des Bahnhofs Mainkur*
 
 Der Bahnhof Mainkur in Fechenheim spielte eine zentrale Rolle bei den Deportationen von Jüdinnen und Juden aus Bergen und Fechenheim. Während der Novemberpogrome 1938 verhaftete die Gestapo jüdische Männer und verschleppte sie ins Konzentrationslager Buchenwald. Zwischen dem 10. und 16. November 1938 wurden im Deutschen Reich insgesamt 30.756 Juden in die Konzentrationslager Dachau, Buchenwald und Sachsenhausen verbracht. Ihre Familien blieben wochen- oder monatelang im Ungewissen.
@@ -26,7 +26,7 @@ Der Bahnhof Mainkur in Fechenheim spielte eine zentrale Rolle bei den Deportatio
 
 ## Gallery
 
-![Bildpostkarte mit dem Empfangsgebäude des Bahnhofs Mainkur](../images/2d39c1036939f5822dc62c4cc51937b2_original.jpg)
+![Bildpostkarte mit dem Empfangsgebäude des Bahnhofs Mainkur](../images/2d39c1036939f5822dc62c4cc51937b2_medium.jpg)
 *nach 1913 — Author: unbekannt | License: HMF, Sammlung Church C80390 | Description: Bildpostkarte mit dem Empfangsgebäude des Bahnhofs Mainkur*
 
 

@@ -34,22 +34,22 @@ Helene Hering-Herber lebte und arbeitete in verschiedenen Ländern, darunter Fra
 !["""La Sexualité avortée"", Originalcollage reproduziert auf OH Folie<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Ca 8"](../images/Das Konfis_34f10fe4a6863d20b61f887d5653a6ec_original.jpg)
 *1983 — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: """La Sexualité avortée"", Originalcollage reproduziert auf OH Folie<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Ca 8"*
 
-!["""Butterfly""; Originalpapiercollage;<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"](../images/La Religie_16bd17008c5967c7caefc899010e26c7_original.jpg)
+!["""Butterfly""; Originalpapiercollage;<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"](../images/La Religie_16bd17008c5967c7caefc899010e26c7_medium.jpg)
 *1982 — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: """Butterfly""; Originalpapiercollage;<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"*
 
-!["""Butterfly""; Originalpapiercollage;<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"](../images/251020_HHH_36480d43719de0f5850d810c6a3f85bb_original.jpg)
+!["""Butterfly""; Originalpapiercollage;<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"](../images/251020_HHH_36480d43719de0f5850d810c6a3f85bb_medium.jpg)
 *1982 — Author: Helene Hering-Herbe | License: Helene Hering-Herbe | Description: """Butterfly""; Originalpapiercollage;<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"*
 
-!["Sibirischer Golem"; Originalpapiercollage; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 30](../images/251020_HHH_f787347bde52df7ba1e64be1c174249e_original.jpg)
+!["Sibirischer Golem"; Originalpapiercollage; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 30](../images/251020_HHH_f787347bde52df7ba1e64be1c174249e_medium.jpg)
 *1983 — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: "Sibirischer Golem"; Originalpapiercollage; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 30*
 
-!["Bilder-Serien über die Auflösung von Form und Farbe im Spiel mit Licht, Schatten und Reflektionen..."; Polaroid-fotos; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: HHH/Po 05](../images/251020_HHH_426a5010a3cb9e34deebb1c3423383b9_original.jpg)
+!["Bilder-Serien über die Auflösung von Form und Farbe im Spiel mit Licht, Schatten und Reflektionen..."; Polaroid-fotos; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: HHH/Po 05](../images/251020_HHH_426a5010a3cb9e34deebb1c3423383b9_medium.jpg)
 *1984-1985 — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: "Bilder-Serien über die Auflösung von Form und Farbe im Spiel mit Licht, Schatten und Reflektionen..."; Polaroid-fotos; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: HHH/Po 05*
 
-!["Bilder-Serien über die Auflösung von Form und Farbe im Spiel mit Licht, Schatten und Reflektionen..."; Polaroid-fotos; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: HHH/Po 10](../images/251020_HHH_3b203f40b3a4b1eebf4d2fdd4ae4e3fa_original.jpg)
+!["Bilder-Serien über die Auflösung von Form und Farbe im Spiel mit Licht, Schatten und Reflektionen..."; Polaroid-fotos; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: HHH/Po 10](../images/251020_HHH_3b203f40b3a4b1eebf4d2fdd4ae4e3fa_medium.jpg)
 *1984-1985 — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: "Bilder-Serien über die Auflösung von Form und Farbe im Spiel mit Licht, Schatten und Reflektionen..."; Polaroid-fotos; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: HHH/Po 10*
 
-!["Bilder-Serien über die Auflösung von Form und Farbe im Spiel mit Licht, Schatten und Reflektionen..."; Polaroid-fotos; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: HHH/Po 76](../images/251020_HHH_4708458d303ac9eab3e03396c1e19a53_original.jpg)
+!["Bilder-Serien über die Auflösung von Form und Farbe im Spiel mit Licht, Schatten und Reflektionen..."; Polaroid-fotos; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: HHH/Po 76](../images/251020_HHH_4708458d303ac9eab3e03396c1e19a53_medium.jpg)
 *1984-1985 — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: "Bilder-Serien über die Auflösung von Form und Farbe im Spiel mit Licht, Schatten und Reflektionen..."; Polaroid-fotos; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: HHH/Po 76*
 
 !["Bilder-Serien über die Auflösung von Form und Farbe im Spiel mit Licht, Schatten und Reflektionen..."; Polaroid-fotos; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: HHH/Po 91](../images/05_jpg_649ec56002912bc108476266b1056ceb_original.jpg)

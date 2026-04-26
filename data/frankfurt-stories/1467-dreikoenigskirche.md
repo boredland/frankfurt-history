@@ -16,7 +16,7 @@ filters:
 
 Reiffensteins Frankfurt<br />(1820-1893)
 
-![](../images/c18fa5c0e1304a0ff3fc2cf5289f33d8_original.png)
+![](../images/c18fa5c0e1304a0ff3fc2cf5289f33d8_medium.png)
 
 Schon 1440 stand hier eine Kapelle, die den Heiligen Drei Königen geweiht war. Sie wurde 1452 zur Kirche erhoben und 1498 vergrößert. Die Sachsenhäuser Gemeinde wandte sich als erste Gemeinde Frankfurts von der katholischen Lehre ab und erhielt 1531 einen evangelischen Pfarrer.
 
@@ -28,19 +28,19 @@ Die neue Dreikönigs-Kirche wurde 1881 eingeweiht und erlitt im Zweiten Weltkrie
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Ansicht der Alten Dreikönigskirche (aus dem Haus Löhergasse Nr. 49 gesehen), 1874, aquarellierte Bleistiftzeichnung, HMF RS0050</p>](../images/RS0050_png_fc72188f50c5925862b813716620fc2c_original.jpg)
+![<p>Carl Theodor Reiffenstein, Ansicht der Alten Dreikönigskirche (aus dem Haus Löhergasse Nr. 49 gesehen), 1874, aquarellierte Bleistiftzeichnung, HMF RS0050</p>](../images/RS0050_png_fc72188f50c5925862b813716620fc2c_medium.jpg)
 *1874 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Ansicht der Alten Dreikönigskirche (aus dem Haus Löhergasse Nr. 49 gesehen), 1874, aquarellierte Bleistiftzeichnung, HMF RS0050</p>*
 
-![<p>Carl Theodor Reiffenstein, Alte Dreikönigskirche, Totalansicht Dreikönigstraße, 1860/1874, aquarellierte Bleistiftzeichnung, HMF RS0059</p>](../images/RS0059_png_584a1e8c85ea204c39119a50dfd441d4_original.jpg)
+![<p>Carl Theodor Reiffenstein, Alte Dreikönigskirche, Totalansicht Dreikönigstraße, 1860/1874, aquarellierte Bleistiftzeichnung, HMF RS0059</p>](../images/RS0059_png_584a1e8c85ea204c39119a50dfd441d4_medium.jpg)
 *1860/1874 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Alte Dreikönigskirche, Totalansicht Dreikönigstraße, 1860/1874, aquarellierte Bleistiftzeichnung, HMF RS0059</p>*
 
-![<p>Carl Theodor Reiffenstein, Alte Dreikönigskirche, Fensterbereich, 1874, aquarellierte Bleistiftzeichnung, HMF RS0054</p>](../images/RS0054_png_f933df52234df847fcee92dc90645bfc_original.jpg)
+![<p>Carl Theodor Reiffenstein, Alte Dreikönigskirche, Fensterbereich, 1874, aquarellierte Bleistiftzeichnung, HMF RS0054</p>](../images/RS0054_png_f933df52234df847fcee92dc90645bfc_medium.jpg)
 *1874 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Alte Dreikönigskirche, Fensterbereich, 1874, aquarellierte Bleistiftzeichnung, HMF RS0054</p>*
 
-![<p>Carl Theodor Reiffenstein, Alte Dreikönigskirche, Fenster im Lettner, 1875, aquarellierte Bleistiftzeichnung, HMF RS0056</p>](../images/RS0056_png_f4fd72aa44fc4e0822cbd59dd8c7ceee_original.jpg)
+![<p>Carl Theodor Reiffenstein, Alte Dreikönigskirche, Fenster im Lettner, 1875, aquarellierte Bleistiftzeichnung, HMF RS0056</p>](../images/RS0056_png_f4fd72aa44fc4e0822cbd59dd8c7ceee_medium.jpg)
 *1875 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Alte Dreikönigskirche, Fenster im Lettner, 1875, aquarellierte Bleistiftzeichnung, HMF RS0056</p>*
 
-![<p>Carl Theodor Reiffenstein, Alte Dreikönigskirche, Wappen der Schlusssteine, 1874, aquarellierte Bleistiftzeichnung, HMF RS0066</p>](../images/RS0066_png_6a96d29592658c5c662b4d20496f68e2_original.jpg)
+![<p>Carl Theodor Reiffenstein, Alte Dreikönigskirche, Wappen der Schlusssteine, 1874, aquarellierte Bleistiftzeichnung, HMF RS0066</p>](../images/RS0066_png_6a96d29592658c5c662b4d20496f68e2_medium.jpg)
 *1874 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Alte Dreikönigskirche, Wappen der Schlusssteine, 1874, aquarellierte Bleistiftzeichnung, HMF RS0066</p>*
 
 

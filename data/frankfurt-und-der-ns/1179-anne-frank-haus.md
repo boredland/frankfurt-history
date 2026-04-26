@@ -14,7 +14,7 @@ filters:
 
 *Marbachweg 307*
 
-![<span class="tab2">Anne Frank Haus im Marbachweg 307</span>](../images/dffc67d5b7e4a886bdf755dca7ee6a5f_original.jpg)
+![<span class="tab2">Anne Frank Haus im Marbachweg 307</span>](../images/dffc67d5b7e4a886bdf755dca7ee6a5f_medium.jpg)
 *Description: <span class="tab2">Anne Frank Haus im Marbachweg 307</span>*
 
 Anne Frank wurde am 12. Juni 1929 geboren, ihre Familie lebte im Marbachweg 307 und später in der Ganghoferstraße 24. Bis ins 16. Jahrhundert lassen sich Vorfahren ihres Vaters Otto Frank in der Frankfurter Judengasse nachweisen. Anne und ihre Schwester Margot wuchsen in einer christlichen Nachbarschaft auf. Schon lange hatte die Familie die Einschränkungen hinter sich gelassen, die Juden vor der rechtlichen Gleichstellung behindert hatten. 
@@ -27,6 +27,6 @@ Anne Frank wurde am 12. Juni 1929 geboren, ihre Familie lebte im Marbachweg 307 
 
 ## Gallery
 
-![<span class="tab2">Anne Frank Haus im Marbachweg 307</span>](../images/dffc67d5b7e4a886bdf755dca7ee6a5f_original.jpg)
+![<span class="tab2">Anne Frank Haus im Marbachweg 307</span>](../images/dffc67d5b7e4a886bdf755dca7ee6a5f_medium.jpg)
 *Description: <span class="tab2">Anne Frank Haus im Marbachweg 307</span>*
 

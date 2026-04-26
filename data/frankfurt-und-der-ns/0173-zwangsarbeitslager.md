@@ -15,7 +15,7 @@ filters:
 
 *Friedrich-Ebert-Anlage 60-64*
 
-![Zwangsarbeitslager, Friedrich-Ebert-Anlage 60-64](../images/b7216e1bf4322629411b1d65b34a213e_original.jpg)
+![Zwangsarbeitslager, Friedrich-Ebert-Anlage 60-64](../images/b7216e1bf4322629411b1d65b34a213e_medium.jpg)
 *vor 1920 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 00579-8 | Description: Zwangsarbeitslager, Friedrich-Ebert-Anlage 60-64*
 
 Die Deutsche Reichspost mit Hauptsitz in der Hohenzollernanlage 60-64 (heute Friedrich-Ebert-Anlage) beschäftigte mehrere hundert Zwangsarbeiter*innen aus ganz Europa. Sie waren an verschiedenen Orten untergebracht. Allein in der Großen Gallusstraße 12 sollen dem Catalogue of Camps and Prisons (CCP) zufolge zwischen 1940 und 1945 480 Personen einquartiert worden sein. Weitere Standorte befanden sich in der Gutleutstraße 36, Wurzelstraße/Ecke Gutleutstraße und Friedberger Warte/Gießener Straße.
@@ -24,7 +24,7 @@ Die Deutsche Reichspost mit Hauptsitz in der Hohenzollernanlage 60-64 (heute Fri
 
 ## Gallery
 
-![Zwangsarbeitslager, Friedrich-Ebert-Anlage 60-64](../images/b7216e1bf4322629411b1d65b34a213e_original.jpg)
+![Zwangsarbeitslager, Friedrich-Ebert-Anlage 60-64](../images/b7216e1bf4322629411b1d65b34a213e_medium.jpg)
 *vor 1920 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 00579-8 | Description: Zwangsarbeitslager, Friedrich-Ebert-Anlage 60-64*
 
 

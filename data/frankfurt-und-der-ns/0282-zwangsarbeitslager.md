@@ -14,13 +14,13 @@ filters:
 
 *Taunusstraße 52-60*
 
-![<p>Taunusstraße 52-60</p>](../images/51afb82fb8eb8677eca3789b32dc5aa4_original.jpg)
+![<p>Taunusstraße 52-60</p>](../images/51afb82fb8eb8677eca3789b32dc5aa4_medium.jpg)
 *1924 — Author: Reklame | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29828 | Description: <p>Taunusstraße 52-60</p>*
 
 Die Firma Rohrleitungsbau Ziegler & Co. Und die Maschinenfabrik Kistner & Wolf/Polifix betrieb in der Taunusstraße 52-60 ein Lager für Zivilarbeiter.
 
 ## Gallery
 
-![<p>Taunusstraße 52-60</p>](../images/51afb82fb8eb8677eca3789b32dc5aa4_original.jpg)
+![<p>Taunusstraße 52-60</p>](../images/51afb82fb8eb8677eca3789b32dc5aa4_medium.jpg)
 *1924 — Author: Reklame | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29828 | Description: <p>Taunusstraße 52-60</p>*
 

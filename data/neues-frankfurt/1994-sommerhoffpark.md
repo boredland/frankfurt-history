@@ -14,7 +14,7 @@ filters:
 
 *Gutleutstraße 315*
 
-![Kinderhort im Sommerhoff-Park. Im Hintergrund die Baustelle des Prüfamtes 6 in der Gutleutstraße.](../images/b6f6dc039025e4ea970012b8b9f32b78_original.jpg)
+![Kinderhort im Sommerhoff-Park. Im Hintergrund die Baustelle des Prüfamtes 6 in der Gutleutstraße.](../images/b6f6dc039025e4ea970012b8b9f32b78_medium.jpg)
 *um 1928 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Kinderhort im Sommerhoff-Park. Im Hintergrund die Baustelle des Prüfamtes 6 in der Gutleutstraße.*
 
 Der Sommerhoffpark ist ein verstecktes Kleinod in einer industriell geprägten Umgebung. Im 19. Jahrhundert befand sich hier ein Landsitz mit Herrenhaus in einem englischen Garten. 1928 übernahm die Stadt das Anwesen und ließ es durch Gartenbaudirektor Max Bromme umgestalten. Auf dem Gelände errichtete man Schulgärten, ein Planschbecken, Spielplätze sowie einen von Adolf Meyer entworfenen Kinderhort mit Umkleide- und Waschräumen, Küche und Aufenthaltsraum für die Leiterin. Kinder aus Arbeiterfamilien sollten hier im Sommer ganztägig betreut werden. Im Zweiten Weltkrieg wurde das Herrenhaus zerstört, die Parkanlage später verändert. So entstand hier 1952 ein Altenheim. Die Unterstandhalle an der Gutleutstraße wurde umgebaut und bis 2020 als Kita genutzt. Sie soll nun unter Denkmalschutz gestellt und einer neuen Nutzung zugeführt werden (Stand März 2025).
@@ -35,6 +35,6 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
-![Kinderhort im Sommerhoff-Park. Im Hintergrund die Baustelle des Prüfamtes 6 in der Gutleutstraße.](../images/isg_ffm_s7_8770e173fc1c1592e4dd4808f4ab1399_original.jpg)
+![Kinderhort im Sommerhoff-Park. Im Hintergrund die Baustelle des Prüfamtes 6 in der Gutleutstraße.](../images/isg_ffm_s7_8770e173fc1c1592e4dd4808f4ab1399_medium.jpg)
 *um 1928 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Kinderhort im Sommerhoff-Park. Im Hintergrund die Baustelle des Prüfamtes 6 in der Gutleutstraße.*
 

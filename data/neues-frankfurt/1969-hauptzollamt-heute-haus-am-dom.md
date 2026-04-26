@@ -14,7 +14,7 @@ filters:
 
 *Domstraße 3*
 
-![](../images/4a6dcb33b6600e082c547551ce2ec39c_original.jpg)
+![](../images/4a6dcb33b6600e082c547551ce2ec39c_medium.jpg)
 
 ## Interactive Before & After
 

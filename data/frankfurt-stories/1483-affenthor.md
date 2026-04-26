@@ -16,7 +16,7 @@ filters:
 
 Reiffensteins Frankfurt<br />(1820-1893)
 
-![](../images/862999aafe2106a081a1382330ea887f_original.png)
+![](../images/862999aafe2106a081a1382330ea887f_medium.png)
 
 Sachsenhausen war seit dem 14. Jahrhundert von einer Mauer mit Türmen und Gräben umgeben. Dabei bildete das Affentor den südlichsten Zugang zur Stadt. Reiffenstein zeichnete den viereckigen Turm über der Pforte, aus dem ein Wächter bei Bränden Alarm schlagen konnte.
 
@@ -28,13 +28,13 @@ Noch heute stehen sich die beiden Affentorhäuser gegenüber. Erst im Laufe des 
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Das Affentor von außen (Zustand von 1807), nach einem Stich, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0034</p>](../images/RS0034_png_07a05647755930007f54fa0d40ff68cd_original.jpg)
+![<p>Carl Theodor Reiffenstein, Das Affentor von außen (Zustand von 1807), nach einem Stich, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0034</p>](../images/RS0034_png_07a05647755930007f54fa0d40ff68cd_medium.jpg)
 *19. Jhd. — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Das Affentor von außen (Zustand von 1807), nach einem Stich, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0034</p>*
 
-![<p>Carl Theodor Reiffenstein, Affentor (während des Abbruchs von 1810), nach einer alten Zeichnung, 1854, aquarellierte Bleistiftzeichnung, HMF RS0036</p>](../images/RS0036_png_6653144be2f37283ad984cc1ce891721_original.jpg)
+![<p>Carl Theodor Reiffenstein, Affentor (während des Abbruchs von 1810), nach einer alten Zeichnung, 1854, aquarellierte Bleistiftzeichnung, HMF RS0036</p>](../images/RS0036_png_6653144be2f37283ad984cc1ce891721_medium.jpg)
 *1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Affentor (während des Abbruchs von 1810), nach einer alten Zeichnung, 1854, aquarellierte Bleistiftzeichnung, HMF RS0036</p>*
 
-![<p>Carl Theodor Reiffenstein, Affentor (während des Abbruchs von 1810), nach einer Zeichnung von Friedrich Philipp Usener, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0035</p>](../images/RS0035_png_4172500b17d63ed806e91fd1500e9c0b_original.jpg)
+![<p>Carl Theodor Reiffenstein, Affentor (während des Abbruchs von 1810), nach einer Zeichnung von Friedrich Philipp Usener, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0035</p>](../images/RS0035_png_4172500b17d63ed806e91fd1500e9c0b_medium.jpg)
 *19. Jhd. — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Affentor (während des Abbruchs von 1810), nach einer Zeichnung von Friedrich Philipp Usener, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0035</p>*
 
 

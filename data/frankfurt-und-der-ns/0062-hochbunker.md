@@ -15,7 +15,7 @@ filters:
 
 *Germaniastraße 89*
 
-![Foto eines Hochbunkers in der Germaniastraße](../images/7057fabbfda91dc614b8f5431f0b8739_original.jpg)
+![Foto eines Hochbunkers in der Germaniastraße](../images/7057fabbfda91dc614b8f5431f0b8739_medium.jpg)
 *1981 — Author: Joachim Sändig | License: HMF Ph17146 | Description: Foto eines Hochbunkers in der Germaniastraße*
 
 Dieser Bunker entstand im Rahmen des sogenannten Führer-Sofortprogramms und bot auf vier Etagen Schutz für 760 Menschen. Nur 35.000 Frankfurter hatten einen Bunkerplatz. Viele flohen in die Keller ihrer Häuser und in die öffentlichen Luftschutzkeller, die nicht bombensicher waren. Als dies bekannt wurde, drängten immer mehr Menschen in die Bunker. Jüdinnen und Juden, Zwangsarbeiter*innen und Kriegsgefangenen war der Zutritt jedoch untersagt. Die Bauarbeiten begannen im Dezember 1940. An den Haupteingängen sehen Sie zwei Verzierungen des Bildhauers Carl Stock in Form von Medaillons, die einen Reiter und eine Reiterin zeigen. Nach dem Krieg brachte das Frankfurter Fürsorgeamt hier unbegleitete Flüchtlingskinder unter. Seit dieser Zeit hat der Bunker Fenster. Er steht unter Denkmalschutz und wird vom Verein Waggong e. V. als Kulturwerkstatt genutzt.
@@ -31,7 +31,7 @@ Bauunternehmen: Gebrüder Weil, Limburg.
 
 ## Gallery
 
-![Foto eines Hochbunkers in der Germaniastraße](../images/7057fabbfda91dc614b8f5431f0b8739_original.jpg)
+![Foto eines Hochbunkers in der Germaniastraße](../images/7057fabbfda91dc614b8f5431f0b8739_medium.jpg)
 *1981 — Author: Joachim Sändig | License: HMF Ph17146 | Description: Foto eines Hochbunkers in der Germaniastraße*
 
 

@@ -15,7 +15,7 @@ filters:
 
 *Eichwaldstraße 8-10*
 
-![Zwangsarbeitslager, Eichwaldstraße 8-10](../images/d2f267fe62e1207ee121261216c87822_original.jpg)
+![Zwangsarbeitslager, Eichwaldstraße 8-10](../images/d2f267fe62e1207ee121261216c87822_medium.jpg)
 *2019 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2019-715 | Description: Zwangsarbeitslager, Eichwaldstraße 8-10*
 
 Der Sackgroßhandel Friedrich Kilian mit Sitz in der Eichwaldstraße 8-10 beschäftigte Zwangsarbeiter. Er brachte diese in zwei Gemeinschaftslagern im Reuterweg 91 und in der Allerheiligenstraße 26 unter.
@@ -24,7 +24,7 @@ Der Sackgroßhandel Friedrich Kilian mit Sitz in der Eichwaldstraße 8-10 besch�
 
 ## Gallery
 
-![Zwangsarbeitslager, Eichwaldstraße 8-10](../images/d2f267fe62e1207ee121261216c87822_original.jpg)
+![Zwangsarbeitslager, Eichwaldstraße 8-10](../images/d2f267fe62e1207ee121261216c87822_medium.jpg)
 *2019 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2019-715 | Description: Zwangsarbeitslager, Eichwaldstraße 8-10*
 
 

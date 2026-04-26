@@ -15,7 +15,7 @@ filters:
 
 *Elbestraße 24-26*
 
-![Foto des Hotel Viktoria](../images/8b3f34644789c19a1326f608a64680dc_original.jpg)
+![Foto des Hotel Viktoria](../images/8b3f34644789c19a1326f608a64680dc_medium.jpg)
 *1982 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2013-2261 | Description: Foto des Hotel Viktoria*
 
 Das Hotel Viktoria gehörte der jüdischen Witwe Therese Oberndorfer, geb. Bing. Sie wohnte früher in Bamberg, lebte aber 1939 bereits in den Niederlanden. Sie hatte das Hotel verpachtet. Auf fünf Stockwerken befanden sich 51 Hotelzimmer, eine Gastwirtschaft und drei Läden. Im Dachgeschoss waren die Zimmer für das Personal und eine Wohnung für den Gastwirt untergebracht. 
@@ -24,6 +24,6 @@ Das Hotel Viktoria gehörte der jüdischen Witwe Therese Oberndorfer, geb. Bing.
 
 ## Gallery
 
-![Foto des Hotel Viktoria](../images/8b3f34644789c19a1326f608a64680dc_original.jpg)
+![Foto des Hotel Viktoria](../images/8b3f34644789c19a1326f608a64680dc_medium.jpg)
 *1982 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2013-2261 | Description: Foto des Hotel Viktoria*
 

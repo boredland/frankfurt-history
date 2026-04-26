@@ -22,7 +22,7 @@ filters:
 
 *Braubachstraße 18-22*
 
-![Das Gesundheitsamt befand sich in diesem Gebäude in der Braubachstraße 18-22.](../images/dab492d407c9a4d5bfb533365f67ccf4_original.jpg)
+![Das Gesundheitsamt befand sich in diesem Gebäude in der Braubachstraße 18-22.](../images/dab492d407c9a4d5bfb533365f67ccf4_medium.jpg)
 *ca. 1936 — Author: Max Göllner | License: HMF, NS1366 | Description: Das Gesundheitsamt befand sich in diesem Gebäude in der Braubachstraße 18-22.*
 
 Das Stadtgesundheitsamt spielte im Nationalsozialismus eine bedeutende Rolle bei der Durchsetzung der rassistischen Gesundheitspolitik. Grundlage dieser Politik war die Vorstellung, es gebe unterschiedliche menschliche „Rassen“, von denen einige mehr wert seien als andere. Selbst das Handeln von bestimmten Personen führten Nationalsozialist*innen auf deren vermeintliche Veranlagung zurück und ließen die jeweiligen Lebensbedingungen und den kulturellen Hintergrund außer Acht. Die Nationalsozialist*innen nannten sich selbst „Arier“ und fühlten sich überlegen. Die gesamte Rhetorik und Politik des nationalsozialistischen Regimes war darauf angelegt, diesen Irrglauben, also seinen wahnhaften Rassismus, zu verbreiten und immer wieder zu bestätigen. Dafür wurden zahlreiche Gesetze und Verordnungen erlassen, die Menschen benachteiligten, ausschlossen und entwürdigten.
@@ -36,6 +36,6 @@ Seine Abteilung baute eine Erbkartei auf, die bis Kriegsende erbbiologische Date
 
 ## Gallery
 
-![Das Gesundheitsamt befand sich in diesem Gebäude in der Braubachstraße 18-22.](../images/Stadtgesun_92d7c370a8dba98f691669c1b1970e9d_original.jpg)
+![Das Gesundheitsamt befand sich in diesem Gebäude in der Braubachstraße 18-22.](../images/Stadtgesun_92d7c370a8dba98f691669c1b1970e9d_medium.jpg)
 *ca. 1936 — Author: Max Göllner | License: HMF, NS1366 | Description: Das Gesundheitsamt befand sich in diesem Gebäude in der Braubachstraße 18-22.*
 

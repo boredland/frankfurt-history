@@ -14,7 +14,7 @@ filters:
 
 *Mahnmal für die Kindertransporte 1938/1939*
 
-![Yael Bartanas Karussell im Frakfurter Bahnhofsviertel erinnert an die Kindertransporte der Jahre 1938/1939, deren organisatorisches Zentrum Frankfurt am Main war.](../images/a6adc222dadf0f97f490f0005236ab9c_original.jpg)
+![Yael Bartanas Karussell im Frakfurter Bahnhofsviertel erinnert an die Kindertransporte der Jahre 1938/1939, deren organisatorisches Zentrum Frankfurt am Main war.](../images/a6adc222dadf0f97f490f0005236ab9c_medium.jpg)
 *2021 — Author: Alexander Paul Englert | License: Kulturamt Frankfurt | Description: Yael Bartanas Karussell im Frakfurter Bahnhofsviertel erinnert an die Kindertransporte der Jahre 1938/1939, deren organisatorisches Zentrum Frankfurt am Main war.*
 
 Yael Bartanas Arbeit umfasst eine Vielzahl von Kunstformen, darunter Filme, Lichtinstallationen, Performances und Skulpturen. Mit Neon-Schriftzügen wie „I Am A Feminist“ oder „Patriarchy Is History“ setzt sie klare Zeichen für ihre künstlerische Agenda. Ihr Slogan „What If Women Ruled The World“ etwa strahlte 2024 von einer Hauswand des Nationalmuseums für zeitgenössische Kunst, Athen (ΕΜΣΤ). Diese Frage bildet auch den Ausgangspunkt für eine Performance, in der Yael Bartana ein fiktives Land mit einer Regierung aus ausschließlich Frauen darstellt, die sich einer globalen Krise stellen muss. Für die Stadt Frankfurt entwarf sie „Das Waisen-Karussell“, ein Mahnmal, das den Kindertransporten von 1938/1939 gedenkt. Weitere Informationen zum Mahnmal finden sich im Themenbereich „Frankfurt und der NS“.
@@ -23,10 +23,10 @@ Yael Bartanas Arbeit umfasst eine Vielzahl von Kunstformen, darunter Filme, Lich
 
 ## Gallery
 
-![Yael Bartanas Karussell im Frakfurter Bahnhofsviertel erinnert an die Kindertransporte der Jahre 1938/1939, deren organisatorisches Zentrum Frankfurt am Main war.](../images/KIT_APE_12_d09def4b3cb0900d14b73ad2cd307db6_original.jpg)
+![Yael Bartanas Karussell im Frakfurter Bahnhofsviertel erinnert an die Kindertransporte der Jahre 1938/1939, deren organisatorisches Zentrum Frankfurt am Main war.](../images/KIT_APE_12_d09def4b3cb0900d14b73ad2cd307db6_medium.jpg)
 *2021 — Author: Alexander Paul Englert | License: Kulturamt Frankfurt | Description: Yael Bartanas Karussell im Frakfurter Bahnhofsviertel erinnert an die Kindertransporte der Jahre 1938/1939, deren organisatorisches Zentrum Frankfurt am Main war.*
 
-![Yael Bartanas Karussell im Frakfurter Bahnhofsviertel erinnert an die Kindertransporte der Jahre 1938/1939, deren organisatorisches Zentrum Frankfurt am Main war.](../images/KIT_APE_14_ed3f248975ad9c3481b4994ada46317f_original.jpg)
+![Yael Bartanas Karussell im Frakfurter Bahnhofsviertel erinnert an die Kindertransporte der Jahre 1938/1939, deren organisatorisches Zentrum Frankfurt am Main war.](../images/KIT_APE_14_ed3f248975ad9c3481b4994ada46317f_medium.jpg)
 *2021 — Author: Alexander Paul Englert | License: Kulturamt Frankfurt | Description: Yael Bartanas Karussell im Frakfurter Bahnhofsviertel erinnert an die Kindertransporte der Jahre 1938/1939, deren organisatorisches Zentrum Frankfurt am Main war.*
 
 ![Yael Bartanas Karussell im Frakfurter Bahnhofsviertel erinnert an die Kindertransporte der Jahre 1938/1939, deren organisatorisches Zentrum Frankfurt am Main war.](../images/KIT_APE_14_12bc12f0a88d2fb15a5f534f37afeddc_original.jpg)

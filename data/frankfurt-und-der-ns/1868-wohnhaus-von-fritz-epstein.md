@@ -12,7 +12,7 @@ filters:
 
 *Architekt in Frankfurt*
 
-![](../images/f940ee6cface7c61b1d85f76cff35105_original.jpg)
+![](../images/f940ee6cface7c61b1d85f76cff35105_medium.jpg)
 *nach 1913 — License: Privat (Daniela Epstein)*
 
 In der Unterlindau 29 stand die eigene Villa des Architekten Fritz Epstein. Diese hat er von der Israelitischen Gemeinde Frankfurt gemietet und mit eigenem Aufwand und Kosten modernisiert und in Stadt gesetzt. Davon sind jedoch nur ein historisches Foto, sowie Zeichnungen des Hausrats geblieben, die Fritz Epstein für die Restitution der Schäden durch die NS-Verfolgung angefertigt hat.
@@ -29,16 +29,16 @@ Der Architekt Fritz Epstein hat in Frankfurt etwa 150 Gebäude geplant, gebaut o
 
 ## Gallery
 
-![](../images/villa_epst_cde15c59d11f3b68b1ae4be87c27703c_original.jpg)
+![](../images/villa_epst_cde15c59d11f3b68b1ae4be87c27703c_medium.jpg)
 *nach 1913 — License: Privat (Daniela Epstein)*
 
-![Fritz Epstein fertigte für die Restitution der Schäden durch die NS-Verfolgung Zeichnungen seines Hausrats aus seinem Wohnhaus in der Unterlindau 13 an.](../images/hhstaw_518_be7fdbe961835a5d669fb86a0bb7bc37_original.jpg)
+![Fritz Epstein fertigte für die Restitution der Schäden durch die NS-Verfolgung Zeichnungen seines Hausrats aus seinem Wohnhaus in der Unterlindau 13 an.](../images/hhstaw_518_be7fdbe961835a5d669fb86a0bb7bc37_medium.jpg)
 *nach 1945 — Author: Fritz Epstein | License: HHStAW, 518, 10762 | Description: Fritz Epstein fertigte für die Restitution der Schäden durch die NS-Verfolgung Zeichnungen seines Hausrats aus seinem Wohnhaus in der Unterlindau 13 an.*
 
-![Fritz Epstein fertigte für die Restitution der Schäden durch die NS-Verfolgung Zeichnungen seines Hausrats aus seinem Wohnhaus in der Unterlindau 13 an.](../images/hhstaw_518_f930a91d19f92bf5c1a481155e64bd41_original.jpg)
+![Fritz Epstein fertigte für die Restitution der Schäden durch die NS-Verfolgung Zeichnungen seines Hausrats aus seinem Wohnhaus in der Unterlindau 13 an.](../images/hhstaw_518_f930a91d19f92bf5c1a481155e64bd41_medium.jpg)
 *nach 1945 — Author: Fritz Epstein | License: HHStAW, 518, 10762 | Description: Fritz Epstein fertigte für die Restitution der Schäden durch die NS-Verfolgung Zeichnungen seines Hausrats aus seinem Wohnhaus in der Unterlindau 13 an.*
 
-![Fritz Epstein fertigte für die Restitution der Schäden durch die NS-Verfolgung Zeichnungen seines Hausrats aus seinem Wohnhaus in der Unterlindau 13 an.](../images/hhstaw_518_0892e42af9529274a3ee2c26f9f86ca3_original.jpg)
+![Fritz Epstein fertigte für die Restitution der Schäden durch die NS-Verfolgung Zeichnungen seines Hausrats aus seinem Wohnhaus in der Unterlindau 13 an.](../images/hhstaw_518_0892e42af9529274a3ee2c26f9f86ca3_medium.jpg)
 *nach 1945 — Author: Fritz Epstein | License: HHStAW, 518, 10762 | Description: Fritz Epstein fertigte für die Restitution der Schäden durch die NS-Verfolgung Zeichnungen seines Hausrats aus seinem Wohnhaus in der Unterlindau 13 an.*
 
 

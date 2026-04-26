@@ -14,7 +14,7 @@ filters:
 
 *Neue Mainzer Straße 8*
 
-![<p><span class="tab2">Foto der Redaktion des Frankfurter Volksblattes</span></p>](../images/d9e2578eef24719a8428060121225ff8_original.jpg)
+![<p><span class="tab2">Foto der Redaktion des Frankfurter Volksblattes</span></p>](../images/d9e2578eef24719a8428060121225ff8_medium.jpg)
 *vor 1945 — Author: Otto Emmel | License: HMF Ph38327 | Description: <p><span class="tab2">Foto der Redaktion des Frankfurter Volksblattes</span></p>*
 
 Redaktion des Frankfurter Volksblattes
@@ -26,6 +26,6 @@ Hier befand sich bis 1933 die Redaktion des „Frankfurter Volksblatts“, der w
 
 ## Gallery
 
-![<p><span class="tab2">Foto der Redaktion des Frankfurter Volksblattes</span></p>](../images/d9e2578eef24719a8428060121225ff8_original.jpg)
+![<p><span class="tab2">Foto der Redaktion des Frankfurter Volksblattes</span></p>](../images/d9e2578eef24719a8428060121225ff8_medium.jpg)
 *vor 1945 — Author: Otto Emmel | License: HMF Ph38327 | Description: <p><span class="tab2">Foto der Redaktion des Frankfurter Volksblattes</span></p>*
 

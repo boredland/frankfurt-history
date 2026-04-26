@@ -14,7 +14,7 @@ filters:
 
 *Alt Griesheim 72*
 
-![Das Zwangsarbeitslagerbefand sich in der Nähe der Staustufe.](../images/b7f88776d8abbdaebe9c32541ae8374f_original.jpg)
+![Das Zwangsarbeitslagerbefand sich in der Nähe der Staustufe.](../images/b7f88776d8abbdaebe9c32541ae8374f_medium.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, S7A Nr. 1998-21650 | Description: Das Zwangsarbeitslagerbefand sich in der Nähe der Staustufe.*
 
 Das Lager der Reichsbahn in Alt Griesheim 72, auch „Lager Staustufe“ genannt, war im Stadtteil einzigartig. Während andere Lager am Rand lagen, befand es sich mitten in einem Wohngebiet. Vermutlich war es eine Gruppe polnischer Zwangsarbeiter, die im Juli 1940 als erste in der Gaststätte an der Griesheimer Hauptstraße untergebracht wurde. Spätestens im Juni 1941 folgten französische, im September 1941 belgische Zwangsarbeiter. Im Oktober 1942 berichtete die Deutsche Arbeitsfront (DAF), dass im Lager 49 Italiener, sechs Wallonen und 22 Franzosen (insgesamt 77 Männer) untergebracht waren. Das Lager wurde im Laufe des Jahres 1942 durch eine oder mehrere Baracken erweitert, in das dann Russ*innen und Ukrainer*innen – nun auch Frauen – untergebracht wurden. Seit diesem Zeitpunkt war auch die Lagerbezeichnung „Russenlager Griesheim“ üblich. Bei einer weiteren Zählung im April 1943 erwähnte die DAF insgesamt 334 Lagerbewohner*innen aus sechs verschiedenen Ländern. Darunter waren zahlreiche Pol*innen und „Ostarbeiter“ aus der Sowjetunion, die aufgrund der „Polen-“ und „Ostarbeitererlasse“ verpflichtet waren, das Polenabzeichen und das Ost-Abzeichen gut sichtbar auf ihrer Kleidung zu tragen, sobald sie das Lager verließen.
@@ -29,6 +29,6 @@ Auch Kinder lebten im Lager. Das belegt unter anderem die Todesurkunde des klein
 
 ## Gallery
 
-![Das Zwangsarbeitslagerbefand sich in der Nähe der Staustufe. Auf diesem Foto, das vermutlich vor dem NS entstand, sind die Baracken noch nicht zu sehen, da sie erst ab 1942 gebaut wurden.](../images/ISG S7A Nr_4314c9d5cb072d10265162b9f2fa7281_original.jpg)
+![Das Zwangsarbeitslagerbefand sich in der Nähe der Staustufe. Auf diesem Foto, das vermutlich vor dem NS entstand, sind die Baracken noch nicht zu sehen, da sie erst ab 1942 gebaut wurden.](../images/ISG S7A Nr_4314c9d5cb072d10265162b9f2fa7281_medium.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, S7A Nr. 1998-21650 | Description: Das Zwangsarbeitslagerbefand sich in der Nähe der Staustufe. Auf diesem Foto, das vermutlich vor dem NS entstand, sind die Baracken noch nicht zu sehen, da sie erst ab 1942 gebaut wurden.*
 

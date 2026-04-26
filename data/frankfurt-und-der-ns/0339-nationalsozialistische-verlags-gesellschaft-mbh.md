@@ -14,7 +14,7 @@ filters:
 
 *Neue Mainzer Straße 8*
 
-![Redaktion des Frankfurter Volksblatt](../images/Ph38327_jp_d9e2578eef24719a8428060121225ff8_original.jpg)
+![Redaktion des Frankfurter Volksblatt](../images/Ph38327_jp_d9e2578eef24719a8428060121225ff8_medium.jpg)
 *vor 1945 — Description: Redaktion des Frankfurter Volksblatt*
 
 Nationalsozialistische Verlags-Gesellschaft mbH
@@ -24,6 +24,6 @@ In der Neuen Mainzer Straße 8 hatte die Nationalsozialistische Verlags-Gesellsc
 
 ## Gallery
 
-![Redaktion des Frankfurter Volksblatt](../images/Ph38327_jp_d9e2578eef24719a8428060121225ff8_original.jpg)
+![Redaktion des Frankfurter Volksblatt](../images/Ph38327_jp_d9e2578eef24719a8428060121225ff8_medium.jpg)
 *vor 1945 — Description: Redaktion des Frankfurter Volksblatt*
 

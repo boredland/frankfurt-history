@@ -14,7 +14,7 @@ filters:
 
 *Eschersheimer Landstraße 29-33*
 
-![Blick auf den kubischen Bau mit heller Fassade und Flachdach. Rechts unten der Eingang mit fünf stahl-glasverkleideten Stützen.](../images/7acfddd1312f9a26ce4054420fcf09c7_original.jpg)
+![Blick auf den kubischen Bau mit heller Fassade und Flachdach. Rechts unten der Eingang mit fünf stahl-glasverkleideten Stützen.](../images/7acfddd1312f9a26ce4054420fcf09c7_medium.jpg)
 *1932 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Blick auf den kubischen Bau mit heller Fassade und Flachdach. Rechts unten der Eingang mit fünf stahl-glasverkleideten Stützen.*
 
 Das 1930 eröffnete Sendegebäude der Südwestdeutschen Rundfunk AG (heute Hessischer Rundfunk) zählt zu den bedeutendsten, aber wenig bekannten Bauwerken des Neuen Frankfurt. Der Architekt Willi Cahn schuf einen funktionalen, sachlichen Bau mit innovativen akustischen Lösungen. Der Große Sendesaal, heute Teil der Hochschule für Musik und Darstellende Kunst, setzte neue technische Maßstäbe für den Rundfunk. Die trapezförmige Saalform minimierte Nachhallzeiten, während modernste Haustechnik für optimale Klangbedingungen sorgte. Das Gebäude überstand den Zweiten Weltkrieg weitgehend unversehrt. Bis heute erhalten sind bedeutende Details wie die elegante Nussbaumvertäfelung und das farbige Ornamentfenster, das den Saal in atmosphärisches Licht taucht.
@@ -33,9 +33,9 @@ maybrief 52. Frankfurt am Main 2019, S. 4-6.
 
 ## Gallery
 
-![Blick auf den kubischen Bau mit heller Fassade und Flachdach. Rechts unten der Eingang mit fünf stahl-glasverkleideten Stützen.](../images/isg_ffm_s7_142146efa9b73c8f6beed1012f7f3018_original.jpg)
+![Blick auf den kubischen Bau mit heller Fassade und Flachdach. Rechts unten der Eingang mit fünf stahl-glasverkleideten Stützen.](../images/isg_ffm_s7_142146efa9b73c8f6beed1012f7f3018_medium.jpg)
 *1932 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Blick auf den kubischen Bau mit heller Fassade und Flachdach. Rechts unten der Eingang mit fünf stahl-glasverkleideten Stützen.*
 
-![Innenaufnahme aus dem Sendesaal.](../images/isg_ffm_s7_494722ca2c6d0357db314b51dfd0eb95_original.jpg)
+![Innenaufnahme aus dem Sendesaal.](../images/isg_ffm_s7_494722ca2c6d0357db314b51dfd0eb95_medium.jpg)
 *1930 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Innenaufnahme aus dem Sendesaal.*
 

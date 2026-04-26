@@ -14,7 +14,7 @@ filters:
 
 *Reuterweg 91*
 
-![Mehrfamilienhaus Reuterweg 91 / Bewässerungsplan, Lageplan, Grundriss, Schnit, 19.11.1942.](../images/49942cee1205fec78c6dbc00dc2bd5f5_original.jpg)
+![Mehrfamilienhaus Reuterweg 91 / Bewässerungsplan, Lageplan, Grundriss, Schnit, 19.11.1942.](../images/49942cee1205fec78c6dbc00dc2bd5f5_medium.jpg)
 *o.D. — Author: Unbekannt | License: ISG FFM, Best. A.63.03 Nr. 18484 | Description: Mehrfamilienhaus Reuterweg 91 / Bewässerungsplan, Lageplan, Grundriss, Schnit, 19.11.1942.*
 
 Zwangsarbeitslager
@@ -35,18 +35,18 @@ Nach einer allgemeinen Begutachtung der Zwangsarbeitslager im Mai 1945 berichtet
 
 ## Gallery
 
-![Mehrfamilienhaus Reuterweg 91 / Bewässerungsplan, Lageplan, Grundriss, Schnit, 19.11.1942.](../images/49942cee1205fec78c6dbc00dc2bd5f5_original.jpg)
+![Mehrfamilienhaus Reuterweg 91 / Bewässerungsplan, Lageplan, Grundriss, Schnit, 19.11.1942.](../images/49942cee1205fec78c6dbc00dc2bd5f5_medium.jpg)
 *o.D. — Author: Unbekannt | License: ISG FFM, Best. A.63.03 Nr. 18484 | Description: Mehrfamilienhaus Reuterweg 91 / Bewässerungsplan, Lageplan, Grundriss, Schnit, 19.11.1942.*
 
-![Schreiben der Treuhand- und Wirtschaftsberatung Karl Weiss an Die Preisüberwachungsstelle des Oberbürgermeisters der Stadt Frankfurt vom 23. Juli 1940 betreffend des Kaufvertrages zum Hausgrundstück Reuterweg 91.](../images/isg_ffm_a__4cef4d5d1a8cc4e8b60fb8debfc02d21_original.jpg)
+![Schreiben der Treuhand- und Wirtschaftsberatung Karl Weiss an Die Preisüberwachungsstelle des Oberbürgermeisters der Stadt Frankfurt vom 23. Juli 1940 betreffend des Kaufvertrages zum Hausgrundstück Reuterweg 91.](../images/isg_ffm_a__4cef4d5d1a8cc4e8b60fb8debfc02d21_medium.jpg)
 *o.D. — Author: Unbekannt | License: ISG FFM, Best. A.62.02 Nr. 829 | Description: Schreiben der Treuhand- und Wirtschaftsberatung Karl Weiss an Die Preisüberwachungsstelle des Oberbürgermeisters der Stadt Frankfurt vom 23. Juli 1940 betreffend des Kaufvertrages zum Hausgrundstück Reuterweg 91.*
 
-![Veräußerung des Grundstücks von Auguste ISENBURGER an Ludwig SATORI und dessen Schwester Henriette VAN GELDERN geb. SATORI sowie Wilhelmine SATORI (1939 – 1940) vom 7. September 1940.](../images/isg_ffm_a__e59f2100325c299e21808fb50c82ef86_original.jpg)
+![Veräußerung des Grundstücks von Auguste ISENBURGER an Ludwig SATORI und dessen Schwester Henriette VAN GELDERN geb. SATORI sowie Wilhelmine SATORI (1939 – 1940) vom 7. September 1940.](../images/isg_ffm_a__e59f2100325c299e21808fb50c82ef86_medium.jpg)
 *o.D. — Author: Unbekannt | License: ISG FFM, Best. 62.02 Nr. 829 | Description: Veräußerung des Grundstücks von Auguste ISENBURGER an Ludwig SATORI und dessen Schwester Henriette VAN GELDERN geb. SATORI sowie Wilhelmine SATORI (1939 – 1940) vom 7. September 1940.*
 
 
 ## Gallery
 
-![Ansicht des Hauses Reuterweg 91.](../images/Reuterweg _84bc8c6dd23abf03031ce2abcb2a0008_original.jpg)
+![Ansicht des Hauses Reuterweg 91.](../images/Reuterweg _84bc8c6dd23abf03031ce2abcb2a0008_medium.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: Ansicht des Hauses Reuterweg 91.*
 

@@ -14,7 +14,7 @@ filters:
 
 *Dokumentations- und Forschungszentrum zu Komponistinnen und Dirigentinnen*
 
-![Lesesaal des Archivs Frau und Musik](../images/444df1c862bc318eab992a599861cdb5_original.jpg)
+![Lesesaal des Archivs Frau und Musik](../images/444df1c862bc318eab992a599861cdb5_medium.jpg)
 *2018 — Author: Andrea Späth | License: © Andrea Späth Fotodesign 2018 | Description: Lesesaal des Archivs Frau und Musik*
 
 Inpiriert durch diverse feministische Gruppen, die sich in den 1970er Jahren gründeten, versammelten sich 1979 zahlreiche Musikwissenschaftlerinnen, Musikerinnen und Komponistinnen, um einen Arbeitskreis zur Förderung musikschaffender Frauen zu gründen: Der Internationale Arbeitskreis Frau und Musik e.V. war geboren. Neben dem Aufbau eines Notenarchivs, dem Archiv Frau und Musik, wollten die Gründerinnen die beruflichen Chancen von Frauen in der Musikbranche verbessern und Diskriminierungen abbauen.
@@ -25,7 +25,7 @@ Heute sitzt die weltweit einzigartige Forschungseinrichtung in Frankfurt-Niederr
 
 ## Gallery
 
-![Lesesaal des Archivs Frau und Musik](../images/ASF_1245 A_b675bf9e0daef19e21f5f6b49e82d125_original.jpg)
+![Lesesaal des Archivs Frau und Musik](../images/ASF_1245 A_b675bf9e0daef19e21f5f6b49e82d125_medium.jpg)
 *2018 — Author: Andrea Späth | License: © Andrea Späth Fotodesign 2018 | Description: Lesesaal des Archivs Frau und Musik*
 
 

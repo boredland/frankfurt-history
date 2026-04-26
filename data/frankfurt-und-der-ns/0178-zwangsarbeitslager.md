@@ -15,7 +15,7 @@ filters:
 
 *Berkersheimer Untergasse 2*
 
-![Ansicht der Berkersheimer Untergasse 2](../images/cd7c09177ab38d4be1e296af0107a5ed_original.jpg)
+![Ansicht der Berkersheimer Untergasse 2](../images/cd7c09177ab38d4be1e296af0107a5ed_medium.jpg)
 *1908 — Author: Heinrich Klöss | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 2825 | Description: Ansicht der Berkersheimer Untergasse 2*
 
 Der Landwirt Heinrich Pulver beschäftigte eine Zivilarbeiterin aus Polen, die bei ihm untergebracht war. Die deutsche Wirtschaft konnte während des Zweiten Weltkriegs nur durch den Einsatz von Zwangsarbeiter*innen am Laufen gehalten werden. Vom kleinen Betrieb bis zum großen Konzern, auf Bauernhöfen und in Privathaushalten – viele griffen auf Zwangsarbeitskräfte zurück. 1943/44 war mehr als die Hälfte aller Zwangsarbeiter*innen im Deutschen Reich in der Landwirtschaft tätig.
@@ -25,7 +25,7 @@ Der Landwirt Heinrich Pulver beschäftigte eine Zivilarbeiterin aus Polen, die b
 
 ## Gallery
 
-![Ansicht der Berkersheimer Untergasse 2](../images/cd7c09177ab38d4be1e296af0107a5ed_original.jpg)
+![Ansicht der Berkersheimer Untergasse 2](../images/cd7c09177ab38d4be1e296af0107a5ed_medium.jpg)
 *1908 — Author: Heinrich Klöss | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 2825 | Description: Ansicht der Berkersheimer Untergasse 2*
 
 

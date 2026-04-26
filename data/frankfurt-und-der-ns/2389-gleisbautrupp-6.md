@@ -14,7 +14,7 @@ filters:
 
 *heute Bahnbetriebswerk Frankfurt-Griesheim*
 
-![Luftaufnahme 15.08.1944. Am linken Bildrand: Alt Griesheim. Nr. 12: Reichsautobahn (heutige A5). Nr. 8: Triebwagenhalle, in der sich das Zwangsarbeiterlager befand. Von schraffierten Linien umgebener Bereich: Abstellbahnhof Griesheim.](../images/d846ecd24f8f6a9c546c63aa0ce05fd6_original.jpg)
+![Luftaufnahme 15.08.1944. Am linken Bildrand: Alt Griesheim. Nr. 12: Reichsautobahn (heutige A5). Nr. 8: Triebwagenhalle, in der sich das Zwangsarbeiterlager befand. Von schraffierten Linien umgebener Bereich: Abstellbahnhof Griesheim.](../images/d846ecd24f8f6a9c546c63aa0ce05fd6_medium.jpg)
 *1944 — Author: A. Dormann, Slg. W. Löckel | License: NARA | Description: Luftaufnahme 15.08.1944. Am linken Bildrand: Alt Griesheim. Nr. 12: Reichsautobahn (heutige A5). Nr. 8: Triebwagenhalle, in der sich das Zwangsarbeiterlager befand. Von schraffierten Linien umgebener Bereich: Abstellbahnhof Griesheim.*
 
 Auf dem Gelände des heutigen ICE Bahnbetriebswerks Frankfurt Griesheim befand sich von 1941 bis 1945 ein großes Zwangsarbeiterlager der Reichsbahn sowie vermutlich auch der Verwaltungssitz des „Gleisbautrupps 6“, einer hunderte Zwangsarbeiter*innen starken Einheit der Reichsbahn. Der Osten Griesheims grenzt an das Gleisvorfeld des Frankfurter Hauptbahnhofs. Seit den 1920er Jahren gab es Pläne, dort einen großen Abstellbahnhof zur Entlastung des Hauptbahnhofs zu bauen. In den 1930er Jahren kamen Dieseltriebwagen auf, die die bisherigen Dampflokomotiven ergänzten. Dafür errichtete die Deutsche Reichsbahn von 1937 bis 1939 in Griesheim eine rund 150 Meter lange Triebwagenhalle mit Werkstattgleisen, Büros und Lagerräumen. Dort sollten die neuen Dieseltriebwagen gewartet werden.
@@ -29,7 +29,7 @@ Die hier untergebrachten Arbeiter*innen und Kinder waren sowohl in der Eilgutabf
 
 ## Gallery
 
-![Luftaufnahme 15.08.1944. Am linken Bildrand: Alt Griesheim. Nr. 12: Reichsautobahn (heutige A5). Nr. 8: Triebwagenhalle, in der sich das Zwangsarbeiterlager befand. Von schraffierten Linien umgebener Bereich: Abstellbahnhof Griesheim.](../images/Gleisbautr_b9df90cbadb762d9caee67325cf90f7c_original.jpg)
+![Luftaufnahme 15.08.1944. Am linken Bildrand: Alt Griesheim. Nr. 12: Reichsautobahn (heutige A5). Nr. 8: Triebwagenhalle, in der sich das Zwangsarbeiterlager befand. Von schraffierten Linien umgebener Bereich: Abstellbahnhof Griesheim.](../images/Gleisbautr_b9df90cbadb762d9caee67325cf90f7c_medium.jpg)
 *1944 — License: NARA | Description: Luftaufnahme 15.08.1944. Am linken Bildrand: Alt Griesheim. Nr. 12: Reichsautobahn (heutige A5). Nr. 8: Triebwagenhalle, in der sich das Zwangsarbeiterlager befand. Von schraffierten Linien umgebener Bereich: Abstellbahnhof Griesheim.*
 
 ![Das Innere der Triebwagenhalle im Bahnbetriebswerk Frankfurt-Griesheim im Juni 1951. Eisenbahnstiftung 47081.](../images/Eisenbahns_662496b76c1cefd18bf50501bfc11b9d_original.jpg)

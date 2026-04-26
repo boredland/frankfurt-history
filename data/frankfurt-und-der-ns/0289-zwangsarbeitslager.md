@@ -14,13 +14,13 @@ filters:
 
 *Weissmüllerstraße 25-29*
 
-![<p>Foto: Paul Wolff, 1936,</p>](../images/a6d74df6a9e8c3d987f4c682bab674d2_original.jpg)
+![<p>Foto: Paul Wolff, 1936,</p>](../images/a6d74df6a9e8c3d987f4c682bab674d2_medium.jpg)
 *1936 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 3810 | Description: <p>Foto: Paul Wolff, 1936,</p>*
 
 Die Firma Milchversorgung Frankfurt am Main betrieb in der Weissmüllerstraße 25-29 ein Lager für Zivilarbeiter.
 
 ## Gallery
 
-![<p>Foto: Paul Wolff, 1936,</p>](../images/a6d74df6a9e8c3d987f4c682bab674d2_original.jpg)
+![<p>Foto: Paul Wolff, 1936,</p>](../images/a6d74df6a9e8c3d987f4c682bab674d2_medium.jpg)
 *1936 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 3810 | Description: <p>Foto: Paul Wolff, 1936,</p>*
 

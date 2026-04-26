@@ -14,7 +14,7 @@ filters:
 
 *Saalhof 1*
 
-![Das Historische Museum Frankfurt, Außenansicht](../images/f1eb5fe0033e50a4d4b2b112fdc9c893_original.jpg)
+![Das Historische Museum Frankfurt, Außenansicht](../images/f1eb5fe0033e50a4d4b2b112fdc9c893_medium.jpg)
 *2024 — Author: Jan Hassenpflug | License: Historisches Museum Frankfurt | Description: Das Historische Museum Frankfurt, Außenansicht*
 
 Das Historische Museum Frankfurt (HMF) ist das moderne Stadtmuseum der Mainmetropole und eines der größten Stadtmuseen Europas. In fünf Gebäuden vereint es 800 Jahre Baugeschichte. Acht Ausstellungen präsentieren auf 6.000 Quadratmetern Themen aus der Vergangenheit, Gegenwart und Zukunft Frankfurts.
@@ -27,10 +27,10 @@ Es wurde mit dem Prädikat „Reisen für Alle“ in Barrierefreiheit ausgezeich
 
 ## Gallery
 
-![Das Historische Museum Frankfurt, Außenansicht](../images/HMF_Museum_cc773d8e5a96debe948ada74c520c124_original.jpg)
+![Das Historische Museum Frankfurt, Außenansicht](../images/HMF_Museum_cc773d8e5a96debe948ada74c520c124_medium.jpg)
 *2024 — Author: Jan Hassenpflug | License: Historisches Museum Frankfurt | Description: Das Historische Museum Frankfurt, Außenansicht*
 
-![Museumsplatz](../images/HMF_Weitan_2e94adc94f24f05f6744687aa077f863_original.jpg)
+![Museumsplatz](../images/HMF_Weitan_2e94adc94f24f05f6744687aa077f863_medium.jpg)
 *2019 — Author: Moritz Bernoully | License: Historisches Museum Frankfurt | Description: Museumsplatz*
 
 

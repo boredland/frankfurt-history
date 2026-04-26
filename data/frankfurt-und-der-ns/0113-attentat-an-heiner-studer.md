@@ -15,7 +15,7 @@ filters:
 
 *Bockenheimer Warte*
 
-![](../images/20ec5b0caa2b41b38177c4980698de2f_original.jpg)
+![](../images/20ec5b0caa2b41b38177c4980698de2f_medium.jpg)
 *Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 
 Attentatsort
@@ -26,6 +26,6 @@ Bewaffnete SA-Leute lauerten am 19. Februar 1933 an der Bockenheimer Warte Heine
 
 ## Gallery
 
-![](../images/20ec5b0caa2b41b38177c4980698de2f_original.jpg)
+![](../images/20ec5b0caa2b41b38177c4980698de2f_medium.jpg)
 *Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 

@@ -14,7 +14,7 @@ filters:
 
 *Landgericht Frankfurt am Main*
 
-![Schlussbericht über das Ermittlungsverfahren gegen Johannes Himmelheber](../images/5cbb8615de27e23519ec0104a0d7959a_original.jpg)
+![Schlussbericht über das Ermittlungsverfahren gegen Johannes Himmelheber](../images/5cbb8615de27e23519ec0104a0d7959a_medium.jpg)
 *1947 — License: Hessisches Hauptstaatsarchiv Wiesbaden | Description: Schlussbericht über das Ermittlungsverfahren gegen Johannes Himmelheber*
 
 Zwischen 1948 und 1960 führte die Frankfurter Staatsanwaltschaft mehrere Ermittlungen zur NS-Verfolgung von Sinti und Roma, darunter neben den Verfahren gegen Robert Ritter und Eva Justin auch gegen die Frankfurter Polizeibeamten Johannes Himmelheber, Ernst Mohr und Paul Fiedler
@@ -31,10 +31,10 @@ Am 18. April 1958 wurden alle Verfahren eingestellt. Die Begründung: Es ließe 
 
 ## Gallery
 
-![Schlussbericht über das Ermittlungsverfahren gegen Johannes Himmelheber. HHStAW, 520, FZ 6638.](../images/PXL_202511_5714d1de691c29ab16b17dd6c962662f_original.jpg)
+![Schlussbericht über das Ermittlungsverfahren gegen Johannes Himmelheber. HHStAW, 520, FZ 6638.](../images/PXL_202511_5714d1de691c29ab16b17dd6c962662f_medium.jpg)
 *1947 — License: Hessisches Hauptstaatsarchiv Wiesbaden | Description: Schlussbericht über das Ermittlungsverfahren gegen Johannes Himmelheber. HHStAW, 520, FZ 6638.*
 
-![Spruch im Entnazifierungsverfahren gegen Ernst Mohr. HHStAW, 520/11, 12982/2.](../images/PXL_202511_fd423759d02f734614fe41589f297c17_original.jpg)
+![Spruch im Entnazifierungsverfahren gegen Ernst Mohr. HHStAW, 520/11, 12982/2.](../images/PXL_202511_fd423759d02f734614fe41589f297c17_medium.jpg)
 *1947 — License: Hessisches Hauptstaatsarchiv Wiesbaden | Description: Spruch im Entnazifierungsverfahren gegen Ernst Mohr. HHStAW, 520/11, 12982/2.*
 
 

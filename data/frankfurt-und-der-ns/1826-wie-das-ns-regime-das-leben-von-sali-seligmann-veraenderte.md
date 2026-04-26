@@ -31,13 +31,13 @@ Nur kurz darauf, am 23.09.1940 floh Sali schließlich zusammen mit seiner Famili
 
 ## Gallery
 
-![Sandweg 40 in Frankfurt-Bornheim/Ostend](../images/2-Sandweg4_41e2f2b9c61ca0a4c985cc3286b19107_original.jpg)
+![Sandweg 40 in Frankfurt-Bornheim/Ostend](../images/2-Sandweg4_41e2f2b9c61ca0a4c985cc3286b19107_medium.jpg)
 *2024 — Author: Yanaphon Sanitsom | Description: Sandweg 40 in Frankfurt-Bornheim/Ostend*
 
-![Sandweg 40 in Frankfurt-Bornheim/Ostend](../images/3-Sandweg4_2238500f286fa7ad27884e6ff3d35c7e_original.jpg)
+![Sandweg 40 in Frankfurt-Bornheim/Ostend](../images/3-Sandweg4_2238500f286fa7ad27884e6ff3d35c7e_medium.jpg)
 *2024 — Author: Yanaphon Sanitsom | Description: Sandweg 40 in Frankfurt-Bornheim/Ostend*
 
-![Haustür Sandweg 40 in Frankfurt-Bornheim/Ostend](../images/4-Eingang-_9aa3818a70f9a5ea5221dfae13327c83_original.jpg)
+![Haustür Sandweg 40 in Frankfurt-Bornheim/Ostend](../images/4-Eingang-_9aa3818a70f9a5ea5221dfae13327c83_medium.jpg)
 *2024 — Author: Yanaphon Sanitsom | Description: Haustür Sandweg 40 in Frankfurt-Bornheim/Ostend*
 
 

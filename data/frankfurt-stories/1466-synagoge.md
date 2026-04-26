@@ -28,13 +28,13 @@ Die Hauptsynagoge wurde 1938 während der Novemberprogrome zerstört. Nur noch e
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Blick in die Judengasse, links die alte Synagoge, 1845, aquarellierte Bleistiftzeichnung, HMF R0254</p>](../images/R0254_png_9a2de6a65e9238caf10a2f2dfafda94c_original.jpg)
+![<p>Carl Theodor Reiffenstein, Blick in die Judengasse, links die alte Synagoge, 1845, aquarellierte Bleistiftzeichnung, HMF R0254</p>](../images/R0254_png_9a2de6a65e9238caf10a2f2dfafda94c_medium.jpg)
 *1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Blick in die Judengasse, links die alte Synagoge, 1845, aquarellierte Bleistiftzeichnung, HMF R0254</p>*
 
-![<p>Carl Theodor Reiffenstein, Blick in die Judengasse, links die alte Synagoge (abgebrochen 1854), um 1880, aquarellierte Bleistiftzeichnung, HMF R0259</p>](../images/R0259_png_5c281f91d4c5f65312b24fe91af29a04_original.jpg)
+![<p>Carl Theodor Reiffenstein, Blick in die Judengasse, links die alte Synagoge (abgebrochen 1854), um 1880, aquarellierte Bleistiftzeichnung, HMF R0259</p>](../images/R0259_png_5c281f91d4c5f65312b24fe91af29a04_medium.jpg)
 *1880 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Blick in die Judengasse, links die alte Synagoge (abgebrochen 1854), um 1880, aquarellierte Bleistiftzeichnung, HMF R0259</p>*
 
-![<p>­Carl Theodor Reiffenstein, Judengasse, Platz nach dem Abbruch der Synagoge, 1855, aquarellierte Bleistiftzeichnung, HMF R0270</p>](../images/R0270_png_a50869101d50dc3e32d070009d988f98_original.jpg)
+![<p>­Carl Theodor Reiffenstein, Judengasse, Platz nach dem Abbruch der Synagoge, 1855, aquarellierte Bleistiftzeichnung, HMF R0270</p>](../images/R0270_png_a50869101d50dc3e32d070009d988f98_medium.jpg)
 *1855 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>­Carl Theodor Reiffenstein, Judengasse, Platz nach dem Abbruch der Synagoge, 1855, aquarellierte Bleistiftzeichnung, HMF R0270</p>*
 
 

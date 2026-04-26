@@ -14,7 +14,7 @@ filters:
 
 *Alt-Fechenheim 95*
 
-![Das Gasthaus „Zur Krone" in der Straße Alt-Fechenheim 95.](../images/isg_ffm_s7_0586b3bfdb6cca17de271d6f2a2ae918_original.jpg)
+![Das Gasthaus „Zur Krone" in der Straße Alt-Fechenheim 95.](../images/isg_ffm_s7_0586b3bfdb6cca17de271d6f2a2ae918_medium.jpg)
 *o.D. — Author: Unbekannt | License: ISG FFM S7C Nr. 1998-42364 | Description: Das Gasthaus „Zur Krone" in der Straße Alt-Fechenheim 95.*
 
 Zwangsarbeitslager
@@ -27,6 +27,6 @@ Einige Schritte weiter, in zwei Nebenräumen des Gasthauses „Engel“ in der L
 
 ## Gallery
 
-![Das Gasthaus „Zur Krone" in der Straße Alt-Fechenheim 95.](../images/isg_ffm_s7_0586b3bfdb6cca17de271d6f2a2ae918_original.jpg)
+![Das Gasthaus „Zur Krone" in der Straße Alt-Fechenheim 95.](../images/isg_ffm_s7_0586b3bfdb6cca17de271d6f2a2ae918_medium.jpg)
 *o.D. — Author: Unbekannt | License: ISG FFM S7C Nr. 1998-42364 | Description: Das Gasthaus „Zur Krone" in der Straße Alt-Fechenheim 95.*
 

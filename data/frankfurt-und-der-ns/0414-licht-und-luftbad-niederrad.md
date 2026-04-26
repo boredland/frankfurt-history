@@ -12,13 +12,13 @@ filters:
 
 *Niederräder Ufer 10*
 
-![<p>HMF, Garten 207</p>](../images/a702658ce6b1fb8f22b03675424a4c2f_original.jpg)
+![<p>HMF, Garten 207</p>](../images/a702658ce6b1fb8f22b03675424a4c2f_medium.jpg)
 *Description: <p>HMF, Garten 207</p>*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![<p>HMF, Garten 207</p>](../images/a702658ce6b1fb8f22b03675424a4c2f_original.jpg)
+![<p>HMF, Garten 207</p>](../images/a702658ce6b1fb8f22b03675424a4c2f_medium.jpg)
 *Description: <p>HMF, Garten 207</p>*
 

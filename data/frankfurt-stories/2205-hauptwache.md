@@ -17,7 +17,7 @@ filters:
 
 Frankfurter Mobilitätsorte
 
-![Carl Friedrich Mylius (1827-1916), Schillerplatz an der Hauptwache mit wartenden Pferde-Droschken, Frankfurt um 1865, HMF.C19977, gemeinfrei](../images/d843426f3c7a70d61a85e42c8193dfa2_original.png)
+![Carl Friedrich Mylius (1827-1916), Schillerplatz an der Hauptwache mit wartenden Pferde-Droschken, Frankfurt um 1865, HMF.C19977, gemeinfrei](../images/d843426f3c7a70d61a85e42c8193dfa2_medium.png)
 *Um 1865 — Author: Carl Friedrich Mylius | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Carl Friedrich Mylius (1827-1916), Schillerplatz an der Hauptwache mit wartenden Pferde-Droschken, Frankfurt um 1865, HMF.C19977, gemeinfrei*
 
 Bereits im 19. Jahrhundert war die Hauptwache eine wichtige Haltestelle. Ab den 1860er Jahren verband die Linie B der Pferde-Omnibusse sie mit Bornheim. Zusätzlich standen Droschken mit Taxiservice an den Bahnhöfen und in der Innenstadt bereit. Diese frühen Nahverkehrsmittel blieben wegen hoher Kosten jedoch vor allem Tourist*innen und Geschäftsleuten vorbehalten und wurden kein Massenverkehrsmittel.
@@ -42,39 +42,39 @@ Im Oktober 1968 feierte die Stadt Frankfurt die Eröffnung der U-Bahnlinie A1, w
 
 ## Gallery
 
-![Carl Friedrich Mylius (1827-1916), Schillerplatz an der Hauptwache mit wartenden Pferde-Droschken, Frankfurt um 1865, HMF.C19977, gemeinfrei](../images/C19977_001_62041c7e00e7d64fcd325e5166273db3_original.jpg)
+![Carl Friedrich Mylius (1827-1916), Schillerplatz an der Hauptwache mit wartenden Pferde-Droschken, Frankfurt um 1865, HMF.C19977, gemeinfrei](../images/C19977_001_62041c7e00e7d64fcd325e5166273db3_medium.jpg)
 *Um 1865 — Author: Carl Friedrich Mylius | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Carl Friedrich Mylius (1827-1916), Schillerplatz an der Hauptwache mit wartenden Pferde-Droschken, Frankfurt um 1865, HMF.C19977, gemeinfrei*
 
 
 ## Gallery
 
-![Carl Hertel (1832-1906), Pferdetrambahn auf der Zeil von der Hauptwache kommend, Frankfurt, HMF.C29106, gemeinfrei](../images/C29106_001_bc5393a3870030ecc87ede598da2a58c_original.jpg)
+![Carl Hertel (1832-1906), Pferdetrambahn auf der Zeil von der Hauptwache kommend, Frankfurt, HMF.C29106, gemeinfrei](../images/C29106_001_bc5393a3870030ecc87ede598da2a58c_medium.jpg)
 *Um 1880 — Author: Carl Hertel | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Carl Hertel (1832-1906), Pferdetrambahn auf der Zeil von der Hauptwache kommend, Frankfurt, HMF.C29106, gemeinfrei*
 
-![Unbekannt, Pferdetrambahnen an der Hauptwache, Frankfurt 1895, HMF.C28203, gemeinfrei](../images/C28203+001_8c67308953cd27459cc35f9c540b2475_original.jpg)
+![Unbekannt, Pferdetrambahnen an der Hauptwache, Frankfurt 1895, HMF.C28203, gemeinfrei](../images/C28203+001_8c67308953cd27459cc35f9c540b2475_medium.jpg)
 *1895 — License: Gemeinfrei, HMF | Description: Unbekannt, Pferdetrambahnen an der Hauptwache, Frankfurt 1895, HMF.C28203, gemeinfrei*
 
 
 ## Gallery
 
-![Walter Schmidt, Haltestelle Hauptwache mit der Straßenbahnlinie 24 Richtung Oberursel, Frankfurt um 1913, HMF.C25939c, gemeinfrei](../images/C25939c_00_bc2d4c5b008d3b3249c256f00c683cac_original.jpg)
+![Walter Schmidt, Haltestelle Hauptwache mit der Straßenbahnlinie 24 Richtung Oberursel, Frankfurt um 1913, HMF.C25939c, gemeinfrei](../images/C25939c_00_bc2d4c5b008d3b3249c256f00c683cac_medium.jpg)
 *Um 1913 — Author: Walter Schmidt | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Walter Schmidt, Haltestelle Hauptwache mit der Straßenbahnlinie 24 Richtung Oberursel, Frankfurt um 1913, HMF.C25939c, gemeinfrei*
 
-![Unbekannt, Blick auf die Hauptwache mit Straßenbahnen, Frankfurt 1903, HMF.C30057, gemeinfrei](../images/C30057_001_f6b58e07e0bb6cd16a820fbd68d34fcc_original.jpg)
+![Unbekannt, Blick auf die Hauptwache mit Straßenbahnen, Frankfurt 1903, HMF.C30057, gemeinfrei](../images/C30057_001_f6b58e07e0bb6cd16a820fbd68d34fcc_medium.jpg)
 *1903 — License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Unbekannt, Blick auf die Hauptwache mit Straßenbahnen, Frankfurt 1903, HMF.C30057, gemeinfrei*
 
 
 ## Gallery
 
-![Hermann Nöller, U-Bahnbau an der Hauptwache, Frankfurt 1965, HMF.Ph05152, verwaist](../images/Ph05152+00_07d3cb225cd7edd1820740d6a1c7eda6_original.jpg)
+![Hermann Nöller, U-Bahnbau an der Hauptwache, Frankfurt 1965, HMF.Ph05152, verwaist](../images/Ph05152+00_07d3cb225cd7edd1820740d6a1c7eda6_medium.jpg)
 *1965 — Author: Hermann Nöller | License: Verwaist | Description: Hermann Nöller, U-Bahnbau an der Hauptwache, Frankfurt 1965, HMF.Ph05152, verwaist*
 
-![Kurt Weiner (1921-2016), Baugrube an der Hauptwache beim U-Bahn-Bau, Frankfurt 1960er Jahre, HMF.Ph05452, verwaist](../images/Ph05452+00_468084ec479da7aa3d7dd888fd9f8e4e_original.jpg)
+![Kurt Weiner (1921-2016), Baugrube an der Hauptwache beim U-Bahn-Bau, Frankfurt 1960er Jahre, HMF.Ph05452, verwaist](../images/Ph05452+00_468084ec479da7aa3d7dd888fd9f8e4e_medium.jpg)
 *1960er Jahre — Author: Kurt Weiner | License: verwaist | Description: Kurt Weiner (1921-2016), Baugrube an der Hauptwache beim U-Bahn-Bau, Frankfurt 1960er Jahre, HMF.Ph05452, verwaist*
 
 
 ## Gallery
 
-![Willy Keim, Einweihung der U-Bahn an der Hauptwache am 4. Oktober 1968, Frankfurt, HMF.Ph08367, roebild](../images/Ph08367_00_5524292af2cac026769803055368d92a_original.jpg)
+![Willy Keim, Einweihung der U-Bahn an der Hauptwache am 4. Oktober 1968, Frankfurt, HMF.Ph08367, roebild](../images/Ph08367_00_5524292af2cac026769803055368d92a_medium.jpg)
 *1968 — Author: Willy Keim | License: HMF, roebild; Foto: Horst Ziegenfusz | Description: Willy Keim, Einweihung der U-Bahn an der Hauptwache am 4. Oktober 1968, Frankfurt, HMF.Ph08367, roebild*
 

@@ -14,7 +14,7 @@ filters:
 
 *Großer Hirschgraben 21*
 
-![Cornelia Schlosser, geb. Goethe, Portraitzeichnung; Rötel und schwarze Kreide über Bleistift](../images/80231ceeb0dff0d6e1bf61db6f2207bf_original.jpg)
+![Cornelia Schlosser, geb. Goethe, Portraitzeichnung; Rötel und schwarze Kreide über Bleistift](../images/80231ceeb0dff0d6e1bf61db6f2207bf_medium.jpg)
 *circa 1770 — Author: Johann Ludwig Ernst Morgenstern | License: gemeinfrei | Description: Cornelia Schlosser, geb. Goethe, Portraitzeichnung; Rötel und schwarze Kreide über Bleistift*
 
 Cornelia Friederica Christiana Goethe wurde 1750, ein Jahr nach ihrem Bruder Johann Wolfgang, in Frankfurt geboren. Sie erhielt zunächst die gleiche bürgerliche Erziehung wie ihr Bruder. Studieren durfte sie nicht. Ihr geheimes „Tagebuch in Briefen“, in dem sie ihr Leben als Frau in der Frankfurter Gesellschaft lebendig und bisweilen deutlich kritisch schildert, ist eine ihrer wenigen überlieferten Schriften – von der umfangreichen Korrespondenz mit ihrem Bruder sind nur seine Briefe erhalten. Ihre hat Johann Wolfgang Goethe verbrannt.
@@ -26,7 +26,7 @@ Anlässlich ihres 250. Geburtstags nannte sich das Zentrum für Frauenstudien un
 
 ## Gallery
 
-![Cornelia Schlosser, geb. Goethe, Portraitzeichnung; Rötel und schwarze Kreide über Bleistift](../images/Cornelia S_6cf49537efd0f7630b695e86fe199599_original.jpg)
+![Cornelia Schlosser, geb. Goethe, Portraitzeichnung; Rötel und schwarze Kreide über Bleistift](../images/Cornelia S_6cf49537efd0f7630b695e86fe199599_medium.jpg)
 *circa 1770 — Author: Johann Ludwig Ernst Morgenstern | License: gemeinfrei | Description: Cornelia Schlosser, geb. Goethe, Portraitzeichnung; Rötel und schwarze Kreide über Bleistift*
 
 

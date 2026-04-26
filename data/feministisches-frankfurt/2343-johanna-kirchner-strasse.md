@@ -12,7 +12,7 @@ filters:
 
 *Straßennamen nach Frauen benannt*
 
-![Johanna Kirchner Straße](../images/2802c18371dd4d4d83d6120c5d3b338d_original.jpg)
+![Johanna Kirchner Straße](../images/2802c18371dd4d4d83d6120c5d3b338d_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Johanna Kirchner Straße*
 
 Diese Straße ist nach Johanna Kirchner benannt, die sich für sozial benachteiligte Menschen und für Freiheit einsetzte.
@@ -23,6 +23,6 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
-![Johanna Kirchner Straße](../images/Johanna Ki_59e0ff6c1cc8443811a135f7d69e752e_original.jpg)
+![Johanna Kirchner Straße](../images/Johanna Ki_59e0ff6c1cc8443811a135f7d69e752e_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Johanna Kirchner Straße*
 

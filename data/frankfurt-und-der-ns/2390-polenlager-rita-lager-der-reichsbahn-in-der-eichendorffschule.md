@@ -14,7 +14,7 @@ filters:
 
 *Waldschulstrasse 83*
 
-![Die Waldschule (späterer Name Eichendorffschule) im Eröffnungsjahr 1918](../images/e4c878e09b26949d6d283e5f30b30911_original.jpg)
+![Die Waldschule (späterer Name Eichendorffschule) im Eröffnungsjahr 1918](../images/e4c878e09b26949d6d283e5f30b30911_medium.jpg)
 *1918 — Author: Verlag Georg Emrich, Griesheim | License: Geschichtsverein Griesheim e.V. | Description: Die Waldschule (späterer Name Eichendorffschule) im Eröffnungsjahr 1918*
 
 Die Eichendorffschule auf der Waldschulstraße in Griesheim wurde ab 1914 erbaut und nach Ende des Ersten Weltkriegs 1918 als Volksschule unter dem Namen Waldschule eröffnet. Der Schulbau galt als sehr fortschrittlich: Es gab eine Lernküche, Sporteinrichtungen und einen hellen Zeichen- und Physiksaal. Als Griesheim 1928 zu Frankfurt eingemeindet wurde, erhielt die Schule ihren heutigen Namen Eichendorffschule. Kurz nach Kriegsbeginn wurde das Kellergeschoss der Schule 1939 und 1940 zu einer „Rettungsstelle für den Sicherheits- und Hilfsdienst“ des Luftschutzes ausgebaut. Die Deckenstruktur des Kellers wurde verstärkt und im Untergeschoss Duschen sowie weitere Toiletten installiert.
@@ -25,10 +25,10 @@ Doch als die Bombenangriffe auf Frankfurt 1943 und 1944 zunahmen, wurde die Mehr
 
 ## Gallery
 
-![Die Waldschule (späterer Name Eichendorffschule) im Eröffnungsjahr 1918](../images/Waldschule_b46dbae54964f3905e5267ae4c9a3c04_original.jpg)
+![Die Waldschule (späterer Name Eichendorffschule) im Eröffnungsjahr 1918](../images/Waldschule_b46dbae54964f3905e5267ae4c9a3c04_medium.jpg)
 *1918 — Author: Verlag Georg Emrich, Griesheim | License: Geschichtsverein Griesheim e.V. | Description: Die Waldschule (späterer Name Eichendorffschule) im Eröffnungsjahr 1918*
 
-![Die Eichendorffschule nach starken Luftangriffen im März 1944](../images/Eichendorf_44d2d1f2e40a3d0a07ee638471292b1c_original.jpg)
+![Die Eichendorffschule nach starken Luftangriffen im März 1944](../images/Eichendorf_44d2d1f2e40a3d0a07ee638471292b1c_medium.jpg)
 *1944 — Author: unbekannt | License: Geschichtsverein Griesheim e.V. | Description: Die Eichendorffschule nach starken Luftangriffen im März 1944*
 
 ![Essenskarte des polnischen Zwangsarbeiters Tadeusz Grąbal aus dem „Polenlager Rita“ in der Eichendorffschule aus März 1944](../images/Essensmark_d83a3ef2b646dd9a623af36f53685f4e_original.jpg)

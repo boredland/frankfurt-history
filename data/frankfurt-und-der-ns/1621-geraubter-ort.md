@@ -14,7 +14,7 @@ filters:
 
 *Bockenheimer Landstraße 8*
 
-![Bockenheimer Landstraße 8](../images/4874086c41d6601ccc815f20e11a72ad_original.jpg)
+![Bockenheimer Landstraße 8](../images/4874086c41d6601ccc815f20e11a72ad_medium.jpg)
 *ca. 1935 — License: ISG | Description: Bockenheimer Landstraße 8*
 
 Mit Kaufvertrag vom 11. Juni 1937 erwarb die Stadt das bebaute Grundstück von Freiherr M. von Rothschild. Der Kaufpreis betrug 190.000 Reichsmark. Die Liegenschaft war für das Kunststoffinstitut gedacht.
@@ -23,6 +23,6 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
-![Bockenheimer Landstraße 8](../images/Bockenheim_faf3aedc3ab678763e3ffd5c6f432987_original.jpg)
+![Bockenheimer Landstraße 8](../images/Bockenheim_faf3aedc3ab678763e3ffd5c6f432987_medium.jpg)
 *ca. 1935 — License: ISG | Description: Bockenheimer Landstraße 8*
 

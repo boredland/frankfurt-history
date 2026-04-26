@@ -14,7 +14,7 @@ filters:
 
 *Wilhelm-Leuschner-Straße 69–77*
 
-![Straßenansicht des Gewerkschaftshauses.](../images/cefa0661dfdcd4ff941881065c54cf2f_original.jpg)
+![Straßenansicht des Gewerkschaftshauses.](../images/cefa0661dfdcd4ff941881065c54cf2f_medium.jpg)
 *um 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Straßenansicht des Gewerkschaftshauses.*
 
 ## Interactive Before & After

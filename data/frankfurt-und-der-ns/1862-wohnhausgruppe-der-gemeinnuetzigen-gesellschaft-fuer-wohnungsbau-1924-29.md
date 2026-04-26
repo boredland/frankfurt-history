@@ -12,7 +12,7 @@ filters:
 
 *Gebäude von Fritz Epstein*
 
-![](../images/c3bfca2c30a0e09ab83e16b8cbae4b86_original.jpg)
+![](../images/c3bfca2c30a0e09ab83e16b8cbae4b86_medium.jpg)
 *2024 — License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 
 Wohnhausgruppe in der Ravensteinstraße 1-5 und 7-11. 1924 gründete Fritz Epstein mit seinem (Büro-)Kollegen Hans Schönbein die „Gemeinnützigen Gesellschaft für Wohnungsbau“, deren Ziel es war sich im (Neuen) Siedlungsbau in Frankfurt zu betätigen. Die Häusergruppe in der Ravensteinstraße wurde in den Jahren 1924-29 erbaut. 
@@ -27,7 +27,7 @@ Der Architekt Fritz Epstein hat in Frankfurt etwa 150 Gebäude geplant, gebaut o
 
 ## Gallery
 
-![](../images/20241212_B_59c5c264c0eee0d0ed92fdccab6b0d13_original.jpg)
+![](../images/20241212_B_59c5c264c0eee0d0ed92fdccab6b0d13_medium.jpg)
 *2024 — License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 
 

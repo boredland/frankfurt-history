@@ -15,7 +15,7 @@ filters:
 
 *Talstraße 107*
 
-![Foto eines Gebäude der Deutsche Carbone AG, die in der Talstraße 107 ein Zwangsarbeitslager betrieb](../images/e0b6711829b3b22f3d07d6f673ef36c1_original.jpg)
+![Foto eines Gebäude der Deutsche Carbone AG, die in der Talstraße 107 ein Zwangsarbeitslager betrieb](../images/e0b6711829b3b22f3d07d6f673ef36c1_medium.jpg)
 *ca. 1900 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29233 | Description: Foto eines Gebäude der Deutsche Carbone AG, die in der Talstraße 107 ein Zwangsarbeitslager betrieb*
 
 Kalbach war in der NS-Zeit ein kleines Dorf im Hochtaunuskreis und hatte zwischen 1939 und 1945 zahlreiche Kriegsgefangene und Zwangsarbeiter*innen aufzunehmen. Als größte Firma hatte sich die Kohlebürsten und Elemente-Fabrik Carbone AG unter ihrem Gründer und Direktor, Otto Adam Neumann, in der Talstraße 107 angesiedelt. Nach seiner Entlassung (1938) und Ermordung (1943 in Auschwitz) und der Besetzung Frankreichs durch die deutsche Wehrmacht wurde die französische Mutterfirma, Carbone-Lorrain in Gennevilliers zur Kooperation gezwungen.
@@ -34,10 +34,10 @@ Die von Carbone schon im November 1942 angeforderten 30 Ostarbeiterinnen kamen w
 
 ## Gallery
 
-![Foto eines Gebäude der Deutsche Carbone AG, die in der Talstraße 107 ein Zwangsarbeitslager betrieb](../images/e0b6711829b3b22f3d07d6f673ef36c1_original.jpg)
+![Foto eines Gebäude der Deutsche Carbone AG, die in der Talstraße 107 ein Zwangsarbeitslager betrieb](../images/e0b6711829b3b22f3d07d6f673ef36c1_medium.jpg)
 *ca. 1900 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29233 | Description: Foto eines Gebäude der Deutsche Carbone AG, die in der Talstraße 107 ein Zwangsarbeitslager betrieb*
 
-![Carbone Hauptgebäude in der Talstraße 112.](../images/ABB Hauptg_3b8b696881141edf633a7492092236e0_original.jpg)
+![Carbone Hauptgebäude in der Talstraße 112.](../images/ABB Hauptg_3b8b696881141edf633a7492092236e0_medium.jpg)
 *ca. 1950 — Author: Unbekannt | License: Fritz Koch, "Von Le Carbone AG bis zu Mersen Deutschland Ffm AG", Frankfurt/M 2013 . | Description: Carbone Hauptgebäude in der Talstraße 112.*
 
 
@@ -46,22 +46,22 @@ Die von Carbone schon im November 1942 angeforderten 30 Ostarbeiterinnen kamen w
 ![Carbone-Werbung aus den 1940er Jahren. Übersetzung des Französichen Werbeslogans: "Keine schlechten Zeiten mehr! Papa verdient Geld in Deutschland."](../images/Anwerbung__9c6d426e67398b9f3969463034ccf2f0_original.jpg)
 *o.D. — Author: Unbekannt | License: Fritz Koch, "Von Le Carbone AG bis zu Mersen Deutschland Ffm AG", Frankfurt/M 2013. | Description: Carbone-Werbung aus den 1940er Jahren. Übersetzung des Französichen Werbeslogans: "Keine schlechten Zeiten mehr! Papa verdient Geld in Deutschland."*
 
-![Carbone-Werbung für ein Radio-Heiz-Element.](../images/Carbone-We_485e0d9cd5dc8921d35799beae345c32_original.jpg)
+![Carbone-Werbung für ein Radio-Heiz-Element.](../images/Carbone-We_485e0d9cd5dc8921d35799beae345c32_medium.jpg)
 *o.D. — Author: Unbekannt | License: Fritz Koch, "Von Le Carbone AG bis zu Mersen Deutschland Ffm AG", Frankfurt/M 2013 . | Description: Carbone-Werbung für ein Radio-Heiz-Element.*
 
 
 ## Gallery
 
-![Wohn-Baracken für französische Arbeiter mit Blick auf das Carbone Werksgebäude.](../images/Talstraße_5bc6e5237aabb2dfd1fe52ea315abef5_original.jpg)
+![Wohn-Baracken für französische Arbeiter mit Blick auf das Carbone Werksgebäude.](../images/Talstraße_5bc6e5237aabb2dfd1fe52ea315abef5_medium.jpg)
 *Mai 2025 — Author: Christine Hartwig-Thürmer | License: gemeinfrei | Description: Wohn-Baracken für französische Arbeiter mit Blick auf das Carbone Werksgebäude.*
 
-![Wohn-Baracken für französische Arbeiter mit Blick auf das Carbone Werksgebäude, Rückseite.](../images/Talstraße_0f6a38a5d3c41897918a571e9f3c0c09_original.jpg)
+![Wohn-Baracken für französische Arbeiter mit Blick auf das Carbone Werksgebäude, Rückseite.](../images/Talstraße_0f6a38a5d3c41897918a571e9f3c0c09_medium.jpg)
 *Mai 2025 — Author: Christine Hartwig-Thürmer | License: gemeinfrei | Description: Wohn-Baracken für französische Arbeiter mit Blick auf das Carbone Werksgebäude, Rückseite.*
 
-![Eingang der Zwangsarbeiterbaracke. Über der Tür ist ein Schriftzug eingeritzt: "Erbaut im Kriegsjahr 1942".](../images/Talstraße_08490ef5ca87329651b84f2a94868109_original.jpg)
+![Eingang der Zwangsarbeiterbaracke. Über der Tür ist ein Schriftzug eingeritzt: "Erbaut im Kriegsjahr 1942".](../images/Talstraße_08490ef5ca87329651b84f2a94868109_medium.jpg)
 *Mai 2025 — Author: Christine Hartwig-Thürmer | License: gemeinfrei | Description: Eingang der Zwangsarbeiterbaracke. Über der Tür ist ein Schriftzug eingeritzt: "Erbaut im Kriegsjahr 1942".*
 
-![Eingang der Zwangsarbeiterbaracke. Über der Tür ist ein Schriftzug eingeritzt: "Erbaut im Kriegsjahr 1942".](../images/Talstraße_3e7d2b9ba5f74e396384c0b9dacdf593_original.jpg)
+![Eingang der Zwangsarbeiterbaracke. Über der Tür ist ein Schriftzug eingeritzt: "Erbaut im Kriegsjahr 1942".](../images/Talstraße_3e7d2b9ba5f74e396384c0b9dacdf593_medium.jpg)
 *Mai 2025 — Author: Christine Hartwig-Thürmer | License: gemeinfrei | Description: Eingang der Zwangsarbeiterbaracke. Über der Tür ist ein Schriftzug eingeritzt: "Erbaut im Kriegsjahr 1942".*
 
 

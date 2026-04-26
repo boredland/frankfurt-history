@@ -15,7 +15,7 @@ filters:
 
 *Stroofstraße 27*
 
-![<p>Foto eines Chemiewerks der I.G. Farben-Industrie AG; auf dem Werksgelände in der Stroofstraße in Griesheim befand sich ein Barackenlager</p>](../images/4776fa2871647976672aaa2f47f17a44_original.jpg)
+![<p>Foto eines Chemiewerks der I.G. Farben-Industrie AG; auf dem Werksgelände in der Stroofstraße in Griesheim befand sich ein Barackenlager</p>](../images/4776fa2871647976672aaa2f47f17a44_medium.jpg)
 *1927 — Author: Südwestdeutsche Luftverkehrs AG | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-22672 | Description: <p>Foto eines Chemiewerks der I.G. Farben-Industrie AG; auf dem Werksgelände in der Stroofstraße in Griesheim befand sich ein Barackenlager</p>*
 
 Das Griesheimer Werk der I.G. Farben war seinerzeit der größte Arbeitgeber im Stadtteil. Die Chemische Fabrik Griesheim wurde bereits 1856 gegründet und war 1925 eines der sechs Gründungsmitglieder der I.G. Farben. Ab August 1940 trafen 249 Belgier als erste Gruppe ausländischer Arbeiter im Werk ein. In den folgenden Monaten folgten Menschen aus der Slowakei, Italien, den Niederlanden, der Sowjetunion, Frankreich und Polen. Im Werk wurden französische Kriegsgefangene, italienische Militärinternierte sowie „Zivilarbeiter“ aus verschiedenen Ländern eingesetzt. Die Nationalsozialisten unterteilten sie je nach Herkunftsland in „Westarbeiter“ und „Ostarbeiter“. Sogenannte „Ostarbeiter“ wurden häufig schlechter behandelt als sogenannte „Westarbeiter“.
@@ -30,7 +30,7 @@ Bei Durchsicht der erhalten gebliebenen Kartei fällt auf, wie viele Zwangsarbei
 
 ## Gallery
 
-![<p>Foto eines Chemiewerks der I.G. Farben-Industrie AG; auf dem Werksgelände in der Stroofstraße in Griesheim befand sich ein Barackenlager</p>](../images/4776fa2871647976672aaa2f47f17a44_original.jpg)
+![<p>Foto eines Chemiewerks der I.G. Farben-Industrie AG; auf dem Werksgelände in der Stroofstraße in Griesheim befand sich ein Barackenlager</p>](../images/4776fa2871647976672aaa2f47f17a44_medium.jpg)
 *1927 — Author: Südwestdeutsche Luftverkehrs AG | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-22672 | Description: <p>Foto eines Chemiewerks der I.G. Farben-Industrie AG; auf dem Werksgelände in der Stroofstraße in Griesheim befand sich ein Barackenlager</p>*
 
 ![Fabrikausweis eines französischen Zwangsarbeiters der I.G. Farben in Griesheim. Archiv Höchst H0179390, Seite 630.](../images/Fabrikausw_ceb52885e75a29a1d8b7acfd83f189f0_original.jpg)

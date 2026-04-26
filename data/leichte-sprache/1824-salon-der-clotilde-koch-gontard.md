@@ -14,7 +14,7 @@ filters:
 
 *Am Salzhaus 1*
 
-![Foto: unbekannt, um 1908, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2348](../images/3d771131b7792ff9e5a9cf0e3220f560_original.jpg)
+![Foto: unbekannt, um 1908, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2348](../images/3d771131b7792ff9e5a9cf0e3220f560_medium.jpg)
 *um 1908 — Author: unbekannt | Description: Foto: unbekannt, um 1908, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2348*
 
 In diesem Haus hat Clotilde Koch-Gontard gelebt. 
@@ -42,6 +42,6 @@ In den Gesprächen ging es oft um die Rechte von Frauen.
 
 ## Gallery
 
-![Foto: unbekannt, um 1908, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2348](../images/LS_Salon d_ac59de20c6b3c28c295237072ee13e4f_original.jpg)
+![Foto: unbekannt, um 1908, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2348](../images/LS_Salon d_ac59de20c6b3c28c295237072ee13e4f_medium.jpg)
 *um 1908 — Author: unbekannt | Description: Foto: unbekannt, um 1908, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2348*
 

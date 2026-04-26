@@ -15,7 +15,7 @@ filters:
 
 *Mainzer Landstraße 27*
 
-![Zwangsarbeitslager, Mainzer Landstraße 27](../images/9f4bce829042560b794655b95f360dcf_original.jpg)
+![Zwangsarbeitslager, Mainzer Landstraße 27](../images/9f4bce829042560b794655b95f360dcf_medium.jpg)
 *1933 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-11192 | Description: Zwangsarbeitslager, Mainzer Landstraße 27*
 
 Am Blittersdorfplatz 29 (heute Mainzer Landstraße) hatte die Firma W. Schmidt-Diehler & Co., die im Bereich der Bauausführungen tätig war, ihren Sitz. Sie betrieb in der Fischerfeldstraße 13 und in der Rückertstraße 53 zwei Sammellager, zu denen keine näheren Angaben vorliegen.
@@ -24,7 +24,7 @@ Am Blittersdorfplatz 29 (heute Mainzer Landstraße) hatte die Firma W. Schmidt-D
 
 ## Gallery
 
-![Zwangsarbeitslager, Mainzer Landstraße 27](../images/9f4bce829042560b794655b95f360dcf_original.jpg)
+![Zwangsarbeitslager, Mainzer Landstraße 27](../images/9f4bce829042560b794655b95f360dcf_medium.jpg)
 *1933 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-11192 | Description: Zwangsarbeitslager, Mainzer Landstraße 27*
 
 

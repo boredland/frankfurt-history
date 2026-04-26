@@ -15,7 +15,7 @@ filters:
 
 *Große Gallusstraße 12*
 
-![Zwangsarbeitslager, Große Gallusstraße 12](../images/cfb2f7da785535c2f542f51c5b5257a9_original.jpg)
+![Zwangsarbeitslager, Große Gallusstraße 12](../images/cfb2f7da785535c2f542f51c5b5257a9_medium.jpg)
 *unbekannt — Author: Repro Schirg | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-8414 | Description: Zwangsarbeitslager, Große Gallusstraße 12*
 
 Die Deutsche Reichspost betrieb 1942/43 ein Zwangsarbeitslager in der Großen Gallusstraße 12. Drei weitere Zwangsarbeitslager befanden sich in der Gutleutstraße 36, in der Wurzelstraße/Ecke Gutleutstraße und an der Friedberger Warte/Gießener Straße. Im September 1942 wurden in diesem Lager 21 tschechische und 129 italienische Zwangsarbeiter gezählt. 1943 waren es eine Slowakin, 40 Menschen aus dem sogenannten Protektorat Böhmen und Mähren (heute: Tschechien), 31 Holländer und 98 Italiener. Insgesamt sollen hier laut dem Catalogue of Camps and Prisons (CCP) zwischen 1940 und 1945 rund 480 Menschen untergebracht gewesen sein. Zahlen wie diese gehen unter anderem auf die Unterlagen der Polizeireviere zurück, die dokumentierten, wie viele Menschen in welchem Lager waren.
@@ -24,7 +24,7 @@ Die Deutsche Reichspost betrieb 1942/43 ein Zwangsarbeitslager in der Großen Ga
 
 ## Gallery
 
-![Zwangsarbeitslager, Große Gallusstraße 12](../images/cfb2f7da785535c2f542f51c5b5257a9_original.jpg)
+![Zwangsarbeitslager, Große Gallusstraße 12](../images/cfb2f7da785535c2f542f51c5b5257a9_medium.jpg)
 *unbekannt — Author: Repro Schirg | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-8414 | Description: Zwangsarbeitslager, Große Gallusstraße 12*
 
 

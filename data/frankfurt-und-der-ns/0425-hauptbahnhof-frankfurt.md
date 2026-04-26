@@ -12,13 +12,13 @@ filters:
 
 *Am Hauptbahnhof*
 
-![<p>Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes<br /><span class="tab2"><br /></span></p>](../images/a1d39718701a7832716493eab9a26074_original.jpg)
+![<p>Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes<br /><span class="tab2"><br /></span></p>](../images/a1d39718701a7832716493eab9a26074_medium.jpg)
 *1937 — Author: Wolff & Tritschler | License: HMF Ph04243 | Description: <p>Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes<br /><span class="tab2"><br /></span></p>*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![<p>Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes<br /><span class="tab2"><br /></span></p>](../images/a1d39718701a7832716493eab9a26074_original.jpg)
+![<p>Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes<br /><span class="tab2"><br /></span></p>](../images/a1d39718701a7832716493eab9a26074_medium.jpg)
 *1937 — Author: Wolff & Tritschler | License: HMF Ph04243 | Description: <p>Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes<br /><span class="tab2"><br /></span></p>*
 

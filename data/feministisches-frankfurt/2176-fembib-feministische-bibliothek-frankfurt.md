@@ -35,7 +35,7 @@ Die feministische Bibliothek Frankfurt (Fembib) wird von einem kleinen ehrenamtl
 ![Entdecke die Fembib von innen.](../images/IMG_5824_j_f72f9fd08ff768b3f7fea038e88e56d8_original.jpg)
 *2024 — Author: Fembib Kollektiv | License: Fembib/Gemeinfrei | Description: Entdecke die Fembib von innen.*
 
-![So findest du die Fembib.](../images/FemBib_Weg_86a7d2ddd79570c80cdcc8925e06f1ea_original.jpg)
+![So findest du die Fembib.](../images/FemBib_Weg_86a7d2ddd79570c80cdcc8925e06f1ea_medium.jpg)
 *2024 — Author: Tabea Schubert | License: Tabea Schubert/Gemeinfrei | Description: So findest du die Fembib.*
 
 

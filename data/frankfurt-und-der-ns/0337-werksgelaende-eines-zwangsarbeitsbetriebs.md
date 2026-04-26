@@ -15,7 +15,7 @@ filters:
 
 *Gräfstraße 103*
 
-![Werksgelände eines Zwangsarbeitsbetriebs, Gräfstraße 103](../images/eca7e3564dbaec3a8df8cf356a36f584_original.jpg)
+![Werksgelände eines Zwangsarbeitsbetriebs, Gräfstraße 103](../images/eca7e3564dbaec3a8df8cf356a36f584_medium.jpg)
 *1920 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19962 | Description: Werksgelände eines Zwangsarbeitsbetriebs, Gräfstraße 103*
 
 1943 setzte die VDO Tachometer 110 sowjetische Kriegsgefangene in ihrem Werk in der Königsstraße 103 (heute Gräfstraße) ein, die im Forsthaus Biegwald untergebracht waren. Die VDO beschäftigte auch Zwangsarbeiter*innen aus Polen.
@@ -24,6 +24,6 @@ filters:
 
 ## Gallery
 
-![Werksgelände eines Zwangsarbeitsbetriebs, Gräfstraße 103](../images/eca7e3564dbaec3a8df8cf356a36f584_original.jpg)
+![Werksgelände eines Zwangsarbeitsbetriebs, Gräfstraße 103](../images/eca7e3564dbaec3a8df8cf356a36f584_medium.jpg)
 *1920 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19962 | Description: Werksgelände eines Zwangsarbeitsbetriebs, Gräfstraße 103*
 

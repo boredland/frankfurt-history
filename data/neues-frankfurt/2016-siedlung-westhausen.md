@@ -14,7 +14,7 @@ filters:
 
 *Ludwig-Landmann-Straße 208*
 
-![Luftaufnahme der Siedlung Westhausen.](../images/245cbcf411e8bfad01b87d3644553dd8_original.jpg)
+![Luftaufnahme der Siedlung Westhausen.](../images/245cbcf411e8bfad01b87d3644553dd8_medium.jpg)
 *um 1932 — Author: Unbekannt | License: Privat | Description: Luftaufnahme der Siedlung Westhausen.*
 
 Westhausen entstand während der Weltwirtschaftskrise und ist eine der letzten realisierten Siedlungen des Neuen Frankfurt. Sie bietet Wohnraum für Menschen am Existenzminimum und besteht aus 450 Reihenhäusern in strenger Nord-Süd-Ausrichtung sowie neun quer angeordneten, viergeschossigen Außenganghäusern. Die strenge Serialität der Gesamtanlange bleibt ungebrochen, da weder Häuser versetzt noch Straßen geschwungen angelegt sind. Obwohl die Siedlung Teil der Niddatalbebauung ist, fehlt ihr ein städtebaulicher Bezug zum Fluss. Die von Ferdinand Kramer und Eugen Blanck entworfenen Außenganghäuser stehen mit ihren offenen Treppenhäusern und Laubengängen für einen kostensparenden Ansatz. Kramers Zentralwäscherei mit hohem Kamin bildet das einzige markante Element in der sonst gleichförmigen, bereits auf den Stil der 1950er Jahre vorausweisenden Siedlung.
@@ -37,6 +37,6 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
-![Luftaufnahme der Siedlung Westhausen.](../images/Westhausen_5394e750f784cf2505e3d4273fc7a791_original.jpg)
+![Luftaufnahme der Siedlung Westhausen.](../images/Westhausen_5394e750f784cf2505e3d4273fc7a791_medium.jpg)
 *um 1932 — Author: Unbekannt | License: Privat | Description: Luftaufnahme der Siedlung Westhausen.*
 

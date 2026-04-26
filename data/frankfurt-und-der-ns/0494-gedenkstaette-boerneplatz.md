@@ -14,7 +14,7 @@ filters:
 
 *Battonnstraße 47*
 
-![Gedenkstätte Börneplatz](../images/e0b4f881ba21d35e11ce265fff830730_original.jpg)
+![Gedenkstätte Börneplatz](../images/e0b4f881ba21d35e11ce265fff830730_medium.jpg)
 *Author: Norbert Miguletz | Description: Gedenkstätte Börneplatz*
 
 11.908 Namen, 11.908 Schicksale: Die Gedenkstätte Börneplatz erinnert an die im Nationalsozialismus vernichtete Jüdische Gemeinde Frankfurts. Sie liegt in der östlichen Innenstadt zwischen dem ältesten jüdischen Friedhof Frankfurts und der Rückseite des Gebäudes, in dem auch das Museum Judengasse untergebracht ist.
@@ -26,7 +26,7 @@ filters:
 
 ## Gallery
 
-![Gedenkstätte Börneplatz](../images/e0b4f881ba21d35e11ce265fff830730_original.jpg)
+![Gedenkstätte Börneplatz](../images/e0b4f881ba21d35e11ce265fff830730_medium.jpg)
 *Author: Norbert Miguletz | Description: Gedenkstätte Börneplatz*
 
 

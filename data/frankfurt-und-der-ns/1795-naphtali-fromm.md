@@ -14,7 +14,7 @@ filters:
 
 Reise in die Vergangenheit: Jüdisches Leben im Westend vor 100 Jahren
 
-![Liebigstraße 27 (heute): Haus von Naphtali Fromm](../images/73249f351f0e0bb0cda3aa87a99042db_original.jpg)
+![Liebigstraße 27 (heute): Haus von Naphtali Fromm](../images/73249f351f0e0bb0cda3aa87a99042db_medium.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Liebigstraße 27 (heute): Haus von Naphtali Fromm*
 
 Hier im zweiten Stock hat Naphtali Fromm mit seiner Familie gewohnt. Lange Zeit war er Synagogenvorsteher in der Synagoge Unterlindau 23.
@@ -26,7 +26,7 @@ Naphtali Fromm setzte sich immer sehr stark für seine Religion ein. 1919 war er
 
 ## Gallery
 
-![Liebigstraße 27 (heute): Haus von Naphtali Fromm](../images/Liebigstra_99707515cc8c2907a4581467213ab238_original.jpg)
+![Liebigstraße 27 (heute): Haus von Naphtali Fromm](../images/Liebigstra_99707515cc8c2907a4581467213ab238_medium.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Liebigstraße 27 (heute): Haus von Naphtali Fromm*
 
 

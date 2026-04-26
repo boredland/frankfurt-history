@@ -26,22 +26,22 @@ Ab 1860 musste der Junghof einem Straßendurchbruch zwischen dem Rossmarkt und d
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Der Junghof, Vogelschauansicht von Westen nach Osten, 1862, aquarellierte Bleistiftzeichnung, HMF R0148</p>](../images/R0148_png_47c9fefb51f3677c4a351a6d6d586c50_original.jpg)
+![<p>Carl Theodor Reiffenstein, Der Junghof, Vogelschauansicht von Westen nach Osten, 1862, aquarellierte Bleistiftzeichnung, HMF R0148</p>](../images/R0148_png_47c9fefb51f3677c4a351a6d6d586c50_medium.jpg)
 *1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Der Junghof, Vogelschauansicht von Westen nach Osten, 1862, aquarellierte Bleistiftzeichnung, HMF R0148</p>*
 
-![<p>Carl Theodor Reiffenstein, Haupteingang zum Junghof, vom Rossmarkt gesehen, 1860/1862, aquarellierte Bleistiftzeichnung, HMF R0138</p>](../images/R0138_png_879519b8b24c083dff2ddb37b9a51df0_original.jpg)
+![<p>Carl Theodor Reiffenstein, Haupteingang zum Junghof, vom Rossmarkt gesehen, 1860/1862, aquarellierte Bleistiftzeichnung, HMF R0138</p>](../images/R0138_png_879519b8b24c083dff2ddb37b9a51df0_medium.jpg)
 *1860/1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Haupteingang zum Junghof, vom Rossmarkt gesehen, 1860/1862, aquarellierte Bleistiftzeichnung, HMF R0138</p>*
 
-![<p>Carl Theodor Reiffenstein, Junghof, Haupteingang von innen gesehen, 1860, aquarellierte Bleistiftzeichnung, HMF R0140</p>](../images/R0140_png_48148dacbdbdb436fad29a4207170d58_original.jpg)
+![<p>Carl Theodor Reiffenstein, Junghof, Haupteingang von innen gesehen, 1860, aquarellierte Bleistiftzeichnung, HMF R0140</p>](../images/R0140_png_48148dacbdbdb436fad29a4207170d58_medium.jpg)
 *1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Junghof, Haupteingang von innen gesehen, 1860, aquarellierte Bleistiftzeichnung, HMF R0140</p>*
 
-![<p>Carl Theodor Reiffenstein, Der Junghof von Innen, 1878, Aquarell, HMF B0853</p>](../images/B0853_png_71b123b5e54b581982bf2bbaae094bcf_original.jpg)
+![<p>Carl Theodor Reiffenstein, Der Junghof von Innen, 1878, Aquarell, HMF B0853</p>](../images/B0853_png_71b123b5e54b581982bf2bbaae094bcf_medium.jpg)
 *1878 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Der Junghof von Innen, 1878, Aquarell, HMF B0853</p>*
 
-![<p>Carl Theodor Reiffenstein, Junghof, Innenansicht des alten Theaters (abgebrochen 1860), 1872, Gouache, HMF C09302</p>](../images/C09302_png_3f2f07553a6443ac6537715cc129ba21_original.jpg)
+![<p>Carl Theodor Reiffenstein, Junghof, Innenansicht des alten Theaters (abgebrochen 1860), 1872, Gouache, HMF C09302</p>](../images/C09302_png_3f2f07553a6443ac6537715cc129ba21_medium.jpg)
 *1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Junghof, Innenansicht des alten Theaters (abgebrochen 1860), 1872, Gouache, HMF C09302</p>*
 
-![<p>Rudolf Heinrich Burnitz, Saalbau, Junghofstraße, aquarellierte Federzeichnung, 1859-1860, HMF C60600,27</p>](../images/C60600,27__ad99be277e0593c445c4e22552f7dea6_original.jpg)
+![<p>Rudolf Heinrich Burnitz, Saalbau, Junghofstraße, aquarellierte Federzeichnung, 1859-1860, HMF C60600,27</p>](../images/C60600,27__ad99be277e0593c445c4e22552f7dea6_medium.jpg)
 *1859-1860 — Author: Rudolf Heinrich Burnitz | License: HMF | Description: <p>Rudolf Heinrich Burnitz, Saalbau, Junghofstraße, aquarellierte Federzeichnung, 1859-1860, HMF C60600,27</p>*
 
 

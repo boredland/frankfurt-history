@@ -15,7 +15,7 @@ filters:
 
 *Lahnstraße 60*
 
-![Zwangsarbeitsbetrieb, Lahnstraße 60](../images/ef84134cf98d09ba93673eb5a96addd6_original.jpg)
+![Zwangsarbeitsbetrieb, Lahnstraße 60](../images/ef84134cf98d09ba93673eb5a96addd6_medium.jpg)
 *1914 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29221 | Description: Zwangsarbeitsbetrieb, Lahnstraße 60*
 
 Die Beleuchtungskörperfabrik Bünte & Remmler profitierte im Nationalsozialismus von Zwangsarbeit. 1943 waren dem Institut für Stadtgeschichte zufolge hier 51 Zwangsarbeiter*innen aus Russland beschäftigt, vier aus Frankreich und auch 129 aus Deutschland. Der Großteil waren Frauen. Wo sie untergebracht waren, ist bislang unbekannt.
@@ -24,7 +24,7 @@ Die Beleuchtungskörperfabrik Bünte & Remmler profitierte im Nationalsozialismu
 
 ## Gallery
 
-![Zwangsarbeitsbetrieb, Lahnstraße 60](../images/ef84134cf98d09ba93673eb5a96addd6_original.jpg)
+![Zwangsarbeitsbetrieb, Lahnstraße 60](../images/ef84134cf98d09ba93673eb5a96addd6_medium.jpg)
 *1914 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29221 | Description: Zwangsarbeitsbetrieb, Lahnstraße 60*
 
 

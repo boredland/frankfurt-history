@@ -15,7 +15,7 @@ filters:
 
 *Alt Bornheim 10*
 
-![Zwangsarbeitslager, Alt Bornheim 10](../images/4d7e454f32fd002e88a92c35720d4492_original.jpg)
+![Zwangsarbeitslager, Alt Bornheim 10](../images/4d7e454f32fd002e88a92c35720d4492_medium.jpg)
 *vor 1941 — Author: Otto Emmel | License: HMF, Ph21065 | Description: Zwangsarbeitslager, Alt Bornheim 10*
 
 An dieser Stelle ist ein Lager für ukrainische Zwangsarbeiter*innen verzeichnet, die für die Großkelterei Goldquell – Adam Rackles arbeiten mussten.
@@ -24,7 +24,7 @@ An dieser Stelle ist ein Lager für ukrainische Zwangsarbeiter*innen verzeichnet
 
 ## Gallery
 
-![Zwangsarbeitslager, Alt Bornheim 10](../images/4d7e454f32fd002e88a92c35720d4492_original.jpg)
+![Zwangsarbeitslager, Alt Bornheim 10](../images/4d7e454f32fd002e88a92c35720d4492_medium.jpg)
 *vor 1941 — Author: Otto Emmel | License: HMF, Ph21065 | Description: Zwangsarbeitslager, Alt Bornheim 10*
 
 

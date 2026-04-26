@@ -14,7 +14,7 @@ filters:
 
 *Bockenheimer Landstraße 104*
 
-![](../images/256d216a2078bb3fe439a7a43d44f3e0_original.jpg)
+![](../images/256d216a2078bb3fe439a7a43d44f3e0_medium.jpg)
 
 Jehovas Zeugen gehörten viele Jahre zu den „vergessenen Opfern“ und fanden kaum Erwähnung. Wir möchten die Frankfurter Opfer aus der Vergessenheit holen. Seit 1997 wird an die Frankfurter Zeugen Jehovas erinnert, die unter dem NS-Regime wegen ihrer christlichen Überzeugung gelitten haben. Durch ehrenamtliche Tätigkeit wird in den Archiven und Gedenkstätten das Erlebte der Opfer aufgearbeitet.
 
@@ -24,7 +24,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
-![<p>Stolperstein für Elisabeth Schäfer</p>](../images/Elisabeth _a3fce4e1455909ecd6e99e2cbba66a3e_original.jpg)
+![<p>Stolperstein für Elisabeth Schäfer</p>](../images/Elisabeth _a3fce4e1455909ecd6e99e2cbba66a3e_medium.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein für Elisabeth Schäfer</p>*
 
 

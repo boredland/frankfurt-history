@@ -15,14 +15,14 @@ filters:
 
 *Friedensstraße 9*
 
-![Bildpostkarte mit dem Kaiserplatz, der Friedensstraße und der Kaiserstraße](../images/2235017e704959f960d9393355651425_original.jpg)
+![Bildpostkarte mit dem Kaiserplatz, der Friedensstraße und der Kaiserstraße](../images/2235017e704959f960d9393355651425_medium.jpg)
 *um 1900 — Author: Unbekannt | License: HMF, Sammlung Church, C80370 | Description: Bildpostkarte mit dem Kaiserplatz, der Friedensstraße und der Kaiserstraße*
 
 Die Maschinen- und Armaturenfabrik Alfred Teves setzte in ihren Werken in Bonames und Fechenheim mehrere hundert Zwangsarbeiter*innen ein. Dazu zählten neben Zivilarbeiter*innen auch Kriegsgefangene. Diese waren in mehreren Lagern untergebracht, von denen sich eines hier in der Friedensstraße 9 im Kaffee Messing befand.
 
 ## Gallery
 
-![Bildpostkarte mit dem Kaiserplatz, der Friedensstraße und der Kaiserstraße](../images/2235017e704959f960d9393355651425_original.jpg)
+![Bildpostkarte mit dem Kaiserplatz, der Friedensstraße und der Kaiserstraße](../images/2235017e704959f960d9393355651425_medium.jpg)
 *um 1900 — Author: Unbekannt | License: HMF, Sammlung Church, C80370 | Description: Bildpostkarte mit dem Kaiserplatz, der Friedensstraße und der Kaiserstraße*
 
 

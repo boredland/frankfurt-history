@@ -16,7 +16,7 @@ filters:
 
 *Neue Mainzer Straße 43-45*
 
-![<p>Foto des Finanzamt Frankfurt-Außenbezirk</p>](../images/10c039e32296fdc3a0f43d81aa296592_original.jpg)
+![<p>Foto des Finanzamt Frankfurt-Außenbezirk</p>](../images/10c039e32296fdc3a0f43d81aa296592_medium.jpg)
 *1944 — Author: Max Göllner | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 2004-18 | Description: <p>Foto des Finanzamt Frankfurt-Außenbezirk</p>*
 
 Die Finanzämter Frankfurt-Ost und -West hatten hier ihren Sitz. Wie alle Finanzämter arbeiteten sie daran mit, als jüdisch Verfolgte wirtschaftlich zu benachteiligen und sie schlussendlich ihrer finanziellen Mittel vollständig zu berauben. Möglich war dies beispielsweise durch die sogenannte Reichsfluchtsteuer, die Auswanderungswillige seit 1931 zahlen mussten. Dieses Gesetz war von der Regierung unter Reichskanzler Heinrich Brüning erlassen worden und betraf in erster Linie Personen, die vermögend waren oder viel verdienten. Doch die Nationalsozialist*innen setzten den Freibetrag im Mai 1934 so weit herunter, dass selbst Bürger*innen aus der Mittelschicht diese Zwangsabgabe von 25 Prozent ihres Vermögens und Einkommens entrichten mussten. Das übrige Geld konnte nur unter großen Verlusten bei der Deutschen Golddiskontbank in ausländische Währung umgetauscht werden. Die Reichsfluchtsteuer war eine der wichtigsten Einnahmequellen des nationalsozialistischen Regimes. 
@@ -30,6 +30,6 @@ Die Finanzämter Frankfurt-Ost und -West hatten hier ihren Sitz. Wie alle Finanz
 
 ## Gallery
 
-![<p>Foto des Finanzamt Frankfurt-Außenbezirk</p>](../images/10c039e32296fdc3a0f43d81aa296592_original.jpg)
+![<p>Foto des Finanzamt Frankfurt-Außenbezirk</p>](../images/10c039e32296fdc3a0f43d81aa296592_medium.jpg)
 *1944 — Author: Max Göllner | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 2004-18 | Description: <p>Foto des Finanzamt Frankfurt-Außenbezirk</p>*
 

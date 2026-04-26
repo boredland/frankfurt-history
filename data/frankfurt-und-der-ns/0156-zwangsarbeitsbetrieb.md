@@ -15,7 +15,7 @@ filters:
 
 *Wendelsweg 64*
 
-![Zwangsarbeitsbetrieb, Wendelsweg 64](../images/3bccbf47f9b782876394da9e9b5f83b7_original.jpg)
+![Zwangsarbeitsbetrieb, Wendelsweg 64](../images/3bccbf47f9b782876394da9e9b5f83b7_medium.jpg)
 *ca. 1900 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29407 | Description: Zwangsarbeitsbetrieb, Wendelsweg 64*
 
 Die Firma Henninger Bräu AG mit Sitz am Wendelsweg 64 beschäftigte Zwangsarbeiter*innen. Im Jahr 1942 waren zehn Polinnen, vier Polen, ein Ukrainer, ein Franzose, drei Belgier und ein Holländer registriert. 1943 waren es zwei Russen, 17 Ukrainerinnen, zwei Ukrainer, vier Polinnen, zehn Polen, fünf Litauerinnen und fünf Litauer. Wo sie einquartiert waren, ist nicht bekannt. Man weiß allerdings, dass die Firma im August 1943 zwei Zwangsarbeiter aus Westeuropa in einem Gemeinschaftslager in der Allerheiligenstraße 26 unterbrachte.
@@ -24,7 +24,7 @@ Die Firma Henninger Bräu AG mit Sitz am Wendelsweg 64 beschäftigte Zwangsarbei
 
 ## Gallery
 
-![Zwangsarbeitsbetrieb, Wendelsweg 64](../images/3bccbf47f9b782876394da9e9b5f83b7_original.jpg)
+![Zwangsarbeitsbetrieb, Wendelsweg 64](../images/3bccbf47f9b782876394da9e9b5f83b7_medium.jpg)
 *ca. 1900 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29407 | Description: Zwangsarbeitsbetrieb, Wendelsweg 64*
 
 

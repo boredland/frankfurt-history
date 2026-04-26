@@ -15,7 +15,7 @@ filters:
 
 *Wielandstraße 33*
 
-![Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Nordend](../images/5f67e16346f0b7ce686fd74b83616ca1_original.jpg)
+![Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Nordend](../images/5f67e16346f0b7ce686fd74b83616ca1_medium.jpg)
 *1934 — Author: H. Collischonn | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 2003-29 | Description: Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Nordend*
 
 In der Günthersburgallee (Nummer unbekannt) hatte die NSDAP Ortsgruppe Nordend vor 1933 und der Frauenschaft der NSDAP ihren Sitz.
@@ -28,6 +28,6 @@ Die Ortsgruppen waren der Kreisleitung untergeordnet und für etwa 1.500 Haushal
 
 ## Gallery
 
-![Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Nordend](../images/5f67e16346f0b7ce686fd74b83616ca1_original.jpg)
+![Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Nordend](../images/5f67e16346f0b7ce686fd74b83616ca1_medium.jpg)
 *1934 — Author: H. Collischonn | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 2003-29 | Description: Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Nordend*
 

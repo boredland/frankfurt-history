@@ -16,7 +16,7 @@ filters:
 
 Reiffensteins Frankfurt<br />(1820-1893)
 
-![](../images/e887a59248baa2c3d2d177a21ba26ec5_original.png)
+![](../images/e887a59248baa2c3d2d177a21ba26ec5_medium.png)
 
 Der Kölner Händler Johann von Melem (1433-1484) baute 1464 das Haus Bornfleck. Weil es im Gegensatz zu den umliegenden Holzhäusern aus Stein gefertigt war, erhielt es den Namen Steinernes Haus. Über dem spitzbogigen Tor befindet sich noch heute das Wappen der Familie von Melem. Ihr Wappentier verlieh dem Haus einen dritten Namen: Roter Krebs. Als das Gebäude 1506 brannte, war es das Zunfthaus der Kürschnerei – dieses Handwerk verarbeitet Tierfelle zu Pelzen.
 
@@ -28,13 +28,13 @@ Nach dem Zweiten Weltkrieg wurde das Haus wiederaufgebaut. Seit 1962 beheimatet 
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Steinernes Haus, 1845, Aquarell, HMF C16226</p>](../images/C16226_png_dc2f16036b1f0592287739c084166ad9_original.jpg)
+![<p>Carl Theodor Reiffenstein, Steinernes Haus, 1845, Aquarell, HMF C16226</p>](../images/C16226_png_dc2f16036b1f0592287739c084166ad9_medium.jpg)
 *1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Steinernes Haus, 1845, Aquarell, HMF C16226</p>*
 
-![<p>Carl Theodor Reiffenstein, Steinernes Haus, Torbogen, 1856, aquarellierte Bleistiftzeichnung, HMF R0427</p>](../images/R0427_png_c56e09b16d0fe84a7170950930251135_original.jpg)
+![<p>Carl Theodor Reiffenstein, Steinernes Haus, Torbogen, 1856, aquarellierte Bleistiftzeichnung, HMF R0427</p>](../images/R0427_png_c56e09b16d0fe84a7170950930251135_medium.jpg)
 *1856 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Steinernes Haus, Torbogen, 1856, aquarellierte Bleistiftzeichnung, HMF R0427</p>*
 
-![<p>Carl Theodor Reiffenstein, Steinernes Haus, Saal im 1. Stock mit Kamin, 1849, aquarellierte Bleistiftzeichnung, HMF R0423</p>](../images/R0423_png_02619d99dcdcacc78aad59a028494897_original.jpg)
+![<p>Carl Theodor Reiffenstein, Steinernes Haus, Saal im 1. Stock mit Kamin, 1849, aquarellierte Bleistiftzeichnung, HMF R0423</p>](../images/R0423_png_02619d99dcdcacc78aad59a028494897_medium.jpg)
 *1849 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Steinernes Haus, Saal im 1. Stock mit Kamin, 1849, aquarellierte Bleistiftzeichnung, HMF R0423</p>*
 
 

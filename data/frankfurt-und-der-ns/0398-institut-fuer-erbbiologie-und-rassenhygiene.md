@@ -12,13 +12,13 @@ filters:
 
 *Gartenstraße 140*
 
-![Außenansicht des Institut für Erbbiologie und Rassenhygiene](../images/130eb3e62814dad808af4a7c64d61e96_original.jpg)
+![Außenansicht des Institut für Erbbiologie und Rassenhygiene](../images/130eb3e62814dad808af4a7c64d61e96_medium.jpg)
 *1936 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-131 | Description: Außenansicht des Institut für Erbbiologie und Rassenhygiene*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![Außenansicht des Institut für Erbbiologie und Rassenhygiene](../images/130eb3e62814dad808af4a7c64d61e96_original.jpg)
+![Außenansicht des Institut für Erbbiologie und Rassenhygiene](../images/130eb3e62814dad808af4a7c64d61e96_medium.jpg)
 *1936 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-131 | Description: Außenansicht des Institut für Erbbiologie und Rassenhygiene*
 

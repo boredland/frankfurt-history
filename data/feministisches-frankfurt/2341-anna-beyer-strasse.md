@@ -12,7 +12,7 @@ filters:
 
 *Straßennamen nach Frauen benannt*
 
-![Anna Beyer Straße](../images/526a6646dc863b93bdb190c4a2e74bbf_original.jpg)
+![Anna Beyer Straße](../images/526a6646dc863b93bdb190c4a2e74bbf_medium.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Anna Beyer Straße*
 
 Diese Straße ist nach Anna Beyer benannt, die sich im Widerstand gegen den Nationalsozialismus engagierte und eine vegetarische Gaststätte gründete, um den Widerstand finanziell zu unterstützen.
@@ -23,6 +23,6 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
-![Anna Beyer Straße](../images/Anna Beyer_afeddb68b44aa8bf3f3bfc797034a15b_original.jpg)
+![Anna Beyer Straße](../images/Anna Beyer_afeddb68b44aa8bf3f3bfc797034a15b_medium.jpg)
 *20235 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Anna Beyer Straße*
 

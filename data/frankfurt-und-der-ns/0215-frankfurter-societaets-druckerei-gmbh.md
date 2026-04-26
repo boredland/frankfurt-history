@@ -15,7 +15,7 @@ filters:
 
 *Große Eschenheimer Straße 31-37*
 
-![Foto der Frankfurter Societäts-Druckerei GmbH](../images/296bb0c9964148c5dd36b8ef77428679_original.jpg)
+![Foto der Frankfurter Societäts-Druckerei GmbH](../images/296bb0c9964148c5dd36b8ef77428679_medium.jpg)
 *ca. 1940 — Author: Christian | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-8334 | Description: Foto der Frankfurter Societäts-Druckerei GmbH*
 
 Hier befand sich der Sitz der Frankfurter Societäts-Druckerei GmbH. Sie war 1860 von Leopold Sonnemann gegründet worden. Seine Enkel, die Brüder Kurt und Heinrich Simon, führten das Lebenswerk ihres Großvaters mit großem Elan weiter. Unter ihrer Leitung kamen die traditionsreiche Druckerei und ihr Flaggschiff, die „Frankfurter Zeitung“, zu internationalem Ansehen. Während Heinrich Simon die Redaktionskonferenz der Zeitung leitete, übernahm der promovierte Jurist Kurt Simon die kaufmännische Geschäftsführung. Im Sommer 1929 schied Kurt Simon aus der Geschäftsführung aus und wechselte in den Aufsichtsrat der Societäts-Druckerei. Kurt Simon war nicht nur ein wohlhabender Verleger und Geschäftsmann, er war auch als Kunstkenner und Münzsammler bekannt. Nach der Machtübernahme von Adolf Hitler am 30. Januar 1933 änderte sich Kurt Simons Leben grundlegend: Er war zwar Protestant, wurde aber ab 1933 als Jude und sogenannter Nichtarier verfolgt. Im Frühjahr 1933 wurde er von der „Abteilung für Arisierung für Unternehmen“ der Reichskanzlei in Berlin vorgeladen. Die Beamten forderten ihn auf, seine Beteiligungen an der „Frankfurter Zeitung” aufzugeben. Sollte er sich weigern, würde man die Zeitung schließen und alle Angestellten entlassen. Der immense politische Druck zwang die Familie Simon 1933 schließlich dazu, ihre Anteile an der „Frankfurter Zeitung” und der Frankfurter Societäts-Druckerei GmbH aufzugeben. Durch die Enteignung verlor Kurt Simon alle seine Ämter und seinen Lebensunterhalt. Sein berufliches und soziales Umfeld war zerstört. Seine Kollegen im Aufsichtsrat der Societäts-Druckerei reagierten bestürzt und sicherten ihm ihre volle Loyalität zu. 1943 veranlassten die Nationalsozialisten, dass die „Frankfurter Zeitung“ eingestellt wurde.
@@ -26,7 +26,7 @@ Hier befand sich der Sitz der Frankfurter Societäts-Druckerei GmbH. Sie war 186
 
 ## Gallery
 
-![Foto der Frankfurter Societäts-Druckerei GmbH](../images/296bb0c9964148c5dd36b8ef77428679_original.jpg)
+![Foto der Frankfurter Societäts-Druckerei GmbH](../images/296bb0c9964148c5dd36b8ef77428679_medium.jpg)
 *ca. 1940 — Author: Christian | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-8334 | Description: Foto der Frankfurter Societäts-Druckerei GmbH*
 
 

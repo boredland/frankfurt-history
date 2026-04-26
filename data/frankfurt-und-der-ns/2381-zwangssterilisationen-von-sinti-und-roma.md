@@ -14,7 +14,7 @@ filters:
 
 *Universitätsinstitut für Erbbiologie und Rassenhygiene*
 
-![Außenansicht des Institut für Erbbiologie und Rassenhygiene](../images/8dda0eeac18da8e04119e445464dbb69_original.jpg)
+![Außenansicht des Institut für Erbbiologie und Rassenhygiene](../images/8dda0eeac18da8e04119e445464dbb69_medium.jpg)
 *1936 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-131 | Description: Außenansicht des Institut für Erbbiologie und Rassenhygiene*
 
 Bereits am 14. Juli 1933 wurde im nationalsozialistischen Deutschland das „Gesetz zur Verhütung erbkranken Nachwuchses“ verabschiedet, das am 1. Januar 1934 in Kraft trat. Es zielte auf die sogenannte „rassehygienische Reinheit“ des deutschen Volkes und bildete eine Grundlage zur Verfolgung von Menschen, die als „erbkrank“ und in der NS-Logik als „minderwertig“ oder „gemeinschaftsunfähig“ galten. Es ermöglichte, Personen zwangsweise zu sterilisieren, darunter auch Jüdinnen und Juden und Sinti und Roma. Werner Fischer-Defoy, Leiter des städtischen Fürsorge- und des Gesundheitsamtes forderte bereits in einem Lagebericht vom April 1934, alle „Zigeuner“ einer Erbbegutachtungsstelle zuzuführen. Dort sollte die Möglichkeit der Zwangssterilisation geprüft werden. 
@@ -29,7 +29,7 @@ Zwischen 1933 und 1945 wurden im Deutschen Reich etwa 400.000 Menschen zwangsste
 
 ## Gallery
 
-![Außenansicht des Institut für Erbbiologie und Rassenhygiene](../images/130eb3e62814dad808af4a7c64d61e96_original.jpg)
+![Außenansicht des Institut für Erbbiologie und Rassenhygiene](../images/130eb3e62814dad808af4a7c64d61e96_medium.jpg)
 *1936 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-131 | Description: Außenansicht des Institut für Erbbiologie und Rassenhygiene*
 
 

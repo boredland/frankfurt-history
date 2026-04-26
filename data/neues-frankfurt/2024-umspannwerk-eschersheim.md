@@ -14,7 +14,7 @@ filters:
 
 *Thielenstraße 21*
 
-![Umspannwerk Eschersheim](../images/0159d503f20bd60279207f421c27b0a3_original.jpg)
+![Umspannwerk Eschersheim](../images/0159d503f20bd60279207f421c27b0a3_medium.jpg)
 *um 1930 — Author: Unbekannt | License: Max Cetto-Archiv, Deutsches Architekturmuseum, Frankfurt am Main | Description: Umspannwerk Eschersheim*
 
 Nach Krieg und Inflation nahm ab 1925 der Strombedarf von Haushalten, Gewerbe und Industrie sowie dem öffentlichen Nahverkehr in Form der Straßenbahn deutlich zu. Dies erforderte den Ausbau der städtischen Infrastruktur, die Anpassung des Stromverteilernetzes an ein überregionales System und die Erhöhung der Stromspannung. Daher errichtete man auch Umspannwerke als Knotenpunkt unterschiedlicher Stromspannungen. Der Bau von Max Cetto in Eschersheim erscheint auf historischen Fotografien in ornamentloser Eleganz, doch heute erkennt man ihn kaum. Besonders die farbige Bemalung mit idyllischen Naturszenen in der Sockelzone sowie Graffitis verklären die sachliche Architektur. Hinzu kommen Anbauten, Glasbausteine jüngeren Datums und vereinzelt neue Fensterrahmungen.
@@ -35,6 +35,6 @@ https://www.vde.com/de/geschichte/karte/hessen/umspannwerk-thielenstrasse
 
 ## Gallery
 
-![Umspannwerk Eschersheim](../images/Cetto_Umsp_1be89bf58710192789f129f93dbebe10_original.jpg)
+![Umspannwerk Eschersheim](../images/Cetto_Umsp_1be89bf58710192789f129f93dbebe10_medium.jpg)
 *um 1930 — Author: Unbekannt | License: Max Cetto-Archiv, Deutsches Architekturmuseum, Frankfurt am Main | Description: Umspannwerk Eschersheim*
 

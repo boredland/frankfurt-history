@@ -16,7 +16,7 @@ filters:
 
 Reiffensteins Frankfurt<br />(1820-1893)
 
-![](../images/f02fb3c10523eb4d30795951dae487f9_original.png)
+![](../images/f02fb3c10523eb4d30795951dae487f9_medium.png)
 
 Hier standen drei Häuser des alten jüdischen Viertels – bis das Leinwandhaus am Ende des 14. Jahrhunderts gebaut wurde. Es besaß ab 1419 ein Gefängnis, war aber auch im 15. Jahrhundert ein beliebter Ort für Privatfeiern. Als Reiffenstein das Haus zeichnete, war der Wehrgang nicht betretbar.
 
@@ -28,10 +28,10 @@ Im Zweiten Weltkrieg brannte das Innere des Gebäudes aus, das erst in den 1980e
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Leinwandhaus, vordere Ansicht, 1837, Bleistiftzeichnung, HMF R0387</p>](../images/R0387_png_5ea73cefa47f21ddce93eac5b74c683d_original.jpg)
+![<p>Carl Theodor Reiffenstein, Leinwandhaus, vordere Ansicht, 1837, Bleistiftzeichnung, HMF R0387</p>](../images/R0387_png_5ea73cefa47f21ddce93eac5b74c683d_medium.jpg)
 *1837 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Leinwandhaus, vordere Ansicht, 1837, Bleistiftzeichnung, HMF R0387</p>*
 
-![<p>Carl Theodor Reiffenstein, Domturm, Südeingang, Blick zur ehemaligen Pförtnerwohnung und dem Leinwandhaus, 1843, aquarellierte Bleistiftzeichnung, HMF R1679</p>](../images/R1679_png_bb5db879d043121f3c4b68206cfc9fd9_original.jpg)
+![<p>Carl Theodor Reiffenstein, Domturm, Südeingang, Blick zur ehemaligen Pförtnerwohnung und dem Leinwandhaus, 1843, aquarellierte Bleistiftzeichnung, HMF R1679</p>](../images/R1679_png_bb5db879d043121f3c4b68206cfc9fd9_medium.jpg)
 *1843 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Domturm, Südeingang, Blick zur ehemaligen Pförtnerwohnung und dem Leinwandhaus, 1843, aquarellierte Bleistiftzeichnung, HMF R1679</p>*
 
 

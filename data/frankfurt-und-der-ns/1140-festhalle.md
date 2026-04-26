@@ -23,7 +23,7 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
-![<p>Foto der Festhalle </p>](../images/8709fb97696f7e044e87653ed1eefb96_original.jpg)
+![<p>Foto der Festhalle </p>](../images/8709fb97696f7e044e87653ed1eefb96_medium.jpg)
 *ca. 1936 — Author: Friedrich Lauffer | License: HMF Ph11572 | Description: <p>Foto der Festhalle </p>*
 
 

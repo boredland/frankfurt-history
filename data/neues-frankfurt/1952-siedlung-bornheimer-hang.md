@@ -14,7 +14,7 @@ filters:
 
 *Wittelsbacherallee 157*
 
-![](../images/45ca380e05926bbffa2e87d3bfae9b36_original.jpg)
+![](../images/45ca380e05926bbffa2e87d3bfae9b36_medium.jpg)
 
 ## Interactive Before & After
 

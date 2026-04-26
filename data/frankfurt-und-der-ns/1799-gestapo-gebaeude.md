@@ -12,13 +12,13 @@ filters:
 
 *Lindenstraße 27*
 
-![Geheime Staatspolizeistelle Frankfurt a. M.](../images/bcaa3dea22ebd1149aac1b4273e5c866_original.jpg)
+![Geheime Staatspolizeistelle Frankfurt a. M.](../images/bcaa3dea22ebd1149aac1b4273e5c866_medium.jpg)
 *1947 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13183 | Description: Geheime Staatspolizeistelle Frankfurt a. M.*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![Foto der Geheimen Staatspolizeistelle Frankfurt a. M.](../images/54c8ca1bc0359a68200f60946aacb4dc_original.jpg)
+![Foto der Geheimen Staatspolizeistelle Frankfurt a. M.](../images/54c8ca1bc0359a68200f60946aacb4dc_medium.jpg)
 *1947 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13183 | Description: Foto der Geheimen Staatspolizeistelle Frankfurt a. M.*
 

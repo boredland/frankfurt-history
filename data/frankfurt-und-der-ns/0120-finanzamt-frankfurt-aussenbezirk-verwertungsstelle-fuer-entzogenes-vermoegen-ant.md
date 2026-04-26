@@ -14,13 +14,13 @@ filters:
 
 *Hochstraße 2-4*
 
-![Finanzamt Frankfurt-Außenbezirk in der Hochstraße 2-4](../images/c81c16901f8a9b37fa80d30df00edd95_original.jpg)
+![Finanzamt Frankfurt-Außenbezirk in der Hochstraße 2-4](../images/c81c16901f8a9b37fa80d30df00edd95_medium.jpg)
 *ca. 1920 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-8853 | Description: Finanzamt Frankfurt-Außenbezirk in der Hochstraße 2-4*
 
 In der Liegenschaftsstelle des Finanzamtes Frankfurt-Außenbezirk befand sich auch die Vermögensverwertungsstelle. Das Gebäude wurde im September 1944 vollständig zerstört.
 
 ## Gallery
 
-![Finanzamt Frankfurt-Außenbezirk in der Hochstraße 2-4](../images/c81c16901f8a9b37fa80d30df00edd95_original.jpg)
+![Finanzamt Frankfurt-Außenbezirk in der Hochstraße 2-4](../images/c81c16901f8a9b37fa80d30df00edd95_medium.jpg)
 *ca. 1920 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-8853 | Description: Finanzamt Frankfurt-Außenbezirk in der Hochstraße 2-4*
 

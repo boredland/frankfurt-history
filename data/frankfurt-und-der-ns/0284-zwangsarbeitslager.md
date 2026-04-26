@@ -15,7 +15,7 @@ filters:
 
 *Max-Hirsch-Straße 34*
 
-![<p>Bildpostkarte mit Außenansicht der Wirtschaft "Zum Riederwald"</p>](../images/24f51be28c1571bc5a6a5cc648d3ee1e_original.jpg)
+![<p>Bildpostkarte mit Außenansicht der Wirtschaft "Zum Riederwald"</p>](../images/24f51be28c1571bc5a6a5cc648d3ee1e_medium.jpg)
 *1925 — Author: unbekannt | License: HMF / Sammlung Church C80398 | Description: <p>Bildpostkarte mit Außenansicht der Wirtschaft "Zum Riederwald"</p>*
 
 Die Arbeitsgemeinschaft des Frankfurter Kohlenhandels e.V. betrieb in der Gaststätte Riederwald in der Tilsiter Straße 34 (heute: Max-Hirsch-Straße) ein Zwangsarbeitslager. 1942 waren hier 48 ukrainische und 39 polnische Zwangsarbeiter untergebracht. Im Jahr 1943 waren es 57 Polen, 41 Ukrainer und zwei weitere Zwangsarbeiter, deren Herkunft nicht bekannt ist.
@@ -24,7 +24,7 @@ Die Arbeitsgemeinschaft des Frankfurter Kohlenhandels e.V. betrieb in der Gastst
 
 ## Gallery
 
-![<p>Bildpostkarte mit Außenansicht der Wirtschaft "Zum Riederwald"</p>](../images/24f51be28c1571bc5a6a5cc648d3ee1e_original.jpg)
+![<p>Bildpostkarte mit Außenansicht der Wirtschaft "Zum Riederwald"</p>](../images/24f51be28c1571bc5a6a5cc648d3ee1e_medium.jpg)
 *1925 — Author: unbekannt | License: HMF / Sammlung Church C80398 | Description: <p>Bildpostkarte mit Außenansicht der Wirtschaft "Zum Riederwald"</p>*
 
 

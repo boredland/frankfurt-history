@@ -12,7 +12,7 @@ filters:
 
 *Mit Lilo in Frankfurt unterwegs*
 
-![](../images/8cf56ebb6ba19c35252ff01612c03383_original.jpg)
+![](../images/8cf56ebb6ba19c35252ff01612c03383_medium.jpg)
 
 Am 10. November 1938 war Lilo mit ihrer Mutter auf dem Weg zum Kindergarten. An diesem Tag hatte sie sich ganz besonders auf den Tag dort gefreut.
 Da Lilo und ihre Familie in der Frankfurter Altstadt lebten, kamen sie auf dem Weg zum Kindergarten an der Synagoge auf dem Börneplatz vorbei.
@@ -29,7 +29,7 @@ Um noch mehr über das Leben von Lilo zu erfahren, schaue Dir noch die anderen O
 
 ## Gallery
 
-![<p><span class="tab2">Foto der Synagoge am Börneplatz</span></p>](../images/48e6e9b8e308e3e64b232579c3eda8ae_original.jpg)
+![<p><span class="tab2">Foto der Synagoge am Börneplatz</span></p>](../images/48e6e9b8e308e3e64b232579c3eda8ae_medium.jpg)
 *1939 — Author: Fred Kochmann | License: HMF, Ph03821b | Description: <p><span class="tab2">Foto der Synagoge am Börneplatz</span></p>*
 
 

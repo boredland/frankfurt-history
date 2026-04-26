@@ -15,7 +15,7 @@ filters:
 
 *Diesterwegplatz*
 
-![<p>Südbahnhof</p>](../images/a9a92efabb3694a9bc680f28c1ab1a8e_original.jpg)
+![<p>Südbahnhof</p>](../images/a9a92efabb3694a9bc680f28c1ab1a8e_medium.jpg)
 *ca. 1925 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2012-149 | Description: <p>Südbahnhof</p>*
 
 Von der Festhalle wurden immer wieder Gruppen von jüdischen Männern in Bussen zum Südbahnhof am Washingtonplatz 51-53 (heute: Diesterwegplatz) gebracht. Dort wurden sie von gewaltbereiten Frankfurter*innen erwartet, die ihnen zuriefen: „Schlagt die Juden tot, schneidet ihnen die Hälse ab!“, wie ein Augenzeuge berichtete. Bereits hier am Südbahnhof kam es zu ersten Gewaltexzessen. Insgesamt wurden 534 jüdische Männer vom Südbahnhof in das Konzentrationslager Dachau transportiert – 2.621 Frankfurter jüdischer Herkunft wurden über Weimar in das Konzentrationslager Buchenwald verschleppt. Laut einem anderen Augenzeugenbericht, der in der Wiener Library in London vorliegt, kam es dort bei der Ankunft zu Gewalt: „Wir mussten in der Unterführung antreten, Gesicht gegen die Wand, wir wurden (…) dabei durch Stoßen und Schläge misshandelt. Nachdem der Transport abgezählt war, wurden wir mit rohem Schreien … angetrieben, in größtmöglichster Eile die Treppe hinauf zu dort stehenden Autobussen zu rennen.“
@@ -28,6 +28,6 @@ Von der Festhalle wurden immer wieder Gruppen von jüdischen Männern in Bussen 
 
 ## Gallery
 
-![<p>Südbahnhof</p>](../images/a9a92efabb3694a9bc680f28c1ab1a8e_original.jpg)
+![<p>Südbahnhof</p>](../images/a9a92efabb3694a9bc680f28c1ab1a8e_medium.jpg)
 *ca. 1925 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2012-149 | Description: <p>Südbahnhof</p>*
 

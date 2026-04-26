@@ -23,6 +23,6 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
-![Melemstraße 7](../images/Melemstras_1b04dbd15f939599a6d405c59da2d3a2_original.jpg)
+![Melemstraße 7](../images/Melemstras_1b04dbd15f939599a6d405c59da2d3a2_medium.jpg)
 *ca. 1925 — Author: Hofmann & Müller | License: ISG | Description: Melemstraße 7*
 

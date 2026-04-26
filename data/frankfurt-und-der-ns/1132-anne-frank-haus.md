@@ -23,7 +23,7 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
-![<span class="tab2">Anne Frank Haus im Marbachweg 307</span>](../images/dffc67d5b7e4a886bdf755dca7ee6a5f_original.jpg)
+![<span class="tab2">Anne Frank Haus im Marbachweg 307</span>](../images/dffc67d5b7e4a886bdf755dca7ee6a5f_medium.jpg)
 *Description: <span class="tab2">Anne Frank Haus im Marbachweg 307</span>*
 
 

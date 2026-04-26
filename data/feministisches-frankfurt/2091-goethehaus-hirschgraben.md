@@ -12,7 +12,7 @@ filters:
 
 *Katharina E. Goethe - Kulturpolitischer Treffpunkt*
 
-![Großer Hirschgraben, das Goethehaus (Elternhaus), nach dem Umbau 1754, Aquarell auf Papier](../images/1003f6d18084c20cb9ceb4a8c6e4f0d4_original.jpg)
+![Großer Hirschgraben, das Goethehaus (Elternhaus), nach dem Umbau 1754, Aquarell auf Papier](../images/1003f6d18084c20cb9ceb4a8c6e4f0d4_medium.jpg)
 *Author: Carl Theodor Reifenstein | License: HMF | Description: Großer Hirschgraben, das Goethehaus (Elternhaus), nach dem Umbau 1754, Aquarell auf Papier*
 
 Das Haus am Großen Hirschgraben 23–25 war das Wohnhaus der Familie Goethe. Hier wurde 1749 Johann Wolfgang Goethe (1749-1832) geboren, der einen Großteil seiner Kindheit in diesem Gebäude verbrachte. Heute ist es als Goethe-Haus bekannt und kann besichtigt werden.
