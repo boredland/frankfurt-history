@@ -28,6 +28,7 @@ export function TTSPlayer({ text, lang }: TTSPlayerProps) {
       setReady(true);
     } else {
       speechSynthesis.onvoiceschanged = () => setReady(true);
+      setTimeout(() => setReady(true), 2000);
     }
 
     return unsub;
@@ -61,7 +62,15 @@ export function TTSPlayer({ text, lang }: TTSPlayerProps) {
     [state, text, lang],
   );
 
-  if (!isSupported() || !ready) return null;
+  if (!isSupported()) return null;
+
+  if (!ready) {
+    return (
+      <div className="flex items-center gap-2 px-4 py-2 border-t border-sepia-light text-xs text-faded">
+        <span>Loading voices...</span>
+      </div>
+    );
+  }
 
   return (
     <div className="flex items-center gap-2 px-4 py-2 border-t border-sepia-light bg-paper/80 backdrop-blur-sm">
