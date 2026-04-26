@@ -107,27 +107,31 @@ def main():
 
     uncached = {k: v for k, v in unique_coords.items() if k not in cache}
 
-    print(f"Unique coordinates: {len(unique_coords)}")
-    print(f"Already cached: {len(unique_coords) - len(uncached)}")
-    print(f"Need to geocode: {len(uncached)}")
+    print(f"Unique coordinates: {len(unique_coords)}", flush=True)
+    print(f"Already cached: {len(unique_coords) - len(uncached)}", flush=True)
+    print(f"Need to geocode: {len(uncached)}", flush=True)
 
-    if uncached:
-        client = httpx.Client(
-            headers={"User-Agent": USER_AGENT},
-            timeout=15,
-        )
-        for i, (key, (lat, lng)) in enumerate(uncached.items()):
-            addr = reverse_geocode(client, lat, lng)
-            cache[key] = addr
-            if (i + 1) % 50 == 0:
-                print(f"  {i + 1}/{len(uncached)} geocoded")
-                save_cache(cache)
-            time.sleep(1.1)
-        client.close()
-        save_cache(cache)
-        print(f"Geocoded {len(uncached)} new coordinates")
-    else:
-        print("Cache is up to date")
+    if not uncached:
+        print("Cache is up to date", flush=True)
+        return
+
+    eta_min = len(uncached) * 1.1 / 60
+    print(f"Estimated time: {eta_min:.0f} minutes", flush=True)
+
+    client = httpx.Client(
+        headers={"User-Agent": USER_AGENT},
+        timeout=15,
+    )
+    for i, (key, (lat, lng)) in enumerate(uncached.items()):
+        addr = reverse_geocode(client, lat, lng)
+        cache[key] = addr
+        if (i + 1) % 25 == 0:
+            print(f"  {i + 1}/{len(uncached)} geocoded", flush=True)
+            save_cache(cache)
+        time.sleep(1.1)
+    client.close()
+    save_cache(cache)
+    print(f"Geocoded {len(uncached)} new coordinates", flush=True)
 
 
 if __name__ == "__main__":
