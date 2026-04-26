@@ -1,0 +1,30 @@
+export interface Theme {
+  id: number;
+  title: string;
+  short_title: string;
+  slug: string;
+  poi_count: number;
+}
+
+export interface POIProperties {
+  id: number;
+  title: string;
+  subtitle?: string;
+  theme: string;
+  slug: string;
+  categories?: string[];
+  filters?: string[];
+}
+
+export const THEME_COLORS: Record<string, string> = {
+  "frankfurt-und-der-ns": "#7A5C3E",
+  "revolution-1848-49": "#A0522D",
+  "frankfurt-stories": "#6B7B5E",
+  "neues-frankfurt": "#5B6B7A",
+  "feministisches-frankfurt": "#8B6B7A",
+  "leichte-sprache": "#7A7B5E",
+};
+
+export function themeColor(slug: string): string {
+  return THEME_COLORS[slug] ?? "#8B7355";
+}

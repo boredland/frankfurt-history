@@ -1,0 +1,197 @@
+#!/usr/bin/env python3
+"""Build GeoJSON feature collections and theme index from archived markdown."""
+
+import json
+import re
+import shutil
+import sys
+from pathlib import Path
+
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+OUT_DIR = Path(__file__).resolve().parent.parent / "app" / "public" / "data"
+CONTENT_DIR = Path(__file__).resolve().parent.parent / "app" / "public" / "content"
+
+
+def parse_frontmatter(path: Path) -> dict:
+    text = path.read_text()
+    if not text.startswith("---"):
+        return {}
+    end = text.index("---", 3)
+    fm = {}
+    for line in text[3:end].strip().splitlines():
+        if ":" not in line:
+            continue
+        key, _, val = line.partition(":")
+        key = key.strip()
+        val = val.strip()
+        if val.startswith("[") and val.endswith("]"):
+            inner = val[1:-1]
+            if inner.strip():
+                items = [v.strip().strip('"').strip("'") for v in inner.split(",")]
+                try:
+                    fm[key] = [float(x) for x in items]
+                except ValueError:
+                    fm[key] = items
+            else:
+                fm[key] = []
+        elif val.startswith('"') and val.endswith('"'):
+            fm[key] = val[1:-1]
+        elif val.startswith("'") and val.endswith("'"):
+            fm[key] = val[1:-1]
+        else:
+            try:
+                fm[key] = int(val)
+            except ValueError:
+                try:
+                    fm[key] = float(val)
+                except ValueError:
+                    fm[key] = val
+    if key == "categories" or key == "filters":
+        pass
+    return fm
+
+
+def parse_yaml_list(path: Path, field: str) -> list[str]:
+    """Parse a YAML list field that spans multiple lines (indented `- value`)."""
+    text = path.read_text()
+    if not text.startswith("---"):
+        return []
+    end = text.index("---", 3)
+    fm_text = text[3:end]
+    items = []
+    in_field = False
+    for line in fm_text.splitlines():
+        stripped = line.strip()
+        if stripped.startswith(f"{field}:"):
+            in_field = True
+            continue
+        if in_field:
+            if stripped.startswith("- "):
+                val = stripped[2:].strip().strip('"').strip("'")
+                items.append(val)
+            elif stripped and not stripped.startswith("-"):
+                break
+    return items
+
+
+def build_theme(theme_dir: Path) -> tuple[dict | None, dict | None]:
+    index_path = theme_dir / "_index.md"
+    if not index_path.exists():
+        return None, None
+
+    theme_fm = parse_frontmatter(index_path)
+    theme_slug = theme_dir.name
+    theme_id = theme_fm.get("id")
+    theme_title = theme_fm.get("title", theme_slug)
+    short_title = theme_fm.get("short_title", "")
+
+    features = []
+    for poi_path in sorted(theme_dir.glob("*.md")):
+        if poi_path.name.startswith("_"):
+            continue
+        fm = parse_frontmatter(poi_path)
+        coords = fm.get("coordinates", [])
+        if not coords or len(coords) < 2:
+            continue
+
+        lat, lng = coords[0], coords[1]
+        if lat == 0 and lng == 0:
+            continue
+
+        categories = parse_yaml_list(poi_path, "categories")
+        filters = parse_yaml_list(poi_path, "filters")
+
+        slug = poi_path.stem
+
+        feature = {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [lng, lat]},
+            "properties": {
+                "id": fm.get("id", 0),
+                "title": fm.get("title", ""),
+                "subtitle": fm.get("subtitle", ""),
+                "theme": theme_slug,
+                "slug": slug,
+            },
+        }
+        if categories:
+            feature["properties"]["categories"] = categories
+        if filters:
+            feature["properties"]["filters"] = filters
+
+        features.append(feature)
+
+    geojson = {"type": "FeatureCollection", "features": features}
+
+    theme_meta = {
+        "id": theme_id,
+        "title": theme_title,
+        "short_title": short_title,
+        "slug": theme_slug,
+        "poi_count": len(features),
+    }
+
+    return theme_meta, geojson
+
+
+def main():
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    themes = []
+    total = 0
+
+    for theme_dir in sorted(DATA_DIR.iterdir()):
+        if not theme_dir.is_dir() or theme_dir.name in ("images", "de", "en"):
+            continue
+        # Support both flat (data/<theme>/) and nested (data/de/<theme>/) layouts
+        theme_meta, geojson = build_theme(theme_dir)
+        if not theme_meta:
+            continue
+
+        out_path = OUT_DIR / f"{theme_dir.name}.geojson"
+        out_path.write_text(json.dumps(geojson, ensure_ascii=False) + "\n")
+        themes.append(theme_meta)
+        total += theme_meta["poi_count"]
+        print(f"  {theme_dir.name}: {theme_meta['poi_count']} POIs with coordinates")
+
+    # Also check data/de/ layout
+    de_dir = DATA_DIR / "de"
+    if de_dir.is_dir():
+        for theme_dir in sorted(de_dir.iterdir()):
+            if not theme_dir.is_dir():
+                continue
+            if any(t["slug"] == theme_dir.name for t in themes):
+                continue
+            theme_meta, geojson = build_theme(theme_dir)
+            if not theme_meta:
+                continue
+            out_path = OUT_DIR / f"{theme_dir.name}.geojson"
+            out_path.write_text(json.dumps(geojson, ensure_ascii=False) + "\n")
+            themes.append(theme_meta)
+            total += theme_meta["poi_count"]
+            print(f"  {theme_dir.name}: {theme_meta['poi_count']} POIs with coordinates")
+
+    themes.sort(key=lambda t: -(t.get("poi_count", 0)))
+    (OUT_DIR / "themes.json").write_text(
+        json.dumps(themes, indent=2, ensure_ascii=False) + "\n"
+    )
+
+    # Copy markdown files to public/content/ for client-side fetching
+    if CONTENT_DIR.exists():
+        shutil.rmtree(CONTENT_DIR)
+    for theme_dir in sorted(DATA_DIR.iterdir()):
+        if not theme_dir.is_dir() or theme_dir.name in ("images", "de", "en"):
+            continue
+        dest = CONTENT_DIR / theme_dir.name
+        dest.mkdir(parents=True, exist_ok=True)
+        for md in theme_dir.glob("*.md"):
+            if md.name.startswith("_"):
+                continue
+            shutil.copy2(md, dest / md.name)
+
+    print(f"\nTotal: {total} POIs across {len(themes)} themes")
+    print(f"Output: {OUT_DIR}")
+
+
+if __name__ == "__main__":
+    main()
