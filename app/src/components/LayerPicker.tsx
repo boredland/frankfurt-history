@@ -12,7 +12,7 @@ export function LayerPicker({
   activeLayers,
   onToggle,
 }: LayerPickerProps) {
-  const [open, setOpen] = useState(false);
+  const [open, setOpen] = useState(true);
 
   return (
     <>

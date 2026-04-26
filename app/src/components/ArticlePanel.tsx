@@ -132,7 +132,7 @@ function ArticleSections({ sections }: { sections: ArticleSection[] }) {
             );
           case "gallery":
             return (
-              <div key={key}>
+              <div key={key} className="gallery-section">
                 <h2 className="font-serif text-lg text-sepia mt-6 mb-2">
                   Gallery
                 </h2>
@@ -146,7 +146,7 @@ function ArticleSections({ sections }: { sections: ArticleSection[] }) {
             );
           case "before-after":
             return (
-              <div key={key}>
+              <div key={key} className="gallery-section">
                 <h2 className="font-serif text-lg text-sepia mt-6 mb-2">
                   Before & After
                 </h2>
@@ -162,7 +162,7 @@ function ArticleSections({ sections }: { sections: ArticleSection[] }) {
             );
           case "timeline":
             return (
-              <div key={key}>
+              <div key={key} className="gallery-section">
                 <h2 className="font-serif text-lg text-sepia mt-6 mb-2">
                   Timeline
                 </h2>

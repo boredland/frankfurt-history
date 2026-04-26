@@ -98,7 +98,8 @@ body,
   [aria-label="Share"],
   [aria-label="Print"],
   [aria-label="Close"],
-  [aria-label="Resize panel"] {
+  [aria-label="Resize panel"],
+  .gallery-section {
     display: none !important;
   }
   * {

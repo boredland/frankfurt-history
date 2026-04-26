@@ -1,8 +1,9 @@
 import { useNavigate } from "@tanstack/react-router";
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import MapGL, {
   Layer,
   type MapLayerMouseEvent,
+  type MapRef,
   Popup,
   Source,
   type ViewStateChangeEvent,
@@ -42,9 +43,13 @@ export function MapView({
   activeSlug,
 }: MapViewProps) {
   const navigate = useNavigate();
+  const mapRef = useRef<MapRef>(null);
   const [themes, setThemes] = useState<Theme[]>([]);
   const [hover, setHover] = useState<HoverInfo | null>(null);
   const [cursor, setCursor] = useState("auto");
+  const [poiIndex, setPoiIndex] = useState<Map<string, [number, number]>>(
+    new Map(),
+  );
 
   useEffect(() => {
     fetch("/data/themes.json")
@@ -62,6 +67,32 @@ export function MapView({
     }),
     [],
   );
+
+  const registerPois = useCallback((features: GeoJSON.Feature[]) => {
+    setPoiIndex((prev) => {
+      const next = new Map(prev);
+      for (const f of features) {
+        const slug = (f.properties as Record<string, unknown>)?.slug as string;
+        const coords = (f.geometry as GeoJSON.Point).coordinates;
+        if (slug && coords) {
+          next.set(slug, [coords[0] ?? 0, coords[1] ?? 0]);
+        }
+      }
+      return next;
+    });
+  }, []);
+
+  useEffect(() => {
+    if (!activeSlug || !mapRef.current) return;
+    const coords = poiIndex.get(activeSlug);
+    if (!coords) return;
+    mapRef.current.flyTo({
+      center: [coords[0], coords[1]],
+      zoom: Math.max(mapRef.current.getZoom(), 15),
+      duration: 800,
+      padding: { right: 220, top: 0, bottom: 0, left: 0 },
+    });
+  }, [activeSlug, poiIndex]);
 
   const handleClick = useCallback(
     (e: MapLayerMouseEvent) => {
@@ -132,6 +163,7 @@ export function MapView({
 
   return (
     <MapGL
+      ref={mapRef}
       initialViewState={initialView}
       mapStyle={BASEMAP_STYLE}
       onMoveEnd={handleMoveEnd}
@@ -143,7 +175,12 @@ export function MapView({
       cursor={cursor}
     >
       {visibleThemes.map((theme) => (
-        <ThemeLayer key={theme.slug} theme={theme} activeSlug={activeSlug} />
+        <ThemeLayer
+          key={theme.slug}
+          theme={theme}
+          activeSlug={activeSlug}
+          onFeaturesLoaded={registerPois}
+        />
       ))}
       <LayerPicker
         themes={themes}
@@ -170,9 +207,11 @@ export function MapView({
 function ThemeLayer({
   theme,
   activeSlug,
+  onFeaturesLoaded,
 }: {
   theme: Theme;
   activeSlug?: string;
+  onFeaturesLoaded: (features: GeoJSON.Feature[]) => void;
 }) {
   const [geojson, setGeojson] = useState<GeoJSON.FeatureCollection | null>(
     null,
@@ -182,9 +221,12 @@ function ThemeLayer({
   useEffect(() => {
     fetch(`/data/${theme.slug}.geojson`)
       .then((r) => r.json())
-      .then(setGeojson)
+      .then((data: GeoJSON.FeatureCollection) => {
+        setGeojson(data);
+        onFeaturesLoaded(data.features);
+      })
       .catch(console.error);
-  }, [theme.slug]);
+  }, [theme.slug, onFeaturesLoaded]);
 
   if (!geojson) return null;
 
