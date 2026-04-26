@@ -1,4 +1,4 @@
-import { Link, Outlet, createFileRoute } from "@tanstack/react-router";
+import { Outlet, createFileRoute, useRouter } from "@tanstack/react-router";
 import { z } from "zod";
 import { MapView } from "~/components/MapView";
 
@@ -24,6 +24,34 @@ export const Route = createFileRoute("/$lang")({
   component: LangLayout,
 });
 
+function LanguageToggle({ lang }: { lang: string }) {
+  const router = useRouter();
+  const pathname = router.state.location.pathname;
+  const search = router.state.location.searchStr;
+
+  function langHref(target: string) {
+    const rest = pathname.replace(/^\/(de|en)/, "");
+    return `/${target}${rest}${search}`;
+  }
+
+  return (
+    <div className="flex items-center gap-2 text-sm">
+      <a
+        href={langHref("de")}
+        className={`px-2 py-1 rounded ${lang === "de" ? "bg-sepia text-paper" : "text-faded hover:text-ink"}`}
+      >
+        DE
+      </a>
+      <a
+        href={langHref("en")}
+        className={`px-2 py-1 rounded ${lang === "en" ? "bg-sepia text-paper" : "text-faded hover:text-ink"}`}
+      >
+        EN
+      </a>
+    </div>
+  );
+}
+
 function LangLayout() {
   const { lang } = Route.useParams();
   const search = Route.useSearch();
@@ -34,24 +62,7 @@ function LangLayout() {
         <h1 className="font-serif text-lg font-bold tracking-tight text-ink">
           Frankfurt History
         </h1>
-        <div className="flex items-center gap-2 text-sm">
-          <Link
-            to="/$lang"
-            params={{ lang: "de" }}
-            search={search}
-            className={`px-2 py-1 rounded ${lang === "de" ? "bg-sepia text-paper" : "text-faded hover:text-ink"}`}
-          >
-            DE
-          </Link>
-          <Link
-            to="/$lang"
-            params={{ lang: "en" }}
-            search={search}
-            className={`px-2 py-1 rounded ${lang === "en" ? "bg-sepia text-paper" : "text-faded hover:text-ink"}`}
-          >
-            EN
-          </Link>
-        </div>
+        <LanguageToggle lang={lang} />
       </header>
       <div className="flex-1 flex overflow-hidden relative">
         <MapView
