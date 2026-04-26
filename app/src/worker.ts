@@ -78,7 +78,7 @@ function parseRange(header: string): R2Range {
   return { offset };
 }
 
-async function handleImage(env: Env, url: URL): Promise<Response> {
+async function handleImage(_env: Env, url: URL): Promise<Response> {
   const rest = url.pathname.slice(5);
   const slashIdx = rest.indexOf("/");
   if (slashIdx < 0) return new Response("Bad Request", { status: 400 });
@@ -90,9 +90,32 @@ async function handleImage(env: Env, url: URL): Promise<Response> {
     return new Response("Bad Request", { status: 400 });
   }
 
-  return env.IMAGES.fetch(
-    `https://images.local/cdn-cgi/image/${params}/${originUrl}`,
-  );
+  const cfImage: Record<string, unknown> = {};
+  for (const pair of params.split(",")) {
+    const eqIdx = pair.indexOf("=");
+    if (eqIdx < 0) continue;
+    const k = pair.slice(0, eqIdx);
+    const v = pair.slice(eqIdx + 1);
+    switch (k) {
+      case "w":
+        cfImage.width = Number.parseInt(v, 10);
+        break;
+      case "h":
+        cfImage.height = Number.parseInt(v, 10);
+        break;
+      case "f":
+        if (v !== "auto") cfImage.format = v;
+        break;
+      case "q":
+        cfImage.quality = Number.parseInt(v, 10);
+        break;
+      case "fit":
+        cfImage.fit = v;
+        break;
+    }
+  }
+
+  return fetch(originUrl, { cf: { image: cfImage } });
 }
 
 function corsHeaders(): Headers {

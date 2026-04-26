@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build:data": "cd .. && uv run python3 scripts/merge.py && uv run python3 scripts/geojson.py",
+    "build:data": "cd .. && uv run python3 scripts/merge.py && uv run python3 scripts/geojson.py && uv run python3 scripts/precache_routes.py",
     "dev": "bun run build:data && vite dev",
     "build": "bun run build:data && vite build",
     "start": "vite preview",
