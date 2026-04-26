@@ -19,10 +19,8 @@ function markdownBlockToHtml(md: string): string {
   html = html.replace(/^### (.+)$/gm, "<h3>$1</h3>");
   html = html.replace(/^## (.+)$/gm, "<h2>$1</h2>");
   html = html.replace(/^# (.+)$/gm, "<h1>$1</h1>");
-  html = html.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (_, alt, src) => {
-    const resized = imageUrl(src, "article");
-    return `<img alt="${alt}" src="${resized}" loading="lazy" />`;
-  });
+  // Strip inline images — they'll be collected separately as gallery images
+  html = html.replace(/!\[([^\]]*)\]\(([^)]+)\)\n?(\*[^*]+\*)?/g, "");
   html = html.replace(
     /\[([^\]]+)\]\(([^)]+)\)/g,
     '<a href="$2" target="_blank" rel="noopener">$1</a>',
@@ -81,8 +79,25 @@ function extractImagesFromLines(lines: string[]): ImageRef[] {
   return images;
 }
 
-export function parseArticleBody(body: string): ArticleSection[] {
+export interface ParsedArticle {
+  sections: ArticleSection[];
+  allImages: ImageRef[];
+}
+
+export function parseArticleBody(body: string): ParsedArticle {
   const sections: ArticleSection[] = [];
+  const allImages: ImageRef[] = [];
+  const seenSrcs = new Set<string>();
+
+  function addImages(imgs: ImageRef[]) {
+    for (const img of imgs) {
+      if (!seenSrcs.has(img.src)) {
+        seenSrcs.add(img.src);
+        allImages.push(img);
+      }
+    }
+  }
+
   const galleryPattern =
     /^## (?:Gallery|Before & After|Interactive Before & After|Timeline)\s*$/;
   const galleryTypePattern = /^<!-- gallery:([\w-]+) -->$/;
@@ -96,9 +111,13 @@ export function parseArticleBody(body: string): ArticleSection[] {
   let galleryLines: string[] = [];
 
   function flushText() {
-    const text = currentTextLines.join("\n").trim();
-    if (text) {
-      sections.push({ type: "html", content: markdownBlockToHtml(text) });
+    const raw = currentTextLines.join("\n").trim();
+    if (raw) {
+      addImages(extractImagesFromLines(currentTextLines));
+      const html = markdownBlockToHtml(raw);
+      if (html.trim()) {
+        sections.push({ type: "html", content: html });
+      }
     }
     currentTextLines = [];
   }
@@ -110,6 +129,8 @@ export function parseArticleBody(body: string): ArticleSection[] {
       galleryLines = [];
       return;
     }
+
+    addImages(images);
 
     if (
       galleryType === "before-after" &&
@@ -124,9 +145,8 @@ export function parseArticleBody(body: string): ArticleSection[] {
       });
     } else if (galleryType === "timeline") {
       sections.push({ type: "timeline", images });
-    } else {
-      sections.push({ type: "gallery", images });
     }
+    // Standard galleries are now handled by the hero image + thumbnail strip
     inGallery = false;
     galleryLines = [];
   }
@@ -178,5 +198,5 @@ export function parseArticleBody(body: string): ArticleSection[] {
   if (inGallery) flushGallery();
   flushText();
 
-  return sections;
+  return { sections, allImages };
 }

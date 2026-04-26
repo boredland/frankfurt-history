@@ -5,6 +5,7 @@ import { useNavigation } from "~/lib/NavigationContext";
 import {
   type ArticleSection,
   type ImageRef,
+  type ParsedArticle,
   parseArticleBody,
 } from "~/lib/parseArticle";
 import { BeforeAfterSlider } from "./BeforeAfterSlider";
@@ -22,6 +23,7 @@ interface ArticleData {
   title: string;
   subtitle?: string;
   sections: ArticleSection[];
+  allImages: ImageRef[];
   plainText: string;
   coordinates?: [number, number];
 }
@@ -117,14 +119,50 @@ function GalleryThumbs({
   );
 }
 
-function ArticleSections({ sections }: { sections: ArticleSection[] }) {
-  const [lightbox, setLightbox] = useState<{
-    images: ImageRef[];
-    index: number;
-  } | null>(null);
+function ArticleContent({
+  sections,
+  allImages,
+}: {
+  sections: ArticleSection[];
+  allImages: ImageRef[];
+}) {
+  const [lightboxIdx, setLightboxIdx] = useState<number | null>(null);
+  const hero = allImages[0];
 
   return (
     <>
+      {hero && (
+        <div className="-mx-5 -mt-4 mb-4">
+          <button
+            type="button"
+            onClick={() => setLightboxIdx(0)}
+            className="w-full cursor-pointer relative group"
+          >
+            <img
+              src={imageUrl(hero.src, "article")}
+              alt={hero.alt}
+              className="w-full max-h-64 object-cover"
+            />
+            {allImages.length > 1 && (
+              <span className="absolute bottom-2 right-2 bg-ink/60 text-paper text-xs px-2 py-0.5 rounded-full opacity-80 group-hover:opacity-100 transition-opacity print:hidden">
+                1/{allImages.length}
+              </span>
+            )}
+          </button>
+          {hero.caption && (
+            <p className="text-xs text-faded px-5 mt-1">{hero.caption}</p>
+          )}
+          {allImages.length > 1 && (
+            <div className="print:hidden">
+              <GalleryThumbs
+                images={allImages.slice(1)}
+                onOpen={(idx) => setLightboxIdx(idx + 1)}
+              />
+            </div>
+          )}
+        </div>
+      )}
+
       {sections.map((section, i) => {
         const key = `s-${i}`;
         switch (section.type) {
@@ -135,20 +173,6 @@ function ArticleSections({ sections }: { sections: ArticleSection[] }) {
                 className="article-body"
                 dangerouslySetInnerHTML={{ __html: section.content }}
               />
-            );
-          case "gallery":
-            return (
-              <div key={key} className="gallery-section">
-                <h2 className="font-serif text-lg text-sepia mt-6 mb-2">
-                  Gallery
-                </h2>
-                <GalleryThumbs
-                  images={section.images}
-                  onOpen={(idx) =>
-                    setLightbox({ images: section.images, index: idx })
-                  }
-                />
-              </div>
             );
           case "before-after":
             return (
@@ -174,9 +198,7 @@ function ArticleSections({ sections }: { sections: ArticleSection[] }) {
                 </h2>
                 <GalleryThumbs
                   images={section.images}
-                  onOpen={(idx) =>
-                    setLightbox({ images: section.images, index: idx })
-                  }
+                  onOpen={(idx) => setLightboxIdx(idx)}
                 />
               </div>
             );
@@ -184,15 +206,16 @@ function ArticleSections({ sections }: { sections: ArticleSection[] }) {
             return null;
         }
       })}
-      {lightbox && (
+
+      {lightboxIdx !== null && (
         <Lightbox
-          images={lightbox.images.map((img) => ({
+          images={allImages.map((img) => ({
             src: imageUrl(img.src, "lightbox"),
             alt: img.alt,
             caption: img.caption,
           }))}
-          startIndex={lightbox.index}
-          onClose={() => setLightbox(null)}
+          startIndex={lightboxIdx}
+          onClose={() => setLightboxIdx(null)}
         />
       )}
     </>
@@ -245,10 +268,12 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
         if (coordinates) {
           setActivePoiCoords(coordinates);
         }
+        const parsed = parseArticleBody(json.body);
         setArticle({
           title: json.frontmatter.title || slug,
           subtitle: json.frontmatter.subtitle,
-          sections: parseArticleBody(json.body),
+          sections: parsed.sections,
+          allImages: parsed.allImages,
           plainText,
           coordinates,
         });
@@ -408,7 +433,10 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
             Loading...
           </div>
         ) : article ? (
-          <ArticleSections sections={article.sections} />
+          <ArticleContent
+            sections={article.sections}
+            allImages={article.allImages}
+          />
         ) : (
           <div className="text-faded text-center py-8">Article not found.</div>
         )}
