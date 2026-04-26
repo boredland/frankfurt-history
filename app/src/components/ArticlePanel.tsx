@@ -152,7 +152,7 @@ function ArticleContent({
           {hero.caption && (
             <p className="text-xs text-faded px-5 mt-1">{hero.caption}</p>
           )}
-          {galleryImages.length > 0 && (
+          {galleryImages.length > 1 && (
             <div className="print:hidden">
               <GalleryThumbs
                 images={galleryImages}
