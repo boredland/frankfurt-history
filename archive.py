@@ -46,23 +46,6 @@ def api_get(client: httpx.Client, path: str) -> dict:
                 raise
 
 
-def download_image(client: httpx.Client, url: str, dest: Path) -> bool:
-    if dest.exists():
-        return False
-    for attempt in range(RETRY_ATTEMPTS):
-        try:
-            resp = client.get(url, follow_redirects=True)
-            resp.raise_for_status()
-            dest.parent.mkdir(parents=True, exist_ok=True)
-            dest.write_bytes(resp.content)
-            return True
-        except (httpx.HTTPStatusError, httpx.TransportError) as e:
-            if attempt < RETRY_ATTEMPTS - 1:
-                time.sleep(RETRY_DELAY * (attempt + 1))
-            else:
-                print(f"  Failed to download {url}: {e}")
-                return False
-
 
 def image_local_path(url: str) -> str | None:
     if not url:
@@ -101,30 +84,6 @@ def html_to_markdown(body: str) -> str:
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
 
-
-def collect_image_urls(poi: dict) -> list[str]:
-    """Collect only the best (original) image URL from each image content."""
-    urls = []
-
-    def add_from(img_data):
-        url = best_image_url(img_data)
-        if url:
-            urls.append(url)
-
-    add_from(poi.get("thumbnail"))
-    for key in ("galleryContents", "interactiveGalleryContents"):
-        for gallery in poi.get(key, []):
-            if not isinstance(gallery, dict):
-                continue
-            add_from(gallery.get("thumbnail"))
-            for img in gallery.get("images", []):
-                add_from(img)
-    for key in ("audioContents", "videoContents"):
-        for item in poi.get(key, []):
-            if isinstance(item, dict):
-                add_from(item.get("thumbnail"))
-
-    return urls
 
 
 def meta_str(meta: dict | None) -> str:
@@ -345,10 +304,9 @@ def poi_to_markdown(poi: dict, depth: int = 1) -> str:
 LANGUAGES = ["de", "en"]
 
 
-def archive_language(client: httpx.Client, lang: str, themes: list[dict]) -> list[tuple[str, Path]]:
-    """Archive all POIs and tours for one language. Returns image URLs to download."""
+def archive_language(client: httpx.Client, lang: str, themes: list[dict]):
+    """Archive all POIs and tours for one language."""
     lang_dir = OUT_DIR / lang
-    all_image_urls: list[tuple[str, Path]] = []
     total_pois = 0
 
     for theme in themes:
@@ -383,11 +341,6 @@ short_title: {yaml_escape(theme.get('shortTitle', ''))}
             md = poi_to_markdown(poi, depth=2)
             (theme_dir / filename).write_text(md)
 
-            for url in collect_image_urls(poi):
-                local = image_local_path(url)
-                if local:
-                    all_image_urls.append((url, OUT_DIR / local))
-
         total_pois += len(raw_pois)
 
         client.headers["Accept-Language"] = lang
@@ -411,7 +364,6 @@ short_title: {yaml_escape(theme.get('shortTitle', ''))}
             (theme_dir / "_tours.md").write_text("\n".join(tours_lines) + "\n")
 
     print(f"  {lang}: {total_pois} POIs total")
-    return all_image_urls
 
 
 def main():
@@ -428,39 +380,13 @@ def main():
     themes = themes_resp["data"]
     print(f"Found {len(themes)} themes\n")
 
-    all_image_urls: list[tuple[str, Path]] = []
     for lang in LANGUAGES:
         print(f"[{lang}] Archiving...")
-        urls = archive_language(client, lang, themes)
-        all_image_urls.extend(urls)
-
-    unique_images = {}
-    for url, dest in all_image_urls:
-        key = str(dest)
-        if key not in unique_images:
-            unique_images[key] = (url, dest)
+        archive_language(client, lang, themes)
 
     print(f"\n--- Summary ---")
     print(f"Languages: {', '.join(LANGUAGES)}")
     print(f"Themes: {len(themes)}")
-    print(f"Unique images to download: {len(unique_images)}")
-    print(f"\nDownloading images...")
-
-    downloaded = 0
-    skipped = 0
-    failed = 0
-    for i, (url, dest) in enumerate(unique_images.values()):
-        if (i + 1) % 100 == 0:
-            print(f"  Progress: {i + 1}/{len(unique_images)}")
-        result = download_image(client, url, dest)
-        if result:
-            downloaded += 1
-        elif dest.exists():
-            skipped += 1
-        else:
-            failed += 1
-
-    print(f"\nImages: {downloaded} new, {skipped} cached, {failed} failed")
     print("Done.")
     client.close()
 

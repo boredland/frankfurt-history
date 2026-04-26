@@ -346,15 +346,15 @@ All heavy static assets live on a single R2 bucket, served via a custom domain (
 
 ### Image Pipeline
 
-Store **originals** on R2, serve responsive sizes via **Cloudflare Image Resizing** at the edge:
+Images are **not stored in git** — they live only on R2. The markdown files reference image filenames; `merge.py` rewrites these to R2 URLs at build time.
 
 ```
-archive.py → data/images/ (originals, Git LFS archival backup)
+archive.py → markdown files reference image filenames (git-tracked)
                 ↓
-CI:  wrangler r2 object put (sync originals to R2)
+CI: sync images from API to R2 via wrangler (separate step, not in git)
                 ↓
 merge.py rewrites image paths:
-  ../images/foo_original.jpg
+  ../../images/foo_original.jpg
     → https://assets.…/cdn-cgi/image/w=800,f=auto/images/foo_original.jpg
 ```
 
@@ -373,4 +373,4 @@ Benefits:
 - **Lazy on-demand** — first request transforms and caches at edge, subsequent requests are instant
 - **archive.py stays simple** — always downloads originals, no `IMAGE_SIZE` env var needed
 
-This keeps the git repo lean for cloning (markdown only, ~8 MB without LFS checkout) while serving images at edge speed with zero egress cost.
+The git repo stays lean (~8 MB, markdown only). Images can always be re-fetched from the source API if R2 needs to be rebuilt.
