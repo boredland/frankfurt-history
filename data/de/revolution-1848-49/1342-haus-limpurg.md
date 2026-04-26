@@ -14,8 +14,8 @@ filters:
 
 *Römerberg 19*
 
-![<p>Foto des Haus Limpurg am Römerberg</p>](../../images/0709cb292d5a675b5d478fb86a9bafae_original.jpg)
-*1864 — Author: Carl Friedrich Mylius | License: HMF C17720 | Description: <p>Foto des Haus Limpurg am Römerberg</p>*
+![Foto des Haus Limpurg am Römerberg](../../images/0709cb292d5a675b5d478fb86a9bafae_original.jpg)
+*1864 — Author: Carl Friedrich Mylius | License: HMF C17720 | Description: Foto des Haus Limpurg am Römerberg*
 
 Nach dem zeremoniellen Auftakt im Kaisersaal fungierte das südliche Haus Limpurg im Römerkomplex als zentraler Ort der städtischen Verfassungsdiskussion. Hier tagte seit dem 5. November 1848 für 81 Sitzungen die sogenannte Konstituante – eine 120-köpfige Verfassungskommission, die sich die Reform der Frankfurter Stadtverfassung zum Ziel gesetzt hatte.
 
@@ -27,6 +27,6 @@ Aufgrund des mangelnden Rückhalts in der Bevölkerung verweigerte der Senat ein
 
 ## Gallery
 
-![<p>Foto des Haus Limpurg am Römerberg</p>](../../images/15 Haus Li_5b3b73975bea60c108f67db938771492_original.jpg)
-*1864 — Author: Carl Friedrich Mylius | License: HMF C17720 | Description: <p>Foto des Haus Limpurg am Römerberg</p>*
+![Foto des Haus Limpurg am Römerberg](../../images/15 Haus Li_5b3b73975bea60c108f67db938771492_original.jpg)
+*1864 — Author: Carl Friedrich Mylius | License: HMF C17720 | Description: Foto des Haus Limpurg am Römerberg*
 

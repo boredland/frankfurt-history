@@ -15,15 +15,15 @@ filters:
 
 *Kurt-Schumacher-Straße 15-17*
 
-![<p>Zwangsarbeitslager, Kurt-Schumacher-Straße 15-17</p>](../../images/Ph06493_jp_71d707ec2322c5105412c41f0214393f_original.jpg)
-*ca. 1930 — Author: Rainer Emanuel | License: HMF, Ph06493 | Description: <p>Zwangsarbeitslager, Kurt-Schumacher-Straße 15-17</p>*
+![Zwangsarbeitslager, Kurt-Schumacher-Straße 15-17](../../images/Ph06493_jp_71d707ec2322c5105412c41f0214393f_original.jpg)
+*ca. 1930 — Author: Rainer Emanuel | License: HMF, Ph06493 | Description: Zwangsarbeitslager, Kurt-Schumacher-Straße 15-17*
 
 In der Klostergasse 8 (heute: Kurt-Schumacher-Straße) waren Zivilarbeiter*innen untergebracht. Das Lager wurde von der Maschinen- und Armaturenfabrik Alfred Teves betrieben. Sie quartierte in mehreren Lagern mehr als 1.500 Zwangsarbeiter*innen ein.
 
 ## Gallery
 
-![<p>Zwangsarbeitslager, Kurt-Schumacher-Straße 15-17</p>](../../images/Ph06493_jp_71d707ec2322c5105412c41f0214393f_original.jpg)
-*ca. 1930 — Author: Rainer Emanuel | License: HMF, Ph06493 | Description: <p>Zwangsarbeitslager, Kurt-Schumacher-Straße 15-17</p>*
+![Zwangsarbeitslager, Kurt-Schumacher-Straße 15-17](../../images/Ph06493_jp_71d707ec2322c5105412c41f0214393f_original.jpg)
+*ca. 1930 — Author: Rainer Emanuel | License: HMF, Ph06493 | Description: Zwangsarbeitslager, Kurt-Schumacher-Straße 15-17*
 
 
 ## Links

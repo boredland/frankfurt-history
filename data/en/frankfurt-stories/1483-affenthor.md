@@ -28,14 +28,14 @@ Today, the two Affentor buildings still stand facing each other. Only in the cou
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, the Affentor from the outside (condition from 1807), after an engraving, 19th century, watercolored pencil drawing, HMF RS0034</p>](../../images/RS0034_png_07a05647755930007f54fa0d40ff68cd_original.jpg)
-*19th century — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, the Affentor from the outside (condition from 1807), after an engraving, 19th century, watercolored pencil drawing, HMF RS0034</p>*
+![Carl Theodor Reiffenstein, the Affentor from the outside (condition from 1807), after an engraving, 19th century, watercolored pencil drawing, HMF RS0034](../../images/RS0034_png_07a05647755930007f54fa0d40ff68cd_original.jpg)
+*19th century — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, the Affentor from the outside (condition from 1807), after an engraving, 19th century, watercolored pencil drawing, HMF RS0034*
 
-![<p>Carl Theodor Reiffenstein, Affentor (during the demolition of 1810), after an old drawing, 1854, watercolored pencil drawing, HMF RS0036</p>](../../images/RS0036_png_6653144be2f37283ad984cc1ce891721_original.jpg)
-*1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Affentor (during the demolition of 1810), after an old drawing, 1854, watercolored pencil drawing, HMF RS0036</p>*
+![Carl Theodor Reiffenstein, Affentor (during the demolition of 1810), after an old drawing, 1854, watercolored pencil drawing, HMF RS0036](../../images/RS0036_png_6653144be2f37283ad984cc1ce891721_original.jpg)
+*1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Affentor (during the demolition of 1810), after an old drawing, 1854, watercolored pencil drawing, HMF RS0036*
 
-![<p>Carl Theodor Reiffenstein, Affentor (during the demolition of 1810), after a drawing by Friedrich Philipp Usener, 19th century, watercolored pencil drawing, HMF RS0035</p>](../../images/RS0035_png_4172500b17d63ed806e91fd1500e9c0b_original.jpg)
-*19th century — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Affentor (during the demolition of 1810), after a drawing by Friedrich Philipp Usener, 19th century, watercolored pencil drawing, HMF RS0035</p>*
+![Carl Theodor Reiffenstein, Affentor (during the demolition of 1810), after a drawing by Friedrich Philipp Usener, 19th century, watercolored pencil drawing, HMF RS0035](../../images/RS0035_png_4172500b17d63ed806e91fd1500e9c0b_original.jpg)
+*19th century — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Affentor (during the demolition of 1810), after a drawing by Friedrich Philipp Usener, 19th century, watercolored pencil drawing, HMF RS0035*
 
 
 ## Links

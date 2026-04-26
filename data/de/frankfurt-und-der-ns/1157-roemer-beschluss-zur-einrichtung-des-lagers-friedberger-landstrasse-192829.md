@@ -14,8 +14,8 @@ filters:
 
 *Römerberg 23*
 
-![<p>frankfurthistory@stadt-frankfurt.de</p>](../../images/1e0b7c79a351939d86554bd72a5c51a4_original.jpg)
-*13.3.1933 — Author: Hannah Reeck | License: HMF | Description: <p>frankfurthistory@stadt-frankfurt.de</p>*
+![frankfurthistory@stadt-frankfurt.de](../../images/1e0b7c79a351939d86554bd72a5c51a4_original.jpg)
+*13.3.1933 — Author: Hannah Reeck | License: HMF | Description: frankfurthistory@stadt-frankfurt.de*
 
 Frankfurts Verfolgungsgeschichte der Sinti und Roma im NS stellt eine Besonderheit dar. Trotz umfassender, fast vollständiger personeller Wechsel in Magistrat und Verwaltung im Zuge der Machtübertragung an die NSDAP 1933, zeigt sich eine deutliche Kontinuität im Umgang mit Frankfurter Sinti und Roma zwischen 1929 und 1945. 
  

@@ -30,14 +30,14 @@ Nach der Beschädigung im Zweiten Weltkrieg wurde der Turm wiederaufgebaut. Seit
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Blick mainaufwärts von der Alten Brücke, rechts der Kuhhirtenturm, 1872, aquarellierte Bleistiftzeichnung, HMF RS0007</p>](../../images/RS0007_png_9b80a2cfea351343fd050e9542d0cad6_original.jpg)
-*1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Blick mainaufwärts von der Alten Brücke, rechts der Kuhhirtenturm, 1872, aquarellierte Bleistiftzeichnung, HMF RS0007</p>*
+![Carl Theodor Reiffenstein, Blick mainaufwärts von der Alten Brücke, rechts der Kuhhirtenturm, 1872, aquarellierte Bleistiftzeichnung, HMF RS0007](../../images/RS0007_png_9b80a2cfea351343fd050e9542d0cad6_original.jpg)
+*1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Blick mainaufwärts von der Alten Brücke, rechts der Kuhhirtenturm, 1872, aquarellierte Bleistiftzeichnung, HMF RS0007*
 
-![<p>Carl Theodor Reiffenstein, Sachsenhausen, Stadtmauer, dahinter Frankensteinerhof und Deutschordenshaus, 1836/1888(?), aquarellierte Bleistiftzeichnung, HMF R1673</p>](../../images/R1673_png_54375ec1c933b699ba298df074455952_original.jpg)
-*1836/1888 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Sachsenhausen, Stadtmauer, dahinter Frankensteinerhof und Deutschordenshaus, 1836/1888(?), aquarellierte Bleistiftzeichnung, HMF R1673</p>*
+![Carl Theodor Reiffenstein, Sachsenhausen, Stadtmauer, dahinter Frankensteinerhof und Deutschordenshaus, 1836/1888(?), aquarellierte Bleistiftzeichnung, HMF R1673](../../images/R1673_png_54375ec1c933b699ba298df074455952_original.jpg)
+*1836/1888 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Sachsenhausen, Stadtmauer, dahinter Frankensteinerhof und Deutschordenshaus, 1836/1888(?), aquarellierte Bleistiftzeichnung, HMF R1673*
 
-![<p>Carl Theodor Reiffenstein, Blick auf den Kuhhirtenturm in Sachsenhausen, 1857, aquarellierte Bleistiftzeichnung, HMF RS0022</p>](../../images/RS0022_png_72e9900d8c7d3f224cde80f1d3bbf49c_original.jpg)
-*1857 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Blick auf den Kuhhirtenturm in Sachsenhausen, 1857, aquarellierte Bleistiftzeichnung, HMF RS0022</p>*
+![Carl Theodor Reiffenstein, Blick auf den Kuhhirtenturm in Sachsenhausen, 1857, aquarellierte Bleistiftzeichnung, HMF RS0022](../../images/RS0022_png_72e9900d8c7d3f224cde80f1d3bbf49c_original.jpg)
+*1857 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Blick auf den Kuhhirtenturm in Sachsenhausen, 1857, aquarellierte Bleistiftzeichnung, HMF RS0022*
 
 
 ## Links

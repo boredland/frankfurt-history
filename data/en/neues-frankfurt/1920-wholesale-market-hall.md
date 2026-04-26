@@ -37,5 +37,5 @@ Further reading: Christina Gräwe, Jörg Schilling: Grossmarkthalle Frankfurt am
 *around 1929 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: View of the wholesale market hall*
 
 ![Interior with market stalls](../../images/Grossmarkt_0959a7f3f08d258a45b185e19df18e61_original.jpg)
-*around 1929 — Author: Unbekannt | License: <span class="tab2">privat</span> | Description: Interior with market stalls*
+*around 1929 — Author: Unbekannt | License: privat | Description: Interior with market stalls*
 

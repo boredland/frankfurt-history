@@ -28,8 +28,8 @@ Der Künstler gesteht 1856, dass das Spenglerlädchen „kein architektonisches 
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Spenglerlädchen, Hasengasse 4, 1856, aquarellierte Bleistiftzeichnung, HMF R0794</p>](../../images/R0794_png_d1eb2b64078bf3996b348b44137966b8_original.jpg)
-*1856 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Spenglerlädchen, Hasengasse 4, 1856, aquarellierte Bleistiftzeichnung, HMF R0794</p>*
+![Carl Theodor Reiffenstein, Spenglerlädchen, Hasengasse 4, 1856, aquarellierte Bleistiftzeichnung, HMF R0794](../../images/R0794_png_d1eb2b64078bf3996b348b44137966b8_original.jpg)
+*1856 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Spenglerlädchen, Hasengasse 4, 1856, aquarellierte Bleistiftzeichnung, HMF R0794*
 
 
 ## Links

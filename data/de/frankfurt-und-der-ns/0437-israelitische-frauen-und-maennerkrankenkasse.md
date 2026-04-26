@@ -15,8 +15,8 @@ filters:
 
 *Rechneigrabenstraße 18-20*
 
-![<p>Foto eines Innenraumes in der Rechneigrabenstraße 18-20</p>](../../images/isg_ffm_s7_331ec944dc19ad48c2ce4830b5c2cf30_original.jpg)
-*ca. 1938 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-18992 | Description: <p>Foto eines Innenraumes in der Rechneigrabenstraße 18-20</p>*
+![Foto eines Innenraumes in der Rechneigrabenstraße 18-20](../../images/isg_ffm_s7_331ec944dc19ad48c2ce4830b5c2cf30_original.jpg)
+*ca. 1938 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-18992 | Description: Foto eines Innenraumes in der Rechneigrabenstraße 18-20*
 
 An dieser Stelle befand sich das Krankenhaus der Israelitischen Krankenkassen, das um 1827 nach Plänen des Architekten Rudolf Burnitz gebaut wurde. Das Gebäude mit der Hausnummer 18 war seit 1829 das Krankenhaus der Männerkrankenkasse, in der Nummer 20 wurde 1831 das Krankenhaus der Frauenkrankenkasse eingerichtet. Etwa ab 1923 wurden die beiden Häuser als Altersheim genutzt. 
  
@@ -28,6 +28,6 @@ An dieser Stelle befand sich das Krankenhaus der Israelitischen Krankenkassen, d
 
 ## Gallery
 
-![<p>Foto eines Innenraumes in der Rechneigrabenstraße 18-20</p>](../../images/isg_ffm_s7_331ec944dc19ad48c2ce4830b5c2cf30_original.jpg)
-*ca. 1938 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-18992 | Description: <p>Foto eines Innenraumes in der Rechneigrabenstraße 18-20</p>*
+![Foto eines Innenraumes in der Rechneigrabenstraße 18-20](../../images/isg_ffm_s7_331ec944dc19ad48c2ce4830b5c2cf30_original.jpg)
+*ca. 1938 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-18992 | Description: Foto eines Innenraumes in der Rechneigrabenstraße 18-20*
 

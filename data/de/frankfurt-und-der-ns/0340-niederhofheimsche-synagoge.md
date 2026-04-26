@@ -15,8 +15,8 @@ filters:
 
 *Rechneigrabenstraße 3-5*
 
-![<p>Foto der Außenfassade der Rechneigrabenstraße 3-5; in dem Gebäude befand sich u.a. eine Synagoge, die zeitweise auch als Zwangsarbeitslager genutzt wurde<span class="tab2"><br /></span></p>](../../images/isg_ffm_s7_8b4b1707cc660d2fdf1c43063b62be75_original.jpg)
-*1939 — Author: Fried Lübbecke | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2005-207 | Description: <p>Foto der Außenfassade der Rechneigrabenstraße 3-5; in dem Gebäude befand sich u.a. eine Synagoge, die zeitweise auch als Zwangsarbeitslager genutzt wurde<span class="tab2"><br /></span></p>*
+![Foto der Außenfassade der Rechneigrabenstraße 3-5; in dem Gebäude befand sich u.a. eine Synagoge, die zeitweise auch als Zwangsarbeitslager genutzt wurde](../../images/isg_ffm_s7_8b4b1707cc660d2fdf1c43063b62be75_original.jpg)
+*1939 — Author: Fried Lübbecke | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2005-207 | Description: Foto der Außenfassade der Rechneigrabenstraße 3-5; in dem Gebäude befand sich u.a. eine Synagoge, die zeitweise auch als Zwangsarbeitslager genutzt wurde*
 
 Im ersten Stock der Rechneigrabenstraße 5 befanden sich die Niederhofheim’sche Synagoge und der Russisch-Polnische Betsaal. Beide Institutionen wurden vermutlich Ende des 19. Jahrhunderts eingeweiht. Der Russisch-Polnische Betsaal war größer und hatte Sitzplätze für 120 Männer und 50 Frauen. Jüdinnen und Juden, die aus Polen oder Litauen eingewandert waren, hatten eine eigene Tradition des Betens und Lernens und bevorzugten daher ihre eigenen Betstuben. Die Niederhofheim’sche Synagoge verfügte über 60 Sitzplätze für Männer und 20 für Frauen. Zur Einrichtung gehörten kostbares Mobiliar und wertvolle Kultgegenstände, darunter fünf Torarollen aus dem 16. Jahrhundert, Toraschmuck, Leuchter und Gebetbücher. Ein besonderes Stück war ein Memorbuch aus dem 16. Jahrhundert, ein Gedenkbuch für verstorbene Gemeindemitglieder, vor allem solche, die wegen ihres Glaubens getötet worden waren. Die umfangreiche Bibliothek der Synagoge ging auf den Rabbiner Benjamin Niederhofheim (1810-1885) zurück. Nach ihm wurde die Synagoge auch benannt. Seine Privatbibliothek beinhaltete seltene Bücher und Handschriften aus dem 16. Jahrhundert. Der Talmudgelehrte Ephraim Ginsberg beschrieb die Niederhofheim’sche Synagoge als „klein, aber unvergesslich schön eingerichtet“.
  
@@ -30,6 +30,6 @@ Im ersten Stock der Rechneigrabenstraße 5 befanden sich die Niederhofheim’sch
 
 ## Gallery
 
-![<p>Foto der Außenfassade der Rechneigrabenstraße 3-5; in dem Gebäude befand sich u.a. eine Synagoge, die zeitweise auch als Zwangsarbeitslager genutzt wurde<span class="tab2"><br /></span></p>](../../images/isg_ffm_s7_8b4b1707cc660d2fdf1c43063b62be75_original.jpg)
-*1939 — Author: Fried Lübbecke | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2005-207 | Description: <p>Foto der Außenfassade der Rechneigrabenstraße 3-5; in dem Gebäude befand sich u.a. eine Synagoge, die zeitweise auch als Zwangsarbeitslager genutzt wurde<span class="tab2"><br /></span></p>*
+![Foto der Außenfassade der Rechneigrabenstraße 3-5; in dem Gebäude befand sich u.a. eine Synagoge, die zeitweise auch als Zwangsarbeitslager genutzt wurde](../../images/isg_ffm_s7_8b4b1707cc660d2fdf1c43063b62be75_original.jpg)
+*1939 — Author: Fried Lübbecke | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2005-207 | Description: Foto der Außenfassade der Rechneigrabenstraße 3-5; in dem Gebäude befand sich u.a. eine Synagoge, die zeitweise auch als Zwangsarbeitslager genutzt wurde*
 

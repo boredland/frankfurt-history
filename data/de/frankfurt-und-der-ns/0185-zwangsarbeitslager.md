@@ -15,8 +15,8 @@ filters:
 
 *Palleskestraße 32*
 
-![<span class="tab2">Zwangsarbeitslager, Palleskestraße 32</span>](../../images/bbcb9fedc56e853b77de79fbc39f494b_original.jpg)
-*ca. 1914 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-23146 | Description: <span class="tab2">Zwangsarbeitslager, Palleskestraße 32</span>*
+![Zwangsarbeitslager, Palleskestraße 32](../../images/bbcb9fedc56e853b77de79fbc39f494b_original.jpg)
+*ca. 1914 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-23146 | Description: Zwangsarbeitslager, Palleskestraße 32*
 
 Hier befand sich ein Zwangsarbeitslager der Maschinenfabrik Breuerwerke, die ihren Sitz in der Kurmainzer Straße 2-4 hatte. 
  Mit Kriegsbeginn passten alle Fabriken ihre Produktion an die Bedürfnisse der Wehrmacht an. Um die kriegswichtige Produktion aufrechtzuerhalten, wurden Zwangsarbeiter*innen eingesetzt. Sie mussten die zum Militär eingezogenen Arbeitskräfte ersetzen. 
@@ -26,8 +26,8 @@ Hier befand sich ein Zwangsarbeitslager der Maschinenfabrik Breuerwerke, die ihr
 
 ## Gallery
 
-![<span class="tab2">Zwangsarbeitslager, Palleskestraße 32</span>](../../images/bbcb9fedc56e853b77de79fbc39f494b_original.jpg)
-*ca. 1914 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-23146 | Description: <span class="tab2">Zwangsarbeitslager, Palleskestraße 32</span>*
+![Zwangsarbeitslager, Palleskestraße 32](../../images/bbcb9fedc56e853b77de79fbc39f494b_original.jpg)
+*ca. 1914 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-23146 | Description: Zwangsarbeitslager, Palleskestraße 32*
 
 
 ## Links

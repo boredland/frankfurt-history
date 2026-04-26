@@ -40,11 +40,11 @@ Edith Marcello (geb. Schmidt, *1937) ist Dokumentarfilmerin. Sie studierte Maler
 ![Fotonegative und Kontaktabzüge der Frauendemo am 25.10.75 in Frankfurt, Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Edith Marcello, Signatur EM/FF6](../../images/EM_FF_006__3a75493559f913ff42cedfb4370e9a7f_original.jpg)
 *25.10.1975 — Author: Edith Marcello | License: Edith Marcello | Description: Fotonegative und Kontaktabzüge der Frauendemo am 25.10.75 in Frankfurt, Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Edith Marcello, Signatur EM/FF6*
 
-!["Filmstill PIERBURG: IHR KAMPF IST UNSER KAMPF (1974/75)<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Edith Marcello"](../../images/Still Pier_22d94f54b3e7a30f756568effbdb765e_original.jpg)
-*1974 — Author: Edith Marcello, David Wittenberg | License: Edith Marcello, David Wittenberg | Description: "Filmstill PIERBURG: IHR KAMPF IST UNSER KAMPF (1974/75)<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Edith Marcello"*
+!["Filmstill PIERBURG: IHR KAMPF IST UNSER KAMPF (1974/75)Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Edith Marcello"](../../images/Still Pier_22d94f54b3e7a30f756568effbdb765e_original.jpg)
+*1974 — Author: Edith Marcello, David Wittenberg | License: Edith Marcello, David Wittenberg | Description: "Filmstill PIERBURG: IHR KAMPF IST UNSER KAMPF (1974/75)Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Edith Marcello"*
 
-!["Filmstill PIERBURG: IHR KAMPF IST UNSER KAMPF (1974/75);<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Edith Marcello"](../../images/Still Pier_bd726a1fafebab6f811ddcb9faaac0e8_original.jpg)
-*1974 — Author: Edith Marcello, David Wittenberg | License: Edith Marcello, David Wittenberg | Description: "Filmstill PIERBURG: IHR KAMPF IST UNSER KAMPF (1974/75);<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Edith Marcello"*
+!["Filmstill PIERBURG: IHR KAMPF IST UNSER KAMPF (1974/75);Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Edith Marcello"](../../images/Still Pier_bd726a1fafebab6f811ddcb9faaac0e8_original.jpg)
+*1974 — Author: Edith Marcello, David Wittenberg | License: Edith Marcello, David Wittenberg | Description: "Filmstill PIERBURG: IHR KAMPF IST UNSER KAMPF (1974/75);Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Edith Marcello"*
 
 ![Filmplakat PIERBURG: IHR KAMPF IST UNSER KAMPF (1974/75), Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Edith Marcello](../../images/Plakat PIE_fe64a7be1085c1d2b5df54e1d40c701f_original.jpg)
 *1974/75 — Author: Edith Marcello, David Wittenberg | License: Edith Marcello, David Wittenberg | Description: Filmplakat PIERBURG: IHR KAMPF IST UNSER KAMPF (1974/75), Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Edith Marcello*
@@ -58,7 +58,7 @@ Edith Marcello (geb. Schmidt, *1937) ist Dokumentarfilmerin. Sie studierte Maler
 
 ## Video
 
-  *Description: <p>DAS HAT MICH SEHR VERÄNDERT - DAS FRANKFURTER FRAUENZIMMER (Ausschnitt)</p>*
+  *Description: DAS HAT MICH SEHR VERÄNDERT - DAS FRANKFURTER FRAUENZIMMER (Ausschnitt)*
 
 ## Links
 

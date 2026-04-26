@@ -34,7 +34,7 @@ From 1941, Emanuel was required to wear a Star of David. Four years later, he we
 *n. d. — Author: Unbekannt | License: © Stadt Frankfurt am Main, Nachkriegsaufstellung Liste G, Devisenstelle Landeszentralbank Frankfurt a. M, 2.1.1.1 / 70364469 /in conformity with IST Digital Archive, Arolsen Archives | Description: Foreign exchange report for Emanuel Rothschild*
 
 ![The memorial stones at Neue Mainzer Strasse 76 commemorate Emanuel and Elisabeth Rothschild, who suffered under the National Socialists.](../../images/Stolperste_1c3ae7f3b87e9903bc584a0118a4dae5_original.jpg)
-*2024 — Author: Aliah Habl Corona | License: <span class="tab2">gemeinfrei</span> | Description: The memorial stones at Neue Mainzer Strasse 76 commemorate Emanuel and Elisabeth Rothschild, who suffered under the National Socialists.*
+*2024 — Author: Aliah Habl Corona | License: gemeinfrei | Description: The memorial stones at Neue Mainzer Strasse 76 commemorate Emanuel and Elisabeth Rothschild, who suffered under the National Socialists.*
 
 
 ## Audio

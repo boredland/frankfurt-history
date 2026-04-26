@@ -15,7 +15,7 @@ filters:
 *Hedderichstraße 104-116*
 
 ![Foto: Jean Meyer, undatiert, HMF Ph18838](../../images/21d678dedd73d1e6baeae76ae672c349_original.jpg)
-*Unbekannt — Author: Jean Meyer | License: <a href="mailto:info@frankfurt-und-der-ns.de">info@frankfurt-und-der-ns.de</a> | Description: Foto: Jean Meyer, undatiert, HMF Ph18838*
+*Unbekannt — Author: Jean Meyer | License: info@frankfurt-und-der-ns.de | Description: Foto: Jean Meyer, undatiert, HMF Ph18838*
 
 In der Hedderichstraße 104-116 betrieb die David Stempel AG ein Lager für Zivilarbeiter.
 

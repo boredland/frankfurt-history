@@ -14,8 +14,8 @@ filters:
 
 *Töngesgasse 19*
 
-![<p>Kolorierte Lithografie: Ansturm der österreichischen Infanterie auf die erbittert verteidigte Barrikade in der Töngesgasse.</p>](../../images/46762bf0ff92f1954a25e9d0bd9faf5d_original.jpg)
-*1848 — Author: Eduard Gustav May | License: HMF C 8429 | Description: <p>Kolorierte Lithografie: Ansturm der österreichischen Infanterie auf die erbittert verteidigte Barrikade in der Töngesgasse.</p>*
+![Kolorierte Lithografie: Ansturm der österreichischen Infanterie auf die erbittert verteidigte Barrikade in der Töngesgasse.](../../images/46762bf0ff92f1954a25e9d0bd9faf5d_original.jpg)
+*1848 — Author: Eduard Gustav May | License: HMF C 8429 | Description: Kolorierte Lithografie: Ansturm der österreichischen Infanterie auf die erbittert verteidigte Barrikade in der Töngesgasse.*
 
 Der vom Liebfrauenberg aus auf eine am Ende der Töngesgasse errichtete, fast zwei Stockwerke hohe Barrikade geführte Angriff geriet zum Fehlschlag. Schon von weitem wurden die vorrückenden Österreicher von einem auf der Barrikade stehenden und eine rote Fahne schwenkenden Turner mit dem Ruf „Es lebe Hecker, es lebe die Republik!“ in Empfang genommen.
 
@@ -27,6 +27,6 @@ Der Pulverdampf behinderte in den engen Gassen die Sicht. Die österreichische I
 
 ## Gallery
 
-![<p>Kolorierte Lithografie: Ansturm der österreichischen Infanterie auf die erbittert verteidigte Barrikade in der Töngesgasse.</p>](../../images/Route 3, S_b64323af0f0b9bed7191237d0ee4bfc2_original.jpg)
-*1848 — Author: Eduard Gustav May | License: HMF C 8429 | Description: <p>Kolorierte Lithografie: Ansturm der österreichischen Infanterie auf die erbittert verteidigte Barrikade in der Töngesgasse.</p>*
+![Kolorierte Lithografie: Ansturm der österreichischen Infanterie auf die erbittert verteidigte Barrikade in der Töngesgasse.](../../images/Route 3, S_b64323af0f0b9bed7191237d0ee4bfc2_original.jpg)
+*1848 — Author: Eduard Gustav May | License: HMF C 8429 | Description: Kolorierte Lithografie: Ansturm der österreichischen Infanterie auf die erbittert verteidigte Barrikade in der Töngesgasse.*
 

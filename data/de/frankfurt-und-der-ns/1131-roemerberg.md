@@ -14,8 +14,8 @@ filters:
 
 *Video Schultheater-Studio*
 
-![<p>Postkarte "Was geht mich der 8. Mai an?"</p>](../../images/9702006de4bcfee2df06f9881010687b_original.jpg)
-*Description: <p>Postkarte "Was geht mich der 8. Mai an?"</p>*
+![Postkarte "Was geht mich der 8. Mai an?"](../../images/9702006de4bcfee2df06f9881010687b_original.jpg)
+*Description: Postkarte "Was geht mich der 8. Mai an?"*
 
 Römerberg
 
@@ -23,8 +23,8 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
-![<p>Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne</p>](../../images/Ph03224a_j_bdae36c341a3ed7d3683b2d62b12c23a_original.jpg)
-*Author: Hannah Reeck | License: HMF Ph03224a | Description: <p>Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne</p>*
+![Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne](../../images/Ph03224a_j_bdae36c341a3ed7d3683b2d62b12c23a_original.jpg)
+*Author: Hannah Reeck | License: HMF Ph03224a | Description: Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne*
 
 
 ## Video

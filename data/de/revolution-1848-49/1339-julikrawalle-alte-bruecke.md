@@ -14,8 +14,8 @@ filters:
 
 *Alte Brücke*
 
-![<p>Foto der steinernen Alten Brücke</p>](../../images/5b26b6168ee65958f299b21c131f682a_original.jpg)
-*um 1860 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 738 | Description: <p>Foto der steinernen Alten Brücke</p>*
+![Foto der steinernen Alten Brücke](../../images/5b26b6168ee65958f299b21c131f682a_original.jpg)
+*um 1860 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 738 | Description: Foto der steinernen Alten Brücke*
 
 Krawalle entflammten sich 1848 auch an zu kleinen Brötchen und schlechtem Brot – so im Juli in Sachsenhausen. Der dortige Bäckermeisters Jost erntete hierfür eingeworfene Scheiben und Katzenmusiken. Es folgten willkürliche Verhaftungen durch die Polizei, die Befreiung der Inhaftierten durch Sachsenhäuser Bewohner und ein Feuergefecht in der Brückenstraße zwischen 120 Soldaten des Linienmilitärs und Sachsenhäusern, unterstützt durch eine Bürgerwehrabteilung.
 
@@ -25,6 +25,6 @@ Nach dem Tod eines Soldaten zog sich das Linienmilitär zurück und die Sachsenh
 
 ## Gallery
 
-![<p>Foto der steinernen Alten Brücke</p>](../../images/12 Alte Br_28e8ac7cbd4a969282352901795838b9_original.jpg)
-*um 1860 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 738 | Description: <p>Foto der steinernen Alten Brücke</p>*
+![Foto der steinernen Alten Brücke](../../images/12 Alte Br_28e8ac7cbd4a969282352901795838b9_original.jpg)
+*um 1860 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 738 | Description: Foto der steinernen Alten Brücke*
 

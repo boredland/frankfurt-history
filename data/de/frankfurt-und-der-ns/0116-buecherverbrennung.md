@@ -15,8 +15,8 @@ filters:
 
 *Römerberg*
 
-![<p>Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand</p>](../../images/B1614_jpg_c2c481455aee1ae5e47def229dacefa3_original.jpg)
-*1933 — Author: Heinz Woelcke | License: HMF B1614 | Description: <p>Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand</p>*
+![Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand](../../images/B1614_jpg_c2c481455aee1ae5e47def229dacefa3_original.jpg)
+*1933 — Author: Heinz Woelcke | License: HMF B1614 | Description: Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand*
 
 Auf dem Römerberg finden Sie zwischen Alter Nikolaikirche und Gerechtigkeitsbrunnen eine Bronzetafel zum Gedenken an die Bücherverbrennung. Diese wurde am 10. Mai 1933 auf dem Römerberg veranstaltet. Universitätsangehörige verbrannten hier Bücher von 131 Autor*innen wie beispielsweise Bertha von Suttner, Thomas und Heinrich Mann, Hilde Marx, Erich Kästner, Erich Maria Remarque und Anna Seghers. Reichsweit gab es insgesamt 22 Bücherverbrennungen in Universitätsstädten, die von der Deutschen Studentenschaft organisiert wurden. 
  Am Abend des 10. Mai zogen Studierende, Lehrkräfte und Angehörige der SA und SS von der Universität zum Römerberg. Der Zug wurde von einer Marschkapelle der SS begleitet. Die Bücher lagen auf einem Ochsenkarren, der von einem Landwirt ausgeliehen worden war. Sie wurden auf einen Scheiterhaufen geworfen, den nationalsozialistische Studierende auf dem Römerberg errichtet hatten. Der evangelische Hochschulpfarrer Otto Fricke und der Hochschulgruppenführer Georg Wilhelm Müller hielten Reden, in denen sie die Aktion als Bekenntnis zum neuen Staat und zum „deutschen Volk“ feierten.
@@ -33,6 +33,6 @@ Die Menschen, die um mich standen, rückten von mir ab, keiner sagte ein Wort, e
 
 ## Gallery
 
-![<p>Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand</p>](../../images/B1614_jpg_c2c481455aee1ae5e47def229dacefa3_original.jpg)
-*1933 — Author: Heinz Woelcke | License: HMF B1614 | Description: <p>Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand</p>*
+![Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand](../../images/B1614_jpg_c2c481455aee1ae5e47def229dacefa3_original.jpg)
+*1933 — Author: Heinz Woelcke | License: HMF B1614 | Description: Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand*
 

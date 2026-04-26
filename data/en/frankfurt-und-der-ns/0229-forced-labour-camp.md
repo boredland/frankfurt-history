@@ -15,7 +15,7 @@ filters:
 *Hedderichstraße 104-116*
 
 ![Foto: Jean Meyer, undatiert, HMF Ph18838](../../images/21d678dedd73d1e6baeae76ae672c349_original.jpg)
-*Author: Jean Meyer | License: <a href="mailto:info@frankfurt-und-der-ns.de">info@frankfurt-und-der-ns.de</a> | Description: Foto: Jean Meyer, undatiert, HMF Ph18838*
+*Author: Jean Meyer | License: info@frankfurt-und-der-ns.de | Description: Foto: Jean Meyer, undatiert, HMF Ph18838*
 
 David Stempel AG ran a camp for forced laborers at Hedderichstraße 104-116.
 

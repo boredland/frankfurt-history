@@ -31,7 +31,7 @@ Ab 1941 musste Emanuel den Judenstern tragen. Ab 1945 versteckte sich Emanuel in
 *o. D. — Author: Unbekannt | License: © Stadt Frankfurt am Main, Nachkriegsaufstellung Liste G, Devisenstelle Landeszentralbank Frankfurt a. M, 2.1.1.1 / 70364469 /in conformity with IST Digital Archive, Arolsen Archives | Description: Devisenbericht von Emanuel Rothschild.*
 
 ![Die Stolpersteine in der Neue Mainzer Straße 76 erinnern an Emanuel und Elisabeth Rothschild, die unter den Nationalsozialist*innen litten.](../../images/Stolperste_1c3ae7f3b87e9903bc584a0118a4dae5_original.jpg)
-*2024 — Author: Aliah Habl Corona | License: <span class="tab2">gemeinfrei</span> | Description: Die Stolpersteine in der Neue Mainzer Straße 76 erinnern an Emanuel und Elisabeth Rothschild, die unter den Nationalsozialist*innen litten.*
+*2024 — Author: Aliah Habl Corona | License: gemeinfrei | Description: Die Stolpersteine in der Neue Mainzer Straße 76 erinnern an Emanuel und Elisabeth Rothschild, die unter den Nationalsozialist*innen litten.*
 
 
 ## Audio

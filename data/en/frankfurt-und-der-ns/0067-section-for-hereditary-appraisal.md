@@ -15,8 +15,8 @@ filters:
 
 *Römerberg 27*
 
-![<p>Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570</p>](../../images/9d222e2d06c483b6fddcff7750d59b16_original.jpg)
-*ca. 1930 — Author: Staatliche Bildstelle Berlin | Description: <p>Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570</p>*
+![Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570](../../images/9d222e2d06c483b6fddcff7750d59b16_original.jpg)
+*ca. 1930 — Author: Staatliche Bildstelle Berlin | Description: Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570*
 
 The city health authority’s “Hereditary Appraisal Office for Marriage Loans” was located here in the building once known as “Zum Salzeck” (now the Römerberg). In August 1935, with the marriage counselling centre integrated into the “hereditary appraisal” department, these two functions became institutionally linked. From 1935, marriage counselling was obligatory for all couples. Without it, they could not obtain the certificate attesting to the suitability of their marriage required by the registry office. The framework for these processes was established by the Nuremberg Laws to protect so-called “racial purity” as well as the “Law for the Protection of the Hereditary Health of the German People”, both passed in 1935. Most Germans were forbidden to marry a Jew, a member of the Sinti or Roma communities, or a person of colour.
 
@@ -26,6 +26,6 @@ The city health authority’s “Hereditary Appraisal Office for Marriage Loans�
 
 ## Gallery
 
-![<p>Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570</p>](../../images/9d222e2d06c483b6fddcff7750d59b16_original.jpg)
-*ca. 1930 — Author: Staatliche Bildstelle Berlin | Description: <p>Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570</p>*
+![Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570](../../images/9d222e2d06c483b6fddcff7750d59b16_original.jpg)
+*ca. 1930 — Author: Staatliche Bildstelle Berlin | Description: Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570*
 

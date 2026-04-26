@@ -14,8 +14,8 @@ filters:
 
 *Rotlintstraße 70*
 
-![<p>Stolperstein von Karoline Veith</p>](../../images/5d25238b4ac4e191434a610507b2974d_original.jpg)
-*Author: Erika und Günter Krämer | License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein von Karoline Veith</p>*
+![Stolperstein von Karoline Veith](../../images/5d25238b4ac4e191434a610507b2974d_original.jpg)
+*Author: Erika und Günter Krämer | License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein von Karoline Veith*
 
 Jehovas Zeugen gehörten viele Jahre zu den „vergessenen Opfern“ und fanden kaum Erwähnung. Wir möchten die Frankfurter Opfer aus der Vergessenheit holen. Seit 1997 wird an die Frankfurter Zeugen Jehovas erinnert, die unter dem NS-Regime wegen ihrer christlichen Überzeugung gelitten haben. Durch ehrenamtliche Tätigkeit wird in den Archiven und Gedenkstätten das Erlebte der Opfer aufgearbeitet.
 
@@ -25,8 +25,8 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
-![<p>Stolperstein von Karoline Veith</p>](../../images/5d25238b4ac4e191434a610507b2974d_original.jpg)
-*Author: Erika und Günter Krämer | License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein von Karoline Veith</p>*
+![Stolperstein von Karoline Veith](../../images/5d25238b4ac4e191434a610507b2974d_original.jpg)
+*Author: Erika und Günter Krämer | License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein von Karoline Veith*
 
 
 ## Links

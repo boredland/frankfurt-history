@@ -14,8 +14,8 @@ filters:
 
 *Pfingstweidstraße 10*
 
-![<p>Kolorierter Holzstich: Um die Rednertribüne auf der Pfingstweide drängen sich Arbeiter und Turner mit ihren Vereinsfahnen.</p>](../../images/121daac38032e015f823c96a645e39e7_original.jpg)
-*1848 — Author: P. C. Geissler | License: HMF C 10169 | Description: <p>Kolorierter Holzstich: Um die Rednertribüne auf der Pfingstweide drängen sich Arbeiter und Turner mit ihren Vereinsfahnen.</p>*
+![Kolorierter Holzstich: Um die Rednertribüne auf der Pfingstweide drängen sich Arbeiter und Turner mit ihren Vereinsfahnen.](../../images/121daac38032e015f823c96a645e39e7_original.jpg)
+*1848 — Author: P. C. Geissler | License: HMF C 10169 | Description: Kolorierter Holzstich: Um die Rednertribüne auf der Pfingstweide drängen sich Arbeiter und Turner mit ihren Vereinsfahnen.*
 
 Auf der vor dem Allerheiligentor gelegenen Pfingstweide strömten am Nachmittag des 17. September 1848 vermutlich mehr als 10.000 Protestierende zusammen. Mit Ludwig Simon von Trier, Friedrich Wilhelm Schlöffel, Hugo Maximilian Wesendonck und Franz Heinrich Zitz ergriffen auch vier Paulskirchenabgeordnete der äußerst links stehenden Donnersberg-Fraktion das Wort. Zwischenrufer, die ihre mitgebrachten Knüppel schwangen und Parolen wie „Das Parlament muss gesprengt werden!“ oder „Der Rechten die Hälse ab!“ skandierten, stachelten den Volkszorn weiter an.
 
@@ -27,6 +27,6 @@ Die Kundgebung endete mit dem Aufruf an die Zugereisten, über Nacht in Frankfur
 
 ## Gallery
 
-![<p>Kolorierter Holzstich: Um die Rednertribüne auf der Pfingstweide drängen sich Arbeiter und Turner mit ihren Vereinsfahnen.</p>](../../images/Route 3, S_ec98624f7485ea4a4dc2e1e3764bd424_original.jpg)
-*1848 — Author: P. C. Geissler | License: HMF  C 10169 | Description: <p>Kolorierter Holzstich: Um die Rednertribüne auf der Pfingstweide drängen sich Arbeiter und Turner mit ihren Vereinsfahnen.</p>*
+![Kolorierter Holzstich: Um die Rednertribüne auf der Pfingstweide drängen sich Arbeiter und Turner mit ihren Vereinsfahnen.](../../images/Route 3, S_ec98624f7485ea4a4dc2e1e3764bd424_original.jpg)
+*1848 — Author: P. C. Geissler | License: HMF  C 10169 | Description: Kolorierter Holzstich: Um die Rednertribüne auf der Pfingstweide drängen sich Arbeiter und Turner mit ihren Vereinsfahnen.*
 

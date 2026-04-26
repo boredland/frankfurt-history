@@ -26,14 +26,14 @@ Die Konstablerwache wurde in der zweiten Hälfte des 17. Jahrhunderts nördlich 
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Konstablerwache, 1857/1879, aquarellierte Bleistiftzeichnung, HMF R1586</p>](../../images/R1586_png_b2b54be19a687886f0944628251a6873_original.jpg)
-*1857/1879 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Konstablerwache, 1857/1879, aquarellierte Bleistiftzeichnung, HMF R1586</p>*
+![Carl Theodor Reiffenstein, Konstablerwache, 1857/1879, aquarellierte Bleistiftzeichnung, HMF R1586](../../images/R1586_png_b2b54be19a687886f0944628251a6873_original.jpg)
+*1857/1879 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Konstablerwache, 1857/1879, aquarellierte Bleistiftzeichnung, HMF R1586*
 
-![<p>Carl Theodor Reiffenstein, Konstablerwache, Hofansicht mit Treppenturm (während des Abbruchs), 1887/1892, aquarellierte Bleistiftzeichnung, HMF R1678</p>](../../images/R1678_png_99337085b4c6abaf318b19e1c3e27124_original.jpg)
-*1887/1892 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Konstablerwache, Hofansicht mit Treppenturm (während des Abbruchs), 1887/1892, aquarellierte Bleistiftzeichnung, HMF R1678</p>*
+![Carl Theodor Reiffenstein, Konstablerwache, Hofansicht mit Treppenturm (während des Abbruchs), 1887/1892, aquarellierte Bleistiftzeichnung, HMF R1678](../../images/R1678_png_99337085b4c6abaf318b19e1c3e27124_original.jpg)
+*1887/1892 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Konstablerwache, Hofansicht mit Treppenturm (während des Abbruchs), 1887/1892, aquarellierte Bleistiftzeichnung, HMF R1678*
 
-![<p>Carl Theodor Reiffenstein, Zeughaus an der Konstablerwache, Turm im Hof, vom Graben aus gesehen, 1865/1866, aquarellierte Bleistiftzeichnung, HMF R0800</p>](../../images/R0800_png_b7dd6636354e5520e326e21a4b7460a5_original.jpg)
-*1865/1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Zeughaus an der Konstablerwache, Turm im Hof, vom Graben aus gesehen, 1865/1866, aquarellierte Bleistiftzeichnung, HMF R0800</p>*
+![Carl Theodor Reiffenstein, Zeughaus an der Konstablerwache, Turm im Hof, vom Graben aus gesehen, 1865/1866, aquarellierte Bleistiftzeichnung, HMF R0800](../../images/R0800_png_b7dd6636354e5520e326e21a4b7460a5_original.jpg)
+*1865/1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Zeughaus an der Konstablerwache, Turm im Hof, vom Graben aus gesehen, 1865/1866, aquarellierte Bleistiftzeichnung, HMF R0800*
 
 
 ## Links

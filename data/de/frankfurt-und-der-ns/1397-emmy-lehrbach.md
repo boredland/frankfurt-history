@@ -14,8 +14,8 @@ filters:
 
 *Hinter den Ulmen 22*
 
-![<p>Missions-Fahrt mit LKW; L-000290</p>](../../images/7dab7dca31c38a43bd44788b7799e730_original.jpg)
-*1932 — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Missions-Fahrt mit LKW; L-000290</p>*
+![Missions-Fahrt mit LKW; L-000290](../../images/7dab7dca31c38a43bd44788b7799e730_original.jpg)
+*1932 — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Missions-Fahrt mit LKW; L-000290*
 
 Jehovas Zeugen gehörten viele Jahre zu den „vergessenen Opfern“ und fanden kaum Erwähnung. Wir möchten die Frankfurter Opfer aus der Vergessenheit holen. Seit 1997 wird an die Frankfurter Zeugen Jehovas erinnert, die unter dem NS-Regime wegen ihrer christlichen Überzeugung gelitten haben. Durch ehrenamtliche Tätigkeit wird in den Archiven und Gedenkstätten das Erlebte der Opfer aufgearbeitet.
 
@@ -25,14 +25,14 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
-![<p>Missions-Fahrt mit LKW; L-000290</p>](../../images/Lehrbach_E_db61df1613d202b457b6021403c8c430_original.jpg)
-*1932 — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Missions-Fahrt mit LKW; L-000290</p>*
+![Missions-Fahrt mit LKW; L-000290](../../images/Lehrbach_E_db61df1613d202b457b6021403c8c430_original.jpg)
+*1932 — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Missions-Fahrt mit LKW; L-000290*
 
-![<p>Familie Lehrbach; L-000446</p>](../../images/Lehrbach_E_044679cd3f14a7ee557d6eee8d36f554_original.jpg)
-*License: 1936 | Description: <p>Familie Lehrbach; L-000446</p>*
+![Familie Lehrbach; L-000446](../../images/Lehrbach_E_044679cd3f14a7ee557d6eee8d36f554_original.jpg)
+*License: 1936 | Description: Familie Lehrbach; L-000446*
 
-![<p>Stolperstein für Emmy Lehrbach</p>](../../images/Emmy Lehrb_79dcd3969287a6d423b5a4b4d23af7ec_original.jpg)
-*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein für Emmy Lehrbach</p>*
+![Stolperstein für Emmy Lehrbach](../../images/Emmy Lehrb_79dcd3969287a6d423b5a4b4d23af7ec_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein für Emmy Lehrbach*
 
 
 ## Links

@@ -14,8 +14,8 @@ filters:
 
 *Rohrbachstraße 58*
 
-![<p>Portrait of Martin Bertram</p>](../../images/66400af5503bf866d5ffee375ec1b854_original.jpg)
-*1920er Jahre — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Portrait of Martin Bertram</p>*
+![Portrait of Martin Bertram](../../images/66400af5503bf866d5ffee375ec1b854_original.jpg)
+*1920er Jahre — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Portrait of Martin Bertram*
 
 For many years, Jehovah's Witnesses belonged to the "forgotten victims" and were hardly mentioned. We would like to bring the Frankfurt victims out of oblivion. Since 1997, the Frankfurt Jehovah's Witnesses who suffered under the Nazi regime because of their Christian convictions, have been remembered. Through volunteer work, archives and memorials are researching the experiences of the victims.
 
@@ -25,14 +25,14 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
-![<p>Portrait of Martin Bertram, M-000473</p>](../../images/Bertram_ M_38d9d91bb679cf19c0906abfe37e8d29_original.jpg)
-*1920s — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Portrait of Martin Bertram, M-000473</p>*
+![Portrait of Martin Bertram, M-000473](../../images/Bertram_ M_38d9d91bb679cf19c0906abfe37e8d29_original.jpg)
+*1920s — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Portrait of Martin Bertram, M-000473*
 
-![<p>Bakery, Shop; S-001671</p>](../../images/Bertram_Ma_934d6f2e56b5a0b6b78339173f97ed53_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Bakery, Shop; S-001671</p>*
+![Bakery, Shop; S-001671](../../images/Bertram_Ma_934d6f2e56b5a0b6b78339173f97ed53_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Bakery, Shop; S-001671*
 
-![<p>Bakery, bakehouse; S-001670</p>](../../images/Bertram_Ma_e831e7fd975b3df334b94c668deeb2dd_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Bakery, bakehouse; S-001670</p>*
+![Bakery, bakehouse; S-001670](../../images/Bertram_Ma_e831e7fd975b3df334b94c668deeb2dd_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Bakery, bakehouse; S-001670*
 
 
 ## Links

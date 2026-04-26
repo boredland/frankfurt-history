@@ -33,8 +33,8 @@ Die Erinnerung an ihn und seine Familie bleibt, denn nächstes Jahr (2025) werde
 
 ## Gallery
 
-![<span class="tab2">Staufenstraße 33 (heute): Das Haus von Jakob Horovitz</span>](../../images/Staufenstr_fc4d9a37545728a7cc9ee06815e2ef8d_original.jpg)
-*2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: <span class="tab2">Staufenstraße 33 (heute): Das Haus von Jakob Horovitz</span>*
+![Staufenstraße 33 (heute): Das Haus von Jakob Horovitz](../../images/Staufenstr_fc4d9a37545728a7cc9ee06815e2ef8d_original.jpg)
+*2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Staufenstraße 33 (heute): Das Haus von Jakob Horovitz*
 
 
 ## Links

@@ -15,8 +15,8 @@ filters:
 
 *Bockenheimer Landstraße 10*
 
-![<p>Foto des Rothschild-Palais in der Bockenheimer Landstraße 10</p>](../../images/C28607_jpg_5c3277d445d3ad104a76103dad192be8_original.jpg)
-*ca. 1930 — Author: Leonhard Kleemann | License: HMF C28607 | Description: <p>Foto des Rothschild-Palais in der Bockenheimer Landstraße 10</p>*
+![Foto des Rothschild-Palais in der Bockenheimer Landstraße 10](../../images/C28607_jpg_5c3277d445d3ad104a76103dad192be8_original.jpg)
+*ca. 1930 — Author: Leonhard Kleemann | License: HMF C28607 | Description: Foto des Rothschild-Palais in der Bockenheimer Landstraße 10*
 
 Der Frankfurter Privatsammler, Bankier und Mäzen Maximilian Freiherr von Goldschmidt-Rothschild (1843-1940) entstammte der jüdischen Familie Goldschmidt-Kassel. Er lebte mit seiner Frau Minna Caroline von Rothschild und den fünf Kindern im Rothschild-Palais, einem ehemaligen Land- und Sommerhaus von Mayer Amschel Rothschild, an der Bockenheimer Landstraße 10.
  
@@ -32,8 +32,8 @@ Der Frankfurter Privatsammler, Bankier und Mäzen Maximilian Freiherr von Goldsc
 
 ## Gallery
 
-![<p>Foto des Rothschild-Palais in der Bockenheimer Landstraße 10</p>](../../images/C28607_jpg_5c3277d445d3ad104a76103dad192be8_original.jpg)
-*ca. 1930 — Author: Leonhard Kleemann | License: HMF C28607 | Description: <p>Foto des Rothschild-Palais in der Bockenheimer Landstraße 10</p>*
+![Foto des Rothschild-Palais in der Bockenheimer Landstraße 10](../../images/C28607_jpg_5c3277d445d3ad104a76103dad192be8_original.jpg)
+*ca. 1930 — Author: Leonhard Kleemann | License: HMF C28607 | Description: Foto des Rothschild-Palais in der Bockenheimer Landstraße 10*
 
 
 ## Links

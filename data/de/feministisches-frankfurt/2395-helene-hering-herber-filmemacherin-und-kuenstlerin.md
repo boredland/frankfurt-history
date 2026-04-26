@@ -14,8 +14,8 @@ filters:
 
 *Kinothek Asta Nielsen e.V.*
 
-![Portrait der Filmemacherin und Künstlerin Helene Hering-Herber<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber](../../images/a9091f8b0a5d28d481675c53682d6640_original.png)
-*nicht feststellbar — Author: Barbara T. Pohle | License: Helene Hering-Herber | Description: Portrait der Filmemacherin und Künstlerin Helene Hering-Herber<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber*
+![Portrait der Filmemacherin und Künstlerin Helene Hering-HerberQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber](../../images/a9091f8b0a5d28d481675c53682d6640_original.png)
+*nicht feststellbar — Author: Barbara T. Pohle | License: Helene Hering-Herber | Description: Portrait der Filmemacherin und Künstlerin Helene Hering-HerberQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber*
 
 Die bildende Künstlerin und Experimentalfilm-Macherin Helene Hering-Herber wurde 1946 in Frankfurt geboren. In den 1980er Jahren betrieb sie das „Kleine Kinoprojekt -Filme für Frauen von Frauen“, das kostenlose Filmvorführungen in Berliner Frauencafés anbot. Die Kinothek Asta Nielsen e.V. hat einen Teil ihres Nachlasses von ihrer Lebensgefährtin Barbara T. Pohle übernommen. Darunter finden sich ihre drei Super8-Filme LA RELIGIEUSE (1983), DAS KONFISZIERTE LEBEN (Jahr unbekannt) und VÖLLIG NORMAL (1986) sowie Collagen, Copy-Art, Chemiegramme sowie Polaroidfotos. Die Kinothek Asta Nielsen e.V. hat einen Teil ihres Nachlasses von ihrer Lebensgefährtin Barbara T. Pohle übernommen. Darunter finden sich die Filme, Collagen, Copy-Art, Chemiegramme sowie Polaroidfotos.
 
@@ -25,20 +25,20 @@ Helene Hering-Herber lebte und arbeitete in verschiedenen Ländern, darunter Fra
 
 ## Gallery
 
-![Portrait der Filmemacherin und Künstlerin Helene Hering-Herber<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber](../../images/Portrait H_aa1c865582c90d12163d314390f1c0c0_original.jpg)
-*nicht feststellbar — Author: Barbara T. Pohle | License: Helene Hering-Herber | Description: Portrait der Filmemacherin und Künstlerin Helene Hering-Herber<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber*
+![Portrait der Filmemacherin und Künstlerin Helene Hering-HerberQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber](../../images/Portrait H_aa1c865582c90d12163d314390f1c0c0_original.jpg)
+*nicht feststellbar — Author: Barbara T. Pohle | License: Helene Hering-Herber | Description: Portrait der Filmemacherin und Künstlerin Helene Hering-HerberQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber*
 
 !["Fotos - La Religieuse"; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Fa 8:1](../../images/Das Konfis_c72d3e7b3f1cfad8b208ae1714c405f7_original.jpg)
 *unbekannt — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: "Fotos - La Religieuse"; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Fa 8:1*
 
-!["""La Sexualité avortée"", Originalcollage reproduziert auf OH Folie<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Ca 8"](../../images/Das Konfis_34f10fe4a6863d20b61f887d5653a6ec_original.jpg)
-*1983 — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: """La Sexualité avortée"", Originalcollage reproduziert auf OH Folie<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Ca 8"*
+!["""La Sexualité avortée"", Originalcollage reproduziert auf OH FolieQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Ca 8"](../../images/Das Konfis_34f10fe4a6863d20b61f887d5653a6ec_original.jpg)
+*1983 — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: """La Sexualité avortée"", Originalcollage reproduziert auf OH FolieQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Ca 8"*
 
-!["""Butterfly""; Originalpapiercollage;<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"](../../images/La Religie_16bd17008c5967c7caefc899010e26c7_original.jpg)
-*1982 — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: """Butterfly""; Originalpapiercollage;<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"*
+!["""Butterfly""; Originalpapiercollage;Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"](../../images/La Religie_16bd17008c5967c7caefc899010e26c7_original.jpg)
+*1982 — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: """Butterfly""; Originalpapiercollage;Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"*
 
-!["""Butterfly""; Originalpapiercollage;<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"](../../images/251020_HHH_36480d43719de0f5850d810c6a3f85bb_original.jpg)
-*1982 — Author: Helene Hering-Herbe | License: Helene Hering-Herbe | Description: """Butterfly""; Originalpapiercollage;<br />Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"*
+!["""Butterfly""; Originalpapiercollage;Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"](../../images/251020_HHH_36480d43719de0f5850d810c6a3f85bb_original.jpg)
+*1982 — Author: Helene Hering-Herbe | License: Helene Hering-Herbe | Description: """Butterfly""; Originalpapiercollage;Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"*
 
 !["Sibirischer Golem"; Originalpapiercollage; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 30](../../images/251020_HHH_f787347bde52df7ba1e64be1c174249e_original.jpg)
 *1983 — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: "Sibirischer Golem"; Originalpapiercollage; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 30*

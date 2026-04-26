@@ -24,8 +24,8 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
-![<p>Stolperstein für Karl Finkernagel</p>](../../images/Karl Finke_fda50125ed0e9a863e8487c2e0775317_original.jpg)
-*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein für Karl Finkernagel</p>*
+![Stolperstein für Karl Finkernagel](../../images/Karl Finke_fda50125ed0e9a863e8487c2e0775317_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein für Karl Finkernagel*
 
 
 ## Links

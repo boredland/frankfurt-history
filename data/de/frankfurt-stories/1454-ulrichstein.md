@@ -26,14 +26,14 @@ Trotz einiger Einwände wurde der Turm um 1930 für den Durchbruch einer hochwas
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Reste des Ulrichsteins und alten Häuser in der Färberstraße, 1871/1877, aquarellierte Bleistiftzeichnung, HMF RS0207</p>](../../images/RS0207_png_ffc7cd58231024582c1048ec300629aa_original.jpg)
-*1871/1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Reste des Ulrichsteins und alten Häuser in der Färberstraße, 1871/1877, aquarellierte Bleistiftzeichnung, HMF RS0207</p>*
+![Carl Theodor Reiffenstein, Reste des Ulrichsteins und alten Häuser in der Färberstraße, 1871/1877, aquarellierte Bleistiftzeichnung, HMF RS0207](../../images/RS0207_png_ffc7cd58231024582c1048ec300629aa_original.jpg)
+*1871/1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Reste des Ulrichsteins und alten Häuser in der Färberstraße, 1871/1877, aquarellierte Bleistiftzeichnung, HMF RS0207*
 
-![<p>Carl Theodor Reiffenstein, Der Ulrichstein in Sachsenhausen (rekonstruierter Zustand vor 1635), 19. Jahrhundert, Aquarell, HMF C26755</p>](../../images/C26755_png_d27230154b2d3b805759e4b71b7ec771_original.jpg)
-*Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Der Ulrichstein in Sachsenhausen (rekonstruierter Zustand vor 1635), 19. Jahrhundert, Aquarell, HMF C26755</p>*
+![Carl Theodor Reiffenstein, Der Ulrichstein in Sachsenhausen (rekonstruierter Zustand vor 1635), 19. Jahrhundert, Aquarell, HMF C26755](../../images/C26755_png_d27230154b2d3b805759e4b71b7ec771_original.jpg)
+*Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Der Ulrichstein in Sachsenhausen (rekonstruierter Zustand vor 1635), 19. Jahrhundert, Aquarell, HMF C26755*
 
-![<p>Carl Theodor Reiffenstein, Das Schaumaintor von außen (Rekonstruktion nach einer alten Zeichnung um 1790), 1859, aquarellierte Bleistiftzeichnung, HMF RS0040</p>](../../images/RS0040_png_8be5e64cf33b37fd279a56e76597b88b_original.jpg)
-*1859 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Das Schaumaintor von außen (Rekonstruktion nach einer alten Zeichnung um 1790), 1859, aquarellierte Bleistiftzeichnung, HMF RS0040</p>*
+![Carl Theodor Reiffenstein, Das Schaumaintor von außen (Rekonstruktion nach einer alten Zeichnung um 1790), 1859, aquarellierte Bleistiftzeichnung, HMF RS0040](../../images/RS0040_png_8be5e64cf33b37fd279a56e76597b88b_original.jpg)
+*1859 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Das Schaumaintor von außen (Rekonstruktion nach einer alten Zeichnung um 1790), 1859, aquarellierte Bleistiftzeichnung, HMF RS0040*
 
 
 ## Links

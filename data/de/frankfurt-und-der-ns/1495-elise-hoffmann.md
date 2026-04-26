@@ -14,8 +14,8 @@ filters:
 
 <p>- aus dem Altersheim deportiert und ermordet</p>
 
-![<p> Elise Hofmann, ca. 1941</p>](../../images/f356ee6edffff25885cd09696c1efa0c_original.jpg)
-*ca. 1941 — Author: unbekannt | License: Karin Levi | Description: <p> Elise Hofmann, ca. 1941</p>*
+![Elise Hofmann, ca. 1941](../../images/f356ee6edffff25885cd09696c1efa0c_original.jpg)
+*ca. 1941 — Author: unbekannt | License: Karin Levi | Description: Elise Hofmann, ca. 1941*
 
 1930 zog Elise Hoffmann als eine der ersten in das 1928 eröffnete Altenheim der Henry und Emma Budge-Stiftung in der Hansaallee 146. 1939 wurde das Heim „arisiert" und in „Heim am Dornbusch" umbenannt. Im März 1939 wurden die letzten jüdischen Bewohner*innen von hier vertrieben.
 
@@ -29,11 +29,11 @@ Ein Stolperstein erinnert an Elise Hoffmann.
 
 ## Gallery
 
-![<p> Elise Hofmann, ca. 1941</p>](../../images/Elisa Hofm_5b186489a3be59cdf441fb4c39090d61_original.jpg)
-*ca. 1941 — Author: unbekannt | License: Karin Levi | Description: <p> Elise Hofmann, ca. 1941</p>*
+![Elise Hofmann, ca. 1941](../../images/Elisa Hofm_5b186489a3be59cdf441fb4c39090d61_original.jpg)
+*ca. 1941 — Author: unbekannt | License: Karin Levi | Description: Elise Hofmann, ca. 1941*
 
-![<p>Elise Hofmann mit Tochter Gertrude ,1902</p>](../../images/Elise Hofm_e1790d9cbcf8dc801d88f4ef81b97747_original.jpg)
-*1902 — Author: unbekannt | License: Karin Levi | Description: <p>Elise Hofmann mit Tochter Gertrude ,1902</p>*
+![Elise Hofmann mit Tochter Gertrude ,1902](../../images/Elise Hofm_e1790d9cbcf8dc801d88f4ef81b97747_original.jpg)
+*1902 — Author: unbekannt | License: Karin Levi | Description: Elise Hofmann mit Tochter Gertrude ,1902*
 
 
 ## Links

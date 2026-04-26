@@ -14,8 +14,8 @@ filters:
 
 *Fahrgasse 111*
 
-![<p>Kolorierte Lithografie: Der Abgeordnete Rösler verkündet auf der Barrikade an der Bornheimer Pforte eine Waffenruhe.</p>](../../images/2618c24c7a83b811f3dd8b166110dfae_original.jpg)
-*1848 — Author: unbekannt | License: HMF C 10164c | Description: <p>Kolorierte Lithografie: Der Abgeordnete Rösler verkündet auf der Barrikade an der Bornheimer Pforte eine Waffenruhe.</p>*
+![Kolorierte Lithografie: Der Abgeordnete Rösler verkündet auf der Barrikade an der Bornheimer Pforte eine Waffenruhe.](../../images/2618c24c7a83b811f3dd8b166110dfae_original.jpg)
+*1848 — Author: unbekannt | License: HMF C 10164c | Description: Kolorierte Lithografie: Der Abgeordnete Rösler verkündet auf der Barrikade an der Bornheimer Pforte eine Waffenruhe.*
 
 Ein Bataillon des 1. Großherzoglich Hessischen Infanterieregiments Nr. 115 rückte vom Main her die Fahrgasse herauf und eroberte in einem Dominoeffekt eine der nur schwach verteidigten Straßensperren nach der anderen. Vor der letzten Barrikade an der zwischen dem oberen Ende der Fahrgasse und der Einmündung zur Zeil gelegenen Bornheimer Pforte (heute: Konstablerwache / Ecke Reineckstraße) hielt das Bataillon an, da eine Waffenruhe verkündet wurde.
 
@@ -27,6 +27,6 @@ Da sich die Soldaten nicht von den Barrikaden zurückzogen und den Aufständisch
 
 ## Gallery
 
-![<p>Kolorierte Lithografie: Der Abgeordnete Rösler verkündet auf der Barrikade an der Bornheimer Pforte eine Waffenruhe.</p>](../../images/Route 3, S_3cb23363504c5c09b3851651c944de68_original.jpg)
-*1848 — Author: unbekannt | License: HMF C 10164c | Description: <p>Kolorierte Lithografie: Der Abgeordnete Rösler verkündet auf der Barrikade an der Bornheimer Pforte eine Waffenruhe.</p>*
+![Kolorierte Lithografie: Der Abgeordnete Rösler verkündet auf der Barrikade an der Bornheimer Pforte eine Waffenruhe.](../../images/Route 3, S_3cb23363504c5c09b3851651c944de68_original.jpg)
+*1848 — Author: unbekannt | License: HMF C 10164c | Description: Kolorierte Lithografie: Der Abgeordnete Rösler verkündet auf der Barrikade an der Bornheimer Pforte eine Waffenruhe.*
 

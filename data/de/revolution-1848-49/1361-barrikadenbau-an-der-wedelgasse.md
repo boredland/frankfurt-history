@@ -14,8 +14,8 @@ filters:
 
 *Römerberg 27*
 
-![<p>Kreidelithografie: Alle packen mit an – Barrikadenbau an der Wedelgasse</p>](../../images/d1c3444293b9062c8483e850266e79e6_original.jpg)
-*1848 — Author: Ludwig von Elliot | License: Institut für Stadtgeschichte, Frankfurt Best. W 1-9 ZGS Nr. 36-250 | Description: <p>Kreidelithografie: Alle packen mit an – Barrikadenbau an der Wedelgasse</p>*
+![Kreidelithografie: Alle packen mit an – Barrikadenbau an der Wedelgasse](../../images/d1c3444293b9062c8483e850266e79e6_original.jpg)
+*1848 — Author: Ludwig von Elliot | License: Institut für Stadtgeschichte, Frankfurt Best. W 1-9 ZGS Nr. 36-250 | Description: Kreidelithografie: Alle packen mit an – Barrikadenbau an der Wedelgasse*
 
 Die erste Barrikade entstand an dem Kreuzungspunkt von Wedelgasse (heute: Bethmannstraße), Neuer Kräme und Römerberg. Als Baumaterial dienten auf dem Römerberg anlässlich der Herbstmesse errichtete Holzbuden und alles, was nicht niet- und nagelfest war. Neben Bürgern im Frack und mit Zylinder beteiligen sich auf der Lithografie auch einige Straßenjungen am Barrikadenbau. Ein Radikaler mit breitem Filzhut und Säbel sowie ein Arbeiter mit „Barrikadenkappe“ und Spitzhacke führen offenbar das Kommando.
 
@@ -27,6 +27,6 @@ Insgesamt 50 Barrikaden sollten die östliche Altstadt in eine Festung verwandel
 
 ## Gallery
 
-![<p>Kreidelithografie: Alle packen mit an – Barrikadenbau an der Wedelgasse</p>](../../images/Route 3, S_1d52a16db24fda1c8700dedda9544d2a_original.jpg)
-*1848 — Author: Ludwig von Elliot | License: Institut für Stadtgeschichte, Frankfurt Best. W 1-9 ZGS Nr. 36-250 | Description: <p>Kreidelithografie: Alle packen mit an – Barrikadenbau an der Wedelgasse</p>*
+![Kreidelithografie: Alle packen mit an – Barrikadenbau an der Wedelgasse](../../images/Route 3, S_1d52a16db24fda1c8700dedda9544d2a_original.jpg)
+*1848 — Author: Ludwig von Elliot | License: Institut für Stadtgeschichte, Frankfurt Best. W 1-9 ZGS Nr. 36-250 | Description: Kreidelithografie: Alle packen mit an – Barrikadenbau an der Wedelgasse*
 

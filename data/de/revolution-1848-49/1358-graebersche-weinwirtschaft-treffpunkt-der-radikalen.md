@@ -14,8 +14,8 @@ filters:
 
 *Holzgraben 7*
 
-![<p>Lithografie: Die zentrale Lage der Gräber’schen Weinwirtschaft im Frankfurter Stadtplan</p>](../../images/6b5b93a8d115f0d9a4071e7f59a89537_original.jpg)
-*1852 — Author: Eduard Foltz-Eberle | License: Institut für Stadtgeschichte, Frankfurt Best. S8-7 Nr. 8 | Description: <p>Lithografie: Die zentrale Lage der Gräber’schen Weinwirtschaft im Frankfurter Stadtplan</p>*
+![Lithografie: Die zentrale Lage der Gräber’schen Weinwirtschaft im Frankfurter Stadtplan](../../images/6b5b93a8d115f0d9a4071e7f59a89537_original.jpg)
+*1852 — Author: Eduard Foltz-Eberle | License: Institut für Stadtgeschichte, Frankfurt Best. S8-7 Nr. 8 | Description: Lithografie: Die zentrale Lage der Gräber’schen Weinwirtschaft im Frankfurter Stadtplan*
 
 In der von Georg Friedrich Gräber geführten Weinwirtschaft beratschlagte am 16. September 1848 nach der Annahme des Waffenstillstands von Malmö die außerparlamentarische Opposition aus radikalen Demokraten und Sozialisten bis tief in die Nacht über das weitere Vorgehen. Die in dem Stammlokal des Arbeitervereins und des Demokratisch-republikanischen Vereins verkehrenden linksradikalen Kräfte, unter ihnen viele Handwerksgesellen, strebten nach uneingeschränkter Volkssouveränität und fühlten sich von der Nationalversammlung im Stich gelassen.
 
@@ -25,6 +25,6 @@ Die aufgeheizte Stimmung in dem Weinlokal entlud sich in der an die Abgeordneten
 
 ## Gallery
 
-![<p>Lithografie: Die zentrale Lage der Gräber’schen Weinwirtschaft im Frankfurter Stadtplan </p>](../../images/Route 3, S_e19971091c949e6c0126885b43f72c2e_original.jpg)
-*1852 — Author: Eduard Foltz-Eberle | License: Institut für Stadtgeschichte, Frankfurt Best. S8-7 Nr. 8 | Description: <p>Lithografie: Die zentrale Lage der Gräber’schen Weinwirtschaft im Frankfurter Stadtplan </p>*
+![Lithografie: Die zentrale Lage der Gräber’schen Weinwirtschaft im Frankfurter Stadtplan](../../images/Route 3, S_e19971091c949e6c0126885b43f72c2e_original.jpg)
+*1852 — Author: Eduard Foltz-Eberle | License: Institut für Stadtgeschichte, Frankfurt Best. S8-7 Nr. 8 | Description: Lithografie: Die zentrale Lage der Gräber’schen Weinwirtschaft im Frankfurter Stadtplan*
 

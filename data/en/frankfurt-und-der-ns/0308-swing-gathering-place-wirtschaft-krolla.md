@@ -15,8 +15,8 @@ filters:
 
 *Kriegkstraße 99*
 
-![<span class="tab2">Black-and-white drawing with ink and foil pencil of a dancing couple inside a bar</span>](../../images/6cc229e585670999cbfe2083b0b1ee34_original.jpg)
-*2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: <span class="tab2">Black-and-white drawing with ink and foil pencil of a dancing couple inside a bar</span>*
+![Black-and-white drawing with ink and foil pencil of a dancing couple inside a bar](../../images/6cc229e585670999cbfe2083b0b1ee34_original.jpg)
+*2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Black-and-white drawing with ink and foil pencil of a dancing couple inside a bar*
 
 The Krolla was a gathering place of the “Club der Kameruner”, a group of young people who listened and danced to swing. Wilhelm Krolla had been the café’s owner since 1933.
 
@@ -24,8 +24,8 @@ The Krolla was a gathering place of the “Club der Kameruner”, a group of you
 
 ## Gallery
 
-![<span class="tab2">Black-and-white drawing with ink and foil pencil of a dancing couple inside a bar</span>](../../images/6cc229e585670999cbfe2083b0b1ee34_original.jpg)
-*2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: <span class="tab2">Black-and-white drawing with ink and foil pencil of a dancing couple inside a bar</span>*
+![Black-and-white drawing with ink and foil pencil of a dancing couple inside a bar](../../images/6cc229e585670999cbfe2083b0b1ee34_original.jpg)
+*2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Black-and-white drawing with ink and foil pencil of a dancing couple inside a bar*
 
 
 ## Links

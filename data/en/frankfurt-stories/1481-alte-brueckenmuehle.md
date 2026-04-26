@@ -28,14 +28,14 @@ The old Bridge Mill was ultimately demolished in 1852. The architecture of the 2
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, the Müllermain in Sachsenhausen seen from the Alte Brücke, 1837/1866, watercolored pencil drawing, HMF RS0005</p>](../../images/RS0005_png_92829776a3efc30665eff5f9632cbe45_original.jpg)
-*1837/1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, the Müllermain in Sachsenhausen seen from the Alte Brücke, 1837/1866, watercolored pencil drawing, HMF RS0005</p>*
+![Carl Theodor Reiffenstein, the Müllermain in Sachsenhausen seen from the Alte Brücke, 1837/1866, watercolored pencil drawing, HMF RS0005](../../images/RS0005_png_92829776a3efc30665eff5f9632cbe45_original.jpg)
+*1837/1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, the Müllermain in Sachsenhausen seen from the Alte Brücke, 1837/1866, watercolored pencil drawing, HMF RS0005*
 
-![<p>Carl Theodor Reiffenstein, view of the Deutschordenshaus, seen from the Old Bridge, 1860, pencil drawing, HMF RS0021</p>](../../images/RS0021_png_d2eb3f124fde26a61293f1c0d9dfdbf6_original.jpg)
-*1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, view of the Deutschordenshaus, seen from the Old Bridge, 1860, pencil drawing, HMF RS0021</p>*
+![Carl Theodor Reiffenstein, view of the Deutschordenshaus, seen from the Old Bridge, 1860, pencil drawing, HMF RS0021](../../images/RS0021_png_d2eb3f124fde26a61293f1c0d9dfdbf6_original.jpg)
+*1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view of the Deutschordenshaus, seen from the Old Bridge, 1860, pencil drawing, HMF RS0021*
 
-![<p>Carl Theodor Reiffenstein, Old bridge, bridge mill, gate in the substructure with view up the Main, 1852/1865, watercolored pencil drawing, HMF RS0010</p>](../../images/RS0010_png_61886c8012f63704a4f2262fa724c5f7_original.jpg)
-*1852/1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Old bridge, bridge mill, gate in the substructure with view up the Main, 1852/1865, watercolored pencil drawing, HMF RS0010</p>*
+![Carl Theodor Reiffenstein, Old bridge, bridge mill, gate in the substructure with view up the Main, 1852/1865, watercolored pencil drawing, HMF RS0010](../../images/RS0010_png_61886c8012f63704a4f2262fa724c5f7_original.jpg)
+*1852/1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Old bridge, bridge mill, gate in the substructure with view up the Main, 1852/1865, watercolored pencil drawing, HMF RS0010*
 
 
 ## Links

@@ -14,8 +14,8 @@ filters:
 
 *Bornheimer Landwehr 77*
 
-![<span class="tab2">Bornheimer Landwehr 77</span>](../../images/ce6ffc6562050086be97491e007ee1bd_original.jpg)
-*License: ISG | Description: <span class="tab2">Bornheimer Landwehr 77</span>*
+![Bornheimer Landwehr 77](../../images/ce6ffc6562050086be97491e007ee1bd_original.jpg)
+*License: ISG | Description: Bornheimer Landwehr 77*
 
 Mit Kaufvertrag vom 14. April 1939 erwarb die Stadt das bebaute Grundstück mit einer Fläche von 2.607 Quadratmetern, das zum ehemaligen Jüdischen Krankenhaus gehörte, vom Verein der jüdischen Krankenpflegerinnen Frankfurt zum Preis von 142.000 Reichsmark. Die Liegenschaft sollte an das Fürsorgeamt gehen.
 
@@ -23,6 +23,6 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
-![<span class="tab2">Bornheimer Landwehr 77</span>](../../images/Bornheimer_048f2b7cce8baaf0e9367513e7bc098d_original.jpg)
-*License: ISG | Description: <span class="tab2">Bornheimer Landwehr 77</span>*
+![Bornheimer Landwehr 77](../../images/Bornheimer_048f2b7cce8baaf0e9367513e7bc098d_original.jpg)
+*License: ISG | Description: Bornheimer Landwehr 77*
 

@@ -24,17 +24,17 @@ The Old Jewish Cemetery is the second oldest of its kind in Germany. In 1836, Re
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, old Judenkirchhof, old entrance from the outside, 1853, watercolored pencil drawing, HMF R0289</p>](../../images/R0289_png_c731b54722b46a2ec4fb458f981755c1_original.jpg)
-*1853 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, old Judenkirchhof, old entrance from the outside, 1853, watercolored pencil drawing, HMF R0289</p>*
+![Carl Theodor Reiffenstein, old Judenkirchhof, old entrance from the outside, 1853, watercolored pencil drawing, HMF R0289](../../images/R0289_png_c731b54722b46a2ec4fb458f981755c1_original.jpg)
+*1853 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, old Judenkirchhof, old entrance from the outside, 1853, watercolored pencil drawing, HMF R0289*
 
-![<p>Carl Theodor Reiffenstein, old Judenkirchhof, corner at the Judenmauer, 1849, watercolored pencil drawing, HMF R0277</p>](../../images/R0277_png_fd199dd741b704929d8b5d037db98383_original.jpg)
-*1849 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, old Judenkirchhof, corner at the Judenmauer, 1849, watercolored pencil drawing, HMF R0277</p>*
+![Carl Theodor Reiffenstein, old Judenkirchhof, corner at the Judenmauer, 1849, watercolored pencil drawing, HMF R0277](../../images/R0277_png_fd199dd741b704929d8b5d037db98383_original.jpg)
+*1849 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, old Judenkirchhof, corner at the Judenmauer, 1849, watercolored pencil drawing, HMF R0277*
 
-![<p>Carl Theodor Reiffenstein, old Judenkirchhof, gravestone with inscription, 1862, watercolored pencil drawing, HMF R1175</p>](../../images/R1175_png_05f331ae8d71adc5caa24f5f19c97f66_original.jpg)
-*1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, old Judenkirchhof, gravestone with inscription, 1862, watercolored pencil drawing, HMF R1175</p>*
+![Carl Theodor Reiffenstein, old Judenkirchhof, gravestone with inscription, 1862, watercolored pencil drawing, HMF R1175](../../images/R1175_png_05f331ae8d71adc5caa24f5f19c97f66_original.jpg)
+*1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, old Judenkirchhof, gravestone with inscription, 1862, watercolored pencil drawing, HMF R1175*
 
-![<p>Carl Theodor Reiffenstein, old Jewish cemetery (seen from the house An der Judenmauer no. 11), 1869/1877, watercolored pencil drawing, HMF R1544</p>](../../images/R1544_png_d52d9e0980380de43d59bc172d0577f7_original.jpg)
-*1869/1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, old Jewish cemetery (seen from the house An der Judenmauer no. 11), 1869/1877, watercolored pencil drawing, HMF R1544</p>*
+![Carl Theodor Reiffenstein, old Jewish cemetery (seen from the house An der Judenmauer no. 11), 1869/1877, watercolored pencil drawing, HMF R1544](../../images/R1544_png_d52d9e0980380de43d59bc172d0577f7_original.jpg)
+*1869/1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, old Jewish cemetery (seen from the house An der Judenmauer no. 11), 1869/1877, watercolored pencil drawing, HMF R1544*
 
 
 ## Links

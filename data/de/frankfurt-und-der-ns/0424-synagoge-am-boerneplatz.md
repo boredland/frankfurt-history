@@ -15,8 +15,8 @@ filters:
 
 *Kurt-Schumacher-Straße 10*
 
-![<p><span class="tab2">Foto der Synagoge am Börneplatz</span></p>](../../images/48e6e9b8e308e3e64b232579c3eda8ae_original.jpg)
-*1939 — Author: Fred Kochmann | License: HMF, Ph03821b | Description: <p><span class="tab2">Foto der Synagoge am Börneplatz</span></p>*
+![Foto der Synagoge am Börneplatz](../../images/48e6e9b8e308e3e64b232579c3eda8ae_original.jpg)
+*1939 — Author: Fred Kochmann | License: HMF, Ph03821b | Description: Foto der Synagoge am Börneplatz*
 
 Die Synagoge am ehemaligen Judenmarkt (1885-1935 Börneplatz, 1935-1978 Dominikanerplatz, ab 1978 wieder Börneplatz) wurde am 10. September 1882 eingeweiht. Sie war an der Stelle des Israelitischen Hospitals am südlichen Ende der Judengasse, dem ehemaligen Ghetto, errichtet worden. Das Gotteshaus war das religiöse Zentrum des konservativen Flügels der liberalen Israelitischen Gemeinde. Der Neubau im Stil der Neorenaissance hatte 520 Plätze für Männer und 360 Plätze für Frauen auf der Empore. 1901 kamen insgesamt 400 weitere Plätze dazu. Die Synagoge war mit 30 Torarollen und dem dazugehörigen Schmuck, zahlreichen Kultgegenständen sowie einem Toraschrein aus Marmor ausgestattet. 1919 verewigte der Maler Max Beckmann den Bau mit seiner roten Sandsteinfassade und der markanten kupfergedeckten Kuppel in seinem Gemälde „Die Synagoge in Frankfurt am Main“. Das Bild befindet sich heute im Städel.
  
@@ -32,6 +32,6 @@ Die Synagoge am ehemaligen Judenmarkt (1885-1935 Börneplatz, 1935-1978 Dominika
 
 ## Gallery
 
-![<p><span class="tab2">Foto der Synagoge am Börneplatz</span></p>](../../images/48e6e9b8e308e3e64b232579c3eda8ae_original.jpg)
-*1939 — Author: Fred Kochmann | License: HMF, Ph03821b | Description: <p><span class="tab2">Foto der Synagoge am Börneplatz</span></p>*
+![Foto der Synagoge am Börneplatz](../../images/48e6e9b8e308e3e64b232579c3eda8ae_original.jpg)
+*1939 — Author: Fred Kochmann | License: HMF, Ph03821b | Description: Foto der Synagoge am Börneplatz*
 

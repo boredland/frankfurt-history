@@ -24,8 +24,8 @@ Before the family fled to America, they had to pay compulsory charges on their a
 
 ## Gallery
 
-![<p><span class="tab2">View of the</span>Fischerfeldstraße from Langfeldstraße to the west</p>](../../images/Foto_Fisch_cfbf4cb5c569107417f3e28452eaf092_original.jpg)
-*1932 — Author: Leonhard Klemm | License: HMF, C27958+001.tif | Description: <p><span class="tab2">View of the</span>Fischerfeldstraße from Langfeldstraße to the west</p>*
+![View of theFischerfeldstraße from Langfeldstraße to the west](../../images/Foto_Fisch_cfbf4cb5c569107417f3e28452eaf092_original.jpg)
+*1932 — Author: Leonhard Klemm | License: HMF, C27958+001.tif | Description: View of theFischerfeldstraße from Langfeldstraße to the west*
 
 
 ## Audio

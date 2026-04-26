@@ -35,5 +35,5 @@ Quelle: Christina Gräwe, Jörg Schilling: Grossmarkthalle Frankfurt am Main 192
 *um 1929 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: Ansicht der Großmarkthalle*
 
 ![Innenraum mit Marktständen](../../images/Grossmarkt_0959a7f3f08d258a45b185e19df18e61_original.jpg)
-*um 1929 — Author: Unbekannt | License: <span class="tab2">privat</span> | Description: Innenraum mit Marktständen*
+*um 1929 — Author: Unbekannt | License: privat | Description: Innenraum mit Marktständen*
 

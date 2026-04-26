@@ -14,8 +14,8 @@ filters:
 
 *Dr. Ruth K. Westheimer and the Kindertransports*
 
-![<p>Gedenktafel von Irma Siegel</p>](../../images/2d09094eb0ea3e53e9824500099eb63d_original.jpg)
-*Description: <p>Gedenktafel von Irma Siegel</p>*
+![Gedenktafel von Irma Siegel](../../images/2d09094eb0ea3e53e9824500099eb63d_original.jpg)
+*Description: Gedenktafel von Irma Siegel*
 
 Dr. Ruth K. Westheimer, now a renowned sex therapist in the United States, was born on June 4, 1928, in Wiesenfeld. She spent most of her childhood in Frankfurt am Main. At that time, her name was Karola Ruth Siegel.
 
@@ -26,14 +26,14 @@ Translated with DeepL.com (free version)
 
 ## Gallery
 
-![<p>Gedenktafel von Irma Siegel</p>](../../images/Irma_Siege_536797fde9210e66ac6c1094130d18c0_original.jpg)
-*Description: <p>Gedenktafel von Irma Siegel</p>*
+![Gedenktafel von Irma Siegel](../../images/Irma_Siege_536797fde9210e66ac6c1094130d18c0_original.jpg)
+*Description: Gedenktafel von Irma Siegel*
 
-![<p>Gedenktafel von Selma Siegel</p>](../../images/Selma_Sieg_fbfe6bb815418dd7ce03deb159a76f12_original.jpg)
-*Description: <p>Gedenktafel von Selma Siegel</p>*
+![Gedenktafel von Selma Siegel](../../images/Selma_Sieg_fbfe6bb815418dd7ce03deb159a76f12_original.jpg)
+*Description: Gedenktafel von Selma Siegel*
 
-![<p>Gedenktafel von Julius Siegel</p>](../../images/Julius_Sie_14a53fd4757c028c43a477aedf4338b0_original.jpg)
-*Description: <p>Gedenktafel von Julius Siegel</p>*
+![Gedenktafel von Julius Siegel](../../images/Julius_Sie_14a53fd4757c028c43a477aedf4338b0_original.jpg)
+*Description: Gedenktafel von Julius Siegel*
 
 
 ## Links

@@ -16,8 +16,8 @@ filters:
 
 *Neue Mainzer Straße 43-45*
 
-![<p>Foto des Finanzamt Frankfurt-Außenbezirk</p>](../../images/10c039e32296fdc3a0f43d81aa296592_original.jpg)
-*1944 — Author: Max Göllner | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 2004-18 | Description: <p>Foto des Finanzamt Frankfurt-Außenbezirk</p>*
+![Foto des Finanzamt Frankfurt-Außenbezirk](../../images/10c039e32296fdc3a0f43d81aa296592_original.jpg)
+*1944 — Author: Max Göllner | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 2004-18 | Description: Foto des Finanzamt Frankfurt-Außenbezirk*
 
 Die Finanzämter Frankfurt-Ost und -West hatten hier ihren Sitz. Wie alle Finanzämter arbeiteten sie daran mit, als jüdisch Verfolgte wirtschaftlich zu benachteiligen und sie schlussendlich ihrer finanziellen Mittel vollständig zu berauben. Möglich war dies beispielsweise durch die sogenannte Reichsfluchtsteuer, die Auswanderungswillige seit 1931 zahlen mussten. Dieses Gesetz war von der Regierung unter Reichskanzler Heinrich Brüning erlassen worden und betraf in erster Linie Personen, die vermögend waren oder viel verdienten. Doch die Nationalsozialist*innen setzten den Freibetrag im Mai 1934 so weit herunter, dass selbst Bürger*innen aus der Mittelschicht diese Zwangsabgabe von 25 Prozent ihres Vermögens und Einkommens entrichten mussten. Das übrige Geld konnte nur unter großen Verlusten bei der Deutschen Golddiskontbank in ausländische Währung umgetauscht werden. Die Reichsfluchtsteuer war eine der wichtigsten Einnahmequellen des nationalsozialistischen Regimes. 
  Wer ausreiste und diese Zwangsabgabe nicht bezahlte, dessen Vermögen wurde beschlagnahmt. So erging es vielen politischen Gegner*innen und Schriftsteller*innen, die im Frühjahr 1933 aus Angst um ihr Leben Deutschland überstürzt verließen. Zum Großteil betraf die Zwangsabgabe aber als Juden Verfolgte, die vor den Übergriffen ins Ausland flohen.
@@ -30,6 +30,6 @@ Die Finanzämter Frankfurt-Ost und -West hatten hier ihren Sitz. Wie alle Finanz
 
 ## Gallery
 
-![<p>Foto des Finanzamt Frankfurt-Außenbezirk</p>](../../images/10c039e32296fdc3a0f43d81aa296592_original.jpg)
-*1944 — Author: Max Göllner | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 2004-18 | Description: <p>Foto des Finanzamt Frankfurt-Außenbezirk</p>*
+![Foto des Finanzamt Frankfurt-Außenbezirk](../../images/10c039e32296fdc3a0f43d81aa296592_original.jpg)
+*1944 — Author: Max Göllner | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 2004-18 | Description: Foto des Finanzamt Frankfurt-Außenbezirk*
 

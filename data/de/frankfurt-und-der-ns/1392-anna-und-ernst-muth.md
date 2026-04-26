@@ -24,11 +24,11 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
-![<p>Stolperstein für Ernst Muth</p>](../../images/Ernst Muth_a0c28cc5985bb7f5ea587062173cabba_original.jpg)
-*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein für Ernst Muth</p>*
+![Stolperstein für Ernst Muth](../../images/Ernst Muth_a0c28cc5985bb7f5ea587062173cabba_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein für Ernst Muth*
 
-![<p>Stolperstein für Anna Muth</p>](../../images/Anna Muth__bef0314ed6717f05efdb643093abb84f_original.jpg)
-*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein für Anna Muth</p>*
+![Stolperstein für Anna Muth](../../images/Anna Muth__bef0314ed6717f05efdb643093abb84f_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein für Anna Muth*
 
 
 ## Links

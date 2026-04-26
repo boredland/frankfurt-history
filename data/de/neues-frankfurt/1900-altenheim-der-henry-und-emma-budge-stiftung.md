@@ -43,8 +43,8 @@ Quelle: Lore Kramer: Das Altersheim der Henry und Emma Budge-Stiftung in Frankfu
 
 ## Gallery
 
-![Der Gartenhof zwischen den beiden Flügeln des zweigeschossigen Gebäudes.<br /><br />](../../images/isg_ffm_s7_c62befac2b943ec2260123acd79272bd_original.jpg)
-*Unbekannt — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Der Gartenhof zwischen den beiden Flügeln des zweigeschossigen Gebäudes.<br /><br />*
+![Der Gartenhof zwischen den beiden Flügeln des zweigeschossigen Gebäudes.](../../images/isg_ffm_s7_c62befac2b943ec2260123acd79272bd_original.jpg)
+*Unbekannt — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Der Gartenhof zwischen den beiden Flügeln des zweigeschossigen Gebäudes.*
 
 ![Lichtdurchfluteter Speisesaal des Altenheimes.](../../images/isg_ffm_s7_082356d8d62e6d9cc471bc3297adcd3b_original.jpg)
 *Unbekannt — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Lichtdurchfluteter Speisesaal des Altenheimes.*

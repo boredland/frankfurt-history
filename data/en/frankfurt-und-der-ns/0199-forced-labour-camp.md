@@ -15,7 +15,7 @@ filters:
 *Eschersheimer Landstraße 342-350*
 
 ![Bildpostkarte mit Großgärtnerei Friedrich Sinai, HMF / Sammlung Church C80380](../../images/ce4afbc02755606b7d2e30c11fd15d4f_original.jpg)
-*Author: Postkartensammlung Church | License: <a href="mailto:info@frankfurt-und-der-ns.de">info@frankfurt-und-der-ns.de</a> | Description: Bildpostkarte mit Großgärtnerei Friedrich Sinai, HMF / Sammlung Church C80380*
+*Author: Postkartensammlung Church | License: info@frankfurt-und-der-ns.de | Description: Bildpostkarte mit Großgärtnerei Friedrich Sinai, HMF / Sammlung Church C80380*
 
 The gardening company Friedrich Sinai operated a forced labor camp on its premises at Eschersheimer Landstraße 342-350. In 1943, 31 Polish and Soviet citizens were registered there. A further 100 forced laborers employed by the nursery were housed at Maybachstraße 24 between 1943 and 1945.
 

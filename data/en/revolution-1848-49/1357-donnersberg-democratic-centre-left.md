@@ -31,6 +31,6 @@ In November 1848, outside the parliamentary sessions, the Donnersberg faction jo
 
 ## Gallery
 
-![Photo of the "Donnersberg" restaurant (to the right of "Zähringer Hof"<span class="tab2"><br /></span>](../../images/15 Donners_dc9fb9418cd9d31296955de03dbc2b12_original.jpg)
-*ca. 1865 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-79 | Description: Photo of the "Donnersberg" restaurant (to the right of "Zähringer Hof"<span class="tab2"><br /></span>*
+![Photo of the "Donnersberg" restaurant (to the right of "Zähringer Hof"](../../images/15 Donners_dc9fb9418cd9d31296955de03dbc2b12_original.jpg)
+*ca. 1865 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-79 | Description: Photo of the "Donnersberg" restaurant (to the right of "Zähringer Hof"*
 

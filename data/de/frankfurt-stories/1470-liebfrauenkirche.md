@@ -28,14 +28,14 @@ Nach der Zerstörung im Zweiten Weltkrieg wurde die Kirche bis 1955/56 wiederauf
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Liebfrauenberg mit Liebfrauenkirche vor dem Durchbruch der Liebfrauenstraße, 1845, Aquarell, HMF C13074</p>](../../images/C13074_png_3822dfb942d09de5e7dd4d1bc84dcafa_original.jpg)
-*1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Liebfrauenberg mit Liebfrauenkirche vor dem Durchbruch der Liebfrauenstraße, 1845, Aquarell, HMF C13074</p>*
+![Carl Theodor Reiffenstein, Liebfrauenberg mit Liebfrauenkirche vor dem Durchbruch der Liebfrauenstraße, 1845, Aquarell, HMF C13074](../../images/C13074_png_3822dfb942d09de5e7dd4d1bc84dcafa_original.jpg)
+*1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Liebfrauenberg mit Liebfrauenkirche vor dem Durchbruch der Liebfrauenstraße, 1845, Aquarell, HMF C13074*
 
-![<p>Carl Theodor Reiffenstein, Liebfrauenkirche, vom Graben gesehen (Zustand von 1807), nach Friedrich Philipp Usener, 1855, aquarellierte Bleistiftzeichnung, HMF R0746</p>](../../images/R0746_png_eb405435f2620945288494453cc4c193_original.jpg)
-*1855 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Liebfrauenkirche, vom Graben gesehen (Zustand von 1807), nach Friedrich Philipp Usener, 1855, aquarellierte Bleistiftzeichnung, HMF R0746</p>*
+![Carl Theodor Reiffenstein, Liebfrauenkirche, vom Graben gesehen (Zustand von 1807), nach Friedrich Philipp Usener, 1855, aquarellierte Bleistiftzeichnung, HMF R0746](../../images/R0746_png_eb405435f2620945288494453cc4c193_original.jpg)
+*1855 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Liebfrauenkirche, vom Graben gesehen (Zustand von 1807), nach Friedrich Philipp Usener, 1855, aquarellierte Bleistiftzeichnung, HMF R0746*
 
-![<p>Carl Theodor Reiffenstein, Liebfrauenkirche, Innenansicht, 1845, aquarellierte Bleistiftzeichnung, HMF R1594</p>](../../images/R1594_png_c334c7c6b290db9199747a89b2ce0363_original.jpg)
-*1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Liebfrauenkirche, Innenansicht, 1845, aquarellierte Bleistiftzeichnung, HMF R1594</p>*
+![Carl Theodor Reiffenstein, Liebfrauenkirche, Innenansicht, 1845, aquarellierte Bleistiftzeichnung, HMF R1594](../../images/R1594_png_c334c7c6b290db9199747a89b2ce0363_original.jpg)
+*1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Liebfrauenkirche, Innenansicht, 1845, aquarellierte Bleistiftzeichnung, HMF R1594*
 
 
 ## Links

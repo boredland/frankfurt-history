@@ -12,13 +12,13 @@ filters:
 
 *Ludwig-Erhard-Anlage 1*
 
-![<p>Foto der Festhalle </p>](../../images/8709fb97696f7e044e87653ed1eefb96_original.jpg)
-*ca. 1936 — Author: Friedrich Lauffer | License: HMF Ph11572 | Description: <p>Foto der Festhalle </p>*
+![Foto der Festhalle](../../images/8709fb97696f7e044e87653ed1eefb96_original.jpg)
+*ca. 1936 — Author: Friedrich Lauffer | License: HMF Ph11572 | Description: Foto der Festhalle*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![<p>Foto der Festhalle </p>](../../images/8709fb97696f7e044e87653ed1eefb96_original.jpg)
-*ca. 1936 — Author: Friedrich Lauffer | License: HMF Ph11572 | Description: <p>Foto der Festhalle </p>*
+![Foto der Festhalle](../../images/8709fb97696f7e044e87653ed1eefb96_original.jpg)
+*ca. 1936 — Author: Friedrich Lauffer | License: HMF Ph11572 | Description: Foto der Festhalle*
 

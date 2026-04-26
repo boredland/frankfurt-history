@@ -14,8 +14,8 @@ filters:
 
 *Untermainkai 29/30*
 
-![<p>Foto des Gartenlokals "Mainlust"</p>](../../images/dd70d2a996fab2d300c3b3a12c5357a4_original.jpg)
-*um 1860 — Author: Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-507 | Description: <p>Foto des Gartenlokals "Mainlust"</p>*
+![Foto des Gartenlokals "Mainlust"](../../images/dd70d2a996fab2d300c3b3a12c5357a4_original.jpg)
+*um 1860 — Author: Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-507 | Description: Foto des Gartenlokals "Mainlust"*
 
 Im Lokal „Mainlust“ trafen sich 1849 fraktionsübergreifend von links nach rechts die Befürworter eines großdeutschen Fürstenbundes unter Einschluss Österreichs. Den vom „Weidenbusch“ favorisierten Vorschlag einer kleindeutschen Lösung mit einem preußischen Erbkaisertum lehnten sie ab. Als Gegenentwurf erarbeiteten sie einen stark föderalistisch geprägten Verfassungsentwurf, der als Wunsch der Konservativen eine schwache Zentralgewalt und als linke Forderungen eine Sicherung der Freiheitsrechte umfasste.
 
@@ -23,6 +23,6 @@ Im Lokal „Mainlust“ trafen sich 1849 fraktionsübergreifend von links nach r
 
 ## Gallery
 
-![<p>Foto des Gartenlokals "Mainlust"</p>](../../images/14 Mainlus_e79ecd979ecbd0ac8b0864cf1b099887_original.jpg)
-*um 1860 — Author: Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-507 | Description: <p>Foto des Gartenlokals "Mainlust"</p>*
+![Foto des Gartenlokals "Mainlust"](../../images/14 Mainlus_e79ecd979ecbd0ac8b0864cf1b099887_original.jpg)
+*um 1860 — Author: Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-507 | Description: Foto des Gartenlokals "Mainlust"*
 

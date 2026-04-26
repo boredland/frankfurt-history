@@ -67,4 +67,4 @@ Das es auch anders geht, das zeigt die „Visual Utopia“ von Jan Kamensky. Der
 
 ## Video
 
-  *Description: <p>Visual Utopia vom Eschenheimer Tor, 2024, Jan Kamensky</p>*
+  *Description: Visual Utopia vom Eschenheimer Tor, 2024, Jan Kamensky*

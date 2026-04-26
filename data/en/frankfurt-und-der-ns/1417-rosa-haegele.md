@@ -14,8 +14,8 @@ filters:
 
 *Habsburgerallee 15*
 
-![<p>Portrait of Rosa Hägele</p>](../../images/f15b1dc37d6168d40e2520aa278da930_original.jpg)
-*Description: <p>Portrait of Rosa Hägele</p>*
+![Portrait of Rosa Hägele](../../images/f15b1dc37d6168d40e2520aa278da930_original.jpg)
+*Description: Portrait of Rosa Hägele*
 
 For many years, Jehovah's Witnesses belonged to the "forgotten victims" and were hardly mentioned. We would like to bring the Frankfurt victims out of oblivion. Since 1997, the Frankfurt Jehovah's Witnesses who suffered under the Nazi regime because of their Christian convictions, have been remembered. Through volunteer work, archives and memorials are researching the experiences of the victims.
 
@@ -25,14 +25,14 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
-![<p>Portrait of Rosa Hägele</p>](../../images/Rosa Haege_1923344739a9446a1930ecde7e0f89ea_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Portrait of Rosa Hägele</p>*
+![Portrait of Rosa Hägele](../../images/Rosa Haege_1923344739a9446a1930ecde7e0f89ea_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Portrait of Rosa Hägele*
 
-![<p>Rosa Hägele with her parents in the garden</p>](../../images/Hägele_R_eaa2ba85faa7fcd3b2ed551b011e784e_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Rosa Hägele with her parents in the garden</p>*
+![Rosa Hägele with her parents in the garden](../../images/Hägele_R_eaa2ba85faa7fcd3b2ed551b011e784e_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Rosa Hägele with her parents in the garden*
 
-![<p>Leave of absence from the concentration camp dated 05.01.1944 (misspelling, correct: 1945)</p>](../../images/Hägele_R_975b398e6620896ac7aef95c33f5b75f_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Leave of absence from the concentration camp dated 05.01.1944 (misspelling, correct: 1945)</p>*
+![Leave of absence from the concentration camp dated 05.01.1944 (misspelling, correct: 1945)](../../images/Hägele_R_975b398e6620896ac7aef95c33f5b75f_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Leave of absence from the concentration camp dated 05.01.1944 (misspelling, correct: 1945)*
 
 
 ## Links

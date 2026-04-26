@@ -14,8 +14,8 @@ filters:
 
 *Berlinerstraße 17*
 
-![<p>Foto der Deutsch-reformierten Kirche</p>](../../images/261cd5eb4d5b96cdc61c08e38a9470a5_original.jpg)
-*1905 — Author: Gottfried Vömel | License: Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 240 | Description: <p>Foto der Deutsch-reformierten Kirche</p>*
+![Foto der Deutsch-reformierten Kirche](../../images/261cd5eb4d5b96cdc61c08e38a9470a5_original.jpg)
+*1905 — Author: Gottfried Vömel | License: Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 240 | Description: Foto der Deutsch-reformierten Kirche*
 
 Mitten auf der heutigen Berliner Straße beschlossen die Abgeordneten am 20. Dezember 1848 die „Grundrechte des deutschen Volkes“. Wegen Umbauarbeiten an der Heizung, der Decke und der Beleuchtung tagte die Nationalversammlung vom 6. November 1848 bis zum 9. Januar 1849 für 40 Sitzungen in der Deutsch-reformierten Kirche.
 
@@ -27,8 +27,8 @@ Hiermit brachten die Abgeordneten einen Grundrechtskatalog auf den Weg, der in z
 
 ## Gallery
 
-![<p>Foto der Deutsch-reformierten Kirche</p>](../../images/03a Deutsc_7e6b07e441a351f5c060d90d09ce9303_original.jpg)
-*1905 — Author: Gottfried Vömel | License: Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 240 | Description: <p>Foto der Deutsch-reformierten Kirche</p>*
+![Foto der Deutsch-reformierten Kirche](../../images/03a Deutsc_7e6b07e441a351f5c060d90d09ce9303_original.jpg)
+*1905 — Author: Gottfried Vömel | License: Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 240 | Description: Foto der Deutsch-reformierten Kirche*
 
 ![](../../images/03b Deutsc_b2a89e0835efdcc8fd86c308a67d0a29_original.jpg)
 *1936 — Author: unbekannt | License: ISG*

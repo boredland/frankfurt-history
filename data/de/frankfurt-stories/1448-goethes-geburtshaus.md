@@ -30,23 +30,23 @@ Heute ist das Frankfurter Goethe-Haus ein Museum.
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Goethes Geburtshaus (rekonstruierter Zustand vor dem Umbau von 1749), 1858, Aquarell, HMF C09288</p>](../../images/C09288_png_f4f33da0a7b9f82f2e6afa6009eae692_original.jpg)
-*1858 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Goethes Geburtshaus (rekonstruierter Zustand vor dem Umbau von 1749), 1858, Aquarell, HMF C09288</p>*
+![Carl Theodor Reiffenstein, Goethes Geburtshaus (rekonstruierter Zustand vor dem Umbau von 1749), 1858, Aquarell, HMF C09288](../../images/C09288_png_f4f33da0a7b9f82f2e6afa6009eae692_original.jpg)
+*1858 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Goethes Geburtshaus (rekonstruierter Zustand vor dem Umbau von 1749), 1858, Aquarell, HMF C09288*
 
-![<p>Carl Theodor Reiffenstein, Goethes Elternhaus (rekonstruierter Zustand nach dem Umbau, 1754), 1858, Aquarell, HMF C09292</p>](../../images/C09292_png_0db800cccd7e34868a14c65333e8081e_original.jpg)
-*1858 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Goethes Elternhaus (rekonstruierter Zustand nach dem Umbau, 1754), 1858, Aquarell, HMF C09292</p>*
+![Carl Theodor Reiffenstein, Goethes Elternhaus (rekonstruierter Zustand nach dem Umbau, 1754), 1858, Aquarell, HMF C09292](../../images/C09292_png_0db800cccd7e34868a14c65333e8081e_original.jpg)
+*1858 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Goethes Elternhaus (rekonstruierter Zustand nach dem Umbau, 1754), 1858, Aquarell, HMF C09292*
 
-![<p>Carl Theodor Reiffenstein, Innenhof des umgebauten Goethehauses (rekonstruierter Zustand von 1756), 1858, Aquarell, HMF C09295</p>](../../images/C09295_png_f49f27691f9cc2f0fe66de2898eb09d4_original.jpg)
-*1858 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Innenhof des umgebauten Goethehauses (rekonstruierter Zustand von 1756), 1858, Aquarell, HMF C09295</p>*
+![Carl Theodor Reiffenstein, Innenhof des umgebauten Goethehauses (rekonstruierter Zustand von 1756), 1858, Aquarell, HMF C09295](../../images/C09295_png_f49f27691f9cc2f0fe66de2898eb09d4_original.jpg)
+*1858 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Innenhof des umgebauten Goethehauses (rekonstruierter Zustand von 1756), 1858, Aquarell, HMF C09295*
 
-![<p>Carl Theodor Reiffenstein, Vorplatz im ersten Stock des Goethehauses (rekonstruierter Zustand von ca. 1796), 1858, Aquarell, HMF C09296</p>](../../images/C09296_png_44a110ef89a27a25e67d099aac6d4d7d_original.jpg)
-*1858 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Vorplatz im ersten Stock des Goethehauses (rekonstruierter Zustand von ca. 1796), 1858, Aquarell, HMF C09296</p>*
+![Carl Theodor Reiffenstein, Vorplatz im ersten Stock des Goethehauses (rekonstruierter Zustand von ca. 1796), 1858, Aquarell, HMF C09296](../../images/C09296_png_44a110ef89a27a25e67d099aac6d4d7d_original.jpg)
+*1858 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Vorplatz im ersten Stock des Goethehauses (rekonstruierter Zustand von ca. 1796), 1858, Aquarell, HMF C09296*
 
-![<p>Carl Theodor Reiffenstein, Studierzimmer im Goethehaus (rekonstruierter Zustand von 1768), 1859, Aquarell, HMF C09306</p>](../../images/C09306_png_3fdbac34366b6540e0c86bec9c3df713_original.jpg)
-*1859 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Studierzimmer im Goethehaus (rekonstruierter Zustand von 1768), 1859, Aquarell, HMF C09306</p>*
+![Carl Theodor Reiffenstein, Studierzimmer im Goethehaus (rekonstruierter Zustand von 1768), 1859, Aquarell, HMF C09306](../../images/C09306_png_3fdbac34366b6540e0c86bec9c3df713_original.jpg)
+*1859 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Studierzimmer im Goethehaus (rekonstruierter Zustand von 1768), 1859, Aquarell, HMF C09306*
 
-![<p>Carl Theodor Reiffenstein, Goethes Geburtshaus, Blick aus den oberen Fenstern gegen die Stadtbefestigung (rekonstruierter Zustand um 1749-1755), 1858, Gouache, HMF C09290</p>](../../images/C09290_png_6d325454f85bcc8be1ffeb6cad170d3c_original.jpg)
-*1858 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Goethes Geburtshaus, Blick aus den oberen Fenstern gegen die Stadtbefestigung (rekonstruierter Zustand um 1749-1755), 1858, Gouache, HMF C09290</p>*
+![Carl Theodor Reiffenstein, Goethes Geburtshaus, Blick aus den oberen Fenstern gegen die Stadtbefestigung (rekonstruierter Zustand um 1749-1755), 1858, Gouache, HMF C09290](../../images/C09290_png_6d325454f85bcc8be1ffeb6cad170d3c_original.jpg)
+*1858 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Goethes Geburtshaus, Blick aus den oberen Fenstern gegen die Stadtbefestigung (rekonstruierter Zustand um 1749-1755), 1858, Gouache, HMF C09290*
 
 
 ## Links

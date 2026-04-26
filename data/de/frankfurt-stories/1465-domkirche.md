@@ -30,20 +30,20 @@ Im Zweiten Weltkrieg wurde der Dom zerstört und ab 1948 wiederaufgebaut. Heute 
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Blick vom Glockentürmchen des Römers zum Dom, 1853, aquarellierte Bleistiftzeichnung, HMF R0517</p>](../../images/R0517_png_3cab62f1112a9b84fe631d5b7d581aff_original.jpg)
-*1853 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Blick vom Glockentürmchen des Römers zum Dom, 1853, aquarellierte Bleistiftzeichnung, HMF R0517</p>*
+![Carl Theodor Reiffenstein, Blick vom Glockentürmchen des Römers zum Dom, 1853, aquarellierte Bleistiftzeichnung, HMF R0517](../../images/R0517_png_3cab62f1112a9b84fe631d5b7d581aff_original.jpg)
+*1853 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Blick vom Glockentürmchen des Römers zum Dom, 1853, aquarellierte Bleistiftzeichnung, HMF R0517*
 
-![<p>Carl Theodor Reiffenstein, Dom, Garküchenplatz und kleine Fischergasse (aus dem Haus Domplatz Nr. 6 gesehen), 1847, aquarellierte Bleistiftzeichnung, HMF R0231</p>](../../images/R0231_png_de11318cfb656f0538c658f10ba057d1_original.jpg)
-*1847 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Dom, Garküchenplatz und kleine Fischergasse (aus dem Haus Domplatz Nr. 6 gesehen), 1847, aquarellierte Bleistiftzeichnung, HMF R0231</p>*
+![Carl Theodor Reiffenstein, Dom, Garküchenplatz und kleine Fischergasse (aus dem Haus Domplatz Nr. 6 gesehen), 1847, aquarellierte Bleistiftzeichnung, HMF R0231](../../images/R0231_png_de11318cfb656f0538c658f10ba057d1_original.jpg)
+*1847 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Dom, Garküchenplatz und kleine Fischergasse (aus dem Haus Domplatz Nr. 6 gesehen), 1847, aquarellierte Bleistiftzeichnung, HMF R0231*
 
-![<p>Carl Theodor Reiffenstein, Dom, Innenansicht, 1861, aquarellierte Bleistiftzeichnung, HMF R0478</p>](../../images/R0478_png_17f43a2b3a89d2b8d718aebfd554f382_original.jpg)
-*1861 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Dom, Innenansicht, 1861, aquarellierte Bleistiftzeichnung, HMF R0478</p>*
+![Carl Theodor Reiffenstein, Dom, Innenansicht, 1861, aquarellierte Bleistiftzeichnung, HMF R0478](../../images/R0478_png_17f43a2b3a89d2b8d718aebfd554f382_original.jpg)
+*1861 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Dom, Innenansicht, 1861, aquarellierte Bleistiftzeichnung, HMF R0478*
 
-![<p>Carl Theodor Reiffenstein, Dom, schmiedeeisernes Abschlusstor am Hochaltar, 1845/1891, Bleistift- und Federzeichnung, HMF R1664</p>](../../images/R1664_png_2830da44dfba4b7b0bcc1877982077f0_original.jpg)
-*1845/1891 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Dom, schmiedeeisernes Abschlusstor am Hochaltar, 1845/1891, Bleistift- und Federzeichnung, HMF R1664</p>*
+![Carl Theodor Reiffenstein, Dom, schmiedeeisernes Abschlusstor am Hochaltar, 1845/1891, Bleistift- und Federzeichnung, HMF R1664](../../images/R1664_png_2830da44dfba4b7b0bcc1877982077f0_original.jpg)
+*1845/1891 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Dom, schmiedeeisernes Abschlusstor am Hochaltar, 1845/1891, Bleistift- und Federzeichnung, HMF R1664*
 
-![<p>Carl Theodor Reiffenstein, Mörsergasse, Blick Richtung Dom, 19. Jahrhundert, Aquarell, HMF C35361</p>](../../images/C35361_png_f7243c4d754de23f23d1199d59272994_original.jpg)
-*19. Jhd. — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Mörsergasse, Blick Richtung Dom, 19. Jahrhundert, Aquarell, HMF C35361</p>*
+![Carl Theodor Reiffenstein, Mörsergasse, Blick Richtung Dom, 19. Jahrhundert, Aquarell, HMF C35361](../../images/C35361_png_f7243c4d754de23f23d1199d59272994_original.jpg)
+*19. Jhd. — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Mörsergasse, Blick Richtung Dom, 19. Jahrhundert, Aquarell, HMF C35361*
 
 
 ## Links

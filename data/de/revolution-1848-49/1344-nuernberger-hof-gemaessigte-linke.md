@@ -14,8 +14,8 @@ filters:
 
 *Hinter dem Lämmchen 8*
 
-![<p>Zeichnung des Nürnberger Hof</p>](../../images/62d767cb915daa5443439815d96a1c19_original.jpg)
-*1849 — Author: Carl Theodor Reiffenstein | License: HMF R0404 | Description: <p>Zeichnung des Nürnberger Hof</p>*
+![Zeichnung des Nürnberger Hof](../../images/62d767cb915daa5443439815d96a1c19_original.jpg)
+*1849 — Author: Carl Theodor Reiffenstein | License: HMF R0404 | Description: Zeichnung des Nürnberger Hof*
 
 Aus dem rechten Flügel des „Deutschen Hofs“ spaltete sich im Oktober 1848 wegen der von Robert Blum in Österreich betriebenen Intervention der Nationalversammlung die gemäßigt-liberale Fraktion „Nürnberger Hof“ ab. Sie übernahm weitgehend das Programm ihrer Ursprungsfraktion. Zu den maßgeblichen Protagonisten zählten der sächsische Fabrikant Bernhard Eisenstuck, der Speyerer Verleger und Autor Georg Friedrich Kolb, der Magdeburger Arzt Wilhelm Loewe und der Leipziger Naturforscher Emil Adolf Roßmäßler.
 
@@ -27,6 +27,6 @@ Heute finden wir im Frankfurter Stadtbild nur noch Reste des Nürnberger Hofs. G
 
 ## Gallery
 
-![<p>Zeichnung des Nürnberger Hof</p>](../../images/02 Nürnbe_52fcacc79668083fd392d39024e7328f_original.jpg)
-*1849 — Author: Carl Theodor Reiffenstein | License: HMF R0404 | Description: <p>Zeichnung des Nürnberger Hof</p>*
+![Zeichnung des Nürnberger Hof](../../images/02 Nürnbe_52fcacc79668083fd392d39024e7328f_original.jpg)
+*1849 — Author: Carl Theodor Reiffenstein | License: HMF R0404 | Description: Zeichnung des Nürnberger Hof*
 

@@ -14,8 +14,8 @@ filters:
 
 *Breubergstraße 26*
 
-![<p>Porträt von Ludwig Eichhorn; M-000857</p>](../../images/c9cc220fae4160f0975e58252f12b816_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Porträt von Ludwig Eichhorn; M-000857</p>*
+![Porträt von Ludwig Eichhorn; M-000857](../../images/c9cc220fae4160f0975e58252f12b816_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Porträt von Ludwig Eichhorn; M-000857*
 
 Jehovas Zeugen gehörten viele Jahre zu den „vergessenen Opfern“ und fanden kaum Erwähnung. Wir möchten die Frankfurter Opfer aus der Vergessenheit holen. Seit 1997 wird an die Frankfurter Zeugen Jehovas erinnert, die unter dem NS-Regime wegen ihrer christlichen Überzeugung gelitten haben. Durch ehrenamtliche Tätigkeit wird in den Archiven und Gedenkstätten das Erlebte der Opfer aufgearbeitet.
 
@@ -25,20 +25,20 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
-![<p>Porträt von Ludwig Eichhorn; M-000857</p>](../../images/Eichhorn_L_934311af897dc9f8d70b17563d7ee439_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Porträt von Ludwig Eichhorn; M-000857</p>*
+![Porträt von Ludwig Eichhorn; M-000857](../../images/Eichhorn_L_934311af897dc9f8d70b17563d7ee439_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Porträt von Ludwig Eichhorn; M-000857*
 
-![<p>Mit LKW auf Missionsfahrt; S-000290</p>](../../images/Eichhorn_L_db61df1613d202b457b6021403c8c430_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Mit LKW auf Missionsfahrt; S-000290</p>*
+![Mit LKW auf Missionsfahrt; S-000290](../../images/Eichhorn_L_db61df1613d202b457b6021403c8c430_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Mit LKW auf Missionsfahrt; S-000290*
 
-![<p>Sonderausweis für Verfolgte, ausgestellt am 14.05.1945</p>](../../images/Eichhorn_L_bdea6085a5283e0b482f6956b271fd94_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Sonderausweis für Verfolgte, ausgestellt am 14.05.1945</p>*
+![Sonderausweis für Verfolgte, ausgestellt am 14.05.1945](../../images/Eichhorn_L_bdea6085a5283e0b482f6956b271fd94_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Sonderausweis für Verfolgte, ausgestellt am 14.05.1945*
 
-![<p>Sonderausweis für Verfolgte (rot) für Ludwig Eichorn, ausgestellt am 06.08.1946 in Frankfurt</p>](../../images/Eichhorn_L_3eef84876c828f5663c8835eefb7637b_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Sonderausweis für Verfolgte (rot) für Ludwig Eichorn, ausgestellt am 06.08.1946 in Frankfurt</p>*
+![Sonderausweis für Verfolgte (rot) für Ludwig Eichorn, ausgestellt am 06.08.1946 in Frankfurt](../../images/Eichhorn_L_3eef84876c828f5663c8835eefb7637b_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Sonderausweis für Verfolgte (rot) für Ludwig Eichorn, ausgestellt am 06.08.1946 in Frankfurt*
 
-![<p>Stolperstein für Ludwig Eichhorn</p>](../../images/Ludwig Eic_1a597fbb37aae9234f1ccb54a977975d_original.jpg)
-*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein für Ludwig Eichhorn</p>*
+![Stolperstein für Ludwig Eichhorn](../../images/Ludwig Eic_1a597fbb37aae9234f1ccb54a977975d_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein für Ludwig Eichhorn*
 
 
 ## Links

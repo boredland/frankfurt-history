@@ -14,8 +14,8 @@ filters:
 
 *An der Hauptwache 11*
 
-![<p>Lithografie mit dem Gebäude Haus zum Wolfseck </p>](../../images/1c5f01ea601ea71aec10d0a4f3025b59_original.jpg)
-*1890 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2000-315 | Description: <p>Lithografie mit dem Gebäude Haus zum Wolfseck </p>*
+![Lithografie mit dem Gebäude Haus zum Wolfseck](../../images/1c5f01ea601ea71aec10d0a4f3025b59_original.jpg)
+*1890 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2000-315 | Description: Lithografie mit dem Gebäude Haus zum Wolfseck*
 
 Im November 1848 erfolgte mit der Gründung des „Centralmärzvereins“ der wegweisende Versuch zur Schaffung einer überregionalen Organisation, die Parlamentsabgeordnete und demokratische Vereine unter einem Dach vereinte. Dieser Zusammenschluss der linken Fraktionen „Deutscher Hof“, „Donnersberg“ und „Westendhall“ wollte außerhalb der Nationalversammlung durch eine demokratische Volksbewegung gewaltfrei die Märzerrungenschaften sichern und die politischen Ziele auf parlamentarischem Weg in den Einzelstaaten erreichen.
 
@@ -25,6 +25,6 @@ In der Phase der Reichsverfassungskampagne rief der Verein am 6. Mai 1849 in Fra
 
 ## Gallery
 
-![<p>Lithografie mit dem Gebäude Haus zum Wolfseck </p>](../../images/10 Wolfsec_9670cec671fa4e949753a03de1dbb650_original.jpg)
-*1890 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2000-315 | Description: <p>Lithografie mit dem Gebäude Haus zum Wolfseck </p>*
+![Lithografie mit dem Gebäude Haus zum Wolfseck](../../images/10 Wolfsec_9670cec671fa4e949753a03de1dbb650_original.jpg)
+*1890 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2000-315 | Description: Lithografie mit dem Gebäude Haus zum Wolfseck*
 

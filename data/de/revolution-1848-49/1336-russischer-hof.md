@@ -14,8 +14,8 @@ filters:
 
 *Zeil 106*
 
-![<p>Lithografie des Russischen Hofs</p>](../../images/e00cca682938a02b753bfa07360337a7_original.jpg)
-*um 1850 — Author: J. H. Martens | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 283 | Description: <p>Lithografie des Russischen Hofs</p>*
+![Lithografie des Russischen Hofs](../../images/e00cca682938a02b753bfa07360337a7_original.jpg)
+*um 1850 — Author: J. H. Martens | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 283 | Description: Lithografie des Russischen Hofs*
 
 Am heutigen Standort des Shopping-Centers MyZeil befand sich 1848 mit dem Russischen Hof eine der edelsten Übernachtungsmöglichkeiten des damaligen Frankfurt. Im 1827 eröffneten Hotel residierten die Könige, Fürsten und wohlhabenden Herren Europas. So wohnte auch der Reichsverweser Erzherzog Johann von Österreich mit seiner Gattin 1848 zunächst auf der Zeil. Anschließend residierte er im Borgnis’schen Haus in der Großen Eschenheimer Gasse 74, das später Sitz des Bürgervereins wurde.
 
@@ -25,6 +25,6 @@ Der Russische Hof diente 1848 auch dem Abgeordneten Eduard Martin Simson als Qua
 
 ## Gallery
 
-![<p>Lithografie des Russischen Hofs<br /><span class="tab2"><br /></span></p>](../../images/09 Russisc_95915dbf5076eebb9343b4b4bf65bbda_original.jpg)
-*um 1850 — Author: J. H. Martens | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 283 | Description: <p>Lithografie des Russischen Hofs<br /><span class="tab2"><br /></span></p>*
+![Lithografie des Russischen Hofs](../../images/09 Russisc_95915dbf5076eebb9343b4b4bf65bbda_original.jpg)
+*um 1850 — Author: J. H. Martens | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 283 | Description: Lithografie des Russischen Hofs*
 

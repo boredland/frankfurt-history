@@ -28,14 +28,14 @@ Badly damaged in the Second World War, the church was reconstructed in 1955/56. 
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Liebfrauenberg with Liebfrauenkirche in front of the breakthrough of Liebfrauenstraße, 1845, aquarelle, HMF C13074</p>](../../images/C13074_png_3822dfb942d09de5e7dd4d1bc84dcafa_original.jpg)
-*1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Liebfrauenberg with Liebfrauenkirche in front of the breakthrough of Liebfrauenstraße, 1845, aquarelle, HMF C13074</p>*
+![Carl Theodor Reiffenstein, Liebfrauenberg with Liebfrauenkirche in front of the breakthrough of Liebfrauenstraße, 1845, aquarelle, HMF C13074](../../images/C13074_png_3822dfb942d09de5e7dd4d1bc84dcafa_original.jpg)
+*1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Liebfrauenberg with Liebfrauenkirche in front of the breakthrough of Liebfrauenstraße, 1845, aquarelle, HMF C13074*
 
-![<p>Carl Theodor Reiffenstein, Liebfrauenkirche, seen from the moat (condition from 1807), after Friedrich Philipp Usener, 1855, watercolored pencil drawing, HMF R0746</p>](../../images/R0746_png_eb405435f2620945288494453cc4c193_original.jpg)
-*1855 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Liebfrauenkirche, seen from the moat (condition from 1807), after Friedrich Philipp Usener, 1855, watercolored pencil drawing, HMF R0746</p>*
+![Carl Theodor Reiffenstein, Liebfrauenkirche, seen from the moat (condition from 1807), after Friedrich Philipp Usener, 1855, watercolored pencil drawing, HMF R0746](../../images/R0746_png_eb405435f2620945288494453cc4c193_original.jpg)
+*1855 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Liebfrauenkirche, seen from the moat (condition from 1807), after Friedrich Philipp Usener, 1855, watercolored pencil drawing, HMF R0746*
 
-![<p>Carl Theodor Reiffenstein, Liebfrauenkirche, interior view, 1845, watercolored pencil drawing, HMF R1594</p>](../../images/R1594_png_c334c7c6b290db9199747a89b2ce0363_original.jpg)
-*1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Liebfrauenkirche, interior view, 1845, watercolored pencil drawing, HMF R1594</p>*
+![Carl Theodor Reiffenstein, Liebfrauenkirche, interior view, 1845, watercolored pencil drawing, HMF R1594](../../images/R1594_png_c334c7c6b290db9199747a89b2ce0363_original.jpg)
+*1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Liebfrauenkirche, interior view, 1845, watercolored pencil drawing, HMF R1594*
 
 
 ## Links

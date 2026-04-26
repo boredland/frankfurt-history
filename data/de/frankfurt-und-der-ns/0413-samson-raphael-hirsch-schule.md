@@ -12,13 +12,13 @@ filters:
 
 *Bernhard-Grzimek-Allee 6*
 
-![<p>Der Neubau des Heinrich-von-Gagern-Gymnasiums, Deutsche Nationalbibliothek, Foto: Alexander Paul Englert</p>](../../images/6854aba6c07712c6c6f274f232606fbc_original.jpg)
-*1928 — Author: Alexander Paul Englert | Description: <p>Der Neubau des Heinrich-von-Gagern-Gymnasiums, Deutsche Nationalbibliothek, Foto: Alexander Paul Englert</p>*
+![Der Neubau des Heinrich-von-Gagern-Gymnasiums, Deutsche Nationalbibliothek, Foto: Alexander Paul Englert](../../images/6854aba6c07712c6c6f274f232606fbc_original.jpg)
+*1928 — Author: Alexander Paul Englert | Description: Der Neubau des Heinrich-von-Gagern-Gymnasiums, Deutsche Nationalbibliothek, Foto: Alexander Paul Englert*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![<p>Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums</p>](../../images/ffaba6401ddc08c70d39dd7714b8a144_original.jpg)
-*o.D. — Author: Alexander Paul Englert | License: Deutsche Nationalbibliothek | Description: <p>Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums</p>*
+![Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums](../../images/ffaba6401ddc08c70d39dd7714b8a144_original.jpg)
+*o.D. — Author: Alexander Paul Englert | License: Deutsche Nationalbibliothek | Description: Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums*
 

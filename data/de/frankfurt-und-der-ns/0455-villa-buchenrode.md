@@ -15,8 +15,8 @@ filters:
 
 *Niederräder Landstraße 38*
 
-![<p>frankfurthistory@stadt-frankfurt.de</p>](../../images/1e0b7c79a351939d86554bd72a5c51a4_original.jpg)
-*vor 1939 — Author: unbekannt | License: HMF | Description: <p>frankfurthistory@stadt-frankfurt.de</p>*
+![frankfurthistory@stadt-frankfurt.de](../../images/1e0b7c79a351939d86554bd72a5c51a4_original.jpg)
+*vor 1939 — Author: unbekannt | License: HMF | Description: frankfurthistory@stadt-frankfurt.de*
 
 Hier im Haus Buchenrode (bis 1936 Forsthausstraße 148) wohnte bis 1938 der Chemiker, Unternehmer und Mäzen Dr. Arthur von Weinberg. 1909 war er mit seiner Frau Wilhelmine, geb. Huygens, und den beiden Adoptivtöchtern in die neu erbaute Villa gezogen. Nicht weit entfernt befanden sich die Galopprennbahn und das Gestüt Waldfried, das er zusammen mit seinem Bruder Carl führte. Im Ersten Weltkrieg betrieb Wilhelmine mit ihren Töchtern in der Villa ein Lazarett für Schwerverletzte, während ihr Mann als Major der Kavallerie an der Westfront kämpfte.
  Arthur von Weinberg, der seit 1907 den preußischen Adelstitel tragen durfte, war Gründungsstifter der Universität Frankfurt, Ehrenpräsident zahlreicher Gesellschaften sowie Leiter der Cassella-Farbwerke und Mitbegründer und Aufsichtsratsmitglied der I.G. Farbenindustrie AG. Zu den von ihm geförderten Institutionen zählten die Senckenbergische Naturforschende Gesellschaft und das Städelsche Kunstinstitut. 1930 wurde er zum Ehrenbürger der Stadt ernannt.

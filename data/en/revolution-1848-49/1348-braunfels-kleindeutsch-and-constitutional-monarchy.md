@@ -25,6 +25,6 @@ Since Heinrich von Gagern needed the Braunfels group’s support for a majority 
 
 ## Gallery
 
-![<span class="tab2">Photo of a row of buildings including the house and restaurant "Zum Braunfels"</span>](../../images/06 Braunfe_4f850b95f09d32fe0b8506a80ba9f271_original.jpg)
-*1883 — Author: Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-4054 | Description: <span class="tab2">Photo of a row of buildings including the house and restaurant "Zum Braunfels"</span>*
+![Photo of a row of buildings including the house and restaurant "Zum Braunfels"](../../images/06 Braunfe_4f850b95f09d32fe0b8506a80ba9f271_original.jpg)
+*1883 — Author: Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-4054 | Description: Photo of a row of buildings including the house and restaurant "Zum Braunfels"*
 

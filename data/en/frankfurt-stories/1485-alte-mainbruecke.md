@@ -16,8 +16,8 @@ filters:
 
 Reiffensteins Frankfurt<br />(1820-1893)
 
-![<p>Carl Theodor Reiffenstein, view of the Old Bridge and Sachsenhausen from the west, 1850/1872, watercolored pencil drawing, HMF RS0004</p>](../../images/97608d3c41341365f1b2348f2b531f80_original.jpg)
-*1850/1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, view of the Old Bridge and Sachsenhausen from the west, 1850/1872, watercolored pencil drawing, HMF RS0004</p>*
+![Carl Theodor Reiffenstein, view of the Old Bridge and Sachsenhausen from the west, 1850/1872, watercolored pencil drawing, HMF RS0004](../../images/97608d3c41341365f1b2348f2b531f80_original.jpg)
+*1850/1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view of the Old Bridge and Sachsenhausen from the west, 1850/1872, watercolored pencil drawing, HMF RS0004*
 
 The town’s Alte Brücke – Old Bridge – was first mentioned in written records in 1222. Until 1869, this was the only solid connection between Frankfurt and Sachsenhausen. When merchants transported goods over the bridge, they had to pay customs duty.
 
@@ -29,14 +29,14 @@ The original bridge was regularly damaged by high water and ice from the frozen 
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, view of the Old Bridge and Sachsenhausen from the west, 1850/1872, watercolored pencil drawing, HMF RS0004</p>](../../images/RS0004_png_08b696435e26381ea45a7e658477b2b9_original.jpg)
-*1850/1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, view of the Old Bridge and Sachsenhausen from the west, 1850/1872, watercolored pencil drawing, HMF RS0004</p>*
+![Carl Theodor Reiffenstein, view of the Old Bridge and Sachsenhausen from the west, 1850/1872, watercolored pencil drawing, HMF RS0004](../../images/RS0004_png_08b696435e26381ea45a7e658477b2b9_original.jpg)
+*1850/1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view of the Old Bridge and Sachsenhausen from the west, 1850/1872, watercolored pencil drawing, HMF RS0004*
 
-![<p>Carl Theodor Reiffenstein, Sachsenhausen and Old Bridge (seen from the house at Untermainkai no. 6), 1851, watercolored pencil drawing, HMF RS0001</p>](../../images/RS0001_png_8c256873cd1f0302a07a3bbd0d317ad0_original.jpg)
-*1851 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Sachsenhausen and Old Bridge (seen from the house at Untermainkai no. 6), 1851, watercolored pencil drawing, HMF RS0001</p>*
+![Carl Theodor Reiffenstein, Sachsenhausen and Old Bridge (seen from the house at Untermainkai no. 6), 1851, watercolored pencil drawing, HMF RS0001](../../images/RS0001_png_8c256873cd1f0302a07a3bbd0d317ad0_original.jpg)
+*1851 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Sachsenhausen and Old Bridge (seen from the house at Untermainkai no. 6), 1851, watercolored pencil drawing, HMF RS0001*
 
-![<p>Carl Theodor Reiffenstein, view from the Main Island to an arch of the Old Bridge, 1872/1875, watercolored pencil drawing, HMF RS0009</p>](../../images/RS0009_png_9a628ca07c80528bd249e5e632123d0e_original.jpg)
-*1872/1875 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, view from the Main Island to an arch of the Old Bridge, 1872/1875, watercolored pencil drawing, HMF RS0009</p>*
+![Carl Theodor Reiffenstein, view from the Main Island to an arch of the Old Bridge, 1872/1875, watercolored pencil drawing, HMF RS0009](../../images/RS0009_png_9a628ca07c80528bd249e5e632123d0e_original.jpg)
+*1872/1875 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view from the Main Island to an arch of the Old Bridge, 1872/1875, watercolored pencil drawing, HMF RS0009*
 
 
 ## Links

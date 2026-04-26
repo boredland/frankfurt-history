@@ -14,8 +14,8 @@ filters:
 
 *Im Sperber 24*
 
-![<p>Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"</p>](../../images/b48f075984d615d6113471b9c3f4ad44_original.jpg)
-*Author: Postkartensammlung Church | License: HMF / Sammlung Church C80374 | Description: <p>Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"</p>*
+![Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"](../../images/b48f075984d615d6113471b9c3f4ad44_original.jpg)
+*Author: Postkartensammlung Church | License: HMF / Sammlung Church C80374 | Description: Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"*
 
 Zwangsarbeitslager
 
@@ -39,12 +39,12 @@ Eine Gedenktafel für die Zwangsarbeiter*innen in Bergen-Enkheim gibt es bisher 
 
 ## Gallery
 
-![<p>Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"</p>](../../images/28a9f5b70c96acc9e0f3d6e9dc3c09c2_original.jpg)
-*Author: Postkartensammlung Church | License: HMF / Sammlung Church C80374 | Description: <p>Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"</p>*
+![Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"](../../images/28a9f5b70c96acc9e0f3d6e9dc3c09c2_original.jpg)
+*Author: Postkartensammlung Church | License: HMF / Sammlung Church C80374 | Description: Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"*
 
 ![Postkarte „Zur schönen Aussicht" aus dem Jahr 1889.](../../images/ad0362936564aa738761e1eebdfa412a_original.jpg)
-*1889 — Author: Unbekannt | License: <span class="tab2">gemeinfrei</span> | Description: Postkarte „Zur schönen Aussicht" aus dem Jahr 1889.*
+*1889 — Author: Unbekannt | License: gemeinfrei | Description: Postkarte „Zur schönen Aussicht" aus dem Jahr 1889.*
 
 ![Postkarte vom Gasthaus „Zur schönen Aussicht".](../../images/2_Schöne _f8bb979afb3237136592ddea77187312_original.jpg)
-*o.D. — Author: Unbekannt | License: <span class="tab2">gemeinfrei</span> | Description: Postkarte vom Gasthaus „Zur schönen Aussicht".*
+*o.D. — Author: Unbekannt | License: gemeinfrei | Description: Postkarte vom Gasthaus „Zur schönen Aussicht".*
 

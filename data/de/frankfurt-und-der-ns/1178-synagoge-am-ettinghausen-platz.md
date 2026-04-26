@@ -29,6 +29,6 @@ Am Ort der ehemaligen Synagoge Höchst erinnert seit 1961 eine Tafel an die Verw
 
 ## Gallery
 
-![Simulation <span class="tab2">der </span>Außen­an­sicht der Synagoge](../../images/isg_gt_syn_e2ee0b354a8073f2e0f2fb7c7a8f5fba_original.jpg)
-*License: © 2010 Architectura Virtualis GmbH, Kooperationspartner der Technischen Universität Darmstadt | Description: Simulation <span class="tab2">der </span>Außen­an­sicht der Synagoge*
+![Simulation der Außen­an­sicht der Synagoge](../../images/isg_gt_syn_e2ee0b354a8073f2e0f2fb7c7a8f5fba_original.jpg)
+*License: © 2010 Architectura Virtualis GmbH, Kooperationspartner der Technischen Universität Darmstadt | Description: Simulation der Außen­an­sicht der Synagoge*
 

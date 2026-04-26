@@ -28,11 +28,11 @@ Im Zweiten Weltkrieg brannte das Innere des Gebäudes aus, das erst in den 1980e
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Leinwandhaus, vordere Ansicht, 1837, Bleistiftzeichnung, HMF R0387</p>](../../images/R0387_png_5ea73cefa47f21ddce93eac5b74c683d_original.jpg)
-*1837 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Leinwandhaus, vordere Ansicht, 1837, Bleistiftzeichnung, HMF R0387</p>*
+![Carl Theodor Reiffenstein, Leinwandhaus, vordere Ansicht, 1837, Bleistiftzeichnung, HMF R0387](../../images/R0387_png_5ea73cefa47f21ddce93eac5b74c683d_original.jpg)
+*1837 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Leinwandhaus, vordere Ansicht, 1837, Bleistiftzeichnung, HMF R0387*
 
-![<p>Carl Theodor Reiffenstein, Domturm, Südeingang, Blick zur ehemaligen Pförtnerwohnung und dem Leinwandhaus, 1843, aquarellierte Bleistiftzeichnung, HMF R1679</p>](../../images/R1679_png_bb5db879d043121f3c4b68206cfc9fd9_original.jpg)
-*1843 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Domturm, Südeingang, Blick zur ehemaligen Pförtnerwohnung und dem Leinwandhaus, 1843, aquarellierte Bleistiftzeichnung, HMF R1679</p>*
+![Carl Theodor Reiffenstein, Domturm, Südeingang, Blick zur ehemaligen Pförtnerwohnung und dem Leinwandhaus, 1843, aquarellierte Bleistiftzeichnung, HMF R1679](../../images/R1679_png_bb5db879d043121f3c4b68206cfc9fd9_original.jpg)
+*1843 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Domturm, Südeingang, Blick zur ehemaligen Pförtnerwohnung und dem Leinwandhaus, 1843, aquarellierte Bleistiftzeichnung, HMF R1679*
 
 
 ## Links

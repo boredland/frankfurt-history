@@ -20,11 +20,11 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
-![<p>Foto: Staatliche Bildstelle Berlin, 1937, HMF C31431</p>](../../images/C31431_jpg_6c3cd7858d4fbb52ae73dd9370ff1257_original.jpg)
-*1937 — Author: Staatliche Bildstelle Berlin | Description: <p>Foto: Staatliche Bildstelle Berlin, 1937, HMF C31431</p>*
+![Foto: Staatliche Bildstelle Berlin, 1937, HMF C31431](../../images/C31431_jpg_6c3cd7858d4fbb52ae73dd9370ff1257_original.jpg)
+*1937 — Author: Staatliche Bildstelle Berlin | Description: Foto: Staatliche Bildstelle Berlin, 1937, HMF C31431*
 
-![<p>Postkarte "Was geht mich der 8. Mai an?"</p>](../../images/f967409822649b04ce90c064391de946_original.jpg)
-*Description: <p>Postkarte "Was geht mich der 8. Mai an?"</p>*
+![Postkarte "Was geht mich der 8. Mai an?"](../../images/f967409822649b04ce90c064391de946_original.jpg)
+*Description: Postkarte "Was geht mich der 8. Mai an?"*
 
 
 ## Video

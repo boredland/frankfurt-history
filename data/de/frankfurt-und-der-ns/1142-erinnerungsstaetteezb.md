@@ -14,8 +14,8 @@ filters:
 
 *Inklusiver Bildungsurlaub „Deine Stadt und der Nationalsozialismus“*
 
-![<p>frankfurthistory@stadt-frankfurt.de</p>](../../images/1e0b7c79a351939d86554bd72a5c51a4_original.jpg)
-*License: HMF | Description: <p>frankfurthistory@stadt-frankfurt.de</p>*
+![frankfurthistory@stadt-frankfurt.de](../../images/1e0b7c79a351939d86554bd72a5c51a4_original.jpg)
+*License: HMF | Description: frankfurthistory@stadt-frankfurt.de*
 
 Das Video ist im Rahmen des inklusiven Bildungsurlaubs „Deine Stadt und der Nationalsozialismus“ im Sommer2022 entstanden. Teilnehmende mit und ohne Behinderung erkundeten gemeinsam die Ausstellung des Historischen Museums, sprachen über eigene Bezüge zum Nationalsozialismus und untersuchten den Stadtraum nach heutigen Spuren des Nationalsozialismus. Die selbstgeschriebenen und gedrehten Filme dokumentieren die Ergebnisse der jeweiligen Gruppen. Das Projekt wurde im Rahmen von „Frankfurt und der Nationalsozialismus. Eine Gedächtnisplattform“ initiiert, in einer Kooperation vom Historischen Museum Frankfurt, der Volkshochschule Frankfurt am Main und der Lebenshilfe Frankfurt durchgeführt und von der Stiftung Erinnerung, Verantwortung und Zukunft (EVZ) und dem Bundesministerium der Finanzen (BMF) gefördert.
 

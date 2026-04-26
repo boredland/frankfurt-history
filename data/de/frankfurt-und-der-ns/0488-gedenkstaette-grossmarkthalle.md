@@ -15,8 +15,8 @@ filters:
 
 *Philipp-Holzmann-Weg*
 
-![<p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>](../../images/d440d389c1a093da0375a32f84361d17_original.jpg)
-*o.D. — Author: Norbert Miguletz | Description: <p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>*
+![Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle](../../images/d440d389c1a093da0375a32f84361d17_original.jpg)
+*o.D. — Author: Norbert Miguletz | Description: Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle*
 
 Entworfen wurde die Großmarkthalle Mitte der 1920er-Jahre von dem Architekten Martin Elsaesser. Sie war bautechnisch auf höchstem Niveau, konzipiert für den modernen Handel und reibungslosen Umschlag von Obst und Gemüse: mit praktischen Laderampen, großzügig dimensionierten Kühlkellern, Bahnanschlüssen mit überdachten Gleisen und einem eigenen Befehlsstellwerk.
  Die Geheime Staatspolizei (Gestapo) und NSDAP-Gauleitung nutzten das Gebäude und seine Funktionalität ab 1941 für Massendeportationen von Jüdinnen und Juden. Die Wahl war auf diesen Ort gefallen, da er innenstadtnah und verkehrstechnisch günstig zwischen Hafenbahn und Ostbahnhof lag. Deshalb mietete die Gestapo den östlichen Kellerbereich als Sammelplatz zur Durchführung der Deportationen. Der Keller bot Schutz vor neugierigen Blicken auf das Verbrechen und notdürftig Platz für Hunderte Menschen. Frauen, Männer und Kinder wurden durch das eingesetzte Personal gedemütigt, körperlich misshandelt. Letzter Habseligkeiten beraubt zwang man sie schließlich an das Gleisfeld vor der Halle. Dort standen die Züge der Deutschen Reichsbahn für die Transporte in die Ghettos und Konzentrationslager bereit. Direkt nebenan ging der tägliche Marktbetrieb weiter. Dabei blieben die grausamen Vorgänge den dort Beschäftigten nicht verborgen.
@@ -27,8 +27,8 @@ Entworfen wurde die Großmarkthalle Mitte der 1920er-Jahre von dem Architekten M
 
 ## Gallery
 
-![<p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>](../../images/d440d389c1a093da0375a32f84361d17_original.jpg)
-*o.D. — Author: Norbert Miguletz | Description: <p>Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle</p>*
+![Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle](../../images/d440d389c1a093da0375a32f84361d17_original.jpg)
+*o.D. — Author: Norbert Miguletz | Description: Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle*
 
 
 ## Links

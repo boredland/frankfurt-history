@@ -14,8 +14,8 @@ filters:
 
 *Römerberg 23*
 
-![<p>Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne</p>](../../images/Ph03224a_j_bdae36c341a3ed7d3683b2d62b12c23a_original.jpg)
-*Author: Hannah Reeck | License: HMF Ph03224a | Description: <p>Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne</p>*
+![Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne](../../images/Ph03224a_j_bdae36c341a3ed7d3683b2d62b12c23a_original.jpg)
+*Author: Hannah Reeck | License: HMF Ph03224a | Description: Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne*
 
 Rathaus Römer
 
@@ -25,6 +25,6 @@ Schon vor 1933 gab es in der Stadtverordnetenversammlung rechte Positionen. Aber
 
 ## Gallery
 
-![<p>Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne</p>](../../images/Ph03224a_j_bdae36c341a3ed7d3683b2d62b12c23a_original.jpg)
-*Author: Hannah Reeck | License: HMF Ph03224a | Description: <p>Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne</p>*
+![Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne](../../images/Ph03224a_j_bdae36c341a3ed7d3683b2d62b12c23a_original.jpg)
+*Author: Hannah Reeck | License: HMF Ph03224a | Description: Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne*
 

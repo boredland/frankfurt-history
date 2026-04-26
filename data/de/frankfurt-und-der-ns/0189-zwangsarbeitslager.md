@@ -15,8 +15,8 @@ filters:
 
 *Schäfergasse 19*
 
-![<span class="tab2">Zwangsarbeitslager, Schäfergasse 19</span>](../../images/51efcbbdbd9735367ca3c80e28c91276_original.jpg)
-*ca. 1880 — Author: Hertel | License: Institut für Stadtgeschichte, Frankfurt Best. S7A 1998-9505 | Description: <span class="tab2">Zwangsarbeitslager, Schäfergasse 19</span>*
+![Zwangsarbeitslager, Schäfergasse 19](../../images/51efcbbdbd9735367ca3c80e28c91276_original.jpg)
+*ca. 1880 — Author: Hertel | License: Institut für Stadtgeschichte, Frankfurt Best. S7A 1998-9505 | Description: Zwangsarbeitslager, Schäfergasse 19*
 
 Hier befand sich die Weinkellerei Johann Mankel. Der Betrieb beschäftigte 1943 in seiner Weinhandlung zwei Zwangsarbeiter*innen aus Westeuropa. Ihre genaue Herkunft ist nicht bekannt. Sie waren in einem Sammellager im Reuterweg 91 untergebracht.
 
@@ -24,8 +24,8 @@ Hier befand sich die Weinkellerei Johann Mankel. Der Betrieb beschäftigte 1943 
 
 ## Gallery
 
-![<span class="tab2">Zwangsarbeitslager, Schäfergasse 19</span>](../../images/51efcbbdbd9735367ca3c80e28c91276_original.jpg)
-*ca. 1880 — Author: Hertel | License: Institut für Stadtgeschichte, Frankfurt Best. S7A 1998-9505 | Description: <span class="tab2">Zwangsarbeitslager, Schäfergasse 19</span>*
+![Zwangsarbeitslager, Schäfergasse 19](../../images/51efcbbdbd9735367ca3c80e28c91276_original.jpg)
+*ca. 1880 — Author: Hertel | License: Institut für Stadtgeschichte, Frankfurt Best. S7A 1998-9505 | Description: Zwangsarbeitslager, Schäfergasse 19*
 
 
 ## Links

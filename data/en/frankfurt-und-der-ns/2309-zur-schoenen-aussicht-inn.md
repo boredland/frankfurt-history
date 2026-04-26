@@ -43,8 +43,8 @@ To date there is no commemorative plaque for the forced laborers in Bergen-Enkhe
 *Author: Postkartensammlung Church | License: HMF / Sammlung Church C80374 | Description: Picture postcard with the restaurant "Zur Schönen Aussicht"*
 
 ![Postcard “Zur schönen Aussicht” (To the beautiful view) from 1889.](../../images/ad0362936564aa738761e1eebdfa412a_original.jpg)
-*1889 — Author: Unbekannt | License: <span class="tab2">gemeinfrei</span> | Description: Postcard “Zur schönen Aussicht” (To the beautiful view) from 1889.*
+*1889 — Author: Unbekannt | License: gemeinfrei | Description: Postcard “Zur schönen Aussicht” (To the beautiful view) from 1889.*
 
 ![Postcard from the “Zur schönen Aussicht” inn.](../../images/2_Schöne _f8bb979afb3237136592ddea77187312_original.jpg)
-*n.d. — Author: Unbekannt | License: <span class="tab2">gemeinfrei</span> | Description: Postcard from the “Zur schönen Aussicht” inn.*
+*n.d. — Author: Unbekannt | License: gemeinfrei | Description: Postcard from the “Zur schönen Aussicht” inn.*
 

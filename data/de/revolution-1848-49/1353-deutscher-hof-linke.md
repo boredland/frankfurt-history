@@ -14,8 +14,8 @@ filters:
 
 *Goethestraße 10*
 
-![<p>Lithografie mit dem Gebäude Deutscher Hof</p>](../../images/6a01c10a2689e4d1cac20b94aa0b356d_original.jpg)
-*1863 — Author: W. Loeillot | License: HMF C68280 | Description: <p>Lithografie mit dem Gebäude Deutscher Hof</p>*
+![Lithografie mit dem Gebäude Deutscher Hof](../../images/6a01c10a2689e4d1cac20b94aa0b356d_original.jpg)
+*1863 — Author: W. Loeillot | License: HMF C68280 | Description: Lithografie mit dem Gebäude Deutscher Hof*
 
 Mit dem Beginn der Nationalversammlung bildete sich am 18. Mai 1848 eine Fraktion demokratischer Linker. Sie umfasste rund 100 Personen und traf sich unter der Führung Robert Blums im Deutschen Hof. Die Sitzungen sollen in geselliger Kneipenatmosphäre, ungeordnet und mit teilweise intensiven Diskussionen stattgefunden haben.
 
@@ -31,6 +31,6 @@ Als Reaktion auf die erfolgten Abspaltungen passte der „Deutsche Hof“ im Okt
 
 ## Gallery
 
-![<p>Lithografie mit dem Gebäude Deutscher Hof</p>](../../images/11 Deutsch_8f9c8ea2f5771fea3cf7c1355f4abfe8_original.jpg)
-*1863 — Author: W. Loeillot | License: HMF C68280 | Description: <p>Lithografie mit dem Gebäude Deutscher Hof</p>*
+![Lithografie mit dem Gebäude Deutscher Hof](../../images/11 Deutsch_8f9c8ea2f5771fea3cf7c1355f4abfe8_original.jpg)
+*1863 — Author: W. Loeillot | License: HMF C68280 | Description: Lithografie mit dem Gebäude Deutscher Hof*
 

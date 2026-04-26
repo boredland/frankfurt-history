@@ -11,8 +11,8 @@ filters:
 
 # Hauptbahnhof
 
-![<p>Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes<br /><span class="tab2"><br /></span></p>](../../images/a1d39718701a7832716493eab9a26074_original.jpg)
-*1937 — Author: Wolff & Tritschler | License: HMF Ph04243 | Description: <p>Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes<br /><span class="tab2"><br /></span></p>*
+![Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes](../../images/a1d39718701a7832716493eab9a26074_original.jpg)
+*1937 — Author: Wolff & Tritschler | License: HMF Ph04243 | Description: Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes*
 
 Der Hauptbahnhof am Hindenburg-Platz (heute: Am Hauptbahnhof) war Ausgangspunkt zahlreicher Deportationen. Am 28. und 29. Oktober 1938 verhaftete die Polizei in Frankfurt lebende Jüdinnen und Juden mit polnischer Staatsangehörigkeit und schob sie nach Beuthen ab – in das Niemandsland zwischen Deutschland und Polen. 
  
@@ -24,6 +24,6 @@ Ein Augenzeuge berichtet:
 
 ## Gallery
 
-![<p>Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes<br /><span class="tab2"><br /></span></p>](../../images/a1d39718701a7832716493eab9a26074_original.jpg)
-*1937 — Author: Wolff & Tritschler | License: HMF Ph04243 | Description: <p>Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes<br /><span class="tab2"><br /></span></p>*
+![Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes](../../images/a1d39718701a7832716493eab9a26074_original.jpg)
+*1937 — Author: Wolff & Tritschler | License: HMF Ph04243 | Description: Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes*
 

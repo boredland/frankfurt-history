@@ -27,8 +27,8 @@ Through their votes, the delegates ratified a catalogue of fundamental rights wh
 
 ## Gallery
 
-![<span class="tab2">Photo of the German Reformed Church</span>](../../images/03a Deutsc_7e6b07e441a351f5c060d90d09ce9303_original.jpg)
-*1905 — Author: Gottfried Vömel | License: Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 240 | Description: <span class="tab2">Photo of the German Reformed Church</span>*
+![Photo of the German Reformed Church](../../images/03a Deutsc_7e6b07e441a351f5c060d90d09ce9303_original.jpg)
+*1905 — Author: Gottfried Vömel | License: Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 240 | Description: Photo of the German Reformed Church*
 
 ![](../../images/03b Deutsc_b2a89e0835efdcc8fd86c308a67d0a29_original.jpg)
 *1936 — Author: unbekannt | License: ISG*

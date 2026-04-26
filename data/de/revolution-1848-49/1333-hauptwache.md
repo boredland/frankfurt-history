@@ -14,8 +14,8 @@ filters:
 
 *An der Hauptwache 15*
 
-![<p>Farblithografie, die einen Schusswechsel zwischen Angreifern und Verteidigern der Hauptwache abbildet</p>](../../images/7bcd953cacd1ceb07826af576e1e6d59_original.jpg)
-*um 1833 — Author: Francois Georgin | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1833-2 | Description: <p>Farblithografie, die einen Schusswechsel zwischen Angreifern und Verteidigern der Hauptwache abbildet</p>*
+![Farblithografie, die einen Schusswechsel zwischen Angreifern und Verteidigern der Hauptwache abbildet](../../images/7bcd953cacd1ceb07826af576e1e6d59_original.jpg)
+*um 1833 — Author: Francois Georgin | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1833-2 | Description: Farblithografie, die einen Schusswechsel zwischen Angreifern und Verteidigern der Hauptwache abbildet*
 
 Die 1729/30 errichtete Hauptwache diente im 19. Jahrhundert als Wachgebäude und Gefängnis. Im Vormärz waren Haupt- und Konstablerwache am 3. April 1833 Schauplätze des Frankfurter Wachensturms. Rund 100 radikale Liberale und Studenten stürmten die Wachen und hielten diese zeitweise besetzt. Die Aktion sollte einen bewaffneten Umsturz anstoßen, doch aufgrund der fehlenden Unterstützung breiter Massen wurde die Erhebung nach einer Stunde niedergeschlagen.
 
@@ -25,6 +25,6 @@ Der Deutsche Bund reagierte mit harten Sanktionen. Als Machtdemonstration statio
 
 ## Gallery
 
-![<p>Farblithografie, die einen Schusswechsel zwischen Angreifern und Verteidigern der Hauptwache abbildet</p>](../../images/06 Wachens_d1dcac4927da3618bb30e64466be8847_original.jpg)
-*um 1833 — Author: Francois Georgin | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1833-2 | Description: <p>Farblithografie, die einen Schusswechsel zwischen Angreifern und Verteidigern der Hauptwache abbildet</p>*
+![Farblithografie, die einen Schusswechsel zwischen Angreifern und Verteidigern der Hauptwache abbildet](../../images/06 Wachens_d1dcac4927da3618bb30e64466be8847_original.jpg)
+*um 1833 — Author: Francois Georgin | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1833-2 | Description: Farblithografie, die einen Schusswechsel zwischen Angreifern und Verteidigern der Hauptwache abbildet*
 

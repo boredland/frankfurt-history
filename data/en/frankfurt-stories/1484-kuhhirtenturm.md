@@ -30,14 +30,14 @@ Badly damaged in the Second World War, the tower was later rebuilt. Since 2011, 
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, view up the Main from the Old Bridge, the Kuhhirtenturn on the right, 1872, watercolored pencil drawing, HMF RS0007</p>](../../images/RS0007_png_9b80a2cfea351343fd050e9542d0cad6_original.jpg)
-*1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, view up the Main from the Old Bridge, the Kuhhirtenturn on the right, 1872, watercolored pencil drawing, HMF RS0007</p>*
+![Carl Theodor Reiffenstein, view up the Main from the Old Bridge, the Kuhhirtenturn on the right, 1872, watercolored pencil drawing, HMF RS0007](../../images/RS0007_png_9b80a2cfea351343fd050e9542d0cad6_original.jpg)
+*1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view up the Main from the Old Bridge, the Kuhhirtenturn on the right, 1872, watercolored pencil drawing, HMF RS0007*
 
-![<p>Carl Theodor Reiffenstein, Sachsenhausen, town wall, behind it Frankensteinerhof and Deutschordenshaus, 1836/1888(?), watercolored pencil drawing, HMF R1673</p>](../../images/R1673_png_54375ec1c933b699ba298df074455952_original.jpg)
-*1836/1888 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Sachsenhausen, town wall, behind it Frankensteinerhof and Deutschordenshaus, 1836/1888(?), watercolored pencil drawing, HMF R1673</p>*
+![Carl Theodor Reiffenstein, Sachsenhausen, town wall, behind it Frankensteinerhof and Deutschordenshaus, 1836/1888(?), watercolored pencil drawing, HMF R1673](../../images/R1673_png_54375ec1c933b699ba298df074455952_original.jpg)
+*1836/1888 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Sachsenhausen, town wall, behind it Frankensteinerhof and Deutschordenshaus, 1836/1888(?), watercolored pencil drawing, HMF R1673*
 
-![<p>Carl Theodor Reiffenstein, view of the Kuhhirtenturm in Sachsenhausen, 1857, watercolored pencil drawing, HMF RS0022</p>](../../images/RS0022_png_72e9900d8c7d3f224cde80f1d3bbf49c_original.jpg)
-*1857 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, view of the Kuhhirtenturm in Sachsenhausen, 1857, watercolored pencil drawing, HMF RS0022</p>*
+![Carl Theodor Reiffenstein, view of the Kuhhirtenturm in Sachsenhausen, 1857, watercolored pencil drawing, HMF RS0022](../../images/RS0022_png_72e9900d8c7d3f224cde80f1d3bbf49c_original.jpg)
+*1857 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view of the Kuhhirtenturm in Sachsenhausen, 1857, watercolored pencil drawing, HMF RS0022*
 
 
 ## Links

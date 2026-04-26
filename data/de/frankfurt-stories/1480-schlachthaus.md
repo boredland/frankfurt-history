@@ -26,17 +26,17 @@ Reiffenstein zeichnete die einzige zu seiner Zeit erhaltene Zunftstube. Ihre Ges
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Schlachthaus und -gasse, 1849/1860, aquarellierte Bleistiftzeichnung, HMF R0399</p>](../../images/R0399_png_0f6933f11f77426cde0686ec0747cf3b_original.jpg)
-*1849/1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Schlachthaus und -gasse, 1849/1860, aquarellierte Bleistiftzeichnung, HMF R0399</p>*
+![Carl Theodor Reiffenstein, Schlachthaus und -gasse, 1849/1860, aquarellierte Bleistiftzeichnung, HMF R0399](../../images/R0399_png_0f6933f11f77426cde0686ec0747cf3b_original.jpg)
+*1849/1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Schlachthaus und -gasse, 1849/1860, aquarellierte Bleistiftzeichnung, HMF R0399*
 
-![<p>Carl Theodor Reiffenstein, Schlachthaus, Meisterstube der Metzger, Glasfenster mit Ochse, 1863, aquarellierte Federzeichnung, Gouache, HMF R0396</p>](../../images/R0396_png_2ef1e9cd3899bb9632a4077d665dc51e_original.jpg)
-*1863 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Schlachthaus, Meisterstube der Metzger, Glasfenster mit Ochse, 1863, aquarellierte Federzeichnung, Gouache, HMF R0396</p>*
+![Carl Theodor Reiffenstein, Schlachthaus, Meisterstube der Metzger, Glasfenster mit Ochse, 1863, aquarellierte Federzeichnung, Gouache, HMF R0396](../../images/R0396_png_2ef1e9cd3899bb9632a4077d665dc51e_original.jpg)
+*1863 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Schlachthaus, Meisterstube der Metzger, Glasfenster mit Ochse, 1863, aquarellierte Federzeichnung, Gouache, HMF R0396*
 
-![<p>Carl Theodor Reiffenstein, Schlachthaus, Meisterstube der Metzger, Glasfenster mit Adler, 1863, aquarellierte Federzeichnung, Gouache, HMF R0397</p>](../../images/R0397_png_db0f0134e0fd4f2bfcb65cd330db612d_original.jpg)
-*1863 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Schlachthaus, Meisterstube der Metzger, Glasfenster mit Adler, 1863, aquarellierte Federzeichnung, Gouache, HMF R0397</p>*
+![Carl Theodor Reiffenstein, Schlachthaus, Meisterstube der Metzger, Glasfenster mit Adler, 1863, aquarellierte Federzeichnung, Gouache, HMF R0397](../../images/R0397_png_db0f0134e0fd4f2bfcb65cd330db612d_original.jpg)
+*1863 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Schlachthaus, Meisterstube der Metzger, Glasfenster mit Adler, 1863, aquarellierte Federzeichnung, Gouache, HMF R0397*
 
-![<p>Carl Theodor Reiffenstein, Schlachthaus, Meisterstube der Metzger, 1849, aquarellierte Federzeichnung, HMF R0398</p>](../../images/R0398_png_af90a3f9eeac131e1bb451c91ca1cd37_original.jpg)
-*1849 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Schlachthaus, Meisterstube der Metzger, 1849, aquarellierte Federzeichnung, HMF R0398</p>*
+![Carl Theodor Reiffenstein, Schlachthaus, Meisterstube der Metzger, 1849, aquarellierte Federzeichnung, HMF R0398](../../images/R0398_png_af90a3f9eeac131e1bb451c91ca1cd37_original.jpg)
+*1849 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Schlachthaus, Meisterstube der Metzger, 1849, aquarellierte Federzeichnung, HMF R0398*
 
 
 ## Links

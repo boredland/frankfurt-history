@@ -24,8 +24,8 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
-![<p>Stolperstein for Elisabeth Mayer</p>](../../images/Elisabeth _badd938ef6cdae003aa1d6e8eee0e94d_original.jpg)
-*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein for Elisabeth Mayer</p>*
+![Stolperstein for Elisabeth Mayer](../../images/Elisabeth _badd938ef6cdae003aa1d6e8eee0e94d_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Elisabeth Mayer*
 
 
 ## Links

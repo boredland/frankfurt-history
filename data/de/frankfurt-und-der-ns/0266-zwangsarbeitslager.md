@@ -14,13 +14,13 @@ filters:
 
 *Rahmhofstraße 2-4*
 
-![<p>Aktien-Gesellschaft für Hoch- und Tiefbauten, Ansicht des Geschäftshauses "Zum Taubenhof" an der Rahmhofstraße 2-4</p>](../../images/661c86bdd41886a6a12580fa863cac51_original.jpg)
-*1907-1908 — License: Institut für Stadtgeschichte, Frankfurt Best. S8-4 Nr. 63 | Description: <p>Aktien-Gesellschaft für Hoch- und Tiefbauten, Ansicht des Geschäftshauses "Zum Taubenhof" an der Rahmhofstraße 2-4</p>*
+![Aktien-Gesellschaft für Hoch- und Tiefbauten, Ansicht des Geschäftshauses "Zum Taubenhof" an der Rahmhofstraße 2-4](../../images/661c86bdd41886a6a12580fa863cac51_original.jpg)
+*1907-1908 — License: Institut für Stadtgeschichte, Frankfurt Best. S8-4 Nr. 63 | Description: Aktien-Gesellschaft für Hoch- und Tiefbauten, Ansicht des Geschäftshauses "Zum Taubenhof" an der Rahmhofstraße 2-4*
 
 Im Geschäftshaus "Taubenhof" in der Rahmhofstraße 2-4 unterhielt die Lichttechn. Spezialfabrik Dr. Ing. Schneider & Co. ein Lager für Zivilarbeiter.
 
 ## Gallery
 
-![<p>Aktien-Gesellschaft für Hoch- und Tiefbauten, Ansicht des Geschäftshauses "Zum Taubenhof" an der Rahmhofstraße 2-4</p>](../../images/661c86bdd41886a6a12580fa863cac51_original.jpg)
-*1907-1908 — License: Institut für Stadtgeschichte, Frankfurt Best. S8-4 Nr. 63 | Description: <p>Aktien-Gesellschaft für Hoch- und Tiefbauten, Ansicht des Geschäftshauses "Zum Taubenhof" an der Rahmhofstraße 2-4</p>*
+![Aktien-Gesellschaft für Hoch- und Tiefbauten, Ansicht des Geschäftshauses "Zum Taubenhof" an der Rahmhofstraße 2-4](../../images/661c86bdd41886a6a12580fa863cac51_original.jpg)
+*1907-1908 — License: Institut für Stadtgeschichte, Frankfurt Best. S8-4 Nr. 63 | Description: Aktien-Gesellschaft für Hoch- und Tiefbauten, Ansicht des Geschäftshauses "Zum Taubenhof" an der Rahmhofstraße 2-4*
 

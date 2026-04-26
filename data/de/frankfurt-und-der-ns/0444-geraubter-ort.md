@@ -15,8 +15,8 @@ filters:
 
 *Reichsburgstraße 2*
 
-![<p>Bildpostkarte mit dem Gebäude Reichsburgstraße 2, HMF / Sammlung Church C80401</p>](../../images/19b935b7a6714c6347974681d1398c4f_original.jpg)
-*unbekannt — Author: Postkartensammlung Church | Description: <p>Bildpostkarte mit dem Gebäude Reichsburgstraße 2, HMF / Sammlung Church C80401</p>*
+![Bildpostkarte mit dem Gebäude Reichsburgstraße 2, HMF / Sammlung Church C80401](../../images/19b935b7a6714c6347974681d1398c4f_original.jpg)
+*unbekannt — Author: Postkartensammlung Church | Description: Bildpostkarte mit dem Gebäude Reichsburgstraße 2, HMF / Sammlung Church C80401*
 
 Privateigentum
 
@@ -26,6 +26,6 @@ Dieses Mehrfamilienhaus gehörte Sally Fleisch und seiner Frau Selma (geb. Stern
 
 ## Gallery
 
-![<p>Bildpostkarte mit dem Gebäude Reichsburgstraße 2</p>](../../images/C80401_jpg_a65a8875aa9a22ae295fc222c6b41e35_original.jpg)
-*o.D. — Author: unbekannt | License: HMF / Sammlung Church C80401 | Description: <p>Bildpostkarte mit dem Gebäude Reichsburgstraße 2</p>*
+![Bildpostkarte mit dem Gebäude Reichsburgstraße 2](../../images/C80401_jpg_a65a8875aa9a22ae295fc222c6b41e35_original.jpg)
+*o.D. — Author: unbekannt | License: HMF / Sammlung Church C80401 | Description: Bildpostkarte mit dem Gebäude Reichsburgstraße 2*
 

@@ -10,8 +10,8 @@ filters:
 
 # Gaußstraße 14
 
-![<p>Foto: Martin Starl, 2010, Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2010-158</p>](../../images/cc2c8e4da40e543c9707324e07b40ba9_original.jpg)
-*2010 — Author: Martin Starl | Description: <p>Foto: Martin Starl, 2010, Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2010-158</p>*
+![Foto: Martin Starl, 2010, Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2010-158](../../images/cc2c8e4da40e543c9707324e07b40ba9_original.jpg)
+*2010 — Author: Martin Starl | Description: Foto: Martin Starl, 2010, Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2010-158*
 
 Here you will find different perspectives on the place.
 

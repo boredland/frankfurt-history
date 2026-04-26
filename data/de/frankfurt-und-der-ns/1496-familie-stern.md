@@ -14,8 +14,8 @@ filters:
 
 <p>Ein ehemaliges "Ghettohaus“</p>
 
-![<p>Selma und Elfriede Stern</p>](../../images/117ccbb2b058e8ae580f5d610c0b2812_original.jpg)
-*Author: unbekannt | Description: <p>Selma und Elfriede Stern</p>*
+![Selma und Elfriede Stern](../../images/117ccbb2b058e8ae580f5d610c0b2812_original.jpg)
+*Author: unbekannt | Description: Selma und Elfriede Stern*
 
 Selma und Seligmann Stern lebten hier in der Kantstraße 6 mit ihrer Tochter Elfriede (geb. 1914), die 1935 nach Palästina emigrieren konnte.
 
@@ -27,11 +27,11 @@ Seligmann Stern hatte im 1. Weltkrieg gekämpft und sich mit Malaria infiziert, 
 
 ## Gallery
 
-![<p>Selma und Elfriede Stern</p>](../../images/Selma Ster_4a597eef880b7115a7c616f7f0a9907a_original.jpg)
-*Author: unbekannt | Description: <p>Selma und Elfriede Stern</p>*
+![Selma und Elfriede Stern](../../images/Selma Ster_4a597eef880b7115a7c616f7f0a9907a_original.jpg)
+*Author: unbekannt | Description: Selma und Elfriede Stern*
 
-![<p>Seligmann Stern</p>](../../images/Seligmann__d81d9818ae31e6fd7c2fbfb2be211a7d_original.jpg)
-*Author: unbekannt | Description: <p>Seligmann Stern</p>*
+![Seligmann Stern](../../images/Seligmann__d81d9818ae31e6fd7c2fbfb2be211a7d_original.jpg)
+*Author: unbekannt | Description: Seligmann Stern*
 
 
 ## Links

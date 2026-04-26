@@ -14,8 +14,8 @@ filters:
 
 *Römerberg*
 
-![<p>frankfurthistory@stadt-frankfurt.de</p>](../../images/1e0b7c79a351939d86554bd72a5c51a4_original.jpg)
-*Author: <a href="mailto:info@frankfurt-und-der-ns.de" target="_blank">info@frankfurt-und-der-ns.de</a> | License: HMF | Description: <p>frankfurthistory@stadt-frankfurt.de</p>*
+![frankfurthistory@stadt-frankfurt.de](../../images/1e0b7c79a351939d86554bd72a5c51a4_original.jpg)
+*Author: info@frankfurt-und-der-ns.de | License: HMF | Description: frankfurthistory@stadt-frankfurt.de*
 
 Seit dem Mittelalter wurden in Frankfurt zwei große Messen im Jahr abgehalten – im Frühling und Herbst. Diese Messen boten nicht nur eine gute Gelegenheit Waren aus aller Welt zu kaufen und zu verkaufen. Sie waren auch Anlaufpunkt für alle Schaulustigen des Umlandes. Im Laufe der Jahre kamen Musiker*innen, Schausteller*innen und Artist*innen von immer weiter her, um ihre Künste vorzuführen.
  

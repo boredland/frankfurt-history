@@ -14,8 +14,8 @@ filters:
 
 *Hasengasse 5-7 (Kleinmarkthalle)*
 
-![<p>Foto der Vogelgesangsgasse mit Blick auf den Augsburger Hof</p>](../../images/e8b7cb9dbd224b45b76f701c0c348a8d_original.jpg)
-*1915 — Author: Carl Andreas Abt | License: HMF C23217 | Description: <p>Foto der Vogelgesangsgasse mit Blick auf den Augsburger Hof</p>*
+![Foto der Vogelgesangsgasse mit Blick auf den Augsburger Hof](../../images/e8b7cb9dbd224b45b76f701c0c348a8d_original.jpg)
+*1915 — Author: Carl Andreas Abt | License: HMF C23217 | Description: Foto der Vogelgesangsgasse mit Blick auf den Augsburger Hof*
 
 Die Fraktion „Augsburger Hof“ spaltete sich im September 1848 aufgrund von Differenzen in der Frage des Waffenstillstandes von Malmö aus dem „Württemberger Hof“ ab. Die neue Fraktion liberal-gemäßigter Abgeordneter traf sich fortan in der Weinschenke in der Nähe des Trierischen Plätzchens, südlich der Töngesgasse.
 
@@ -29,6 +29,6 @@ Inhaltlich übernahm der „Augsburger Hof“ weite Teile des Programms des „W
 
 ## Gallery
 
-![<p>Foto der Vogelgesangsgasse mit Blick auf den Augsburger Hof</p>](../../images/04 Augsbur_16cbb84bbb559e7794dc4d7150ff4c95_original.jpg)
-*1915 — Author: Carl Andreas Abt | License: HMF C23217 | Description: <p>Foto der Vogelgesangsgasse mit Blick auf den Augsburger Hof</p>*
+![Foto der Vogelgesangsgasse mit Blick auf den Augsburger Hof](../../images/04 Augsbur_16cbb84bbb559e7794dc4d7150ff4c95_original.jpg)
+*1915 — Author: Carl Andreas Abt | License: HMF C23217 | Description: Foto der Vogelgesangsgasse mit Blick auf den Augsburger Hof*
 

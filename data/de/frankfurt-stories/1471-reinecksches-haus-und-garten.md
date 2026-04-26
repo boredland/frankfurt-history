@@ -28,17 +28,17 @@ Das Anwesen kam 1822 in den Besitz der Stadt. Seit 1830 diente es als Stadtgeric
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Reineck‘sches Haus und Garten (Zustand von 1753), Hasengasse, 1864, Sepiazeichnung, HMF C09301</p>](../../images/C09301_png_b4f931d22716556bcda6e3a3422bbea6_original.jpg)
-*1864 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Reineck‘sches Haus und Garten (Zustand von 1753), Hasengasse, 1864, Sepiazeichnung, HMF C09301</p>*
+![Carl Theodor Reiffenstein, Reineck‘sches Haus und Garten (Zustand von 1753), Hasengasse, 1864, Sepiazeichnung, HMF C09301](../../images/C09301_png_b4f931d22716556bcda6e3a3422bbea6_original.jpg)
+*1864 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Reineck‘sches Haus und Garten (Zustand von 1753), Hasengasse, 1864, Sepiazeichnung, HMF C09301*
 
-![<p>Carl Theodor Reiffenstein, Aussicht von dem Reineck‘schen Haus nach Holzgraben und Hasengasse, 19. Jahrhundert, Aquarell, HMF C09393</p>](../../images/C09393_png_4853bbf67a3e9a3b045003bb1dd168b9_original.jpg)
-*19. Jhd. — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Aussicht von dem Reineck‘schen Haus nach Holzgraben und Hasengasse, 19. Jahrhundert, Aquarell, HMF C09393</p>*
+![Carl Theodor Reiffenstein, Aussicht von dem Reineck‘schen Haus nach Holzgraben und Hasengasse, 19. Jahrhundert, Aquarell, HMF C09393](../../images/C09393_png_4853bbf67a3e9a3b045003bb1dd168b9_original.jpg)
+*19. Jhd. — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Aussicht von dem Reineck‘schen Haus nach Holzgraben und Hasengasse, 19. Jahrhundert, Aquarell, HMF C09393*
 
-![<p>Carl Theodor Reiffenstein, Reineck‘sches Haus, Hasengasse Nr. 6, Gewölbe, 1850, Aquarell, HMF R0752</p>](../../images/R0752_png_210edea162863ed7de0f2ef2e0f85de0_original.jpg)
-*1850 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Reineck‘sches Haus, Hasengasse Nr. 6, Gewölbe, 1850, Aquarell, HMF R0752</p>*
+![Carl Theodor Reiffenstein, Reineck‘sches Haus, Hasengasse Nr. 6, Gewölbe, 1850, Aquarell, HMF R0752](../../images/R0752_png_210edea162863ed7de0f2ef2e0f85de0_original.jpg)
+*1850 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Reineck‘sches Haus, Hasengasse Nr. 6, Gewölbe, 1850, Aquarell, HMF R0752*
 
-![<p>Carl Theodor Reiffenstein, Reineck‘sches Haus, Hasengasse Nr. 6, Schlussstein, 1860, aquarellierte Bleistiftzeichnung, HMF R1007</p>](../../images/R1007_png_fe100f61c621c96afa3574affc9fe8ee_original.jpg)
-*1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Reineck‘sches Haus, Hasengasse Nr. 6, Schlussstein, 1860, aquarellierte Bleistiftzeichnung, HMF R1007</p>*
+![Carl Theodor Reiffenstein, Reineck‘sches Haus, Hasengasse Nr. 6, Schlussstein, 1860, aquarellierte Bleistiftzeichnung, HMF R1007](../../images/R1007_png_fe100f61c621c96afa3574affc9fe8ee_original.jpg)
+*1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Reineck‘sches Haus, Hasengasse Nr. 6, Schlussstein, 1860, aquarellierte Bleistiftzeichnung, HMF R1007*
 
 
 ## Links

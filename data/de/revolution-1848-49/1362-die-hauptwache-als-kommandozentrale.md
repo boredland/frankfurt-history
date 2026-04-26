@@ -14,8 +14,8 @@ filters:
 
 *An der Hauptwache*
 
-![<p>Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848, Lithografie (Zigarrenreklame), um 1903, ISG S7A 1998/8562</p>](../../images/e4df4b866f98f18ff6307c55ea11a782_original.jpg)
-*um 1903 — License: ISG | Description: <p>Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848, Lithografie (Zigarrenreklame), um 1903, ISG S7A 1998/8562</p>*
+![Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848, Lithografie (Zigarrenreklame), um 1903, ISG S7A 1998/8562](../../images/e4df4b866f98f18ff6307c55ea11a782_original.jpg)
+*um 1903 — License: ISG | Description: Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848, Lithografie (Zigarrenreklame), um 1903, ISG S7A 1998/8562*
 
 Die Hauptwache war der Sitz der Frankfurter Stadtwehr und wurde als Gefängnis für prominente Häftlinge genutzt. Als militärischer Stützpunkt im Zentrum der Stadt diente das barocke Gebäude im September 1848 den zur Niederschlagung des Aufstands eingesetzten Bundestruppen als Kommandozentrale.
 
@@ -27,6 +27,6 @@ Obwohl die Infanteristen den Aufständischen zahlenmäßig weit überlegen und w
 
 ## Gallery
 
-![<p>Lithografie (Zigarrenreklame): Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848</p>](../../images/Route 3, S_ba4d5483c41385e956f48c0576917e27_original.jpg)
-*um 1903 — Author: unbekannt | License: Institut für Stadtgeschichte, S7A 1998/8562 | Description: <p>Lithografie (Zigarrenreklame): Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848</p>*
+![Lithografie (Zigarrenreklame): Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848](../../images/Route 3, S_ba4d5483c41385e956f48c0576917e27_original.jpg)
+*um 1903 — Author: unbekannt | License: Institut für Stadtgeschichte, S7A 1998/8562 | Description: Lithografie (Zigarrenreklame): Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848*
 

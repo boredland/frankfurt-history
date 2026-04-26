@@ -14,8 +14,8 @@ filters:
 
 *Dreikönigsstraße 32*
 
-![<p>Foto der Dreikönigskirche</p>](../../images/0f3678a77f4701784ae54c2aa0ed34bd_original.jpg)
-*um 1890 — Author: Gottfried Vömel | License: Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 275 | Description: <p>Foto der Dreikönigskirche</p>*
+![Foto der Dreikönigskirche](../../images/0f3678a77f4701784ae54c2aa0ed34bd_original.jpg)
+*um 1890 — Author: Gottfried Vömel | License: Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 275 | Description: Foto der Dreikönigskirche*
 
 Im Spätsommer 1848 nutzten mehrere Versammlungen die Dreikönigskirche in Sachsenhausen, um politische Eingaben an die Nationalversammlung – u.a. zum Waffenstillstand von Malmö – zu beschließen. Nicht immer ging es dabei gesittet zu, manche Teilnehmer rauchten sogar in der Kirche.
 
@@ -23,6 +23,6 @@ Im Spätsommer 1848 nutzten mehrere Versammlungen die Dreikönigskirche in Sachs
 
 ## Gallery
 
-![<p>Foto der Dreikönigskirche</p>](../../images/13 Dreikö_81f171428b93422053d864f54d0984f7_original.jpg)
-*um 1890 — Author: Gottfried Vömel | License: Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 275 | Description: <p>Foto der Dreikönigskirche</p>*
+![Foto der Dreikönigskirche](../../images/13 Dreikö_81f171428b93422053d864f54d0984f7_original.jpg)
+*um 1890 — Author: Gottfried Vömel | License: Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 275 | Description: Foto der Dreikönigskirche*
 

@@ -14,8 +14,8 @@ filters:
 
 <p>A former "ghetto house"</p>
 
-![<p>Selma and Elfriede Stern</p>](../../images/117ccbb2b058e8ae580f5d610c0b2812_original.jpg)
-*Author: unbekannt | Description: <p>Selma and Elfriede Stern</p>*
+![Selma and Elfriede Stern](../../images/117ccbb2b058e8ae580f5d610c0b2812_original.jpg)
+*Author: unbekannt | Description: Selma and Elfriede Stern*
 
 Selma and Seligmann Stern lived here in Kantstraße 6 with their daughter Elfriede (born in 1914), who was able to emigrate to Palestine in 1935.
 
@@ -27,11 +27,11 @@ Seligmann Stern had fought in the First World War and became infected with malar
 
 ## Gallery
 
-![<p>Selma and Elfriede Stern</p>](../../images/Selma Ster_4a597eef880b7115a7c616f7f0a9907a_original.jpg)
-*Author: unbekannt | Description: <p>Selma and Elfriede Stern</p>*
+![Selma and Elfriede Stern](../../images/Selma Ster_4a597eef880b7115a7c616f7f0a9907a_original.jpg)
+*Author: unbekannt | Description: Selma and Elfriede Stern*
 
-![<p>Seligmann Stern</p>](../../images/Seligmann__d81d9818ae31e6fd7c2fbfb2be211a7d_original.jpg)
-*Author: unbekannt | Description: <p>Seligmann Stern</p>*
+![Seligmann Stern](../../images/Seligmann__d81d9818ae31e6fd7c2fbfb2be211a7d_original.jpg)
+*Author: unbekannt | Description: Seligmann Stern*
 
 
 ## Links

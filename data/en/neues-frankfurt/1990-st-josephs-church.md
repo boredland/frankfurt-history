@@ -31,6 +31,6 @@ Further reading: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. F
 
 ## Gallery
 
-![View of St Joseph’s church.<br />](../../images/St-Josephs_efb5da23ce53a4171be65742d39490da_original.jpg)
-*around 1932 — Author: Unbekannt | License: Privat | Description: View of St Joseph’s church.<br />*
+![View of St Joseph’s church.](../../images/St-Josephs_efb5da23ce53a4171be65742d39490da_original.jpg)
+*around 1932 — Author: Unbekannt | License: Privat | Description: View of St Joseph’s church.*
 

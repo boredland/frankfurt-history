@@ -18,6 +18,6 @@ Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![<span class="tab2">Anne Frank Haus im Marbachweg 307</span>](../../images/dffc67d5b7e4a886bdf755dca7ee6a5f_original.jpg)
-*Description: <span class="tab2">Anne Frank Haus im Marbachweg 307</span>*
+![Anne Frank Haus im Marbachweg 307](../../images/dffc67d5b7e4a886bdf755dca7ee6a5f_original.jpg)
+*Description: Anne Frank Haus im Marbachweg 307*
 

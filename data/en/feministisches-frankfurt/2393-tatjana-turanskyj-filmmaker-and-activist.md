@@ -14,8 +14,8 @@ filters:
 
 *Kinothek Asta Nielsen e.V.*
 
-![Tatjana Turanskyj at Remake. Frankfurt Women's Film Festival<br />Source: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection](../../images/58ce58e9d7af425fa894de89aeed6b1f_original.jpg)
-*2018 — Author: Swenja Bergold | License: Swenja Bergold | Description: Tatjana Turanskyj at Remake. Frankfurt Women's Film Festival<br />Source: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection*
+![Tatjana Turanskyj at Remake. Frankfurt Women's Film FestivalSource: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection](../../images/58ce58e9d7af425fa894de89aeed6b1f_original.jpg)
+*2018 — Author: Swenja Bergold | License: Swenja Bergold | Description: Tatjana Turanskyj at Remake. Frankfurt Women's Film FestivalSource: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection*
 
 Tatjana Turanskyj (1966–2021) studied sociology, theatre studies and literary studies in Frankfurt. In Berlin, she began making films as a self-taught filmmaker within the collective Hangover Ltd*, later continuing with her own production company, turanskyj&ahlrichs GbR. Her best-known films, EINE FLEXIBLE FRAU (2010) and TOP GIRL (2014), received international recognition.
 
@@ -25,8 +25,8 @@ In these works, she combined feminist discourses on labour, gender and justice w
 
 ## Gallery
 
-![Tatjana Turanskyj at Remake. Frankfurt Women's Film Festival<br />Source: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection](../../images/R2_2_jpg_d52a61f52c65be670a4b66aadf2ceb49_original.jpg)
-*2018 — Author: Swenja Bergold | License: Swenja Bergold | Description: Tatjana Turanskyj at Remake. Frankfurt Women's Film Festival<br />Source: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection*
+![Tatjana Turanskyj at Remake. Frankfurt Women's Film FestivalSource: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection](../../images/R2_2_jpg_d52a61f52c65be670a4b66aadf2ceb49_original.jpg)
+*2018 — Author: Swenja Bergold | License: Swenja Bergold | Description: Tatjana Turanskyj at Remake. Frankfurt Women's Film FestivalSource: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection*
 
 ![Portrait Tatjana Turanskyj, Source: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection](../../images/Paris 2009_4961fe41c088afafeff65ffcc4df6d4d_original.jpg)
 *2009 — Author: Anne Euler | License: Anne Euler | Description: Portrait Tatjana Turanskyj, Source: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection*
@@ -40,8 +40,8 @@ In these works, she combined feminist discourses on labour, gender and justice w
 
 ## Video
 
-  *Description: <p>Opening speech by Tatjana Turanskyj at “Remake. Frankfurt Women's Film Days” 2018 (excerpt)</p>*
-  *Description: <p>Excerpt from Tatjana Turanskyj's film GIRLS AND BOYS IN HISTORY I - EMANCIPATION from the short film series GIRLS AND BOYS IN HISTORY, 2000</p>*
+  *Description: Opening speech by Tatjana Turanskyj at “Remake. Frankfurt Women's Film Days” 2018 (excerpt)*
+  *Description: Excerpt from Tatjana Turanskyj's film GIRLS AND BOYS IN HISTORY I - EMANCIPATION from the short film series GIRLS AND BOYS IN HISTORY, 2000*
 
 ## Links
 

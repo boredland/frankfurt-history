@@ -14,8 +14,8 @@ filters:
 
 *Roßmarkt 10*
 
-![<p>Foto des Gebäudes der Casinogesellschaft am Roßmarkt</p>](../../images/bbfc76a84646c1ecfb879d436f0ce91e_original.jpg)
-*1884 — Author: Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-72 | Description: <p>Foto des Gebäudes der Casinogesellschaft am Roßmarkt</p>*
+![Foto des Gebäudes der Casinogesellschaft am Roßmarkt](../../images/bbfc76a84646c1ecfb879d436f0ce91e_original.jpg)
+*1884 — Author: Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-72 | Description: Foto des Gebäudes der Casinogesellschaft am Roßmarkt*
 
 Den größten Zuspruch fand mit zu Hochzeiten rund 200 Gleichgesinnten die „Casino“-Fraktion, die sich in den Räumlichkeiten der 1802 gegründeten Casinogesellschaft am Roßmarkt versammelte. Nach ihrer Gründung am 25. Juni 1848 hatten sich die Vertreter des rechtsliberalen Zentrums zunächst im „Großen Hirschgraben“ getroffen.
 
@@ -35,6 +35,6 @@ In der 1849 dominierenden Frage nach einer kleindeutschen oder großdeutschen L�
 
 ## Gallery
 
-![<p>Foto des Gebäudes der Casinogesellschaft am Roßmarkt</p>](../../images/07 Casino _11f845dcc5b398bc07f1037186f99daa_original.jpg)
-*1884 — Author: Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-72 | Description: <p>Foto des Gebäudes der Casinogesellschaft am Roßmarkt</p>*
+![Foto des Gebäudes der Casinogesellschaft am Roßmarkt](../../images/07 Casino _11f845dcc5b398bc07f1037186f99daa_original.jpg)
+*1884 — Author: Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-72 | Description: Foto des Gebäudes der Casinogesellschaft am Roßmarkt*
 

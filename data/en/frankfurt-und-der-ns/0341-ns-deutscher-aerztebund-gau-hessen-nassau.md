@@ -14,8 +14,8 @@ filters:
 
 *Gartenstraße 140*
 
-![<span class="tab2">Photo of the Rhine-Main Labour Office</span>](../../images/e42816f8095a5c5003d92f45d2ae7c76_original.jpg)
-*ca. 1933 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-130 | Description: <span class="tab2">Photo of the Rhine-Main Labour Office</span>*
+![Photo of the Rhine-Main Labour Office](../../images/e42816f8095a5c5003d92f45d2ae7c76_original.jpg)
+*ca. 1933 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-130 | Description: Photo of the Rhine-Main Labour Office*
 
 NS German Medical Association Gau Hessen-Nassau
 
@@ -23,6 +23,6 @@ The National Socialist German Medical Association Gau Hessen-Nassau also had its
 
 ## Gallery
 
-![<span class="tab2">Photo of the Rhine-Main Labour Office</span>](../../images/e42816f8095a5c5003d92f45d2ae7c76_original.jpg)
-*ca. 1933 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-130 | Description: <span class="tab2">Photo of the Rhine-Main Labour Office</span>*
+![Photo of the Rhine-Main Labour Office](../../images/e42816f8095a5c5003d92f45d2ae7c76_original.jpg)
+*ca. 1933 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-130 | Description: Photo of the Rhine-Main Labour Office*
 

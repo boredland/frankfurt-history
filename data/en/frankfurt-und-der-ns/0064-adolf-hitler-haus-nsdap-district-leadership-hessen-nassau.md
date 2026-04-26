@@ -15,8 +15,8 @@ filters:
 
 *Biebergasse 14*
 
-![<span class="tab2">Postcard of "Schiller-Denkmal Adolf-Hitler-Haus"</span>](../../images/f26b2fc8440b5985fd7cececadc04ed0_original.jpg)
-*after 1939 — Author: unbekannt | License: HMF, Sammlung Church | Description: <span class="tab2">Postcard of "Schiller-Denkmal Adolf-Hitler-Haus"</span>*
+![Postcard of "Schiller-Denkmal Adolf-Hitler-Haus"](../../images/f26b2fc8440b5985fd7cececadc04ed0_original.jpg)
+*after 1939 — Author: unbekannt | License: HMF, Sammlung Church | Description: Postcard of "Schiller-Denkmal Adolf-Hitler-Haus"*
 
 In 1940, the Nazi leadership of the Hesse-Nassau region moved into a new location at Horst-Wessel-Platz (now Rathenauplatz). The building, named “Adolf Hitler House”, was also the official residence of Jakob Sprenger, the regional leader of Hesse-Nassau. Until 1940, Sprenger and his staff had their headquarters in Gutleutstrasse.
 
@@ -24,6 +24,6 @@ In 1940, the Nazi leadership of the Hesse-Nassau region moved into a new locatio
 
 ## Gallery
 
-![<span class="tab2">Postcard of "Schiller-Denkmal Adolf-Hitler-Haus"</span>](../../images/f26b2fc8440b5985fd7cececadc04ed0_original.jpg)
-*after 1939 — Author: unbekannt | License: HMF, Sammlung Church | Description: <span class="tab2">Postcard of "Schiller-Denkmal Adolf-Hitler-Haus"</span>*
+![Postcard of "Schiller-Denkmal Adolf-Hitler-Haus"](../../images/f26b2fc8440b5985fd7cececadc04ed0_original.jpg)
+*after 1939 — Author: unbekannt | License: HMF, Sammlung Church | Description: Postcard of "Schiller-Denkmal Adolf-Hitler-Haus"*
 

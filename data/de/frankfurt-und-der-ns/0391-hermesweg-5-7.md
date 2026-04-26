@@ -10,13 +10,13 @@ filters:
 
 # Hermesweg 5-7
 
-![<p>Grundriss der ehema­ligen Israeli­ti­schen Reli­gi­ons­schule und Syn­agoge im Her­mes­weg, welche als Ghettohaus sowie als Sitz der Bezirks­stelle Hes­sen/Hes­sen-Nas­sau der Reichsver­einigung der Juden in Deutsch­land eingesetzt wurde</p>](../../images/28fc45c70689e0b1180147843d68a335_original.jpg)
-*1941 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-9 Nr. 400 | Description: <p>Grundriss der ehema­ligen Israeli­ti­schen Reli­gi­ons­schule und Syn­agoge im Her­mes­weg, welche als Ghettohaus sowie als Sitz der Bezirks­stelle Hes­sen/Hes­sen-Nas­sau der Reichsver­einigung der Juden in Deutsch­land eingesetzt wurde</p>*
+![Grundriss der ehema­ligen Israeli­ti­schen Reli­gi­ons­schule und Syn­agoge im Her­mes­weg, welche als Ghettohaus sowie als Sitz der Bezirks­stelle Hes­sen/Hes­sen-Nas­sau der Reichsver­einigung der Juden in Deutsch­land eingesetzt wurde](../../images/28fc45c70689e0b1180147843d68a335_original.jpg)
+*1941 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-9 Nr. 400 | Description: Grundriss der ehema­ligen Israeli­ti­schen Reli­gi­ons­schule und Syn­agoge im Her­mes­weg, welche als Ghettohaus sowie als Sitz der Bezirks­stelle Hes­sen/Hes­sen-Nas­sau der Reichsver­einigung der Juden in Deutsch­land eingesetzt wurde*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![<p>Grundriss der ehema­ligen Israeli­ti­schen Reli­gi­ons­schule und Syn­agoge im Her­mes­weg, welche als Ghettohaus sowie als Sitz der Bezirks­stelle Hes­sen/Hes­sen-Nas­sau der Reichsver­einigung der Juden in Deutsch­land eingesetzt wurde</p>](../../images/28fc45c70689e0b1180147843d68a335_original.jpg)
-*1941 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-9 Nr. 400 | Description: <p>Grundriss der ehema­ligen Israeli­ti­schen Reli­gi­ons­schule und Syn­agoge im Her­mes­weg, welche als Ghettohaus sowie als Sitz der Bezirks­stelle Hes­sen/Hes­sen-Nas­sau der Reichsver­einigung der Juden in Deutsch­land eingesetzt wurde</p>*
+![Grundriss der ehema­ligen Israeli­ti­schen Reli­gi­ons­schule und Syn­agoge im Her­mes­weg, welche als Ghettohaus sowie als Sitz der Bezirks­stelle Hes­sen/Hes­sen-Nas­sau der Reichsver­einigung der Juden in Deutsch­land eingesetzt wurde](../../images/28fc45c70689e0b1180147843d68a335_original.jpg)
+*1941 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-9 Nr. 400 | Description: Grundriss der ehema­ligen Israeli­ti­schen Reli­gi­ons­schule und Syn­agoge im Her­mes­weg, welche als Ghettohaus sowie als Sitz der Bezirks­stelle Hes­sen/Hes­sen-Nas­sau der Reichsver­einigung der Juden in Deutsch­land eingesetzt wurde*
 

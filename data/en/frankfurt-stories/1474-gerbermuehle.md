@@ -30,18 +30,18 @@ The mill building was renovated in 1904. In the post-war years, it was rebuilt i
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, view of the tanner's mill, 19th century, aquarelle, HMF C29583</p>](../../images/C29583_png_cb9b4fc7353a3e5f611d8c3ec6ae4a7f_original.jpg)
-*19th century — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, view of the tanner's mill, 19th century, aquarelle, HMF C29583</p>*
+![Carl Theodor Reiffenstein, view of the tanner's mill, 19th century, aquarelle, HMF C29583](../../images/C29583_png_cb9b4fc7353a3e5f611d8c3ec6ae4a7f_original.jpg)
+*19th century — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view of the tanner's mill, 19th century, aquarelle, HMF C29583*
 
-![<p>Carl Theodor Reiffenstein, tanner's mill, 1864, aquarelle, HMF C19644</p>](../../images/C19644_png_91f3201fdef2caf1113addbbcc8fc341_original.jpg)
-*1864 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, tanner's mill, 1864, aquarelle, HMF C19644</p>*
+![Carl Theodor Reiffenstein, tanner's mill, 1864, aquarelle, HMF C19644](../../images/C19644_png_91f3201fdef2caf1113addbbcc8fc341_original.jpg)
+*1864 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, tanner's mill, 1864, aquarelle, HMF C19644*
 
-![<p>Carl Theodor Reiffenstein, view across the Main to the tanner's mill, in the evening, 1862, aquarelle, HMF C09323</p>](../../images/C09323_png_43e6cd0cafbce1cc9afebbe3488eaaac_original.jpg)
-*1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, view across the Main to the tanner's mill, in the evening, 1862, aquarelle, HMF C09323</p>*
+![Carl Theodor Reiffenstein, view across the Main to the tanner's mill, in the evening, 1862, aquarelle, HMF C09323](../../images/C09323_png_43e6cd0cafbce1cc9afebbe3488eaaac_original.jpg)
+*1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view across the Main to the tanner's mill, in the evening, 1862, aquarelle, HMF C09323*
 
-![<p>Carl Theodor Reiffenstein, Heiligenstock at the tanner's mill, inscription, 1863, watercolored pencil drawing, HMF RS0085</p>](../../images/RS0085_png_3b1079f38f914066b1551af0eb920d05_original.jpg)
-*1863 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Heiligenstock at the tanner's mill, inscription, 1863, watercolored pencil drawing, HMF RS0085</p>*
+![Carl Theodor Reiffenstein, Heiligenstock at the tanner's mill, inscription, 1863, watercolored pencil drawing, HMF RS0085](../../images/RS0085_png_3b1079f38f914066b1551af0eb920d05_original.jpg)
+*1863 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Heiligenstock at the tanner's mill, inscription, 1863, watercolored pencil drawing, HMF RS0085*
 
-![<p>Carl Theodor Reiffenstein, Heiligenstock at the tanner's mill, 1854, watercolored pencil drawing, HMF RS0084</p>](../../images/RS0084_png_23b980465dff78ded8f53395ece110f2_original.jpg)
-*1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Heiligenstock at the tanner's mill, 1854, watercolored pencil drawing, HMF RS0084</p>*
+![Carl Theodor Reiffenstein, Heiligenstock at the tanner's mill, 1854, watercolored pencil drawing, HMF RS0084](../../images/RS0084_png_23b980465dff78ded8f53395ece110f2_original.jpg)
+*1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Heiligenstock at the tanner's mill, 1854, watercolored pencil drawing, HMF RS0084*
 

@@ -14,13 +14,13 @@ filters:
 
 *Mainzer Landstraße 281-291*
 
-![<p>Zwangsarbeitslager</p>](../../images/17f628a9418dab489d24630a4ec665af_original.jpg)
-*ca. 1941 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-4160 | Description: <p>Zwangsarbeitslager</p>*
+![Zwangsarbeitslager](../../images/17f628a9418dab489d24630a4ec665af_original.jpg)
+*ca. 1941 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-4160 | Description: Zwangsarbeitslager*
 
 In der Mainzer Landstraße 281-291 betrieben die Schuhfabriken J. & C. A. Schneider ein Lager für Zivilarbeiter.
 
 ## Gallery
 
-![<p>Zwangsarbeitslager</p>](../../images/17f628a9418dab489d24630a4ec665af_original.jpg)
-*ca. 1941 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-4160 | Description: <p>Zwangsarbeitslager</p>*
+![Zwangsarbeitslager](../../images/17f628a9418dab489d24630a4ec665af_original.jpg)
+*ca. 1941 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-4160 | Description: Zwangsarbeitslager*
 

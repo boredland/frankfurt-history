@@ -40,8 +40,8 @@ In 1975/76, she created the film Das hat mich sehr verändert – Das Frankfurte
 ![Photographic negatives and contact prints of the women's demonstration on 25 October 1975 in Frankfurt. Source: Kinothek Asta Nielsen Archive, Edith Marcello Collection, reference number EM/FF6](../../images/EM_FF_006__3a75493559f913ff42cedfb4370e9a7f_original.jpg)
 *25.10.1975 — Author: Edith Marcello | License: Edith Marcello | Description: Photographic negatives and contact prints of the women's demonstration on 25 October 1975 in Frankfurt. Source: Kinothek Asta Nielsen Archive, Edith Marcello Collection, reference number EM/FF6*
 
-!["Film still PIERBURG: YOUR STRUGGLE IS OUR STRUGGLE (1974/75).;<br />Source: Kinothek Asta Nielsen Archive, Edith Marcello Collection"](../../images/Still Pier_22d94f54b3e7a30f756568effbdb765e_original.jpg)
-*1974 — Author: Edith Marcello, David Wittenberg | License: Edith Marcello, David Wittenberg | Description: "Film still PIERBURG: YOUR STRUGGLE IS OUR STRUGGLE (1974/75).;<br />Source: Kinothek Asta Nielsen Archive, Edith Marcello Collection"*
+!["Film still PIERBURG: YOUR STRUGGLE IS OUR STRUGGLE (1974/75).;Source: Kinothek Asta Nielsen Archive, Edith Marcello Collection"](../../images/Still Pier_22d94f54b3e7a30f756568effbdb765e_original.jpg)
+*1974 — Author: Edith Marcello, David Wittenberg | License: Edith Marcello, David Wittenberg | Description: "Film still PIERBURG: YOUR STRUGGLE IS OUR STRUGGLE (1974/75).;Source: Kinothek Asta Nielsen Archive, Edith Marcello Collection"*
 
 ![Film still PIERBURG: YOUR STRUGGLE IS OUR STRUGGLE (1974/75). Source: Kinothek Asta Nielsen Archive, Edith Marcello Collection](../../images/Still Pier_bd726a1fafebab6f811ddcb9faaac0e8_original.jpg)
 *1974 — Author: Edith Marcello, David Wittenberg | License: Edith Marcello, David Wittenberg | Description: Film still PIERBURG: YOUR STRUGGLE IS OUR STRUGGLE (1974/75). Source: Kinothek Asta Nielsen Archive, Edith Marcello Collection*
@@ -58,7 +58,7 @@ In 1975/76, she created the film Das hat mich sehr verändert – Das Frankfurte
 
 ## Video
 
-  *Description: <p>THAT CHANGED ME A LOT—THE FRANKFURT WOMEN'S ROOM (excerpt)</p>*
+  *Description: THAT CHANGED ME A LOT—THE FRANKFURT WOMEN'S ROOM (excerpt)*
 
 ## Links
 

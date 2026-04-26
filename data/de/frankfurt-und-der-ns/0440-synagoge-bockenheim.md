@@ -15,8 +15,8 @@ filters:
 
 *Schloßstraße*
 
-![<p><span class="tab2">Schloßstraße</span></p>](../../images/55bfacfbd8ed5fd919360f87019dbb8c_original.jpg)
-*vor 1911 — Author: Hermann Bückling | License: HMF, C20438a | Description: <p><span class="tab2">Schloßstraße</span></p>*
+![Schloßstraße](../../images/55bfacfbd8ed5fd919360f87019dbb8c_original.jpg)
+*vor 1911 — Author: Hermann Bückling | License: HMF, C20438a | Description: Schloßstraße*
 
 Die Bockenheimer Synagoge in der Schloßstraße 3-5 wurde um 1873/74 an der Stelle einer älteren Synagoge erbaut. Über 65 Jahre war sie ein zentraler Ort jüdischen Lebens in Bockenheim. Es gab 150 Sitzplätze für Männer und 110 für Frauen. Das Gemeindeblatt der Israelitischen Gemeinde Frankfurt am Main berichtete im September 1938, dass die Synagoge geschlossen werden musste, da viele Gemeindemitglieder ausgewandert waren und dadurch Einnahmen fehlten. 
  
@@ -30,6 +30,6 @@ Die Bockenheimer Synagoge in der Schloßstraße 3-5 wurde um 1873/74 an der Stel
 
 ## Gallery
 
-![<p><span class="tab2">Schloßstraße</span></p>](../../images/55bfacfbd8ed5fd919360f87019dbb8c_original.jpg)
-*vor 1911 — Author: Hermann Bückling | License: HMF, C20438a | Description: <p><span class="tab2">Schloßstraße</span></p>*
+![Schloßstraße](../../images/55bfacfbd8ed5fd919360f87019dbb8c_original.jpg)
+*vor 1911 — Author: Hermann Bückling | License: HMF, C20438a | Description: Schloßstraße*
 

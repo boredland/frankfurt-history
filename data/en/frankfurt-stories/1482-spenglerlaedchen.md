@@ -28,8 +28,8 @@ In 1856, he admitted the little workshop “ was not an architectural art work�
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Spenglerlädchen, Hasengasse 4, 1856, watercolored pencil drawing, HMF R0794</p>](../../images/R0794_png_d1eb2b64078bf3996b348b44137966b8_original.jpg)
-*1856 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Spenglerlädchen, Hasengasse 4, 1856, watercolored pencil drawing, HMF R0794</p>*
+![Carl Theodor Reiffenstein, Spenglerlädchen, Hasengasse 4, 1856, watercolored pencil drawing, HMF R0794](../../images/R0794_png_d1eb2b64078bf3996b348b44137966b8_original.jpg)
+*1856 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Spenglerlädchen, Hasengasse 4, 1856, watercolored pencil drawing, HMF R0794*
 
 
 ## Links

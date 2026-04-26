@@ -14,8 +14,8 @@ filters:
 
 *Video Schultheater-Studio*
 
-![<p>Postkarte "Was geht mich der 8. Mai an?"</p>](../../images/9702006de4bcfee2df06f9881010687b_original.jpg)
-*Description: <p>Postkarte "Was geht mich der 8. Mai an?"</p>*
+![Postkarte "Was geht mich der 8. Mai an?"](../../images/9702006de4bcfee2df06f9881010687b_original.jpg)
+*Description: Postkarte "Was geht mich der 8. Mai an?"*
 
 Klapperfeld
 
@@ -23,8 +23,8 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
-![<p>Foto des Polizeigefängnis Klapperfeld</p>](../../images/567a737a5685d4e4d8aaa0619ebc123f_original.jpg)
-*nach 1945 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 7260 | Description: <p>Foto des Polizeigefängnis Klapperfeld</p>*
+![Foto des Polizeigefängnis Klapperfeld](../../images/567a737a5685d4e4d8aaa0619ebc123f_original.jpg)
+*nach 1945 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 7260 | Description: Foto des Polizeigefängnis Klapperfeld*
 
 
 ## Video

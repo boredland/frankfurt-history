@@ -28,14 +28,14 @@ Das Haus besaß ein prächtiges Hauptzimmer mit einer Holzvertäfelung und Stuck
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Haus Fürsteneck (rekonstruierter Zustand vor dem Umbau), 1854, aquarellierte Bleistiftzeichnung, HMF R0330</p>](../../images/R0330_png_16cd4b2b08ba45010cca892e7dd786d6_original.jpg)
-*1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Haus Fürsteneck (rekonstruierter Zustand vor dem Umbau), 1854, aquarellierte Bleistiftzeichnung, HMF R0330</p>*
+![Carl Theodor Reiffenstein, Haus Fürsteneck (rekonstruierter Zustand vor dem Umbau), 1854, aquarellierte Bleistiftzeichnung, HMF R0330](../../images/R0330_png_16cd4b2b08ba45010cca892e7dd786d6_original.jpg)
+*1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Haus Fürsteneck (rekonstruierter Zustand vor dem Umbau), 1854, aquarellierte Bleistiftzeichnung, HMF R0330*
 
-![<p>Carl Theodor Reiffenstein, Haus Fürsteneck (nach dem Umbau), 1845, Aquarell, HMF C16227</p>](../../images/C16227_png_71ad223044d34079bf462d73e480c9d9_original.jpg)
-*1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Haus Fürsteneck (nach dem Umbau), 1845, Aquarell, HMF C16227</p>*
+![Carl Theodor Reiffenstein, Haus Fürsteneck (nach dem Umbau), 1845, Aquarell, HMF C16227](../../images/C16227_png_71ad223044d34079bf462d73e480c9d9_original.jpg)
+*1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Haus Fürsteneck (nach dem Umbau), 1845, Aquarell, HMF C16227*
 
-![<p>Carl Theodor Reiffenstein, Haus Fürsteneck, Großer Saal im 1. Stock, 1858, aquarellierte Bleistiftzeichnung, HMF R0332</p>](../../images/R0332_png_486327d8eb28d09f34d4caadd6fa951b_original.jpg)
-*1858 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Haus Fürsteneck, Großer Saal im 1. Stock, 1858, aquarellierte Bleistiftzeichnung, HMF R0332</p>*
+![Carl Theodor Reiffenstein, Haus Fürsteneck, Großer Saal im 1. Stock, 1858, aquarellierte Bleistiftzeichnung, HMF R0332](../../images/R0332_png_486327d8eb28d09f34d4caadd6fa951b_original.jpg)
+*1858 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Haus Fürsteneck, Großer Saal im 1. Stock, 1858, aquarellierte Bleistiftzeichnung, HMF R0332*
 
 
 ## Links

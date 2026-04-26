@@ -28,11 +28,11 @@ In 1874, the couple demanded 50,000 guilders for their booth - a demand the city
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, weighing house, front, 1837, pencil drawing, HMF R0369</p>](../../images/R0369_png_afc95832ca4c90a15992b5c5aeeb8378_original.jpg)
-*1837 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, weighing house, front, 1837, pencil drawing, HMF R0369</p>*
+![Carl Theodor Reiffenstein, weighing house, front, 1837, pencil drawing, HMF R0369](../../images/R0369_png_afc95832ca4c90a15992b5c5aeeb8378_original.jpg)
+*1837 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, weighing house, front, 1837, pencil drawing, HMF R0369*
 
-![<p>Carl Theodor Reiffenstein, weighing house, front, 1837/1870, watercolored pencil drawing, HMF R0370</p>](../../images/R0370_png_e61a59af19fab6a4667a860be50927f1_original.jpg)
-*1837/1870 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, weighing house, front, 1837/1870, watercolored pencil drawing, HMF R0370</p>*
+![Carl Theodor Reiffenstein, weighing house, front, 1837/1870, watercolored pencil drawing, HMF R0370](../../images/R0370_png_e61a59af19fab6a4667a860be50927f1_original.jpg)
+*1837/1870 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, weighing house, front, 1837/1870, watercolored pencil drawing, HMF R0370*
 
 
 ## Links

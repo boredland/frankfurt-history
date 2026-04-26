@@ -16,8 +16,8 @@ filters:
 
 Reiffensteins Frankfurt<br />(1820-1893)
 
-![<p>Bild: Carl Theodor Reiffenstein, Kühhornshof mit Wassergraben und Brücke, 1855, aquarellierte Bleistiftzeichnung, HMF RS0122</p>](../../images/ea43dc0081ecd61147ab438e4876f792_original.png)
-*Description: <p>Bild: Carl Theodor Reiffenstein, Kühhornshof mit Wassergraben und Brücke, 1855, aquarellierte Bleistiftzeichnung, HMF RS0122</p>*
+![Bild: Carl Theodor Reiffenstein, Kühhornshof mit Wassergraben und Brücke, 1855, aquarellierte Bleistiftzeichnung, HMF RS0122](../../images/ea43dc0081ecd61147ab438e4876f792_original.png)
+*Description: Bild: Carl Theodor Reiffenstein, Kühhornshof mit Wassergraben und Brücke, 1855, aquarellierte Bleistiftzeichnung, HMF RS0122*
 
 In the early 14th century, the Kühhornshof fortified manor already existed to the north of the town. From the Middle Ages, numerous fortified manors had been built outside Frankfurt’s city walls. Surrounded by walls and a moat, the manors and outbuildings could only be reached by a drawbridge. In the 16th century, the Kühhornshof estate passed to Bernhard Kuhorn, who gave his name to the manor. As early as 1868, Reiffenstein noted the demolition of the house and outbuildings. During Frankfurt’s expansion in 1911, the estate became building land for developers.
 

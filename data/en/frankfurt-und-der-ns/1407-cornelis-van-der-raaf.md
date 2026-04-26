@@ -24,8 +24,8 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
-![<p>Stolperstein for Cornelis van der Raaf</p>](../../images/Cornelis v_0670cebcd1162fee7f6d961e693c4bfd_original.jpg)
-*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein for Cornelis van der Raaf</p>*
+![Stolperstein for Cornelis van der Raaf](../../images/Cornelis v_0670cebcd1162fee7f6d961e693c4bfd_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Cornelis van der Raaf*
 
 
 ## Links

@@ -14,13 +14,13 @@ filters:
 
 *Kornmarkt 19*
 
-![<p>Zwangsarbeitslager</p>](../../images/92723b667447ad5a2dacc779697c8177_original.jpg)
-*ca. 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-4551 | Description: <p>Zwangsarbeitslager</p>*
+![Zwangsarbeitslager](../../images/92723b667447ad5a2dacc779697c8177_original.jpg)
+*ca. 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-4551 | Description: Zwangsarbeitslager*
 
 In der Brauerei Gaststätte Schneider, Kleiner Kornmarkt 19, bestand ein Lager für Zivilarbeiter.
 
 ## Gallery
 
-![<p>Zwangsarbeitslager</p>](../../images/92723b667447ad5a2dacc779697c8177_original.jpg)
-*ca. 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-4551 | Description: <p>Zwangsarbeitslager</p>*
+![Zwangsarbeitslager](../../images/92723b667447ad5a2dacc779697c8177_original.jpg)
+*ca. 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-4551 | Description: Zwangsarbeitslager*
 

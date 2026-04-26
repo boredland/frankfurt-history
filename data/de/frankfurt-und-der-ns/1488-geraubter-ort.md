@@ -22,20 +22,20 @@ Die Liegenschaft Günthersburgallee 79 hatte ursprünglich Adolf Guckenheimer un
 
 ## Gallery
 
-![<p>Günthersburgallee 79</p>](../../images/Guenthersb_eb7c743216c8055e2d647dfd2514a383_original.jpg)
-*2023 — License: Hermann Tertilt | Description: <p>Günthersburgallee 79</p>*
+![Günthersburgallee 79](../../images/Guenthersb_eb7c743216c8055e2d647dfd2514a383_original.jpg)
+*2023 — License: Hermann Tertilt | Description: Günthersburgallee 79*
 
-![<p>Adolf Guckenheimer, * 4.2.1877 in Groß-Gerau, ✡ 25.11.1941 in Kaunas/Litauen, ehemaliger Eigentümer der Liegenschaft</p>](../../images/Adolf-Guck_6bee1210b0cbe9de6823d2790a1c4bb3_original.jpg)
-*Januar 1939 — License: Privatbesitz Familie Veit, Chicago/USA | Description: <p>Adolf Guckenheimer, * 4.2.1877 in Groß-Gerau, ✡ 25.11.1941 in Kaunas/Litauen, ehemaliger Eigentümer der Liegenschaft</p>*
+![Adolf Guckenheimer, * 4.2.1877 in Groß-Gerau, ✡ 25.11.1941 in Kaunas/Litauen, ehemaliger Eigentümer der Liegenschaft](../../images/Adolf-Guck_6bee1210b0cbe9de6823d2790a1c4bb3_original.jpg)
+*Januar 1939 — License: Privatbesitz Familie Veit, Chicago/USA | Description: Adolf Guckenheimer, * 4.2.1877 in Groß-Gerau, ✡ 25.11.1941 in Kaunas/Litauen, ehemaliger Eigentümer der Liegenschaft*
 
-![<p>Settchen Guckenheimer, geb. Hochstädter, * 24.10.1880 in Lampertheim, ✡ 25.11.1941 in Kaunas/Litauen, ehemalige Eigentümerin der Liegenschaft</p>](../../images/Settchen-G_a30508719e8761d29ab17e72c80f2a15_original.jpg)
-*Januar 1939 — License: Privatbesitz Familie Veit, Chicago/USA | Description: <p>Settchen Guckenheimer, geb. Hochstädter, * 24.10.1880 in Lampertheim, ✡ 25.11.1941 in Kaunas/Litauen, ehemalige Eigentümerin der Liegenschaft</p>*
+![Settchen Guckenheimer, geb. Hochstädter, * 24.10.1880 in Lampertheim, ✡ 25.11.1941 in Kaunas/Litauen, ehemalige Eigentümerin der Liegenschaft](../../images/Settchen-G_a30508719e8761d29ab17e72c80f2a15_original.jpg)
+*Januar 1939 — License: Privatbesitz Familie Veit, Chicago/USA | Description: Settchen Guckenheimer, geb. Hochstädter, * 24.10.1880 in Lampertheim, ✡ 25.11.1941 in Kaunas/Litauen, ehemalige Eigentümerin der Liegenschaft*
 
-![<p>Lieselotte Koch, * 20.10.1923 in Mainz, ✡ 20.10.1015 in Fort Myers/USA, Enkelin der Eigentümer, wurde 1939 mit einem Kindertransport aus Frankfurt nach England gerettet.</p>](../../images/Lieselotte_970d75db56083dba1b8e1078c876783e_original.jpg)
-*Januar 1939 — License: Privatbesitz Familie Veit, Chicago/USA | Description: <p>Lieselotte Koch, * 20.10.1923 in Mainz, ✡ 20.10.1015 in Fort Myers/USA, Enkelin der Eigentümer, wurde 1939 mit einem Kindertransport aus Frankfurt nach England gerettet.</p>*
+![Lieselotte Koch, * 20.10.1923 in Mainz, ✡ 20.10.1015 in Fort Myers/USA, Enkelin der Eigentümer, wurde 1939 mit einem Kindertransport aus Frankfurt nach England gerettet.](../../images/Lieselotte_970d75db56083dba1b8e1078c876783e_original.jpg)
+*Januar 1939 — License: Privatbesitz Familie Veit, Chicago/USA | Description: Lieselotte Koch, * 20.10.1923 in Mainz, ✡ 20.10.1015 in Fort Myers/USA, Enkelin der Eigentümer, wurde 1939 mit einem Kindertransport aus Frankfurt nach England gerettet.*
 
-![<p>Ruth Koch, * 15.5.1925 in Alzey, lebt heute in Chicago, Enkelin der Eigentümer, wurde 1939 mit einem Kindertransport aus Frankfurt nach England gerettet.</p>](../../images/Ruth-Koch__5ae4f7ef203e365b904f722f9b74f384_original.jpg)
-*Januar 1939 — License: Privatbesitz Familie Veit, Chicago/USA | Description: <p>Ruth Koch, * 15.5.1925 in Alzey, lebt heute in Chicago, Enkelin der Eigentümer, wurde 1939 mit einem Kindertransport aus Frankfurt nach England gerettet.</p>*
+![Ruth Koch, * 15.5.1925 in Alzey, lebt heute in Chicago, Enkelin der Eigentümer, wurde 1939 mit einem Kindertransport aus Frankfurt nach England gerettet.](../../images/Ruth-Koch__5ae4f7ef203e365b904f722f9b74f384_original.jpg)
+*Januar 1939 — License: Privatbesitz Familie Veit, Chicago/USA | Description: Ruth Koch, * 15.5.1925 in Alzey, lebt heute in Chicago, Enkelin der Eigentümer, wurde 1939 mit einem Kindertransport aus Frankfurt nach England gerettet.*
 
 
 ## Links

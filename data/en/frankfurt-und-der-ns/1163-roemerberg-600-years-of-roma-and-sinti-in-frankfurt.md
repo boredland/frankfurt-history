@@ -15,7 +15,7 @@ filters:
 *Römerberg*
 
 ![frankfurthistory@stadt-frankfurt.de](../../images/1e0b7c79a351939d86554bd72a5c51a4_original.jpg)
-*Author: <a href="mailto:info@frankfurt-und-der-ns.de" target="_blank">info@frankfurt-und-der-ns.de</a> | License: HMF | Description: frankfurthistory@stadt-frankfurt.de*
+*Author: info@frankfurt-und-der-ns.de | License: HMF | Description: frankfurthistory@stadt-frankfurt.de*
 
 ## Gallery
 

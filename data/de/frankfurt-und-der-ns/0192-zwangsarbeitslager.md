@@ -14,8 +14,8 @@ filters:
 
 *Daimlerstraße 25*
 
-![<p>frankfurthistory@stadt-frankfurt.de</p>](../../images/1e0b7c79a351939d86554bd72a5c51a4_original.jpg)
-*License: HMF | Description: <p>frankfurthistory@stadt-frankfurt.de</p>*
+![frankfurthistory@stadt-frankfurt.de](../../images/1e0b7c79a351939d86554bd72a5c51a4_original.jpg)
+*License: HMF | Description: frankfurthistory@stadt-frankfurt.de*
 
 Die Chemiewerk Homburg AG betrieb in der Daimlerstraße 25 ein Lager für Zivilarbeiter.
 

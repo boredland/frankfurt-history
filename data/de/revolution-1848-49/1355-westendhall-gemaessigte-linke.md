@@ -14,8 +14,8 @@ filters:
 
 *Gallusanlage/Neckarstraße*
 
-![<p>Lithografie mit dem Hotel Westendhall</p>](../../images/28752f92c19c4e93112285f490ee8aaa_original.jpg)
-*um 1848 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-76 | Description: <p>Lithografie mit dem Hotel Westendhall</p>*
+![Lithografie mit dem Hotel Westendhall](../../images/28752f92c19c4e93112285f490ee8aaa_original.jpg)
+*um 1848 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-76 | Description: Lithografie mit dem Hotel Westendhall*
 
 An der Taunusanlage befand sich 1848 zwischen dem Taunusbahnhof und dem Main-Weser-Bahnhof das Hotel Westendhall. Hier traf sich seit August 1848 die aus Abspaltungen aus dem „Württemberger Hof“ und dem „Deutschen Hof“ gegründete Fraktion „Westendhall“. Wegen ihrer gemäßigt linken Positionen an der Grenze zwischen demokratischer Linke und linkem Zentrum erhielten sie den Beinamen „Linke im Frack“.
 
@@ -31,6 +31,6 @@ Das Hotel Westendhall wurde wie die ehemaligen drei Westbahnhöfe in den 1880er 
 
 ## Gallery
 
-![<p>Lithografie mit dem Hotel Westendhall<br /><span class="tab2"><br /></span></p>](../../images/13 Westend_b264ab0feb9d7d495427facc33c6c837_original.jpg)
-*um 1848 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-76 | Description: <p>Lithografie mit dem Hotel Westendhall<br /><span class="tab2"><br /></span></p>*
+![Lithografie mit dem Hotel Westendhall](../../images/13 Westend_b264ab0feb9d7d495427facc33c6c837_original.jpg)
+*um 1848 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-76 | Description: Lithografie mit dem Hotel Westendhall*
 

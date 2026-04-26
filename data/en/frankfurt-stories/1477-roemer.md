@@ -16,8 +16,8 @@ filters:
 
 Reiffensteins Frankfurt<br />(1820-1893)
 
-![<p>Carl Theodor Reiffenstein, Römer, door with iron grille on the Kaisertreppe (today the staircase to the wedding hall), 1865, watercolored pencil drawing, HMF R0542</p>](../../images/733383c0929831120355fea2e990437e_original.jpg)
-*1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Römer, door with iron grille on the Kaisertreppe (today the staircase to the wedding hall), 1865, watercolored pencil drawing, HMF R0542</p>*
+![Carl Theodor Reiffenstein, Römer, door with iron grille on the Kaisertreppe (today the staircase to the wedding hall), 1865, watercolored pencil drawing, HMF R0542](../../images/733383c0929831120355fea2e990437e_original.jpg)
+*1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Römer, door with iron grille on the Kaisertreppe (today the staircase to the wedding hall), 1865, watercolored pencil drawing, HMF R0542*
 
 The Römer has been Frankfurt’s city hall since the 15th century. The Haus zum Römer, the middle house of the Römer complex, dates from before 1322. It was acquired by the city of Frankfurt as the city hall together with, down the centuries, ten other residential buildings.
 
@@ -29,20 +29,20 @@ After the Second World War, only the stone façades and ground floors of the med
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Römer, door with iron grille on the Kaisertreppe (today the staircase to the wedding hall), 1865, watercolored pencil drawing, HMF R0542</p>](../../images/R0542_png_c797a12ecbbed0c7d00cf41b0c769952_original.jpg)
-*1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Römer, door with iron grille on the Kaisertreppe (today the staircase to the wedding hall), 1865, watercolored pencil drawing, HMF R0542</p>*
+![Carl Theodor Reiffenstein, Römer, door with iron grille on the Kaisertreppe (today the staircase to the wedding hall), 1865, watercolored pencil drawing, HMF R0542](../../images/R0542_png_c797a12ecbbed0c7d00cf41b0c769952_original.jpg)
+*1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Römer, door with iron grille on the Kaisertreppe (today the staircase to the wedding hall), 1865, watercolored pencil drawing, HMF R0542*
 
-![<p>Carl Theodor Reiffenstein, Römer, former Kaisertreppe, 1865/1869, watercolored pencil drawing, HMF R0548</p>](../../images/R0548_png_5bc087adaf6055d0432d28f05c5ca660_original.jpg)
-*1865/1869 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Römer, former Kaisertreppe, 1865/1869, watercolored pencil drawing, HMF R0548</p>*
+![Carl Theodor Reiffenstein, Römer, former Kaisertreppe, 1865/1869, watercolored pencil drawing, HMF R0548](../../images/R0548_png_5bc087adaf6055d0432d28f05c5ca660_original.jpg)
+*1865/1869 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Römer, former Kaisertreppe, 1865/1869, watercolored pencil drawing, HMF R0548*
 
-![<p>Carl Theodor Reiffenstein, Römerhallen, 1872, watercolored pencil drawing, HMF R0540</p>](../../images/R0540_png_062cb3e571705258fb35c00b4c5e8bdc_original.jpg)
-*1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Römerhallen, 1872, watercolored pencil drawing, HMF R0540</p>*
+![Carl Theodor Reiffenstein, Römerhallen, 1872, watercolored pencil drawing, HMF R0540](../../images/R0540_png_062cb3e571705258fb35c00b4c5e8bdc_original.jpg)
+*1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Römerhallen, 1872, watercolored pencil drawing, HMF R0540*
 
-![<p>Carl Theodor Reiffenstein, Römer, hall with rotunda, 1851, watercolored pencil drawing, HMF R0537</p>](../../images/R0537_png_5239f110231308db5cd2cd753ebf3cfe_original.jpg)
-*1851 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Römer, hall with rotunda, 1851, watercolored pencil drawing, HMF R0537</p>*
+![Carl Theodor Reiffenstein, Römer, hall with rotunda, 1851, watercolored pencil drawing, HMF R0537](../../images/R0537_png_5239f110231308db5cd2cd753ebf3cfe_original.jpg)
+*1851 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Römer, hall with rotunda, 1851, watercolored pencil drawing, HMF R0537*
 
-![<p>Carl Theodor Reiffenstein, Römer, backhouses to Paulsplatz, 1851, watercolored pencil drawing, HMF R0546</p>](../../images/R0546_png_7b6805644a63bf329c454aa825490c0c_original.jpg)
-*1851 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Römer, backhouses to Paulsplatz, 1851, watercolored pencil drawing, HMF R0546</p>*
+![Carl Theodor Reiffenstein, Römer, backhouses to Paulsplatz, 1851, watercolored pencil drawing, HMF R0546](../../images/R0546_png_7b6805644a63bf329c454aa825490c0c_original.jpg)
+*1851 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Römer, backhouses to Paulsplatz, 1851, watercolored pencil drawing, HMF R0546*
 
 
 ## Links

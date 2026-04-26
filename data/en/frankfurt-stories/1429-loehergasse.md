@@ -16,8 +16,8 @@ filters:
 
 Reiffensteins Frankfurt<br />(1820-1893)
 
-![<p>Carl Theodor Reiffenstein, Blick in die Löhergasse, 1874, aquarellierte Bleistiftzeichnung, HMF RS0053</p>](../../images/db84642888ca1212c4d998cfdbfa91e0_original.png)
-*Description: <p>Carl Theodor Reiffenstein, Blick in die Löhergasse, 1874, aquarellierte Bleistiftzeichnung, HMF RS0053</p>*
+![Carl Theodor Reiffenstein, Blick in die Löhergasse, 1874, aquarellierte Bleistiftzeichnung, HMF RS0053](../../images/db84642888ca1212c4d998cfdbfa91e0_original.png)
+*Description: Carl Theodor Reiffenstein, Blick in die Löhergasse, 1874, aquarellierte Bleistiftzeichnung, HMF RS0053*
 
 Löhergasse is a narrow lane south of the River Main. From the Middle Ages, since tanners needed a regular supply of water for their work, this became home to tanneries turning cow hides into leather. In 1635, during the Thirty Years War, Swedish General Hans Vitzthum von Eckstädt occupied Sachsenhausen. When he was driven out, part of the lane was destroyed; later, the characteristic artisan houses were rebuilt.
 

@@ -14,8 +14,8 @@ filters:
 
 *Habsburgerallee 15*
 
-![<p>Porträt von Rosa Hägele</p>](../../images/f15b1dc37d6168d40e2520aa278da930_original.jpg)
-*Description: <p>Porträt von Rosa Hägele</p>*
+![Porträt von Rosa Hägele](../../images/f15b1dc37d6168d40e2520aa278da930_original.jpg)
+*Description: Porträt von Rosa Hägele*
 
 Jehovas Zeugen gehörten viele Jahre zu den „vergessenen Opfern“ und fanden kaum Erwähnung. Wir möchten die Frankfurter Opfer aus der Vergessenheit holen. Seit 1997 wird an die Frankfurter Zeugen Jehovas erinnert, die unter dem NS-Regime wegen ihrer christlichen Überzeugung gelitten haben. Durch ehrenamtliche Tätigkeit wird in den Archiven und Gedenkstätten das Erlebte der Opfer aufgearbeitet.
 
@@ -25,14 +25,14 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
-![<p>Porträt von Rosa Hägele</p>](../../images/Rosa Haege_1923344739a9446a1930ecde7e0f89ea_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Porträt von Rosa Hägele</p>*
+![Porträt von Rosa Hägele](../../images/Rosa Haege_1923344739a9446a1930ecde7e0f89ea_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Porträt von Rosa Hägele*
 
-![<p>Rosa Hägele mit ihren Eltern im Garten</p>](../../images/Hägele_R_eaa2ba85faa7fcd3b2ed551b011e784e_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Rosa Hägele mit ihren Eltern im Garten</p>*
+![Rosa Hägele mit ihren Eltern im Garten](../../images/Hägele_R_eaa2ba85faa7fcd3b2ed551b011e784e_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Rosa Hägele mit ihren Eltern im Garten*
 
-![<p>Beurlaubung aus dem KZ vom 05.01.1944 (Schreibfehler, richtig: 1945)</p>](../../images/Hägele_R_975b398e6620896ac7aef95c33f5b75f_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Beurlaubung aus dem KZ vom 05.01.1944 (Schreibfehler, richtig: 1945)</p>*
+![Beurlaubung aus dem KZ vom 05.01.1944 (Schreibfehler, richtig: 1945)](../../images/Hägele_R_975b398e6620896ac7aef95c33f5b75f_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Beurlaubung aus dem KZ vom 05.01.1944 (Schreibfehler, richtig: 1945)*
 
 
 ## Links

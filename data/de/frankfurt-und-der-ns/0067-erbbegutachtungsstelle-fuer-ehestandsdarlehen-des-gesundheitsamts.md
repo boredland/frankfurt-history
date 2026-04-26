@@ -15,8 +15,8 @@ filters:
 
 *Römerberg 27*
 
-![<p>Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570</p>](../../images/9d222e2d06c483b6fddcff7750d59b16_original.jpg)
-*ca. 1930 — Author: Staatliche Bildstelle Berlin | Description: <p>Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570</p>*
+![Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570](../../images/9d222e2d06c483b6fddcff7750d59b16_original.jpg)
+*ca. 1930 — Author: Staatliche Bildstelle Berlin | Description: Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570*
 
 Hier, im Haus „Zum Salzeck“ (heute: Römerberg), hatte die „Erbbegutachtungsstelle für Ehestandsdarlehen“ des Gesundheitsamtes ihren Sitz. Im August 1935 wurden „Erbbegutachtung“ und Eheberatung institutionell miteinander verbunden, indem die Eheberatungsstelle in die Abteilung für „Erbbegutachtung“ eingegliedert wurde. Ab 1935 war die Eheberatung für Paare verpflichtend. Wer heiraten wollte, musste nun dem Standesamt ein „Ehetauglichkeitszeugnis“ der Beratungsstelle vorlegen. Grundlage hierfür waren die Nürnberger Rassegesetze und das „Gesetz zum Schutz der Erbgesundheit des deutschen Volkes“, die beide im Herbst 1935 erlassen wurden. Eine Ehe mit Jüdinnen und Juden, Sinti und Roma oder Schwarzen einzugehen, war für die Mehrheit der Deutschen verboten. Junge Ehepaare erhielten ein "Ehestandsdarlehen zur Förderung von Eheschließungen", um den eigenen Hausstand begründen zu können. Außerdem sollte dadurch der Arbeitsmarkt entlastet und die Geburtenrate unterstützt werden.
 
@@ -26,6 +26,6 @@ Hier, im Haus „Zum Salzeck“ (heute: Römerberg), hatte die „Erbbegutachtun
 
 ## Gallery
 
-![<p>Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570</p>](../../images/9d222e2d06c483b6fddcff7750d59b16_original.jpg)
-*ca. 1930 — Author: Staatliche Bildstelle Berlin | Description: <p>Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570</p>*
+![Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570](../../images/9d222e2d06c483b6fddcff7750d59b16_original.jpg)
+*ca. 1930 — Author: Staatliche Bildstelle Berlin | Description: Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570*
 

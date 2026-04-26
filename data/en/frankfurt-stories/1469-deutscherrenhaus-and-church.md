@@ -30,20 +30,20 @@ The building was damaged in the war and reconstruction work started in 1963. Tod
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, view over the Old Bridge to the Deutschordenshaus and church, 1852, watercolored pencil drawing, HMF RS0026</p>](../../images/RS0026_png_2b035f5c6e51f3d7c61d039b42b88769_original.jpg)
-*1852 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, view over the Old Bridge to the Deutschordenshaus and church, 1852, watercolored pencil drawing, HMF RS0026</p>*
+![Carl Theodor Reiffenstein, view over the Old Bridge to the Deutschordenshaus and church, 1852, watercolored pencil drawing, HMF RS0026](../../images/RS0026_png_2b035f5c6e51f3d7c61d039b42b88769_original.jpg)
+*1852 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view over the Old Bridge to the Deutschordenshaus and church, 1852, watercolored pencil drawing, HMF RS0026*
 
-![<p>Carl Theodor Reiffenstein, Deutschordenskirche, choir and sacristy seen from the courtyard, 1877, watercolored pencil drawing, HMF RS0205</p>](../../images/RS0205_png_224b8de036a9aede12bdeb917bbac596_original.jpg)
-*1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Deutschordenskirche, choir and sacristy seen from the courtyard, 1877, watercolored pencil drawing, HMF RS0205</p>*
+![Carl Theodor Reiffenstein, Deutschordenskirche, choir and sacristy seen from the courtyard, 1877, watercolored pencil drawing, HMF RS0205](../../images/RS0205_png_224b8de036a9aede12bdeb917bbac596_original.jpg)
+*1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Deutschordenskirche, choir and sacristy seen from the courtyard, 1877, watercolored pencil drawing, HMF RS0205*
 
-![<p>Carl Theodor Reiffenstein, Sachsenhausen, town wall, behind it Frankensteinerhof and Deutschordenshaus, 1836/1888(?), watercolored pencil drawing, HMF R1673</p>](../../images/R1673_png_54375ec1c933b699ba298df074455952_original.jpg)
-*1836/1888 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Sachsenhausen, town wall, behind it Frankensteinerhof and Deutschordenshaus, 1836/1888(?), watercolored pencil drawing, HMF R1673</p>*
+![Carl Theodor Reiffenstein, Sachsenhausen, town wall, behind it Frankensteinerhof and Deutschordenshaus, 1836/1888(?), watercolored pencil drawing, HMF R1673](../../images/R1673_png_54375ec1c933b699ba298df074455952_original.jpg)
+*1836/1888 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Sachsenhausen, town wall, behind it Frankensteinerhof and Deutschordenshaus, 1836/1888(?), watercolored pencil drawing, HMF R1673*
 
-![<p>Carl Theodor Reiffenstein, Deutschordenshaus, half-timbered buildings in the courtyard, 1838/1865, watercolored pencil drawing, HMF RS0029</p>](../../images/RS0029_png_610a8595413d7166cfe200da9a7f3778_original.jpg)
-*1838/1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Deutschordenshaus, half-timbered buildings in the courtyard, 1838/1865, watercolored pencil drawing, HMF RS0029</p>*
+![Carl Theodor Reiffenstein, Deutschordenshaus, half-timbered buildings in the courtyard, 1838/1865, watercolored pencil drawing, HMF RS0029](../../images/RS0029_png_610a8595413d7166cfe200da9a7f3778_original.jpg)
+*1838/1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Deutschordenshaus, half-timbered buildings in the courtyard, 1838/1865, watercolored pencil drawing, HMF RS0029*
 
-![<p>Carl Theodor Reiffenstein, view of the Deutschordenshaus, seen from the Old Bridge, 1860, pencil drawing, HMF RS0021</p>](../../images/RS0021_png_d2eb3f124fde26a61293f1c0d9dfdbf6_original.jpg)
-*1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, view of the Deutschordenshaus, seen from the Old Bridge, 1860, pencil drawing, HMF RS0021</p>*
+![Carl Theodor Reiffenstein, view of the Deutschordenshaus, seen from the Old Bridge, 1860, pencil drawing, HMF RS0021](../../images/RS0021_png_d2eb3f124fde26a61293f1c0d9dfdbf6_original.jpg)
+*1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view of the Deutschordenshaus, seen from the Old Bridge, 1860, pencil drawing, HMF RS0021*
 
 
 ## Links

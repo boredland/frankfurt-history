@@ -25,8 +25,8 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
-![<span class="tab2">Stolperstein for Katharina Schmid</span>](../../images/Katharina _84d4b18c0d3768039f0da55a844435cb_original.jpg)
-*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <span class="tab2">Stolperstein for Katharina Schmid</span>*
+![Stolperstein for Katharina Schmid](../../images/Katharina _84d4b18c0d3768039f0da55a844435cb_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Katharina Schmid*
 
 
 ## Links

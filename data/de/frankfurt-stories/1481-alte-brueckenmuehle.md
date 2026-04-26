@@ -28,14 +28,14 @@ Die alte Brückenmühle wurde schließlich 1852 abgerissen. Auf der letzten verb
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Der Müllermain in Sachsenhausen gegen die Alte Brücke gesehen, 1837/1866, aquarellierte Bleistiftzeichnung, HMF RS0005</p>](../../images/RS0005_png_92829776a3efc30665eff5f9632cbe45_original.jpg)
-*1837/1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Der Müllermain in Sachsenhausen gegen die Alte Brücke gesehen, 1837/1866, aquarellierte Bleistiftzeichnung, HMF RS0005</p>*
+![Carl Theodor Reiffenstein, Der Müllermain in Sachsenhausen gegen die Alte Brücke gesehen, 1837/1866, aquarellierte Bleistiftzeichnung, HMF RS0005](../../images/RS0005_png_92829776a3efc30665eff5f9632cbe45_original.jpg)
+*1837/1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Der Müllermain in Sachsenhausen gegen die Alte Brücke gesehen, 1837/1866, aquarellierte Bleistiftzeichnung, HMF RS0005*
 
-![<p>Carl Theodor Reiffenstein, Blick auf das Deutschordenshaus, von der Alten Brücke gesehen, 1860, Bleistiftzeichnung, HMF RS0021</p>](../../images/RS0021_png_d2eb3f124fde26a61293f1c0d9dfdbf6_original.jpg)
-*1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Blick auf das Deutschordenshaus, von der Alten Brücke gesehen, 1860, Bleistiftzeichnung, HMF RS0021</p>*
+![Carl Theodor Reiffenstein, Blick auf das Deutschordenshaus, von der Alten Brücke gesehen, 1860, Bleistiftzeichnung, HMF RS0021](../../images/RS0021_png_d2eb3f124fde26a61293f1c0d9dfdbf6_original.jpg)
+*1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Blick auf das Deutschordenshaus, von der Alten Brücke gesehen, 1860, Bleistiftzeichnung, HMF RS0021*
 
-![<p>Carl Theodor Reiffenstein, Alte Brücke, Brückenmühle, Tor im Unterbau mit Blick mainaufwärts, 1852/1865, aquarellierte Bleistiftzeichnung, HMF RS0010</p>](../../images/RS0010_png_61886c8012f63704a4f2262fa724c5f7_original.jpg)
-*1852/1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Alte Brücke, Brückenmühle, Tor im Unterbau mit Blick mainaufwärts, 1852/1865, aquarellierte Bleistiftzeichnung, HMF RS0010</p>*
+![Carl Theodor Reiffenstein, Alte Brücke, Brückenmühle, Tor im Unterbau mit Blick mainaufwärts, 1852/1865, aquarellierte Bleistiftzeichnung, HMF RS0010](../../images/RS0010_png_61886c8012f63704a4f2262fa724c5f7_original.jpg)
+*1852/1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Alte Brücke, Brückenmühle, Tor im Unterbau mit Blick mainaufwärts, 1852/1865, aquarellierte Bleistiftzeichnung, HMF RS0010*
 
 
 ## Links

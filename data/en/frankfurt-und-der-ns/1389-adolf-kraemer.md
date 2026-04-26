@@ -14,8 +14,8 @@ filters:
 
 *Mainzer Landstraße 606*
 
-![<p>Portrait of Adolf Krämer; M-001763</p>](../../images/002b1a3ad4eba8b12d86f670d9e7bebd_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Portrait of Adolf Krämer; M-001763</p>*
+![Portrait of Adolf Krämer; M-001763](../../images/002b1a3ad4eba8b12d86f670d9e7bebd_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Portrait of Adolf Krämer; M-001763*
 
 For many years, Jehovah's Witnesses belonged to the "forgotten victims" and were hardly mentioned. We would like to bring the Frankfurt victims out of oblivion. Since 1997, the Frankfurt Jehovah's Witnesses who suffered under the Nazi regime because of their Christian convictions, have been remembered. Through volunteer work, archives and memorials are researching the experiences of the victims.
 
@@ -25,17 +25,17 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
-![<p>Portrait of Adolf Krämer; M-001763</p>](../../images/Krämer_A_96e70f67236f66bcbae88e444253dfd9_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Portrait of Adolf Krämer; M-001763</p>*
+![Portrait of Adolf Krämer; M-001763](../../images/Krämer_A_96e70f67236f66bcbae88e444253dfd9_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Portrait of Adolf Krämer; M-001763*
 
-![<p>Mission trip with the "water car", a truck from the company "Luna-Quelle"; S-0161186</p>](../../images/Krämer_A_ea501ac4f36f78f2a8ee4578b75cdd8a_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Mission trip with the "water car", a truck from the company "Luna-Quelle"; S-0161186</p>*
+![Mission trip with the "water car", a truck from the company "Luna-Quelle"; S-0161186](../../images/Krämer_A_ea501ac4f36f78f2a8ee4578b75cdd8a_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Mission trip with the "water car", a truck from the company "Luna-Quelle"; S-0161186*
 
-![<p>Special pass for persecuted persons (red) for Adolf Krämer, issued on 06.08.1946</p>](../../images/Krämer_A_e3a44dd40532af92e7345d0585448efc_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Special pass for persecuted persons (red) for Adolf Krämer, issued on 06.08.1946</p>*
+![Special pass for persecuted persons (red) for Adolf Krämer, issued on 06.08.1946](../../images/Krämer_A_e3a44dd40532af92e7345d0585448efc_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Special pass for persecuted persons (red) for Adolf Krämer, issued on 06.08.1946*
 
-![<p>Stolperstein for Adolf Krämer</p>](../../images/Adolf Krä_ca2b45c1fe8f90c7c8db0099ff2e1ff4_original.jpg)
-*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein for Adolf Krämer</p>*
+![Stolperstein for Adolf Krämer](../../images/Adolf Krä_ca2b45c1fe8f90c7c8db0099ff2e1ff4_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Adolf Krämer*
 
 
 ## Links

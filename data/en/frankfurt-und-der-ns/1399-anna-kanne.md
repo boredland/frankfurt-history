@@ -24,8 +24,8 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
-![<p>Stolperstein for Anna Kanne</p>](../../images/Anna Kanne_00181cd7d760c6621c18c258b3331bc6_original.jpg)
-*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein for Anna Kanne</p>*
+![Stolperstein for Anna Kanne](../../images/Anna Kanne_00181cd7d760c6621c18c258b3331bc6_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Anna Kanne*
 
 
 ## Links

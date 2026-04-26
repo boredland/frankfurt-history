@@ -16,8 +16,8 @@ filters:
 
 Reiffensteins Frankfurt<br />(1820-1893)
 
-![<p>Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76, inner courtyard, 1866, watercolored pencil drawing, HMF R0830</p>](../../images/6acba3e6f1e76f1b80feacdee1635f4f_original.jpg)
-*1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76, inner courtyard, 1866, watercolored pencil drawing, HMF R0830</p>*
+![Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76, inner courtyard, 1866, watercolored pencil drawing, HMF R0830](../../images/6acba3e6f1e76f1b80feacdee1635f4f_original.jpg)
+*1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76, inner courtyard, 1866, watercolored pencil drawing, HMF R0830*
 
 In 1768, physician Johann Christian Senckenberg (1707-1772) set up his eponymous charitable foundation. The site not only consisted of the Bürgerhospital to treat the citizens of Frankfurt, but also an Institute of Anatomy, a botanical garden and a library.
 
@@ -29,17 +29,17 @@ In 1907, the Bürgerhospital moved into a new build on Nibelungenallee. Parts of
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76, inner courtyard, 1866, watercolored pencil drawing, HMF R0830</p>](../../images/R0830_png_002536a73b21776cbbec605f7c87b1d3_original.jpg)
-*1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76, inner courtyard, 1866, watercolored pencil drawing, HMF R0830</p>*
+![Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76, inner courtyard, 1866, watercolored pencil drawing, HMF R0830](../../images/R0830_png_002536a73b21776cbbec605f7c87b1d3_original.jpg)
+*1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76, inner courtyard, 1866, watercolored pencil drawing, HMF R0830*
 
-![<p>Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76, entrance area, 1866, watercolored pencil drawing, HMF R0828</p>](../../images/R0828_png_7b167843ad12040a8d99223b72f6b5e6_original.jpg)
-*1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76, entrance area, 1866, watercolored pencil drawing, HMF R0828</p>*
+![Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76, entrance area, 1866, watercolored pencil drawing, HMF R0828](../../images/R0828_png_7b167843ad12040a8d99223b72f6b5e6_original.jpg)
+*1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76, entrance area, 1866, watercolored pencil drawing, HMF R0828*
 
-![<p>Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76 (seen from house no. 45), 1857, watercolored pencil drawing, HMF R0829</p>](../../images/R0829_png_94fedadc6cb162118383a71084e6a553_original.jpg)
-*1857 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76 (seen from house no. 45), 1857, watercolored pencil drawing, HMF R0829</p>*
+![Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76 (seen from house no. 45), 1857, watercolored pencil drawing, HMF R0829](../../images/R0829_png_94fedadc6cb162118383a71084e6a553_original.jpg)
+*1857 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76 (seen from house no. 45), 1857, watercolored pencil drawing, HMF R0829*
 
-![<p>Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße No. 76, iron grille, 1866, watercolored pencil drawing, HMF R0833</p>](../../images/R0833_png_ec7c6909b8a6bc4b6b21da172548ab48_original.jpg)
-*1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße No. 76, iron grille, 1866, watercolored pencil drawing, HMF R0833</p>*
+![Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße No. 76, iron grille, 1866, watercolored pencil drawing, HMF R0833](../../images/R0833_png_ec7c6909b8a6bc4b6b21da172548ab48_original.jpg)
+*1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße No. 76, iron grille, 1866, watercolored pencil drawing, HMF R0833*
 
 
 ## Links

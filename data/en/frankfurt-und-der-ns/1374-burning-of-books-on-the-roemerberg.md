@@ -12,8 +12,8 @@ filters:
 
 *Römerberg*
 
-![<p>Heinz Woelcke, Bücherverbrennung auf dem Römerberg, Öl auf Leinwand, 1933, HMF B1614</p>](../../images/40902e504ad28571de622ed4fa8f1ed3_original.jpg)
-*1933 — Author: Heinz Woelcke | Description: <p>Heinz Woelcke, Bücherverbrennung auf dem Römerberg, Öl auf Leinwand, 1933, HMF B1614</p>*
+![Heinz Woelcke, Bücherverbrennung auf dem Römerberg, Öl auf Leinwand, 1933, HMF B1614](../../images/40902e504ad28571de622ed4fa8f1ed3_original.jpg)
+*1933 — Author: Heinz Woelcke | Description: Heinz Woelcke, Bücherverbrennung auf dem Römerberg, Öl auf Leinwand, 1933, HMF B1614*
 
 Here you will find different perspectives about the place.
 

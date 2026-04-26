@@ -12,13 +12,13 @@ filters:
 
 *Kleyerstraße 17*
 
-![<p>Das Hauptgebäude der Adlerwerke in der Kleyerstraße.</p>](../../images/a9cdd04332e322bdca2b1677078b7653_original.jpg)
-*1934 — Author: Wolff & Tritschler | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 2531 | Description: <p>Das Hauptgebäude der Adlerwerke in der Kleyerstraße.</p>*
+![Das Hauptgebäude der Adlerwerke in der Kleyerstraße.](../../images/a9cdd04332e322bdca2b1677078b7653_original.jpg)
+*1934 — Author: Wolff & Tritschler | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 2531 | Description: Das Hauptgebäude der Adlerwerke in der Kleyerstraße.*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![<p>Das Hauptgebäude der Adlerwerke in der Kleyerstraße.</p>](../../images/a9cdd04332e322bdca2b1677078b7653_original.jpg)
-*1934 — Author: Wolff & Tritschler | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 2531 | Description: <p>Das Hauptgebäude der Adlerwerke in der Kleyerstraße.</p>*
+![Das Hauptgebäude der Adlerwerke in der Kleyerstraße.](../../images/a9cdd04332e322bdca2b1677078b7653_original.jpg)
+*1934 — Author: Wolff & Tritschler | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 2531 | Description: Das Hauptgebäude der Adlerwerke in der Kleyerstraße.*
 

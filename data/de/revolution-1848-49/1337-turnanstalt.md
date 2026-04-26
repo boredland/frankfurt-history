@@ -14,8 +14,8 @@ filters:
 
 *Zeil/Friedberger Anlage*
 
-![<p>Stahlstich mit einer Vogelperspektive auf die Turnanstalt</p>](../../images/246abaeae818a1d265579bd61acd338e_original.jpg)
-*1864 — Author: Friedrich Wilhelm Delkeskamp | License: Institut für Stadtgeschichte, Frankfurt Best. S8-9 Nr. 411 | Description: <p>Stahlstich mit einer Vogelperspektive auf die Turnanstalt</p>*
+![Stahlstich mit einer Vogelperspektive auf die Turnanstalt](../../images/246abaeae818a1d265579bd61acd338e_original.jpg)
+*1864 — Author: Friedrich Wilhelm Delkeskamp | License: Institut für Stadtgeschichte, Frankfurt Best. S8-9 Nr. 411 | Description: Stahlstich mit einer Vogelperspektive auf die Turnanstalt*
 
 Turn- und Gesangsvereine dienten im Vormärz nicht nur der sportlichen bzw. musikalischen Ertüchtigung, sondern auch dem politischen Austausch. Denn zwischen 1815 und 1848 sahen sich politische Vereine weitreichenden Verbotswellen ausgesetzt.
 
@@ -27,6 +27,6 @@ Im Zuge der Märzreformen und der verkündeten Versammlungsfreiheit gründete si
 
 ## Gallery
 
-![<p>Stahlstich mit einer Vogelperspektive auf die Turnanstalt</p>](../../images/10 Turnans_5a3bd26ea7e5f69949a595b81ef1073e_original.jpg)
-*1864 — Author: Friedrich Wilhelm Delkeskamp | License: Institut für Stadtgeschichte, Frankfurt Best. S8-9 Nr. 411 | Description: <p>Stahlstich mit einer Vogelperspektive auf die Turnanstalt</p>*
+![Stahlstich mit einer Vogelperspektive auf die Turnanstalt](../../images/10 Turnans_5a3bd26ea7e5f69949a595b81ef1073e_original.jpg)
+*1864 — Author: Friedrich Wilhelm Delkeskamp | License: Institut für Stadtgeschichte, Frankfurt Best. S8-9 Nr. 411 | Description: Stahlstich mit einer Vogelperspektive auf die Turnanstalt*
 

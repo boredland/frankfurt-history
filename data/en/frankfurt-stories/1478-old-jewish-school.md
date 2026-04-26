@@ -28,14 +28,14 @@ In 1571, the old Jewish School was converted into a weighing house for copper. I
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Jewish school, exterior view, 1870, watercolored pencil drawing, HMF R0392</p>](../../images/R0392_png_d810372de3ebc67e1a4be555019a49f3_original.jpg)
-*1870 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Jewish school, exterior view, 1870, watercolored pencil drawing, HMF R0392</p>*
+![Carl Theodor Reiffenstein, Jewish school, exterior view, 1870, watercolored pencil drawing, HMF R0392](../../images/R0392_png_d810372de3ebc67e1a4be555019a49f3_original.jpg)
+*1870 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Jewish school, exterior view, 1870, watercolored pencil drawing, HMF R0392*
 
-![<p>Carl Theodor Reiffenstein, Jewish school, eagle, on the side above the main entrance, 1870, watercolored pencil drawing, HMF R0391</p>](../../images/R0391_png_c4f0ef268083ebb358fef6eba49fe2b7_original.jpg)
-*1870 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Jewish school, eagle, on the side above the main entrance, 1870, watercolored pencil drawing, HMF R0391</p>*
+![Carl Theodor Reiffenstein, Jewish school, eagle, on the side above the main entrance, 1870, watercolored pencil drawing, HMF R0391](../../images/R0391_png_c4f0ef268083ebb358fef6eba49fe2b7_original.jpg)
+*1870 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Jewish school, eagle, on the side above the main entrance, 1870, watercolored pencil drawing, HMF R0391*
 
-![<p>Carl Theodor Reiffenstein, weighing house with the Jewish school (after the demolition of the mortuary building), 1873/1875, watercolored pencil drawing, HMF R0374</p>](../../images/R0374_png_37370a54f2249a35ad624ba6b01ae91e_original.jpg)
-*1873/1875 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, weighing house with the Jewish school (after the demolition of the mortuary building), 1873/1875, watercolored pencil drawing, HMF R0374</p>*
+![Carl Theodor Reiffenstein, weighing house with the Jewish school (after the demolition of the mortuary building), 1873/1875, watercolored pencil drawing, HMF R0374](../../images/R0374_png_37370a54f2249a35ad624ba6b01ae91e_original.jpg)
+*1873/1875 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, weighing house with the Jewish school (after the demolition of the mortuary building), 1873/1875, watercolored pencil drawing, HMF R0374*
 
 
 ## Links

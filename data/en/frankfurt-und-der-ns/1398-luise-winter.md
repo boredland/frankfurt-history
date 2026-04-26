@@ -24,11 +24,11 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
-![<p>Stolperstein for Luise Winter</p>](../../images/Luise Wint_48efa695e112263cf8327e253f25bb8a_original.jpg)
-*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein for Luise Winter</p>*
+![Stolperstein for Luise Winter](../../images/Luise Wint_48efa695e112263cf8327e253f25bb8a_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Luise Winter*
 
-![<p>Luise Winter after the liberation at a congress of Jehovah's Witnesses; Winter_Luise_001</p>](../../images/Winter_Lui_463d6bab15c741ce6723b27da177d277_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Luise Winter after the liberation at a congress of Jehovah's Witnesses; Winter_Luise_001</p>*
+![Luise Winter after the liberation at a congress of Jehovah's Witnesses; Winter_Luise_001](../../images/Winter_Lui_463d6bab15c741ce6723b27da177d277_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Luise Winter after the liberation at a congress of Jehovah's Witnesses; Winter_Luise_001*
 
 
 ## Links

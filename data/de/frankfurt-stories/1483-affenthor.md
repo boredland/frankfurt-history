@@ -28,14 +28,14 @@ Noch heute stehen sich die beiden Affentorhäuser gegenüber. Erst im Laufe des 
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Das Affentor von außen (Zustand von 1807), nach einem Stich, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0034</p>](../../images/RS0034_png_07a05647755930007f54fa0d40ff68cd_original.jpg)
-*19. Jhd. — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Das Affentor von außen (Zustand von 1807), nach einem Stich, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0034</p>*
+![Carl Theodor Reiffenstein, Das Affentor von außen (Zustand von 1807), nach einem Stich, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0034](../../images/RS0034_png_07a05647755930007f54fa0d40ff68cd_original.jpg)
+*19. Jhd. — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Das Affentor von außen (Zustand von 1807), nach einem Stich, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0034*
 
-![<p>Carl Theodor Reiffenstein, Affentor (während des Abbruchs von 1810), nach einer alten Zeichnung, 1854, aquarellierte Bleistiftzeichnung, HMF RS0036</p>](../../images/RS0036_png_6653144be2f37283ad984cc1ce891721_original.jpg)
-*1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Affentor (während des Abbruchs von 1810), nach einer alten Zeichnung, 1854, aquarellierte Bleistiftzeichnung, HMF RS0036</p>*
+![Carl Theodor Reiffenstein, Affentor (während des Abbruchs von 1810), nach einer alten Zeichnung, 1854, aquarellierte Bleistiftzeichnung, HMF RS0036](../../images/RS0036_png_6653144be2f37283ad984cc1ce891721_original.jpg)
+*1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Affentor (während des Abbruchs von 1810), nach einer alten Zeichnung, 1854, aquarellierte Bleistiftzeichnung, HMF RS0036*
 
-![<p>Carl Theodor Reiffenstein, Affentor (während des Abbruchs von 1810), nach einer Zeichnung von Friedrich Philipp Usener, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0035</p>](../../images/RS0035_png_4172500b17d63ed806e91fd1500e9c0b_original.jpg)
-*19. Jhd. — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Affentor (während des Abbruchs von 1810), nach einer Zeichnung von Friedrich Philipp Usener, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0035</p>*
+![Carl Theodor Reiffenstein, Affentor (während des Abbruchs von 1810), nach einer Zeichnung von Friedrich Philipp Usener, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0035](../../images/RS0035_png_4172500b17d63ed806e91fd1500e9c0b_original.jpg)
+*19. Jhd. — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Affentor (während des Abbruchs von 1810), nach einer Zeichnung von Friedrich Philipp Usener, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0035*
 
 
 ## Links

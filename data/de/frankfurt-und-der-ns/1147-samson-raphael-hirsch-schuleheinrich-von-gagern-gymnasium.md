@@ -15,8 +15,8 @@ filters:
 
 *Dr. Ruth K. Westheimer und die Kindertransporte*
 
-![<p>Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums</p>](../../images/ffaba6401ddc08c70d39dd7714b8a144_original.jpg)
-*o.D. — Author: Alexander Paul Englert | License: Deutsche Nationalbibliothek | Description: <p>Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums</p>*
+![Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums](../../images/ffaba6401ddc08c70d39dd7714b8a144_original.jpg)
+*o.D. — Author: Alexander Paul Englert | License: Deutsche Nationalbibliothek | Description: Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums*
 
 Die heute in den USA berühmte Sexualtherapeutin Dr. Ruth K. Westheimer wurde am 4. Juni 1928 in Wiesenfeld geboren. Den Großteil ihrer Kindheit verbrachte sie in Frankfurt am Main. Damals hieß sie Karola Ruth Siegel. 
  Ihren Eltern Julius und Irma Siegel, geb. Hanauer, war es wichtig, dass Karola eine streng religiöse Schule besuchte. Obwohl das Philanthropin ebenfalls von der israelitischen Gemeinde getragen wurde und näher zu ihrer Wohnung in der Brahmsstraße 8 lag, schickten Julius und Irma Siegel ihre Tochter auf die entfernter gelegene Samson-Raphael-Hirsch-Schule am Tiergarten 8. Im Gegensatz zum Philanthropin nahm diese Schule ausschließlich jüdische Schüler*innen und Lehrer*innen auf. 
@@ -24,8 +24,8 @@ Die heute in den USA berühmte Sexualtherapeutin Dr. Ruth K. Westheimer wurde am
 
 ## Gallery
 
-![<p>Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums</p>](../../images/ffaba6401ddc08c70d39dd7714b8a144_original.jpg)
-*o.D. — Author: Alexander Paul Englert | License: Deutsche Nationalbibliothek | Description: <p>Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums</p>*
+![Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums](../../images/ffaba6401ddc08c70d39dd7714b8a144_original.jpg)
+*o.D. — Author: Alexander Paul Englert | License: Deutsche Nationalbibliothek | Description: Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums*
 
 
 ## Links

@@ -24,8 +24,8 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
-![<p>Stolperstein for Anna Oechler</p>](../../images/Anna Oechl_fe7cce1b8f7c08fb86b389c482e5a894_original.jpg)
-*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein for Anna Oechler</p>*
+![Stolperstein for Anna Oechler](../../images/Anna Oechl_fe7cce1b8f7c08fb86b389c482e5a894_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Anna Oechler*
 
 
 ## Links

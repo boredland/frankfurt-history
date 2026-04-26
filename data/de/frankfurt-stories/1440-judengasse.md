@@ -16,8 +16,8 @@ filters:
 
 Reiffensteins Frankfurt<br />(1820-1893)
 
-![<p>Carl Theodor Reiffenstein, Judengasse, Hinterhäuser, 1849, aquarellierte Bleistiftzeichnung, HMF R0271</p>](../../images/55c3b559e80510adb445487fa9423fdb_original.jpg)
-*1849 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Judengasse, Hinterhäuser, 1849, aquarellierte Bleistiftzeichnung, HMF R0271</p>*
+![Carl Theodor Reiffenstein, Judengasse, Hinterhäuser, 1849, aquarellierte Bleistiftzeichnung, HMF R0271](../../images/55c3b559e80510adb445487fa9423fdb_original.jpg)
+*1849 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Judengasse, Hinterhäuser, 1849, aquarellierte Bleistiftzeichnung, HMF R0271*
 
 Die Judengasse entstand 1462 und lag außerhalb der östlichen Stadtmauer. Das Ghetto für die jüdische Bevölkerung war von Mauern mit drei Toren umgeben. Mehrere Brände, 1711, 1721 und 1796, beschädigten das dicht bebaute Gelände. Erst 1811 wurde der Ghettozwang aufgehoben.
 
@@ -29,20 +29,20 @@ Seit 1864 erwarb die Stadt baufällige Häuser und ließ innerhalb von zehn Jahr
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Judengasse, Hinterhäuser, 1849, aquarellierte Bleistiftzeichnung, HMF R0271</p>](../../images/R0271_png_172e953183a0138a307edb03c7098035_original.jpg)
-*1849 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Judengasse, Hinterhäuser, 1849, aquarellierte Bleistiftzeichnung, HMF R0271</p>*
+![Carl Theodor Reiffenstein, Judengasse, Hinterhäuser, 1849, aquarellierte Bleistiftzeichnung, HMF R0271](../../images/R0271_png_172e953183a0138a307edb03c7098035_original.jpg)
+*1849 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Judengasse, Hinterhäuser, 1849, aquarellierte Bleistiftzeichnung, HMF R0271*
 
-![<p>Carl Theodor Reiffenstein, Judengasse, Hinterhäuser (Haus Römischer König), 1857/1875, aquarellierte Bleistiftzeichnung, HMF R0267</p>](../../images/R0267_png_8e3aba20a25b25d979a305be1a8c8335_original.jpg)
-*1857/1875 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Judengasse, Hinterhäuser (Haus Römischer König), 1857/1875, aquarellierte Bleistiftzeichnung, HMF R0267</p>*
+![Carl Theodor Reiffenstein, Judengasse, Hinterhäuser (Haus Römischer König), 1857/1875, aquarellierte Bleistiftzeichnung, HMF R0267](../../images/R0267_png_8e3aba20a25b25d979a305be1a8c8335_original.jpg)
+*1857/1875 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Judengasse, Hinterhäuser (Haus Römischer König), 1857/1875, aquarellierte Bleistiftzeichnung, HMF R0267*
 
-![<p>Carl Theodor Reiffenstein, Judengasse, Hochzeitshaus, 1845/1864, aquarellierte Bleistiftzeichnung, HMF R0258</p>](../../images/R0258_png_ae378bb7027f679dafb264294d516f2a_original.jpg)
-*1845/1864 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Judengasse, Hochzeitshaus, 1845/1864, aquarellierte Bleistiftzeichnung, HMF R0258</p>*
+![Carl Theodor Reiffenstein, Judengasse, Hochzeitshaus, 1845/1864, aquarellierte Bleistiftzeichnung, HMF R0258](../../images/R0258_png_ae378bb7027f679dafb264294d516f2a_original.jpg)
+*1845/1864 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Judengasse, Hochzeitshaus, 1845/1864, aquarellierte Bleistiftzeichnung, HMF R0258*
 
-![<p>Carl Theodor Reiffenstein, Blick in die Judengasse, Laden von Schwelm, 1852/1874, aquarellierte Bleistiftzeichnung, HMF R0255</p>](../../images/R0255_png_fb22a564990116d0fb59d0d8cd9a7269_original.jpg)
-*1852/1874 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Blick in die Judengasse, Laden von Schwelm, 1852/1874, aquarellierte Bleistiftzeichnung, HMF R0255</p>*
+![Carl Theodor Reiffenstein, Blick in die Judengasse, Laden von Schwelm, 1852/1874, aquarellierte Bleistiftzeichnung, HMF R0255](../../images/R0255_png_fb22a564990116d0fb59d0d8cd9a7269_original.jpg)
+*1852/1874 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Blick in die Judengasse, Laden von Schwelm, 1852/1874, aquarellierte Bleistiftzeichnung, HMF R0255*
 
-![<p>Carl Theodor Reiffenstein, Judengasse, Blick in ein Hinterhöfchen, aquarellierte Bleistiftzeichnung, HMF R0262</p>](../../images/R0262_png_7b636c18020dab32d6e3df3a1ec20aa7_original.jpg)
-*Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Judengasse, Blick in ein Hinterhöfchen, aquarellierte Bleistiftzeichnung, HMF R0262</p>*
+![Carl Theodor Reiffenstein, Judengasse, Blick in ein Hinterhöfchen, aquarellierte Bleistiftzeichnung, HMF R0262](../../images/R0262_png_7b636c18020dab32d6e3df3a1ec20aa7_original.jpg)
+*Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Judengasse, Blick in ein Hinterhöfchen, aquarellierte Bleistiftzeichnung, HMF R0262*
 
 
 ## Links

@@ -26,11 +26,11 @@ Das Haus Stadt Ulm wurde 1915 umgebaut und schließlich im Zweiten Weltkrieg zer
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Schäfergasse 9, Haus Stadt Ulm, Innenhof, 1862, aquarellierte Bleistiftzeichnung, HMF R0863</p>](../../images/R0863_png_fb2ad8be23d581cd64065cde9a723353_original.jpg)
-*1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Schäfergasse 9, Haus Stadt Ulm, Innenhof, 1862, aquarellierte Bleistiftzeichnung, HMF R0863</p>*
+![Carl Theodor Reiffenstein, Schäfergasse 9, Haus Stadt Ulm, Innenhof, 1862, aquarellierte Bleistiftzeichnung, HMF R0863](../../images/R0863_png_fb2ad8be23d581cd64065cde9a723353_original.jpg)
+*1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Schäfergasse 9, Haus Stadt Ulm, Innenhof, 1862, aquarellierte Bleistiftzeichnung, HMF R0863*
 
-![<p>Carl Theodor Reiffenstein, Schäfergasse 9, Haus Stadt Ulm, Einfahrt von der Straße, 1862, aquarellierte Bleistiftzeichnung, HMF R0862</p>](../../images/R0862_png_a25bfcac09123bc6fe0da15eff9a58ec_original.jpg)
-*1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Schäfergasse 9, Haus Stadt Ulm, Einfahrt von der Straße, 1862, aquarellierte Bleistiftzeichnung, HMF R0862</p>*
+![Carl Theodor Reiffenstein, Schäfergasse 9, Haus Stadt Ulm, Einfahrt von der Straße, 1862, aquarellierte Bleistiftzeichnung, HMF R0862](../../images/R0862_png_a25bfcac09123bc6fe0da15eff9a58ec_original.jpg)
+*1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Schäfergasse 9, Haus Stadt Ulm, Einfahrt von der Straße, 1862, aquarellierte Bleistiftzeichnung, HMF R0862*
 
 
 ## Links

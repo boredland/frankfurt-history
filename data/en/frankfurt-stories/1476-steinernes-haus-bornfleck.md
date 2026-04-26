@@ -28,14 +28,14 @@ Badly damaged in the Second World War, the Stone House was reconstructed from 19
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Steinernes Haus, 1845, aquarelle, HMF C16226</p>](../../images/C16226_png_dc2f16036b1f0592287739c084166ad9_original.jpg)
-*1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Steinernes Haus, 1845, aquarelle, HMF C16226</p>*
+![Carl Theodor Reiffenstein, Steinernes Haus, 1845, aquarelle, HMF C16226](../../images/C16226_png_dc2f16036b1f0592287739c084166ad9_original.jpg)
+*1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Steinernes Haus, 1845, aquarelle, HMF C16226*
 
-![<p>Carl Theodor Reiffenstein, Steinernes Haus, archway, 1856, watercolored pencil drawing, HMF R0427</p>](../../images/R0427_png_c56e09b16d0fe84a7170950930251135_original.jpg)
-*1856 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Steinernes Haus, archway, 1856, watercolored pencil drawing, HMF R0427</p>*
+![Carl Theodor Reiffenstein, Steinernes Haus, archway, 1856, watercolored pencil drawing, HMF R0427](../../images/R0427_png_c56e09b16d0fe84a7170950930251135_original.jpg)
+*1856 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Steinernes Haus, archway, 1856, watercolored pencil drawing, HMF R0427*
 
-![<p>Carl Theodor Reiffenstein, Steinernes Haus, 1st floor hall with fireplace, 1849, watercolored pencil drawing, HMF R0423</p>](../../images/R0423_png_02619d99dcdcacc78aad59a028494897_original.jpg)
-*1849 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Steinernes Haus, 1st floor hall with fireplace, 1849, watercolored pencil drawing, HMF R0423</p>*
+![Carl Theodor Reiffenstein, Steinernes Haus, 1st floor hall with fireplace, 1849, watercolored pencil drawing, HMF R0423](../../images/R0423_png_02619d99dcdcacc78aad59a028494897_original.jpg)
+*1849 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Steinernes Haus, 1st floor hall with fireplace, 1849, watercolored pencil drawing, HMF R0423*
 
 
 ## Links

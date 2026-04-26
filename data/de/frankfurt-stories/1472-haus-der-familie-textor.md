@@ -26,14 +26,14 @@ Ende des 18. Jahrhunderts lebten hier Reiffensteins Großvater und Vater. Beim B
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Textor‘sches Haus und Garten (Zustand von 1758), Große Friedbergerstraße, 1862, Sepiazeichnung, HMF C09299</p>](../../images/C09299_png_6052ee6351be07bbf7b1d65d2957d56f_original.jpg)
-*1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Textor‘sches Haus und Garten (Zustand von 1758), Große Friedbergerstraße, 1862, Sepiazeichnung, HMF C09299</p>*
+![Carl Theodor Reiffenstein, Textor‘sches Haus und Garten (Zustand von 1758), Große Friedbergerstraße, 1862, Sepiazeichnung, HMF C09299](../../images/C09299_png_6052ee6351be07bbf7b1d65d2957d56f_original.jpg)
+*1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Textor‘sches Haus und Garten (Zustand von 1758), Große Friedbergerstraße, 1862, Sepiazeichnung, HMF C09299*
 
-![<p>Carl Theodor Reiffenstein, Hof des Textor‘schen Hauses (Zustand um 1755), Große Friedbergerstraße, 1862, Sepiazeichnung, HMF C09310</p>](../../images/C09310_png_244854f8fccbb72a819c64813c9e89d6_original.jpg)
-*1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Hof des Textor‘schen Hauses (Zustand um 1755), Große Friedbergerstraße, 1862, Sepiazeichnung, HMF C09310</p>*
+![Carl Theodor Reiffenstein, Hof des Textor‘schen Hauses (Zustand um 1755), Große Friedbergerstraße, 1862, Sepiazeichnung, HMF C09310](../../images/C09310_png_244854f8fccbb72a819c64813c9e89d6_original.jpg)
+*1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Hof des Textor‘schen Hauses (Zustand um 1755), Große Friedbergerstraße, 1862, Sepiazeichnung, HMF C09310*
 
-![<p>Carl Theodor Reiffenstein, Textor‘sches Haus und Garten (Zustand von 1758), Große Friedbergerstraße, 1862, Aquarell, HMF C09300</p>](../../images/C09300_png_fe0ceedfb961a7337722aca8209e0a35_original.jpg)
-*1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Textor‘sches Haus und Garten (Zustand von 1758), Große Friedbergerstraße, 1862, Aquarell, HMF C09300</p>*
+![Carl Theodor Reiffenstein, Textor‘sches Haus und Garten (Zustand von 1758), Große Friedbergerstraße, 1862, Aquarell, HMF C09300](../../images/C09300_png_fe0ceedfb961a7337722aca8209e0a35_original.jpg)
+*1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Textor‘sches Haus und Garten (Zustand von 1758), Große Friedbergerstraße, 1862, Aquarell, HMF C09300*
 
 
 ## Links

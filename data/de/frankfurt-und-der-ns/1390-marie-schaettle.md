@@ -14,8 +14,8 @@ filters:
 
 *Palmengartenstraße 3*
 
-![<p>Porträt von Marie Schättle; M-002814</p>](../../images/a57e299e881faad44ea66d1558fbc39b_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Porträt von Marie Schättle; M-002814</p>*
+![Porträt von Marie Schättle; M-002814](../../images/a57e299e881faad44ea66d1558fbc39b_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Porträt von Marie Schättle; M-002814*
 
 Jehovas Zeugen gehörten viele Jahre zu den „vergessenen Opfern“ und fanden kaum Erwähnung. Wir möchten die Frankfurter Opfer aus der Vergessenheit holen. Seit 1997 wird an die Frankfurter Zeugen Jehovas erinnert, die unter dem NS-Regime wegen ihrer christlichen Überzeugung gelitten haben. Durch ehrenamtliche Tätigkeit wird in den Archiven und Gedenkstätten das Erlebte der Opfer aufgearbeitet.
 
@@ -25,11 +25,11 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
-![<p>Porträt von Marie Schättle; M-002814</p>](../../images/Schättle_dee62e285e2582d611b7e64be16ce9a2_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Porträt von Marie Schättle; M-002814</p>*
+![Porträt von Marie Schättle; M-002814](../../images/Schättle_dee62e285e2582d611b7e64be16ce9a2_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Porträt von Marie Schättle; M-002814*
 
-![<p>Stolperstein für Marie Schättle</p>](../../images/Marie Sch)
-*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein für Marie Schättle</p>*
+![Stolperstein für Marie Schättle](../../images/Marie Sch)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein für Marie Schättle*
 
 
 ## Links

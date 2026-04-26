@@ -23,8 +23,8 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
-![<p>Charlotte Kohlhaas with collar crocheted in Lichtenburg concentration camp; L-000426</p>](../../images/Kohlhaas_C_12a7a2e90c4ec4f2502aec6167291498_original.jpg)
-*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: <p>Charlotte Kohlhaas with collar crocheted in Lichtenburg concentration camp; L-000426</p>*
+![Charlotte Kohlhaas with collar crocheted in Lichtenburg concentration camp; L-000426](../../images/Kohlhaas_C_12a7a2e90c4ec4f2502aec6167291498_original.jpg)
+*License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Charlotte Kohlhaas with collar crocheted in Lichtenburg concentration camp; L-000426*
 
 
 ## Links

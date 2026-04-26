@@ -15,8 +15,8 @@ filters:
 
 *Freiherr-vom-Stein-Straße 28-32*
 
-![<p>Westendsynagoge, Freiherr-vom-Stein-Straße 28-32</p>](../../images/fd5c07293bd77b08600cefeef0136ce2_original.jpg)
-*ca. 1911 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2009-145 | Description: <p>Westendsynagoge, Freiherr-vom-Stein-Straße 28-32</p>*
+![Westendsynagoge, Freiherr-vom-Stein-Straße 28-32](../../images/fd5c07293bd77b08600cefeef0136ce2_original.jpg)
+*ca. 1911 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2009-145 | Description: Westendsynagoge, Freiherr-vom-Stein-Straße 28-32*
 
 Beim Pogrom am 10. November 1938 widersetzte sich der langjährige katholische Hausmeister der Westendsynagoge trotz massiver Gewalt, den SA-Leuten und Hitler-Jungen, die in das Gotteshaus eindringen und es brandschatzen wollten, den Schlüssel zu übergeben. Erst nachdem die Nationalsozialisten den Mann fast erschlagen hatten, gelangten sie in die Synagoge, die sie erheblich demolierten.
 
@@ -24,6 +24,6 @@ Beim Pogrom am 10. November 1938 widersetzte sich der langjährige katholische H
 
 ## Gallery
 
-![<p>Westendsynagoge, Freiherr-vom-Stein-Straße 28-32</p>](../../images/fd5c07293bd77b08600cefeef0136ce2_original.jpg)
-*ca. 1911 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2009-145 | Description: <p>Westendsynagoge, Freiherr-vom-Stein-Straße 28-32</p>*
+![Westendsynagoge, Freiherr-vom-Stein-Straße 28-32](../../images/fd5c07293bd77b08600cefeef0136ce2_original.jpg)
+*ca. 1911 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2009-145 | Description: Westendsynagoge, Freiherr-vom-Stein-Straße 28-32*
 

@@ -14,8 +14,8 @@ filters:
 
 *Video Schultheater-Studio*
 
-![<p>Postkarte "Was geht mich der 8. Mai an?"</p>](../../images/9702006de4bcfee2df06f9881010687b_original.jpg)
-*Description: <p>Postkarte "Was geht mich der 8. Mai an?"</p>*
+![Postkarte "Was geht mich der 8. Mai an?"](../../images/9702006de4bcfee2df06f9881010687b_original.jpg)
+*Description: Postkarte "Was geht mich der 8. Mai an?"*
 
 Das Waisen-Karussel
 

@@ -24,8 +24,8 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
-![<p>Stolperstein for Elisabeth Schäfer</p>](../../images/Elisabeth _a3fce4e1455909ecd6e99e2cbba66a3e_original.jpg)
-*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein for Elisabeth Schäfer</p>*
+![Stolperstein for Elisabeth Schäfer](../../images/Elisabeth _a3fce4e1455909ecd6e99e2cbba66a3e_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Elisabeth Schäfer*
 
 
 ## Links

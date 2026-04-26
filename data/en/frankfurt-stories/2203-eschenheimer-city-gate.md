@@ -67,4 +67,4 @@ Jan Kamensky's “Visual Utopia” shows that there is another way. The Hamburg-
 
 ## Video
 
-  *Description: <p>Visual Utopia of Eschenheimer City Gate, 2024, Jan Kamensky</p>*
+  *Description: Visual Utopia of Eschenheimer City Gate, 2024, Jan Kamensky*

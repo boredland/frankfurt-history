@@ -37,6 +37,6 @@ Further reading: Christoph Mohr/Michael Müller: Funktionalität und Moderne. Da
 ![View of the rear of an apartment block with a green area](../../images/emg-12-09-_56eb3f2f93b3955d1a5acb4cc87a3861_original.jpg)
 *after 1930 — Author: Max Göllner | License: ernst-may-gesellschaft e.V. | Description: View of the rear of an apartment block with a green area*
 
-![<strong></strong>View of a residential street with three-storey blocks of single-family houses.](../../images/emg-12-10-_400e8075e05285d8740e48c271605848_original.jpg)
-*after 1930 — Author: Hans Beckstein | License: ernst-may-gesellschaft e.V. | Description: <strong></strong>View of a residential street with three-storey blocks of single-family houses.*
+![View of a residential street with three-storey blocks of single-family houses.](../../images/emg-12-10-_400e8075e05285d8740e48c271605848_original.jpg)
+*after 1930 — Author: Hans Beckstein | License: ernst-may-gesellschaft e.V. | Description: View of a residential street with three-storey blocks of single-family houses.*
 

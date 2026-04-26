@@ -28,14 +28,14 @@ This new main synagogue, designed by architect Johann Georg Kayser (1817-1875), 
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, view of the Judengasse, with the old synagogue on the left, 1845, watercolored pencil drawing, HMF R0254</p>](../../images/R0254_png_9a2de6a65e9238caf10a2f2dfafda94c_original.jpg)
-*1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, view of the Judengasse, with the old synagogue on the left, 1845, watercolored pencil drawing, HMF R0254</p>*
+![Carl Theodor Reiffenstein, view of the Judengasse, with the old synagogue on the left, 1845, watercolored pencil drawing, HMF R0254](../../images/R0254_png_9a2de6a65e9238caf10a2f2dfafda94c_original.jpg)
+*1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view of the Judengasse, with the old synagogue on the left, 1845, watercolored pencil drawing, HMF R0254*
 
-![<p>Carl Theodor Reiffenstein, view of the Judengasse, on the left the old synagogue (demolished in 1854), around 1880, watercolored pencil drawing, HMF R0259</p>](../../images/R0259_png_5c281f91d4c5f65312b24fe91af29a04_original.jpg)
-*1880 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, view of the Judengasse, on the left the old synagogue (demolished in 1854), around 1880, watercolored pencil drawing, HMF R0259</p>*
+![Carl Theodor Reiffenstein, view of the Judengasse, on the left the old synagogue (demolished in 1854), around 1880, watercolored pencil drawing, HMF R0259](../../images/R0259_png_5c281f91d4c5f65312b24fe91af29a04_original.jpg)
+*1880 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view of the Judengasse, on the left the old synagogue (demolished in 1854), around 1880, watercolored pencil drawing, HMF R0259*
 
-![<p>Carl Theodor Reiffenstein, Judengasse, square after the demolition of the synagogue, 1855, watercolored pencil drawing, HMF R0270</p>](../../images/R0270_png_a50869101d50dc3e32d070009d988f98_original.jpg)
-*1855 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Judengasse, square after the demolition of the synagogue, 1855, watercolored pencil drawing, HMF R0270</p>*
+![Carl Theodor Reiffenstein, Judengasse, square after the demolition of the synagogue, 1855, watercolored pencil drawing, HMF R0270](../../images/R0270_png_a50869101d50dc3e32d070009d988f98_original.jpg)
+*1855 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Judengasse, square after the demolition of the synagogue, 1855, watercolored pencil drawing, HMF R0270*
 
 
 ## Links

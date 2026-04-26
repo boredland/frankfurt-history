@@ -15,8 +15,8 @@ filters:
 
 *Adalbertstraße 19*
 
-![<p>Foto eines Lagers der Seeger &amp; Co Präzisionswerkstätten, in dem ein Zwangsarbeitslager untergebracht war</p>](../../images/ab2011a77866fb8ce7494dd6ddbbc5ac_original.jpg)
-*1905 — Author: Engelke | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19968 | Description: <p>Foto eines Lagers der Seeger &amp; Co Präzisionswerkstätten, in dem ein Zwangsarbeitslager untergebracht war</p>*
+![Foto eines Lagers der Seeger &amp; Co Präzisionswerkstätten, in dem ein Zwangsarbeitslager untergebracht war](../../images/ab2011a77866fb8ce7494dd6ddbbc5ac_original.jpg)
+*1905 — Author: Engelke | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19968 | Description: Foto eines Lagers der Seeger &amp; Co Präzisionswerkstätten, in dem ein Zwangsarbeitslager untergebracht war*
 
 Ab 1942 befand sich hier ein Lager der Seeger & Co Präzisionswerkstätten, in dem russische Zwangsarbeiter*innen untergebracht waren. Auch auf dem firmeneigenen Gelände in der Adalbertstraße 46 unterhielt das Unternehmen seit 1943 ein Lager für russische Zwangsarbeiter*innen.
 
@@ -24,8 +24,8 @@ Ab 1942 befand sich hier ein Lager der Seeger & Co Präzisionswerkstätten, in d
 
 ## Gallery
 
-![<p>Foto eines Lagers der Seeger &amp; Co Präzisionswerkstätten, in dem ein Zwangsarbeitslager untergebracht war</p>](../../images/ab2011a77866fb8ce7494dd6ddbbc5ac_original.jpg)
-*1905 — Author: Engelke | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19968 | Description: <p>Foto eines Lagers der Seeger &amp; Co Präzisionswerkstätten, in dem ein Zwangsarbeitslager untergebracht war</p>*
+![Foto eines Lagers der Seeger &amp; Co Präzisionswerkstätten, in dem ein Zwangsarbeitslager untergebracht war](../../images/ab2011a77866fb8ce7494dd6ddbbc5ac_original.jpg)
+*1905 — Author: Engelke | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19968 | Description: Foto eines Lagers der Seeger &amp; Co Präzisionswerkstätten, in dem ein Zwangsarbeitslager untergebracht war*
 
 
 ## Links

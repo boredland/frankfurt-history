@@ -25,6 +25,6 @@ When one of the soldiers was killed, the infantry fell back, and the locals set 
 
 ## Gallery
 
-![Photo of the stone Old Bridge<br /><span class="tab2"><br /></span>](../../images/12 Alte Br_28e8ac7cbd4a969282352901795838b9_original.jpg)
-*ca. 1860 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 738 | Description: Photo of the stone Old Bridge<br /><span class="tab2"><br /></span>*
+![Photo of the stone Old Bridge](../../images/12 Alte Br_28e8ac7cbd4a969282352901795838b9_original.jpg)
+*ca. 1860 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 738 | Description: Photo of the stone Old Bridge*
 

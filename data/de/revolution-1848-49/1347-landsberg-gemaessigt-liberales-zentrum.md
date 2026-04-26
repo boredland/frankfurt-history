@@ -14,8 +14,8 @@ filters:
 
 *Ziegelgasse*
 
-![<p>Foto des Altstadtgässchen Landberggasse</p>](../../images/c7d2462aec894bdcbd091fe00b5c6d85_original.jpg)
-*1915 — Author: Carl Andreas Abt | License: HMF C23212 | Description: <p>Foto des Altstadtgässchen Landberggasse</p>*
+![Foto des Altstadtgässchen Landberggasse](../../images/c7d2462aec894bdcbd091fe00b5c6d85_original.jpg)
+*1915 — Author: Carl Andreas Abt | License: HMF C23212 | Description: Foto des Altstadtgässchen Landberggasse*
 
 Die gemäßigt-liberale „Landsberg“-Fraktion setzte sich aus vormaligen Vertretern des „Casinos“ und des „Württemberger Hofs“ zusammen. Sie spaltete sich im September 1848 ab, positionierte sich zwischen linkem und rechtem Zentrum und trafen sich zunächst in der „Mainlust“. Kritiker sahen im „Landsberg“ eine „Partei der Mittelmäßigen“.
 
@@ -27,6 +27,6 @@ Programmatisch versuchte der „Landsberg“ eine Machtbalance zwischen einer st
 
 ## Gallery
 
-![<p>Foto des Altstadtgässchen Landberggasse</p>](../../images/05 Landsbe_8b98005904195f886f79ee60ff7d6678_original.jpg)
-*1915 — Author: Carl Andreas Abt | License: HMF C23212 | Description: <p>Foto des Altstadtgässchen Landberggasse</p>*
+![Foto des Altstadtgässchen Landberggasse](../../images/05 Landsbe_8b98005904195f886f79ee60ff7d6678_original.jpg)
+*1915 — Author: Carl Andreas Abt | License: HMF C23212 | Description: Foto des Altstadtgässchen Landberggasse*
 

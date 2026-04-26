@@ -28,17 +28,17 @@ In 1822, the house and grounds passed to the city. From 1830, it housed the city
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Reineck's house and garden (condition from 1753), Hasengasse, 1864, sepia drawing, HMF C09301</p>](../../images/C09301_png_b4f931d22716556bcda6e3a3422bbea6_original.jpg)
-*1864 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Reineck's house and garden (condition from 1753), Hasengasse, 1864, sepia drawing, HMF C09301</p>*
+![Carl Theodor Reiffenstein, Reineck's house and garden (condition from 1753), Hasengasse, 1864, sepia drawing, HMF C09301](../../images/C09301_png_b4f931d22716556bcda6e3a3422bbea6_original.jpg)
+*1864 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Reineck's house and garden (condition from 1753), Hasengasse, 1864, sepia drawing, HMF C09301*
 
-![<p>Carl Theodor Reiffenstein, View from the Reineck's house towards Holzgraben and Hasengasse, 19th century, aquarelle, HMF C09393</p>](../../images/C09393_png_4853bbf67a3e9a3b045003bb1dd168b9_original.jpg)
-*19th century — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, View from the Reineck's house towards Holzgraben and Hasengasse, 19th century, aquarelle, HMF C09393</p>*
+![Carl Theodor Reiffenstein, View from the Reineck's house towards Holzgraben and Hasengasse, 19th century, aquarelle, HMF C09393](../../images/C09393_png_4853bbf67a3e9a3b045003bb1dd168b9_original.jpg)
+*19th century — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, View from the Reineck's house towards Holzgraben and Hasengasse, 19th century, aquarelle, HMF C09393*
 
-![<p>Carl Theodor Reiffenstein, Reineck's house, Hasengasse No. 6, vault, 1850, aquarelle, HMF R0752</p>](../../images/R0752_png_210edea162863ed7de0f2ef2e0f85de0_original.jpg)
-*1850 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Reineck's house, Hasengasse No. 6, vault, 1850, aquarelle, HMF R0752</p>*
+![Carl Theodor Reiffenstein, Reineck's house, Hasengasse No. 6, vault, 1850, aquarelle, HMF R0752](../../images/R0752_png_210edea162863ed7de0f2ef2e0f85de0_original.jpg)
+*1850 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Reineck's house, Hasengasse No. 6, vault, 1850, aquarelle, HMF R0752*
 
-![<p>Carl Theodor Reiffenstein, Reineck's house, Hasengasse No. 6, headstone, 1860, watercolored pencil drawing, HMF R1007</p>](../../images/R1007_png_fe100f61c621c96afa3574affc9fe8ee_original.jpg)
-*1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Reineck's house, Hasengasse No. 6, headstone, 1860, watercolored pencil drawing, HMF R1007</p>*
+![Carl Theodor Reiffenstein, Reineck's house, Hasengasse No. 6, headstone, 1860, watercolored pencil drawing, HMF R1007](../../images/R1007_png_fe100f61c621c96afa3574affc9fe8ee_original.jpg)
+*1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Reineck's house, Hasengasse No. 6, headstone, 1860, watercolored pencil drawing, HMF R1007*
 
 
 ## Links

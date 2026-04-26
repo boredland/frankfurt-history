@@ -14,8 +14,8 @@ filters:
 
 *An der Hauptwache*
 
-![<p>Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848, Lithografie (Zigarrenreklame), um 1903, ISG S7A 1998/8562</p>](../../images/e4df4b866f98f18ff6307c55ea11a782_original.jpg)
-*um 1903 — License: ISG | Description: <p>Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848, Lithografie (Zigarrenreklame), um 1903, ISG S7A 1998/8562</p>*
+![Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848, Lithografie (Zigarrenreklame), um 1903, ISG S7A 1998/8562](../../images/e4df4b866f98f18ff6307c55ea11a782_original.jpg)
+*um 1903 — License: ISG | Description: Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848, Lithografie (Zigarrenreklame), um 1903, ISG S7A 1998/8562*
 
 The baroque Main Guardhouse (Hauptwache) was the headquarters of Frankfurt’s town militia and used as a jail to hold prominent prisoners. In September 1848, this military base and liaison office in the city centre served the German Confederation troops deployed in Frankfurt as a command centre to suppress the uprising.
 

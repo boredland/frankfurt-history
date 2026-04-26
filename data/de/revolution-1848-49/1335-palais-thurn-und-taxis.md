@@ -14,8 +14,8 @@ filters:
 
 *Große Eschenheimer Straße 10*
 
-![<p>Farblithografie des Palais Thurn und Taxis</p>](../../images/7ef3aeb2bc24cb8c8d85c1e2724ff279_original.jpg)
-*1863 — Author: verlegt im Verlag Völcker | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 269 | Description: <p>Farblithografie des Palais Thurn und Taxis</p>*
+![Farblithografie des Palais Thurn und Taxis](../../images/7ef3aeb2bc24cb8c8d85c1e2724ff279_original.jpg)
+*1863 — Author: verlegt im Verlag Völcker | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 269 | Description: Farblithografie des Palais Thurn und Taxis*
 
 Wo sich heute Geschäftsräume und Läden befinden, wurden 1848 politische Weichen gestellt: Im 1739 fertiggestellten Palais, dem ehemaligen Hauptsitz der Reichspost, tagte zwischen 1815 und 1866 der Bundestag des Deutschen Bundes. Diese Gesandtenversammlung der deutschen Staaten übertrug der Nationalversammlung 1848 die Aufgabe, eine Verfassung zu erarbeiten, und stellte ihre Treffen bis 1849 ein.
 
@@ -27,6 +27,6 @@ Als Sitz übernahm die neue Regierung das Palais Thurn und Taxis vom Bundestag, 
 
 ## Gallery
 
-![<p>Farblithografie des Palais Thurn und Taxis</p>](../../images/08 Palais _1ab3d844ac46c55243f20e8cf9ff316e_original.jpg)
-*1863 — Author: verlegt im Verlag Völcker | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 269 | Description: <p>Farblithografie des Palais Thurn und Taxis</p>*
+![Farblithografie des Palais Thurn und Taxis](../../images/08 Palais _1ab3d844ac46c55243f20e8cf9ff316e_original.jpg)
+*1863 — Author: verlegt im Verlag Völcker | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 269 | Description: Farblithografie des Palais Thurn und Taxis*
 

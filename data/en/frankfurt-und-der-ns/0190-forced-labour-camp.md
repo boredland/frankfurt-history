@@ -14,8 +14,8 @@ filters:
 
 *Bolongarostraße 90*
 
-![<span class="tab2">View of Bolongarostraße 90</span>](../../images/61a9d4af3612c543399c1269a4d854ac_original.jpg)
-*ca. 1900 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 8135 | Description: <span class="tab2">View of Bolongarostraße 90</span>*
+![View of Bolongarostraße 90](../../images/61a9d4af3612c543399c1269a4d854ac_original.jpg)
+*ca. 1900 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 8135 | Description: View of Bolongarostraße 90*
 
 This was the site of a forced labour camp operated by the L. Scriba iron foundry of Höchst. From 1942 onwards, three Frenchmen were lodged here.
 
@@ -23,8 +23,8 @@ This was the site of a forced labour camp operated by the L. Scriba iron foundry
 
 ## Gallery
 
-![<span class="tab2">View of Bolongarostraße 90</span>](../../images/61a9d4af3612c543399c1269a4d854ac_original.jpg)
-*ca. 1900 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 8135 | Description: <span class="tab2">View of Bolongarostraße 90</span>*
+![View of Bolongarostraße 90](../../images/61a9d4af3612c543399c1269a4d854ac_original.jpg)
+*ca. 1900 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 8135 | Description: View of Bolongarostraße 90*
 
 
 ## Links

@@ -27,7 +27,7 @@ Die Festhalle in Frankfurt am Main ist ein zentraler Veranstaltungsort mit über
 *2024 — Author: Aliah Habl Corona | License: gemeinfrei | Description: Die Frankfurter Festhalle, ein historisches Bauwerk auf dem Messegelände. Sie war während der Novemberpogrome 1938 Sammelstelle für über 3.000 männliche jüdische Bürger aus Frankfurt und der Region genutzt wurde.*
 
 ![Innenansicht einer NS-Veranstaltung in einem Vorraum der Frankfurter Festhalle, dekoriert mit nationalsozialistischen Symbolen und Propaganda, ausgerichtet auf die Rhein-Mainische Wirtschaft, 1935.](../../images/Vorraum_Fe_778df69aec038d876628825ce718c2d0_original.jpg)
-*1935 — Author: Unbekannt | License: <span class="tab2">gemeinfrei</span> | Description: Innenansicht einer NS-Veranstaltung in einem Vorraum der Frankfurter Festhalle, dekoriert mit nationalsozialistischen Symbolen und Propaganda, ausgerichtet auf die Rhein-Mainische Wirtschaft, 1935.*
+*1935 — Author: Unbekannt | License: gemeinfrei | Description: Innenansicht einer NS-Veranstaltung in einem Vorraum der Frankfurter Festhalle, dekoriert mit nationalsozialistischen Symbolen und Propaganda, ausgerichtet auf die Rhein-Mainische Wirtschaft, 1935.*
 
 ![Das Innere der Frankfurter Festhalle während eines Konzerts, beeindruckt durch die markante Kuppelkonstruktion und das festliche Ambiente.](../../images/Innenraum__45d8e5a08666a3dcc67b62c2f40bdd95_original.jpg)
 *2008 — Author: Unbekannt | License: gemeinfrei | Description: Das Innere der Frankfurter Festhalle während eines Konzerts, beeindruckt durch die markante Kuppelkonstruktion und das festliche Ambiente.*

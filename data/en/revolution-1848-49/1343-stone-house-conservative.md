@@ -14,8 +14,8 @@ filters:
 
 *Markt 44*
 
-![<p>Foto: Carl Friedrich Mylius, 1864, Historisches Museum Frankfurt Ph00021</p>](../../images/2f16efa6caf90762c0098521c5db67c5_original.jpg)
-*1864 — Author: Carl Friedrich Mylius | License: HMF | Description: <p>Foto: Carl Friedrich Mylius, 1864, Historisches Museum Frankfurt Ph00021</p>*
+![Foto: Carl Friedrich Mylius, 1864, Historisches Museum Frankfurt Ph00021](../../images/2f16efa6caf90762c0098521c5db67c5_original.jpg)
+*1864 — Author: Carl Friedrich Mylius | License: HMF | Description: Foto: Carl Friedrich Mylius, 1864, Historisches Museum Frankfurt Ph00021*
 
 Today, this building is home to Frankfurt’s art association, but on 4 June 1848 conservative delegates from the National Assembly founded their parliamentary group here. In May, conservative delegates from Austria had already met in the rooms of the Freemason's Socrates Lodge in Töngesgasse 16.
 

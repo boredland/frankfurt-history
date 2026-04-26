@@ -15,8 +15,8 @@ filters:
 
 *Liebigstraße 27b*
 
-![<span class="tab2">Wohnhaus Familie Grünbaum, Liebigstraße 27b</span>](../../images/f688a039edc758b0b350df0f8d47c2cb_original.jpg)
-*1884 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13178 | Description: <span class="tab2">Wohnhaus Familie Grünbaum, Liebigstraße 27b</span>*
+![Wohnhaus Familie Grünbaum, Liebigstraße 27b](../../images/f688a039edc758b0b350df0f8d47c2cb_original.jpg)
+*1884 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13178 | Description: Wohnhaus Familie Grünbaum, Liebigstraße 27b*
 
 Das Gebäude in der Liebigstraße 27b gehörte ursprünglich Fritz Bieler. Er wurde von den Nationalsozialisten verfolgt. Das Haus wurde 1939 zwangsversteigert und verkauft. 
  
@@ -24,6 +24,6 @@ Das Gebäude in der Liebigstraße 27b gehörte ursprünglich Fritz Bieler. Er wu
 
 ## Gallery
 
-![<span class="tab2">Wohnhaus Familie Grünbaum, Liebigstraße 27b</span>](../../images/f688a039edc758b0b350df0f8d47c2cb_original.jpg)
-*1884 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13178 | Description: <span class="tab2">Wohnhaus Familie Grünbaum, Liebigstraße 27b</span>*
+![Wohnhaus Familie Grünbaum, Liebigstraße 27b](../../images/f688a039edc758b0b350df0f8d47c2cb_original.jpg)
+*1884 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13178 | Description: Wohnhaus Familie Grünbaum, Liebigstraße 27b*
 

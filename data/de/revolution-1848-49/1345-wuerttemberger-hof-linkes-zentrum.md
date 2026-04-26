@@ -14,8 +14,8 @@ filters:
 
 *Fahrgasse  25/27*
 
-![<p>Foto des Württemberger Hof</p>](../../images/dbbd8be81ee3ef9281116ec7c9d2881b_original.jpg)
-*1915 — Author: Carl Andreas Abt | License: HMF C16763 | Description: <p>Foto des Württemberger Hof</p>*
+![Foto des Württemberger Hof](../../images/dbbd8be81ee3ef9281116ec7c9d2881b_original.jpg)
+*1915 — Author: Carl Andreas Abt | License: HMF C16763 | Description: Foto des Württemberger Hof*
 
 Gegenüber dem heutigen Löwenbrunnen lag der Württemberger Hof. Hier versammelten sich seit Anfang Juni 1848 Vertreter des linken Zentrums. Zu den anfangs rund 100 Mitgliedern zählten der Heidelberger Jurist und Präsident des Vorparlaments Carl Mittermaier, der Leipziger Philosoph Karl Biedermann, der Münchener Professor Jakob Philipp Fallmerayer, der österreichische Rechtsanwalt Carl Giskra, der Marburger Staatsrechtler Sylvester Jordan, der Kölner Publizist Franz Raveaux, der Hamburger Rechtsanwalt und spätere erste Richter jüdischen Glaubens Gabriel Riesser, der Tübinger Literaturwissenschaftler und Philosoph Friedrich Theodor Vischer, der Leipziger Historiker Heinrich Wuttke oder der Regensburger Gutsbesitzer Adolf von Zerzog.
 
@@ -29,6 +29,6 @@ Das Lokal in der Fahrgasse trug seit 1830 den Namen „Württemberger Hof“. Er
 
 ## Gallery
 
-![<p>Foto des Württemberger Hof</p>](../../images/03 Württe_16f1e35436a6663eb95ad8b6022a4519_original.jpg)
-*1915 — Author: Carl Andreas Abt | License: HMF C16763 | Description: <p>Foto des Württemberger Hof</p>*
+![Foto des Württemberger Hof](../../images/03 Württe_16f1e35436a6663eb95ad8b6022a4519_original.jpg)
+*1915 — Author: Carl Andreas Abt | License: HMF C16763 | Description: Foto des Württemberger Hof*
 

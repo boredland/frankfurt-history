@@ -12,13 +12,13 @@ filters:
 
 *Frankfurt Rhein-Main*
 
-![<p><span class="tab2">Zwangsarbeitslager, Flughafen</span></p>](../../images/5505d438d6f4dd81ff9181dfe8869624_original.jpg)
-*1936 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 3831 | Description: <p><span class="tab2">Zwangsarbeitslager, Flughafen</span></p>*
+![Zwangsarbeitslager, Flughafen](../../images/5505d438d6f4dd81ff9181dfe8869624_original.jpg)
+*1936 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 3831 | Description: Zwangsarbeitslager, Flughafen*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
-![<p><span class="tab2">Zwangsarbeitslager, Flughafen</span></p>](../../images/5505d438d6f4dd81ff9181dfe8869624_original.jpg)
-*1936 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 3831 | Description: <p><span class="tab2">Zwangsarbeitslager, Flughafen</span></p>*
+![Zwangsarbeitslager, Flughafen](../../images/5505d438d6f4dd81ff9181dfe8869624_original.jpg)
+*1936 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 3831 | Description: Zwangsarbeitslager, Flughafen*
 

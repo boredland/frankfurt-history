@@ -14,8 +14,8 @@ filters:
 
 *Stiftstraße 30*
 
-![<p>Kolorierte Lithografie: Barrikade an der Bornheimer Pforte</p>](../../images/0f665d670f936bcd1daa804d65209abb_original.jpg)
-*1848 — Author: Carl Friedrich Fay | License: HMF C 10164c | Description: <p>Kolorierte Lithografie: Barrikade an der Bornheimer Pforte</p>*
+![Kolorierte Lithografie: Barrikade an der Bornheimer Pforte](../../images/0f665d670f936bcd1daa804d65209abb_original.jpg)
+*1848 — Author: Carl Friedrich Fay | License: HMF C 10164c | Description: Kolorierte Lithografie: Barrikade an der Bornheimer Pforte*
 
 Im September 1848 gab es in Frankfurt zur Versorgung der vielen Verwundeten nur zwei Krankenhäuser: das Hospital zum Heiligen Geist an der Lange Straße und das ursprünglich beim Eschenheimer Tor gelegene Bürgerhospital. In das von Johann Christian Senckenberg gestiftete Bürgerhospital wurden die an der hart umkämpften Barrikade in der Bleichstraße Verwundeten gebracht, alle anderen kamen ins Heiliggeisthospital.
 
@@ -29,6 +29,6 @@ Die im Bürgerhospital liegenden preußischen, österreichischen und kurhessisch
 
 ## Gallery
 
-![<p>Kolorierte Lithografie: Barrikade an der Bornheimer Pforte</p>](../../images/Route 3, S_3cb23363504c5c09b3851651c944de68_original.jpg)
-*1848 — Author: unbekannt | License: HMF C 10164c | Description: <p>Kolorierte Lithografie: Barrikade an der Bornheimer Pforte</p>*
+![Kolorierte Lithografie: Barrikade an der Bornheimer Pforte](../../images/Route 3, S_3cb23363504c5c09b3851651c944de68_original.jpg)
+*1848 — Author: unbekannt | License: HMF C 10164c | Description: Kolorierte Lithografie: Barrikade an der Bornheimer Pforte*
 

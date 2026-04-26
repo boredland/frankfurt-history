@@ -12,8 +12,8 @@ filters:
 
 *5 Orte – 5 Geschichten*
 
-![<p>Thüringer Straße 23</p>](../../images/24b0fa6e3f8608842f36107a4f0f69f4_original.jpg)
-*2023 — License: Google Street View | Description: <p>Thüringer Straße 23</p>*
+![Thüringer Straße 23](../../images/24b0fa6e3f8608842f36107a4f0f69f4_original.jpg)
+*2023 — License: Google Street View | Description: Thüringer Straße 23*
 
 Das Wohnhaus in der Thüringer Str. 23 gehörte der jüdischen Witwe Rebecca Recha Bamberger (1884-1945) zusammen mit ihren Kindern Julie, Minna, Michael Manfred, Josef und Johanna. 
 Rebecca war Hausfrau und vermietete Zimmer an Schüler*innen. Minna Bamberger arbeitete seit 1935 in London, wanderte jedoch erst 1937 offiziell aus. 1938 gelang dies auch den anderen Geschwistern sowie der Mutter. 
@@ -25,6 +25,6 @@ Nach dem Zweiten Weltkrieg blieb die Familie in London. 1954 wurde erstmals vers
 
 ## Gallery
 
-![<p>Thüringer Straße 23 (heute)</p>](../../images/Foto_Thü_70887308bb6052b9db7809822a2f1a9a_original.jpg)
-*2023 — Author: unbekannt | License: Google Street View | Description: <p>Thüringer Straße 23 (heute)</p>*
+![Thüringer Straße 23 (heute)](../../images/Foto_Thü_70887308bb6052b9db7809822a2f1a9a_original.jpg)
+*2023 — Author: unbekannt | License: Google Street View | Description: Thüringer Straße 23 (heute)*
 

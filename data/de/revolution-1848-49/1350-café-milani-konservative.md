@@ -14,8 +14,8 @@ filters:
 
 *Roßmarkt 17*
 
-![<p>Lithografie mit dem Café Milani am Roßmarkt</p>](../../images/4c54e11b723d3365accddbb6e796d931_original.jpg)
-*um 1840 — Author: unbekannt | License: HMF C12058 | Description: <p>Lithografie mit dem Café Milani am Roßmarkt</p>*
+![Lithografie mit dem Café Milani am Roßmarkt](../../images/4c54e11b723d3365accddbb6e796d931_original.jpg)
+*um 1840 — Author: unbekannt | License: HMF C12058 | Description: Lithografie mit dem Café Milani am Roßmarkt*
 
 Die rechtskonservativen Abgeordneten, die sich seit Juni 1848 im Steinernen Haus versammelt hatten, trafen sich seit September 1848 im Café Milani am Roßmarkt. Hierbei handelte es sich um ein seit Juni 1848 vom gleichnamigen italienischen Gastronomen betriebenes Kaffeehaus, das 1854 in neue Räumlichkeiten übersiedelte. Die Sitzungen im Café Milani glichen eher vornehmen Herrenabenden. Den Teilnehmenden war das Rauchen oder Alkohol trinken untersagt.
 
@@ -27,6 +27,6 @@ Die Café-Milani-Mitglieder wollten nur eine Reform des bestehenden Deutschen Bu
 
 ## Gallery
 
-![<p>Lithografie mit dem Café Milani am Roßmarkt</p>](../../images/08 Cafe Mi_49c0878606aeb55e9480eea44d7991b1_original.jpg)
-*um 1840 — Author: unbekannt | License: HMF C12058 | Description: <p>Lithografie mit dem Café Milani am Roßmarkt</p>*
+![Lithografie mit dem Café Milani am Roßmarkt](../../images/08 Cafe Mi_49c0878606aeb55e9480eea44d7991b1_original.jpg)
+*um 1840 — Author: unbekannt | License: HMF C12058 | Description: Lithografie mit dem Café Milani am Roßmarkt*
 

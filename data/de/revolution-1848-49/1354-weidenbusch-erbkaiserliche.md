@@ -14,8 +14,8 @@ filters:
 
 *Goetheplatz 6*
 
-![<p>Lithografie mit dem Lokal und Hotel zum Weidenbusch</p>](../../images/3cc80d84eb3271f4f1ae027910bade75_original.jpg)
-*um 1840 — Author: J. H. Martens | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 271 | Description: <p>Lithografie mit dem Lokal und Hotel zum Weidenbusch</p>*
+![Lithografie mit dem Lokal und Hotel zum Weidenbusch](../../images/3cc80d84eb3271f4f1ae027910bade75_original.jpg)
+*um 1840 — Author: J. H. Martens | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 271 | Description: Lithografie mit dem Lokal und Hotel zum Weidenbusch*
 
 Die politischen Positionen – von demokratisch über liberal zu konservativ – wurden zum Jahresanfang 1849 von der Frage groß- oder kleindeutsch überlagert. Fortan trafen sich die rund 160 Befürworter eines großdeutschen Fürstenbundes unter Einschluss Österreichs im Lokal „Mainlust“, die rund 220 Erbkaiserlichen, die die kleindeutsche Lösung mit einem preußischen Erbkaisertum favorisierten, im Hotel „Weidenbusch“. Programmatisch dazwischen stand eine Gruppe Abgeordneter, die sich im „Braunfels“ traf.
 
@@ -25,6 +25,6 @@ Die Weidenbusch-Versammlungen bestanden seit Mitte Februar 1849 aus Abgeordneten
 
 ## Gallery
 
-![<p>Lithografie mit dem Lokal und Hotel zum Weidenbusch</p>](../../images/12 Weidenb_c9e50116ce0d8bdfc29fef36261ce292_original.jpg)
-*um 1840 — Author: J. H. Martens | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 271 | Description: <p>Lithografie mit dem Lokal und Hotel zum Weidenbusch</p>*
+![Lithografie mit dem Lokal und Hotel zum Weidenbusch](../../images/12 Weidenb_c9e50116ce0d8bdfc29fef36261ce292_original.jpg)
+*um 1840 — Author: J. H. Martens | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 271 | Description: Lithografie mit dem Lokal und Hotel zum Weidenbusch*
 

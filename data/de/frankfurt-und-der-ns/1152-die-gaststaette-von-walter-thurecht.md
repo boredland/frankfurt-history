@@ -22,6 +22,6 @@ Das Gasthaus in der Großen Fischergasse 14 existiert seit 1899. Die Straße gib
 
 ## Gallery
 
-![<p>Detail aus dem Altstadtmodell der Gebrüder Treuner. Blick auf die südliche Bebauung an der westlichen Großen Fischergasse. Der genaue Standort der Gastwirtschaft lässt sich nicht ermitteln, die Aufnahme vermittelt einen Eindruck der Großen Fischergasse, Foto: HMF, Uwe Dettmar</p>](../../images/X281394400_d808585a5ec97e7b48efbb45087caf4f_original.jpg)
-*Author: Uwe Dettmar | Description: <p>Detail aus dem Altstadtmodell der Gebrüder Treuner. Blick auf die südliche Bebauung an der westlichen Großen Fischergasse. Der genaue Standort der Gastwirtschaft lässt sich nicht ermitteln, die Aufnahme vermittelt einen Eindruck der Großen Fischergasse, Foto: HMF, Uwe Dettmar</p>*
+![Detail aus dem Altstadtmodell der Gebrüder Treuner. Blick auf die südliche Bebauung an der westlichen Großen Fischergasse. Der genaue Standort der Gastwirtschaft lässt sich nicht ermitteln, die Aufnahme vermittelt einen Eindruck der Großen Fischergasse, Foto: HMF, Uwe Dettmar](../../images/X281394400_d808585a5ec97e7b48efbb45087caf4f_original.jpg)
+*Author: Uwe Dettmar | Description: Detail aus dem Altstadtmodell der Gebrüder Treuner. Blick auf die südliche Bebauung an der westlichen Großen Fischergasse. Der genaue Standort der Gastwirtschaft lässt sich nicht ermitteln, die Aufnahme vermittelt einen Eindruck der Großen Fischergasse, Foto: HMF, Uwe Dettmar*
 

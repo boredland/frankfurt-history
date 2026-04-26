@@ -16,8 +16,8 @@ filters:
 
 Reiffensteins Frankfurt<br />(1820-1893)
 
-![<p>Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Turm Nr. 4, 1877, aquarellierte Bleistiftzeichnung, HMF RS0201</p>](../../images/fc04ca22aa4395be92222688b4448854_original.jpg)
-*1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Turm Nr. 4, 1877, aquarellierte Bleistiftzeichnung, HMF RS0201</p>*
+![Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Turm Nr. 4, 1877, aquarellierte Bleistiftzeichnung, HMF RS0201](../../images/fc04ca22aa4395be92222688b4448854_original.jpg)
+*1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Turm Nr. 4, 1877, aquarellierte Bleistiftzeichnung, HMF RS0201*
 
 Eines der städtischen Holzlager befand sich in Sachsenhausen am südlichen Mainufer. Es lag innerhalb der Stadtbefestigung und grenzte nördlich an das Holzlager des Forstamts. Früher von Bleichgärten umgeben, verläuft hier heute das Straßendreieck Deutschherrnufer / Seehofstraße / Wasserweg.
 
@@ -29,20 +29,20 @@ Reiffenstein zeichnete auch den östlichsten Punkt der Stadtmauer, das Rondell a
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Turm Nr. 4, 1877, aquarellierte Bleistiftzeichnung, HMF RS0201</p>](../../images/RS0201_png_e95693ab39660d4ba61713970fc17825_original.jpg)
-*1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Turm Nr. 4, 1877, aquarellierte Bleistiftzeichnung, HMF RS0201</p>*
+![Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Turm Nr. 4, 1877, aquarellierte Bleistiftzeichnung, HMF RS0201](../../images/RS0201_png_e95693ab39660d4ba61713970fc17825_original.jpg)
+*1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Turm Nr. 4, 1877, aquarellierte Bleistiftzeichnung, HMF RS0201*
 
-![<p>Carl Theodor Reiffenstein, Turm Nr. 4 am Holzmagazin in Sachsenhausen, äußere Ansicht, 1877, aquarellierte Bleistiftzeichnung, HMF RS0203</p>](../../images/RS0203_png_7b3437670bb966347a04fab2946658fa_original.jpg)
-*1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Turm Nr. 4 am Holzmagazin in Sachsenhausen, äußere Ansicht, 1877, aquarellierte Bleistiftzeichnung, HMF RS0203</p>*
+![Carl Theodor Reiffenstein, Turm Nr. 4 am Holzmagazin in Sachsenhausen, äußere Ansicht, 1877, aquarellierte Bleistiftzeichnung, HMF RS0203](../../images/RS0203_png_7b3437670bb966347a04fab2946658fa_original.jpg)
+*1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Turm Nr. 4 am Holzmagazin in Sachsenhausen, äußere Ansicht, 1877, aquarellierte Bleistiftzeichnung, HMF RS0203*
 
-![<p>Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Turm Nr. 4, Küche im 2. Stock, 1850/1877, aquarellierte Bleistiftzeichnung, HMF RS0190</p>](../../images/RS0190_png_2a240736a4e40362032da69095fa7fcc_original.jpg)
-*1850/1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Turm Nr. 4, Küche im 2. Stock, 1850/1877, aquarellierte Bleistiftzeichnung, HMF RS0190</p>*
+![Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Turm Nr. 4, Küche im 2. Stock, 1850/1877, aquarellierte Bleistiftzeichnung, HMF RS0190](../../images/RS0190_png_2a240736a4e40362032da69095fa7fcc_original.jpg)
+*1850/1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Turm Nr. 4, Küche im 2. Stock, 1850/1877, aquarellierte Bleistiftzeichnung, HMF RS0190*
 
-![<p>Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Rondell, 1878 /1879, aquarellierte Bleistiftzeichnung, HMF RS0214</p>](../../images/RS0214_png_75bcbb583d6a245ad966ab1f5d74aeac_original.jpg)
-*1878/1879 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Rondell, 1878 /1879, aquarellierte Bleistiftzeichnung, HMF RS0214</p>*
+![Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Rondell, 1878 /1879, aquarellierte Bleistiftzeichnung, HMF RS0214](../../images/RS0214_png_75bcbb583d6a245ad966ab1f5d74aeac_original.jpg)
+*1878/1879 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Holzmagazin in Sachsenhausen, Rondell, 1878 /1879, aquarellierte Bleistiftzeichnung, HMF RS0214*
 
-![<p>Carl Theodor Reiffenstein, Verdeckte Scharte am Holzmagazin, 1878/1879, aquarellierte Bleistiftzeichnung, HMF RS0215</p>](../../images/RS0215_png_c51bffd050c4c04c9670a1f28af10e75_original.jpg)
-*1878/1879 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Verdeckte Scharte am Holzmagazin, 1878/1879, aquarellierte Bleistiftzeichnung, HMF RS0215</p>*
+![Carl Theodor Reiffenstein, Verdeckte Scharte am Holzmagazin, 1878/1879, aquarellierte Bleistiftzeichnung, HMF RS0215](../../images/RS0215_png_c51bffd050c4c04c9670a1f28af10e75_original.jpg)
+*1878/1879 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Verdeckte Scharte am Holzmagazin, 1878/1879, aquarellierte Bleistiftzeichnung, HMF RS0215*
 
 
 ## Links

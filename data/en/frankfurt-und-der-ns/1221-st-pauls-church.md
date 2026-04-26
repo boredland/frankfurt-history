@@ -12,13 +12,13 @@ filters:
 
 *Paulsplatz 11*
 
-![<span class="tab2">Photo of Paulskirche (St. Paul's Church)</span>](../../images/826adf6555b4d4644251267a987e6c3c_original.jpg)
-*n.D. — Author: unbekannt | License: HMF Ph04282 | Description: <span class="tab2">Photo of Paulskirche (St. Paul's Church)</span>*
+![Photo of Paulskirche (St. Paul's Church)](../../images/826adf6555b4d4644251267a987e6c3c_original.jpg)
+*n.D. — Author: unbekannt | License: HMF Ph04282 | Description: Photo of Paulskirche (St. Paul's Church)*
 
 Here you will find different perspectives on the place.
 
 ## Gallery
 
-![<span class="tab2">Photo of Paulskirche (St. Paul's Church)</span>](../../images/826adf6555b4d4644251267a987e6c3c_original.jpg)
-*n.D. — Author: unbekannt | License: HMF Ph04282 | Description: <span class="tab2">Photo of Paulskirche (St. Paul's Church)</span>*
+![Photo of Paulskirche (St. Paul's Church)](../../images/826adf6555b4d4644251267a987e6c3c_original.jpg)
+*n.D. — Author: unbekannt | License: HMF Ph04282 | Description: Photo of Paulskirche (St. Paul's Church)*
 

@@ -33,7 +33,7 @@ Between October 1941 and September 1942, the Secret State Police (Gestapo) rente
 
 ## Video
 
-  *Description: <p>Here you can find an oral testimony by Liselotte Günzler, whose mother and brother were deported from the Grossmarkthalle.</p>*
+  *Description: Here you can find an oral testimony by Liselotte Günzler, whose mother and brother were deported from the Grossmarkthalle.*
 
 ## Links
 

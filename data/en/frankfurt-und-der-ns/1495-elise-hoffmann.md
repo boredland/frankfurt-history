@@ -14,8 +14,8 @@ filters:
 
 <p>- deported from the retirement home and murdered</p>
 
-![<p> Elise Hofmann, ca. 1941</p>](../../images/f356ee6edffff25885cd09696c1efa0c_original.jpg)
-*ca.1941 — Author: unbekannt | License: Karin Levi | Description: <p> Elise Hofmann, ca. 1941</p>*
+![Elise Hofmann, ca. 1941](../../images/f356ee6edffff25885cd09696c1efa0c_original.jpg)
+*ca.1941 — Author: unbekannt | License: Karin Levi | Description: Elise Hofmann, ca. 1941*
 
 In 1930, Elise Hofmann was one of the first residents to move into the newly built retirement home of the Henry and Emma Budge Foundation at Hansaallee 146. In 1939, the home was "Aryanized" and renamed "Heim am Dornbusch". The last Jewish residents living there were expelled in March of that year.
 
@@ -29,11 +29,11 @@ A "Stolperstein" commemorates Elise Hofmann.
 
 ## Gallery
 
-![<p> Elise Hofmann, ca. 1941</p>](../../images/Elisa Hofm_5b186489a3be59cdf441fb4c39090d61_original.jpg)
-*ca. 1941 — Author: unbekannt | License: Karin Levi | Description: <p> Elise Hofmann, ca. 1941</p>*
+![Elise Hofmann, ca. 1941](../../images/Elisa Hofm_5b186489a3be59cdf441fb4c39090d61_original.jpg)
+*ca. 1941 — Author: unbekannt | License: Karin Levi | Description: Elise Hofmann, ca. 1941*
 
-![<p>Elise Hofmann with her daughter Gertrude ,1902</p>](../../images/Elise Hofm_e1790d9cbcf8dc801d88f4ef81b97747_original.jpg)
-*1902 — Author: unbekannt | License: Karin Levi | Description: <p>Elise Hofmann with her daughter Gertrude ,1902</p>*
+![Elise Hofmann with her daughter Gertrude ,1902](../../images/Elise Hofm_e1790d9cbcf8dc801d88f4ef81b97747_original.jpg)
+*1902 — Author: unbekannt | License: Karin Levi | Description: Elise Hofmann with her daughter Gertrude ,1902*
 
 
 ## Links

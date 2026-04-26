@@ -14,13 +14,13 @@ filters:
 
 *Rebstöcker Straße 57-59*
 
-![<p>Philipp Hufnagel, Ansicht des Fabrikgebäudes an der Rebstöcker Straße 57-59, 1914, Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 7560</p>](../../images/6998f38b28e846896ffd796eabcf28bb_original.jpg)
-*Description: <p>Philipp Hufnagel, Ansicht des Fabrikgebäudes an der Rebstöcker Straße 57-59, 1914, Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 7560</p>*
+![Philipp Hufnagel, Ansicht des Fabrikgebäudes an der Rebstöcker Straße 57-59, 1914, Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 7560](../../images/6998f38b28e846896ffd796eabcf28bb_original.jpg)
+*Description: Philipp Hufnagel, Ansicht des Fabrikgebäudes an der Rebstöcker Straße 57-59, 1914, Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 7560*
 
 The company Frankfurter Karosserie- und Fahrzeug-Werke Friedrich Schmitt & Co. operated a forced labor camp at Rebstöcker Straße 57-59.
 
 ## Gallery
 
-![<p>Philipp Hufnagel, Ansicht des Fabrikgebäudes an der Rebstöcker Straße 57-59, 1914, Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 7560</p>](../../images/6998f38b28e846896ffd796eabcf28bb_original.jpg)
-*Description: <p>Philipp Hufnagel, Ansicht des Fabrikgebäudes an der Rebstöcker Straße 57-59, 1914, Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 7560</p>*
+![Philipp Hufnagel, Ansicht des Fabrikgebäudes an der Rebstöcker Straße 57-59, 1914, Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 7560](../../images/6998f38b28e846896ffd796eabcf28bb_original.jpg)
+*Description: Philipp Hufnagel, Ansicht des Fabrikgebäudes an der Rebstöcker Straße 57-59, 1914, Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 7560*
 

@@ -10,8 +10,8 @@ filters:
 
 # Schleifergasse 5
 
-![<p>Foto: Denkmalamt Stadt Frankfurt</p>](../../images/94594fbeb812fc964c5eea7c612d8bf2_original.jpg)
-*Author: Denkmalamt Stadt Frankfurt | Description: <p>Foto: Denkmalamt Stadt Frankfurt</p>*
+![Foto: Denkmalamt Stadt Frankfurt](../../images/94594fbeb812fc964c5eea7c612d8bf2_original.jpg)
+*Author: Denkmalamt Stadt Frankfurt | Description: Foto: Denkmalamt Stadt Frankfurt*
 
 Hier findest du verschiedene Perspektiven auf den Ort.
 

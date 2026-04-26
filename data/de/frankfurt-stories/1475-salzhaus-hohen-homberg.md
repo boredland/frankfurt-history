@@ -28,11 +28,11 @@ Auf Reiffensteins Zeichnung sind ein verziertes Erdgeschoss aus rotem Sandstein 
 
 ## Gallery
 
-![<p>Carl Theodor Reiffenstein, Salzhaus, Römerberg Nr. 27, Ecke Wedelgasse, Frontansicht, 1856, aquarellierte Bleistiftzeichnung, HMF R0649</p>](../../images/R0649_png_dbced5522176299b9a12fb53e35bf455_original.jpg)
-*1856 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Salzhaus, Römerberg Nr. 27, Ecke Wedelgasse, Frontansicht, 1856, aquarellierte Bleistiftzeichnung, HMF R0649</p>*
+![Carl Theodor Reiffenstein, Salzhaus, Römerberg Nr. 27, Ecke Wedelgasse, Frontansicht, 1856, aquarellierte Bleistiftzeichnung, HMF R0649](../../images/R0649_png_dbced5522176299b9a12fb53e35bf455_original.jpg)
+*1856 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Salzhaus, Römerberg Nr. 27, Ecke Wedelgasse, Frontansicht, 1856, aquarellierte Bleistiftzeichnung, HMF R0649*
 
-![<p>Carl Theodor Reiffenstein, Salzhaus neben dem Römer, Römerberg Nr. 27, Eisengitter, 1857, aquarellierte Bleistiftzeichnung, HMF R0637</p>](../../images/R0637_png_32a854a4bc7b280f2f4cb95055fea344_original.jpg)
-*1857 — Author: Carl Theodor Reiffenstein | License: HMF | Description: <p>Carl Theodor Reiffenstein, Salzhaus neben dem Römer, Römerberg Nr. 27, Eisengitter, 1857, aquarellierte Bleistiftzeichnung, HMF R0637</p>*
+![Carl Theodor Reiffenstein, Salzhaus neben dem Römer, Römerberg Nr. 27, Eisengitter, 1857, aquarellierte Bleistiftzeichnung, HMF R0637](../../images/R0637_png_32a854a4bc7b280f2f4cb95055fea344_original.jpg)
+*1857 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Salzhaus neben dem Römer, Römerberg Nr. 27, Eisengitter, 1857, aquarellierte Bleistiftzeichnung, HMF R0637*
 
 
 ## Links

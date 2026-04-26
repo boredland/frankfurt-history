@@ -14,8 +14,8 @@ filters:
 
 *An der Hauptwache 7*
 
-![<p>Foto des Schillerplatz mit dem "Pariser Hof" im Hintergund</p>](../../images/432fb7708bf70c6cc5fe93002d4c75f7_original.jpg)
-*1879 — Author: Carl Friedrich Mylius | License: HMF C27048 | Description: <p>Foto des Schillerplatz mit dem "Pariser Hof" im Hintergund</p>*
+![Foto des Schillerplatz mit dem "Pariser Hof" im Hintergund](../../images/432fb7708bf70c6cc5fe93002d4c75f7_original.jpg)
+*1879 — Author: Carl Friedrich Mylius | License: HMF C27048 | Description: Foto des Schillerplatz mit dem "Pariser Hof" im Hintergund*
 
 Aus dem „Casino“ spaltete sich am 21. Dezember 1848 der „Pariser Hof“ als Gruppe großdeutsch gesinnter Mitglieder ab. Sie verfolgten eine stärker liberal-konservative Programmatik. Dies beinhaltete einen föderalistischen Ansatz ohne starke Zentralgewalt und die Absicht, die Reichsverfassung individuell mit den Einzelstaaten zu vereinbaren.
 
@@ -27,6 +27,6 @@ Der Gasthof am damaligen Schillerplatz (heute An der Hauptwache) existierte zwis
 
 ## Gallery
 
-![<p>Foto des Schillerplatz mit dem "Pariser Hof" im Hintergund</p>](../../images/09 Pariser_d523a98ce11a63541b7a91cabd3b6372_original.jpg)
-*1879 — Author: Carl Friedrich Mylius | License: HMF C27048 | Description: <p>Foto des Schillerplatz mit dem "Pariser Hof" im Hintergund</p>*
+![Foto des Schillerplatz mit dem "Pariser Hof" im Hintergund](../../images/09 Pariser_d523a98ce11a63541b7a91cabd3b6372_original.jpg)
+*1879 — Author: Carl Friedrich Mylius | License: HMF C27048 | Description: Foto des Schillerplatz mit dem "Pariser Hof" im Hintergund*
 

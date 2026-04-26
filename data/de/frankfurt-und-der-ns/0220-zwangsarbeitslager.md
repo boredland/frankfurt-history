@@ -14,13 +14,13 @@ filters:
 
 *Gutleutstraße 296*
 
-![<p>Zwangsarbeitslager</p>](../../images/bdff1c515bbc7134ae1e942757aedfe9_original.jpg)
-*1910 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29073 | Description: <p>Zwangsarbeitslager</p>*
+![Zwangsarbeitslager](../../images/bdff1c515bbc7134ae1e942757aedfe9_original.jpg)
+*1910 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29073 | Description: Zwangsarbeitslager*
 
 Die V.I.B. Apparatebau GmbH betrieb in der Gutleutstraße 296 ein Lager für Zivilarbeiter.
 
 ## Gallery
 
-![<p>Zwangsarbeitslager</p>](../../images/bdff1c515bbc7134ae1e942757aedfe9_original.jpg)
-*1910 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29073 | Description: <p>Zwangsarbeitslager</p>*
+![Zwangsarbeitslager](../../images/bdff1c515bbc7134ae1e942757aedfe9_original.jpg)
+*1910 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29073 | Description: Zwangsarbeitslager*
 

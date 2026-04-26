@@ -24,8 +24,8 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
-![<p>Stolperstein für Rudolf Reinhardt</p>](../../images/Rudolf Rei_70b73b69eb6b5f5c405a8403a677305d_original.jpg)
-*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: <p>Stolperstein für Rudolf Reinhardt</p>*
+![Stolperstein für Rudolf Reinhardt](../../images/Rudolf Rei_70b73b69eb6b5f5c405a8403a677305d_original.jpg)
+*License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein für Rudolf Reinhardt*
 
 
 ## Links

@@ -14,8 +14,8 @@ filters:
 
 *Video Schultheater-Studio*
 
-![<p>Postkarte "Was geht mich der 8. Mai an?"</p>](../../images/1c5a78f6c04e12a10be9627264e42803_original.jpg)
-*Description: <p>Postkarte "Was geht mich der 8. Mai an?"</p>*
+![Postkarte "Was geht mich der 8. Mai an?"](../../images/1c5a78f6c04e12a10be9627264e42803_original.jpg)
+*Description: Postkarte "Was geht mich der 8. Mai an?"*
 
 The video was created as part of the project "What's May 8 to me? Five senior classes Performing Arts and History of the Carl Schurz and the Tony Sender School were on the road in Frankfurt to document places of persecution, resistance, Jewish life, places of perpetrators and lost places from the time of National Socialism. The project was initiated as part of "Frankfurt and National Socialism. A Memory Platform" and funded by the Foundation Remembrance, Responsibility and Future (EVZ) and the Federal Ministry of Finance (BMF).
 

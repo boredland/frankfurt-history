@@ -14,8 +14,8 @@ filters:
 
 *Dr. Ruth K. Westheimer und die Kindertransporte*
 
-![<p>Gedenktafel von Irma Siegel</p>](../../images/2d09094eb0ea3e53e9824500099eb63d_original.jpg)
-*Description: <p>Gedenktafel von Irma Siegel</p>*
+![Gedenktafel von Irma Siegel](../../images/2d09094eb0ea3e53e9824500099eb63d_original.jpg)
+*Description: Gedenktafel von Irma Siegel*
 
 Die heute in den USA berühmte Sexualtherapeutin Dr. Ruth K. Westheimer wurde am 4. Juni 1928 in Wiesenfeld geboren. Den Großteil ihrer Kindheit verbrachte sie in Frankfurt am Main. Damals hieß sie Karola Ruth Siegel.
  An der Gedenkstätte Börneplatz wird mit 11.908 Namen der Frankfurter Opfer der NS-Vernichtungspolitik gedacht. Sie erinnern gleichzeitig an die im Nationalsozialismus vernichtete Jüdische Gemeinde Frankfurts. 
@@ -23,14 +23,14 @@ Die heute in den USA berühmte Sexualtherapeutin Dr. Ruth K. Westheimer wurde am
 
 ## Gallery
 
-![<p>Gedenktafel von Irma Siegel</p>](../../images/Irma_Siege_536797fde9210e66ac6c1094130d18c0_original.jpg)
-*Description: <p>Gedenktafel von Irma Siegel</p>*
+![Gedenktafel von Irma Siegel](../../images/Irma_Siege_536797fde9210e66ac6c1094130d18c0_original.jpg)
+*Description: Gedenktafel von Irma Siegel*
 
-![<p>Gedenktafel von Selma Siegel</p>](../../images/Selma_Sieg_fbfe6bb815418dd7ce03deb159a76f12_original.jpg)
-*Description: <p>Gedenktafel von Selma Siegel</p>*
+![Gedenktafel von Selma Siegel](../../images/Selma_Sieg_fbfe6bb815418dd7ce03deb159a76f12_original.jpg)
+*Description: Gedenktafel von Selma Siegel*
 
-![<p>Gedenktafel von Julius Siegel</p>](../../images/Julius_Sie_14a53fd4757c028c43a477aedf4338b0_original.jpg)
-*Description: <p>Gedenktafel von Julius Siegel</p>*
+![Gedenktafel von Julius Siegel](../../images/Julius_Sie_14a53fd4757c028c43a477aedf4338b0_original.jpg)
+*Description: Gedenktafel von Julius Siegel*
 
 
 ## Links

@@ -15,8 +15,8 @@ filters:
 
 *Paulsplatz 11*
 
-![<span class="tab2">Photo of Paulskirche (St. Paul's Church)</span>](../../images/826adf6555b4d4644251267a987e6c3c_original.jpg)
-*n.D. — Author: unbekannt | License: HMF Ph04282 | Description: <span class="tab2">Photo of Paulskirche (St. Paul's Church)</span>*
+![Photo of Paulskirche (St. Paul's Church)](../../images/826adf6555b4d4644251267a987e6c3c_original.jpg)
+*n.D. — Author: unbekannt | License: HMF Ph04282 | Description: Photo of Paulskirche (St. Paul's Church)*
 
 The congregation of the Church of St Paul on Wiener Platz (now Paulsplatz) belonged to the Confessing Church, a group within the German Evangelical Church that was critical of National Socialism and opposed the enforced conformity of the German Evangelical Church to Nazi ideology. Karl Veidt, the pastor at St Paul’s, came into conflict with the “German Christians”. The German Evangelical Church leadership threatened to transfer him elsewhere for disciplinary reasons and cut his salary. In 1935 the case was brought before the Frankfurt district court, which found the measures to be unlawful. Veidt was nevertheless subjected to persecution and harassment by the Gestapo. He maintained his critical stance, however: when he was no longer permitted to preach at the Church of St Paul, he conducted a sensational worship service in the Church of St Nicholas on Römerberg Square.
 
@@ -24,6 +24,6 @@ The congregation of the Church of St Paul on Wiener Platz (now Paulsplatz) belon
 
 ## Gallery
 
-![<span class="tab2">Photo of Paulskirche (St. Paul's Church)</span>](../../images/826adf6555b4d4644251267a987e6c3c_original.jpg)
-*n.D. — Author: unbekannt | License: HMF Ph04282 | Description: <span class="tab2">Photo of Paulskirche (St. Paul's Church)</span>*
+![Photo of Paulskirche (St. Paul's Church)](../../images/826adf6555b4d4644251267a987e6c3c_original.jpg)
+*n.D. — Author: unbekannt | License: HMF Ph04282 | Description: Photo of Paulskirche (St. Paul's Church)*
 

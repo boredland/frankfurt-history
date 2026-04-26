@@ -32,10 +32,10 @@ From 1907, it was no longer possible for FSV to play its home games at Prüfling
 ## Gallery
 
 ![Place and development of the playground 1904-1906](../../images/Station 5-_f4f675d8ec45ec06dfdf2293483ca8e7_original.jpg)
-*License: Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.3450, Tiefbauamt;<br />Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.3451, Tiefbauamt | Description: Place and development of the playground 1904-1906*
+*License: Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.3450, Tiefbauamt;Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.3451, Tiefbauamt | Description: Place and development of the playground 1904-1906*
 
 ![Place and development of the playground 1908-1913](../../images/Station 5-_5ca56c9bd2e8217c39b0221a54de1d47_original.jpg)
-*License: Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.7635, Tiefbauamt<br />Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.1282, Tiefbauamt | Description: Place and development of the playground 1908-1913*
+*License: Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.7635, TiefbauamtInstitut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.1282, Tiefbauamt | Description: Place and development of the playground 1908-1913*
 
 
 ## Gallery
@@ -46,8 +46,8 @@ From 1907, it was no longer possible for FSV to play its home games at Prüfling
 
 ## Gallery
 
-![<span class="tab2">The team of FSV Frankfurt plays at the Prüfling</span>](../../images/station 7__ca1bc70c3fd31bdbf0ca8d5039d151cb_original.jpg)
-*License: 100 Jahres Chronik FSV Frankfurt | Description: <span class="tab2">The team of FSV Frankfurt plays at the Prüfling</span>*
+![The team of FSV Frankfurt plays at the Prüfling](../../images/station 7__ca1bc70c3fd31bdbf0ca8d5039d151cb_original.jpg)
+*License: 100 Jahres Chronik FSV Frankfurt | Description: The team of FSV Frankfurt plays at the Prüfling*
 
 
 ## Gallery

@@ -14,8 +14,8 @@ filters:
 
 *Gartenstraße 140*
 
-![<span class="tab2">Photo of the Rhine-Main Labour Office</span>](../../images/e42816f8095a5c5003d92f45d2ae7c76_original.jpg)
-*ca. 1933 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-130 | Description: <span class="tab2">Photo of the Rhine-Main Labour Office</span>*
+![Photo of the Rhine-Main Labour Office](../../images/e42816f8095a5c5003d92f45d2ae7c76_original.jpg)
+*ca. 1933 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-130 | Description: Photo of the Rhine-Main Labour Office*
 
 This was the location of the “University Institute for Hereditary Biology and Racial Hygiene”. Founded in 1935, the Institute was one of the central establishments for disseminating Nazi racial ideology in research, teaching and practice. From 1935 to 1942, it was headed by its founding director Professor Otmar Freiherr von Verschuer (1896-1969). Its pseudo-scientific research sought to confirm and legitimise Nazi racial ideology. In 1936, Gerhart Stein (1910-1979), one of Verschuer’s students, conducted research into the Sinti and Roma to prove the alleged racial dissimilarity between people. Stein also advised the Criminal Police and put forward suggestions for state actions against the Sinti and Roma communities. From 1937, another of Verschuer’s assistants was Josef Mengele. He participated in the genocide at the Auschwitz death camp and in the cruellest medical crimes against humanity. Verschuer and Mengele cooperated until 1945. 
  
@@ -25,6 +25,6 @@ This was the location of the “University Institute for Hereditary Biology and 
 
 ## Gallery
 
-![<span class="tab2">Photo of the Rhine-Main Labour Office</span>](../../images/e42816f8095a5c5003d92f45d2ae7c76_original.jpg)
-*ca. 1933 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-130 | Description: <span class="tab2">Photo of the Rhine-Main Labour Office</span>*
+![Photo of the Rhine-Main Labour Office](../../images/e42816f8095a5c5003d92f45d2ae7c76_original.jpg)
+*ca. 1933 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-130 | Description: Photo of the Rhine-Main Labour Office*
 

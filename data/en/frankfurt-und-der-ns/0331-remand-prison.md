@@ -27,18 +27,18 @@ From 1933 to 1945, the Hammelsgasse remand and court custody prison held six to 
 ![Courtyard of the remand centre/court prison, Hammelsgasse 6-10](../../images/Ph30608_jp_8a188b36527979d4499108f9b37b51f2_original.jpg)
 *1984 — Author: Gisa Hillesheimer | License: HMF, Ph30608 | Description: Courtyard of the remand centre/court prison, Hammelsgasse 6-10*
 
-![<p>View of the courtyard</p>](../../images/Hammelsgas_b215de321727859b935b862938430adb_original.jpg)
-*1984 — Author: Gisa Hillesheimer | Description: <p>View of the courtyard</p>*
+![View of the courtyard](../../images/Hammelsgas_b215de321727859b935b862938430adb_original.jpg)
+*1984 — Author: Gisa Hillesheimer | Description: View of the courtyard*
 
-![<p>Remand centre/court prison, Hammelsgasse 6-10</p>](../../images/Ph30609_jp_3e593e2a6503fc74922e71c7a20baebb_original.jpg)
-*1984 — Author: Gisa Hillesheimer | Description: <p>Remand centre/court prison, Hammelsgasse 6-10</p>*
+![Remand centre/court prison, Hammelsgasse 6-10](../../images/Ph30609_jp_3e593e2a6503fc74922e71c7a20baebb_original.jpg)
+*1984 — Author: Gisa Hillesheimer | Description: Remand centre/court prison, Hammelsgasse 6-10*
 
-![<p>Remand centre/court prison, Hammelsgasse 6-10</p>](../../images/Ph30612_jp_0ec50c0ebbd58121655f2e2e4d0244fe_original.jpg)
-*1984 — Author: Gisa Hillesheimer | License: HMF, Ph30612 | Description: <p>Remand centre/court prison, Hammelsgasse 6-10</p>*
+![Remand centre/court prison, Hammelsgasse 6-10](../../images/Ph30612_jp_0ec50c0ebbd58121655f2e2e4d0244fe_original.jpg)
+*1984 — Author: Gisa Hillesheimer | License: HMF, Ph30612 | Description: Remand centre/court prison, Hammelsgasse 6-10*
 
-![<p>Remand centre/court prison, Hammelsgasse 6-10</p>](../../images/Ph30613_jp_73de6705486767e1edf994f5b4392a06_original.jpg)
-*1984 — Author: Gisa Hillesheimer | License: HMF, Ph30613 | Description: <p>Remand centre/court prison, Hammelsgasse 6-10</p>*
+![Remand centre/court prison, Hammelsgasse 6-10](../../images/Ph30613_jp_73de6705486767e1edf994f5b4392a06_original.jpg)
+*1984 — Author: Gisa Hillesheimer | License: HMF, Ph30613 | Description: Remand centre/court prison, Hammelsgasse 6-10*
 
-![<p>remand centre/court prison, Hammelsgasse 6-10</p>](../../images/Ph30618_jp_62a8fc9352e6b1b522b792d3abb03d57_original.jpg)
-*1984 — Author: Gisa Hillesheimer | License: HMF, Ph30618 | Description: <p>remand centre/court prison, Hammelsgasse 6-10</p>*
+![remand centre/court prison, Hammelsgasse 6-10](../../images/Ph30618_jp_62a8fc9352e6b1b522b792d3abb03d57_original.jpg)
+*1984 — Author: Gisa Hillesheimer | License: HMF, Ph30618 | Description: remand centre/court prison, Hammelsgasse 6-10*
 
