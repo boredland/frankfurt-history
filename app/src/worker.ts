@@ -1,3 +1,5 @@
+import tanstackHandler from "@tanstack/react-start/server-entry";
+
 interface Env {
   ASSETS: R2Bucket;
   IMAGES: Fetcher;
@@ -12,10 +14,10 @@ export default {
     }
 
     if (url.pathname.startsWith("/img/")) {
-      return handleImage(request, env, url);
+      return handleImage(env, url);
     }
 
-    return new Response("Not Found", { status: 404 });
+    return tanstackHandler.fetch(request);
   },
 } satisfies ExportedHandler<Env>;
 
@@ -76,11 +78,7 @@ function parseRange(header: string): R2Range {
   return { offset };
 }
 
-async function handleImage(
-  _request: Request,
-  env: Env,
-  url: URL,
-): Promise<Response> {
+async function handleImage(env: Env, url: URL): Promise<Response> {
   const rest = url.pathname.slice(5);
   const slashIdx = rest.indexOf("/");
   if (slashIdx < 0) return new Response("Bad Request", { status: 400 });
@@ -92,11 +90,9 @@ async function handleImage(
     return new Response("Bad Request", { status: 400 });
   }
 
-  const transformUrl = new URL(
+  return env.IMAGES.fetch(
     `https://images.local/cdn-cgi/image/${params}/${originUrl}`,
   );
-
-  return env.IMAGES.fetch(transformUrl.toString());
 }
 
 function corsHeaders(): Headers {
