@@ -1,5 +1,3 @@
-import { imageUrl } from "./imageUrl";
-
 export interface ImageRef {
   src: string;
   alt: string;

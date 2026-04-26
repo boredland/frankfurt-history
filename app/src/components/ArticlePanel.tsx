@@ -5,7 +5,6 @@ import { useNavigation } from "~/lib/NavigationContext";
 import {
   type ArticleSection,
   type ImageRef,
-  type ParsedArticle,
   parseArticleBody,
 } from "~/lib/parseArticle";
 import { BeforeAfterSlider } from "./BeforeAfterSlider";
