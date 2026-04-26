@@ -2,26 +2,36 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import Map, {
   Layer,
   type MapLayerMouseEvent,
-  type MapRef,
   Source,
   type ViewStateChangeEvent,
 } from "react-map-gl/maplibre";
 import { useNavigate } from "@tanstack/react-router";
 import { themeColor, type Theme } from "~/lib/themes";
+import { LayerPicker } from "./LayerPicker";
 
 const FRANKFURT_CENTER = { lng: 8.68, lat: 50.11 };
 const DEFAULT_ZOOM = 13;
 
-const BASEMAP_STYLE = "https://basemaps.cartocdn.com/gl/positron-gl-style/style.json";
+const BASEMAP_STYLE =
+  "https://basemaps.cartocdn.com/gl/positron-gl-style/style.json";
 
 interface MapViewProps {
   lat?: number;
   lng?: number;
   zoom?: number;
   lang: string;
+  activeLayers: Set<number>;
+  onToggleLayer: (themeId: number) => void;
 }
 
-export function MapView({ lat, lng, zoom, lang }: MapViewProps) {
+export function MapView({
+  lat,
+  lng,
+  zoom,
+  lang,
+  activeLayers,
+  onToggleLayer,
+}: MapViewProps) {
   const navigate = useNavigate();
   const [themes, setThemes] = useState<Theme[]>([]);
 
@@ -78,9 +88,14 @@ export function MapView({ lat, lng, zoom, lang }: MapViewProps) {
     [navigate],
   );
 
+  const visibleThemes = useMemo(
+    () => themes.filter((t) => activeLayers.has(t.id)),
+    [themes, activeLayers],
+  );
+
   const interactiveLayerIds = useMemo(
-    () => themes.map((t) => `poi-${t.slug}`),
-    [themes],
+    () => visibleThemes.map((t) => `poi-${t.slug}`),
+    [visibleThemes],
   );
 
   return (
@@ -93,9 +108,14 @@ export function MapView({ lat, lng, zoom, lang }: MapViewProps) {
       style={{ width: "100%", height: "100%" }}
       cursor="auto"
     >
-      {themes.map((theme) => (
+      {visibleThemes.map((theme) => (
         <ThemeLayer key={theme.slug} theme={theme} />
       ))}
+      <LayerPicker
+        themes={themes}
+        activeLayers={activeLayers}
+        onToggle={onToggleLayer}
+      />
     </Map>
   );
 }

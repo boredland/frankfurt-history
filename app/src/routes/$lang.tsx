@@ -1,6 +1,8 @@
-import { Outlet, createFileRoute, useRouter } from "@tanstack/react-router";
+import { useCallback, useEffect, useMemo, useState } from "react";
+import { Outlet, createFileRoute, useNavigate, useRouter } from "@tanstack/react-router";
 import { z } from "zod";
 import { MapView } from "~/components/MapView";
+import type { Theme } from "~/lib/themes";
 
 const mapSearchSchema = z.object({
   layers: z.string().optional(),
@@ -23,6 +25,21 @@ export const Route = createFileRoute("/$lang")({
   validateSearch: mapSearchSchema,
   component: LangLayout,
 });
+
+function parseLayersParam(param: string | undefined): Set<number> | null {
+  if (!param) return null;
+  const ids = param
+    .split(",")
+    .map((s) => parseInt(s, 10))
+    .filter((n) => !isNaN(n));
+  return ids.length > 0 ? new Set(ids) : null;
+}
+
+function serializeLayers(active: Set<number>, allIds: number[]): string | undefined {
+  if (active.size === allIds.length) return undefined;
+  if (active.size === 0) return "none";
+  return [...active].sort((a, b) => a - b).join(",");
+}
 
 function LanguageToggle({ lang }: { lang: string }) {
   const router = useRouter();
@@ -55,6 +72,41 @@ function LanguageToggle({ lang }: { lang: string }) {
 function LangLayout() {
   const { lang } = Route.useParams();
   const search = Route.useSearch();
+  const navigate = useNavigate();
+
+  const [allThemeIds, setAllThemeIds] = useState<number[]>([]);
+  const layersFromUrl = useMemo(() => parseLayersParam(search.layers), [search.layers]);
+
+  useEffect(() => {
+    fetch("/data/themes.json")
+      .then((r) => r.json())
+      .then((themes: Theme[]) => setAllThemeIds(themes.map((t) => t.id)))
+      .catch(console.error);
+  }, []);
+
+  const activeLayers = useMemo(() => {
+    if (layersFromUrl) return layersFromUrl;
+    return new Set(allThemeIds);
+  }, [layersFromUrl, allThemeIds]);
+
+  const handleToggleLayer = useCallback(
+    (themeId: number) => {
+      const next = new Set(activeLayers);
+      if (next.has(themeId)) {
+        next.delete(themeId);
+      } else {
+        next.add(themeId);
+      }
+      navigate({
+        search: (prev) => ({
+          ...prev,
+          layers: serializeLayers(next, allThemeIds),
+        }),
+        replace: true,
+      });
+    },
+    [activeLayers, allThemeIds, navigate],
+  );
 
   return (
     <div className="h-full flex flex-col">
@@ -70,6 +122,8 @@ function LangLayout() {
           lng={search.lng}
           zoom={search.z}
           lang={lang}
+          activeLayers={activeLayers}
+          onToggleLayer={handleToggleLayer}
         />
         <Outlet />
       </div>
