@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
 """Sync images from the Frankfurt History API to Cloudflare R2.
 
-For each image referenced in the markdown files:
+Reads data/images.json (written by archive.py) which maps each image
+filename to its source API URL. For each entry:
 1. HEAD the R2 public URL — skip if already there
-2. Download from the API
+2. Download from the source URL
 3. Upload to R2 via wrangler
 
-Requires: wrangler CLI authenticated.
+Requires: wrangler CLI authenticated, data/images.json from archive.py.
 """
 
 import concurrent.futures
+import json
 import os
-import re
 import subprocess
 import sys
 import tempfile
@@ -22,30 +23,20 @@ import httpx
 
 sys.stdout.reconfigure(line_buffering=True)
 
-API_BASE = "https://api.frankfurthistory.app"
 R2_BUCKET = "frankfurt-history-assets"
 R2_PUBLIC_URL = os.environ.get(
     "R2_PUBLIC_URL", "https://pub-d6ff75a2458a49e5b81457a2e7841032.r2.dev"
 )
-DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+MANIFEST_PATH = Path(__file__).resolve().parent.parent / "data" / "images.json"
 WORKERS = int(os.environ.get("SYNC_WORKERS", "8"))
 RETRY_ATTEMPTS = 3
 RETRY_DELAY = 2
 
 
-def find_image_refs() -> set[str]:
-    refs = set()
-    ref_pattern = re.compile(r"\.\.\/images\/([^\)\]\"\x27\n]+)")
-    for md in DATA_DIR.rglob("*.md"):
-        refs.update(ref_pattern.findall(md.read_text()))
-    return refs
-
-
-def sync_one(filename: str) -> str:
-    """Check R2, download from API if missing, upload to R2. Returns 'ok', 'skip', or 'fail'."""
+def sync_one(filename: str, source_url: str) -> str:
+    """Check R2, download from source if missing, upload to R2. Returns 'ok', 'skip', or 'fail'."""
     key = f"images/{filename}"
     r2_url = f"{R2_PUBLIC_URL}/{key}"
-    api_url = f"{API_BASE}/storage/images/{filename}"
 
     try:
         head = httpx.head(r2_url, timeout=10, follow_redirects=True)
@@ -63,7 +54,7 @@ def sync_one(filename: str) -> str:
         client = httpx.Client(timeout=60, follow_redirects=True)
         for attempt in range(RETRY_ATTEMPTS):
             try:
-                resp = client.get(api_url)
+                resp = client.get(source_url)
                 resp.raise_for_status()
                 tmp_path.write_bytes(resp.content)
                 break
@@ -94,21 +85,28 @@ def sync_one(filename: str) -> str:
 
 
 def main():
-    refs = find_image_refs()
-    print(f"Found {len(refs)} unique image references")
+    if not MANIFEST_PATH.exists():
+        print(f"No manifest at {MANIFEST_PATH} — run archive.py first.")
+        sys.exit(1)
 
-    if not refs:
-        print("No images to sync.")
+    manifest: dict[str, str] = json.loads(MANIFEST_PATH.read_text())
+    print(f"Manifest: {len(manifest)} images")
+
+    if not manifest:
+        print("Nothing to sync.")
         return
 
     ok = 0
     skip = 0
     fail = 0
-    total = len(refs)
+    total = len(manifest)
     t0 = time.time()
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
-        futures = {pool.submit(sync_one, f): f for f in sorted(refs)}
+        futures = {
+            pool.submit(sync_one, filename, source_url): filename
+            for filename, source_url in sorted(manifest.items())
+        }
         for i, future in enumerate(concurrent.futures.as_completed(futures)):
             result = future.result()
             if result == "ok":

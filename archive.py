@@ -2,14 +2,17 @@
 """Archive Frankfurt History app content (texts, images, metadata) from its API."""
 
 import html
+import json
 import os
 import re
 import time
 from pathlib import Path
-from urllib.parse import unquote, urlparse
 
 import httpx
 from bs4 import BeautifulSoup
+
+# filename → source API URL, written to data/images.json at the end
+IMAGE_MANIFEST: dict[str, str] = {}
 
 API_BASE = "https://api.frankfurthistory.app"
 AUTH_PARAMS = {
@@ -50,9 +53,11 @@ def api_get(client: httpx.Client, path: str) -> dict:
 def image_local_path(url: str) -> str | None:
     if not url:
         return None
-    parsed = urlparse(unquote(url))
-    name = Path(parsed.path).name
-    return f"images/{name}" if name else None
+    path = url.split("?")[0].split("#")[0]
+    name = path.rsplit("/", 1)[-1]
+    if not name:
+        return None
+    return f"images/{name}"
 
 
 def best_image_url(img_data, prefer: str = IMAGE_SIZE) -> str | None:
@@ -114,6 +119,9 @@ def image_markdown(img_data, prefix: str = "", depth: int = 1) -> str:
     if not url:
         return ""
     local = image_local_path(url)
+    if local:
+        filename = local.removeprefix("images/")
+        IMAGE_MANIFEST[filename] = url
     meta = img_data.get("metadata")
     alt = ""
     if meta and isinstance(meta, dict):
@@ -388,9 +396,16 @@ def main():
         print(f"[{lang}] Archiving...")
         archive_language(client, lang, themes)
 
+    # Write image manifest: filename → source URL
+    manifest_path = OUT_DIR / "images.json"
+    manifest_path.write_text(
+        json.dumps(IMAGE_MANIFEST, indent=2, ensure_ascii=False) + "\n"
+    )
+
     print(f"\n--- Summary ---")
     print(f"Languages: {', '.join(LANGUAGES)}")
     print(f"Themes: {len(themes)}")
+    print(f"Images: {len(IMAGE_MANIFEST)} unique")
     print("Done.")
     client.close()
 
