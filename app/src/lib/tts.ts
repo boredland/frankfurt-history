@@ -5,6 +5,7 @@ let listeners: TTSListener[] = [];
 let currentState: TTSState = "idle";
 let currentAudio: HTMLAudioElement | null = null;
 let piperAvailable: boolean | null = null;
+let piperEngine: unknown = null;
 
 function notify(state: TTSState) {
   currentState = state;
@@ -42,15 +43,25 @@ function shouldUsePiper(lang: string): boolean {
   return true;
 }
 
+interface PiperResponse {
+  file: Blob;
+}
+
 async function speakWithPiper(text: string, lang: string): Promise<boolean> {
   try {
-    const tts = await import("@mintplex-labs/piper-tts-web");
+    const { PiperWebEngine } = await import("piper-tts-web");
+
+    if (!piperEngine) {
+      piperEngine = new PiperWebEngine();
+    }
+
     const voiceId = PIPER_VOICES[lang] ?? PIPER_VOICES.en;
-    const wav = await tts.predict({
-      text,
-      voiceId,
-    });
+    const response = (await (
+      piperEngine as InstanceType<typeof PiperWebEngine>
+    ).generate(text, voiceId, 0)) as PiperResponse;
+
     piperAvailable = true;
+    const wav = response.file;
 
     if (!wav || wav.size < 1000) {
       piperAvailable = false;
@@ -62,7 +73,6 @@ async function speakWithPiper(text: string, lang: string): Promise<boolean> {
     currentAudio = audio;
 
     return new Promise((resolve) => {
-      let started = false;
       audio.onended = () => {
         URL.revokeObjectURL(url);
         currentAudio = null;
@@ -74,21 +84,9 @@ async function speakWithPiper(text: string, lang: string): Promise<boolean> {
         currentAudio = null;
         resolve(false);
       };
-      audio.ontimeupdate = () => {
-        started = true;
-      };
       audio
         .play()
-        .then(() => {
-          setTimeout(() => {
-            if (!started && audio.paused) {
-              URL.revokeObjectURL(url);
-              currentAudio = null;
-              piperAvailable = false;
-              resolve(false);
-            }
-          }, 2000);
-        })
+        .then(() => resolve(true))
         .catch(() => resolve(false));
     });
   } catch (e) {
