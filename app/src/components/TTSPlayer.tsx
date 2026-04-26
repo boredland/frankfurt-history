@@ -17,10 +17,20 @@ interface TTSPlayerProps {
 export function TTSPlayer({ text, lang }: TTSPlayerProps) {
   const [state, setState] = useState<"idle" | "speaking" | "paused">("idle");
   const [rate, setRate] = useState(1);
+  const [ready, setReady] = useState(false);
 
   useEffect(() => {
     setState(getState());
-    return subscribe((s) => setState(s));
+    const unsub = subscribe((s) => setState(s));
+
+    const voices = speechSynthesis.getVoices();
+    if (voices.length > 0) {
+      setReady(true);
+    } else {
+      speechSynthesis.onvoiceschanged = () => setReady(true);
+    }
+
+    return unsub;
   }, []);
 
   useEffect(() => {
@@ -51,7 +61,7 @@ export function TTSPlayer({ text, lang }: TTSPlayerProps) {
     [state, text, lang],
   );
 
-  if (!isSupported()) return null;
+  if (!isSupported() || !ready) return null;
 
   return (
     <div className="flex items-center gap-2 px-4 py-2 border-t border-sepia-light bg-paper/80 backdrop-blur-sm">
