@@ -1,5 +1,5 @@
 interface Env {
-  ASSETS: R2Bucket;
+  R2_BUCKET: R2Bucket;
 }
 
 export default {
@@ -14,6 +14,7 @@ export default {
       return handleImage(request, url);
     }
 
+    // Static assets and SPA fallback handled by Workers assets binding
     return new Response("Not Found", { status: 404 });
   },
 } satisfies ExportedHandler<Env>;
@@ -29,10 +30,10 @@ async function handleR2(
 
   const rangeHeader = request.headers.get("Range");
   const object = rangeHeader
-    ? await env.ASSETS.get(key, {
+    ? await env.R2_BUCKET.get(key, {
         range: parseRange(rangeHeader),
       })
-    : await env.ASSETS.get(key);
+    : await env.R2_BUCKET.get(key);
 
   if (!object) {
     return new Response("Not Found", { status: 404 });

@@ -8,7 +8,7 @@
   },
   "r2_buckets": [
     {
-      "binding": "ASSETS",
+      "binding": "R2_BUCKET",
       "bucket_name": "frankfurt-history-assets"
     }
   ]
