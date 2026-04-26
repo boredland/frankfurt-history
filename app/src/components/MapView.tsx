@@ -318,51 +318,90 @@ export function MapView({
         <Popup
           longitude={stackPopup.lng}
           latitude={stackPopup.lat}
-          closeButton
+          closeButton={false}
           closeOnClick={false}
-          onClose={() => setStackPopup(null)}
           anchor="bottom"
           offset={16}
-          maxWidth="280px"
+          maxWidth="320px"
           className="stack-popup"
         >
-          <div className="max-h-48 overflow-y-auto -mx-2.5 -my-1.5">
-            {stackPopup.pois.map((poi) => (
+          <div className="-mx-2.5 -my-1.5">
+            <div className="flex items-center justify-between px-3 pt-2.5 pb-1.5">
+              <span className="text-[11px] font-medium text-faded uppercase tracking-wider">
+                {stackPopup.pois.length} {lang === "de" ? "Orte" : "places"}
+              </span>
               <button
-                key={`${poi.theme}-${poi.slug}`}
                 type="button"
-                onClick={() => {
-                  setStackPopup(null);
-                  navigate({
-                    to: "/$lang/$theme/$slug",
-                    params: {
-                      lang: lang as "de" | "en",
-                      theme: poi.theme,
-                      slug: poi.slug,
-                    },
-                    search: (prev: Record<string, unknown>) => prev,
-                  });
-                }}
-                className="w-full flex items-start gap-2 px-2.5 py-1.5 text-left hover:bg-sepia-light/20 cursor-pointer transition-colors"
+                onClick={() => setStackPopup(null)}
+                className="text-faded/60 hover:text-ink cursor-pointer -mr-1 p-0.5"
+                aria-label="Close"
               >
-                <span
-                  className="mt-1 w-2 h-2 rounded-full shrink-0"
-                  style={{
-                    backgroundColor: THEME_COLORS[poi.theme] || "#8B7355",
-                  }}
-                />
-                <div className="min-w-0">
-                  <div className="text-xs font-medium text-ink leading-tight truncate">
-                    {poi.title}
-                  </div>
-                  {poi.subtitle && (
-                    <div className="text-[10px] text-faded truncate">
-                      {poi.subtitle}
-                    </div>
-                  )}
-                </div>
+                <svg
+                  width="12"
+                  height="12"
+                  viewBox="0 0 12 12"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="1.5"
+                  role="img"
+                  aria-label="Close"
+                >
+                  <path d="M3 3l6 6M9 3l-6 6" />
+                </svg>
               </button>
-            ))}
+            </div>
+            <div className="max-h-56 overflow-y-auto px-2 pb-2 space-y-1">
+              {stackPopup.pois.map((poi) => (
+                <button
+                  key={`${poi.theme}-${poi.slug}`}
+                  type="button"
+                  onClick={() => {
+                    setStackPopup(null);
+                    navigate({
+                      to: "/$lang/$theme/$slug",
+                      params: {
+                        lang: lang as "de" | "en",
+                        theme: poi.theme,
+                        slug: poi.slug,
+                      },
+                      search: (prev: Record<string, unknown>) => prev,
+                    });
+                  }}
+                  className="w-full flex items-stretch rounded-lg overflow-hidden bg-paper border border-sepia-light/60 hover:border-sepia hover:shadow-sm cursor-pointer transition-all text-left group"
+                >
+                  <div
+                    className="w-1 shrink-0"
+                    style={{
+                      backgroundColor: THEME_COLORS[poi.theme] || "#8B7355",
+                    }}
+                  />
+                  <div className="min-w-0 px-2.5 py-2">
+                    <div className="text-[13px] font-medium text-ink leading-snug group-hover:text-sepia transition-colors">
+                      {poi.title}
+                    </div>
+                    {poi.subtitle && poi.subtitle !== poi.title && (
+                      <div className="text-[11px] text-faded mt-0.5 leading-tight">
+                        {poi.subtitle}
+                      </div>
+                    )}
+                  </div>
+                  <div className="flex items-center pr-2 shrink-0 text-sepia-light group-hover:text-sepia transition-colors">
+                    <svg
+                      width="14"
+                      height="14"
+                      viewBox="0 0 14 14"
+                      fill="none"
+                      stroke="currentColor"
+                      strokeWidth="1.5"
+                      role="img"
+                      aria-label="Open"
+                    >
+                      <path d="M5 3l4 4-4 4" />
+                    </svg>
+                  </div>
+                </button>
+              ))}
+            </div>
           </div>
         </Popup>
       )}
