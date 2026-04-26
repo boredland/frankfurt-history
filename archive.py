@@ -143,7 +143,7 @@ def meta_str(meta: dict | None) -> str:
     return " | ".join(parts)
 
 
-def image_markdown(img_data, prefix: str = "") -> str:
+def image_markdown(img_data, prefix: str = "", depth: int = 1) -> str:
     """Render an image content object as a markdown image reference."""
     if not img_data or not isinstance(img_data, dict):
         return ""
@@ -162,9 +162,10 @@ def image_markdown(img_data, prefix: str = "") -> str:
     m = meta_str(meta)
     if m:
         caption_parts.append(m)
+    up = "../" * depth
     lines = []
     if local:
-        lines.append(f"{prefix}![{alt}](../{local})")
+        lines.append(f"{prefix}![{alt}]({up}{local})")
     if caption_parts:
         lines.append(f"{prefix}*{' — '.join(caption_parts)}*")
     return "\n".join(lines)
@@ -189,7 +190,7 @@ def slugify(text: str) -> str:
     return text[:80].strip("-")
 
 
-def poi_to_markdown(poi: dict) -> str:
+def poi_to_markdown(poi: dict, depth: int = 1) -> str:
     title = (poi.get("title") or "").strip()
     subtitle = (poi.get("subtitle") or "").strip()
     description = (poi.get("description") or "").strip()
@@ -237,7 +238,7 @@ def poi_to_markdown(poi: dict) -> str:
         lines.append(f"\n{description}")
 
     # Thumbnail
-    thumb_md = image_markdown(poi.get("thumbnail"))
+    thumb_md = image_markdown(poi.get("thumbnail"), depth=depth)
     if thumb_md:
         lines.append(f"\n{thumb_md}")
 
@@ -278,7 +279,7 @@ def poi_to_markdown(poi: dict) -> str:
                 label = "Interactive Before & After"
             lines.append(f"\n## {label}\n")
             for img in images:
-                md = image_markdown(img)
+                md = image_markdown(img, depth=depth)
                 if md:
                     lines.append(md)
                     lines.append("")
@@ -341,30 +342,21 @@ def poi_to_markdown(poi: dict) -> str:
     return "\n".join(lines) + "\n"
 
 
-def main():
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
+LANGUAGES = ["de", "en"]
 
-    client = httpx.Client(timeout=60, follow_redirects=True)
 
-    print("Authenticating...")
-    token = get_token(client)
-    client.headers["Authorization"] = f"Bearer {token}"
-
-    print("Fetching themes...")
-    themes_resp = api_get(client, "themes")
-    themes = themes_resp["data"]
-    print(f"Found {len(themes)} themes")
-
+def archive_language(client: httpx.Client, lang: str, themes: list[dict]) -> list[tuple[str, Path]]:
+    """Archive all POIs and tours for one language. Returns image URLs to download."""
+    lang_dir = OUT_DIR / lang
     all_image_urls: list[tuple[str, Path]] = []
     total_pois = 0
 
     for theme in themes:
         tid = theme["id"]
         tslug = slugify(theme["title"])
-        theme_dir = OUT_DIR / tslug
+        theme_dir = lang_dir / tslug
         theme_dir.mkdir(parents=True, exist_ok=True)
 
-        # Theme index
         theme_md = f"""---
 id: {tid}
 title: {yaml_escape(theme['title'])}
@@ -377,17 +369,18 @@ short_title: {yaml_escape(theme.get('shortTitle', ''))}
 """
         (theme_dir / "_index.md").write_text(theme_md)
 
-        print(f"\nFetching POIs for theme {tid}: {theme['title']}...")
+        print(f"  Fetching POIs for theme {tid}: {theme['title']}...")
+        client.headers["Accept-Language"] = lang
         pois_resp = api_get(client, f"themes/{tid}/pois")
         raw_pois = pois_resp["data"]
-        print(f"  {len(raw_pois)} POIs")
+        print(f"    {len(raw_pois)} POIs")
 
         for poi in raw_pois:
             poi_id = poi["id"]
             poi_slug = slugify(poi.get("title") or str(poi_id))
             filename = f"{poi_id:04d}-{poi_slug}.md"
 
-            md = poi_to_markdown(poi)
+            md = poi_to_markdown(poi, depth=2)
             (theme_dir / filename).write_text(md)
 
             for url in collect_image_urls(poi):
@@ -396,9 +389,8 @@ short_title: {yaml_escape(theme.get('shortTitle', ''))}
                     all_image_urls.append((url, OUT_DIR / local))
 
         total_pois += len(raw_pois)
-        print(f"  Wrote {len(raw_pois)} markdown files to {theme_dir}/")
 
-        print(f"  Fetching tours for theme {tid}...")
+        client.headers["Accept-Language"] = lang
         tours_resp = api_get(client, f"themes/{tid}/tours")
         raw_tours = tours_resp["data"]
         if raw_tours:
@@ -417,9 +409,31 @@ short_title: {yaml_escape(theme.get('shortTitle', ''))}
                     tours_lines.append(f"\n{t_desc}")
                 tours_lines.append("")
             (theme_dir / "_tours.md").write_text("\n".join(tours_lines) + "\n")
-            print(f"  {len(raw_tours)} tours")
 
-    # Deduplicate images
+    print(f"  {lang}: {total_pois} POIs total")
+    return all_image_urls
+
+
+def main():
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    client = httpx.Client(timeout=60, follow_redirects=True)
+
+    print("Authenticating...")
+    token = get_token(client)
+    client.headers["Authorization"] = f"Bearer {token}"
+
+    print("Fetching themes...")
+    themes_resp = api_get(client, "themes")
+    themes = themes_resp["data"]
+    print(f"Found {len(themes)} themes\n")
+
+    all_image_urls: list[tuple[str, Path]] = []
+    for lang in LANGUAGES:
+        print(f"[{lang}] Archiving...")
+        urls = archive_language(client, lang, themes)
+        all_image_urls.extend(urls)
+
     unique_images = {}
     for url, dest in all_image_urls:
         key = str(dest)
@@ -427,8 +441,8 @@ short_title: {yaml_escape(theme.get('shortTitle', ''))}
             unique_images[key] = (url, dest)
 
     print(f"\n--- Summary ---")
+    print(f"Languages: {', '.join(LANGUAGES)}")
     print(f"Themes: {len(themes)}")
-    print(f"POIs: {total_pois}")
     print(f"Unique images to download: {len(unique_images)}")
     print(f"\nDownloading images...")
 
