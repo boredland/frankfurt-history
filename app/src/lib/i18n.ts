@@ -40,6 +40,9 @@ const translations = {
   themes: { de: "Themen", en: "Themes" },
   hideAll: { de: "Alle ausblenden", en: "Hide all" },
   showAll: { de: "Alle einblenden", en: "Show all" },
+  beforeAfter: { de: "Vorher & Nachher", en: "Before & After" },
+  timeline: { de: "Zeitleiste", en: "Timeline" },
+  places: { de: "Orte", en: "places" },
 } satisfies Record<string, { de: string; en: string }>;
 
 export type TranslationKey = keyof typeof translations;

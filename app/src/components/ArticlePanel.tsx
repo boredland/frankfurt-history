@@ -8,10 +8,11 @@ import {
   type ImageRef,
   parseArticleBody,
 } from "~/lib/parseArticle";
-import { THEME_COLORS } from "~/lib/themes";
+import { SNAP_TOLERANCE, THEME_SLUGS } from "~/lib/themes";
 import { BeforeAfterSlider } from "./BeforeAfterSlider";
 import { Lightbox } from "./Lightbox";
 import { Navigation } from "./Navigation";
+import { PoiCard } from "./PoiCard";
 import { TTSPlayer } from "./TTSPlayer";
 
 interface ArticlePanelProps {
@@ -107,13 +108,11 @@ function SiblingsAtLocation({
   lat: number;
   lng: number;
 }) {
-  const navigate = useNavigate();
   const search = useSearch({ strict: false }) as { layers?: string };
   const [siblings, setSiblings] = useState<SiblingPoi[]>([]);
 
   useEffect(() => {
-    const TOLERANCE_LAT = 0.00009;
-    const TOLERANCE_LNG = 0.00014;
+    const { lat: TOLERANCE_LAT, lng: TOLERANCE_LNG } = SNAP_TOLERANCE;
 
     // Parse active layer IDs from URL; undefined = all active
     const layersParam = search.layers;
@@ -133,14 +132,7 @@ function SiblingsAtLocation({
       fetch("/data/themes.json")
         .then((r) => r.json() as Promise<{ id: number; slug: string }[]>)
         .catch(() => [] as { id: number; slug: string }[]),
-      ...[
-        "feministisches-frankfurt",
-        "frankfurt-stories",
-        "frankfurt-und-der-ns",
-        "leichte-sprache",
-        "neues-frankfurt",
-        "revolution-1848-49",
-      ].map((s) =>
+      ...THEME_SLUGS.map((s) =>
         fetch(`/data/${s}.geojson`)
           .then((r) => r.json() as Promise<GeoJSON.FeatureCollection>)
           .then((gj) => ({ themeSlug: s, features: gj.features }))
@@ -213,66 +205,15 @@ function SiblingsAtLocation({
       </h3>
       <div className="space-y-1">
         {siblings.map((poi) => (
-          <button
+          <PoiCard
             key={`${poi.theme}-${poi.slug}`}
-            type="button"
-            onClick={() =>
-              navigate({
-                to: "/$lang/$theme/$slug",
-                params: {
-                  lang: lang as "de" | "en",
-                  theme: poi.theme,
-                  slug: poi.slug,
-                },
-                search: (prev: Record<string, unknown>) => prev,
-              })
-            }
-            className="w-full flex items-center gap-2.5 rounded-lg overflow-hidden bg-paper border border-sepia-light/60 hover:border-sepia hover:shadow-sm cursor-pointer transition-all text-left group p-1.5"
-          >
-            {poi.thumb ? (
-              <img
-                src={imageUrl(poi.thumb, "thumbnail")}
-                alt=""
-                className="w-11 h-11 rounded object-cover shrink-0 bg-sepia-light/30"
-              />
-            ) : (
-              <div
-                className="w-11 h-11 rounded shrink-0 flex items-center justify-center"
-                style={{
-                  backgroundColor: `${THEME_COLORS[poi.theme] || "#8B7355"}20`,
-                }}
-              >
-                <span
-                  className="w-3 h-3 rounded-full"
-                  style={{
-                    backgroundColor: THEME_COLORS[poi.theme] || "#8B7355",
-                  }}
-                />
-              </div>
-            )}
-            <div className="min-w-0 flex-1">
-              <div className="text-sm text-ink leading-snug group-hover:text-sepia transition-colors">
-                {poi.title}
-              </div>
-              {poi.subtitle && poi.subtitle !== poi.title && (
-                <div className="text-xs text-faded mt-0.5">{poi.subtitle}</div>
-              )}
-            </div>
-            <div className="flex items-center pr-1 shrink-0 text-sepia-light group-hover:text-sepia transition-colors">
-              <svg
-                width="14"
-                height="14"
-                viewBox="0 0 14 14"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="1.5"
-                role="img"
-                aria-label="Open"
-              >
-                <path d="M5 3l4 4-4 4" />
-              </svg>
-            </div>
-          </button>
+            lang={lang}
+            title={poi.title}
+            subtitle={poi.subtitle}
+            theme={poi.theme}
+            slug={poi.slug}
+            thumb={poi.thumb}
+          />
         ))}
       </div>
     </div>

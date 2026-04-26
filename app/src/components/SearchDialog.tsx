@@ -2,7 +2,7 @@ import { useNavigate } from "@tanstack/react-router";
 import Fuse from "fuse.js";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { t } from "~/lib/i18n";
-import { THEME_COLORS, type Theme } from "~/lib/themes";
+import { THEME_COLORS, THEME_SLUGS, type Theme } from "~/lib/themes";
 
 interface POIEntry {
   title: string;
@@ -35,14 +35,7 @@ export function SearchDialog({ lang, open, onClose }: SearchDialogProps) {
 
     Promise.all([
       fetch("/data/themes.json").then((r) => r.json()) as Promise<Theme[]>,
-      ...[
-        "feministisches-frankfurt",
-        "frankfurt-stories",
-        "frankfurt-und-der-ns",
-        "leichte-sprache",
-        "neues-frankfurt",
-        "revolution-1848-49",
-      ].map((slug) =>
+      ...THEME_SLUGS.map((slug) =>
         fetch(`/data/${slug}.geojson`)
           .then((r) => r.json() as Promise<GeoJSON.FeatureCollection>)
           .then((gj) => ({

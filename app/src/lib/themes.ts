@@ -16,6 +16,20 @@ export interface POIProperties {
   filters?: string[];
 }
 
+export const THEME_SLUGS = [
+  "feministisches-frankfurt",
+  "frankfurt-stories",
+  "frankfurt-und-der-ns",
+  "leichte-sprache",
+  "neues-frankfurt",
+  "revolution-1848-49",
+] as const;
+
+export const SNAP_TOLERANCE = {
+  lat: 0.00009,
+  lng: 0.00014,
+} as const;
+
 export const THEME_COLORS: Record<string, string> = {
   "frankfurt-und-der-ns": "#7A5C3E",
   "revolution-1848-49": "#A0522D",

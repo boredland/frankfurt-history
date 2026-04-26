@@ -58,20 +58,6 @@ export async function speak(text: string, lang: string, rate: number = 1) {
   notify("speaking");
 }
 
-export function pause() {
-  if (currentState === "speaking") {
-    speechSynthesis.pause();
-    notify("paused");
-  }
-}
-
-export function resume() {
-  if (currentState === "paused") {
-    speechSynthesis.resume();
-    notify("speaking");
-  }
-}
-
 export function stop() {
   speechSynthesis.cancel();
   notify("idle");

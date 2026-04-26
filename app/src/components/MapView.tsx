@@ -11,11 +11,11 @@ import MapGL, {
   Source,
   type ViewStateChangeEvent,
 } from "react-map-gl/maplibre";
-import { imageUrl } from "~/lib/imageUrl";
 import { createMapStyle } from "~/lib/mapStyle";
 import { useNavigation } from "~/lib/NavigationContext";
-import { THEME_COLORS, type Theme, themeColor } from "~/lib/themes";
+import { SNAP_TOLERANCE, type Theme, themeColor } from "~/lib/themes";
 import { LayerPicker } from "./LayerPicker";
+import { PoiCard } from "./PoiCard";
 
 if (typeof window !== "undefined") {
   const protocol = new Protocol();
@@ -177,9 +177,7 @@ export function MapView({
       const clickLat = coords[1] ?? 0;
       const clickAddress = (props.address as string) || "";
 
-      // Snap by address match first, fall back to ~10m radius
-      const TOLERANCE_LAT = 0.00009;
-      const TOLERANCE_LNG = 0.00014;
+      const { lat: TOLERANCE_LAT, lng: TOLERANCE_LNG } = SNAP_TOLERANCE;
 
       const nearby = allPois.current.filter((p) => {
         if (!visibleThemeSlugs.has(p.theme)) return false;
@@ -369,69 +367,16 @@ export function MapView({
             </div>
             <div className="max-h-64 overflow-y-auto px-2.5 pb-2.5 space-y-1.5">
               {stackPopup.pois.map((poi) => (
-                <button
+                <PoiCard
                   key={`${poi.theme}-${poi.slug}`}
-                  type="button"
-                  onClick={() => {
-                    setStackPopup(null);
-                    navigate({
-                      to: "/$lang/$theme/$slug",
-                      params: {
-                        lang: lang as "de" | "en",
-                        theme: poi.theme,
-                        slug: poi.slug,
-                      },
-                      search: (prev: Record<string, unknown>) => prev,
-                    });
-                  }}
-                  className="w-full flex items-center gap-2.5 rounded-lg overflow-hidden bg-paper border border-sepia-light/60 hover:border-sepia hover:shadow-sm cursor-pointer transition-all text-left group p-1.5"
-                >
-                  <div className="relative shrink-0">
-                    {poi.thumb ? (
-                      <img
-                        src={imageUrl(poi.thumb, "thumbnail")}
-                        alt=""
-                        className="w-11 h-11 rounded object-cover bg-sepia-light/30"
-                      />
-                    ) : (
-                      <div
-                        className="w-11 h-11 rounded flex items-center justify-center"
-                        style={{
-                          backgroundColor: `${THEME_COLORS[poi.theme] || "#8B7355"}20`,
-                        }}
-                      />
-                    )}
-                    <span
-                      className="absolute -bottom-0.5 -right-0.5 w-3 h-3 rounded-full border-2 border-paper"
-                      style={{
-                        backgroundColor: THEME_COLORS[poi.theme] || "#8B7355",
-                      }}
-                    />
-                  </div>
-                  <div className="min-w-0 flex-1">
-                    <div className="text-[13px] font-medium text-ink leading-snug group-hover:text-sepia transition-colors line-clamp-2">
-                      {poi.title}
-                    </div>
-                    {poi.subtitle && poi.subtitle !== poi.title && (
-                      <div className="text-[11px] text-faded mt-0.5 leading-tight truncate">
-                        {poi.subtitle}
-                      </div>
-                    )}
-                  </div>
-                  <svg
-                    width="14"
-                    height="14"
-                    viewBox="0 0 14 14"
-                    fill="none"
-                    stroke="currentColor"
-                    strokeWidth="1.5"
-                    className="shrink-0 text-sepia-light group-hover:text-sepia transition-colors"
-                    role="img"
-                    aria-label="Open"
-                  >
-                    <path d="M5 3l4 4-4 4" />
-                  </svg>
-                </button>
+                  lang={lang}
+                  title={poi.title}
+                  subtitle={poi.subtitle}
+                  theme={poi.theme}
+                  slug={poi.slug}
+                  thumb={poi.thumb}
+                  onBeforeNavigate={() => setStackPopup(null)}
+                />
               ))}
             </div>
           </div>

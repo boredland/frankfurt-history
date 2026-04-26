@@ -1,7 +1,8 @@
 import { useNavigate } from "@tanstack/react-router";
 import { useCallback, useEffect, useState } from "react";
 import { t } from "~/lib/i18n";
-import { THEME_COLORS } from "~/lib/themes";
+import { formatDistance } from "~/lib/routing";
+import { THEME_COLORS, THEME_SLUGS } from "~/lib/themes";
 
 interface NearbyPOI {
   title: string;
@@ -35,11 +36,6 @@ function haversine(
   return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 }
 
-function formatDist(m: number): string {
-  if (m < 1000) return `${Math.round(m)} m`;
-  return `${(m / 1000).toFixed(1)} km`;
-}
-
 export function NearbyPanel({ lang, open, onClose }: NearbyPanelProps) {
   const navigate = useNavigate();
   const [nearby, setNearby] = useState<NearbyPOI[]>([]);
@@ -60,14 +56,7 @@ export function NearbyPanel({ lang, open, onClose }: NearbyPanelProps) {
     navigator.geolocation.getCurrentPosition(
       async (pos) => {
         const { latitude, longitude } = pos.coords;
-        const geojsonFiles = [
-          "feministisches-frankfurt",
-          "frankfurt-stories",
-          "frankfurt-und-der-ns",
-          "leichte-sprache",
-          "neues-frankfurt",
-          "revolution-1848-49",
-        ];
+        const geojsonFiles = THEME_SLUGS;
 
         const all: NearbyPOI[] = [];
         for (const slug of geojsonFiles) {
@@ -244,7 +233,7 @@ export function NearbyPanel({ lang, open, onClose }: NearbyPanelProps) {
                     )}
                   </div>
                   <span className="text-xs font-medium text-sepia tabular-nums shrink-0">
-                    {formatDist(poi.distance)}
+                    {formatDistance(poi.distance)}
                   </span>
                 </button>
               ))}
