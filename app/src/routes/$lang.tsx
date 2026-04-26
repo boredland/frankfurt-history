@@ -1,6 +1,7 @@
 import {
   createFileRoute,
   Outlet,
+  useMatch,
   useNavigate,
   useRouter,
 } from "@tanstack/react-router";
@@ -84,6 +85,11 @@ function LangLayout() {
   const { lang } = Route.useParams();
   const search = Route.useSearch();
   const navigate = useNavigate();
+  const articleMatch = useMatch({
+    from: "/$lang/$theme/$slug",
+    shouldThrow: false,
+  });
+  const activeSlug = articleMatch?.params?.slug;
 
   const [allThemeIds, setAllThemeIds] = useState<number[]>([]);
   const layersFromUrl = useMemo(
@@ -139,6 +145,7 @@ function LangLayout() {
           lang={lang}
           activeLayers={activeLayers}
           onToggleLayer={handleToggleLayer}
+          activeSlug={activeSlug}
         />
         <Outlet />
       </div>

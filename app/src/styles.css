@@ -84,33 +84,27 @@ body,
   [aria-label="Toggle layers"],
   [aria-label="Share"],
   [aria-label="Print"],
-  [aria-label="Close"] {
+  [aria-label="Close"],
+  [aria-label="Resize panel"] {
     display: none !important;
   }
-  body,
-  #root,
-  #root > div,
-  #root > div > div {
-    height: auto !important;
+  * {
+    position: static !important;
     overflow: visible !important;
-    position: static !important;
-    display: block !important;
-  }
-  .sm\:w-\[420px\] {
-    position: static !important;
-    width: 100% !important;
-    max-width: 100% !important;
     height: auto !important;
+    width: auto !important;
+    max-width: 100% !important;
+  }
+  .print-article {
+    display: block !important;
+    width: 100% !important;
     border: none !important;
     box-shadow: none !important;
-    overflow: visible !important;
-  }
-  .article-body {
-    max-width: 100% !important;
-    padding: 0 !important;
+    animation: none !important;
   }
   .article-body img {
     max-height: 400px;
+    width: auto !important;
     object-fit: contain;
     page-break-inside: avoid;
   }

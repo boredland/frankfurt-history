@@ -22,6 +22,7 @@ interface MapViewProps {
   lang: string;
   activeLayers: Set<number>;
   onToggleLayer: (themeId: number) => void;
+  activeSlug?: string;
 }
 
 export function MapView({
@@ -31,6 +32,7 @@ export function MapView({
   lang,
   activeLayers,
   onToggleLayer,
+  activeSlug,
 }: MapViewProps) {
   const navigate = useNavigate();
   const [themes, setThemes] = useState<Theme[]>([]);
@@ -111,7 +113,7 @@ export function MapView({
       cursor="auto"
     >
       {visibleThemes.map((theme) => (
-        <ThemeLayer key={theme.slug} theme={theme} />
+        <ThemeLayer key={theme.slug} theme={theme} activeSlug={activeSlug} />
       ))}
       <LayerPicker
         themes={themes}
@@ -122,7 +124,13 @@ export function MapView({
   );
 }
 
-function ThemeLayer({ theme }: { theme: Theme }) {
+function ThemeLayer({
+  theme,
+  activeSlug,
+}: {
+  theme: Theme;
+  activeSlug?: string;
+}) {
   const [geojson, setGeojson] = useState<GeoJSON.FeatureCollection | null>(
     null,
   );
@@ -168,10 +176,32 @@ function ThemeLayer({ theme }: { theme: Theme }) {
           "text-color": "#FAF8F5",
         }}
       />
+      {/* Active POI highlight ring */}
+      <Layer
+        id={`poi-active-${theme.slug}`}
+        type="circle"
+        filter={[
+          "all",
+          ["!", ["has", "point_count"]],
+          ["==", ["get", "slug"], activeSlug ?? ""],
+        ]}
+        paint={{
+          "circle-color": "#A0522D",
+          "circle-radius": 10,
+          "circle-stroke-width": 3,
+          "circle-stroke-color": "#FAF8F5",
+          "circle-opacity": 1,
+        }}
+      />
+      {/* Regular POIs */}
       <Layer
         id={`poi-${theme.slug}`}
         type="circle"
-        filter={["!", ["has", "point_count"]]}
+        filter={[
+          "all",
+          ["!", ["has", "point_count"]],
+          ["!=", ["get", "slug"], activeSlug ?? ""],
+        ]}
         paint={{
           "circle-color": color,
           "circle-radius": 6,

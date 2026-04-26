@@ -299,7 +299,7 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
   return (
     <>
       {/* Desktop: side panel */}
-      <div className="hidden sm:flex absolute right-0 top-0 bottom-0 w-[420px] bg-paper border-l border-sepia-light shadow-lg z-20 flex-col overflow-hidden animate-slide-in">
+      <div className="print-article hidden sm:flex absolute right-0 top-0 bottom-0 w-[420px] bg-paper border-l border-sepia-light shadow-lg z-20 flex-col overflow-hidden animate-slide-in">
         {content}
       </div>
 
