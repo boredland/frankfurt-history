@@ -7,6 +7,7 @@
     "dev": "bun run build:data && vite dev",
     "build": "bun run build:data && vite build",
     "start": "vite preview",
+    "deploy": "bun run build && wrangler pages deploy",
     "typecheck": "tsc --noEmit",
     "lint": "biome check src/",
     "lint:fix": "biome check --write src/",
