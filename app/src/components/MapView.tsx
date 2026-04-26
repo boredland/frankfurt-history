@@ -34,6 +34,7 @@ interface MapViewProps {
   lang: string;
   activeLayers: Set<number>;
   onToggleLayer: (themeId: number) => void;
+  onSetLayers: (ids: Set<number>) => void;
   activeSlug?: string;
 }
 
@@ -50,6 +51,7 @@ export function MapView({
   lang,
   activeLayers,
   onToggleLayer,
+  onSetLayers,
   activeSlug,
 }: MapViewProps) {
   const navigate = useNavigate();
@@ -201,6 +203,7 @@ export function MapView({
         themes={themes}
         activeLayers={activeLayers}
         onToggle={onToggleLayer}
+        onSetAll={onSetLayers}
       />
       {routeGeometry && (
         <Source

@@ -48,6 +48,21 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: uv run scripts/sync_images.py
 
+      - name: Extract PMTiles basemap
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          # Check if PMTiles already exists on R2
+          if wrangler r2 object head frankfurt-history-assets frankfurt.pmtiles 2>/dev/null; then
+            echo "PMTiles already on R2, skipping"
+          else
+            curl -sL https://github.com/protomaps/go-pmtiles/releases/latest/download/go-pmtiles_Linux_x86_64.tar.gz | tar xz pmtiles
+            DATE=$(date -u +%Y%m%d)
+            ./pmtiles extract "https://build.protomaps.com/${DATE}.pmtiles" frankfurt.pmtiles --bbox=8.3,49.9,9.0,50.3 --maxzoom=15
+            wrangler r2 object put frankfurt-history-assets/frankfurt.pmtiles --file=frankfurt.pmtiles --content-type=application/octet-stream
+          fi
+
       - name: Build app
         working-directory: app
         run: |

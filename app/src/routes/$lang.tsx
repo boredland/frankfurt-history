@@ -157,6 +157,20 @@ function LangLayout() {
     [activeLayers, allThemeIds, navigate],
   );
 
+  const handleSetLayers = useCallback(
+    (ids: Set<number>) => {
+      navigate({
+        to: ".",
+        search: (prev: object) => ({
+          ...prev,
+          layers: serializeLayers(ids, allThemeIds),
+        }),
+        replace: true,
+      });
+    },
+    [allThemeIds, navigate],
+  );
+
   return (
     <NavigationProvider>
       <div className="h-full flex flex-col">
@@ -228,6 +242,7 @@ function LangLayout() {
               lang={lang}
               activeLayers={activeLayers}
               onToggleLayer={handleToggleLayer}
+              onSetLayers={handleSetLayers}
               activeSlug={activeSlug}
             />
           </Suspense>

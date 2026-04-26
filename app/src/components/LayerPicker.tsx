@@ -5,12 +5,14 @@ interface LayerPickerProps {
   themes: Theme[];
   activeLayers: Set<number>;
   onToggle: (themeId: number) => void;
+  onSetAll: (ids: Set<number>) => void;
 }
 
 export function LayerPicker({
   themes,
   activeLayers,
   onToggle,
+  onSetAll,
 }: LayerPickerProps) {
   const [open, setOpen] = useState(true);
 
@@ -65,10 +67,10 @@ export function LayerPicker({
             <button
               type="button"
               onClick={() => {
-                const allActive = activeLayers.size === themes.length;
-                for (const t of themes) {
-                  if (allActive && activeLayers.has(t.id)) onToggle(t.id);
-                  if (!allActive && !activeLayers.has(t.id)) onToggle(t.id);
+                if (activeLayers.size === themes.length) {
+                  onSetAll(new Set());
+                } else {
+                  onSetAll(new Set(themes.map((t) => t.id)));
                 }
               }}
               className="text-xs text-sepia hover:text-ink cursor-pointer"
