@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Sync images from the Frankfurt History API to Cloudflare R2.
 
-Reads all markdown files in data/, extracts image filenames,
-checks R2 via public URL HEAD request, downloads missing from API,
-and uploads to R2 via wrangler.
+For each image referenced in the markdown files:
+1. HEAD the R2 public URL — skip if already there
+2. Download from the API
+3. Upload to R2 via wrangler
 
 Requires: wrangler CLI authenticated.
 """
@@ -40,18 +41,18 @@ def find_image_refs() -> set[str]:
     return refs
 
 
-def check_exists_r2(client: httpx.Client, filename: str) -> bool:
-    url = f"{R2_PUBLIC_URL}/images/{filename}"
-    try:
-        resp = client.head(url)
-        return resp.status_code == 200
-    except httpx.TransportError:
-        return False
-
-
 def sync_one(filename: str) -> str:
+    """Check R2, download from API if missing, upload to R2. Returns 'ok', 'skip', or 'fail'."""
     key = f"images/{filename}"
+    r2_url = f"{R2_PUBLIC_URL}/{key}"
     api_url = f"{API_BASE}/storage/images/{filename}"
+
+    try:
+        head = httpx.head(r2_url, timeout=10, follow_redirects=True)
+        if head.status_code == 200:
+            return "skip"
+    except httpx.TransportError:
+        pass
 
     suffix = Path(filename).suffix or ".jpg"
     tmp = tempfile.NamedTemporaryFile(suffix=suffix, delete=False)
@@ -100,48 +101,33 @@ def main():
         print("No images to sync.")
         return
 
-    print("Checking which images already exist in R2...")
-    check_client = httpx.Client(timeout=10, follow_redirects=True)
-    existing = 0
-    to_sync = []
-    for i, filename in enumerate(sorted(refs)):
-        if check_exists_r2(check_client, filename):
-            existing += 1
-        else:
-            to_sync.append(filename)
-        if (i + 1) % 500 == 0:
-            print(f"  Checked {i + 1}/{len(refs)}...")
-    check_client.close()
-
-    print(f"Already in R2: {existing}, to upload: {len(to_sync)}")
-
-    if not to_sync:
-        print("Nothing to sync.")
-        return
-
     ok = 0
+    skip = 0
     fail = 0
-    total = len(to_sync)
+    total = len(refs)
     t0 = time.time()
+
     with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
-        futures = {pool.submit(sync_one, f): f for f in sorted(to_sync)}
+        futures = {pool.submit(sync_one, f): f for f in sorted(refs)}
         for i, future in enumerate(concurrent.futures.as_completed(futures)):
             result = future.result()
             if result == "ok":
                 ok += 1
+            elif result == "skip":
+                skip += 1
             else:
                 fail += 1
                 print(f"  Failed: {futures[future]}")
             done = i + 1
-            if done % 25 == 0 or done == total:
+            if done % 100 == 0 or done == total:
                 elapsed = time.time() - t0
                 rate = done / elapsed if elapsed > 0 else 0
                 eta = (total - done) / rate if rate > 0 else 0
                 print(
-                    f"  [{done}/{total}] {ok} ok, {fail} fail — {rate:.1f}/s, ETA {eta:.0f}s"
+                    f"  [{done}/{total}] {ok} new, {skip} exist, {fail} fail — {rate:.1f}/s, ETA {eta:.0f}s"
                 )
 
-    print(f"\nDone: {ok} uploaded, {fail} failed")
+    print(f"\nDone: {ok} uploaded, {skip} already in R2, {fail} failed")
 
 
 if __name__ == "__main__":
