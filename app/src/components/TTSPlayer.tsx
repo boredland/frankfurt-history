@@ -1,13 +1,5 @@
 import { useCallback, useEffect, useState } from "react";
-import {
-  getState,
-  isSupported,
-  pause,
-  resume,
-  speak,
-  stop,
-  subscribe,
-} from "~/lib/tts";
+import { getState, isSupported, speak, stop, subscribe } from "~/lib/tts";
 
 interface TTSPlayerProps {
   text: string;
@@ -38,28 +30,24 @@ export function TTSPlayer({ text, lang }: TTSPlayerProps) {
     return () => stop();
   }, []);
 
-  const handleToggle = useCallback(() => {
-    if (state === "idle") {
-      speak(text, lang, rate);
-    } else if (state === "speaking") {
-      pause();
-    } else if (state === "paused") {
-      resume();
-    }
-  }, [state, text, lang, rate]);
+  const playing = state === "speaking" || state === "paused";
 
-  const handleStop = useCallback(() => {
-    stop();
-  }, []);
+  const handleToggle = useCallback(() => {
+    if (playing) {
+      stop();
+    } else {
+      speak(text, lang, rate);
+    }
+  }, [playing, text, lang, rate]);
 
   const handleRateChange = useCallback(
     (newRate: number) => {
       setRate(newRate);
-      if (state === "speaking" || state === "paused") {
+      if (playing) {
         speak(text, lang, newRate);
       }
     },
-    [state, text, lang],
+    [playing, text, lang],
   );
 
   if (!isSupported() || !ready) return null;
@@ -70,32 +58,19 @@ export function TTSPlayer({ text, lang }: TTSPlayerProps) {
         type="button"
         onClick={handleToggle}
         className="w-8 h-8 flex items-center justify-center rounded-full bg-sepia text-paper hover:bg-sepia/80 cursor-pointer"
-        aria-label={
-          state === "speaking"
-            ? "Pause"
-            : state === "paused"
-              ? "Resume"
-              : "Read aloud"
-        }
-        title={
-          state === "speaking"
-            ? "Pause"
-            : state === "paused"
-              ? "Resume"
-              : "Read aloud"
-        }
+        aria-label={playing ? "Stop" : "Read aloud"}
+        title={playing ? "Stop" : "Read aloud"}
       >
-        {state === "speaking" ? (
+        {playing ? (
           <svg
-            width="14"
-            height="14"
-            viewBox="0 0 14 14"
+            width="12"
+            height="12"
+            viewBox="0 0 12 12"
             fill="currentColor"
             role="img"
-            aria-label="Pause"
+            aria-label="Stop"
           >
-            <rect x="2" y="1" width="3.5" height="12" rx="1" />
-            <rect x="8.5" y="1" width="3.5" height="12" rx="1" />
+            <rect x="1" y="1" width="10" height="10" rx="1" />
           </svg>
         ) : (
           <svg
@@ -111,32 +86,13 @@ export function TTSPlayer({ text, lang }: TTSPlayerProps) {
         )}
       </button>
 
-      {(state === "speaking" || state === "paused") && (
-        <button
-          type="button"
-          onClick={handleStop}
-          className="w-6 h-6 flex items-center justify-center rounded text-faded hover:text-ink cursor-pointer"
-          aria-label="Stop"
-          title="Stop"
-        >
-          <svg
-            width="12"
-            height="12"
-            viewBox="0 0 12 12"
-            fill="currentColor"
-            role="img"
-            aria-label="Stop"
-          >
-            <rect x="1" y="1" width="10" height="10" rx="1" />
-          </svg>
-        </button>
-      )}
-
       <span className="text-xs text-faded flex-1">
-        {state === "speaking"
-          ? "Reading..."
-          : state === "paused"
-            ? "Paused"
+        {playing
+          ? lang === "de"
+            ? "Wird vorgelesen..."
+            : "Reading..."
+          : lang === "de"
+            ? "Vorlesen"
             : "Read aloud"}
       </span>
 
