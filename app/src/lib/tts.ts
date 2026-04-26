@@ -3,7 +3,6 @@ type TTSListener = (state: TTSState, sentenceIndex: number) => void;
 
 const SENTENCE_SPLIT = /(?<=[.!?。])\s+|(?<=\n)\s*/;
 
-let currentUtterances: SpeechSynthesisUtterance[] = [];
 let currentIndex = 0;
 let listeners: TTSListener[] = [];
 let currentState: TTSState = "idle";
@@ -13,8 +12,24 @@ function notify(state: TTSState, index: number) {
   for (const fn of listeners) fn(state, index);
 }
 
-function pickVoice(lang: string): SpeechSynthesisVoice | undefined {
-  const voices = speechSynthesis.getVoices();
+function ensureVoices(): Promise<SpeechSynthesisVoice[]> {
+  return new Promise((resolve) => {
+    const voices = speechSynthesis.getVoices();
+    if (voices.length > 0) {
+      resolve(voices);
+      return;
+    }
+    speechSynthesis.onvoiceschanged = () => {
+      resolve(speechSynthesis.getVoices());
+    };
+    setTimeout(() => resolve(speechSynthesis.getVoices()), 1000);
+  });
+}
+
+function pickVoice(
+  voices: SpeechSynthesisVoice[],
+  lang: string,
+): SpeechSynthesisVoice | undefined {
   const prefix = lang === "de" ? "de" : "en";
   return (
     voices.find((v) => v.lang.startsWith(prefix) && v.localService) ||
@@ -29,29 +44,35 @@ export function splitSentences(text: string): string[] {
     .filter((s) => s.length > 0);
 }
 
-export function speak(text: string, lang: string, rate: number = 1) {
+export async function speak(text: string, lang: string, rate: number = 1) {
   stop();
   const sentences = splitSentences(text);
   if (sentences.length === 0) return;
 
-  const voice = pickVoice(lang);
-  currentUtterances = sentences.map((sentence, i) => {
+  const voices = await ensureVoices();
+  const voice = pickVoice(voices, lang);
+
+  for (let i = 0; i < sentences.length; i++) {
+    const sentence = sentences[i];
+    if (!sentence) continue;
     const u = new SpeechSynthesisUtterance(sentence);
     if (voice) u.voice = voice;
     u.lang = lang === "de" ? "de-DE" : "en-US";
     u.rate = rate;
-    u.onstart = () => notify("speaking", i);
+    u.onstart = () => {
+      currentIndex = i;
+      notify("speaking", i);
+    };
     u.onend = () => {
       if (i === sentences.length - 1) {
         notify("idle", i);
       }
     };
-    u.onerror = () => notify("idle", i);
-    return u;
-  });
-
-  currentIndex = 0;
-  for (const u of currentUtterances) {
+    u.onerror = (e) => {
+      if (e.error !== "canceled") {
+        notify("idle", i);
+      }
+    };
     speechSynthesis.speak(u);
   }
   notify("speaking", 0);
@@ -73,7 +94,6 @@ export function resume() {
 
 export function stop() {
   speechSynthesis.cancel();
-  currentUtterances = [];
   currentIndex = 0;
   notify("idle", 0);
 }
