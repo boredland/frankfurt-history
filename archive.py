@@ -86,17 +86,21 @@ def html_to_markdown(body: str) -> str:
 
 
 
+def strip_tags(s: str) -> str:
+    return re.sub(r"<[^>]+>", "", s).strip()
+
+
 def meta_str(meta: dict | None) -> str:
     if not meta or not isinstance(meta, dict):
         return ""
     parts = []
-    author = (meta.get("author") or "").strip()
+    author = strip_tags(meta.get("author") or "")
     if author:
         parts.append(f"Author: {author}")
-    copyright_ = (meta.get("copyright") or "").strip()
+    copyright_ = strip_tags(meta.get("copyright") or "")
     if copyright_:
         parts.append(f"License: {copyright_}")
-    desc = (meta.get("description") or "").strip()
+    desc = strip_tags(meta.get("description") or "")
     if desc:
         parts.append(f"Description: {desc}")
     return " | ".join(parts)
@@ -113,7 +117,7 @@ def image_markdown(img_data, prefix: str = "", depth: int = 1) -> str:
     meta = img_data.get("metadata")
     alt = ""
     if meta and isinstance(meta, dict):
-        alt = (meta.get("description") or meta.get("title") or "").strip()
+        alt = strip_tags(meta.get("description") or meta.get("title") or "")
     date_str = (img_data.get("dateString") or "").strip()
     caption_parts = []
     if date_str:
