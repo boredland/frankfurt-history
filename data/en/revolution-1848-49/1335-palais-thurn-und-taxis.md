@@ -27,6 +27,6 @@ The new government took over the Thurn and Taxis Palace from the Federal Convent
 
 ## Gallery
 
-![Color lithograph of the Palais Thurn und Taxis](../../images/08 Palais _1ab3d844ac46c55243f20e8cf9ff316e_original.jpg)
+![Color lithograph of the Palais Thurn und Taxis](../../images/08%20Palais%20_1ab3d844ac46c55243f20e8cf9ff316e_original.jpg)
 *1863 — Author: verlegt im Verlag Völcker | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 269 | Description: Color lithograph of the Palais Thurn und Taxis*
 

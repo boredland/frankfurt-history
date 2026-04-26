@@ -45,6 +45,6 @@ Eine Gedenktafel für die Zwangsarbeiter*innen in Bergen-Enkheim gibt es bisher 
 ![Postkarte „Zur schönen Aussicht" aus dem Jahr 1889.](../../images/ad0362936564aa738761e1eebdfa412a_original.jpg)
 *1889 — Author: Unbekannt | License: gemeinfrei | Description: Postkarte „Zur schönen Aussicht" aus dem Jahr 1889.*
 
-![Postkarte vom Gasthaus „Zur schönen Aussicht".](../../images/2_Schöne _f8bb979afb3237136592ddea77187312_original.jpg)
+![Postkarte vom Gasthaus „Zur schönen Aussicht".](../../images/2_Sch%C3%B6ne%20_f8bb979afb3237136592ddea77187312_original.jpg)
 *o.D. — Author: Unbekannt | License: gemeinfrei | Description: Postkarte vom Gasthaus „Zur schönen Aussicht".*
 

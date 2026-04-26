@@ -31,12 +31,12 @@ Despite the Carbone management’s intense efforts to have all the 60 skilled wo
 
 ## Gallery
 
-![Renovation plan for the Carbone House in Frankfurt am Main – Bonames, Homburger Landstraße 642, dated May 17, 1942.](../../images/ABB 39 Car_31d7bc105787fe8909c820ee57fd0abd_original.jpg)
+![Renovation plan for the Carbone House in Frankfurt am Main – Bonames, Homburger Landstraße 642, dated May 17, 1942.](../../images/ABB%2039%20Car_31d7bc105787fe8909c820ee57fd0abd_original.jpg)
 *n.d. — Author: Unbekannt | License: Fritz Koch | Description: Renovation plan for the Carbone House in Frankfurt am Main – Bonames, Homburger Landstraße 642, dated May 17, 1942.*
 
-![Certificate from the Frankfurt am Main Armaments Command confirming the necessity of employing “Eastern workers” at the Carbone AG factory, dated November 26, 1942.](../../images/ABB 45 Fre_b8feb308ca51afe15a800359a0c0419f_original.jpg)
+![Certificate from the Frankfurt am Main Armaments Command confirming the necessity of employing “Eastern workers” at the Carbone AG factory, dated November 26, 1942.](../../images/ABB%2045%20Fre_b8feb308ca51afe15a800359a0c0419f_original.jpg)
 *n.d. — Author: Unbekannt | License: Fritz Koch | Description: Certificate from the Frankfurt am Main Armaments Command confirming the necessity of employing “Eastern workers” at the Carbone AG factory, dated November 26, 1942.*
 
-![Memo concerning the procurement of a barrack to house 30 Russian women, December 9, 1942.](../../images/ABB 46 Fre_b02d62b332ca1fb18400b26768ee1718_original.jpg)
+![Memo concerning the procurement of a barrack to house 30 Russian women, December 9, 1942.](../../images/ABB%2046%20Fre_b02d62b332ca1fb18400b26768ee1718_original.jpg)
 *n.d. — Author: Unbekannt | License: Fritz Koch | Description: Memo concerning the procurement of a barrack to house 30 Russian women, December 9, 1942.*
 

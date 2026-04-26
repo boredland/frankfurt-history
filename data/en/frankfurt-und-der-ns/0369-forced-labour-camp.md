@@ -14,7 +14,7 @@ filters:
 
 *Emser Straße*
 
-![Placeholder image](../../images/Hier fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
+![Placeholder image](../../images/Hier%20fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
 *License: HMF*
 
 At this site, the VDM aviation works operated a forced labour camp that existed from 1942 onwards. In February 1942, at least 251 Soviet prisoners of war from the Stalag IX A Ziegenhain POW camp were lodged here. According to a report by the company doctor, they were in poor health and showed clear signs of malnutrition. More than 3,500 forced labourers from all over Europe were registered in this camp in 1942 alone. In 1943 the number rose to 4,132.
@@ -27,6 +27,6 @@ At this site, the VDM aviation works operated a forced labour camp that existed 
 
 ## Gallery
 
-![Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de](../../images/Hier fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
+![Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de](../../images/Hier%20fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
 *Author: HMF | License: gemeinfrei | Description: Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de*
 

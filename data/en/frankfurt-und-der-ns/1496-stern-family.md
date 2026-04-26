@@ -27,7 +27,7 @@ Seligmann Stern had fought in the First World War and became infected with malar
 
 ## Gallery
 
-![Selma and Elfriede Stern](../../images/Selma Ster_4a597eef880b7115a7c616f7f0a9907a_original.jpg)
+![Selma and Elfriede Stern](../../images/Selma%20Ster_4a597eef880b7115a7c616f7f0a9907a_original.jpg)
 *Author: unbekannt | Description: Selma and Elfriede Stern*
 
 ![Seligmann Stern](../../images/Seligmann__d81d9818ae31e6fd7c2fbfb2be211a7d_original.jpg)

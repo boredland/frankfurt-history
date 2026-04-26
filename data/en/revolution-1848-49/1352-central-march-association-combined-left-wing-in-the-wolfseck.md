@@ -25,6 +25,6 @@ In Frankfurt on 6 May 1849, during the Imperial Constitution campaign, it called
 
 ## Gallery
 
-![Lithograph depicting the "Haus zum Wolfseck" building](../../images/10 Wolfsec_9670cec671fa4e949753a03de1dbb650_original.jpg)
+![Lithograph depicting the "Haus zum Wolfseck" building](../../images/10%20Wolfsec_9670cec671fa4e949753a03de1dbb650_original.jpg)
 *1890 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2000-315 | Description: Lithograph depicting the "Haus zum Wolfseck" building*
 

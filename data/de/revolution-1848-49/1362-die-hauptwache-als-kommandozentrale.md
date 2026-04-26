@@ -27,6 +27,6 @@ Obwohl die Infanteristen den Aufständischen zahlenmäßig weit überlegen und w
 
 ## Gallery
 
-![Lithografie (Zigarrenreklame): Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848](../../images/Route 3, S_ba4d5483c41385e956f48c0576917e27_original.jpg)
+![Lithografie (Zigarrenreklame): Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848](../../images/Route%203%2C%20S_ba4d5483c41385e956f48c0576917e27_original.jpg)
 *um 1903 — Author: unbekannt | License: Institut für Stadtgeschichte, S7A 1998/8562 | Description: Lithografie (Zigarrenreklame): Die Hauptwache flankiert von Mitgliedern der Frankfurter Bürgerwehr in Uniformen aus dem Jahr 1848*
 

@@ -25,12 +25,12 @@ As a woman, she was long denied access to university research and scientific soc
 
 ## Gallery
 
-![](../../images/C03271+001_9db07b548e5dfee205d6607155298c8f_original.jpg)
+![](../../images/C03271%2B001_9db07b548e5dfee205d6607155298c8f_original.jpg)
 *Author: Carl Freidrich Mylius | License: HMF/Gemeinfrei*
 
 ![](../../images/C09731_001_20bbcd1f154d374cfd34f1673287a195_original.jpg)
 *Author: Carl Freidrich Mylius | License: HMF/Gemeinfrei*
 
-![](../../images/C03272+001_563e990cb0f36fe13f7cbf4df3e04fd0_original.jpg)
+![](../../images/C03272%2B001_563e990cb0f36fe13f7cbf4df3e04fd0_original.jpg)
 *Author: Carl Freidrich Mylius | License: HMF/Gemeinfrei*
 

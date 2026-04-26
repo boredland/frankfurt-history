@@ -27,6 +27,6 @@ The Nürnberger Hof was a courtyard and complex of buildings originally named af
 
 ## Gallery
 
-![Drawing of the "Nürnberger Hof" (Nuremberg Court)](../../images/02 Nürnbe_52fcacc79668083fd392d39024e7328f_original.jpg)
+![Drawing of the "Nürnberger Hof" (Nuremberg Court)](../../images/02%20N%C3%BCrnbe_52fcacc79668083fd392d39024e7328f_original.jpg)
 *1849 — Author: Carl Theodor Reiffenstein | License: HMF R0404 | Description: Drawing of the "Nürnberger Hof" (Nuremberg Court)*
 

@@ -25,16 +25,16 @@ Helene Hering-Herber lebte und arbeitete in verschiedenen Ländern, darunter Fra
 
 ## Gallery
 
-![Portrait der Filmemacherin und Künstlerin Helene Hering-HerberQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber](../../images/Portrait H_aa1c865582c90d12163d314390f1c0c0_original.jpg)
+![Portrait der Filmemacherin und Künstlerin Helene Hering-HerberQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber](../../images/Portrait%20H_aa1c865582c90d12163d314390f1c0c0_original.jpg)
 *nicht feststellbar — Author: Barbara T. Pohle | License: Helene Hering-Herber | Description: Portrait der Filmemacherin und Künstlerin Helene Hering-HerberQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber*
 
-!["Fotos - La Religieuse"; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Fa 8:1](../../images/Das Konfis_c72d3e7b3f1cfad8b208ae1714c405f7_original.jpg)
+!["Fotos - La Religieuse"; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Fa 8:1](../../images/Das%20Konfis_c72d3e7b3f1cfad8b208ae1714c405f7_original.jpg)
 *unbekannt — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: "Fotos - La Religieuse"; Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Fa 8:1*
 
-!["""La Sexualité avortée"", Originalcollage reproduziert auf OH FolieQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Ca 8"](../../images/Das Konfis_34f10fe4a6863d20b61f887d5653a6ec_original.jpg)
+!["""La Sexualité avortée"", Originalcollage reproduziert auf OH FolieQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Ca 8"](../../images/Das%20Konfis_34f10fe4a6863d20b61f887d5653a6ec_original.jpg)
 *1983 — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: """La Sexualité avortée"", Originalcollage reproduziert auf OH FolieQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Ca 8"*
 
-!["""Butterfly""; Originalpapiercollage;Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"](../../images/La Religie_16bd17008c5967c7caefc899010e26c7_original.jpg)
+!["""Butterfly""; Originalpapiercollage;Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"](../../images/La%20Religie_16bd17008c5967c7caefc899010e26c7_original.jpg)
 *1982 — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: """Butterfly""; Originalpapiercollage;Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"*
 
 !["""Butterfly""; Originalpapiercollage;Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber, Signatur: Co 4"](../../images/251020_HHH_36480d43719de0f5850d810c6a3f85bb_original.jpg)

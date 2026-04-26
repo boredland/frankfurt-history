@@ -21,7 +21,7 @@ filters:
 
 ## Gallery
 
-![Album Villa Waldfried, Frankfurt am Main, Niederrad, Portierhaus, Fotografie](../../images/Ph19243,02_48a39e02680206a52b6fb96ade7ed7ee_original.jpg)
+![Album Villa Waldfried, Frankfurt am Main, Niederrad, Portierhaus, Fotografie](../../images/Ph19243%2C02_48a39e02680206a52b6fb96ade7ed7ee_original.jpg)
 *Unbekannt — Author: Friedrich Lauffer | License: HMF/Gemeinfrei | Description: Album Villa Waldfried, Frankfurt am Main, Niederrad, Portierhaus, Fotografie*
 
 ![Album Villa Waldfried, Frankfurt am Main, Niederrad, Vorderansicht, Fotografie](../../images/Ph19243_04_aef1f1dcdbaed623c712cd3c29a364d5_original.jpg)
@@ -39,9 +39,9 @@ filters:
 ![Album Villa Waldfried, Frankfurt am Main, Niederrad, Speisesaal, Fotografie](../../images/Ph19243_28_468444ccf795f6653c258d2a9a764723_original.jpg)
 *Unbekannt — Author: Friedrich Lauffer | License: HMF/Gemeinfrei | Description: Album Villa Waldfried, Frankfurt am Main, Niederrad, Speisesaal, Fotografie*
 
-![Album Villa Waldfried, Frankfurt am Main, Niederrad, Schlafzimmer Régence-Flügel, Fotografie; Almbum Villa Walfried, Frankfurt am Main, Niederrad, Vorderansicht, Fotografie](../../images/Ph19243,56_0e8d9f28b4141ef4406d0ce720a9ede6_original.jpg)
+![Album Villa Waldfried, Frankfurt am Main, Niederrad, Schlafzimmer Régence-Flügel, Fotografie; Almbum Villa Walfried, Frankfurt am Main, Niederrad, Vorderansicht, Fotografie](../../images/Ph19243%2C56_0e8d9f28b4141ef4406d0ce720a9ede6_original.jpg)
 *Author: Friedrich Lauffer | License: HMF/Gemeinfrei | Description: Album Villa Waldfried, Frankfurt am Main, Niederrad, Schlafzimmer Régence-Flügel, Fotografie; Almbum Villa Walfried, Frankfurt am Main, Niederrad, Vorderansicht, Fotografie*
 
-![Album Villa Waldfried, Frankfurt am Main, Niederrad, Schlafzimmer Wera (Weiberg?)](../../images/Ph19243,78_f69996d8fb981caa77e40a8b5d3ae485_original.jpg)
+![Album Villa Waldfried, Frankfurt am Main, Niederrad, Schlafzimmer Wera (Weiberg?)](../../images/Ph19243%2C78_f69996d8fb981caa77e40a8b5d3ae485_original.jpg)
 *Author: Friedrich Lauffer | License: HMF/Gemeinfrei | Description: Album Villa Waldfried, Frankfurt am Main, Niederrad, Schlafzimmer Wera (Weiberg?)*
 

@@ -18,6 +18,6 @@ In diesem Haus war der Sitz der Ortgruppe der Nationalsozialistischen Deutschen 
 
 ## Gallery
 
-![Eckenheimer Landstraße 308](../../images/NSDAP Ecke_35cba1e1b1ec0f9667c52809534d492c_original.jpg)
+![Eckenheimer Landstraße 308](../../images/NSDAP%20Ecke_35cba1e1b1ec0f9667c52809534d492c_original.jpg)
 *2023 — Description: Eckenheimer Landstraße 308*
 

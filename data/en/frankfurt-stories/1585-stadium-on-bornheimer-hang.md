@@ -29,12 +29,12 @@ Many memorable things have happened in the stadium. However, FSV Frankfurt's hig
 
 ## Gallery
 
-![View of the Bornheimer Hang in not so good weather](../../images/Station 9-_73b99a862ec0953239803f4fdb576e5b_original.jpg)
+![View of the Bornheimer Hang in not so good weather](../../images/Station%209-_73b99a862ec0953239803f4fdb576e5b_original.jpg)
 *License: Quelle: F. Blendin | Description: View of the Bornheimer Hang in not so good weather*
 
 
 ## Gallery
 
-![Stadium on the Bornheimer Hang during reconstruction](../../images/station 3__9ebad3eecf4aaadaeef40c563bc965a0_original.jpg)
+![Stadium on the Bornheimer Hang during reconstruction](../../images/station%203__9ebad3eecf4aaadaeef40c563bc965a0_original.jpg)
 *License: Quelle: Förderverein historisches Bornheim | Description: Stadium on the Bornheimer Hang during reconstruction*
 

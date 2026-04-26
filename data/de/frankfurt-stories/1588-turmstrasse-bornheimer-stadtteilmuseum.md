@@ -21,6 +21,6 @@ Du stehst nun in der Turmstraße 11 vor Frankfurt‘s kleinstem Museum, dem „B
 
 ## Gallery
 
-![Abbildung des Schildes "Stadtteil Museum - Bornheim, das lustige Dorf"](../../images/station 6__9ad0a0292cc11c45343bf737a42b9e61_original.jpg)
+![Abbildung des Schildes "Stadtteil Museum - Bornheim, das lustige Dorf"](../../images/station%206__9ad0a0292cc11c45343bf737a42b9e61_original.jpg)
 *License: F. Blendin | Description: Abbildung des Schildes "Stadtteil Museum - Bornheim, das lustige Dorf"*
 

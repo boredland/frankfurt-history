@@ -27,6 +27,6 @@ The delegates had very long days. Except on Sundays and public holidays, they us
 
 ## Gallery
 
-![Photo of a restaurant in Buchgasse where committee meetings were held](../../images/14 Buchgas_5a70bc5b4bdcb14e84f02c8996ec94c5_original.jpg)
+![Photo of a restaurant in Buchgasse where committee meetings were held](../../images/14%20Buchgas_5a70bc5b4bdcb14e84f02c8996ec94c5_original.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2609 | Description: Photo of a restaurant in Buchgasse where committee meetings were held*
 

@@ -23,6 +23,6 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
-![Toni Sender Straße](../../images/Toni Sende_9199cb1e60e624e2042b0e7a443f654c_original.jpg)
+![Toni Sender Straße](../../images/Toni%20Sende_9199cb1e60e624e2042b0e7a443f654c_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Toni Sender Straße*
 

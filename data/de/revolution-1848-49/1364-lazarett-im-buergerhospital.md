@@ -29,6 +29,6 @@ Die im Bürgerhospital liegenden preußischen, österreichischen und kurhessisch
 
 ## Gallery
 
-![Kolorierte Lithografie: Barrikade an der Bornheimer Pforte](../../images/Route 3, S_3cb23363504c5c09b3851651c944de68_original.jpg)
+![Kolorierte Lithografie: Barrikade an der Bornheimer Pforte](../../images/Route%203%2C%20S_3cb23363504c5c09b3851651c944de68_original.jpg)
 *1848 — Author: unbekannt | License: HMF C 10164c | Description: Kolorierte Lithografie: Barrikade an der Bornheimer Pforte*
 

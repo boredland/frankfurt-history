@@ -25,7 +25,7 @@ Heute sitzt die weltweit einzigartige Forschungseinrichtung in Frankfurt-Niederr
 
 ## Gallery
 
-![Lesesaal des Archivs Frau und Musik](../../images/ASF_1245 A_b675bf9e0daef19e21f5f6b49e82d125_original.jpg)
+![Lesesaal des Archivs Frau und Musik](../../images/ASF_1245%20A_b675bf9e0daef19e21f5f6b49e82d125_original.jpg)
 *2018 — Author: Andrea Späth | License: © Andrea Späth Fotodesign 2018 | Description: Lesesaal des Archivs Frau und Musik*
 
 

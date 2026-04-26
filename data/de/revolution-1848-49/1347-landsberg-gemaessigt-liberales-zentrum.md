@@ -27,6 +27,6 @@ Programmatisch versuchte der „Landsberg“ eine Machtbalance zwischen einer st
 
 ## Gallery
 
-![Foto des Altstadtgässchen Landberggasse](../../images/05 Landsbe_8b98005904195f886f79ee60ff7d6678_original.jpg)
+![Foto des Altstadtgässchen Landberggasse](../../images/05%20Landsbe_8b98005904195f886f79ee60ff7d6678_original.jpg)
 *1915 — Author: Carl Andreas Abt | License: HMF C23212 | Description: Foto des Altstadtgässchen Landberggasse*
 

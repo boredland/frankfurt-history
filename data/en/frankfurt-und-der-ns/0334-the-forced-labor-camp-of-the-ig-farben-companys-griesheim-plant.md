@@ -36,10 +36,10 @@ A review of the surviving card file reveals that many forced laborers, particula
 ![Factory ID card of a French forced laborer at I.G. Farben in Griesheim. Archiv Höchst H0179390, page 630.](../../images/Fabrikausw_ceb52885e75a29a1d8b7acfd83f189f0_original.jpg)
 *unknown — License: Höchst Firmenarchiv | Description: Factory ID card of a French forced laborer at I.G. Farben in Griesheim. Archiv Höchst H0179390, page 630.*
 
-![Excerpt from the worker file of I.G. Farben, Griesheim plant. Front of a double card with information on a “civilian Russian man” and a “civilian Russian woman.” Archiv Höchst H0179390, page 297.](../../images/Seite 297 _f8b7b559f169dcff601cdf2e741b74cf_original.jpg)
+![Excerpt from the worker file of I.G. Farben, Griesheim plant. Front of a double card with information on a “civilian Russian man” and a “civilian Russian woman.” Archiv Höchst H0179390, page 297.](../../images/Seite%20297%20_f8b7b559f169dcff601cdf2e741b74cf_original.jpg)
 *1942-1945 — License: Höchst Firmenarchiv | Description: Excerpt from the worker file of I.G. Farben, Griesheim plant. Front of a double card with information on a “civilian Russian man” and a “civilian Russian woman.” Archiv Höchst H0179390, page 297.*
 
-![Excerpt from the extensive employee file of I.G. Farben, Griesheim plant. Back side. Höchst Archive H0179390, page 297.](../../images/Seite 297__6f88338254ef452f465cb6de8c094932_original.jpg)
+![Excerpt from the extensive employee file of I.G. Farben, Griesheim plant. Back side. Höchst Archive H0179390, page 297.](../../images/Seite%20297__6f88338254ef452f465cb6de8c094932_original.jpg)
 *1942-1945 — License: Höchst Firmenarchiv | Description: Excerpt from the extensive employee file of I.G. Farben, Griesheim plant. Back side. Höchst Archive H0179390, page 297.*
 
 

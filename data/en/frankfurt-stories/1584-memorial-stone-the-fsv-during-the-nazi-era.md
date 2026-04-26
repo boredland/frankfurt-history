@@ -29,18 +29,18 @@ Later, while the Second World War had already broken out, the FSV also took part
 
 ## Gallery
 
-![The memorial stone today (2024)](../../images/station 2__c9fef19b3a8014390bf0333da87c9ec6_original.jpg)
+![The memorial stone today (2024)](../../images/station%202__c9fef19b3a8014390bf0333da87c9ec6_original.jpg)
 *License: Quelle: Franziska Blendin | Description: The memorial stone today (2024)*
 
 
 ## Gallery
 
-![The memorial stone during National Socialism](../../images/station 2__60fc9fdabd7f5363e299940b30987bb8_original.jpg)
+![The memorial stone during National Socialism](../../images/station%202__60fc9fdabd7f5363e299940b30987bb8_original.jpg)
 *License: 100 Jahre Chronik des FSV Frankfurt | Description: The memorial stone during National Socialism*
 
 
 ## Gallery
 
-![FSV Frankfurt donates cups and trophies as metal donations in World War II](../../images/station 2__fd0bc9d8d2442d82f4049ced62a27030_original.jpg)
+![FSV Frankfurt donates cups and trophies as metal donations in World War II](../../images/station%202__fd0bc9d8d2442d82f4049ced62a27030_original.jpg)
 *License: Quelle: 100 Jahre Chronik des FSV Frankfurts | Description: FSV Frankfurt donates cups and trophies as metal donations in World War II*
 

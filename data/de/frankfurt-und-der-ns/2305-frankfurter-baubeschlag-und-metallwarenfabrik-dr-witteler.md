@@ -47,6 +47,6 @@ Nach einer allgemeinen Begutachtung der Zwangsarbeitslager im Mai 1945 berichtet
 
 ## Gallery
 
-![Ansicht des Hauses Reuterweg 91.](../../images/Reuterweg _84bc8c6dd23abf03031ce2abcb2a0008_original.jpg)
+![Ansicht des Hauses Reuterweg 91.](../../images/Reuterweg%20_84bc8c6dd23abf03031ce2abcb2a0008_original.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: Ansicht des Hauses Reuterweg 91.*
 

@@ -43,13 +43,13 @@ Jan Kamensky's “Visual Utopia” shows that there is another way. The Hamburg-
 
 ## Gallery
 
-![Karl Theodor Reiffenstein (1820–1893), Eschenheimer City Gate with city wall, based on an old drawing from 1790, 1859, HMF.R0039, public domain](../../images/R0039+001__af8d6cb656a19c3d91a8cb2c0f79d122_original.jpg)
+![Karl Theodor Reiffenstein (1820–1893), Eschenheimer City Gate with city wall, based on an old drawing from 1790, 1859, HMF.R0039, public domain](../../images/R0039%2B001__af8d6cb656a19c3d91a8cb2c0f79d122_original.jpg)
 *1859 (Original 1790) — Author: Karl Theodor Reiffenstein | License: Gemeinfrei, HMF | Description: Karl Theodor Reiffenstein (1820–1893), Eschenheimer City Gate with city wall, based on an old drawing from 1790, 1859, HMF.R0039, public domain*
 
 
 ## Gallery
 
-![Peter Becker (1828–1904), View of the Eschenheimer Tower, 1879, HMF.C30633, public domain](../../images/C30633+001_28f1dd4263f80e33ef4f4488284243fd_original.jpg)
+![Peter Becker (1828–1904), View of the Eschenheimer Tower, 1879, HMF.C30633, public domain](../../images/C30633%2B001_28f1dd4263f80e33ef4f4488284243fd_original.jpg)
 *1879 — Author: Peter Becker | License: Gemeinfrei, HMF | Description: Peter Becker (1828–1904), View of the Eschenheimer Tower, 1879, HMF.C30633, public domain*
 
 ![Unknown, Sperrbatzen riot at the Allerheiligentor on October 24, 1831, HMF.C30359, public domain](../../images/C30359_001_ffcfff79730153f250e71c5d67c277c4_original.jpg)
@@ -58,10 +58,10 @@ Jan Kamensky's “Visual Utopia” shows that there is another way. The Hamburg-
 
 ## Gallery
 
-![Gustav Rapp (1856-1940), Eschenheimer Tower, 1914, HMF.C22110, public domain](../../images/C22110+001_ae67ab1ac7fc47c42103db10aab3b905_original.jpg)
+![Gustav Rapp (1856-1940), Eschenheimer Tower, 1914, HMF.C22110, public domain](../../images/C22110%2B001_ae67ab1ac7fc47c42103db10aab3b905_original.jpg)
 *1914 — Author: Gustav Rapp | License: Gemeinfrei, HMF | Description: Gustav Rapp (1856-1940), Eschenheimer Tower, 1914, HMF.C22110, public domain*
 
-![Max Göllner (1898–1979), Eschenheimer Tower with Großer Eschersheimer Straße and Schillerstraße, 1950s, HMF.Ph39144](../../images/Ph39144+00_8bdc0c9c9f9bd12e169d89d08c6cd0e3_original.jpg)
+![Max Göllner (1898–1979), Eschenheimer Tower with Großer Eschersheimer Straße and Schillerstraße, 1950s, HMF.Ph39144](../../images/Ph39144%2B00_8bdc0c9c9f9bd12e169d89d08c6cd0e3_original.jpg)
 *1950s years — Author: Max Göllner | License: HMF | Description: Max Göllner (1898–1979), Eschenheimer Tower with Großer Eschersheimer Straße and Schillerstraße, 1950s, HMF.Ph39144*
 
 

@@ -25,16 +25,16 @@ Hering-Herber lived and worked in various countries, including France and the Un
 
 ## Gallery
 
-![Portrait of filmmaker and artist Helene Hering-HerberSource: Kinothek Asta Nielsen archive, Helene Hering-Herber collection](../../images/Portrait H_aa1c865582c90d12163d314390f1c0c0_original.jpg)
+![Portrait of filmmaker and artist Helene Hering-HerberSource: Kinothek Asta Nielsen archive, Helene Hering-Herber collection](../../images/Portrait%20H_aa1c865582c90d12163d314390f1c0c0_original.jpg)
 *not ascertainable — Author: Barbara T. Pohle | License: Helene Hering-Herber | Description: Portrait of filmmaker and artist Helene Hering-HerberSource: Kinothek Asta Nielsen archive, Helene Hering-Herber collection*
 
-![‘Photos - La Religieuse’; Source: Archive of the Kinothek Asta Nielsen, Helene Hering-Herber Collection, Reference number: Fa 8:1](../../images/Das Konfis_c72d3e7b3f1cfad8b208ae1714c405f7_original.jpg)
+![‘Photos - La Religieuse’; Source: Archive of the Kinothek Asta Nielsen, Helene Hering-Herber Collection, Reference number: Fa 8:1](../../images/Das%20Konfis_c72d3e7b3f1cfad8b208ae1714c405f7_original.jpg)
 *unknown — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: ‘Photos - La Religieuse’; Source: Archive of the Kinothek Asta Nielsen, Helene Hering-Herber Collection, Reference number: Fa 8:1*
 
-![‘’‘La Sexualité avortée’", original collage reproduced on OH filmSource: Kinothek Asta Nielsen archive, Helene Hering-Herber collection, reference number: Ca 8"](../../images/Das Konfis_34f10fe4a6863d20b61f887d5653a6ec_original.jpg)
+![‘’‘La Sexualité avortée’", original collage reproduced on OH filmSource: Kinothek Asta Nielsen archive, Helene Hering-Herber collection, reference number: Ca 8"](../../images/Das%20Konfis_34f10fe4a6863d20b61f887d5653a6ec_original.jpg)
 *1983 — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: ‘’‘La Sexualité avortée’", original collage reproduced on OH filmSource: Kinothek Asta Nielsen archive, Helene Hering-Herber collection, reference number: Ca 8"*
 
-![‘Butterfly’; original paper collage;Source: Kinothek archive, Asta Nielsen, Helene Hering-Herber collection, reference number: Co 4](../../images/La Religie_16bd17008c5967c7caefc899010e26c7_original.jpg)
+![‘Butterfly’; original paper collage;Source: Kinothek archive, Asta Nielsen, Helene Hering-Herber collection, reference number: Co 4](../../images/La%20Religie_16bd17008c5967c7caefc899010e26c7_original.jpg)
 *1982 — Author: Helene Hering-Herber | License: Helene Hering-Herber | Description: ‘Butterfly’; original paper collage;Source: Kinothek archive, Asta Nielsen, Helene Hering-Herber collection, reference number: Co 4*
 
 ![‘Butterfly’; original paper collage;Source: Kinothek archive, Asta Nielsen, Helene Hering-Herber collection, reference number: Co 4](../../images/251020_HHH_36480d43719de0f5850d810c6a3f85bb_original.jpg)

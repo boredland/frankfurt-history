@@ -31,6 +31,6 @@ Als Reaktion auf die erfolgten Abspaltungen passte der „Deutsche Hof“ im Okt
 
 ## Gallery
 
-![Lithografie mit dem Gebäude Deutscher Hof](../../images/11 Deutsch_8f9c8ea2f5771fea3cf7c1355f4abfe8_original.jpg)
+![Lithografie mit dem Gebäude Deutscher Hof](../../images/11%20Deutsch_8f9c8ea2f5771fea3cf7c1355f4abfe8_original.jpg)
 *1863 — Author: W. Loeillot | License: HMF C68280 | Description: Lithografie mit dem Gebäude Deutscher Hof*
 

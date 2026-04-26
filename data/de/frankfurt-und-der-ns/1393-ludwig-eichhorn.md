@@ -37,7 +37,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 ![Sonderausweis für Verfolgte (rot) für Ludwig Eichorn, ausgestellt am 06.08.1946 in Frankfurt](../../images/Eichhorn_L_3eef84876c828f5663c8835eefb7637b_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Sonderausweis für Verfolgte (rot) für Ludwig Eichorn, ausgestellt am 06.08.1946 in Frankfurt*
 
-![Stolperstein für Ludwig Eichhorn](../../images/Ludwig Eic_1a597fbb37aae9234f1ccb54a977975d_original.jpg)
+![Stolperstein für Ludwig Eichhorn](../../images/Ludwig%20Eic_1a597fbb37aae9234f1ccb54a977975d_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein für Ludwig Eichhorn*
 
 

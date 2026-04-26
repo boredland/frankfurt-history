@@ -24,6 +24,6 @@ Das Haus war nur gepachtet und gehörte, wie so oft, der Binding Brauerei. Die P
 
 ## Gallery
 
-![Das Sport-Eck war eine schöne Gastwirtschaft. Dieses Bild wurde am Geburtstag von Gretl Pflug aufgenommen.](../../images/station 8__8273e00a54e8a163907a2abf47c5ce3e_original.jpg)
+![Das Sport-Eck war eine schöne Gastwirtschaft. Dieses Bild wurde am Geburtstag von Gretl Pflug aufgenommen.](../../images/station%208__8273e00a54e8a163907a2abf47c5ce3e_original.jpg)
 *License: Förderkreis historisches Bornheim | Description: Das Sport-Eck war eine schöne Gastwirtschaft. Dieses Bild wurde am Geburtstag von Gretl Pflug aufgenommen.*
 

@@ -35,6 +35,6 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
-![Church of Our Lady of Good Counsel at Bruchfeldstraße in Niederrad](../../images/Ph35087+00_baedd8790f6345adb377334541ae13a4_original.jpg)
+![Church of Our Lady of Good Counsel at Bruchfeldstraße in Niederrad](../../images/Ph35087%2B00_baedd8790f6345adb377334541ae13a4_original.jpg)
 *around 1933 — Author: Otto Emmel | License: Historisches Museum Frankfurt | Description: Church of Our Lady of Good Counsel at Bruchfeldstraße in Niederrad*
 

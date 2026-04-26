@@ -21,6 +21,6 @@ Karoline von Günderrode (1780–1806) verließ mit 17 Jahren ihr Elternhaus und
 
 ## Gallery
 
-![Der Roßmarkt von Südwesten](../../images/C30153)
+![Der Roßmarkt von Südwesten](../../images/C30153%23001_b45cc7e0f3e87415a697030ca8f9aca7_original.jpg)
 *1827 — Author: J. Müller | License: HMF/Gemeinfrei | Description: Der Roßmarkt von Südwesten*
 

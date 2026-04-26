@@ -27,7 +27,7 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 ![Stolperstein for Margarethe Meyer](../../images/Margarethe_5efd863608246e41f2d264da81a217f7_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Margarethe Meyer*
 
-![Stolperstein for Friedrich Meyer](../../images/Friedrich _f993150790a83490ceca68bcc2c3bca0_original.jpg)
+![Stolperstein for Friedrich Meyer](../../images/Friedrich%20_f993150790a83490ceca68bcc2c3bca0_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Friedrich Meyer*
 
 

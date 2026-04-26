@@ -32,6 +32,6 @@ From 1908 onwards, Mathilde Battenberg had her own studio at the art institute, 
 ![](../../images/C51055_001_f94a4214a500211b8213fe8f61b6138b_original.jpg)
 *Author: Karl Tratt | License: HMF/Gemeinfrei*
 
-![](../../images/Ph11560,2__b99e773cbc89d7599bdf00c6ce56dff2_original.jpg)
+![](../../images/Ph11560%2C2__b99e773cbc89d7599bdf00c6ce56dff2_original.jpg)
 *Author: Friedrich Lauffer | License: HMF/Gemeinfrei*
 

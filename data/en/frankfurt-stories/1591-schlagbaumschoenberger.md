@@ -22,12 +22,12 @@ From the 1920s until 1953, numerous events for club members were held there, suc
 
 ## Gallery
 
-![Do you find the relief of the Schlagbaum?](../../images/Station 3-_cd53d676a45dd87e41fab53d25ec997d_original.jpg)
+![Do you find the relief of the Schlagbaum?](../../images/Station%203-_cd53d676a45dd87e41fab53d25ec997d_original.jpg)
 *License: F. Blendin | Description: Do you find the relief of the Schlagbaum?*
 
 
 ## Gallery
 
-![Advertisement for the clubhouse in the club news of September 1925](../../images/station 9__1d15e73ca79ea9a8f9a9a22b6e968b92_original.jpg)
+![Advertisement for the clubhouse in the club news of September 1925](../../images/station%209__1d15e73ca79ea9a8f9a9a22b6e968b92_original.jpg)
 *Description: Advertisement for the clubhouse in the club news of September 1925*
 

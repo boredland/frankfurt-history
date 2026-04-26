@@ -31,12 +31,12 @@ In Erinnerung an ihn und seine Leistungen wurde im Jahr 2024 im Beisein seines E
 
 ## Gallery
 
-![Graffiti am Alfred J. Meyers Platz. Das Gebäude ist das Fanhaus des FSV-Fanprojekts und das Graffiti wurde durch Fans des FSV Frankfurt erstellt](../../images/station 1__43bc5f60caebabe0de7e74f174457e7d_original.jpg)
+![Graffiti am Alfred J. Meyers Platz. Das Gebäude ist das Fanhaus des FSV-Fanprojekts und das Graffiti wurde durch Fans des FSV Frankfurt erstellt](../../images/station%201__43bc5f60caebabe0de7e74f174457e7d_original.jpg)
 *Author: Bernd Löser | Description: Graffiti am Alfred J. Meyers Platz. Das Gebäude ist das Fanhaus des FSV-Fanprojekts und das Graffiti wurde durch Fans des FSV Frankfurt erstellt*
 
 
 ## Gallery
 
-![Alfred J. Meyers unter dem Vereinsbanner des FSV Frankfurt im Stadion am Bornheimer Hang](../../images/station 1__a78b6db59d9f6427bb35dcfd089502b2_original.jpg)
+![Alfred J. Meyers unter dem Vereinsbanner des FSV Frankfurt im Stadion am Bornheimer Hang](../../images/station%201__a78b6db59d9f6427bb35dcfd089502b2_original.jpg)
 *License: Quelle: Der Kicker Nr. 42 13.1.1931 Titelseite, Reprographie Markwart Herzog | Description: Alfred J. Meyers unter dem Vereinsbanner des FSV Frankfurt im Stadion am Bornheimer Hang*
 

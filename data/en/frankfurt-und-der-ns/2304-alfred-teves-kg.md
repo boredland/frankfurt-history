@@ -14,7 +14,7 @@ filters:
 
 *Marburger Street 28*
 
-![Street front of the building complex at Marburger Straße 28.](../../images/Marburger _321e981a642b3e71589ec0555bd25c3d_original.jpg)
+![Street front of the building complex at Marburger Straße 28.](../../images/Marburger%20_321e981a642b3e71589ec0555bd25c3d_original.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: Street front of the building complex at Marburger Straße 28.*
 
 Forced Labor Camp
@@ -40,9 +40,9 @@ Walja M., born in 1923, was a young Catholic Eastern worker. Taken from the camp
 
 ## Gallery
 
-![Street front of the building complex at Marburger Straße 28.](../../images/Marburger _321e981a642b3e71589ec0555bd25c3d_original.jpg)
+![Street front of the building complex at Marburger Straße 28.](../../images/Marburger%20_321e981a642b3e71589ec0555bd25c3d_original.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: Street front of the building complex at Marburger Straße 28.*
 
-![Marburger Street 28, side view.](../../images/Marburger _54ab062e762edd38a5373c6a08e5fb30_original.jpg)
+![Marburger Street 28, side view.](../../images/Marburger%20_54ab062e762edd38a5373c6a08e5fb30_original.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: Marburger Street 28, side view.*
 

@@ -27,6 +27,6 @@ In the narrow alleyways, the smoke from the guns obscured the view. The Austrian
 
 ## Gallery
 
-![Colored lithograph: Rush of the Austrian infantry on the fiercely defended barricade in the Töngesgasse.](../../images/Route 3, S_b64323af0f0b9bed7191237d0ee4bfc2_original.jpg)
+![Colored lithograph: Rush of the Austrian infantry on the fiercely defended barricade in the Töngesgasse.](../../images/Route%203%2C%20S_b64323af0f0b9bed7191237d0ee4bfc2_original.jpg)
 *1848 — Author: Eduard Gustav May | License: HMF C 8429 | Description: Colored lithograph: Rush of the Austrian infantry on the fiercely defended barricade in the Töngesgasse.*
 

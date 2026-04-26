@@ -32,28 +32,28 @@ The railroad revolutionized the mobility of the population. Previously, travel w
 
 ## Gallery
 
-![Carl Hertel (1832–1906), Frankfurt Central Station with undeveloped surroundings, Frankfurt, 1896, HMF.C29184, public domain](../../images/C29184+001_adc7875678a08b3ea36f1a82422d579b_original.jpg)
+![Carl Hertel (1832–1906), Frankfurt Central Station with undeveloped surroundings, Frankfurt, 1896, HMF.C29184, public domain](../../images/C29184%2B001_adc7875678a08b3ea36f1a82422d579b_original.jpg)
 *1896 — Author: Carl Hertel | License: Gemeinfrei, HMF | Description: Carl Hertel (1832–1906), Frankfurt Central Station with undeveloped surroundings, Frankfurt, 1896, HMF.C29184, public domain*
 
 
 ## Gallery
 
-![Carl Friedrich Emil Beer/Gerhard Friedrich Wilmanns (1764–1830), Interior of Taunus railway station, Frankfurt, circa 1840, HMF.C10531, public domain.](../../images/C10531+001_02b9420c32e5cdff8fe4757b3a26960c_original.jpg)
+![Carl Friedrich Emil Beer/Gerhard Friedrich Wilmanns (1764–1830), Interior of Taunus railway station, Frankfurt, circa 1840, HMF.C10531, public domain.](../../images/C10531%2B001_02b9420c32e5cdff8fe4757b3a26960c_original.jpg)
 *Around 1840 — Author: Carl Friedrich Emil Beer (Lithograf); Gerhard Friedrich Wilmanns (Drucker) | License: Gemeinfrei, HMF | Description: Carl Friedrich Emil Beer/Gerhard Friedrich Wilmanns (1764–1830), Interior of Taunus railway station, Frankfurt, circa 1840, HMF.C10531, public domain.*
 
-![Unknown, Taunus railway station, after 1839, HMF.N43235, permanent loan from the Städel Museum Frankfurt, public domain](../../images/N43235+001_86f55bfb2cd763b5ded49390923786ad_original.jpg)
+![Unknown, Taunus railway station, after 1839, HMF.N43235, permanent loan from the Städel Museum Frankfurt, public domain](../../images/N43235%2B001_86f55bfb2cd763b5ded49390923786ad_original.jpg)
 *After 1839 — License: Gemeinfrei; HMF, Dauerleihgabe Städel Museum Frankfurt | Description: Unknown, Taunus railway station, after 1839, HMF.N43235, permanent loan from the Städel Museum Frankfurt, public domain*
 
-![Unknown, Main-Neckar railway station, Frankfurt 1871-1880, HMF.C20098, public domain](../../images/C20098+001_87288f7d66f69efb0a48adc7114fe432_original.jpg)
+![Unknown, Main-Neckar railway station, Frankfurt 1871-1880, HMF.C20098, public domain](../../images/C20098%2B001_87288f7d66f69efb0a48adc7114fe432_original.jpg)
 *1871-1880 — License: Gemeinfrei, HMF | Description: Unknown, Main-Neckar railway station, Frankfurt 1871-1880, HMF.C20098, public domain*
 
 
 ## Gallery
 
-![Carl Hertel (1832–1906), Frankfurt Central Station with undeveloped surroundings, Frankfurt, 1896, HMF.C29184, public domain](../../images/C29184+001_adc7875678a08b3ea36f1a82422d579b_original.jpg)
+![Carl Hertel (1832–1906), Frankfurt Central Station with undeveloped surroundings, Frankfurt, 1896, HMF.C29184, public domain](../../images/C29184%2B001_adc7875678a08b3ea36f1a82422d579b_original.jpg)
 *1896 — Author: Carl Hertel | License: Gemeinfrei, HMF | Description: Carl Hertel (1832–1906), Frankfurt Central Station with undeveloped surroundings, Frankfurt, 1896, HMF.C29184, public domain*
 
-![Views of Frankfurt Central Station, from: Kleine Presse, 1888, HMF.C10536, public domain](../../images/C10536+001_ad65718674f190662f105eac3fce3e7e_original.jpg)
+![Views of Frankfurt Central Station, from: Kleine Presse, 1888, HMF.C10536, public domain](../../images/C10536%2B001_ad65718674f190662f105eac3fce3e7e_original.jpg)
 *1888 — License: Gemeinfrei, HMF | Description: Views of Frankfurt Central Station, from: Kleine Presse, 1888, HMF.C10536, public domain*
 
 ![Staatliche Landesbildstelle Hessen, aerial view of Frankfurt Central Station, Frankfurt around 1930, HMF.Ph06336](../../images/Ph06336_00_57d718228976a2fca64368b76f32dcf8_original.jpg)

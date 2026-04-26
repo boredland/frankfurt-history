@@ -21,10 +21,10 @@ In der Nähe der ehemaligen Judengasse stand die Hauptsynagoge, ein religiöses 
 
 ## Gallery
 
-![Der Architekturentwurf der ehemaligen Hauptsynagoge Börnestraße von Johann Georg Kayser.](../../images/Ehemalige _8061f11d67eeed843ee31ab17fdde68c_original.jpg)
+![Der Architekturentwurf der ehemaligen Hauptsynagoge Börnestraße von Johann Georg Kayser.](../../images/Ehemalige%20_8061f11d67eeed843ee31ab17fdde68c_original.jpg)
 *Author: Künstler Johann Georg Kayser | License: © Institut für Stadtgeschichte (öffentlicher Aushang An der Staufermauer), Frankfurt am Main, s7a_nr_1998-18936 | Description: Der Architekturentwurf der ehemaligen Hauptsynagoge Börnestraße von Johann Georg Kayser.*
 
-![Schwarze Wand mit Gedenktafeln zur alten, ehemaligen Hauptsynagoge in Frankfurt](../../images/Ehemalige _2768c5dd86b29859643271ffe94f21bb_original.jpg)
+![Schwarze Wand mit Gedenktafeln zur alten, ehemaligen Hauptsynagoge in Frankfurt](../../images/Ehemalige%20_2768c5dd86b29859643271ffe94f21bb_original.jpg)
 *2024 — Author: Aliah Habl Corona | License: gemeinfrei | Description: Schwarze Wand mit Gedenktafeln zur alten, ehemaligen Hauptsynagoge in Frankfurt*
 
 

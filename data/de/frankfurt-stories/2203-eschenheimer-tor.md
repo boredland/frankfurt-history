@@ -43,13 +43,13 @@ Das es auch anders geht, das zeigt die „Visual Utopia“ von Jan Kamensky. Der
 
 ## Gallery
 
-![Karl Theodor Reiffenstein (1820-1893), Eschenheimer Tor mit Stadtmauer, nach einer alten Zeichnung von 1790, 1859, HMF.R0039, gemeinfrei](../../images/R0039+001__af8d6cb656a19c3d91a8cb2c0f79d122_original.jpg)
+![Karl Theodor Reiffenstein (1820-1893), Eschenheimer Tor mit Stadtmauer, nach einer alten Zeichnung von 1790, 1859, HMF.R0039, gemeinfrei](../../images/R0039%2B001__af8d6cb656a19c3d91a8cb2c0f79d122_original.jpg)
 *1859 (Original 1790) — Author: Karl Theodor Reiffenstein | License: Gemeinfrei, HMF | Description: Karl Theodor Reiffenstein (1820-1893), Eschenheimer Tor mit Stadtmauer, nach einer alten Zeichnung von 1790, 1859, HMF.R0039, gemeinfrei*
 
 
 ## Gallery
 
-![Peter Becker (1828-1904), Ansicht des Eschenheimer Turms, 1879, HMF.C30633, gemeinfrei](../../images/C30633+001_28f1dd4263f80e33ef4f4488284243fd_original.jpg)
+![Peter Becker (1828-1904), Ansicht des Eschenheimer Turms, 1879, HMF.C30633, gemeinfrei](../../images/C30633%2B001_28f1dd4263f80e33ef4f4488284243fd_original.jpg)
 *1879 — Author: Peter Becker | License: Gemeinfrei, HMF | Description: Peter Becker (1828-1904), Ansicht des Eschenheimer Turms, 1879, HMF.C30633, gemeinfrei*
 
 ![Unbekannt, Sperrbatzen-Krawall am Allerheiligentor am 24.10.1831, HMF.C30359, gemeinfrei](../../images/C30359_001_ffcfff79730153f250e71c5d67c277c4_original.jpg)
@@ -58,10 +58,10 @@ Das es auch anders geht, das zeigt die „Visual Utopia“ von Jan Kamensky. Der
 
 ## Gallery
 
-![Gustav Rapp (1856-1940), Eschenheimer Turm, 1914, HMF.C22110, gemeinfrei](../../images/C22110+001_ae67ab1ac7fc47c42103db10aab3b905_original.jpg)
+![Gustav Rapp (1856-1940), Eschenheimer Turm, 1914, HMF.C22110, gemeinfrei](../../images/C22110%2B001_ae67ab1ac7fc47c42103db10aab3b905_original.jpg)
 *1914 — Author: Gustav Rapp | License: Gemeinfrei, HMF | Description: Gustav Rapp (1856-1940), Eschenheimer Turm, 1914, HMF.C22110, gemeinfrei*
 
-![Max Göllner (1898-1979), Eschenheimer Turm mit Großer Eschersheimer Straße und Schillerstraße, 1950er Jahre, HMF.Ph39144](../../images/Ph39144+00_8bdc0c9c9f9bd12e169d89d08c6cd0e3_original.jpg)
+![Max Göllner (1898-1979), Eschenheimer Turm mit Großer Eschersheimer Straße und Schillerstraße, 1950er Jahre, HMF.Ph39144](../../images/Ph39144%2B00_8bdc0c9c9f9bd12e169d89d08c6cd0e3_original.jpg)
 *1950er Jahre — Author: Max Göllner | License: HMF | Description: Max Göllner (1898-1979), Eschenheimer Turm mit Großer Eschersheimer Straße und Schillerstraße, 1950er Jahre, HMF.Ph39144*
 
 

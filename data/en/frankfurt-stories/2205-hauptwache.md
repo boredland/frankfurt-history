@@ -51,7 +51,7 @@ In October 1968, the city of Frankfurt celebrated the opening of subway line A1,
 ![Carl Hertel (1832-1906), Horse-drawn streetcar on Zeil coming from Hauptwache, Frankfurt, HMF.C29106, public domain](../../images/C29106_001_bc5393a3870030ecc87ede598da2a58c_original.jpg)
 *Around 1880 — Author: Carl Hertel | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Carl Hertel (1832-1906), Horse-drawn streetcar on Zeil coming from Hauptwache, Frankfurt, HMF.C29106, public domain*
 
-![Unknown, Horse-drawn streetcars at the Hauptwache, Frankfurt 1895, HMF.C28203, public domain](../../images/C28203+001_8c67308953cd27459cc35f9c540b2475_original.jpg)
+![Unknown, Horse-drawn streetcars at the Hauptwache, Frankfurt 1895, HMF.C28203, public domain](../../images/C28203%2B001_8c67308953cd27459cc35f9c540b2475_original.jpg)
 *1895 — License: Gemeinfrei, HMF | Description: Unknown, Horse-drawn streetcars at the Hauptwache, Frankfurt 1895, HMF.C28203, public domain*
 
 
@@ -66,10 +66,10 @@ In October 1968, the city of Frankfurt celebrated the opening of subway line A1,
 
 ## Gallery
 
-![Hermann Nöller, Subway construction at Hauptwache, Frankfurt 1965, HMF.Ph05152](../../images/Ph05152+00_07d3cb225cd7edd1820740d6a1c7eda6_original.jpg)
+![Hermann Nöller, Subway construction at Hauptwache, Frankfurt 1965, HMF.Ph05152](../../images/Ph05152%2B00_07d3cb225cd7edd1820740d6a1c7eda6_original.jpg)
 *1965 — Author: Hermann Nöller | License: Verwaist | Description: Hermann Nöller, Subway construction at Hauptwache, Frankfurt 1965, HMF.Ph05152*
 
-![Kurt Weiner (1921-2016), construction pit at Hauptwache during subway construction, Frankfurt 1960s, HMF.Ph05452](../../images/Ph05452+00_468084ec479da7aa3d7dd888fd9f8e4e_original.jpg)
+![Kurt Weiner (1921-2016), construction pit at Hauptwache during subway construction, Frankfurt 1960s, HMF.Ph05452](../../images/Ph05452%2B00_468084ec479da7aa3d7dd888fd9f8e4e_original.jpg)
 *1960s years — Author: Kurt Weiner | License: verwaist | Description: Kurt Weiner (1921-2016), construction pit at Hauptwache during subway construction, Frankfurt 1960s, HMF.Ph05452*
 
 

@@ -27,6 +27,6 @@ Der Gasthof am damaligen Schillerplatz (heute An der Hauptwache) existierte zwis
 
 ## Gallery
 
-![Foto des Schillerplatz mit dem "Pariser Hof" im Hintergund](../../images/09 Pariser_d523a98ce11a63541b7a91cabd3b6372_original.jpg)
+![Foto des Schillerplatz mit dem "Pariser Hof" im Hintergund](../../images/09%20Pariser_d523a98ce11a63541b7a91cabd3b6372_original.jpg)
 *1879 — Author: Carl Friedrich Mylius | License: HMF C27048 | Description: Foto des Schillerplatz mit dem "Pariser Hof" im Hintergund*
 

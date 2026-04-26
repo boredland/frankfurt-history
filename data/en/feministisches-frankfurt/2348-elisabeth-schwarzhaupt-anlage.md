@@ -23,6 +23,6 @@ There are around 3,380 official street names in Frankfurt, including streets, sq
 
 ## Gallery
 
-![Elisabeth Schwarzhaupt Anlage](../../images/Elisabeth _e439740ff6e269bf6e8b7b814678a8b2_original.jpg)
+![Elisabeth Schwarzhaupt Anlage](../../images/Elisabeth%20_e439740ff6e269bf6e8b7b814678a8b2_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Elisabeth Schwarzhaupt Anlage*
 

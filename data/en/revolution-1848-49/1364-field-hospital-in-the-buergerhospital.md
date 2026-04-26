@@ -29,6 +29,6 @@ On the days after the uprising, the soldiers from Prussia, Austria and Electoral
 
 ## Gallery
 
-![Colored lithograph: Barricade at the Bornheim Gate](../../images/Route 3, S_3cb23363504c5c09b3851651c944de68_original.jpg)
+![Colored lithograph: Barricade at the Bornheim Gate](../../images/Route%203%2C%20S_3cb23363504c5c09b3851651c944de68_original.jpg)
 *1848 — Author: unbekannt | License: HMF C 10164c | Description: Colored lithograph: Barricade at the Bornheim Gate*
 

@@ -27,6 +27,6 @@ But the peace initiative failed as the soldiers did not retreat from the barrica
 
 ## Gallery
 
-![Colored lithograph: Representative Rösler announces a truce on the barricade at the Bornheim Gate.](../../images/Route 3, S_3cb23363504c5c09b3851651c944de68_original.jpg)
+![Colored lithograph: Representative Rösler announces a truce on the barricade at the Bornheim Gate.](../../images/Route%203%2C%20S_3cb23363504c5c09b3851651c944de68_original.jpg)
 *1848 — Author: unbekannt | License: HMF C 10164c | Description: Colored lithograph: Representative Rösler announces a truce on the barricade at the Bornheim Gate.*
 

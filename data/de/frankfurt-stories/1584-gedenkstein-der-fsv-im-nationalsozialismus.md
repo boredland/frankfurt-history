@@ -27,18 +27,18 @@ Während der 2. Weltkrieg bereits ausgebrochen war, beteiligte sich der FSV beis
 
 ## Gallery
 
-![Der Gedenkstein heute (2024)](../../images/station 2__c9fef19b3a8014390bf0333da87c9ec6_original.jpg)
+![Der Gedenkstein heute (2024)](../../images/station%202__c9fef19b3a8014390bf0333da87c9ec6_original.jpg)
 *License: Quelle: Franziska Blendin | Description: Der Gedenkstein heute (2024)*
 
 
 ## Gallery
 
-![Der Gedenkstein während des Nationalsozialismus](../../images/station 2__60fc9fdabd7f5363e299940b30987bb8_original.jpg)
+![Der Gedenkstein während des Nationalsozialismus](../../images/station%202__60fc9fdabd7f5363e299940b30987bb8_original.jpg)
 *License: 100 Jahre Chronik des FSV Frankfurt | Description: Der Gedenkstein während des Nationalsozialismus*
 
 
 ## Gallery
 
-![Der FSV Frankfurt spendet Pokale und Trophäen als Metallspende im 2. Weltkrieg](../../images/station 2__fd0bc9d8d2442d82f4049ced62a27030_original.jpg)
+![Der FSV Frankfurt spendet Pokale und Trophäen als Metallspende im 2. Weltkrieg](../../images/station%202__fd0bc9d8d2442d82f4049ced62a27030_original.jpg)
 *License: Quelle: 100 Jahre Chronik des FSV Frankfurts | Description: Der FSV Frankfurt spendet Pokale und Trophäen als Metallspende im 2. Weltkrieg*
 

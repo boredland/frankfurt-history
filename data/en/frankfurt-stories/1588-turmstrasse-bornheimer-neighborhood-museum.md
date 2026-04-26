@@ -21,6 +21,6 @@ You are now standing at Turmstraße 11 in front of Frankfurt's smallest museum, 
 
 ## Gallery
 
-![Picture of the sign of the “”Bornheim neighborhood museum - Bornheim, the funny village""](../../images/station 6__9ad0a0292cc11c45343bf737a42b9e61_original.jpg)
+![Picture of the sign of the “”Bornheim neighborhood museum - Bornheim, the funny village""](../../images/station%206__9ad0a0292cc11c45343bf737a42b9e61_original.jpg)
 *License: F. Blendin | Description: Picture of the sign of the “”Bornheim neighborhood museum - Bornheim, the funny village""*
 

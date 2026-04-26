@@ -22,10 +22,10 @@ Zudem produzierte sie drei Langfilme: TWO RIGHT, TWO LEFT, DROP ONE (1972), ETWA
 
 ## Gallery
 
-![Portrait Recha Jungmann](../../images/Portrait R_c5c4dff6321a6edfaeabaf82cc6d6e9d_original.jpg)
+![Portrait Recha Jungmann](../../images/Portrait%20R_c5c4dff6321a6edfaeabaf82cc6d6e9d_original.jpg)
 *1995 — Author: Heiko Arendt | License: Heiko Arendt | Description: Portrait Recha Jungmann*
 
-![Filmstill ZWISCHEN MOND UND SONNE (1980/1981), v.L.n.R. Titus Spree, Recha Jungmann, Werner Schroeter](../../images/Zwischen M_0181507cae9d8079e37b2a609b04a42b_original.jpg)
+![Filmstill ZWISCHEN MOND UND SONNE (1980/1981), v.L.n.R. Titus Spree, Recha Jungmann, Werner Schroeter](../../images/Zwischen%20M_0181507cae9d8079e37b2a609b04a42b_original.jpg)
 *1980/81 — Author: Recha Jungmann | License: Recha Jungmann | Description: Filmstill ZWISCHEN MOND UND SONNE (1980/1981), v.L.n.R. Titus Spree, Recha Jungmann, Werner Schroeter*
 
 ![Filmstill UNSERE MÜTTER, UNSERE VÄTER 1 (1981/1982)](../../images/Unsere_Mue_e2c23106747e7a5f1a7fda62374be526_original.jpg)
@@ -34,9 +34,9 @@ Zudem produzierte sie drei Langfilme: TWO RIGHT, TWO LEFT, DROP ONE (1972), ETWA
 ![Filmstill UNSERE MÜTTER, UNSERE VÄTER 1 (1981/1982)](../../images/Unsere_Mue_84a160a735f3c0101168526ec7b3688d_original.jpg)
 *1981/1982 — Author: Recha Jungmann | License: Recha Jungmann | Description: Filmstill UNSERE MÜTTER, UNSERE VÄTER 1 (1981/1982)*
 
-![Filmstill ETWAS TUT WEH (1979/1980)](../../images/Etwas tut _bcd2828af7bc52dfb312b4a81531a5ce_original.jpg)
+![Filmstill ETWAS TUT WEH (1979/1980)](../../images/Etwas%20tut%20_bcd2828af7bc52dfb312b4a81531a5ce_original.jpg)
 *1979/1980 — Author: Recha Jungmann | License: Recha Jungmann | Description: Filmstill ETWAS TUT WEH (1979/1980)*
 
-![Filmstill ETWAS TUT WEH (1979/1980)](../../images/Etwas tut _b23950243cff0da2c40d238b6aed1f02_original.jpg)
+![Filmstill ETWAS TUT WEH (1979/1980)](../../images/Etwas%20tut%20_b23950243cff0da2c40d238b6aed1f02_original.jpg)
 *1979/1980 — Author: Recha Jungmann | License: Recha Jungmann | Description: Filmstill ETWAS TUT WEH (1979/1980)*
 

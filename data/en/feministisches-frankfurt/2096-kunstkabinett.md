@@ -21,6 +21,6 @@ In 1947, Hanna Bekker vom Rath opened the Frankfurter Kunstkabinett at Kaiserstr
 
 ## Gallery
 
-![](../../images/C97037+001_6b5134db187735ec631de24b6e23d6c3_original.jpg)
+![](../../images/C97037%2B001_6b5134db187735ec631de24b6e23d6c3_original.jpg)
 *1907 — Author: Frankfurter Lichtdruckanstalt | License: HMF*
 

@@ -26,6 +26,6 @@ In der Universitätsstraße 21 hatte die Ortsguppe Universität der NSV ihren Si
 
 ## Gallery
 
-![](../../images/Hier fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
+![](../../images/Hier%20fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
 *License: HMF*
 

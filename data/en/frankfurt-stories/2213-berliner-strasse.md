@@ -27,13 +27,13 @@ Berliner Straße, built in 1952/1953, followed the original street layout only t
 
 ## Gallery
 
-![Kurt Röhrig (1912-2007), An der Paulskirche (today: Berliner Straße), Frankfurt after 1952, HMF.Ph16641](../../images/Ph16641+00_27ece1cefa700d1bb4e3948262a003fd_original.jpg)
+![Kurt Röhrig (1912-2007), An der Paulskirche (today: Berliner Straße), Frankfurt after 1952, HMF.Ph16641](../../images/Ph16641%2B00_27ece1cefa700d1bb4e3948262a003fd_original.jpg)
 *After 1952 — Author: Kurt Röhrig | License: HMF, roebild | Description: Kurt Röhrig (1912-2007), An der Paulskirche (today: Berliner Straße), Frankfurt after 1952, HMF.Ph16641*
 
 
 ## Gallery
 
-![Fred Kochmann (1918-2013), View of Berliner Straße towards Paulskirche, Frankfurt, around 1970, HMF.Ph11630](../../images/Ph11630+00_6b9ff457dd385beea0fbaec76f351824_original.jpg)
+![Fred Kochmann (1918-2013), View of Berliner Straße towards Paulskirche, Frankfurt, around 1970, HMF.Ph11630](../../images/Ph11630%2B00_6b9ff457dd385beea0fbaec76f351824_original.jpg)
 *Around 1970 — Author: Fred Kochmann | License: HMF | Description: Fred Kochmann (1918-2013), View of Berliner Straße towards Paulskirche, Frankfurt, around 1970, HMF.Ph11630*
 
 
@@ -42,6 +42,6 @@ Berliner Straße, built in 1952/1953, followed the original street layout only t
 ![Karl Polkin, North side of Berliner Straße (formerly: An der Paulskirche) under construction, Frankfurt 1953, HMF.Ph02135a](../../images/C10421_001_0eb08749ad24385dac546987363fb553_original.jpg)
 *1953 — Author: Karl Polkin | License: Verwaist | Description: Karl Polkin, North side of Berliner Straße (formerly: An der Paulskirche) under construction, Frankfurt 1953, HMF.Ph02135a*
 
-![Karl Polkin, North side of Berliner Straße (formerly: An der Paulskirche) under construction, Frankfurt 1953, HMF.Ph02135a](../../images/Ph02135a+0_a87263bdb688198d39c449986b92bc7d_original.jpg)
+![Karl Polkin, North side of Berliner Straße (formerly: An der Paulskirche) under construction, Frankfurt 1953, HMF.Ph02135a](../../images/Ph02135a%2B0_a87263bdb688198d39c449986b92bc7d_original.jpg)
 *1953 — Author: Karl Polkin | License: Verwaist | Description: Karl Polkin, North side of Berliner Straße (formerly: An der Paulskirche) under construction, Frankfurt 1953, HMF.Ph02135a*
 

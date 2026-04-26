@@ -31,12 +31,12 @@ In memory of him and his achievements, the square here at the Fanhaus was named 
 
 ## Gallery
 
-![Graffiti on Alfred J. Meyers Platz. The building is the fan house of the FSV fan project and the graffiti was created by FSV Frankfurt fans](../../images/station 1__43bc5f60caebabe0de7e74f174457e7d_original.jpg)
+![Graffiti on Alfred J. Meyers Platz. The building is the fan house of the FSV fan project and the graffiti was created by FSV Frankfurt fans](../../images/station%201__43bc5f60caebabe0de7e74f174457e7d_original.jpg)
 *Author: Bernd Löser | Description: Graffiti on Alfred J. Meyers Platz. The building is the fan house of the FSV fan project and the graffiti was created by FSV Frankfurt fans*
 
 
 ## Gallery
 
-![Alfred J. Meyers under the FSV Frankfurt club banner at the Bornheimer Hang stadium](../../images/station 1__a78b6db59d9f6427bb35dcfd089502b2_original.jpg)
+![Alfred J. Meyers under the FSV Frankfurt club banner at the Bornheimer Hang stadium](../../images/station%201__a78b6db59d9f6427bb35dcfd089502b2_original.jpg)
 *License: Quelle: Der Kicker Nr. 42 13.1.1931 Titelseite, Reprographie Markwart Herzog | Description: Alfred J. Meyers under the FSV Frankfurt club banner at the Bornheimer Hang stadium*
 

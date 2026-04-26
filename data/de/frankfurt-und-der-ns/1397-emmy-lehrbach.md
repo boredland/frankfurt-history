@@ -31,7 +31,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 ![Familie Lehrbach; L-000446](../../images/Lehrbach_E_044679cd3f14a7ee557d6eee8d36f554_original.jpg)
 *License: 1936 | Description: Familie Lehrbach; L-000446*
 
-![Stolperstein für Emmy Lehrbach](../../images/Emmy Lehrb_79dcd3969287a6d423b5a4b4d23af7ec_original.jpg)
+![Stolperstein für Emmy Lehrbach](../../images/Emmy%20Lehrb_79dcd3969287a6d423b5a4b4d23af7ec_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein für Emmy Lehrbach*
 
 

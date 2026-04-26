@@ -27,7 +27,7 @@ The festival takes place at the Pupille – Kino in der Uni e.V., located in the
 ![CineConcert at Remake. Frankfurt Women's Film Days'](../../images/Kinothek_2_e2bba741de7cd82001b3f7677dc5d196_original.jpg)
 *2019 — Author: Božica Babić; | License: Kinothek Asta Nielsen e.V. | Description: CineConcert at Remake. Frankfurt Women's Film Days'*
 
-![Directors and founders of Kinothek: Heide Schlüppmann, Karola Gramann, and Gaby Babić (from left to right) at the opening ofRemake. Frankfurt Women's Film Days'](../../images/IMG_3301 C_36ef90d40ab6866ee43713ec3fe208ac_original.jpg)
+![Directors and founders of Kinothek: Heide Schlüppmann, Karola Gramann, and Gaby Babić (from left to right) at the opening ofRemake. Frankfurt Women's Film Days'](../../images/IMG_3301%20C_36ef90d40ab6866ee43713ec3fe208ac_original.jpg)
 *2018 — Author: Swenja Bergold und Anne Euler | License: Kinothek Asta Nielsen e.V. | Description: Directors and founders of Kinothek: Heide Schlüppmann, Karola Gramann, and Gaby Babić (from left to right) at the opening ofRemake. Frankfurt Women's Film Days'*
 
 ![Discussion panel on KIWI – Kino Women International at Remake. Frankfurt Women's Film Days'](../../images/REMAKE_28__285f9c5571b43a1893d099167fbd248a_original.jpg)

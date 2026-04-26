@@ -24,7 +24,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
-![Stolperstein für Bernhard Kell](../../images/Bernhard K_e1829e904b1c4ae25bdbe19d4a09ceb3_original.jpg)
+![Stolperstein für Bernhard Kell](../../images/Bernhard%20K_e1829e904b1c4ae25bdbe19d4a09ceb3_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein für Bernhard Kell*
 
 

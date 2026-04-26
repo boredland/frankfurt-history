@@ -23,6 +23,6 @@ Here, 800 gravestones along the main path commemorate people who took their own 
 
 ## Gallery
 
-![Main path at the New Jewish Cemetery](../../images/Neuer Jüd_212ac3dba3be05f8a6a7b01b39bf1e47_original.jpg)
+![Main path at the New Jewish Cemetery](../../images/Neuer%20J%C3%BCd_212ac3dba3be05f8a6a7b01b39bf1e47_original.jpg)
 *2023 — Description: Main path at the New Jewish Cemetery*
 

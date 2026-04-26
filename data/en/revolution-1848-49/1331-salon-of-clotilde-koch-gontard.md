@@ -25,6 +25,6 @@ Since women in the 19th century were not granted equal rights under the law, the
 
 ## Gallery
 
-![Photo of the Clotilde Koch-Gontard salon](../../images/04 Am Salz_2225e20aa4d481a4b659b25eb3608eb6_original.jpg)
+![Photo of the Clotilde Koch-Gontard salon](../../images/04%20Am%20Salz_2225e20aa4d481a4b659b25eb3608eb6_original.jpg)
 *ca. 1908 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2348 | Description: Photo of the Clotilde Koch-Gontard salon*
 

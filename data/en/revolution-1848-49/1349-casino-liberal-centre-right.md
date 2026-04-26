@@ -35,6 +35,6 @@ On the issue of a lesser or greater German solution, which dominated the politic
 
 ## Gallery
 
-![Photo of the casino company building on Roßmarkt](../../images/07 Casino _11f845dcc5b398bc07f1037186f99daa_original.jpg)
+![Photo of the casino company building on Roßmarkt](../../images/07%20Casino%20_11f845dcc5b398bc07f1037186f99daa_original.jpg)
 *1884 — Author: Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-72 | Description: Photo of the casino company building on Roßmarkt*
 

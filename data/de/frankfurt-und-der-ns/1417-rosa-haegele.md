@@ -25,13 +25,13 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
-![Porträt von Rosa Hägele](../../images/Rosa Haege_1923344739a9446a1930ecde7e0f89ea_original.jpg)
+![Porträt von Rosa Hägele](../../images/Rosa%20Haege_1923344739a9446a1930ecde7e0f89ea_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Porträt von Rosa Hägele*
 
-![Rosa Hägele mit ihren Eltern im Garten](../../images/Hägele_R_eaa2ba85faa7fcd3b2ed551b011e784e_original.jpg)
+![Rosa Hägele mit ihren Eltern im Garten](../../images/Ha%CC%88gele_R_eaa2ba85faa7fcd3b2ed551b011e784e_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Rosa Hägele mit ihren Eltern im Garten*
 
-![Beurlaubung aus dem KZ vom 05.01.1944 (Schreibfehler, richtig: 1945)](../../images/Hägele_R_975b398e6620896ac7aef95c33f5b75f_original.jpg)
+![Beurlaubung aus dem KZ vom 05.01.1944 (Schreibfehler, richtig: 1945)](../../images/Ha%CC%88gele_R_975b398e6620896ac7aef95c33f5b75f_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Beurlaubung aus dem KZ vom 05.01.1944 (Schreibfehler, richtig: 1945)*
 
 

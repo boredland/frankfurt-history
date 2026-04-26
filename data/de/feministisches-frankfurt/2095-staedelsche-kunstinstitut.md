@@ -32,6 +32,6 @@ Mathilde Battenberg (1878-1936) war eine der ersten Schülerinnen der Malerin Ot
 ![Dürerstraße, Eingang zur Städelschule, Zeichnung](../../images/C51055_001_f94a4214a500211b8213fe8f61b6138b_original.jpg)
 *1928-1929 — Author: Karl Tratt | License: HMF/Gemeinfrei | Description: Dürerstraße, Eingang zur Städelschule, Zeichnung*
 
-![Schaumeinkai 63, Ansicht des Städels](../../images/Ph11560,2__b99e773cbc89d7599bdf00c6ce56dff2_original.jpg)
+![Schaumeinkai 63, Ansicht des Städels](../../images/Ph11560%2C2__b99e773cbc89d7599bdf00c6ce56dff2_original.jpg)
 *1929 — Author: Friedrich Lauffer | License: HMF/Gemeinfrei | Description: Schaumeinkai 63, Ansicht des Städels*
 

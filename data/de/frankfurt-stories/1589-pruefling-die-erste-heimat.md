@@ -29,27 +29,27 @@ Ab 1906 entstanden in Frankfurt die ersten vereinseigenen Fußballplätze mit kl
 
 ## Gallery
 
-![Lage und Entwicklung des Spielplatzes 1904-1906](../../images/Station 5-_f4f675d8ec45ec06dfdf2293483ca8e7_original.jpg)
+![Lage und Entwicklung des Spielplatzes 1904-1906](../../images/Station%205-_f4f675d8ec45ec06dfdf2293483ca8e7_original.jpg)
 *License: Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.3450, Tiefbauamt;Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.3451, Tiefbauamt | Description: Lage und Entwicklung des Spielplatzes 1904-1906*
 
-![Lage und Entwicklung des Spielplatzes 1908-1913](../../images/Station 5-_5ca56c9bd2e8217c39b0221a54de1d47_original.jpg)
+![Lage und Entwicklung des Spielplatzes 1908-1913](../../images/Station%205-_5ca56c9bd2e8217c39b0221a54de1d47_original.jpg)
 *License: Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.7635, TiefbauamtInstitut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.1282, Tiefbauamt | Description: Lage und Entwicklung des Spielplatzes 1908-1913*
 
 
 ## Gallery
 
-![Zeichnung des ersten offizielle Platzes des FSV Frankfurt im Prüfling aus der 25 Jahres Festschrift des Vereins](../../images/Station 5-_f787031b40714c015926d9b8c4caa240_original.jpg)
+![Zeichnung des ersten offizielle Platzes des FSV Frankfurt im Prüfling aus der 25 Jahres Festschrift des Vereins](../../images/Station%205-_f787031b40714c015926d9b8c4caa240_original.jpg)
 *Description: Zeichnung des ersten offizielle Platzes des FSV Frankfurt im Prüfling aus der 25 Jahres Festschrift des Vereins*
 
 
 ## Gallery
 
-![Das Team des FSV Frankfurt spielt auf dem Prüfling](../../images/station 7__ca1bc70c3fd31bdbf0ca8d5039d151cb_original.jpg)
+![Das Team des FSV Frankfurt spielt auf dem Prüfling](../../images/station%207__ca1bc70c3fd31bdbf0ca8d5039d151cb_original.jpg)
 *License: 100 Jahres Chronik FSV Frankfurt | Description: Das Team des FSV Frankfurt spielt auf dem Prüfling*
 
 
 ## Gallery
 
-![Eberhard Kuchler, Friedel Gerbig, Philipp Stamm, Joseph Fleckenstein und noch 11 weitere, die vorher schon im Fußballklub Nordend zusammen gespielt hatten, gründeten am 20.08.1899 den Fußball Sport Verein 1899 Frankfurt](../../images/station 7__fe8ad6d89bba0aa35fad45487b7fcf96_original.jpg)
+![Eberhard Kuchler, Friedel Gerbig, Philipp Stamm, Joseph Fleckenstein und noch 11 weitere, die vorher schon im Fußballklub Nordend zusammen gespielt hatten, gründeten am 20.08.1899 den Fußball Sport Verein 1899 Frankfurt](../../images/station%207__fe8ad6d89bba0aa35fad45487b7fcf96_original.jpg)
 *Description: Eberhard Kuchler, Friedel Gerbig, Philipp Stamm, Joseph Fleckenstein und noch 11 weitere, die vorher schon im Fußballklub Nordend zusammen gespielt hatten, gründeten am 20.08.1899 den Fußball Sport Verein 1899 Frankfurt*
 

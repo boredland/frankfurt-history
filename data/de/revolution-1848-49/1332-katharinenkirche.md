@@ -25,6 +25,6 @@ Die Verwendung der religiösen Räumlichkeiten für politische Fragen traf nicht
 
 ## Gallery
 
-![Grafik der Katharinenkirche](../../images/05 Kathari_2162acb2da333a9d91ddb17bdc0ae5e1_original.jpg)
+![Grafik der Katharinenkirche](../../images/05%20Kathari_2162acb2da333a9d91ddb17bdc0ae5e1_original.jpg)
 *um 1855 — Author: Johann Jakob Tanner | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 911 | Description: Grafik der Katharinenkirche*
 

@@ -25,7 +25,7 @@ Die Synagoge war das Gotteshaus der Israelitischen Religionsgesellschaft, die 18
 
 ## Gallery
 
-![Ansicht der Synagoge in der Friedberger Anlage](../../images/Ph05125+00_fbb6462ba5d9a557fa7bde5384426ef3_original.jpg)
+![Ansicht der Synagoge in der Friedberger Anlage](../../images/Ph05125%2B00_fbb6462ba5d9a557fa7bde5384426ef3_original.jpg)
 *1907 — Author: unbekannt | License: Institut für Stadtgeschichte | Description: Ansicht der Synagoge in der Friedberger Anlage*
 
 ![Niederschrift über die Besprechung vom 18. November 1938 mit dem Oberbürgermeister zum Abbruch der Synagogen](../../images/NS0804_001_08c724692cee3f29d63f5aedbcb8ffcf_original.jpg)

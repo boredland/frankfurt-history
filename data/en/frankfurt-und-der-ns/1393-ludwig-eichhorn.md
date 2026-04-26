@@ -37,7 +37,7 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 ![Extra pass for persecuted persons (red) for Ludwig Eichorn, issued on 06.08.1946 in Frankfurt](../../images/Eichhorn_L_3eef84876c828f5663c8835eefb7637b_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Extra pass for persecuted persons (red) for Ludwig Eichorn, issued on 06.08.1946 in Frankfurt*
 
-![Stolperstein for Ludwig Eichhorn](../../images/Ludwig Eic_1a597fbb37aae9234f1ccb54a977975d_original.jpg)
+![Stolperstein for Ludwig Eichhorn](../../images/Ludwig%20Eic_1a597fbb37aae9234f1ccb54a977975d_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Ludwig Eichhorn*
 
 

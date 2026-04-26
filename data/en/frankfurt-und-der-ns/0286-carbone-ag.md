@@ -43,7 +43,7 @@ Given the lack of accommodation, the thirty women “Eastern workers” demanded
 ![Photo of a building belonging to Deutsche Carbone AG, which operated a forced labour camp at Talstraße 107](../../images/e0b6711829b3b22f3d07d6f673ef36c1_original.jpg)
 *ca. 1900 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29233 | Description: Photo of a building belonging to Deutsche Carbone AG, which operated a forced labour camp at Talstraße 107*
 
-![Carbone main building at Talstraße 112.](../../images/ABB Hauptg_3b8b696881141edf633a7492092236e0_original.jpg)
+![Carbone main building at Talstraße 112.](../../images/ABB%20Hauptg_3b8b696881141edf633a7492092236e0_original.jpg)
 *approx. 1950 — Author: Unbekannt | License: Fritz Koch, "Von Le Carbone AG bis zu Mersen Deutschland Ffm AG", Frankfurt/M 2013 . | Description: Carbone main building at Talstraße 112.*
 
 
@@ -58,16 +58,16 @@ Given the lack of accommodation, the thirty women “Eastern workers” demanded
 
 ## Gallery
 
-![Barracks for French workers with a view of the Carbone factory building.](../../images/Talstraße_5bc6e5237aabb2dfd1fe52ea315abef5_original.jpg)
+![Barracks for French workers with a view of the Carbone factory building.](../../images/Talstra%C3%9Fe_5bc6e5237aabb2dfd1fe52ea315abef5_original.jpg)
 *May 2025 — Author: Christine Hartwig-Thürmer | License: gemeinfrei | Description: Barracks for French workers with a view of the Carbone factory building.*
 
-![Barracks for French workers with a view of the Carbone factory building, rear view.](../../images/Talstraße_0f6a38a5d3c41897918a571e9f3c0c09_original.jpg)
+![Barracks for French workers with a view of the Carbone factory building, rear view.](../../images/Talstra%C3%9Fe_0f6a38a5d3c41897918a571e9f3c0c09_original.jpg)
 *May 2025 — Author: Christine Hartwig-Thürmer | License: gemeinfrei | Description: Barracks for French workers with a view of the Carbone factory building, rear view.*
 
-![Entrance to the forced laborers' barracks. Above the door is an inscription carved into the wood: “Built in the war year 1942.”](../../images/Talstraße_08490ef5ca87329651b84f2a94868109_original.jpg)
+![Entrance to the forced laborers' barracks. Above the door is an inscription carved into the wood: “Built in the war year 1942.”](../../images/Talstra%C3%9Fe_08490ef5ca87329651b84f2a94868109_original.jpg)
 *May 2025 — Author: Christine Hartwig-Thürmer | License: gemeinfrei | Description: Entrance to the forced laborers' barracks. Above the door is an inscription carved into the wood: “Built in the war year 1942.”*
 
-![Entrance to the forced laborers' barracks. Above the door is an inscription carved into the wood: “Built in the war year 1942.”](../../images/Talstraße_3e7d2b9ba5f74e396384c0b9dacdf593_original.jpg)
+![Entrance to the forced laborers' barracks. Above the door is an inscription carved into the wood: “Built in the war year 1942.”](../../images/Talstra%C3%9Fe_3e7d2b9ba5f74e396384c0b9dacdf593_original.jpg)
 *May 2025 — Author: Christine Hartwig-Thürmer | License: gemeinfrei | Description: Entrance to the forced laborers' barracks. Above the door is an inscription carved into the wood: “Built in the war year 1942.”*
 
 

@@ -25,7 +25,7 @@ This was the site of the synagogue of the “Israelitische Religionsgesellschaft
 
 ## Gallery
 
-![View of the synagogue at Friedberger Anlage](../../images/Ph05125+00_fbb6462ba5d9a557fa7bde5384426ef3_original.jpg)
+![View of the synagogue at Friedberger Anlage](../../images/Ph05125%2B00_fbb6462ba5d9a557fa7bde5384426ef3_original.jpg)
 *1907 — Author: unbekannt | License: Institut für Stadtgeschichte | Description: View of the synagogue at Friedberger Anlage*
 
 ![Notes on the meeting of November 18, 1938 with the mayor on the demolition of the synagogues](../../images/NS0804_001_08c724692cee3f29d63f5aedbcb8ffcf_original.jpg)

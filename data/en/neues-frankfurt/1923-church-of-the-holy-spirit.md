@@ -33,6 +33,6 @@ Further reading: Adrian Seib, Der Kirchenbaumeister Martin Weber (1890–1941). 
 
 ## Gallery
 
-![Church of the Holy Spirit in the Riederwald housing estate](../../images/Ph35143+00_83219cf6a6b359853ce806aec2cc42b0_original.jpg)
+![Church of the Holy Spirit in the Riederwald housing estate](../../images/Ph35143%2B00_83219cf6a6b359853ce806aec2cc42b0_original.jpg)
 *1931–1943 — Author: Otto Emmel | License: Historisches Museum Frankfurt | Description: Church of the Holy Spirit in the Riederwald housing estate*
 

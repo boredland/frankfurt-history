@@ -14,7 +14,7 @@ filters:
 
 *Stephan-Heise-Straße*
 
-![Placeholder image](../../images/Hier fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
+![Placeholder image](../../images/Hier%20fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
 *License: HMF*
 
 Two barracks for forced labourers were erected in Lettow-Vorbeck-Strasse (now Stephan-Heise-Weg) in November 1942. The persons lodged here had to work for the Hartmann & Braun company. Hartmann & Braun was a manufacturer of electrical and thermo-technical measuring instruments. No further details are known about the camp or the accommodations here.
@@ -23,6 +23,6 @@ Two barracks for forced labourers were erected in Lettow-Vorbeck-Strasse (now St
 
 ## Gallery
 
-![Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de](../../images/Hier fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
+![Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de](../../images/Hier%20fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
 *Author: HMF | License: gemeinfrei | Description: Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de*
 

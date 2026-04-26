@@ -15,7 +15,7 @@ filters:
 
 *Holzgraben 2*
 
-![](../../images/Hier fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
+![](../../images/Hier%20fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
 *License: HMF*
 
 Kaufhaus Hermann Wronker
@@ -24,6 +24,6 @@ Von dem einst größten Kaufhaus Frankfurts ist nur noch die Fassade aus rotem S
 
 ## Gallery
 
-![](../../images/Hier fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
+![](../../images/Hier%20fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
 *License: HMF*
 

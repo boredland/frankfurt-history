@@ -25,6 +25,6 @@ Die Weidenbusch-Versammlungen bestanden seit Mitte Februar 1849 aus Abgeordneten
 
 ## Gallery
 
-![Lithografie mit dem Lokal und Hotel zum Weidenbusch](../../images/12 Weidenb_c9e50116ce0d8bdfc29fef36261ce292_original.jpg)
+![Lithografie mit dem Lokal und Hotel zum Weidenbusch](../../images/12%20Weidenb_c9e50116ce0d8bdfc29fef36261ce292_original.jpg)
 *um 1840 — Author: J. H. Martens | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 271 | Description: Lithografie mit dem Lokal und Hotel zum Weidenbusch*
 

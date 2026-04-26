@@ -26,7 +26,7 @@ To promote international cooperation, the Center regularly fills the Angela Davi
 
 ## Gallery
 
-![The managing director of the Cornelia Goethe Center, Helma Lutz, and Angela Davis at the press conference for the inauguration of the Angela Davis visiting professorship.](../../images/Angela Dav_37f299f19d612ab86bc268e7a93f2f79_original.jpg)
+![The managing director of the Cornelia Goethe Center, Helma Lutz, and Angela Davis at the press conference for the inauguration of the Angela Davis visiting professorship.](../../images/Angela%20Dav_37f299f19d612ab86bc268e7a93f2f79_original.jpg)
 *2013 — Author: Anja Feix | License: Anja Feix | Description: The managing director of the Cornelia Goethe Center, Helma Lutz, and Angela Davis at the press conference for the inauguration of the Angela Davis visiting professorship.*
 
 

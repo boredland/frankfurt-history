@@ -25,6 +25,6 @@ Im Januar 1925 wurde die 16-jährige trans* Person W. Heinrich in weiblicher Kle
 
 ## Gallery
 
-![Ansichtskarte der Kaiserstraße mit Blick Richtung Hauptbahnhof](../../images/C57778+001_2974c3cdded3d29705026009811d07ed_original.jpg)
+![Ansichtskarte der Kaiserstraße mit Blick Richtung Hauptbahnhof](../../images/C57778%2B001_2974c3cdded3d29705026009811d07ed_original.jpg)
 *ca. 1900 — Author: Verlag Emil Hartmann | License: Historisches Museum Frankfurt | Description: Ansichtskarte der Kaiserstraße mit Blick Richtung Hauptbahnhof*
 

@@ -37,7 +37,7 @@ Die von Carbone schon im November 1942 angeforderten 30 Ostarbeiterinnen kamen w
 ![Foto eines Gebäude der Deutsche Carbone AG, die in der Talstraße 107 ein Zwangsarbeitslager betrieb](../../images/e0b6711829b3b22f3d07d6f673ef36c1_original.jpg)
 *ca. 1900 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29233 | Description: Foto eines Gebäude der Deutsche Carbone AG, die in der Talstraße 107 ein Zwangsarbeitslager betrieb*
 
-![Carbone Hauptgebäude in der Talstraße 112.](../../images/ABB Hauptg_3b8b696881141edf633a7492092236e0_original.jpg)
+![Carbone Hauptgebäude in der Talstraße 112.](../../images/ABB%20Hauptg_3b8b696881141edf633a7492092236e0_original.jpg)
 *ca. 1950 — Author: Unbekannt | License: Fritz Koch, "Von Le Carbone AG bis zu Mersen Deutschland Ffm AG", Frankfurt/M 2013 . | Description: Carbone Hauptgebäude in der Talstraße 112.*
 
 
@@ -52,16 +52,16 @@ Die von Carbone schon im November 1942 angeforderten 30 Ostarbeiterinnen kamen w
 
 ## Gallery
 
-![Wohn-Baracken für französische Arbeiter mit Blick auf das Carbone Werksgebäude.](../../images/Talstraße_5bc6e5237aabb2dfd1fe52ea315abef5_original.jpg)
+![Wohn-Baracken für französische Arbeiter mit Blick auf das Carbone Werksgebäude.](../../images/Talstra%C3%9Fe_5bc6e5237aabb2dfd1fe52ea315abef5_original.jpg)
 *Mai 2025 — Author: Christine Hartwig-Thürmer | License: gemeinfrei | Description: Wohn-Baracken für französische Arbeiter mit Blick auf das Carbone Werksgebäude.*
 
-![Wohn-Baracken für französische Arbeiter mit Blick auf das Carbone Werksgebäude, Rückseite.](../../images/Talstraße_0f6a38a5d3c41897918a571e9f3c0c09_original.jpg)
+![Wohn-Baracken für französische Arbeiter mit Blick auf das Carbone Werksgebäude, Rückseite.](../../images/Talstra%C3%9Fe_0f6a38a5d3c41897918a571e9f3c0c09_original.jpg)
 *Mai 2025 — Author: Christine Hartwig-Thürmer | License: gemeinfrei | Description: Wohn-Baracken für französische Arbeiter mit Blick auf das Carbone Werksgebäude, Rückseite.*
 
-![Eingang der Zwangsarbeiterbaracke. Über der Tür ist ein Schriftzug eingeritzt: "Erbaut im Kriegsjahr 1942".](../../images/Talstraße_08490ef5ca87329651b84f2a94868109_original.jpg)
+![Eingang der Zwangsarbeiterbaracke. Über der Tür ist ein Schriftzug eingeritzt: "Erbaut im Kriegsjahr 1942".](../../images/Talstra%C3%9Fe_08490ef5ca87329651b84f2a94868109_original.jpg)
 *Mai 2025 — Author: Christine Hartwig-Thürmer | License: gemeinfrei | Description: Eingang der Zwangsarbeiterbaracke. Über der Tür ist ein Schriftzug eingeritzt: "Erbaut im Kriegsjahr 1942".*
 
-![Eingang der Zwangsarbeiterbaracke. Über der Tür ist ein Schriftzug eingeritzt: "Erbaut im Kriegsjahr 1942".](../../images/Talstraße_3e7d2b9ba5f74e396384c0b9dacdf593_original.jpg)
+![Eingang der Zwangsarbeiterbaracke. Über der Tür ist ein Schriftzug eingeritzt: "Erbaut im Kriegsjahr 1942".](../../images/Talstra%C3%9Fe_3e7d2b9ba5f74e396384c0b9dacdf593_original.jpg)
 *Mai 2025 — Author: Christine Hartwig-Thürmer | License: gemeinfrei | Description: Eingang der Zwangsarbeiterbaracke. Über der Tür ist ein Schriftzug eingeritzt: "Erbaut im Kriegsjahr 1942".*
 
 

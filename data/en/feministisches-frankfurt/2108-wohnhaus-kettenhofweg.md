@@ -24,6 +24,6 @@ Clotilde Koch-Gontard took an early interest in the political developments surro
 
 ## Gallery
 
-![](../../images/RS0159+001_dd6704917a29ce4bfaaac94427c41235_original.jpg)
+![](../../images/RS0159%2B001_dd6704917a29ce4bfaaac94427c41235_original.jpg)
 *Author: Carl Theodor Reiffenstein | License: HMF/Gemeinfrei*
 

@@ -24,7 +24,7 @@ Café Laumer has been around since 1919. Located at Bockenheimer Landstrasse 67 
 
 ## Gallery
 
-![Café Laumer in Frankfurt, a historical meeting place forintellectuals since 1919.](../../images/Café Lau_3788aa6f455b1c13e1ab49fb74219aae_original.jpg)
+![Café Laumer in Frankfurt, a historical meeting place forintellectuals since 1919.](../../images/Cafe%CC%81%20Lau_3788aa6f455b1c13e1ab49fb74219aae_original.jpg)
 *2024 — Author: Aliah Habl Corona | License: gemeinfrei | Description: Café Laumer in Frankfurt, a historical meeting place forintellectuals since 1919.*
 
 

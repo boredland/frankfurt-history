@@ -28,7 +28,7 @@ Der Geschichtsort Adlerwerke dokumentiert und vermittelt das Thema Zwangsarbeit 
 ![Schriftzug des Geschichtsort Adlerwerke an der Fassade des alten Fabrikgebäudes.](../../images/621f4f946c021519b587631bf9fb55e0_original.jpg)
 *2023 — Author: Thomas Altmeyer | License: gemeinfrei | Description: Schriftzug des Geschichtsort Adlerwerke an der Fassade des alten Fabrikgebäudes.*
 
-![Jugendliche im Geschichtsort Adlerwerke.](../../images/Stadt Fran_81ae86d3c9366b4151258da32fd90e5e_original.jpg)
+![Jugendliche im Geschichtsort Adlerwerke.](../../images/Stadt%20Fran_81ae86d3c9366b4151258da32fd90e5e_original.jpg)
 *2022 — Author: Mara Monetti | License: Stadt Frankfurt | Description: Jugendliche im Geschichtsort Adlerwerke.*
 
 

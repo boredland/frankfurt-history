@@ -27,6 +27,6 @@ St Paul’s Church continued to be used for Lutheran services until 1944, when i
 
 ## Gallery
 
-![Color lithograph of St. Paul's Church and St. Paul's Square](../../images/02 Paulski_4bf1da67ec3ce5ad5d4481cb5b291768_original.jpg)
+![Color lithograph of St. Paul's Church and St. Paul's Square](../../images/02%20Paulski_4bf1da67ec3ce5ad5d4481cb5b291768_original.jpg)
 *ca. 1850 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 322 | Description: Color lithograph of St. Paul's Church and St. Paul's Square*
 

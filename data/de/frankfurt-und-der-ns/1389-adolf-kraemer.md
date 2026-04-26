@@ -25,16 +25,16 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
-![Porträt von Adolf Krämer; M-001763](../../images/Krämer_A_96e70f67236f66bcbae88e444253dfd9_original.jpg)
+![Porträt von Adolf Krämer; M-001763](../../images/Kra%CC%88mer_A_96e70f67236f66bcbae88e444253dfd9_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Porträt von Adolf Krämer; M-001763*
 
-![Missionsfahrt mit dem "Wasserauto", ein LKW der Fa. "Luna-Quelle"; S-0161186](../../images/Krämer_A_ea501ac4f36f78f2a8ee4578b75cdd8a_original.jpg)
+![Missionsfahrt mit dem "Wasserauto", ein LKW der Fa. "Luna-Quelle"; S-0161186](../../images/Kra%CC%88mer_A_ea501ac4f36f78f2a8ee4578b75cdd8a_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Missionsfahrt mit dem "Wasserauto", ein LKW der Fa. "Luna-Quelle"; S-0161186*
 
-![Sonderausweis für Verfolgte (rot) für Adolf Krämer, ausgestellt am 06.08.1946](../../images/Krämer_A_e3a44dd40532af92e7345d0585448efc_original.jpg)
+![Sonderausweis für Verfolgte (rot) für Adolf Krämer, ausgestellt am 06.08.1946](../../images/Kra%CC%88mer_A_e3a44dd40532af92e7345d0585448efc_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Sonderausweis für Verfolgte (rot) für Adolf Krämer, ausgestellt am 06.08.1946*
 
-![Stolperstein für Adolf Krämer](../../images/Adolf Krä_ca2b45c1fe8f90c7c8db0099ff2e1ff4_original.jpg)
+![Stolperstein für Adolf Krämer](../../images/Adolf%20Kr%C3%A4_ca2b45c1fe8f90c7c8db0099ff2e1ff4_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein für Adolf Krämer*
 
 

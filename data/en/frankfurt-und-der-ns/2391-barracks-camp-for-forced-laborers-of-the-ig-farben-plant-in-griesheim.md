@@ -25,7 +25,7 @@ A group of several interconnected buildings in the northern section of the camp 
 
 ## Gallery
 
-![Construction plan for the camp for forced laborers and prisoners of war at I.G. Farben, Griesheim plant.](../../images/Lager Stro_87b7d76ce2acbebe38f2157f29607479_original.jpg)
+![Construction plan for the camp for forced laborers and prisoners of war at I.G. Farben, Griesheim plant.](../../images/Lager%20Stro_87b7d76ce2acbebe38f2157f29607479_original.jpg)
 *2025 — Author: Grafikdesigner: carloscusguen.com | License: Sascha Mahl | Description: Construction plan for the camp for forced laborers and prisoners of war at I.G. Farben, Griesheim plant.*
 
 ![Group of Ukrainian female forced laborers at I.G. Farben in Frankfurt](../../images/fremdarbei_ede311a26560cab045129179b112dd32_original.jpg)

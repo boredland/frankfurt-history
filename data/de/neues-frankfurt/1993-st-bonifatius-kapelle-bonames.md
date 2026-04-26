@@ -33,6 +33,6 @@ Quelle: Adrian Seib, Der Kirchenbaumeister Martin Weber (1890–1941). Leben und
 
 ## Gallery
 
-![St. Bonifatius-Kapelle in Frankfurt-Bonames.](../../images/Ph35145+00_50dc39d4216d870300de7d1adda562b1_original.jpg)
+![St. Bonifatius-Kapelle in Frankfurt-Bonames.](../../images/Ph35145%2B00_50dc39d4216d870300de7d1adda562b1_original.jpg)
 *1933-1944 — Author: Friedrich Robert Otto Emmel | License: Historisches Museum Frankfurt | Description: St. Bonifatius-Kapelle in Frankfurt-Bonames.*
 

@@ -23,6 +23,6 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
-![Henriette Fürth Straße](../../images/Henriette _24d64160155b455cd416dd7e3e7a9faa_original.jpg)
+![Henriette Fürth Straße](../../images/Henriette%20_24d64160155b455cd416dd7e3e7a9faa_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Henriette Fürth Straße*
 

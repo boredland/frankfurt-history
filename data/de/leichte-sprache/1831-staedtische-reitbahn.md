@@ -51,6 +51,6 @@ Das alles war aber noch vor den Wahlen zur National-Versammlung.
 
 ## Gallery
 
-![Grafik: Carl Theodor Reiffenstein, 1835, Historisches Museum Frankfurt R158](../../images/LS_Städti_1c37e0369959d2369a1b5eae02f5c397_original.jpg)
+![Grafik: Carl Theodor Reiffenstein, 1835, Historisches Museum Frankfurt R158](../../images/LS_St%C3%A4dti_1c37e0369959d2369a1b5eae02f5c397_original.jpg)
 *1835 — Author: Carl Theodor Reiffenstein | Description: Grafik: Carl Theodor Reiffenstein, 1835, Historisches Museum Frankfurt R158*
 

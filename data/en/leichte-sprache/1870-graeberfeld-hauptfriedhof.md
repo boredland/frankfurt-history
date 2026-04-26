@@ -41,6 +41,6 @@ Dort wurden sie ermordet.
 
 ## Gallery
 
-![](../../images/Gräberfel_d73b4e112cbaed1ea1e5021642e00011_original.jpg)
+![](../../images/Gr%C3%A4berfel_d73b4e112cbaed1ea1e5021642e00011_original.jpg)
 *License: © Lebenshilfe Frankfurt*
 

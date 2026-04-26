@@ -31,12 +31,12 @@ It was not until 1966 that parking on the roadside was permitted. Frankfurt's pa
 
 ## Gallery
 
-![Willy Keim, Kornmarkt parking garage at Hauptwache with gas station, Frankfurt 1957, HMF.Ph12325, roebild](../../images/Ph12325+00_3e8be8ea7bdaf5103cbf7bb80fc551fd_original.jpg)
+![Willy Keim, Kornmarkt parking garage at Hauptwache with gas station, Frankfurt 1957, HMF.Ph12325, roebild](../../images/Ph12325%2B00_3e8be8ea7bdaf5103cbf7bb80fc551fd_original.jpg)
 *1957 — Author: Willy Keim | License: HMF, roebild | Description: Willy Keim, Kornmarkt parking garage at Hauptwache with gas station, Frankfurt 1957, HMF.Ph12325, roebild*
 
 
 ## Gallery
 
-![Willy Keim, parking garage at Konstablerwache, opened in 1959, Frankfurt 1969, HMF.Ph12267, roebild](../../images/Ph12267+00_bcdf2954adbd0cf521bdce6b1042a87c_original.jpg)
+![Willy Keim, parking garage at Konstablerwache, opened in 1959, Frankfurt 1969, HMF.Ph12267, roebild](../../images/Ph12267%2B00_bcdf2954adbd0cf521bdce6b1042a87c_original.jpg)
 *1969 — Author: Willy Keim | License: HMF, roebild | Description: Willy Keim, parking garage at Konstablerwache, opened in 1959, Frankfurt 1969, HMF.Ph12267, roebild*
 

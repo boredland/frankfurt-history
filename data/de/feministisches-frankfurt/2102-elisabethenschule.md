@@ -24,6 +24,6 @@ Später wurde Henriette Fürth SPD-Stadtverordnete und eine wichtige Stimme zwis
 
 ## Gallery
 
-![HMF/Gemeinfrei](../../images/C29116+001_01725d51fb5dcd01f4dd3c51daab2f36_original.jpg)
+![HMF/Gemeinfrei](../../images/C29116%2B001_01725d51fb5dcd01f4dd3c51daab2f36_original.jpg)
 *1987 — Author: Carl Friedrich Mylius | License: HMF/Gemeinfrei | Description: HMF/Gemeinfrei*
 

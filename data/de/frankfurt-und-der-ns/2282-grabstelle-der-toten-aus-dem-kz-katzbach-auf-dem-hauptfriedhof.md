@@ -39,7 +39,7 @@ Die meisten Häftlinge im KZ „Katzbach“ waren Männer aus Polen, die im Zusa
 ![1997 wurde ein Gedenkstein in deutscher und polnischer Sprache mit historischen Angaben zum KZ enthüllt.](../../images/isg_ffm_s7_3fef67602267660ce9f2335ea1605829_original.jpg)
 *1997 — Author: Georg Kumpfmüller | License: Institut für Stadtgeschichte, Sig. S7FR Nr. 104 | Description: 1997 wurde ein Gedenkstein in deutscher und polnischer Sprache mit historischen Angaben zum KZ enthüllt.*
 
-![1948 errichtete die Polnische Katholische Mission ein Steinkreuz. Es hat die Inschrift „Ofiarom niemieckich obozów koncentracyjnych 1948 – Rodacy“ (Den Opfern der deutschen Konzentrationslager 1948. Die Landsleute).](../../images/Kößler, _b803f96a119f8e5482f844b9f5469511_original.jpg)
+![1948 errichtete die Polnische Katholische Mission ein Steinkreuz. Es hat die Inschrift „Ofiarom niemieckich obozów koncentracyjnych 1948 – Rodacy“ (Den Opfern der deutschen Konzentrationslager 1948. Die Landsleute).](../../images/K%C3%B6%C3%9Fler%2C%20_b803f96a119f8e5482f844b9f5469511_original.jpg)
 *2025 — Author: Gottfried Kößler | License: gemeinfrei | Description: 1948 errichtete die Polnische Katholische Mission ein Steinkreuz. Es hat die Inschrift „Ofiarom niemieckich obozów koncentracyjnych 1948 – Rodacy“ (Den Opfern der deutschen Konzentrationslager 1948. Die Landsleute).*
 
 

@@ -14,7 +14,7 @@ filters:
 
 *Fechenheimer Wald*
 
-![Drawing of the Heinrich Kraft playground.](../../images/Zeichnung _7c9a420826b6e6304c881d7fc24eba4f_original.jpg)
+![Drawing of the Heinrich Kraft playground.](../../images/Zeichnung%20_7c9a420826b6e6304c881d7fc24eba4f_original.jpg)
 *n.d. — Author: Unbekannt | License: Katharina Müller, VG Bild-Kunst, Bonn 2022 | Description: Drawing of the Heinrich Kraft playground.*
 
 On 28 April 1942, Józef Ochmanek was executed in Fechenheimer Wald – a stretch of woodland close to Vilbeler Landstraße and, at that time, opposite the Diskus factory. Józef Ochmanek, a forced laborer on the Schmidberger farm at Ankergasse 3-5 in Frankfurt’s Fechenheim district, had a love affair with a German woman. Under the racist special laws in the Polish Decrees from 1940, such intimate relationships were strictly forbidden and punishable by death.
@@ -25,9 +25,9 @@ The execution was carried out by members of the Frankfurt Gestapo. With a noose 
 
 ## Gallery
 
-![Drawing of the Heinrich Kraft playground.](../../images/Zeichnung _7c9a420826b6e6304c881d7fc24eba4f_original.jpg)
+![Drawing of the Heinrich Kraft playground.](../../images/Zeichnung%20_7c9a420826b6e6304c881d7fc24eba4f_original.jpg)
 *n.d. — Author: Unbekannt | License: Katharina Müller, VG Bild-Kunst, Bonn 2022 | Description: Drawing of the Heinrich Kraft playground.*
 
-![Forest parking lot. Heinrich Kraft Park.](../../images/Dankert, B_5c5a784c847f96bb832df8625e9766a1_original.jpg)
+![Forest parking lot. Heinrich Kraft Park.](../../images/Dankert%2C%20B_5c5a784c847f96bb832df8625e9766a1_original.jpg)
 *Author: Barbara Dankert | License: gemeinfrei | Description: Forest parking lot. Heinrich Kraft Park.*
 

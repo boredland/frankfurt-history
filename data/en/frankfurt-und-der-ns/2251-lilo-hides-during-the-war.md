@@ -32,7 +32,7 @@ How did people find out about Lilo’s story? If you’d like to know, have a lo
 
 ## Gallery
 
-![This family photo was taken the evening before Lilo's mother and brother had to go to the Theresienstadt camp.](../../images/Gü_09_neu_451eabb0de02e5f756988cb45d139b8a_original.jpg)
+![This family photo was taken the evening before Lilo's mother and brother had to go to the Theresienstadt camp.](../../images/G%C3%BC_09_neu_451eabb0de02e5f756988cb45d139b8a_original.jpg)
 *1945 — Author: unbekannt | License: Privat, Lilo Günzler: Endlich Reden, Henrich Editionen Frankfurt | Description: This family photo was taken the evening before Lilo's mother and brother had to go to the Theresienstadt camp.*
 
 

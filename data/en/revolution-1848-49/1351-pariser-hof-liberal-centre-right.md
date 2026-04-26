@@ -27,6 +27,6 @@ From 1709 to 1898, the Pariser Hof Hotel was on the then Schillerplatz square (t
 
 ## Gallery
 
-![Photo of Schillerplatz with the ‘Pariser Hof’ in the background](../../images/09 Pariser_d523a98ce11a63541b7a91cabd3b6372_original.jpg)
+![Photo of Schillerplatz with the ‘Pariser Hof’ in the background](../../images/09%20Pariser_d523a98ce11a63541b7a91cabd3b6372_original.jpg)
 *1879 — Author: Carl Friedrich Mylius | License: HMF C27048 | Description: Photo of Schillerplatz with the ‘Pariser Hof’ in the background*
 

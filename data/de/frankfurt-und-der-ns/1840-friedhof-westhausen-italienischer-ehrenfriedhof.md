@@ -34,10 +34,10 @@ Le condizioni di vita degli IMI, costretti a un estenuante lavoro forzato, erano
 
 ## Gallery
 
-![Einweihung des Italienischen Ehrenfriedhofs, Frankfurt 1959. Foto: unbekannt, Italienisches Verteidigungsministerium](../../images/1_1 - Cimi_34435b373412c0c6c7287cff9d295e5e_original.jpg)
+![Einweihung des Italienischen Ehrenfriedhofs, Frankfurt 1959. Foto: unbekannt, Italienisches Verteidigungsministerium](../../images/1_1%20-%20Cimi_34435b373412c0c6c7287cff9d295e5e_original.jpg)
 *1959 — Author: Commissariato generale per le onoranze ai caduti in guerra | License: IT: Ministero della Difesa, Ufficio per la tutela della cultura e della memoria della difesa | Description: Einweihung des Italienischen Ehrenfriedhofs, Frankfurt 1959. Foto: unbekannt, Italienisches Verteidigungsministerium*
 
-![Italienisches Kriegsgräberfeld 2. WK nach der Fertigstellung, Farbdia 1958. Foto: Wilhelm Pfau, ISG FFM S14Frie, 700](../../images/1_3 isg_ff_d7a49b3be7fcedfa1b66540a2c2a82af_original.jpg)
+![Italienisches Kriegsgräberfeld 2. WK nach der Fertigstellung, Farbdia 1958. Foto: Wilhelm Pfau, ISG FFM S14Frie, 700](../../images/1_3%20isg_ff_d7a49b3be7fcedfa1b66540a2c2a82af_original.jpg)
 *Author: Wilhelm Pfau | License: Institut für Stadtgeschichte (ISG) Frankfurt am Main | Description: Italienisches Kriegsgräberfeld 2. WK nach der Fertigstellung, Farbdia 1958. Foto: Wilhelm Pfau, ISG FFM S14Frie, 700*
 
 

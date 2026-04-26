@@ -23,7 +23,7 @@ In 1921, Abraham Ebe opened his leather goods shop along with a workshop for the
 
 ## Gallery
 
-![Ebe family ca. 1923](../../images/Familie Eb_a9bfb41c673703754cd02ff50f70f8ad_original.jpg)
+![Ebe family ca. 1923](../../images/Familie%20Eb_a9bfb41c673703754cd02ff50f70f8ad_original.jpg)
 *Author: unbekannt | Description: Ebe family ca. 1923*
 
 

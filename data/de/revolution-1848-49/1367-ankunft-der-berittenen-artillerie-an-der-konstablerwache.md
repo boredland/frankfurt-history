@@ -27,6 +27,6 @@ Durch Frankfurt rollte eine Verhaftungswelle. Wegen Überfüllung der Zellen in 
 
 ## Gallery
 
-![Kreidelithografie: Die berittene Artillerie prescht über die Zeil. Im Bildzentrum die Konstablerwache mit Uhrtürmchen, links daneben ein Teilstück der Barrikade in der Allerheiligengasse.](../../images/Route 3, S_8a2e8075460e401fde82e23bbd75f713_original.jpg)
+![Kreidelithografie: Die berittene Artillerie prescht über die Zeil. Im Bildzentrum die Konstablerwache mit Uhrtürmchen, links daneben ein Teilstück der Barrikade in der Allerheiligengasse.](../../images/Route%203%2C%20S_8a2e8075460e401fde82e23bbd75f713_original.jpg)
 *1848 — Author: Jean Nicolas Ventadour | License: Institut für Stadtgeschichte, Frankfurt Best. W 1-9 ZGS Nr. 36-245 | Description: Kreidelithografie: Die berittene Artillerie prescht über die Zeil. Im Bildzentrum die Konstablerwache mit Uhrtürmchen, links daneben ein Teilstück der Barrikade in der Allerheiligengasse.*
 

@@ -34,7 +34,7 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 ![Valentin Steinbach with a group of survivors from Mauthausen concentration camp; M-002538](../../images/Steinbach__b89df5709eb140e5d3bc9519dfdd8aa1_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Valentin Steinbach with a group of survivors from Mauthausen concentration camp; M-002538*
 
-![Stolperstein for Valentin Steinbach](../../images/Valentin S_30751762669248eb8d0241711e6d500e_original.jpg)
+![Stolperstein for Valentin Steinbach](../../images/Valentin%20S_30751762669248eb8d0241711e6d500e_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Valentin Steinbach*
 
 

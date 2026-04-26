@@ -27,6 +27,6 @@ Since the Café Milani members only wanted to reform the existing German Confede
 
 ## Gallery
 
-![Lithograph depicting Café Milani on Roßmarkt](../../images/08 Cafe Mi_49c0878606aeb55e9480eea44d7991b1_original.jpg)
+![Lithograph depicting Café Milani on Roßmarkt](../../images/08%20Cafe%20Mi_49c0878606aeb55e9480eea44d7991b1_original.jpg)
 *ca. 1840 — Author: unbekannt | License: HMF C12058 | Description: Lithograph depicting Café Milani on Roßmarkt*
 

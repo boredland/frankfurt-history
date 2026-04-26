@@ -29,6 +29,6 @@ Dabei haben sich nicht alle Leute gut benommen.
 
 ## Gallery
 
-![Photo: Gottfried Vömel, around 1890, Institut für Stadtgeschichte, Frankfurt Best. S7Voe No. 275](../../images/LS_Dreikö_d539a092aacd2d9fc34f696d06632e6e_original.jpg)
+![Photo: Gottfried Vömel, around 1890, Institut für Stadtgeschichte, Frankfurt Best. S7Voe No. 275](../../images/LS_Dreik%C3%B6_d539a092aacd2d9fc34f696d06632e6e_original.jpg)
 *um 1890 — Author: Gottfried Vömel | Description: Photo: Gottfried Vömel, around 1890, Institut für Stadtgeschichte, Frankfurt Best. S7Voe No. 275*
 

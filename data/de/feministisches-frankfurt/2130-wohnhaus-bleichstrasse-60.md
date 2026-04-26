@@ -23,9 +23,9 @@ Elisabeth H. Winterhalter war eine der ersten Gynäkologinnen in Deutschland. Si
 
 ## Gallery
 
-![Bleichstraße-Hinterhäuser: altes Senkenbergisches Institut, Eschenheimer Turm, Aquarell;](../../images/C51047+001_45258587d803c9998ff63b143d5ba631_original.jpg)
+![Bleichstraße-Hinterhäuser: altes Senkenbergisches Institut, Eschenheimer Turm, Aquarell;](../../images/C51047%2B001_45258587d803c9998ff63b143d5ba631_original.jpg)
 *1857 — Author: Carl Theodor Reiffenstein | License: HMF/Gemeinfre | Description: Bleichstraße-Hinterhäuser: altes Senkenbergisches Institut, Eschenheimer Turm, Aquarell;*
 
-![Panorama Blick von der Bleichstraße nach Süden, mit Dom, Paulskirche und Katharinenkirche, zweiteilige zusammengesetzte Fotografie](../../images/Ph01295+00_8f82450e4de4e2eaed1646cc083a7e9b_original.jpg)
+![Panorama Blick von der Bleichstraße nach Süden, mit Dom, Paulskirche und Katharinenkirche, zweiteilige zusammengesetzte Fotografie](../../images/Ph01295%2B00_8f82450e4de4e2eaed1646cc083a7e9b_original.jpg)
 *um 1865 — Author: Carl Friedrich Mylius | License: HMF/Gemeinfre | Description: Panorama Blick von der Bleichstraße nach Süden, mit Dom, Paulskirche und Katharinenkirche, zweiteilige zusammengesetzte Fotografie*
 

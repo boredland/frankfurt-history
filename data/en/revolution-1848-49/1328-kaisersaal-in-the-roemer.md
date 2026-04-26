@@ -25,6 +25,6 @@ This procedure was repeated for the National Assembly’s opening session on 18 
 
 ## Gallery
 
-![Lithograph: published by Heinrich Keller](../../images/01 Kaisers_22d72d318fb416c3c0017359c744200c_original.jpg)
+![Lithograph: published by Heinrich Keller](../../images/01%20Kaisers_22d72d318fb416c3c0017359c744200c_original.jpg)
 *ca. 1880 — Author: verlegt von Heinrich Keller | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 322 | Description: Lithograph: published by Heinrich Keller*
 

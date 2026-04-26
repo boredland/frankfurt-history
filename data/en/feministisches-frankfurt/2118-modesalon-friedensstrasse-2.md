@@ -29,7 +29,7 @@ Without formal training, Toni Schiesser worked her way up to become a sought-aft
 ![](../../images/Ph30724_00_7218bfc4a9d9e4949c60fe4095809643_original.jpg)
 *Author: Unbekannt | License: HMF*
 
-![](../../images/Ph26033,1__c9c24aaba4bace90bbdd05f40ce708f7_original.jpg)
+![](../../images/Ph26033%2C1__c9c24aaba4bace90bbdd05f40ce708f7_original.jpg)
 *Author: Unbekannt | License: HMF*
 
 ![](../../images/Ph30682_jp_ea34e31b6025403518d6ba4a8c183c74_original.jpg)

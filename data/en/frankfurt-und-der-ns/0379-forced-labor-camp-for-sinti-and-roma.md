@@ -15,7 +15,7 @@ filters:
 
 *Kruppstraße 100-102*
 
-![Placeholder image](../../images/Hier fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
+![Placeholder image](../../images/Hier%20fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
 *License: HMF*
 
 Kruppstraße 14 (today: Kruppstraße 100-102) had been a site for caravans of Sinti and Roma since the early 1930s. In spring 1942, after the evacuation of the forced camp for Sinti and Roma at Dieselstraße 40, a new forced camp was set up here. The site was surrounded by a barbed wire fence. Police officers guarded the facility, which was brutally run by police chief Johannes Himmelheber.
@@ -31,6 +31,6 @@ The head of the Himmelheber camp stood trial in 1948 and was acquitted on appeal
 
 ## Gallery
 
-![Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de](../../images/Hier fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
+![Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de](../../images/Hier%20fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
 *Author: HMF | License: gemeinfrei | Description: Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de*
 

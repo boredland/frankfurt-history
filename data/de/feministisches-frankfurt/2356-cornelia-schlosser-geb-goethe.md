@@ -26,7 +26,7 @@ Anlässlich ihres 250. Geburtstags nannte sich das Zentrum für Frauenstudien un
 
 ## Gallery
 
-![Cornelia Schlosser, geb. Goethe, Portraitzeichnung; Rötel und schwarze Kreide über Bleistift](../../images/Cornelia S_6cf49537efd0f7630b695e86fe199599_original.jpg)
+![Cornelia Schlosser, geb. Goethe, Portraitzeichnung; Rötel und schwarze Kreide über Bleistift](../../images/Cornelia%20S_6cf49537efd0f7630b695e86fe199599_original.jpg)
 *circa 1770 — Author: Johann Ludwig Ernst Morgenstern | License: gemeinfrei | Description: Cornelia Schlosser, geb. Goethe, Portraitzeichnung; Rötel und schwarze Kreide über Bleistift*
 
 

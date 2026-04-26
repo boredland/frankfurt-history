@@ -25,6 +25,6 @@ In 1848, another guest at the Russischer Hof hotel was the parliamentarian Eduar
 
 ## Gallery
 
-![Lithograph of the hotel "Russischer Hof"](../../images/09 Russisc_95915dbf5076eebb9343b4b4bf65bbda_original.jpg)
+![Lithograph of the hotel "Russischer Hof"](../../images/09%20Russisc_95915dbf5076eebb9343b4b4bf65bbda_original.jpg)
 *ca. 1850 — Author: J. H. Martens | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 283 | Description: Lithograph of the hotel "Russischer Hof"*
 

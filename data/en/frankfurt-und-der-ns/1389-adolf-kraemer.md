@@ -25,16 +25,16 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
-![Portrait of Adolf Krämer; M-001763](../../images/Krämer_A_96e70f67236f66bcbae88e444253dfd9_original.jpg)
+![Portrait of Adolf Krämer; M-001763](../../images/Kra%CC%88mer_A_96e70f67236f66bcbae88e444253dfd9_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Portrait of Adolf Krämer; M-001763*
 
-![Mission trip with the "water car", a truck from the company "Luna-Quelle"; S-0161186](../../images/Krämer_A_ea501ac4f36f78f2a8ee4578b75cdd8a_original.jpg)
+![Mission trip with the "water car", a truck from the company "Luna-Quelle"; S-0161186](../../images/Kra%CC%88mer_A_ea501ac4f36f78f2a8ee4578b75cdd8a_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Mission trip with the "water car", a truck from the company "Luna-Quelle"; S-0161186*
 
-![Special pass for persecuted persons (red) for Adolf Krämer, issued on 06.08.1946](../../images/Krämer_A_e3a44dd40532af92e7345d0585448efc_original.jpg)
+![Special pass for persecuted persons (red) for Adolf Krämer, issued on 06.08.1946](../../images/Kra%CC%88mer_A_e3a44dd40532af92e7345d0585448efc_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Special pass for persecuted persons (red) for Adolf Krämer, issued on 06.08.1946*
 
-![Stolperstein for Adolf Krämer](../../images/Adolf Krä_ca2b45c1fe8f90c7c8db0099ff2e1ff4_original.jpg)
+![Stolperstein for Adolf Krämer](../../images/Adolf%20Kr%C3%A4_ca2b45c1fe8f90c7c8db0099ff2e1ff4_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Adolf Krämer*
 
 

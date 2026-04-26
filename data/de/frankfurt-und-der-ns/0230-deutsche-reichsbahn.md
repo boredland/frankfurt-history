@@ -52,7 +52,7 @@ Eines Tages fuhren die Züge wegen der Bombenschäden vom Bahnhof Griesheim und 
 
 ## Gallery
 
-![Zeichnung eines zerstörten Industriegebäudes im Zweiten Weltkrieg in Frankfurt am Main.](../../images/Zerstörte_04405461b84000634051c84861dee6ec_original.jpg)
+![Zeichnung eines zerstörten Industriegebäudes im Zweiten Weltkrieg in Frankfurt am Main.](../../images/Zerst%C3%B6rte_04405461b84000634051c84861dee6ec_original.jpg)
 *2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Zeichnung eines zerstörten Industriegebäudes im Zweiten Weltkrieg in Frankfurt am Main.*
 
 
@@ -64,13 +64,13 @@ Eines Tages fuhren die Züge wegen der Bombenschäden vom Bahnhof Griesheim und 
 
 ## Gallery
 
-![Sterbeurkunde von Tanj[a] Tribowa, ausgestellt am 17. September 1947 in Flörsheim am Main.](../../images/Arolsen Ar_df982ecabae4dc1c135681dd85b068f2_original.jpg)
+![Sterbeurkunde von Tanj[a] Tribowa, ausgestellt am 17. September 1947 in Flörsheim am Main.](../../images/Arolsen%20Ar_df982ecabae4dc1c135681dd85b068f2_original.jpg)
 *o.D. — Author: Unbekannt | License: Sterbeurkunden Kinder (Kindersuchdienst), 2.2.2.4/77105996, ITS Digital Archive, Arolsen Archives. | Description: Sterbeurkunde von Tanj[a] Tribowa, ausgestellt am 17. September 1947 in Flörsheim am Main.*
 
 
 ## Gallery
 
-![Vor dem Flörsheimer Bahnhof erinnert ein Koffer-Denkmal an die Menschen, die wegen der NS-Verfolgung und Zwangsarbeit hier zwischen 1933 und 1945 hier abfuhren und ankamen.](../../images/Foto 3 Ids_35d8a8fbb8c8fd3cde011de398e05a3e_original.jpg)
+![Vor dem Flörsheimer Bahnhof erinnert ein Koffer-Denkmal an die Menschen, die wegen der NS-Verfolgung und Zwangsarbeit hier zwischen 1933 und 1945 hier abfuhren und ankamen.](../../images/Foto%203%20Ids_35d8a8fbb8c8fd3cde011de398e05a3e_original.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christne Hartwig-Thürmer | Description: Vor dem Flörsheimer Bahnhof erinnert ein Koffer-Denkmal an die Menschen, die wegen der NS-Verfolgung und Zwangsarbeit hier zwischen 1933 und 1945 hier abfuhren und ankamen.*
 
 

@@ -31,12 +31,12 @@ Die Firmenleitung der Carbone bemühte sich intensiv, alle benötigten 60 Fachar
 
 ## Gallery
 
-![Umbauplan für das Carbone-Haus Frankfurt am Main - Bonames, Homburger Landstraße 642, datiert auf den 17. Mai 1942.](../../images/ABB 39 Car_31d7bc105787fe8909c820ee57fd0abd_original.jpg)
+![Umbauplan für das Carbone-Haus Frankfurt am Main - Bonames, Homburger Landstraße 642, datiert auf den 17. Mai 1942.](../../images/ABB%2039%20Car_31d7bc105787fe8909c820ee57fd0abd_original.jpg)
 *o.D. — Author: Unbekannt | License: Fritz Koch | Description: Umbauplan für das Carbone-Haus Frankfurt am Main - Bonames, Homburger Landstraße 642, datiert auf den 17. Mai 1942.*
 
-![Bescheinigung des Rüstungskommandos Frankfurt a. M. über die Notwendigkeit des Einsatzes von "Ostarbeiterinnen" in der Fabrik Carbone AG, datiert auf den 26. November 1942.](../../images/ABB 45 Fre_b8feb308ca51afe15a800359a0c0419f_original.jpg)
+![Bescheinigung des Rüstungskommandos Frankfurt a. M. über die Notwendigkeit des Einsatzes von "Ostarbeiterinnen" in der Fabrik Carbone AG, datiert auf den 26. November 1942.](../../images/ABB%2045%20Fre_b8feb308ca51afe15a800359a0c0419f_original.jpg)
 *o.D. — Author: Unbekannt | License: Fritz Koch | Description: Bescheinigung des Rüstungskommandos Frankfurt a. M. über die Notwendigkeit des Einsatzes von "Ostarbeiterinnen" in der Fabrik Carbone AG, datiert auf den 26. November 1942.*
 
-![Aktennotiz betreffend der Beschaffung einer Baracke für die Unterkunft von 30 Russinnen, 9. Dezember 1942.](../../images/ABB 46 Fre_b02d62b332ca1fb18400b26768ee1718_original.jpg)
+![Aktennotiz betreffend der Beschaffung einer Baracke für die Unterkunft von 30 Russinnen, 9. Dezember 1942.](../../images/ABB%2046%20Fre_b02d62b332ca1fb18400b26768ee1718_original.jpg)
 *o.D. — Author: Unbekannt | License: Fritz Koch | Description: Aktennotiz betreffend der Beschaffung einer Baracke für die Unterkunft von 30 Russinnen, 9. Dezember 1942.*
 

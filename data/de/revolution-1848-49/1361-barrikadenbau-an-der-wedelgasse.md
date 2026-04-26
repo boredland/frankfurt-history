@@ -27,6 +27,6 @@ Insgesamt 50 Barrikaden sollten die östliche Altstadt in eine Festung verwandel
 
 ## Gallery
 
-![Kreidelithografie: Alle packen mit an – Barrikadenbau an der Wedelgasse](../../images/Route 3, S_1d52a16db24fda1c8700dedda9544d2a_original.jpg)
+![Kreidelithografie: Alle packen mit an – Barrikadenbau an der Wedelgasse](../../images/Route%203%2C%20S_1d52a16db24fda1c8700dedda9544d2a_original.jpg)
 *1848 — Author: Ludwig von Elliot | License: Institut für Stadtgeschichte, Frankfurt Best. W 1-9 ZGS Nr. 36-250 | Description: Kreidelithografie: Alle packen mit an – Barrikadenbau an der Wedelgasse*
 

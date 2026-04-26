@@ -27,6 +27,6 @@ Die Fotografie zeigt den Rotkäppchen-Brunnen auf dem Schulhof. Ein Informations
 ![Schillerschule](../../images/schillersc_ed63920a5f9c59b37e1889ecdb0f3e0b_original.jpg)
 *2025 — Author: Hannah Rödel | License: HMF/Gemeinfrei | Description: Schillerschule*
 
-![Flugblatt über die Bundesgesundheitsministerin Dr. Elisabeth Schwarzhaupt "Wissen Sie, was ein Minister täglich tut?"](../../images/C51580+028_5513931948c584fc6f87f212c88d7af8_original.jpg)
+![Flugblatt über die Bundesgesundheitsministerin Dr. Elisabeth Schwarzhaupt "Wissen Sie, was ein Minister täglich tut?"](../../images/C51580%2B028_5513931948c584fc6f87f212c88d7af8_original.jpg)
 *1965 — Author: Druckerin Unbekannt, Dargestellt Elisabeth Schwarzhaupt | License: HMF | Description: Flugblatt über die Bundesgesundheitsministerin Dr. Elisabeth Schwarzhaupt "Wissen Sie, was ein Minister täglich tut?"*
 

@@ -31,27 +31,27 @@ From 1907, it was no longer possible for FSV to play its home games at Prüfling
 
 ## Gallery
 
-![Place and development of the playground 1904-1906](../../images/Station 5-_f4f675d8ec45ec06dfdf2293483ca8e7_original.jpg)
+![Place and development of the playground 1904-1906](../../images/Station%205-_f4f675d8ec45ec06dfdf2293483ca8e7_original.jpg)
 *License: Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.3450, Tiefbauamt;Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.3451, Tiefbauamt | Description: Place and development of the playground 1904-1906*
 
-![Place and development of the playground 1908-1913](../../images/Station 5-_5ca56c9bd2e8217c39b0221a54de1d47_original.jpg)
+![Place and development of the playground 1908-1913](../../images/Station%205-_5ca56c9bd2e8217c39b0221a54de1d47_original.jpg)
 *License: Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.7635, TiefbauamtInstitut für Stadtgeschichte Frankfurt am Main (ISG FFM), Best. S8-1 Nr.1282, Tiefbauamt | Description: Place and development of the playground 1908-1913*
 
 
 ## Gallery
 
-![Drawing of the first official place of FSV Frankfurt in "Im Prüfling" from the club's 25th anniversary commemorative publication](../../images/Station 5-_f787031b40714c015926d9b8c4caa240_original.jpg)
+![Drawing of the first official place of FSV Frankfurt in "Im Prüfling" from the club's 25th anniversary commemorative publication](../../images/Station%205-_f787031b40714c015926d9b8c4caa240_original.jpg)
 *Description: Drawing of the first official place of FSV Frankfurt in "Im Prüfling" from the club's 25th anniversary commemorative publication*
 
 
 ## Gallery
 
-![The team of FSV Frankfurt plays at the Prüfling](../../images/station 7__ca1bc70c3fd31bdbf0ca8d5039d151cb_original.jpg)
+![The team of FSV Frankfurt plays at the Prüfling](../../images/station%207__ca1bc70c3fd31bdbf0ca8d5039d151cb_original.jpg)
 *License: 100 Jahres Chronik FSV Frankfurt | Description: The team of FSV Frankfurt plays at the Prüfling*
 
 
 ## Gallery
 
-![Eberhard Kuchler, Friedel Gerbig, Philipp Stamm, Joseph Fleckenstein and 11 others, who before played together in the footballclub Nordend, founded the Fußball Sport Verein 1899 Frankfurt on 20.08.1899](../../images/station 7__fe8ad6d89bba0aa35fad45487b7fcf96_original.jpg)
+![Eberhard Kuchler, Friedel Gerbig, Philipp Stamm, Joseph Fleckenstein and 11 others, who before played together in the footballclub Nordend, founded the Fußball Sport Verein 1899 Frankfurt on 20.08.1899](../../images/station%207__fe8ad6d89bba0aa35fad45487b7fcf96_original.jpg)
 *Description: Eberhard Kuchler, Friedel Gerbig, Philipp Stamm, Joseph Fleckenstein and 11 others, who before played together in the footballclub Nordend, founded the Fußball Sport Verein 1899 Frankfurt on 20.08.1899*
 

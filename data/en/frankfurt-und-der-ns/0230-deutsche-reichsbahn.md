@@ -52,7 +52,7 @@ Due to bomb damage, one day the trains left from Frankfurt-Griesheim Station and
 
 ## Gallery
 
-![Drawing of an industrial building destroyed during World War II in Frankfurt am Main.](../../images/Zerstörte_04405461b84000634051c84861dee6ec_original.jpg)
+![Drawing of an industrial building destroyed during World War II in Frankfurt am Main.](../../images/Zerst%C3%B6rte_04405461b84000634051c84861dee6ec_original.jpg)
 *2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Drawing of an industrial building destroyed during World War II in Frankfurt am Main.*
 
 
@@ -64,13 +64,13 @@ Due to bomb damage, one day the trains left from Frankfurt-Griesheim Station and
 
 ## Gallery
 
-![Death certificate of Tanj[a] Tribowa, issued on September 17, 1947, in Flörsheim am Main.](../../images/Arolsen Ar_df982ecabae4dc1c135681dd85b068f2_original.jpg)
+![Death certificate of Tanj[a] Tribowa, issued on September 17, 1947, in Flörsheim am Main.](../../images/Arolsen%20Ar_df982ecabae4dc1c135681dd85b068f2_original.jpg)
 *n.d. — Author: Unbekannt | License: Sterbeurkunden Kinder (Kindersuchdienst), 2.2.2.4/77105996, ITS Digital Archive, Arolsen Archives. | Description: Death certificate of Tanj[a] Tribowa, issued on September 17, 1947, in Flörsheim am Main.*
 
 
 ## Gallery
 
-![In front of Flörsheim train station, a suitcase monument commemorates the people who departed and arrived here between 1933 and 1945 as a result of Nazi persecution and forced labor.](../../images/Foto 3 Ids_35d8a8fbb8c8fd3cde011de398e05a3e_original.jpg)
+![In front of Flörsheim train station, a suitcase monument commemorates the people who departed and arrived here between 1933 and 1945 as a result of Nazi persecution and forced labor.](../../images/Foto%203%20Ids_35d8a8fbb8c8fd3cde011de398e05a3e_original.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christne Hartwig-Thürmer | Description: In front of Flörsheim train station, a suitcase monument commemorates the people who departed and arrived here between 1933 and 1945 as a result of Nazi persecution and forced labor.*
 
 

@@ -24,6 +24,6 @@ Sie betreute Kund*innen, entwickelte das Unternehmen strategisch weiter und baut
 
 ## Gallery
 
-![Ausschnit aus dem Merianplan](../../images/Metz007)
+![Ausschnit aus dem Merianplan](../../images/Metz007%2300_742735dcad1563fa2e132d771a76ffb1_original.jpg)
 *um 1620 — Author: Matthäus Merian | License: HMF/Gemeinfrei | Description: Ausschnit aus dem Merianplan*
 

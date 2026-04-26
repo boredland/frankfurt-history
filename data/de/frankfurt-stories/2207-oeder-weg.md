@@ -37,6 +37,6 @@ Die „fahrradfreundlichen Nebenstraßen“ beinhalten rote Markierungen in Kreu
 
 ## Gallery
 
-![Oeder Weg als Fahrradstraße, Grafik des Radentscheids Frankfurt zum Umgestaltung des Oeder Wegs, Frankfurt 2020, Radentscheid Frankfurt, R. Faller](../../images/bemo184,1-_8d53078764eca158e27475d496d11e0e_original.jpg)
+![Oeder Weg als Fahrradstraße, Grafik des Radentscheids Frankfurt zum Umgestaltung des Oeder Wegs, Frankfurt 2020, Radentscheid Frankfurt, R. Faller](../../images/bemo184%2C1-_8d53078764eca158e27475d496d11e0e_original.jpg)
 *2020 — Author: Rebecca Faller | License: Radentscheid Frankfurt, R. Faller | Description: Oeder Weg als Fahrradstraße, Grafik des Radentscheids Frankfurt zum Umgestaltung des Oeder Wegs, Frankfurt 2020, Radentscheid Frankfurt, R. Faller*
 

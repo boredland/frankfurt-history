@@ -24,7 +24,7 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
-![Stolperstein for Anna Köninger](../../images/Anna Kön_d8625b80fe841df90e7530abb28f0624_original.jpg)
+![Stolperstein for Anna Köninger](../../images/Anna%20Ko%CC%88n_d8625b80fe841df90e7530abb28f0624_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Anna Köninger*
 
 

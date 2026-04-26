@@ -35,16 +35,16 @@ Eine Hilfsstelle unterstützte Jüdinnen und Juden dabei, das Land zu verlassen.
 
 ## Gallery
 
-![Reisepass von Hans Bauer bei seiner Flucht. Er trägt typisch für die Zeit den Beinamen Israel im Pass](../../images/Pass Hans _65bc60fbbf59856fcb674429a38cb7a7_original.jpg)
+![Reisepass von Hans Bauer bei seiner Flucht. Er trägt typisch für die Zeit den Beinamen Israel im Pass](../../images/Pass%20Hans%20_65bc60fbbf59856fcb674429a38cb7a7_original.jpg)
 *20.01.1939 — Author: Unbekannt | License: © Dieses Bild wurde mit der freundlichen Erlaubnis von Jon Bauer veröffentlicht. Alle Rechte bleiben beim Urheber.; | Description: Reisepass von Hans Bauer bei seiner Flucht. Er trägt typisch für die Zeit den Beinamen Israel im Pass*
 
-![Reisepass von Hans Bauer bei seiner Flucht. Er trägt typisch für die Zeit den Beinamen Israel im Pass.](../../images/Pass Hans _bb4b8c0d1efb34819b14b335460d96e6_original.jpg)
+![Reisepass von Hans Bauer bei seiner Flucht. Er trägt typisch für die Zeit den Beinamen Israel im Pass.](../../images/Pass%20Hans%20_bb4b8c0d1efb34819b14b335460d96e6_original.jpg)
 *20.01.1939 — Author: Unbekannt | License: © Dieses Bild wurde mit der freundlichen Erlaubnis von Jon Bauer veröffentlicht. Alle Rechte bleiben beim Urheber. | Description: Reisepass von Hans Bauer bei seiner Flucht. Er trägt typisch für die Zeit den Beinamen Israel im Pass.*
 
-![Familie Bauer auf einem Skiausflug. Von links: unbekannt, Hans, Hugo, Martha und Hildegard Bauer.](../../images/Familie Ba_b34506fc21b199470b71bf200d66c635_original.jpg)
+![Familie Bauer auf einem Skiausflug. Von links: unbekannt, Hans, Hugo, Martha und Hildegard Bauer.](../../images/Familie%20Ba_b34506fc21b199470b71bf200d66c635_original.jpg)
 *License: © Dieses Bild wurde mit der freundlichen Erlaubnis von Jon Bauer veröffentlicht. Alle Rechte bleiben beim Urheber, | Description: Familie Bauer auf einem Skiausflug. Von links: unbekannt, Hans, Hugo, Martha und Hildegard Bauer.*
 
-![Hans Bauer um 1944 in der Militäruniform der amerikanischen Armee.](../../images/Hans Bauer_b96b3ee9f913138659b31f028141ede4_original.jpg)
+![Hans Bauer um 1944 in der Militäruniform der amerikanischen Armee.](../../images/Hans%20Bauer_b96b3ee9f913138659b31f028141ede4_original.jpg)
 *circa 1944 — Author: Unbekannt | License: © Dieses Bild wurde mit der freundlichen Erlaubnis von Jon Bauer veröffentlicht. Alle Rechte bleiben beim Urheber | Description: Hans Bauer um 1944 in der Militäruniform der amerikanischen Armee.*
 
 ![Die Stolpersteine im Kettenhofweg 70 erinnern an die Familie Bauer: Hugo, Martha, Hildegard, Hans und Doris, die vor den Nationalsozialist*innen geflohen sind.](../../images/Stolperste_58a74a5f84fbd7d56b8e18deb2199775_original.jpg)

@@ -27,13 +27,13 @@ When the memorial was redesigned in 2017/2018, a pyramid of bricks and corten st
 
 ## Gallery
 
-![Memorial pyramid during the commemorative event in 2024.](../../images/Gedenkstä_b589a994d998d9ee2a6ec37a1649d595_original.jpg)
+![Memorial pyramid during the commemorative event in 2024.](../../images/Gedenkst%C3%A4_b589a994d998d9ee2a6ec37a1649d595_original.jpg)
 *Author: Lisa Schrimpf | License: gemeinfrei | Description: Memorial pyramid during the commemorative event in 2024.*
 
-![Memorial pyramid in memory of the prisoners of the AEL Heddernheim.](../../images/Gedenkstä_c49aca8f7524d223d99948d9a53faee0_original.jpg)
+![Memorial pyramid in memory of the prisoners of the AEL Heddernheim.](../../images/Gedenkst%C3%A4_c49aca8f7524d223d99948d9a53faee0_original.jpg)
 *Author: Lisa Schrimpf | License: gemeinfrei | Description: Memorial pyramid in memory of the prisoners of the AEL Heddernheim.*
 
-![Presumed remains of a detention cell on the grounds of the former AEL Heddernheim.](../../images/Gedenkstä_3e5f4277abf2cd4a1a58c7f70cce23f3_original.jpg)
+![Presumed remains of a detention cell on the grounds of the former AEL Heddernheim.](../../images/Gedenkst%C3%A4_3e5f4277abf2cd4a1a58c7f70cce23f3_original.jpg)
 *Author: Lisa Schrimpf | License: gemeinfrei | Description: Presumed remains of a detention cell on the grounds of the former AEL Heddernheim.*
 
 ![The commemorative plaques for AEL Heddernheim, unveiled on January 16, 1987.](../../images/Arbeitserz_dd7c9ab72176ca14ec2c2bda449b226b_original.jpg)

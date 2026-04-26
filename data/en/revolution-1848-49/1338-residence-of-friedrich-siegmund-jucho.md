@@ -25,6 +25,6 @@ He was the only Frankfurt citizen to be a member of the provisional parliament a
 
 ## Gallery
 
-![Photo: Reproduction by Gottfried Vömel of a photograph by Carl Friedrich Mylius, ca. 1860, Institut für Stadtgeschichte, Frankfurt Best. S7Voe No. 155](../../images/11 Wohnhau_d0aaaf0a23940d0dc1d7724bacc60379_original.jpg)
+![Photo: Reproduction by Gottfried Vömel of a photograph by Carl Friedrich Mylius, ca. 1860, Institut für Stadtgeschichte, Frankfurt Best. S7Voe No. 155](../../images/11%20Wohnhau_d0aaaf0a23940d0dc1d7724bacc60379_original.jpg)
 *ca. 1860 — Author: Reproaufnahme von Gottfried Vömel einer Fotografie von Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 155 | Description: Photo: Reproduction by Gottfried Vömel of a photograph by Carl Friedrich Mylius, ca. 1860, Institut für Stadtgeschichte, Frankfurt Best. S7Voe No. 155*
 

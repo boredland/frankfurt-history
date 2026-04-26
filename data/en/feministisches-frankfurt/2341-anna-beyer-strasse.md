@@ -23,6 +23,6 @@ There are around 3,380 official street names in Frankfurt, including streets, sq
 
 ## Gallery
 
-![Anna Beyer Straße](../../images/Anna Beyer_afeddb68b44aa8bf3f3bfc797034a15b_original.jpg)
+![Anna Beyer Straße](../../images/Anna%20Beyer_afeddb68b44aa8bf3f3bfc797034a15b_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Anna Beyer Straße*
 

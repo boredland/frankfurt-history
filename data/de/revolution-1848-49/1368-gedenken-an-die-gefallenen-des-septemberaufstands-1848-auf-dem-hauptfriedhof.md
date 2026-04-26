@@ -14,7 +14,7 @@ filters:
 
 *Hauptfriedhof*
 
-![Lithografie: Das Denkmal für die „Gefallenen aus dem Volke“ auf dem Hauptfriedhof. Auf den vier Seiten des Obelisken sind 34 Namen eingemeißelt.](../../images/Route 3, S_c9183cd1bdc591c5d1a33b68b1bbebf5_original.jpg)
+![Lithografie: Das Denkmal für die „Gefallenen aus dem Volke“ auf dem Hauptfriedhof. Auf den vier Seiten des Obelisken sind 34 Namen eingemeißelt.](../../images/Route%203%2C%20S_c9183cd1bdc591c5d1a33b68b1bbebf5_original.jpg)
 *1872 — Author: H. Schaefer | License: HMF C 10173 | Description: Lithografie: Das Denkmal für die „Gefallenen aus dem Volke“ auf dem Hauptfriedhof. Auf den vier Seiten des Obelisken sind 34 Namen eingemeißelt.*
 
 Die Beisetzung der beiden ermordeten Abgeordneten und der elf gefallenen Soldaten am Donnerstag, dem 21. September, glich einem Staatsbegräbnis. Auf dem Roßmarkt formierte sich am Morgen unter dem Geläute der Kirchenglocken aus den in Frankfurt liegenden Truppen ein endloser Trauerzug. In der Mitte des Zuges rollten vier Leichenwagen.
@@ -27,6 +27,6 @@ Bis heute erinnert auf dem Hauptfriedhof an die im Septemberaufstand 1848 gefall
 
 ## Gallery
 
-![Lithografie: Das Denkmal für die „Gefallenen aus dem Volke“ auf dem Hauptfriedhof. Auf den vier Seiten des Obelisken sind 34 Namen eingemeißelt.](../../images/Route 3, S_c9183cd1bdc591c5d1a33b68b1bbebf5_original.jpg)
+![Lithografie: Das Denkmal für die „Gefallenen aus dem Volke“ auf dem Hauptfriedhof. Auf den vier Seiten des Obelisken sind 34 Namen eingemeißelt.](../../images/Route%203%2C%20S_c9183cd1bdc591c5d1a33b68b1bbebf5_original.jpg)
 *1872 — Author: H. Schaefer | License: HMF C 10173 | Description: Lithografie: Das Denkmal für die „Gefallenen aus dem Volke“ auf dem Hauptfriedhof. Auf den vier Seiten des Obelisken sind 34 Namen eingemeißelt.*
 

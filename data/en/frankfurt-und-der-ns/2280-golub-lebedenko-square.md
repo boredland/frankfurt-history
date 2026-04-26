@@ -28,10 +28,10 @@ Since 1998, the official name of the square on the corner of Lahn- and Kriegkstr
 ![Commemorative plaque on Golub-Lebedenko Square in German.](../../images/0dcbcae5595b3f7b951239e9b13f3106_original.jpg)
 *2025 — Author: Thomas Altmeyer | License: gemeinfrei | Description: Commemorative plaque on Golub-Lebedenko Square in German.*
 
-![Memorial plaque on Golub-Lebedenko Square in Ukrainian.](../../images/Altmeyer, _cf3c4080731ccc723337892ba57dbf84_original.jpg)
+![Memorial plaque on Golub-Lebedenko Square in Ukrainian.](../../images/Altmeyer%2C%20_cf3c4080731ccc723337892ba57dbf84_original.jpg)
 *2025 — Author: Thomas Altmeyer | License: gemeinfrei | Description: Memorial plaque on Golub-Lebedenko Square in Ukrainian.*
 
-![Ceremony on Golub-Lebedenko Square commemorating the death march from the Katzbach concentration camp in March 2025. A Ukrainian choir sings. A Ukrainian Orthodox priest leads the ceremony.](../../images/Altmeyer, _74706c49141ee8382748e8535e9ad515_original.jpg)
+![Ceremony on Golub-Lebedenko Square commemorating the death march from the Katzbach concentration camp in March 2025. A Ukrainian choir sings. A Ukrainian Orthodox priest leads the ceremony.](../../images/Altmeyer%2C%20_74706c49141ee8382748e8535e9ad515_original.jpg)
 *Author: Thomas Altmeyer | License: gemeinfrei | Description: Ceremony on Golub-Lebedenko Square commemorating the death march from the Katzbach concentration camp in March 2025. A Ukrainian choir sings. A Ukrainian Orthodox priest leads the ceremony.*
 
 

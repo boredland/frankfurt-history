@@ -38,16 +38,16 @@ There was an aid centre that provided assistance to Jews who wanted to flee Germ
 
 ## Gallery
 
-![Hans Bauer’s passport when he fled from Germany. Typical of the time, the name “Israel” has been added to his passport.](../../images/Pass Hans _65bc60fbbf59856fcb674429a38cb7a7_original.jpg)
+![Hans Bauer’s passport when he fled from Germany. Typical of the time, the name “Israel” has been added to his passport.](../../images/Pass%20Hans%20_65bc60fbbf59856fcb674429a38cb7a7_original.jpg)
 *20.01.1939 — Author: Unbekannt | License: © Dieses Bild wurde mit der freundlichen Erlaubnis von Jon Bauer veröffentlicht. Alle Rechte bleiben beim Urheber.; | Description: Hans Bauer’s passport when he fled from Germany. Typical of the time, the name “Israel” has been added to his passport.*
 
-![Hans Bauer’s passport when he fled from Germany. Typical of the time, the name “Israel” has been added to his passport.](../../images/Pass Hans _bb4b8c0d1efb34819b14b335460d96e6_original.jpg)
+![Hans Bauer’s passport when he fled from Germany. Typical of the time, the name “Israel” has been added to his passport.](../../images/Pass%20Hans%20_bb4b8c0d1efb34819b14b335460d96e6_original.jpg)
 *20.01.1939 — Author: Unbekannt | License: © Dieses Bild wurde mit der freundlichen Erlaubnis von Jon Bauer veröffentlicht. Alle Rechte bleiben beim Urheber. | Description: Hans Bauer’s passport when he fled from Germany. Typical of the time, the name “Israel” has been added to his passport.*
 
-![The Bauer family on a skiing holiday. From left: unknown, Hans, Hugo, Martha and Hildegard Bauer.](../../images/Familie Ba_b34506fc21b199470b71bf200d66c635_original.jpg)
+![The Bauer family on a skiing holiday. From left: unknown, Hans, Hugo, Martha and Hildegard Bauer.](../../images/Familie%20Ba_b34506fc21b199470b71bf200d66c635_original.jpg)
 *License: © Dieses Bild wurde mit der freundlichen Erlaubnis von Jon Bauer veröffentlicht. Alle Rechte bleiben beim Urheber, | Description: The Bauer family on a skiing holiday. From left: unknown, Hans, Hugo, Martha and Hildegard Bauer.*
 
-![Hans Bauer in a US Army uniform circa 1944.](../../images/Hans Bauer_b96b3ee9f913138659b31f028141ede4_original.jpg)
+![Hans Bauer in a US Army uniform circa 1944.](../../images/Hans%20Bauer_b96b3ee9f913138659b31f028141ede4_original.jpg)
 *circa 1944 — Author: Unbekannt | License: © Dieses Bild wurde mit der freundlichen Erlaubnis von Jon Bauer veröffentlicht. Alle Rechte bleiben beim Urheber | Description: Hans Bauer in a US Army uniform circa 1944.*
 
 ![The memorial stones at Kettenhofweg 70 commemorate the fates of the Bauer family – Hugo, Martha, Hildegard, Hans and Doris – who fled from the Nazis.](../../images/Stolperste_58a74a5f84fbd7d56b8e18deb2199775_original.jpg)

@@ -23,6 +23,6 @@ There are three Stumbling Stones for Else, Josef and Walter Fiebermann in the dr
 
 ## Gallery
 
-![Outbuilding of Eckenheimer Landstraße 238](../../images/Nebengebä_559d9907baee14c515a079d59f315c79_original.jpg)
+![Outbuilding of Eckenheimer Landstraße 238](../../images/Nebengeb%C3%A4_559d9907baee14c515a079d59f315c79_original.jpg)
 *2023 — Description: Outbuilding of Eckenheimer Landstraße 238*
 

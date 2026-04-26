@@ -15,7 +15,7 @@ filters:
 
 *Orber Straße 8*
 
-![Placeholder image](../../images/Hier fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
+![Placeholder image](../../images/Hier%20fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
 *License: HMF*
 
 The Naxos Union abrasives and sanding machine factory made use of forced labourers in its operations at Orber Strasse 8. In 1944, 27 Russian prisoners of war were interned here on the factory grounds. They were lodged in a wooden barrack that was surrounded by barbed wire and guarded by 2 Wehrmacht soldiers.
@@ -24,6 +24,6 @@ The Naxos Union abrasives and sanding machine factory made use of forced laboure
 
 ## Gallery
 
-![Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de](../../images/Hier fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
+![Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de](../../images/Hier%20fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
 *Author: HMF | License: gemeinfrei | Description: Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de*
 

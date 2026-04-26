@@ -18,7 +18,7 @@ filters:
 
 ## Gallery
 
-![](../../images/Hebelstr 1_c1e3361f7e8dedbc8680e64052036ddc_original.jpg)
+![](../../images/Hebelstr%201_c1e3361f7e8dedbc8680e64052036ddc_original.jpg)
 
 
 ## Links

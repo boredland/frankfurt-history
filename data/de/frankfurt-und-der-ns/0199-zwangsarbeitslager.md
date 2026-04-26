@@ -21,6 +21,6 @@ Die Großgärtnerei Friedrich Sinai betrieb auf ihrem Betriebsgelände in der Es
 
 ## Gallery
 
-![Bildpostkarte mit Großgärtnerei Friedrich Sinai](../../images/C80380+001_471dc3657337c3dd7e24a63373cbb326_original.jpg)
+![Bildpostkarte mit Großgärtnerei Friedrich Sinai](../../images/C80380%2B001_471dc3657337c3dd7e24a63373cbb326_original.jpg)
 *o. D. — Author: Postkartensammlung Church | License: HMF / Sammlung Church C80380 | Description: Bildpostkarte mit Großgärtnerei Friedrich Sinai*
 

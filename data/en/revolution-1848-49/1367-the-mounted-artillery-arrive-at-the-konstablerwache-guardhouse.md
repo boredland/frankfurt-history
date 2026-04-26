@@ -27,6 +27,6 @@ A wave of arrests swept through the city. By the evening of 19 September, the ce
 
 ## Gallery
 
-![Chalk lithograph: The mounted artillery advances along the Zeil. In the center of the picture the Konstablerwache with clock tower, to the left a section of the barricade in Allerheiligengasse.](../../images/Route 3, S_8a2e8075460e401fde82e23bbd75f713_original.jpg)
+![Chalk lithograph: The mounted artillery advances along the Zeil. In the center of the picture the Konstablerwache with clock tower, to the left a section of the barricade in Allerheiligengasse.](../../images/Route%203%2C%20S_8a2e8075460e401fde82e23bbd75f713_original.jpg)
 *1848 — Author: Jean Nicolas Ventadour | License: Institut für Stadtgeschichte, Frankfurt Best. W 1-9 ZGS Nr. 36-245 | Description: Chalk lithograph: The mounted artillery advances along the Zeil. In the center of the picture the Konstablerwache with clock tower, to the left a section of the barricade in Allerheiligengasse.*
 

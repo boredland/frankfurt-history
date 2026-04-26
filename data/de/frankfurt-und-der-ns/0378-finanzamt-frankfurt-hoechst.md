@@ -15,7 +15,7 @@ filters:
 
 *Hospitalstraße 16a*
 
-![](../../images/Hier fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
+![](../../images/Hier%20fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
 *License: HMF*
 
 Das Finanzamt Frankfurt-Höchst hatte seinen Sitz seit 1935 in einem Neubau in der Hospitalstraße 16a. Wie alle Finanzämter wirkte es an der steuerlichen Benachteiligung der Juden mit.
@@ -30,6 +30,6 @@ Ab 1934 erkannten sie Stiftungen, die nicht dem "Wohl der deutschen Volksgemeins
 
 ## Gallery
 
-![Leider fehlt hier ein Bild. Dafür kann es verschiedene Gründe geben, z. B. wurde von der Person oder de Ort kein Bild zur Verfügung gestellt. Wenn Sie einen Vorschlag für ein Bild haben, freuen wir uns über eine E-Mail an frankfurthistory@stadt-frankfurt.de.](../../images/Hier fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
+![Leider fehlt hier ein Bild. Dafür kann es verschiedene Gründe geben, z. B. wurde von der Person oder de Ort kein Bild zur Verfügung gestellt. Wenn Sie einen Vorschlag für ein Bild haben, freuen wir uns über eine E-Mail an frankfurthistory@stadt-frankfurt.de.](../../images/Hier%20fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
 *Author: HMF | License: gemeinfrei | Description: Leider fehlt hier ein Bild. Dafür kann es verschiedene Gründe geben, z. B. wurde von der Person oder de Ort kein Bild zur Verfügung gestellt. Wenn Sie einen Vorschlag für ein Bild haben, freuen wir uns über eine E-Mail an frankfurthistory@stadt-frankfurt.de.*
 

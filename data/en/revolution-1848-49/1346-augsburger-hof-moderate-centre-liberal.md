@@ -29,6 +29,6 @@ On constitutional issues, the Augsburger Hof group adopted much of the Württemb
 
 ## Gallery
 
-![Photo of Vogelgesangsgasse with a view of the Augsburger Hof](../../images/04 Augsbur_16cbb84bbb559e7794dc4d7150ff4c95_original.jpg)
+![Photo of Vogelgesangsgasse with a view of the Augsburger Hof](../../images/04%20Augsbur_16cbb84bbb559e7794dc4d7150ff4c95_original.jpg)
 *1915 — Author: Carl Andreas Abt | License: HMF C23217 | Description: Photo of Vogelgesangsgasse with a view of the Augsburger Hof*
 

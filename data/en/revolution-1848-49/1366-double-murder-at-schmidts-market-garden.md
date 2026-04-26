@@ -25,6 +25,6 @@ After being pursued through the gardens outside the city as far as the Bornheim 
 
 ## Gallery
 
-![Colored lithograph: Surrounded by insurgents, Lichnowsky faces death in front of the house of the art gardener Schmidt. The lifeless Auerswald is dragged into a ditch.](../../images/Route 3, S_64f0c0a5eaa515f1759c49c4748994cc_original.jpg)
+![Colored lithograph: Surrounded by insurgents, Lichnowsky faces death in front of the house of the art gardener Schmidt. The lifeless Auerswald is dragged into a ditch.](../../images/Route%203%2C%20S_64f0c0a5eaa515f1759c49c4748994cc_original.jpg)
 *1848 — Author: Wilhelm Völker | License: HMF C 10164b | Description: Colored lithograph: Surrounded by insurgents, Lichnowsky faces death in front of the house of the art gardener Schmidt. The lifeless Auerswald is dragged into a ditch.*
 

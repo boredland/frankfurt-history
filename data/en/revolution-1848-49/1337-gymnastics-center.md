@@ -27,6 +27,6 @@ After the March revolutions swept Germany, many rulers gave way to demands for g
 
 ## Gallery
 
-![Steel engraving with a bird's-eye view of the gymnasium](../../images/10 Turnans_5a3bd26ea7e5f69949a595b81ef1073e_original.jpg)
+![Steel engraving with a bird's-eye view of the gymnasium](../../images/10%20Turnans_5a3bd26ea7e5f69949a595b81ef1073e_original.jpg)
 *1864 — Author: Friedrich Wilhelm Delkeskamp | License: Institut für Stadtgeschichte, Frankfurt Best. S8-9 Nr. 411 | Description: Steel engraving with a bird's-eye view of the gymnasium*
 

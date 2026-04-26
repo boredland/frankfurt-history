@@ -23,7 +23,7 @@ In 1898, Carl von Weinberg (1861–1943) and his wife Ethel May von Weinberg (18
 
 ## Gallery
 
-![](../../images/Ph19243,02_48a39e02680206a52b6fb96ade7ed7ee_original.jpg)
+![](../../images/Ph19243%2C02_48a39e02680206a52b6fb96ade7ed7ee_original.jpg)
 *Author: Friedrich Lauffer | License: HMF/Gemeinfrei*
 
 ![](../../images/Ph19243_04_aef1f1dcdbaed623c712cd3c29a364d5_original.jpg)
@@ -41,9 +41,9 @@ In 1898, Carl von Weinberg (1861–1943) and his wife Ethel May von Weinberg (18
 ![](../../images/Ph19243_28_468444ccf795f6653c258d2a9a764723_original.jpg)
 *Author: Friedrich Lauffer | License: HMF/Gemeinfrei*
 
-![](../../images/Ph19243,56_0e8d9f28b4141ef4406d0ce720a9ede6_original.jpg)
+![](../../images/Ph19243%2C56_0e8d9f28b4141ef4406d0ce720a9ede6_original.jpg)
 *Author: Friedrich Lauffer | License: HMF/Gemeinfrei*
 
-![](../../images/Ph19243,78_f69996d8fb981caa77e40a8b5d3ae485_original.jpg)
+![](../../images/Ph19243%2C78_f69996d8fb981caa77e40a8b5d3ae485_original.jpg)
 *Author: Friedrich Lauffer | License: HMF/Gemeinfrei*
 

@@ -23,12 +23,12 @@ Als Frau blieb ihr der Zugang zu universitärer Forschung und naturwissenschaftl
 
 ## Gallery
 
-![Das Senckenbergische Krankenhospital vom Botanischen Garten aus](../../images/C03271+001_9db07b548e5dfee205d6607155298c8f_original.jpg)
+![Das Senckenbergische Krankenhospital vom Botanischen Garten aus](../../images/C03271%2B001_9db07b548e5dfee205d6607155298c8f_original.jpg)
 *1866 — Author: Carl Freidrich Mylius | License: HMF/Gemeinfrei | Description: Das Senckenbergische Krankenhospital vom Botanischen Garten aus*
 
 ![Das alte Senckenbergische Haus in der Eschenheimergasse, Abgerissen, Hintere Ansicht.](../../images/C09731_001_20bbcd1f154d374cfd34f1673287a195_original.jpg)
 *1866 — Author: Carl Freidrich Mylius | License: HMF/Gemeinfrei | Description: Das alte Senckenbergische Haus in der Eschenheimergasse, Abgerissen, Hintere Ansicht.*
 
-![Senckenbergische Stiftung am Eschenheimer Turm, die Treibhäuser im Botanischen Garten des Senckenbergischen Institut](../../images/C03272+001_563e990cb0f36fe13f7cbf4df3e04fd0_original.jpg)
+![Senckenbergische Stiftung am Eschenheimer Turm, die Treibhäuser im Botanischen Garten des Senckenbergischen Institut](../../images/C03272%2B001_563e990cb0f36fe13f7cbf4df3e04fd0_original.jpg)
 *1866 — Author: Carl Freidrich Mylius | License: HMF/Gemeinfrei | Description: Senckenbergische Stiftung am Eschenheimer Turm, die Treibhäuser im Botanischen Garten des Senckenbergischen Institut*
 

@@ -27,6 +27,6 @@ In terms of it programme, the Landsberg group saw a robust parliament and a cons
 
 ## Gallery
 
-![Photo of the old town alleyway Landberggasse](../../images/05 Landsbe_8b98005904195f886f79ee60ff7d6678_original.jpg)
+![Photo of the old town alleyway Landberggasse](../../images/05%20Landsbe_8b98005904195f886f79ee60ff7d6678_original.jpg)
 *1915 — Author: Carl Andreas Abt | License: HMF C23212 | Description: Photo of the old town alleyway Landberggasse*
 

@@ -45,6 +45,6 @@ In May 1943, neighbors complained about noise, stench and vermin – a sign of t
 
 ## Gallery
 
-![View of the house at Reuterweg 91.](../../images/Reuterweg _84bc8c6dd23abf03031ce2abcb2a0008_original.jpg)
+![View of the house at Reuterweg 91.](../../images/Reuterweg%20_84bc8c6dd23abf03031ce2abcb2a0008_original.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: View of the house at Reuterweg 91.*
 

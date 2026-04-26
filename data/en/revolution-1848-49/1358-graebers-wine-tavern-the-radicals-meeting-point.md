@@ -25,6 +25,6 @@ The heated atmosphere in the wine tavern culminated in a call issued to the left
 
 ## Gallery
 
-![The central location of the Gräber'sche Weinwirtschaft in the Frankfurt city map](../../images/Route 3, S_e19971091c949e6c0126885b43f72c2e_original.jpg)
+![The central location of the Gräber'sche Weinwirtschaft in the Frankfurt city map](../../images/Route%203%2C%20S_e19971091c949e6c0126885b43f72c2e_original.jpg)
 *1842 — Author: Eduard Foltz-Eberle | License: Institut für Stadtgeschichte, Frankfurt Best. S8-7 Nr. 8 | Description: The central location of the Gräber'sche Weinwirtschaft in the Frankfurt city map*
 

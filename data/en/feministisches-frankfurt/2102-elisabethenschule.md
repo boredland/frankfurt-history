@@ -26,6 +26,6 @@ Later, Henriette Fürth became an SPD city councilor and an important voice betw
 
 ## Gallery
 
-![](../../images/C29116+001_01725d51fb5dcd01f4dd3c51daab2f36_original.jpg)
+![](../../images/C29116%2B001_01725d51fb5dcd01f4dd3c51daab2f36_original.jpg)
 *Author: Carl Friedrich Mylius | License: HMF/Gemeinfrei*
 

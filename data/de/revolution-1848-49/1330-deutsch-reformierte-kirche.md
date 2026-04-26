@@ -27,9 +27,9 @@ Hiermit brachten die Abgeordneten einen Grundrechtskatalog auf den Weg, der in z
 
 ## Gallery
 
-![Foto der Deutsch-reformierten Kirche](../../images/03a Deutsc_7e6b07e441a351f5c060d90d09ce9303_original.jpg)
+![Foto der Deutsch-reformierten Kirche](../../images/03a%20Deutsc_7e6b07e441a351f5c060d90d09ce9303_original.jpg)
 *1905 — Author: Gottfried Vömel | License: Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 240 | Description: Foto der Deutsch-reformierten Kirche*
 
-![](../../images/03b Deutsc_b2a89e0835efdcc8fd86c308a67d0a29_original.jpg)
+![](../../images/03b%20Deutsc_b2a89e0835efdcc8fd86c308a67d0a29_original.jpg)
 *1936 — Author: unbekannt | License: ISG*
 

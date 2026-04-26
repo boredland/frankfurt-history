@@ -24,7 +24,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
-![Stolperstein für Oscar Krieg](../../images/Oscar Krie_df7799b671ccfe79a324a49472fe3345_original.jpg)
+![Stolperstein für Oscar Krieg](../../images/Oscar%20Krie_df7799b671ccfe79a324a49472fe3345_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein für Oscar Krieg*
 
 

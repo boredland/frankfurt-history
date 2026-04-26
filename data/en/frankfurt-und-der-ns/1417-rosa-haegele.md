@@ -25,13 +25,13 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
-![Portrait of Rosa Hägele](../../images/Rosa Haege_1923344739a9446a1930ecde7e0f89ea_original.jpg)
+![Portrait of Rosa Hägele](../../images/Rosa%20Haege_1923344739a9446a1930ecde7e0f89ea_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Portrait of Rosa Hägele*
 
-![Rosa Hägele with her parents in the garden](../../images/Hägele_R_eaa2ba85faa7fcd3b2ed551b011e784e_original.jpg)
+![Rosa Hägele with her parents in the garden](../../images/Ha%CC%88gele_R_eaa2ba85faa7fcd3b2ed551b011e784e_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Rosa Hägele with her parents in the garden*
 
-![Leave of absence from the concentration camp dated 05.01.1944 (misspelling, correct: 1945)](../../images/Hägele_R_975b398e6620896ac7aef95c33f5b75f_original.jpg)
+![Leave of absence from the concentration camp dated 05.01.1944 (misspelling, correct: 1945)](../../images/Ha%CC%88gele_R_975b398e6620896ac7aef95c33f5b75f_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Leave of absence from the concentration camp dated 05.01.1944 (misspelling, correct: 1945)*
 
 

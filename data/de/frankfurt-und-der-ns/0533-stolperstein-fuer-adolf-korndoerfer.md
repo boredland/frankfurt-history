@@ -42,7 +42,7 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 ![Adolf Korndörfer in einem Gemälde von Emil Betzler, Öl auf Leinwand, HMF, B.1978.01.](../../images/B_1978_01__355565b008d506a0b0786f6165423d82_original.jpg)
 *1925 — Author: Emil Betzler | License: Historisches Museum Frankfurt | Description: Adolf Korndörfer in einem Gemälde von Emil Betzler, Öl auf Leinwand, HMF, B.1978.01.*
 
-![Adolf Korndörfer im Garten](../../images/privat Fam_2ff629d58dc0f76c72ed44b7a187135a_original.jpg)
+![Adolf Korndörfer im Garten](../../images/privat%20Fam_2ff629d58dc0f76c72ed44b7a187135a_original.jpg)
 *unbekannt — Author: unbekannt | License: privat, Familie Buxmann | Description: Adolf Korndörfer im Garten*
 
 ![Adolf Korndörfer im Gefängnis, Gemälde von Emil Betzler, Öl auf Leinwand, HMF, B.1978.01.](../../images/B_1978_01__51179ee1b4984daf0561de73baafea43_original.jpg)

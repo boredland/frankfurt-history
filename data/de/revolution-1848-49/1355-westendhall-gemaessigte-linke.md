@@ -31,6 +31,6 @@ Das Hotel Westendhall wurde wie die ehemaligen drei Westbahnhöfe in den 1880er 
 
 ## Gallery
 
-![Lithografie mit dem Hotel Westendhall](../../images/13 Westend_b264ab0feb9d7d495427facc33c6c837_original.jpg)
+![Lithografie mit dem Hotel Westendhall](../../images/13%20Westend_b264ab0feb9d7d495427facc33c6c837_original.jpg)
 *um 1848 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-76 | Description: Lithografie mit dem Hotel Westendhall*
 

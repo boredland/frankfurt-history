@@ -21,6 +21,6 @@ Else Wüst eröffnete 1938 ihr eigenes „Therapeutikum“ in der Hochstraße 8.
 
 ## Gallery
 
-![Die Hochstraße mit Bockenheimer Tor](../../images/C 40024, 2_cb6b7a4735e45ea66252b62a2bb8471b_original.jpg)
+![Die Hochstraße mit Bockenheimer Tor](../../images/C%2040024%2C%202_cb6b7a4735e45ea66252b62a2bb8471b_original.jpg)
 *1904 — Author: Carl Friedrich May | License: HMF/Gemeinfrei | Description: Die Hochstraße mit Bockenheimer Tor*
 

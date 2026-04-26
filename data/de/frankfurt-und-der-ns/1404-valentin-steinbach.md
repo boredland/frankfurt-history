@@ -34,7 +34,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 ![Valentin Steinbach mit einer Gruppe Überlebender aus dem KZ Mauthausen; M-002538](../../images/Steinbach__b89df5709eb140e5d3bc9519dfdd8aa1_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Valentin Steinbach mit einer Gruppe Überlebender aus dem KZ Mauthausen; M-002538*
 
-![Stolperstein für Valentin Steinbach](../../images/Valentin S_30751762669248eb8d0241711e6d500e_original.jpg)
+![Stolperstein für Valentin Steinbach](../../images/Valentin%20S_30751762669248eb8d0241711e6d500e_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein für Valentin Steinbach*
 
 

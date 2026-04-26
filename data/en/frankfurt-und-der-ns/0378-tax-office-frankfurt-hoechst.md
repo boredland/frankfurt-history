@@ -15,7 +15,7 @@ filters:
 
 *Hospitalstraße 16a*
 
-![Placeholder image](../../images/Hier fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
+![Placeholder image](../../images/Hier%20fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
 *License: HMF*
 
 The Frankfurt-Höchst tax office had been located in a new building at Hospitalstraße 16a since 1935. Like all tax offices, it was involved in the tax discrimination of Jews.
@@ -31,6 +31,6 @@ As the domestic assets of emigrants were confiscated in favour of the Reich afte
 
 ## Gallery
 
-![Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de](../../images/Hier fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
+![Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de](../../images/Hier%20fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
 *Author: HMF | License: gemeinfrei | Description: Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de*
 

@@ -25,13 +25,13 @@ SCHLAU which originally started out as SchLAu (Gay and Lesbian Education) is now
 
 ## Gallery
 
-![SCHLAU information booth at CSD Frankfurt 2024](../../images/Infostand _c4cb581257838d05eb5fc00f940e9535_original.jpg)
+![SCHLAU information booth at CSD Frankfurt 2024](../../images/Infostand%20_c4cb581257838d05eb5fc00f940e9535_original.jpg)
 *2024 — Author: SCHLAU Frankfurt | License: SCHLAU Frankfurt-gemeinfrei | Description: SCHLAU information booth at CSD Frankfurt 2024*
 
 ![SCHLAU team meeting 2023](../../images/Draufsicht_b35d2532cdf21e1303144e5d156d6976_original.jpg)
 *2023 — Author: SCHLAU Frankfurt | License: SCHLAU Frankfurt-gemeinfrei | Description: SCHLAU team meeting 2023*
 
-![Sign at CSD Frankfurt 2025](../../images/Schild Gen_be16c9a38af6abcf813292b0082bab5d_original.jpg)
+![Sign at CSD Frankfurt 2025](../../images/Schild%20Gen_be16c9a38af6abcf813292b0082bab5d_original.jpg)
 *2025 — Author: SCHLAU Frankfurt | License: SCHLAU Frankfurt-gemeinfrei | Description: Sign at CSD Frankfurt 2025*
 
 ![SCHLAU Frankfurt logo](../../images/SCHLAU-FFM_0b6d03cea56a53a7f892a5424e0fd0e0_original.jpg)

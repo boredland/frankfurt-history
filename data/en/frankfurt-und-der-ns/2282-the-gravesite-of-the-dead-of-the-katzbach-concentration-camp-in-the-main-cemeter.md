@@ -39,7 +39,7 @@ In 2025, on the initiative of the LAGG association and the Adlerwerke Historical
 ![In 1997, a memorial stone in German and Polish with historical information about the concentration camp was unveiled.](../../images/isg_ffm_s7_3fef67602267660ce9f2335ea1605829_original.jpg)
 *1997 — Author: Georg Kumpfmüller | License: Institut für Stadtgeschichte, Sig. S7FR Nr. 104 | Description: In 1997, a memorial stone in German and Polish with historical information about the concentration camp was unveiled.*
 
-![In 1948, the Polish Catholic Mission erected a stone cross. It bears the inscription “Ofiarom niemieckich obozów koncentracyjnych 1948 – Rodacy” (To the victims of the German concentration camps 1948. Our compatriots).](../../images/Kößler, _b803f96a119f8e5482f844b9f5469511_original.jpg)
+![In 1948, the Polish Catholic Mission erected a stone cross. It bears the inscription “Ofiarom niemieckich obozów koncentracyjnych 1948 – Rodacy” (To the victims of the German concentration camps 1948. Our compatriots).](../../images/K%C3%B6%C3%9Fler%2C%20_b803f96a119f8e5482f844b9f5469511_original.jpg)
 *2025 — Author: Gottfried Kößler | License: gemeinfrei | Description: In 1948, the Polish Catholic Mission erected a stone cross. It bears the inscription “Ofiarom niemieckich obozów koncentracyjnych 1948 – Rodacy” (To the victims of the German concentration camps 1948. Our compatriots).*
 
 

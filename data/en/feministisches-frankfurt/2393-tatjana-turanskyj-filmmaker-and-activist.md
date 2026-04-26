@@ -28,7 +28,7 @@ In these works, she combined feminist discourses on labour, gender and justice w
 ![Tatjana Turanskyj at Remake. Frankfurt Women's Film FestivalSource: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection](../../images/R2_2_jpg_d52a61f52c65be670a4b66aadf2ceb49_original.jpg)
 *2018 — Author: Swenja Bergold | License: Swenja Bergold | Description: Tatjana Turanskyj at Remake. Frankfurt Women's Film FestivalSource: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection*
 
-![Portrait Tatjana Turanskyj, Source: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection](../../images/Paris 2009_4961fe41c088afafeff65ffcc4df6d4d_original.jpg)
+![Portrait Tatjana Turanskyj, Source: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection](../../images/Paris%202009_4961fe41c088afafeff65ffcc4df6d4d_original.jpg)
 *2009 — Author: Anne Euler | License: Anne Euler | Description: Portrait Tatjana Turanskyj, Source: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection*
 
 ![Filmstill EINE FLEXIBLE FRAU (THE DRIFTER). Source: Arsenal - Institut für Film und Videokunst](../../images/eine-flexi_bad6aa210427982134acc0463c23400f_original.jpg)

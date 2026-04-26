@@ -37,6 +37,6 @@ Similar to the redesign of the Zeil into a pedestrian zone – almost 50 years e
 
 ## Gallery
 
-![Oeder Weg as a bicycle street, graphic by Radentscheid Frankfurt on the redesign of Oeder Weg, Frankfurt 2020, Radentscheid Frankfurt, R. Faller](../../images/bemo184,1-_8d53078764eca158e27475d496d11e0e_original.jpg)
+![Oeder Weg as a bicycle street, graphic by Radentscheid Frankfurt on the redesign of Oeder Weg, Frankfurt 2020, Radentscheid Frankfurt, R. Faller](../../images/bemo184%2C1-_8d53078764eca158e27475d496d11e0e_original.jpg)
 *2020 — Author: Rebecca Faller | License: Radentscheid Frankfurt, R. Faller | Description: Oeder Weg as a bicycle street, graphic by Radentscheid Frankfurt on the redesign of Oeder Weg, Frankfurt 2020, Radentscheid Frankfurt, R. Faller*
 

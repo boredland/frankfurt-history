@@ -23,6 +23,6 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
-![Johanna Kirchner Straße](../../images/Johanna Ki_59e0ff6c1cc8443811a135f7d69e752e_original.jpg)
+![Johanna Kirchner Straße](../../images/Johanna%20Ki_59e0ff6c1cc8443811a135f7d69e752e_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Johanna Kirchner Straße*
 

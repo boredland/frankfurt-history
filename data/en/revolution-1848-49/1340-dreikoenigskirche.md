@@ -23,6 +23,6 @@ In late summer 1848, several meetings were held in the Church of the Three Kings
 
 ## Gallery
 
-![Photo of the "Dreikönigskirche" (Church of the Three Kings)](../../images/13 Dreikö_81f171428b93422053d864f54d0984f7_original.jpg)
+![Photo of the "Dreikönigskirche" (Church of the Three Kings)](../../images/13%20Dreik%C3%B6_81f171428b93422053d864f54d0984f7_original.jpg)
 *ca. 1890 — Author: Gottfried Vömel | License: Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 275 | Description: Photo of the "Dreikönigskirche" (Church of the Three Kings)*
 

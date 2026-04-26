@@ -51,7 +51,7 @@ Im Oktober 1968 feierte die Stadt Frankfurt die Eröffnung der U-Bahnlinie A1, w
 ![Carl Hertel (1832-1906), Pferdetrambahn auf der Zeil von der Hauptwache kommend, Frankfurt, HMF.C29106, gemeinfrei](../../images/C29106_001_bc5393a3870030ecc87ede598da2a58c_original.jpg)
 *Um 1880 — Author: Carl Hertel | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Carl Hertel (1832-1906), Pferdetrambahn auf der Zeil von der Hauptwache kommend, Frankfurt, HMF.C29106, gemeinfrei*
 
-![Unbekannt, Pferdetrambahnen an der Hauptwache, Frankfurt 1895, HMF.C28203, gemeinfrei](../../images/C28203+001_8c67308953cd27459cc35f9c540b2475_original.jpg)
+![Unbekannt, Pferdetrambahnen an der Hauptwache, Frankfurt 1895, HMF.C28203, gemeinfrei](../../images/C28203%2B001_8c67308953cd27459cc35f9c540b2475_original.jpg)
 *1895 — License: Gemeinfrei, HMF | Description: Unbekannt, Pferdetrambahnen an der Hauptwache, Frankfurt 1895, HMF.C28203, gemeinfrei*
 
 
@@ -66,10 +66,10 @@ Im Oktober 1968 feierte die Stadt Frankfurt die Eröffnung der U-Bahnlinie A1, w
 
 ## Gallery
 
-![Hermann Nöller, U-Bahnbau an der Hauptwache, Frankfurt 1965, HMF.Ph05152, verwaist](../../images/Ph05152+00_07d3cb225cd7edd1820740d6a1c7eda6_original.jpg)
+![Hermann Nöller, U-Bahnbau an der Hauptwache, Frankfurt 1965, HMF.Ph05152, verwaist](../../images/Ph05152%2B00_07d3cb225cd7edd1820740d6a1c7eda6_original.jpg)
 *1965 — Author: Hermann Nöller | License: Verwaist | Description: Hermann Nöller, U-Bahnbau an der Hauptwache, Frankfurt 1965, HMF.Ph05152, verwaist*
 
-![Kurt Weiner (1921-2016), Baugrube an der Hauptwache beim U-Bahn-Bau, Frankfurt 1960er Jahre, HMF.Ph05452, verwaist](../../images/Ph05452+00_468084ec479da7aa3d7dd888fd9f8e4e_original.jpg)
+![Kurt Weiner (1921-2016), Baugrube an der Hauptwache beim U-Bahn-Bau, Frankfurt 1960er Jahre, HMF.Ph05452, verwaist](../../images/Ph05452%2B00_468084ec479da7aa3d7dd888fd9f8e4e_original.jpg)
 *1960er Jahre — Author: Kurt Weiner | License: verwaist | Description: Kurt Weiner (1921-2016), Baugrube an der Hauptwache beim U-Bahn-Bau, Frankfurt 1960er Jahre, HMF.Ph05452, verwaist*
 
 

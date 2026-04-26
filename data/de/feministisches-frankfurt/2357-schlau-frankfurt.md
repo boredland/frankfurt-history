@@ -25,13 +25,13 @@ SCHLAU - was ursprünglich als SchLAu für Schwul-Lesbische Aufklärung stand, i
 
 ## Gallery
 
-![SCHLAU Infostand beim CSD 2024](../../images/Infostand _c4cb581257838d05eb5fc00f940e9535_original.jpg)
+![SCHLAU Infostand beim CSD 2024](../../images/Infostand%20_c4cb581257838d05eb5fc00f940e9535_original.jpg)
 *2024 — Author: SCHLAU Frankfurt | License: SCHLAU Frankfurt-gemeinfrei | Description: SCHLAU Infostand beim CSD 2024*
 
 ![SCHLAU Teamsitzung 2023](../../images/Draufsicht_b35d2532cdf21e1303144e5d156d6976_original.jpg)
 *2023 — Author: SCHLAU Frankfurt | License: SCHLAU Frankfurt-gemeinfrei | Description: SCHLAU Teamsitzung 2023*
 
-![Schild auf dem CSD Frankfurt 2025](../../images/Schild Gen_be16c9a38af6abcf813292b0082bab5d_original.jpg)
+![Schild auf dem CSD Frankfurt 2025](../../images/Schild%20Gen_be16c9a38af6abcf813292b0082bab5d_original.jpg)
 *2025 — Author: SCHLAU Frankfurt | License: SCHLAU Frankfurt-gemeinfrei | Description: Schild auf dem CSD Frankfurt 2025*
 
 ![SCHLAU Frankfurt Logo](../../images/SCHLAU-FFM_0b6d03cea56a53a7f892a5424e0fd0e0_original.jpg)

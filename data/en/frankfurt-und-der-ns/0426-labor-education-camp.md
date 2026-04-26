@@ -19,6 +19,6 @@ Here you will find different perspectives on the place.
 
 ## Gallery
 
-![Memorial pyramid during the commemorative event in 2024.](../../images/Gedenkstä_b589a994d998d9ee2a6ec37a1649d595_original.jpg)
+![Memorial pyramid during the commemorative event in 2024.](../../images/Gedenkst%C3%A4_b589a994d998d9ee2a6ec37a1649d595_original.jpg)
 *Author: Lisa Schrimpf | License: gemeinfrei | Description: Memorial pyramid during the commemorative event in 2024.*
 

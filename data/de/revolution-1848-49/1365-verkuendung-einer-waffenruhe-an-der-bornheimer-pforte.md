@@ -27,6 +27,6 @@ Da sich die Soldaten nicht von den Barrikaden zurückzogen und den Aufständisch
 
 ## Gallery
 
-![Kolorierte Lithografie: Der Abgeordnete Rösler verkündet auf der Barrikade an der Bornheimer Pforte eine Waffenruhe.](../../images/Route 3, S_3cb23363504c5c09b3851651c944de68_original.jpg)
+![Kolorierte Lithografie: Der Abgeordnete Rösler verkündet auf der Barrikade an der Bornheimer Pforte eine Waffenruhe.](../../images/Route%203%2C%20S_3cb23363504c5c09b3851651c944de68_original.jpg)
 *1848 — Author: unbekannt | License: HMF C 10164c | Description: Kolorierte Lithografie: Der Abgeordnete Rösler verkündet auf der Barrikade an der Bornheimer Pforte eine Waffenruhe.*
 

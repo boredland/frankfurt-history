@@ -25,7 +25,7 @@ Part of today's luxury hotel Villa Kennedy was once the home of the Jewish Beit 
 
 ## Gallery
 
-![Villa Beit from Speyer. Built in 1901 (contemporary photo from 1902)](../../images/Villa Beit_828066d3bd1c9c7359a08da719d47cea_original.jpg)
+![Villa Beit from Speyer. Built in 1901 (contemporary photo from 1902)](../../images/Villa%20Beit_828066d3bd1c9c7359a08da719d47cea_original.jpg)
 *1902 — Author: unbekannt | License: Aus: Sammelmappe Moderne Neubauten, Stuttgart 1902 Die Villa Speyer, 1901 | Description: Villa Beit from Speyer. Built in 1901 (contemporary photo from 1902)*
 
 

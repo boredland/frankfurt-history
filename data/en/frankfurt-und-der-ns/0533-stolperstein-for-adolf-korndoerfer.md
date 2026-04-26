@@ -42,7 +42,7 @@ A Stolperstein—literally “stumbling stone”—is a 10 x 10 x 10-cm concrete
 ![Adolf Korndörfer in a painting by Emil Betzler, oil on canvas, HMF, B.1978.01.](../../images/B_1978_01__355565b008d506a0b0786f6165423d82_original.jpg)
 *1925 — Author: Emil Betzler | License: Historisches Museum Frankfurt | Description: Adolf Korndörfer in a painting by Emil Betzler, oil on canvas, HMF, B.1978.01.*
 
-![Adolf Korndörfer in the garden](../../images/privat Fam_2ff629d58dc0f76c72ed44b7a187135a_original.jpg)
+![Adolf Korndörfer in the garden](../../images/privat%20Fam_2ff629d58dc0f76c72ed44b7a187135a_original.jpg)
 *unknown — Author: unbekannt | License: privat, Familie Buxmann | Description: Adolf Korndörfer in the garden*
 
 ![Adolf Korndörfer in prison, painting by Emil Betzler, oil on canvas, HMF, B.1978.01.](../../images/B_1978_01__51179ee1b4984daf0561de73baafea43_original.jpg)

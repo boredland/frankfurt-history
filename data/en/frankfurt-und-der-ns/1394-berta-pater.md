@@ -31,7 +31,7 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 ![Berta Pater in her garden; S-006057](../../images/Pater_Bert_382fca1d9ea3c38083dfe1d4d7ad23be_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Berta Pater in her garden; S-006057*
 
-![Stolperstein for Berta Pater](../../images/Berta Pate_f1821451c1d0d07a06c6ecf75cb4e114_original.jpg)
+![Stolperstein for Berta Pater](../../images/Berta%20Pate_f1821451c1d0d07a06c6ecf75cb4e114_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Berta Pater*
 
 

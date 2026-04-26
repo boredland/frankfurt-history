@@ -31,13 +31,13 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 ![Frieda Hild, standing, without date; Hild_Frieda_001](../../images/Hild_Fried_2c8ced5840431e470923cf1178ca4311_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Frieda Hild, standing, without date; Hild_Frieda_001*
 
-![Stolperstein for Frieda Hild](../../images/Frieda Hil_8c6c8d94c0a323010c97870cf98109c6_original.jpg)
+![Stolperstein for Frieda Hild](../../images/Frieda%20Hil_8c6c8d94c0a323010c97870cf98109c6_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Frieda Hild*
 
 ![Willy Hild, sitting with violin; E-001053](../../images/Hild_Willy_89610444ac824a9cde9cd6541e132974_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Willy Hild, sitting with violin; E-001053*
 
-![Stolperstein for Willy Hild](../../images/Willy Hild_89942e6bfcf1ae15895f7a488259e9cc_original.jpg)
+![Stolperstein for Willy Hild](../../images/Willy%20Hild_89942e6bfcf1ae15895f7a488259e9cc_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Willy Hild*
 
 ![Letter from Willy to Frieda Hild from the concentration camp, back side](../../images/Hild_Willy_d09d7a02550695c09c60dc263b27a797_original.jpg)

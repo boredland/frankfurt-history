@@ -49,15 +49,15 @@ On August 1, 1972, Nieder-Eschbach was incorporated into Frankfurt as administra
 
 ## Gallery
 
-![Darmstädter Hof, side view](../../images/Darmstädt_923dfa2a0648a52ee2498b877df78eae_original.jpg)
+![Darmstädter Hof, side view](../../images/Darmst%C3%A4dt_923dfa2a0648a52ee2498b877df78eae_original.jpg)
 *2026 — Author: Peter Brosche | License: Privat | Description: Darmstädter Hof, side view*
 
-![A view of the ballroom under the roof.](../../images/Vorhöfer__e2c2a3d518e3f670eb58151b85d148c6_original.jpg)
+![A view of the ballroom under the roof.](../../images/Vorh%C3%B6fer__e2c2a3d518e3f670eb58151b85d148c6_original.jpg)
 *o.D. — Author: Unbekannt | License: HGNE/Vorhöfer | Description: A view of the ballroom under the roof.*
 
 ![Letter from the mayor of the municipality of Nieder-Eschbach to the district office in Friedberg i./H. regarding residence notifications for foreign workers; here in Nieder-Eschbach, October 26, 1943.](../../images/a31072600fcdc8c80fa47173e707a4e7_original.jpg)
 *n.d. — Author: Unbekannt | License: Arbeitseinsatzlisten von ausländischen Zivilarbeitern, die während des Krieges im Landkreis Friedberg beschäftigt waren, 2.1.1.2/70507982, ITS Digital Archive, Arolsen Archives | Description: Letter from the mayor of the municipality of Nieder-Eschbach to the district office in Friedberg i./H. regarding residence notifications for foreign workers; here in Nieder-Eschbach, October 26, 1943.*
 
-![Sterbeurkunde von Hendrik van der May, ausgestellt am 31. Oktober 1950.](../../images/Arolsen Ar_4c9d7c4eab337b63acd910f1c34ca49c_original.jpg)
+![Sterbeurkunde von Hendrik van der May, ausgestellt am 31. Oktober 1950.](../../images/Arolsen%20Ar_4c9d7c4eab337b63acd910f1c34ca49c_original.jpg)
 *n.d. — Author: Unbekannt | License: Personenstandskurkunde Westzone Allgemein, 2.2.2.2/76810523, ITS Digital Archive, Arolsen Archives. | Description: Sterbeurkunde von Hendrik van der May, ausgestellt am 31. Oktober 1950.*
 

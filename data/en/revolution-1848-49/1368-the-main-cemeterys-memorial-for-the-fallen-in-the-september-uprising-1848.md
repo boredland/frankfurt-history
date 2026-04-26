@@ -14,7 +14,7 @@ filters:
 
 *Hauptfriedhof*
 
-![Lithograph: The monument to the "fallen of the people" at the main cemetery. 34 names are engraved on the four sides of the obelisk.](../../images/Route 3, S_c9183cd1bdc591c5d1a33b68b1bbebf5_original.jpg)
+![Lithograph: The monument to the "fallen of the people" at the main cemetery. 34 names are engraved on the four sides of the obelisk.](../../images/Route%203%2C%20S_c9183cd1bdc591c5d1a33b68b1bbebf5_original.jpg)
 *1872 — Author: H. Schaefer | License: HMF C 10173 | Description: Lithograph: The monument to the "fallen of the people" at the main cemetery. 34 names are engraved on the four sides of the obelisk.*
 
 On Thursday 21 September, the burial of the two murdered parliamentarians and the eleven soldiers killed resembled a state funeral. To the sound of church bells ringing, the troops quartered in Frankfurt lined up on Rossmarkt in the morning to form a seemingly endless funeral procession. The four horse-drawn hearses were set in the middle of the procession.
@@ -27,6 +27,6 @@ Even today, the main cemetery has a memorial to the soldiers killed in putting d
 
 ## Gallery
 
-![Lithograph: The monument to the "fallen of the people" at the main cemetery. 34 names are engraved on the four sides of the obelisk.](../../images/Route 3, S_c9183cd1bdc591c5d1a33b68b1bbebf5_original.jpg)
+![Lithograph: The monument to the "fallen of the people" at the main cemetery. 34 names are engraved on the four sides of the obelisk.](../../images/Route%203%2C%20S_c9183cd1bdc591c5d1a33b68b1bbebf5_original.jpg)
 *1872 — Author: H. Schaefer | License: HMF C 10173 | Description: Lithograph: The monument to the "fallen of the people" at the main cemetery. 34 names are engraved on the four sides of the obelisk.*
 

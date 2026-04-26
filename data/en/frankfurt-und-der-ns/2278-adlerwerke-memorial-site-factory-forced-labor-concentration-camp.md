@@ -28,7 +28,7 @@ The Adlerwerke Memorial Site documents and communicates the history of forced la
 ![Lettering of the historical site Adlerwerke on the facade of the old factory building.](../../images/621f4f946c021519b587631bf9fb55e0_original.jpg)
 *2023 — Author: Thomas Altmeyer | License: gemeinfrei | Description: Lettering of the historical site Adlerwerke on the facade of the old factory building.*
 
-![Young people at the Adlerwerke memorial site.](../../images/Stadt Fran_81ae86d3c9366b4151258da32fd90e5e_original.jpg)
+![Young people at the Adlerwerke memorial site.](../../images/Stadt%20Fran_81ae86d3c9366b4151258da32fd90e5e_original.jpg)
 *2022 — Author: Mara Monetti | License: Stadt Frankfurt | Description: Young people at the Adlerwerke memorial site.*
 
 

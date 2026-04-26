@@ -25,6 +25,6 @@ Marie E. Pfungst was born into this successful entrepreneurial family. From 1912
 
 ## Gallery
 
-![](../../images/C97038+001_2d62b67c3cd3270f68074f7bd25498a8_original.jpg)
+![](../../images/C97038%2B001_2d62b67c3cd3270f68074f7bd25498a8_original.jpg)
 *1925 — Author: Unbekannt | License: HMF*
 

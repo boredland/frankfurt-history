@@ -36,10 +36,10 @@ Bei Durchsicht der erhalten gebliebenen Kartei fällt auf, wie viele Zwangsarbei
 ![Fabrikausweis eines französischen Zwangsarbeiters der I.G. Farben in Griesheim. Archiv Höchst H0179390, Seite 630.](../../images/Fabrikausw_ceb52885e75a29a1d8b7acfd83f189f0_original.jpg)
 *unbekannt — License: Höchst Firmenarchiv | Description: Fabrikausweis eines französischen Zwangsarbeiters der I.G. Farben in Griesheim. Archiv Höchst H0179390, Seite 630.*
 
-![Auszug aus der Arbeiterkartei der I.G. Farben, Werk Griesheim. Vorderseite einer Dop-pelkarte mit Angaben zu einem „Zivil-Russen“ und einer „Zivil-Russin“. Archiv Höchst H0179390, Seite 297.](../../images/Seite 297 _f8b7b559f169dcff601cdf2e741b74cf_original.jpg)
+![Auszug aus der Arbeiterkartei der I.G. Farben, Werk Griesheim. Vorderseite einer Dop-pelkarte mit Angaben zu einem „Zivil-Russen“ und einer „Zivil-Russin“. Archiv Höchst H0179390, Seite 297.](../../images/Seite%20297%20_f8b7b559f169dcff601cdf2e741b74cf_original.jpg)
 *1942-1945 — License: Höchst Firmenarchiv | Description: Auszug aus der Arbeiterkartei der I.G. Farben, Werk Griesheim. Vorderseite einer Dop-pelkarte mit Angaben zu einem „Zivil-Russen“ und einer „Zivil-Russin“. Archiv Höchst H0179390, Seite 297.*
 
-![Auszug aus der umfangreichen Arbeiterkartei der I.G. Farben, Werk Griesheim. Rückseite. Archiv Höchst H0179390, Seite 297.](../../images/Seite 297__6f88338254ef452f465cb6de8c094932_original.jpg)
+![Auszug aus der umfangreichen Arbeiterkartei der I.G. Farben, Werk Griesheim. Rückseite. Archiv Höchst H0179390, Seite 297.](../../images/Seite%20297__6f88338254ef452f465cb6de8c094932_original.jpg)
 *1942-1945 — License: Höchst Firmenarchiv | Description: Auszug aus der umfangreichen Arbeiterkartei der I.G. Farben, Werk Griesheim. Rückseite. Archiv Höchst H0179390, Seite 297.*
 
 

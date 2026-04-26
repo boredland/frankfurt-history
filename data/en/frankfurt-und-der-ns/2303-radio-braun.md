@@ -35,18 +35,18 @@ From November 1942 until 15 August 1944 when she was nearly twenty-four years ol
 
 ## Gallery
 
-![Braun Radio, Idsteiner Street 91](../../images/Idsteiner _e38955467a90ca45535f101a42184532_original.jpg)
+![Braun Radio, Idsteiner Street 91](../../images/Idsteiner%20_e38955467a90ca45535f101a42184532_original.jpg)
 *1946 — Author: Unbekannt | License: Braun Archiv | Description: Braun Radio, Idsteiner Street 91*
 
-![Braun Radio, main building, Idsteiner Street 91](../../images/Idsteiner _1e2f9b88068e2e9998be12bb61a92d87_original.jpg)
+![Braun Radio, main building, Idsteiner Street 91](../../images/Idsteiner%20_1e2f9b88068e2e9998be12bb61a92d87_original.jpg)
 *1928 — Author: Unbekannt | License: Braun Archiv | Description: Braun Radio, main building, Idsteiner Street 91*
 
 
 ## Gallery
 
-![Excerpt from the tabular list of all foreigners with Soviet citizenship from the health sector of the Frankfurt am Main district. The name “Anna Melnyk” is in second place.](../../images/Arolsen Ar_7352973056b265c2ed29830f52bc9a0f_original.jpg)
+![Excerpt from the tabular list of all foreigners with Soviet citizenship from the health sector of the Frankfurt am Main district. The name “Anna Melnyk” is in second place.](../../images/Arolsen%20Ar_7352973056b265c2ed29830f52bc9a0f_original.jpg)
 *n.d. — Author: Unbekannt | License: Informationen über Ausländer aus dem Gesundheitsbereich der Kreises Frankfurt/Main, 2.1.1.2/70505682, ITS Digital Archive, Arolsen Archives. | Description: Excerpt from the tabular list of all foreigners with Soviet citizenship from the health sector of the Frankfurt am Main district. The name “Anna Melnyk” is in second place.*
 
-![Death certificate of Anna Melnyk, issued on May 16, 1950.](../../images/Arolsen Ar_26997014a27823e7701071f37653a361_original.jpg)
+![Death certificate of Anna Melnyk, issued on May 16, 1950.](../../images/Arolsen%20Ar_26997014a27823e7701071f37653a361_original.jpg)
 *n.d. — Author: Unbekannt | License: Sterbeurkunde Anna Melnyk, 2.2.2.2/76811909, ITS Digital Archive, Arolsen Archives. | Description: Death certificate of Anna Melnyk, issued on May 16, 1950.*
 

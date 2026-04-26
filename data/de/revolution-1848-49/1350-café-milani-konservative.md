@@ -27,6 +27,6 @@ Die Café-Milani-Mitglieder wollten nur eine Reform des bestehenden Deutschen Bu
 
 ## Gallery
 
-![Lithografie mit dem Café Milani am Roßmarkt](../../images/08 Cafe Mi_49c0878606aeb55e9480eea44d7991b1_original.jpg)
+![Lithografie mit dem Café Milani am Roßmarkt](../../images/08%20Cafe%20Mi_49c0878606aeb55e9480eea44d7991b1_original.jpg)
 *um 1840 — Author: unbekannt | License: HMF C12058 | Description: Lithografie mit dem Café Milani am Roßmarkt*
 

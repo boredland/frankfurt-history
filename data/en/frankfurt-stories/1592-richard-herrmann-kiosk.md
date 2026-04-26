@@ -27,12 +27,12 @@ Richard Herrmann played 320 times from 1947 to 1960 in the striped black and blu
 
 ## Gallery
 
-![Richard Hermann is honored in the graffito](../../images/station 10_01b605ad16f01cc27cba095440e4d747_original.jpg)
+![Richard Hermann is honored in the graffito](../../images/station%2010_01b605ad16f01cc27cba095440e4d747_original.jpg)
 *Author: F. Blendin | Description: Richard Hermann is honored in the graffito*
 
 
 ## Gallery
 
-![The original kiosk that Richard Herrmann ran with his wife Lilo](../../images/station 10_afffbab359812c7425d13f76d36a6d9a_original.jpg)
+![The original kiosk that Richard Herrmann ran with his wife Lilo](../../images/station%2010_afffbab359812c7425d13f76d36a6d9a_original.jpg)
 *License: Quelle: Horst und Rolf Herrmann | Description: The original kiosk that Richard Herrmann ran with his wife Lilo*
 

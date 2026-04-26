@@ -25,6 +25,6 @@ The family stayed in London after the Second World War. They began trying to cla
 
 ## Gallery
 
-![Thüringer Straße 23 (today)](../../images/Foto_Thü_70887308bb6052b9db7809822a2f1a9a_original.jpg)
+![Thüringer Straße 23 (today)](../../images/Foto_Thu%CC%88_70887308bb6052b9db7809822a2f1a9a_original.jpg)
 *2023 — Author: unbekannt | License: Google Street View | Description: Thüringer Straße 23 (today)*
 

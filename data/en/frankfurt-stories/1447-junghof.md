@@ -41,7 +41,7 @@ From 1860, the Junghof was cleared for a new connecting road between the Rossmar
 ![Carl Theodor Reiffenstein, Junghof, inside view of the old theater (demolished 1860), 1872, gouache, HMF C09302](../../images/C09302_png_3f2f07553a6443ac6537715cc129ba21_original.jpg)
 *1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Junghof, inside view of the old theater (demolished 1860), 1872, gouache, HMF C09302*
 
-![Rudolf Heinrich Burnitz, roofed hall, Junghofstraße, watercolored pen and ink drawing, 1859-1860, HMF C60600,27](../../images/C60600,27__ad99be277e0593c445c4e22552f7dea6_original.jpg)
+![Rudolf Heinrich Burnitz, roofed hall, Junghofstraße, watercolored pen and ink drawing, 1859-1860, HMF C60600,27](../../images/C60600%2C27__ad99be277e0593c445c4e22552f7dea6_original.jpg)
 *1859-1860 — Author: Rudolf Heinrich Burnitz | License: HMF | Description: Rudolf Heinrich Burnitz, roofed hall, Junghofstraße, watercolored pen and ink drawing, 1859-1860, HMF C60600,27*
 
 

@@ -18,6 +18,6 @@ Es gibt die Überlieferung, dass unter den Straßenbahnfahrern einige gegen die 
 
 ## Gallery
 
-![Straßenbahndepot in der Schwabstraße 18](../../images/Straßenba_9db54103a6b3aa903db3d3fa8c29cd82_original.jpg)
+![Straßenbahndepot in der Schwabstraße 18](../../images/Stra%C3%9Fenba_9db54103a6b3aa903db3d3fa8c29cd82_original.jpg)
 *2023 — Description: Straßenbahndepot in der Schwabstraße 18*
 

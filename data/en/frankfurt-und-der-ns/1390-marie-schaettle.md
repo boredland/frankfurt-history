@@ -25,10 +25,10 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
-![Portrait of Marie Schättle; M-002814](../../images/Schättle_dee62e285e2582d611b7e64be16ce9a2_original.jpg)
+![Portrait of Marie Schättle; M-002814](../../images/Scha%CC%88ttle_dee62e285e2582d611b7e64be16ce9a2_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Portrait of Marie Schättle; M-002814*
 
-![Stolperstein for Marie Schättle](../../images/Marie Sch)
+![Stolperstein for Marie Schättle](../../images/Marie%20Sch%3F_1709a6195e5153fee2d2a572dc8d3336_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Marie Schättle*
 
 

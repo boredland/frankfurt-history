@@ -40,12 +40,12 @@ the closure).
 
 ## Gallery
 
-![The view of Eulengasse with the restaurant on the right in the timbered house](../../images/station 5__21ab3a270950d8247379e40507ce25c1_original.jpg)
+![The view of Eulengasse with the restaurant on the right in the timbered house](../../images/station%205__21ab3a270950d8247379e40507ce25c1_original.jpg)
 *1912 — License: Quelle: Familie Henze | Description: The view of Eulengasse with the restaurant on the right in the timbered house*
 
 
 ## Gallery
 
-![The FSV Frankfurt regulars' table at the end of the 1950s](../../images/station 5__e825961950f731026d0a6ffa104d209c_original.jpg)
+![The FSV Frankfurt regulars' table at the end of the 1950s](../../images/station%205__e825961950f731026d0a6ffa104d209c_original.jpg)
 *License: Quelle: FSV Frankfurt Chronik 90 Jahre | Description: The FSV Frankfurt regulars' table at the end of the 1950s*
 

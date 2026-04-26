@@ -41,7 +41,7 @@ Ab 1860 musste der Junghof einem Straßendurchbruch zwischen dem Rossmarkt und d
 ![Carl Theodor Reiffenstein, Junghof, Innenansicht des alten Theaters (abgebrochen 1860), 1872, Gouache, HMF C09302](../../images/C09302_png_3f2f07553a6443ac6537715cc129ba21_original.jpg)
 *1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Junghof, Innenansicht des alten Theaters (abgebrochen 1860), 1872, Gouache, HMF C09302*
 
-![Rudolf Heinrich Burnitz, Saalbau, Junghofstraße, aquarellierte Federzeichnung, 1859-1860, HMF C60600,27](../../images/C60600,27__ad99be277e0593c445c4e22552f7dea6_original.jpg)
+![Rudolf Heinrich Burnitz, Saalbau, Junghofstraße, aquarellierte Federzeichnung, 1859-1860, HMF C60600,27](../../images/C60600%2C27__ad99be277e0593c445c4e22552f7dea6_original.jpg)
 *1859-1860 — Author: Rudolf Heinrich Burnitz | License: HMF | Description: Rudolf Heinrich Burnitz, Saalbau, Junghofstraße, aquarellierte Federzeichnung, 1859-1860, HMF C60600,27*
 
 

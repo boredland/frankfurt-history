@@ -20,6 +20,6 @@ In diesem Haus war der Sitz der Ortsgruppe der Nationalsozialistischen Volkswohl
 
 ## Gallery
 
-![Engelthaler Straße 34](../../images/NSV Eckenh_1f7fa37484447973dca9995532f47c56_original.jpg)
+![Engelthaler Straße 34](../../images/NSV%20Eckenh_1f7fa37484447973dca9995532f47c56_original.jpg)
 *2023 — Description: Engelthaler Straße 34*
 

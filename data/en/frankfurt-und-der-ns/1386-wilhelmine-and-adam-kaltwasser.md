@@ -37,7 +37,7 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 ![Telegram with the death notification of Adam Kaltwasser from 19.04.1940](../../images/Kaltwasser_fd08dd8009a90a592803ea35f09c2038_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Telegram with the death notification of Adam Kaltwasser from 19.04.1940*
 
-![Stolperstein for Adam Kaltwasser](../../images/Adam Kaltw_150d7d06bb3c1ae20ccfd2163e5abbe7_original.jpg)
+![Stolperstein for Adam Kaltwasser](../../images/Adam%20Kaltw_150d7d06bb3c1ae20ccfd2163e5abbe7_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Adam Kaltwasser*
 
 ![Stolperstein for Wilhelmine Kaltwasser](../../images/Wilhelmine_cfe2b5e78a2b412037eee199960fbea2_original.jpg)

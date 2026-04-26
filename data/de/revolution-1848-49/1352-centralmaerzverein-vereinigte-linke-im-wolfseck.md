@@ -25,6 +25,6 @@ In der Phase der Reichsverfassungskampagne rief der Verein am 6. Mai 1849 in Fra
 
 ## Gallery
 
-![Lithografie mit dem Gebäude Haus zum Wolfseck](../../images/10 Wolfsec_9670cec671fa4e949753a03de1dbb650_original.jpg)
+![Lithografie mit dem Gebäude Haus zum Wolfseck](../../images/10%20Wolfsec_9670cec671fa4e949753a03de1dbb650_original.jpg)
 *1890 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2000-315 | Description: Lithografie mit dem Gebäude Haus zum Wolfseck*
 

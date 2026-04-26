@@ -31,12 +31,12 @@ Nach dem der FSV 1931 in das Stadion am Bornheimer Hang umgezogen ist, wurde der
 
 ## Gallery
 
-![Die vollbesetzte Tribüne an der Seckbacher Landstraße. Sie befand sich an der Stelle, wo heute das Vereinsheim der SG Bornheim Grün/Weiß steht](../../images/station 4__e453562097ad84ae455003cb404aaea9_original.jpg)
+![Die vollbesetzte Tribüne an der Seckbacher Landstraße. Sie befand sich an der Stelle, wo heute das Vereinsheim der SG Bornheim Grün/Weiß steht](../../images/station%204__e453562097ad84ae455003cb404aaea9_original.jpg)
 *Description: Die vollbesetzte Tribüne an der Seckbacher Landstraße. Sie befand sich an der Stelle, wo heute das Vereinsheim der SG Bornheim Grün/Weiß steht*
 
 
 ## Gallery
 
-![Eingang zum Stadion an der Seckbacher Landstraße](../../images/Station 8-_aa2eedb68b36cfeefffb93084a799615_original.jpg)
+![Eingang zum Stadion an der Seckbacher Landstraße](../../images/Station%208-_aa2eedb68b36cfeefffb93084a799615_original.jpg)
 *License: Quelle: Festschrift zum 25-jährigen Jubiläum von 1924 | Description: Eingang zum Stadion an der Seckbacher Landstraße*
 
