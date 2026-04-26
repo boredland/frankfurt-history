@@ -11,11 +11,14 @@ import concurrent.futures
 import os
 import re
 import subprocess
+import sys
 import tempfile
 import time
 from pathlib import Path
 
 import httpx
+
+sys.stdout.reconfigure(line_buffering=True)
 
 API_BASE = "https://api.frankfurthistory.app"
 R2_BUCKET = "frankfurt-history-assets"
@@ -111,6 +114,8 @@ def main():
 
     ok = 0
     fail = 0
+    total = len(to_sync)
+    t0 = time.time()
     with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
         futures = {pool.submit(sync_one, f): f for f in sorted(to_sync)}
         for i, future in enumerate(concurrent.futures.as_completed(futures)):
@@ -120,8 +125,12 @@ def main():
             else:
                 fail += 1
                 print(f"  Failed: {futures[future]}")
-            if (i + 1) % 100 == 0:
-                print(f"  Progress: {i + 1}/{len(to_sync)} ({ok} ok, {fail} fail)")
+            done = i + 1
+            if done % 25 == 0 or done == total:
+                elapsed = time.time() - t0
+                rate = done / elapsed if elapsed > 0 else 0
+                eta = (total - done) / rate if rate > 0 else 0
+                print(f"  [{done}/{total}] {ok} ok, {fail} fail — {rate:.1f}/s, ETA {eta:.0f}s")
 
     print(f"\nDone: {ok} uploaded, {fail} failed")
 
