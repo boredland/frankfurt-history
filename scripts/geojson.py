@@ -103,6 +103,9 @@ def build_theme(theme_dir: Path) -> tuple[dict | None, dict | None]:
         lat, lng = coords[0], coords[1]
         if lat == 0 and lng == 0:
             continue
+        if not (49.5 < lat < 50.5 and 8.0 < lng < 9.5):
+            print(f"    SKIP {poi_path.stem}: bad coordinates [{lat}, {lng}]")
+            continue
 
         categories = parse_yaml_list(poi_path, "categories")
         filters = parse_yaml_list(poi_path, "filters")
@@ -143,13 +146,15 @@ def build_theme(theme_dir: Path) -> tuple[dict | None, dict | None]:
 def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
+    # Prefer merged content/ (includes overrides) over raw data/
+    geojson_source = MERGED_DIR if MERGED_DIR.is_dir() else DATA_DIR
+
     themes = []
     total = 0
 
-    for theme_dir in sorted(DATA_DIR.iterdir()):
+    for theme_dir in sorted(geojson_source.iterdir()):
         if not theme_dir.is_dir() or theme_dir.name in ("images", "de", "en"):
             continue
-        # Support both flat (data/<theme>/) and nested (data/de/<theme>/) layouts
         theme_meta, geojson = build_theme(theme_dir)
         if not theme_meta:
             continue
@@ -160,8 +165,10 @@ def main():
         total += theme_meta["poi_count"]
         print(f"  {theme_dir.name}: {theme_meta['poi_count']} POIs with coordinates")
 
-    # Also check data/de/ layout
-    de_dir = DATA_DIR / "de"
+    # Also check <source>/de/ layout
+    de_dir = geojson_source / "de"
+    if not de_dir.is_dir():
+        de_dir = DATA_DIR / "de"
     if de_dir.is_dir():
         for theme_dir in sorted(de_dir.iterdir()):
             if not theme_dir.is_dir():

@@ -1,5 +1,6 @@
 import { useNavigate } from "@tanstack/react-router";
 import { useCallback, useEffect, useRef, useState } from "react";
+import { useNavigation } from "~/lib/NavigationContext";
 import {
   type ArticleSection,
   type ImageRef,
@@ -7,6 +8,7 @@ import {
 } from "~/lib/parseArticle";
 import { BeforeAfterSlider } from "./BeforeAfterSlider";
 import { Lightbox } from "./Lightbox";
+import { Navigation } from "./Navigation";
 import { TTSPlayer } from "./TTSPlayer";
 
 interface ArticlePanelProps {
@@ -20,6 +22,7 @@ interface ArticleData {
   subtitle?: string;
   sections: ArticleSection[];
   plainText: string;
+  coordinates?: [number, number];
 }
 
 interface ArticleJson {
@@ -197,6 +200,7 @@ function ArticleSections({ sections }: { sections: ArticleSection[] }) {
 
 export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
   const navigate = useNavigate();
+  const { setRouteGeometry } = useNavigation();
   const [article, setArticle] = useState<ArticleData | null>(null);
   const [loading, setLoading] = useState(true);
   const [snap, setSnap] = useState<SheetSnap>("half");
@@ -224,11 +228,25 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
           .replace(/\*\*([^*]+)\*\*/g, "$1")
           .replace(/\n{2,}/g, "\n")
           .trim();
+        let coordinates: [number, number] | undefined;
+        const coordsRaw = json.frontmatter.coordinates;
+        if (coordsRaw) {
+          const match = String(coordsRaw).match(
+            /\[?\s*([\d.]+)\s*,\s*([\d.]+)\s*\]?/,
+          );
+          if (match?.[1] && match?.[2]) {
+            coordinates = [
+              Number.parseFloat(match[1]),
+              Number.parseFloat(match[2]),
+            ];
+          }
+        }
         setArticle({
           title: json.frontmatter.title || slug,
           subtitle: json.frontmatter.subtitle,
           sections: parseArticleBody(json.body),
           plainText,
+          coordinates,
         });
       })
       .catch(() => setArticle(null))
@@ -236,12 +254,13 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
   }, [theme, slug, lang]);
 
   const handleClose = useCallback(() => {
+    setRouteGeometry(null);
     navigate({
       to: "/$lang",
       params: { lang: lang as "de" | "en" },
       search: (prev: Record<string, unknown>) => prev,
     });
-  }, [navigate, lang]);
+  }, [navigate, lang, setRouteGeometry]);
 
   const snapHeights: Record<SheetSnap, string> = {
     peek: "120px",
@@ -389,6 +408,16 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
           <div className="text-faded text-center py-8">Article not found.</div>
         )}
       </div>
+      {article?.coordinates && (
+        <Navigation
+          lang={lang}
+          theme={theme}
+          slug={slug}
+          poiLng={article.coordinates[1]}
+          poiLat={article.coordinates[0]}
+          onRouteGeometry={setRouteGeometry}
+        />
+      )}
       {article?.plainText && <TTSPlayer text={article.plainText} lang={lang} />}
     </>
   );

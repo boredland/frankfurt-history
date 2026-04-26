@@ -8,6 +8,7 @@ import {
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { z } from "zod";
 import { MapView } from "~/components/MapView";
+import { NavigationProvider } from "~/lib/NavigationContext";
 import type { Theme } from "~/lib/themes";
 
 const mapSearchSchema = z.object({
@@ -130,25 +131,27 @@ function LangLayout() {
   );
 
   return (
-    <div className="h-full flex flex-col">
-      <header className="flex items-center justify-between px-4 py-2 border-b border-sepia-light bg-paper z-10">
-        <h1 className="font-serif text-lg font-bold tracking-tight text-ink">
-          Frankfurt History
-        </h1>
-        <LanguageToggle lang={lang} />
-      </header>
-      <div className="flex-1 flex overflow-hidden relative">
-        <MapView
-          lat={search.lat}
-          lng={search.lng}
-          zoom={search.z}
-          lang={lang}
-          activeLayers={activeLayers}
-          onToggleLayer={handleToggleLayer}
-          activeSlug={activeSlug}
-        />
-        <Outlet />
+    <NavigationProvider>
+      <div className="h-full flex flex-col">
+        <header className="flex items-center justify-between px-4 py-2 border-b border-sepia-light bg-paper z-10">
+          <h1 className="font-serif text-lg font-bold tracking-tight text-ink">
+            Frankfurt History
+          </h1>
+          <LanguageToggle lang={lang} />
+        </header>
+        <div className="flex-1 flex overflow-hidden relative">
+          <MapView
+            lat={search.lat}
+            lng={search.lng}
+            zoom={search.z}
+            lang={lang}
+            activeLayers={activeLayers}
+            onToggleLayer={handleToggleLayer}
+            activeSlug={activeSlug}
+          />
+          <Outlet />
+        </div>
       </div>
-    </div>
+    </NavigationProvider>
   );
 }

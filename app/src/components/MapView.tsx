@@ -1,6 +1,7 @@
 import { useNavigate } from "@tanstack/react-router";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import MapGL, {
+  GeolocateControl,
   Layer,
   type MapLayerMouseEvent,
   type MapRef,
@@ -8,11 +9,13 @@ import MapGL, {
   Source,
   type ViewStateChangeEvent,
 } from "react-map-gl/maplibre";
+import { useNavigation } from "~/lib/NavigationContext";
 import { type Theme, themeColor } from "~/lib/themes";
 import { LayerPicker } from "./LayerPicker";
 
 const FRANKFURT_CENTER = { lng: 8.68, lat: 50.11 };
 const DEFAULT_ZOOM = 13;
+const MAX_BOUNDS: [number, number, number, number] = [8.4, 50.0, 8.9, 50.25];
 
 const BASEMAP_STYLE =
   "https://basemaps.cartocdn.com/gl/positron-gl-style/style.json";
@@ -44,6 +47,7 @@ export function MapView({
 }: MapViewProps) {
   const navigate = useNavigate();
   const mapRef = useRef<MapRef>(null);
+  const { routeGeometry } = useNavigation();
   const [themes, setThemes] = useState<Theme[]>([]);
   const [hover, setHover] = useState<HoverInfo | null>(null);
   const [cursor, setCursor] = useState("auto");
@@ -171,6 +175,7 @@ export function MapView({
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
       interactiveLayerIds={interactiveLayerIds}
+      maxBounds={MAX_BOUNDS}
       style={{ width: "100%", height: "100%" }}
       cursor={cursor}
     >
@@ -187,6 +192,37 @@ export function MapView({
         activeLayers={activeLayers}
         onToggle={onToggleLayer}
       />
+      {routeGeometry && (
+        <Source
+          id="route-line"
+          type="geojson"
+          data={{
+            type: "Feature",
+            properties: {},
+            geometry: routeGeometry,
+          }}
+        >
+          <Layer
+            id="route-line-bg"
+            type="line"
+            paint={{
+              "line-color": "#FAF8F5",
+              "line-width": 6,
+              "line-opacity": 0.8,
+            }}
+          />
+          <Layer
+            id="route-line-fg"
+            type="line"
+            paint={{
+              "line-color": "#8B7355",
+              "line-width": 3,
+              "line-dasharray": [2, 1],
+            }}
+          />
+        </Source>
+      )}
+      <GeolocateControl position="bottom-right" trackUserLocation />
       {hover && (
         <Popup
           longitude={hover.lng}

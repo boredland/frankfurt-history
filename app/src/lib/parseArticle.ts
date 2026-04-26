@@ -23,6 +23,10 @@ function markdownBlockToHtml(md: string): string {
     /\[([^\]]+)\]\(([^)]+)\)/g,
     '<a href="$2" target="_blank" rel="noopener">$1</a>',
   );
+  html = html.replace(
+    /(?<![("=])(https?:\/\/[^\s<)]+)/g,
+    '<a href="$1" target="_blank" rel="noopener">$1</a>',
+  );
   html = html.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
   html = html.replace(/(?<![*])\*([^*\n]+)\*(?![*])/g, "<em>$1</em>");
   html = html.replace(/^- (.+)$/gm, "<li>$1</li>");
@@ -82,10 +86,12 @@ export function parseArticleBody(body: string): ArticleSection[] {
   const galleryPattern =
     /^## (?:Gallery|Before & After|Interactive Before & After|Timeline)\s*$/;
   const galleryTypePattern = /^<!-- gallery:([\w-]+) -->$/;
+  const skipSectionPattern = /^## (?:Audio|Video|Links)\s*$/;
 
   const lines = body.split("\n");
   let currentTextLines: string[] = [];
   let inGallery = false;
+  let inSkipSection = false;
   let galleryType = "standard";
   let galleryLines: string[] = [];
 
@@ -126,12 +132,28 @@ export function parseArticleBody(body: string): ArticleSection[] {
   }
 
   for (const line of lines) {
+    if (skipSectionPattern.test(line)) {
+      if (inGallery) flushGallery();
+      flushText();
+      inSkipSection = true;
+      continue;
+    }
+
     if (galleryPattern.test(line)) {
       if (inGallery) flushGallery();
       flushText();
       inGallery = true;
+      inSkipSection = false;
       galleryType = "standard";
       galleryLines = [];
+      continue;
+    }
+
+    if (inSkipSection) {
+      if (line.startsWith("## ")) {
+        inSkipSection = false;
+        currentTextLines.push(line);
+      }
       continue;
     }
 
