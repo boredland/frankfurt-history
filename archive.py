@@ -227,10 +227,7 @@ def poi_to_markdown(poi: dict, depth: int = 1) -> str:
             lines.append(f"\n*{m}*")
 
     # Galleries
-    for key, heading in [
-        ("galleryContents", "Gallery"),
-        ("interactiveGalleryContents", "Before & After"),
-    ]:
+    for key in ("galleryContents", "interactiveGalleryContents"):
         galleries = sorted(
             poi.get(key, []), key=lambda x: x.get("pos", 0) if isinstance(x, dict) else 0
         )
@@ -241,19 +238,40 @@ def poi_to_markdown(poi: dict, depth: int = 1) -> str:
             images = gc.get("images", [])
             if not images:
                 continue
-            label = heading
-            if gallery_type == "timeline":
-                label = "Timeline"
-            elif gallery_type == "beforeAfter":
-                label = "Before & After"
-            elif gallery_type == "interactiveBeforeAfter":
-                label = "Interactive Before & After"
-            lines.append(f"\n## {label}\n")
-            for img in images:
-                md = image_markdown(img, depth=depth)
-                if md:
-                    lines.append(md)
-                    lines.append("")
+
+            if gallery_type in ("beforeAfter", "interactiveBeforeAfter"):
+                before_img = images.get("before") if isinstance(images, dict) else None
+                after_img = images.get("after") if isinstance(images, dict) else None
+                if not before_img and not after_img:
+                    continue
+                lines.append("\n## Before & After\n")
+                lines.append("<!-- gallery:before-after -->")
+                if before_img:
+                    md = image_markdown(before_img, depth=depth)
+                    if md:
+                        lines.append(md)
+                        lines.append("")
+                if after_img:
+                    md = image_markdown(after_img, depth=depth)
+                    if md:
+                        lines.append(md)
+                        lines.append("")
+            elif gallery_type == "timeline":
+                lines.append("\n## Timeline\n")
+                lines.append("<!-- gallery:timeline -->")
+                for img in images if isinstance(images, list) else []:
+                    md = image_markdown(img, depth=depth)
+                    if md:
+                        lines.append(md)
+                        lines.append("")
+            else:
+                lines.append("\n## Gallery\n")
+                lines.append("<!-- gallery:standard -->")
+                for img in images if isinstance(images, list) else []:
+                    md = image_markdown(img, depth=depth)
+                    if md:
+                        lines.append(md)
+                        lines.append("")
 
     # Audio
     audios = sorted(
