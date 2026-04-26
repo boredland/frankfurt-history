@@ -1,5 +1,6 @@
 import { useNavigate } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
+import { getArticle } from "~/lib/content";
 
 interface ArticlePanelProps {
   lang: string;
@@ -13,40 +14,21 @@ interface ArticleData {
   html: string;
 }
 
-function parseFrontmatter(text: string): {
-  attrs: Record<string, string>;
-  body: string;
-} {
-  if (!text.startsWith("---")) return { attrs: {}, body: text };
-  const end = text.indexOf("---", 3);
-  if (end === -1) return { attrs: {}, body: text };
-  const fmBlock = text.slice(3, end);
-  const attrs: Record<string, string> = {};
-  for (const line of fmBlock.split("\n")) {
-    const idx = line.indexOf(":");
-    if (idx === -1) continue;
-    const key = line.slice(0, idx).trim();
-    const val = line
-      .slice(idx + 1)
-      .trim()
-      .replace(/^["']|["']$/g, "");
-    attrs[key] = val;
-  }
-  return { attrs, body: text.slice(end + 3).trim() };
-}
-
 function markdownToHtml(md: string): string {
   let html = md;
   html = html.replace(/^### (.+)$/gm, "<h3>$1</h3>");
   html = html.replace(/^## (.+)$/gm, "<h2>$1</h2>");
   html = html.replace(/^# (.+)$/gm, "<h1>$1</h1>");
-  html = html.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '<img alt="$1" src="$2" loading="lazy" />');
-  html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
-  html = html.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
   html = html.replace(
-    /(?<![*])\*([^*\n]+)\*(?![*])/g,
-    "<em>$1</em>",
+    /!\[([^\]]*)\]\(([^)]+)\)/g,
+    '<img alt="$1" src="$2" loading="lazy" />',
   );
+  html = html.replace(
+    /\[([^\]]+)\]\(([^)]+)\)/g,
+    '<a href="$2" target="_blank" rel="noopener">$1</a>',
+  );
+  html = html.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
+  html = html.replace(/(?<![*])\*([^*\n]+)\*(?![*])/g, "<em>$1</em>");
   html = html.replace(/^- (.+)$/gm, "<li>$1</li>");
   html = html.replace(/(<li>.*<\/li>\n?)+/g, (match) => `<ul>${match}</ul>`);
   const paragraphs = html
@@ -74,29 +56,19 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
 
   useEffect(() => {
     setLoading(true);
-    const langPath = `/content/${lang}/${theme}/${slug}.md`;
-    const fallbackPath = `/content/${theme}/${slug}.md`;
-    fetch(langPath)
-      .then((r) => {
-        if (r.ok) return r;
-        return fetch(fallbackPath);
-      })
-      .then((r) => {
-        if (!r.ok) throw new Error(`${r.status}`);
-        return r.text();
-      })
-      .then((text) => {
-        const { attrs, body } = parseFrontmatter(text);
+    getArticle({ data: { lang, theme, slug } })
+      .then((json) => {
+        if (!json) {
+          setArticle(null);
+          return;
+        }
         setArticle({
-          title: attrs.title || slug,
-          subtitle: attrs.subtitle,
-          html: markdownToHtml(body),
+          title: json.frontmatter.title || slug,
+          subtitle: json.frontmatter.subtitle,
+          html: markdownToHtml(json.body),
         });
       })
-      .catch((err) => {
-        console.error("Failed to load article:", err);
-        setArticle(null);
-      })
+      .catch(() => setArticle(null))
       .finally(() => setLoading(false));
   }, [theme, slug, lang]);
 
@@ -132,9 +104,7 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
             <div dangerouslySetInnerHTML={{ __html: article.html }} />
           </div>
         ) : (
-          <div className="text-faded text-center py-8">
-            Article not found.
-          </div>
+          <div className="text-faded text-center py-8">Article not found.</div>
         )}
       </div>
     </div>

@@ -10,7 +10,7 @@ from pathlib import Path
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 OUT_DIR = Path(__file__).resolve().parent.parent / "app" / "public" / "data"
-CONTENT_DIR = Path(__file__).resolve().parent.parent / "app" / "public" / "content"
+CONTENT_DIR = Path(__file__).resolve().parent.parent / "app" / "public" / "data" / "content"
 
 R2_PUBLIC_URL = os.environ.get(
     "R2_PUBLIC_URL", "https://pub-d6ff75a2458a49e5b81457a2e7841032.r2.dev"
@@ -189,12 +189,32 @@ def main():
     def copy_theme_content(theme_dir: Path, dest_prefix: Path):
         dest = dest_prefix / theme_dir.name
         dest.mkdir(parents=True, exist_ok=True)
+        id_index = {}
         for md in theme_dir.glob("*.md"):
             if md.name.startswith("_"):
                 continue
             text = md.read_text()
             text = image_path_re.sub(f"{R2_PUBLIC_URL}/images/", text)
-            (dest / md.name).write_text(text)
+            json_name = md.stem + ".json"
+            fm, body = {}, text
+            if text.startswith("---"):
+                end = text.index("---", 3)
+                fm_block = text[3:end].strip()
+                body = text[end + 3:].strip()
+                for line in fm_block.splitlines():
+                    if ":" not in line:
+                        continue
+                    k, _, v = line.partition(":")
+                    fm[k.strip()] = v.strip().strip('"').strip("'")
+            (dest / json_name).write_text(
+                json.dumps({"frontmatter": fm, "body": body}, ensure_ascii=False) + "\n"
+            )
+            poi_id = re.match(r"(\d+)", md.stem)
+            if poi_id:
+                id_index[poi_id.group(1)] = json_name
+        (dest / "_index.json").write_text(
+            json.dumps(id_index, ensure_ascii=False) + "\n"
+        )
 
     # Flat layout: data/<theme>/ → content/<theme>/
     for theme_dir in sorted(DATA_DIR.iterdir()):
