@@ -15,23 +15,14 @@ interface TTSPlayerProps {
 }
 
 export function TTSPlayer({ text, lang }: TTSPlayerProps) {
-  const [state, setState] = useState<"idle" | "speaking" | "paused">("idle");
+  const [state, setState] = useState<
+    "idle" | "speaking" | "paused" | "loading"
+  >("idle");
   const [rate, setRate] = useState(1);
-  const [ready, setReady] = useState(false);
 
   useEffect(() => {
     setState(getState());
-    const unsub = subscribe((s) => setState(s));
-
-    const voices = speechSynthesis.getVoices();
-    if (voices.length > 0) {
-      setReady(true);
-    } else {
-      speechSynthesis.onvoiceschanged = () => setReady(true);
-      setTimeout(() => setReady(true), 2000);
-    }
-
-    return unsub;
+    return subscribe((s) => setState(s));
   }, []);
 
   useEffect(() => {
@@ -64,36 +55,53 @@ export function TTSPlayer({ text, lang }: TTSPlayerProps) {
 
   if (!isSupported()) return null;
 
-  if (!ready) {
-    return (
-      <div className="flex items-center gap-2 px-4 py-2 border-t border-sepia-light text-xs text-faded">
-        <span>Loading voices...</span>
-      </div>
-    );
-  }
-
   return (
     <div className="flex items-center gap-2 px-4 py-2 border-t border-sepia-light bg-paper/80 backdrop-blur-sm">
       <button
         type="button"
         onClick={handleToggle}
-        className="w-8 h-8 flex items-center justify-center rounded-full bg-sepia text-paper hover:bg-sepia/80 cursor-pointer"
+        disabled={state === "loading"}
+        className="w-8 h-8 flex items-center justify-center rounded-full bg-sepia text-paper hover:bg-sepia/80 cursor-pointer disabled:opacity-50 disabled:cursor-wait"
         aria-label={
-          state === "speaking"
-            ? "Pause"
-            : state === "paused"
-              ? "Resume"
-              : "Read aloud"
+          state === "loading"
+            ? "Loading voice..."
+            : state === "speaking"
+              ? "Pause"
+              : state === "paused"
+                ? "Resume"
+                : "Read aloud"
         }
         title={
-          state === "speaking"
-            ? "Pause"
-            : state === "paused"
-              ? "Resume"
-              : "Read aloud"
+          state === "loading"
+            ? "Loading voice..."
+            : state === "speaking"
+              ? "Pause"
+              : state === "paused"
+                ? "Resume"
+                : "Read aloud"
         }
       >
-        {state === "speaking" ? (
+        {state === "loading" ? (
+          <svg
+            width="14"
+            height="14"
+            viewBox="0 0 14 14"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            className="animate-spin"
+            role="img"
+            aria-label="Loading"
+          >
+            <circle
+              cx="7"
+              cy="7"
+              r="5"
+              strokeDasharray="20"
+              strokeDashoffset="5"
+            />
+          </svg>
+        ) : state === "speaking" ? (
           <svg
             width="14"
             height="14"
@@ -119,7 +127,7 @@ export function TTSPlayer({ text, lang }: TTSPlayerProps) {
         )}
       </button>
 
-      {state !== "idle" && (
+      {(state === "speaking" || state === "paused") && (
         <button
           type="button"
           onClick={handleStop}
@@ -141,11 +149,13 @@ export function TTSPlayer({ text, lang }: TTSPlayerProps) {
       )}
 
       <span className="text-xs text-faded flex-1">
-        {state === "speaking"
-          ? "Reading..."
-          : state === "paused"
-            ? "Paused"
-            : "Read aloud"}
+        {state === "loading"
+          ? "Loading voice..."
+          : state === "speaking"
+            ? "Reading..."
+            : state === "paused"
+              ? "Paused"
+              : "Read aloud"}
       </span>
 
       <div className="flex items-center gap-1">
