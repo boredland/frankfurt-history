@@ -24,6 +24,7 @@ The electrical engineering and lighting technology company Schanzenbach & Co. wa
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the electrical engineering and lighting technology company Schanzenbach &amp; Co. which operated a forced labor camp](../../images/2473d56b9d2dfc8fcc2f3fb4962b1440_original.jpg)
 *1903 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19965 | Description: Photo of the electrical engineering and lighting technology company Schanzenbach &amp; Co. which operated a forced labor camp*
 

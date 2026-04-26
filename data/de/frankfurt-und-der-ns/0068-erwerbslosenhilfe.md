@@ -24,6 +24,7 @@ Die Sturmabteilung (SA) der Nationalsozialistischen Deutschen Arbeiterpartei (NS
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Gebäudes der Erwerbslosenhilfe](../../images/9c952578c89882c02983d017d69e0b65_original.jpg)
 *1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2001-155 | Description: Foto des Gebäudes der Erwerbslosenhilfe*
 

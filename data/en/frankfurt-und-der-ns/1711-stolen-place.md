@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lange Straße 29](../../images/Lange-Stra_12659c628a29bae7398eac1124fdfcd3_original.jpg)
 *n. d. — Author: unbekannt | License: ISG | Description: Lange Straße 29*
 

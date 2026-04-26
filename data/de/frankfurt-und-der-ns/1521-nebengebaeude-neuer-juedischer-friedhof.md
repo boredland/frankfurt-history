@@ -23,6 +23,7 @@ In der Einfahrt des Hauses befinden sich drei Stolpersteine für Else, Josef und
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Nebengebäude der Eckenheimer Landstraße 238](../../images/Nebengeb%C3%A4_559d9907baee14c515a079d59f315c79_original.jpg)
 *2023 — Description: Nebengebäude der Eckenheimer Landstraße 238*
 

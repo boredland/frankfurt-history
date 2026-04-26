@@ -27,6 +27,7 @@ Heute finden wir im Frankfurter Stadtbild nur noch Reste des Nürnberger Hofs. G
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zeichnung des Nürnberger Hof](../../images/02%20N%C3%BCrnbe_52fcacc79668083fd392d39024e7328f_original.jpg)
 *1849 — Author: Carl Theodor Reiffenstein | License: HMF R0404 | Description: Zeichnung des Nürnberger Hof*
 

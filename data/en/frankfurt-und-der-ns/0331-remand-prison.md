@@ -24,6 +24,7 @@ From 1933 to 1945, the Hammelsgasse remand and court custody prison held six to 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Courtyard of the remand centre/court prison, Hammelsgasse 6-10](../../images/Ph30608_jp_8a188b36527979d4499108f9b37b51f2_original.jpg)
 *1984 — Author: Gisa Hillesheimer | License: HMF, Ph30608 | Description: Courtyard of the remand centre/court prison, Hammelsgasse 6-10*
 

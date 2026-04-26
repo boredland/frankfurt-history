@@ -24,6 +24,7 @@ Ein Blick in das Adressbuch von 1935 zeigt, dass hier insgesamt fünf nationalso
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Altstadt](../../images/042f8c17e764e770fdf6ded195947976_original.jpg)
 *1910 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2427 | Description: Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Altstadt*
 

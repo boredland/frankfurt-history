@@ -24,6 +24,7 @@ During the Nazi years, the Foreign Exchange Offices (“Devisenstellen”) playe
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Black-and-white drawing of the exterior façade of the Foreign Exchange Office on Bethmannstraße](../../images/f4a9de115b4de8045a20586eef0b452e_original.jpg)
 *1919 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2014-60 | Description: Black-and-white drawing of the exterior façade of the Foreign Exchange Office on Bethmannstraße*
 

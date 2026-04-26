@@ -22,6 +22,7 @@ The Institute for Social Research founded in 1923 was located at Viktoria-Allee 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the Institut für Sozialforschung ( Institute for Social Research)](../../images/c3053fee6451e2f38ff24ea467bd1666_original.jpg)
 *ca. 1935 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13255 | Description: Photo of the Institut für Sozialforschung ( Institute for Social Research)*
 

@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Homburger Landstraße 152](../../images/Homburger-_bea6db5250d5c37e2d24fe830c3db026_original.jpg)
 *2017 — Author: Claus Graubner | License: ISG | Description: Homburger Landstraße 152*
 

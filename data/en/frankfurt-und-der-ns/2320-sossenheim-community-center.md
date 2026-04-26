@@ -43,6 +43,7 @@ Heinz Hupfer, who devoted himself extensively to researching local history, regr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Community Center Sossenheim](../../images/5f3e95a9add8da72c96897e3261d50d3_original.jpg)
 *1924 — Author: Bernhard Ott | License: ISG FFM  Best. S7A Nr. 1998-25583 | Description: Community Center Sossenheim*
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Goethestraße 4-8](../../images/Goethestra_eefa38100e1e492e14129a721b7e8aa9_original.jpg)
 *1904 — Author: Th. Hufnagel | License: ISG | Description: Goethestraße 4-8*
 

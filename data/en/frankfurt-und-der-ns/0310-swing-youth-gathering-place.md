@@ -24,6 +24,7 @@ This was a gathering place of the “Club der Kameruner”, a group of young peo
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Herxheimer Straße](../../images/5a1f8122579b64515ab57c083299e1e8_original.jpg)
 *1947 — Author: Fred Kochmann | License: Institut für Stadtgeschichte, Frankfurt Best. S7Ko Nr. 1668 | Description: Photo of a bomb shelter located in Herxheimer Straße*
 

@@ -25,6 +25,7 @@ Im Dezember 1994 wurde auf dem Klaus-Mann-Platz das Denkmal „Frankfurter Engel
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Der Frankfurter Engel in Gedenken an die Leiden Homosexueller während dem NS-Regime](../../images/isg_gt_mah_2c91545bec59e34fda5e9bad797fd830_original.jpg)
 *Author: © Institut für Stadtgeschichte | Description: Der Frankfurter Engel in Gedenken an die Leiden Homosexueller während dem NS-Regime*
 

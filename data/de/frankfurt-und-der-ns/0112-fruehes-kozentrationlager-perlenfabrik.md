@@ -26,6 +26,7 @@ Ab April 1933 nutzte die Sturmabteilung (SA) der Nationalsozialistischen Deutsch
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines frühen Konzentrationlagers in einer ehemaligen Perlenfabrik](../../images/84ddc4f5b2eb1eb6c9160d8c966a677a_original.jpg)
 *ca. 1910 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-20027 | Description: Foto eines frühen Konzentrationlagers in einer ehemaligen Perlenfabrik*
 

@@ -24,6 +24,7 @@ The Philipp Possmann company, a large-scale juice and wine press house, made use
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a building belonging to Philipp Possmann Großkelterei in Niddagaustraße 6-8](../../images/a9fcebde5f34c701c853f0df0d02164e_original.jpg)
 *1927 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-30311 | Description: Photo of a building belonging to Philipp Possmann Großkelterei in Niddagaustraße 6-8*
 

@@ -32,6 +32,7 @@ www.martin-elsaesser.de/projekte/hallenschwimmbad-moltkeallee-frankfurt-am-main/
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Entwurf eines Hallenschwimmbads am Messegelände](../../images/189_els_m-_58d3ff6971942bef98cffc308f820ec0_original.jpg)
 *1928-1929 — Author: Martin Elsaesser | License: Martin-Elsaesser-Stiftung / Architekturmuseum TU München | Description: Entwurf eines Hallenschwimmbads am Messegelände*
 

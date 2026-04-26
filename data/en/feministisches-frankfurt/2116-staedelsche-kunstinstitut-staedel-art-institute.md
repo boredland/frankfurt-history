@@ -23,6 +23,7 @@ The Städelsche Kunstinstitut (Städel Art Institute), known today primarily as 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Dame0164_j_16ba232149cd8dc0e819bb38b6eaaeaf_original.jpg)
 *Author: Unbekannt | License: HMF/Privatbesitz*
 

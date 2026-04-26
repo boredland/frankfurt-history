@@ -22,6 +22,7 @@ Auch hier, im Gasthof Zum Adler, waren Zwangsarbeiter*innen einquartiert. Sie wu
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ehemaliges Zwangsarbeitslager, Ginnheimer Hohl 2](../../images/786cf2b5e87b8a8e600fd057bc8cd18f_original.jpg)
 *2019 — Author: Claus Graubner | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2020-41 | Description: Ehemaliges Zwangsarbeitslager, Ginnheimer Hohl 2*
 

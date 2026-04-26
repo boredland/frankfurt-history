@@ -39,6 +39,7 @@ To date there is no commemorative plaque for the forced laborers in Bergen-Enkhe
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the restaurant "Zur Schönen Aussicht"](../../images/28a9f5b70c96acc9e0f3d6e9dc3c09c2_original.jpg)
 *Author: Postkartensammlung Church | License: HMF / Sammlung Church C80374 | Description: Picture postcard with the restaurant "Zur Schönen Aussicht"*
 

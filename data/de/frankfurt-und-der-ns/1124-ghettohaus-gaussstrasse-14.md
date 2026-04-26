@@ -21,6 +21,7 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Ghettohauses in der Gaußstraße 14](../../images/1404b1e2361b27c6fd4da79dfa9a3bca_original.jpg)
 *2010 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2010-158 | Description: Foto eines Ghettohauses in der Gaußstraße 14*
 

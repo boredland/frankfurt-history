@@ -23,6 +23,7 @@ There are around 3,380 official street names in Frankfurt, including streets, sq
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Johanna Kirchner Straße](../../images/Johanna%20Ki_59e0ff6c1cc8443811a135f7d69e752e_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Johanna Kirchner Straße*
 

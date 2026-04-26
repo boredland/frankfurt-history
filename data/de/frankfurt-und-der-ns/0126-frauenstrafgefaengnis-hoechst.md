@@ -24,6 +24,7 @@ Während des Nationalsozialismus wurde das Gefängnis Höchst als Untersuchungs-
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Frauenstrafgefängnis Höchst](../../images/Frauenstra_daec936363814b5ac11acc0221488afe_original.jpg)
 *o. D. — Author: Unbekannt | License: ISG | Description: Frauenstrafgefängnis Höchst*
 

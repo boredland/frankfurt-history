@@ -25,6 +25,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Porträt von Ludwig Eichhorn; M-000857](../../images/Eichhorn_L_934311af897dc9f8d70b17563d7ee439_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Porträt von Ludwig Eichhorn; M-000857*
 

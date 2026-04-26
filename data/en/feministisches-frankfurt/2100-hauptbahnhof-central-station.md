@@ -23,6 +23,7 @@ Frankfurt Hauptbahnhof (Central Station), opened in 1888 as the Centralbahnhof, 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Ph14449_JP_982660ac1acaa08315ca083c999ac30e_original.jpg)
 *Author: Unbekannt | License: HMF*
 

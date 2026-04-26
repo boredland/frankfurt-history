@@ -24,6 +24,7 @@ Die Firma Schweißapparate Peter Görres setzte Zwangsarbeiter*innen ein, die in
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Buchrainstraße 18](../../images/dd738be9322cc0a9a2f88a62aa68b6ee_original.jpg)
 *2002 — Author: Claus Graubner | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2015-913 | Description: Zwangsarbeitslager, Buchrainstraße 18*
 

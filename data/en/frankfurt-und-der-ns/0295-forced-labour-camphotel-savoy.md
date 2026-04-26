@@ -24,6 +24,7 @@ The Hotel Savoy at Wiesenhüttenstrasse 42 served as a camp for forced labourers
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard showing the ‘Hotel Savoy’ at Wiesenhüttenstraße 42](../../images/0d5e00baaf5fa5bf12cd9aa148de4647_original.jpg)
 *1909 — Author: unbekannt | License: HMF / Sammlung Church C80365 | Description: Picture postcard showing the ‘Hotel Savoy’ at Wiesenhüttenstraße 42*
 

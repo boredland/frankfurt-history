@@ -29,6 +29,7 @@ Ihr letzter Wohnsitz war die Stationsstraat 408, ebenfalls in Dinxperlo. Dort be
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Fotografie von Regina Schwabs damaligen Haus in der Mousonstraße 10.](../../images/1-Mousonst_6785d6bb156d58bdd517c5260a4afd78_original.jpg)
 *2024 — Author: Linus Hornberger | Description: Fotografie von Regina Schwabs damaligen Haus in der Mousonstraße 10.*
 

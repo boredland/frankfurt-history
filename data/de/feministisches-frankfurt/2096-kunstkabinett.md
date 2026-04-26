@@ -21,6 +21,7 @@ In der Kaiserstraße 5 eröffnete Hanna Bekker vom Rath 1947 das Frankfurter Kun
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Postkarte mit Blick in die Kaiserstrasse Richtung Innenstadt](../../images/C97037%2B001_6b5134db187735ec631de24b6e23d6c3_original.jpg)
 *1907 — Author: Frankfurter Lichtdruckanstalt | License: HMF | Description: Postkarte mit Blick in die Kaiserstrasse Richtung Innenstadt*
 

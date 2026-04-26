@@ -24,6 +24,7 @@ The Nied chapters of the National Socialist German Workers‘ Party, the Nationa
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard showing the former town hall of Nied and the headquarters of the local NSDAP group and the NSDAP Women's League in Nied](../../images/456e47bba04a00cd325594056ff57ac2_original.jpg)
 *1908 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-23364 | Description: Picture postcard showing the former town hall of Nied and the headquarters of the local NSDAP group and the NSDAP Women's League in Nied*
 

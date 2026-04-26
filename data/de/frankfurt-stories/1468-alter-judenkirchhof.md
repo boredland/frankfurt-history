@@ -24,6 +24,7 @@ Der alte Judenkirchhof ist der zweitälteste jüdische Friedhof nördlich der Al
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Alter Judenkirchhof, alter Eingang von außen, 1853, aquarellierte Bleistiftzeichnung, HMF R0289](../../images/R0289_png_c731b54722b46a2ec4fb458f981755c1_original.jpg)
 *1853 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Alter Judenkirchhof, alter Eingang von außen, 1853, aquarellierte Bleistiftzeichnung, HMF R0289*
 

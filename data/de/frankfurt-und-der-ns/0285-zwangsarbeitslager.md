@@ -24,6 +24,7 @@ An dieser Stelle befand sich das Tanz-Casino Tivoli. Seit April 1943 brachte die
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Gebäude am Goetheplatz 2, in dem die Frankfurter Societätsdruckerei ein Zwangsarbeitslager betrieb](../../images/ee2cda5f659dd12fd1895453a79cbc04_original.jpg)
 *1947 — Author: Fred Kochmann | License: Institut für Stadtgeschichte, Frankfurt Best. S7Ko Nr. 2035 | Description: Foto eines Gebäude am Goetheplatz 2, in dem die Frankfurter Societätsdruckerei ein Zwangsarbeitslager betrieb*
 

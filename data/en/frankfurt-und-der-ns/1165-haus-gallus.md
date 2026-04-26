@@ -28,6 +28,7 @@ On the 30th anniversary of the trial in 1993, the plaque designed by Michael San
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![On the 30th anniversary of the trial in 1993, the plaque designed by Michael Sander was placed on the outside of the Saalbau Gallus](../../images/isg_gt_aus_f99c762b361abc1e5dd7e1a6235950fc_original.jpg)
 *Author: © Institut für Stadtgeschichte | Description: On the 30th anniversary of the trial in 1993, the plaque designed by Michael Sander was placed on the outside of the Saalbau Gallus*
 

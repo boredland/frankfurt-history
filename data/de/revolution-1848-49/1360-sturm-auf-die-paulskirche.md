@@ -29,6 +29,7 @@ Als sich der Protest daraufhin vor den gegenüber der Börse gelegenen östliche
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kolorierte Lithografie: Die am Vormittag des 18. September 1848 vom österreichischen Infanterieregiment „Erzherzog Rainer“ und dem preußischen Infanterieregiment Nr. 38 umstellte Paulskirche. Im Vordergrund brechen Aufständische das Straßenpflaster auf.](../../images/Route%203%2C%20S_ebffe0c7048af3a39b3af1246ee6a633_original.jpg)
 *1848 — Author: Gustav Kühn Verlag | License: HMF C 10172 | Description: Kolorierte Lithografie: Die am Vormittag des 18. September 1848 vom österreichischen Infanterieregiment „Erzherzog Rainer“ und dem preußischen Infanterieregiment Nr. 38 umstellte Paulskirche. Im Vordergrund brechen Aufständische das Straßenpflaster auf.*
 

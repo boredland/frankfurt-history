@@ -26,6 +26,7 @@ Translated with DeepL.com (free version)
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel von Irma Siegel](../../images/Irma_Siege_536797fde9210e66ac6c1094130d18c0_original.jpg)
 *Description: Gedenktafel von Irma Siegel*
 

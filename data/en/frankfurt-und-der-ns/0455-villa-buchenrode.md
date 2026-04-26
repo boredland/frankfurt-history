@@ -25,3 +25,4 @@ The chemist, entrepreneur, and patron of the arts Dr. Arthur von Weinberg lived 
 
 ## Gallery
 
+<!-- gallery:standard -->

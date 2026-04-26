@@ -23,6 +23,7 @@ The German Reich Railway operated a camp for forced labourers at this site. The 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photograph of a station concourse at Diesterwegplatz, where the Deutsche Reichsbahn maintained a forced labour camp](../../images/12a3b11f3546287adc2831e744e456eb_original.jpg)
 *1930 — Author: Friedrich Lauffer | License: HMF Ph11533 | Description: Photograph of a station concourse at Diesterwegplatz, where the Deutsche Reichsbahn maintained a forced labour camp*
 

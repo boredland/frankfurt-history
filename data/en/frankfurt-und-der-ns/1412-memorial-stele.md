@@ -19,6 +19,7 @@ In memory of the baker Martin Bertram and all other Jehovah's Witnesses in Frank
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial stele at Rohrbachstraße 58](../../images/gedenkstel_c4d99426e7e3bb726618d4702f754e43_original.jpg)
 *License: Erika und Günter Krämer | Description: Memorial stele at Rohrbachstraße 58*
 

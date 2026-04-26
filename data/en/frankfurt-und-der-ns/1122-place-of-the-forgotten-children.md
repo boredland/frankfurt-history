@@ -21,6 +21,7 @@ The video was created as part of the project "What's May 8 to me? Five senior cl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Children's home of the Association of Female Welfare e.V](../../images/isg_gt_kin_113dc4be4c1a4fe776c895e329a4476f_original.jpg)
 *License: © Manfred Rosenthal, Middletown (USA) | Description: Children's home of the Association of Female Welfare e.V*
 

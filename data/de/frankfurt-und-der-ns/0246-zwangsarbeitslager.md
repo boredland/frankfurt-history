@@ -22,6 +22,7 @@ Im Gasthaus Zum Rad waren 1943 zwei Zwangsarbeiter*innen aus Russland (ein Mann 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Außenansicht der Gastwirtschaft "Zum Rad" in Seckbach](../../images/991b981ddc04b51e381279cc6e58abe1_original.jpg)
 *unbekannt — Author: Unbekannt | License: HMF, Sammlung Church, C80414 | Description: Bildpostkarte mit Außenansicht der Gastwirtschaft "Zum Rad" in Seckbach*
 

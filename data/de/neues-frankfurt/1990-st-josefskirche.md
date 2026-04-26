@@ -31,6 +31,7 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht der St. Josefskirche.](../../images/St-Josephs_efb5da23ce53a4171be65742d39490da_original.jpg)
 *um 1931 — Author: Unbekannt | License: Privat | Description: Ansicht der St. Josefskirche.*
 

@@ -26,6 +26,7 @@ The group of persons listed in the so-called “hereditary register” also enco
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The building that housed the municipal health office also contained its department for “hereditary and racial welfare.” Photo: HMF.](../../images/171365433b_a33d3d65be335e0328fe688fdc3a7810_original.jpg)
 *ca. 1936 — Author: Max Göllner | License: HMF, NS1366 | Description: The building that housed the municipal health office also contained its department for “hereditary and racial welfare.” Photo: HMF.*
 

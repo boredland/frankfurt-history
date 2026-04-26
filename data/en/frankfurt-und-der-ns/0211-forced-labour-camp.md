@@ -21,6 +21,7 @@ Apparatebaugesellschaft Lurgi ran a camp for forced laborers at Gervinusstraße 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp](../../images/8ee08272eb25d8f597ef32a68712ff2c_original.jpg)
 *1953 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2015-1877 | Description: Forced labor camp*
 

@@ -24,6 +24,7 @@ Wiener Strasse 24 or 26 was the site of a forced labour camp of the Fischer comp
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photograph of a forced labour camp operated by Fischer AG](../../images/2d40130fea50ab84ee69f0ae6198f475_original.jpg)
 *ca. 1935 — Author: AERO-Express | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-24003 | Description: Photograph of a forced labour camp operated by Fischer AG*
 

@@ -25,12 +25,14 @@ They were forced to pay a ‘Jewish property levy’ of 16,855.73 Reichsmark and
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Salomon Sander (left side) and Lina Sander (right side) in Frankfurt am Main](../../images/Salomon-Li_24877bb648135fb1d6350b8619a4d5cc_original.jpg)
 *License: Initiative Stolpersteine Frankfurt am Main | Description: Salomon Sander (left side) and Lina Sander (right side) in Frankfurt am Main*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Two Stolpersteine in memory of Salomon (left; 1888-21.10.1942) and Lina Sander (right; née Baer, 1864-06.10.1942) at Querstraße 1, Frankfurt am Main.](../../images/Stolperste_eea611f45dbac76cba2b493a732f251a_original.jpg)
 *License: Initiative Stolpersteine Frankfurt am Main | Description: Two Stolpersteine in memory of Salomon (left; 1888-21.10.1942) and Lina Sander (right; née Baer, 1864-06.10.1942) at Querstraße 1, Frankfurt am Main.*
 

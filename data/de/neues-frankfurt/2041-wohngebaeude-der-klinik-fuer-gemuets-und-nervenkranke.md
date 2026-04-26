@@ -31,6 +31,7 @@ Quelle: www.martin-elsaesser.de/projekte/wohngebaeude-der-klinik-fuer-gemuets-un
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gartenseite der Wohnbauten für Klinikbedienstete im Süden.](../../images/192_els_m-_35e54495cda6f6ae598148dd26e006cb_original.jpg)
 *um 1930 — Author: Hermann Collischonn | License: Martin-Elsaesser-Stiftung / Architekturmuseum TU München | Description: Gartenseite der Wohnbauten für Klinikbedienstete im Süden.*
 

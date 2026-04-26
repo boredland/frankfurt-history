@@ -26,6 +26,7 @@ filters:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenkstätte Börneplatz](../../images/e0b4f881ba21d35e11ce265fff830730_original.jpg)
 *Author: Norbert Miguletz | Description: Gedenkstätte Börneplatz*
 

@@ -23,6 +23,7 @@ Im Lokal „Mainlust“ trafen sich 1849 fraktionsübergreifend von links nach r
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Gartenlokals "Mainlust"](../../images/14%20Mainlus_e79ecd979ecbd0ac8b0864cf1b099887_original.jpg)
 *um 1860 — Author: Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-507 | Description: Foto des Gartenlokals "Mainlust"*
 

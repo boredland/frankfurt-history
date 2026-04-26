@@ -33,6 +33,7 @@ In 2025, on the initiative of the LAGG association and the Adlerwerke Historical
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![In 2025, a glass memorial stele was erected. It bears the names of all 527 prisoners of the Katzbach concentration camp who were murdered in Frankfurt.](../../images/87f28160c11ef27d7b829c921959edab_original.jpg)
 *2025 — Author: Maciej Rusinek | License: Privat | Description: In 2025, a glass memorial stele was erected. It bears the names of all 527 prisoners of the Katzbach concentration camp who were murdered in Frankfurt.*
 

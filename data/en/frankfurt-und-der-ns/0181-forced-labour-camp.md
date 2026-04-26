@@ -23,6 +23,7 @@ There was a camp for civilian workers in the Groß-Frankfurt amusement palace wi
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with amusement palace "Groß-Frankfurt"](../../images/8de8b3475533eb8b14971d32d5e9b88d_original.jpg)
 *Author: Postkartensammlung Church | License: HMF / Sammlung Church C80381 | Description: Picture postcard with amusement palace "Groß-Frankfurt"*
 

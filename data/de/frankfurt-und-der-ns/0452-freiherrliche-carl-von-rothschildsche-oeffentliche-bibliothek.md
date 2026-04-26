@@ -22,6 +22,7 @@ Hier war die Freiherrlich Carl von Rothschild’sche öffentliche Bibliothek. He
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der Freiherrlichen Carl von Rothschildsche öffentliche Bibliothek](../../images/C12852a_jp_7f9581b15500b1d61192abbcc641e9a9_original.jpg)
 *ca. 1890 — Author: Kühl & Co. | License: HMF C12852a | Description: Foto der Freiherrlichen Carl von Rothschildsche öffentliche Bibliothek*
 

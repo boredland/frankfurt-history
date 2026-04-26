@@ -28,6 +28,7 @@ You can find out how life there was for Lilo in “Lilo Hides during the War.”
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lilo and Helmut (both in front) with their friends from Wollgraben.](../../images/Kindergrup_e08a43d7d99da06715d6373d49d4a278_original.jpg)
 *ca. 1936 — Author: unbekannt | License: Privat, Lilo Günzler: Endlich Reden, Henrich Editionen Frankfurt | Description: Lilo and Helmut (both in front) with their friends from Wollgraben.*
 

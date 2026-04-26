@@ -27,6 +27,7 @@ Die Tage eines Abgeordneten waren lang: Fast täglich – außer sonn- und feier
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Lokals in der Buchgasse, in dem Ausschuss-Sitzungen abgehalten wurden](../../images/14%20Buchgas_5a70bc5b4bdcb14e84f02c8996ec94c5_original.jpg)
 *um 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2609 | Description: Foto eines Lokals in der Buchgasse, in dem Ausschuss-Sitzungen abgehalten wurden*
 

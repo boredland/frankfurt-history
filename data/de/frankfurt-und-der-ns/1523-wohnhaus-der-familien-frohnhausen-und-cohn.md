@@ -21,6 +21,7 @@ Hier wohnten im 1. Stock seit dem Neubau des Hauses 1938 Frieda und Albert Frohn
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Eckenheimer Landstraße 345](../../images/Eckenheime_35031c5121190a8b692ab48ea9779c92_original.jpg)
 *2023 — Description: Eckenheimer Landstraße 345*
 

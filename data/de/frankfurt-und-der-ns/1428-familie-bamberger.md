@@ -25,6 +25,7 @@ Nach dem Zweiten Weltkrieg blieb die Familie in London. 1954 wurde erstmals vers
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Thüringer Straße 23 (heute)](../../images/Foto_Thu%CC%88_70887308bb6052b9db7809822a2f1a9a_original.jpg)
 *2023 — Author: unbekannt | License: Google Street View | Description: Thüringer Straße 23 (heute)*
 

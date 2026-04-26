@@ -30,6 +30,7 @@ Architect: Carl-Hermann Rudloff
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forum Neues Frankfurt – Meeting point for information and discussions](../../images/Forum_Neue_b569f06bb56e40909a94516e2ef92510_original.jpg)
 *2018 — Author: Peter Paul Schepp | License: ernst-may-gesellschaft e.V. | Description: Forum Neues Frankfurt – Meeting point for information and discussions*
 

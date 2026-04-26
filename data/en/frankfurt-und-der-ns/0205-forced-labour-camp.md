@@ -22,6 +22,7 @@ The Max Gerner company manufactured aircraft at Frankfurt’s first airport in t
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Am Römerhof](../../images/322c9938e8139c5da29a10ade95e90fb_original.jpg)
 *1929 — Author: Landesbildstelle Hessen | License: HMF, Ph06335 | Description: Forced labor camp, Am Römerhof*
 

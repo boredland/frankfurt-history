@@ -27,6 +27,7 @@ Bauunternehmen: Wayss & Freytag AG, Frankfurt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Eberstadtstraße](../../images/b8c1cdf597db72d3585970d67bbaa276_original.jpg)
 *o.D. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Eberstadtstraße*
 

@@ -21,6 +21,7 @@ Im Metropol Café hat 2008 der erste Ladies Takeover Friday stattgefunden. Franc
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Briefkopf Ladies Takeover Friday](../../images/briefkopf%20_7ebed245e73790c0b5f33894e4d38e7f_original.jpg)
 *unbekannt — Author: Unbekannt | License: LIBS e.V. | Description: Briefkopf Ladies Takeover Friday*
 

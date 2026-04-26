@@ -36,6 +36,7 @@ Christina Treutlein, Philipp Sturm (Hg.), MAYHAUS. Das Musterhaus des Neuen Fran
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht mayhaus, Siedlung Römerstadt.](../../images/mayhaus_Fo_247f172a1fb6f11ba0e55ce0ebcbb123_original.jpg)
 *2013 — Author: Reinhard Wegmann | License: ernst-may-gesellschaft e.V. | Description: Ansicht mayhaus, Siedlung Römerstadt.*
 

@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Guiollettstraße 24](../../images/Guiolletts_6f8fba7ff9898e7199856914242d33b3_original.jpg)
 *ca. 1968 — Author: unbekannt | License: ISG | Description: Guiollettstraße 24*
 

@@ -29,6 +29,7 @@ Blažená Urbanová from Czechoslovakia had to work as a forced laborer from 194
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The Ackermann School damaged in a bombing raid.](../../images/Geschichts_99bbd18f13c2fd80bcb991fd431ce83a_original.jpg)
 *1945 — Author: Unbekannt | License: Geschichtswerkstatt Gallus e.V. | Description: The Ackermann School damaged in a bombing raid.*
 

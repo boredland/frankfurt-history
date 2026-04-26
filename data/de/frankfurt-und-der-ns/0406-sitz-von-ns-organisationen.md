@@ -19,6 +19,7 @@ Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Chemiewerks der I.G. Farben-Industrie AG; auf dem Werksgelände in der Stroofstraße in Griesheim befand sich ein Barackenlager](../../images/4776fa2871647976672aaa2f47f17a44_original.jpg)
 *1927 — Author: Südwestdeutsche Luftverkehrs AG | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-22672 | Description: Foto eines Chemiewerks der I.G. Farben-Industrie AG; auf dem Werksgelände in der Stroofstraße in Griesheim befand sich ein Barackenlager*
 

@@ -30,6 +30,7 @@ Heute ist das Frankfurter Goethe-Haus ein Museum.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Goethes Geburtshaus (rekonstruierter Zustand vor dem Umbau von 1749), 1858, Aquarell, HMF C09288](../../images/C09288_png_f4f33da0a7b9f82f2e6afa6009eae692_original.jpg)
 *1858 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Goethes Geburtshaus (rekonstruierter Zustand vor dem Umbau von 1749), 1858, Aquarell, HMF C09288*
 

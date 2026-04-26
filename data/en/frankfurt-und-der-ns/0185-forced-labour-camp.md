@@ -26,6 +26,7 @@ This was the location of a forced labour camp of the Breuerwerke machine factory
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Palleskestraße 32](../../images/bbcb9fedc56e853b77de79fbc39f494b_original.jpg)
 *ca. 1914 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-23146 | Description: Forced labor camp, Palleskestraße 32*
 

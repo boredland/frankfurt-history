@@ -39,18 +39,21 @@ Mit der Machtübergabe an die Nationalsozialisten wurde Levi aus dem Schuldienst
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lotti Levis Einschulung 1925](../../images/Lotti_jpg_8e38986b7b9cc2ae50b912b4ed1e9ff5_original.jpg)
 *1925 — Author: Unbekannt | License: gemeinfrei | Description: Lotti Levis Einschulung 1925*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Wohnhaus der Familie Levi](../../images/Wohnhaus_j_1d13130466b5414b6371501c0cd4cced_original.jpg)
 *21.10.2025 — Author: Jasmin Dietz-Rumpf | License: gemeinfrei | Description: Das Wohnhaus der Familie Levi*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Familienbild 1936 von links nach rechts: Tochter Betty, Ehefrau Rosa, Töchter Else und Lotti, Kallmann Levi, davor sitzend Schwiegervater Moses Friesem mit Urenkelin Ruth](../../images/Familienbi_7a50f8222ab81afbe6aebc172baafac2_original.jpg)
 *1936 — Author: Unbekannt | License: gemeinfrei | Description: Familienbild 1936 von links nach rechts: Tochter Betty, Ehefrau Rosa, Töchter Else und Lotti, Kallmann Levi, davor sitzend Schwiegervater Moses Friesem mit Urenkelin Ruth*
 

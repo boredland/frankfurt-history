@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Allerheiligenstraße 91](../../images/Allerheili_5ee5bdcb653ef3359ec26a7371d2368b_original.jpg)
 *ca. 1915 — Author: Müller-May | License: ISG | Description: Allerheiligenstraße 91*
 

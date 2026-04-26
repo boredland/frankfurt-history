@@ -28,6 +28,7 @@ Der Bunker gehört heute Privatleuten.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers Am Gemeindegarten](../../images/a491e39db3211584e3440765b126f911_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers Am Gemeindegarten*
 

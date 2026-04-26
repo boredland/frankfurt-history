@@ -31,6 +31,7 @@ Further reading: DW Dreysse: May-Siedlungen. Architekturführer durch zehn Siedl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of the housing estate on Frankenallee with row and front buildings.](../../images/isg_ffm_s7_49e87cd2a32d7ab736c2a9de8aec3991_original.jpg)
 *1928 — Author: Ilse Bing | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Aerial view of the housing estate on Frankenallee with row and front buildings.*
 

@@ -25,6 +25,7 @@ Further reading: Petra Eisele, Annette Ludwig, Isabel Naegele (eds.): Futura. Di
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the “Bauersche Gießerei” company building.](../../images/isg_ffm_s7_4349503bb32915bd6dfeda5fb274ce36_original.jpg)
 *1926 — Author: unbekannt / unknown | License: Institut für Stadtgeschichte, Frankfurt am Main | Description: View of the “Bauersche Gießerei” company building.*
 

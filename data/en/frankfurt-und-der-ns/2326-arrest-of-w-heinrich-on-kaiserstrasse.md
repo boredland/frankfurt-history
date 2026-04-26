@@ -25,6 +25,7 @@ In January 1925, after causing a gathering of a crowd of around 50 people, the 1
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Postcard of Kaiserstraße with a view towards the main railway station](../../images/C57778%2B001_2974c3cdded3d29705026009811d07ed_original.jpg)
 *ca. 1900 — Author: Verlag Emil Hartmann | License: Historisches Museum Frankfurt | Description: Postcard of Kaiserstraße with a view towards the main railway station*
 

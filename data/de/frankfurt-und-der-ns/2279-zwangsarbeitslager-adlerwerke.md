@@ -25,6 +25,7 @@ Weitere Lager für Zwangsarbeiter*innen der Adlerwerke gab es in der Weilburger 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftbild der US Air Force von 1944. Im Zentrum die Adlerwerke. Zwangsarbeitslager waren auf dem Gelände und in den angrenzenden Straßen.](../../images/9550d7d7a180977deb9f9062b884f130_original.jpg)
 *1944 — Author: US-Army | License: Institut für Stadtgeschichte, Sig. S6b-93 Nr. A-14-4 | Description: Luftbild der US Air Force von 1944. Im Zentrum die Adlerwerke. Zwangsarbeitslager waren auf dem Gelände und in den angrenzenden Straßen.*
 

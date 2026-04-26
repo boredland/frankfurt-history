@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Vilbeler Straße 3](../../images/Vilbeler-S_e4398aaaddcab336985c7446a97ecfe0_original.jpg)
 *o. D. — Author: unbekannt | License: ISG | Description: Vilbeler Straße 3*
 

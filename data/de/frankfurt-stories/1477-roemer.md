@@ -29,6 +29,7 @@ Nach dem Zweiten Weltkrieg standen nur noch die Steinfassaden und Erdgeschosse d
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Römer, Tür mit Eisengitter an der Kaisertreppe (heute Aufgang zum Trausaal), 1865, aquarellierte Bleistiftzeichnung, HMF R0542](../../images/R0542_png_c797a12ecbbed0c7d00cf41b0c769952_original.jpg)
 *1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Römer, Tür mit Eisengitter an der Kaisertreppe (heute Aufgang zum Trausaal), 1865, aquarellierte Bleistiftzeichnung, HMF R0542*
 

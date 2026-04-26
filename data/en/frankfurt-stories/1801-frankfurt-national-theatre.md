@@ -27,6 +27,7 @@ Opened in 1782, the Comoedienhaus - renamed the ‘Frankfurter Nationaltheater�
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Interior view of the National Theater](../../images/nationalth_2014fa94fb720d87b8b570dbef5c5a7c_original.jpg)
 *around 1800 — License: HMF.C12746. | Description: Interior view of the National Theater*
 

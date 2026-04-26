@@ -29,6 +29,7 @@ Vom Abtragen der Stadtbefestigungen blieben die Warten bewahrt. Heute befindet s
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Die Galgenwarte, Blick nach Westen, 1856/1857, aquarellierte Bleistiftzeichnung, HMF RS0100](../../images/RS0100_png_7e9bb39660e9ec8eb651798b00fc98ae_original.jpg)
 *1856/1857 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Die Galgenwarte, Blick nach Westen, 1856/1857, aquarellierte Bleistiftzeichnung, HMF RS0100*
 

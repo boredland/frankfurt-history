@@ -31,6 +31,7 @@ The Museum of Jewish Antiquities was situated at this site. It was opened in 192
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Fahrgasse 146](../../images/1ad3e4b62313ee098fa086edb8747783_original.jpg)
 *ca. 1900 — Author: unbekannt | License: HMF, Ph00758 | Description: Fahrgasse 146*
 

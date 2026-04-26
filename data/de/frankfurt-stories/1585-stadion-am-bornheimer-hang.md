@@ -29,12 +29,14 @@ In dem Stadion sind viele denkwürdige Dinge passiert. Das Highlight des FSV Fra
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ausblick auf den Bornheimer Hang bei nicht so gutem Wetter](../../images/Station%209-_73b99a862ec0953239803f4fdb576e5b_original.jpg)
 *License: Quelle: F. Blendin | Description: Ausblick auf den Bornheimer Hang bei nicht so gutem Wetter*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stadion am Bornheimer Hang während des Wiederaufbaus](../../images/station%203__9ebad3eecf4aaadaeef40c563bc965a0_original.jpg)
 *License: Quelle: Förderverein historisches Bornheim | Description: Stadion am Bornheimer Hang während des Wiederaufbaus*
 

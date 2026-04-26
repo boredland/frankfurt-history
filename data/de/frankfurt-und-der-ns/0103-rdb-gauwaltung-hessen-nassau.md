@@ -24,6 +24,7 @@ Der Reichsbund Deutscher Beamter (RDB) wurde am 15. Oktober 1933 gegründet und 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Sitzes der RDB-Gauwaltung Hessen-Nassau](../../images/3cbb4c8b2edf85e0edf50d182ee67fb7_original.jpg)
 *ca. 1929 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-7973 | Description: Foto des Sitzes der RDB-Gauwaltung Hessen-Nassau*
 

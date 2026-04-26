@@ -26,6 +26,7 @@ Bauunternehmen: Hoch- und Tiefbau Wilhelm Franz, Hanau am Main. Architekt: Adam 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Gründenseestraße](../../images/fd88e0ad7a77cc6a2bbb4fc304a78dbf_original.jpg)
 *o.D. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Gründenseestraße*
 

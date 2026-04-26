@@ -23,6 +23,7 @@ Since the early 1950s, the city of Frankfurt had been discussing the establishme
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial "Job"](../../images/isg_gt_ns-_ea094a49ce8148bc4668bd35b412717c_original.jpg)
 *License: © Institut für Stadtgeschichte | Description: Memorial "Job"*
 

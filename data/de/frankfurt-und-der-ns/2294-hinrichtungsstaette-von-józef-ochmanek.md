@@ -25,6 +25,7 @@ Die Hinrichtung wurde von Angehörigen der Gestapo Frankfurt durchgeführt. Mita
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zeichung des Heinrich Kraft Spielplatzes.](../../images/Zeichnung%20_7c9a420826b6e6304c881d7fc24eba4f_original.jpg)
 *o.D. — Author: Unbekannt | License: Katharina Müller, VG Bild-Kunst, Bonn 2022 | Description: Zeichung des Heinrich Kraft Spielplatzes.*
 

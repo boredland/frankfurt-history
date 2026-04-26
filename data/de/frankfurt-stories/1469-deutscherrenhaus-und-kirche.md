@@ -30,6 +30,7 @@ Nach dem Zweiten Weltkrieg wurden die Gebäude ab 1963 wiederaufgebaut. Heute be
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Blick über die Alte Brücke auf Deutschordenshaus und Kirche, 1852, aquarellierte Bleistiftzeichnung, HMF RS0026](../../images/RS0026_png_2b035f5c6e51f3d7c61d039b42b88769_original.jpg)
 *1852 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Blick über die Alte Brücke auf Deutschordenshaus und Kirche, 1852, aquarellierte Bleistiftzeichnung, HMF RS0026*
 

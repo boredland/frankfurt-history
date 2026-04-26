@@ -34,6 +34,7 @@ Im Jahr 1936 erfolgte der Umzug in die Bürgerstraße 22 (heute Wilhelm-Leuscher
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Polizeipräsidiums und der Gestapo Staatspolizeitstelle](../../images/da657d6e351eafeccf8d27e3dda3a6ce_original.jpg)
 *1933 — Author: Hannah Reeck | License: HMF, Ph03225a | Description: Foto des Polizeipräsidiums und der Gestapo Staatspolizeitstelle*
 

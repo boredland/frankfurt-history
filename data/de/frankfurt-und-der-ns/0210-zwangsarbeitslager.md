@@ -22,6 +22,7 @@ Die Maschinen- und Armaturenfabrik Alfred Teves setzte in ihren Werken in Boname
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Kaiserplatz, der Friedensstraße und der Kaiserstraße](../../images/2235017e704959f960d9393355651425_original.jpg)
 *um 1900 — Author: Unbekannt | License: HMF, Sammlung Church, C80370 | Description: Bildpostkarte mit dem Kaiserplatz, der Friedensstraße und der Kaiserstraße*
 

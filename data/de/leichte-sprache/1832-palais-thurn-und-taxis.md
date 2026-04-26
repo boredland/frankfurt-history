@@ -39,6 +39,7 @@ mehr Macht.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Farblithografie: verlegt im Verlag Völcker, 1863, Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 269](../../images/LS_Palais%20_c887b9abbd2d3c26284e487b241ecc7f_original.jpg)
 *1863 — Author: verlegt im Verlag Völcker | Description: Farblithografie: verlegt im Verlag Völcker, 1863, Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 269*
 

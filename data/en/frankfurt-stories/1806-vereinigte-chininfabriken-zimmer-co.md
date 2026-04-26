@@ -26,6 +26,7 @@ In 1876, the pharmaceutical company C. Zimmer acquired the ‘Argasarie’ plant
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the factory from Zimmer](../../images/zimmer_png_0484a087c2b945a7be892d97942ef13a_original.jpg)
 *Picture gallery — License: HMF.C41852. | Description: View of the factory from Zimmer*
 

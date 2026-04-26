@@ -28,6 +28,7 @@ This new main synagogue, designed by architect Johann Georg Kayser (1817-1875), 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, view of the Judengasse, with the old synagogue on the left, 1845, watercolored pencil drawing, HMF R0254](../../images/R0254_png_9a2de6a65e9238caf10a2f2dfafda94c_original.jpg)
 *1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view of the Judengasse, with the old synagogue on the left, 1845, watercolored pencil drawing, HMF R0254*
 

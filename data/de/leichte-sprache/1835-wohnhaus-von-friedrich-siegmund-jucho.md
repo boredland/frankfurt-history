@@ -30,6 +30,7 @@ Paulskirche geplant.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto: Reproaufnahme von Gottfried Vömel einer Fotografie von Carl Friedrich Mylius, um 1860, Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 155](../../images/LS_Wohnhau_b5a6c4948c8338c097019c79782a7852_original.jpg)
 *um 1860 — Author: Reproaufnahme von Gottfried Vömel einer Fotografie von Carl Friedrich Mylius | Description: Foto: Reproaufnahme von Gottfried Vömel einer Fotografie von Carl Friedrich Mylius, um 1860, Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 155*
 

@@ -23,6 +23,7 @@ Nach der Machtübertragung an die Nationalsozialist*innen 1933 verließen zahlre
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Klassenfoto des Goethe Gymnasiums um 1925-1933. Es handelt sich hier um die Schulklasse von Hans Bauer.](../../images/Schulklass_4f38f6622b04ab4cd6de939d46642798_original.jpg)
 *circa 1925-1933 — Author: Unbekannt | License: © Dieses Bild wurde mit der freundlichen Erlaubnis von Jon Bauer veröffentlicht. Alle Rechte bleiben beim Urheber. | Description: Klassenfoto des Goethe Gymnasiums um 1925-1933. Es handelt sich hier um die Schulklasse von Hans Bauer.*
 

@@ -22,6 +22,7 @@ In der Melemstraße 7 betrieb die Firma Bauausführungen Peter Schäfer ein Lage
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht der Melemstraße 7](../../images/d9b92bd16cc0bf840202c463cd4059fe_original.jpg)
 *ca. 1925 — Author: Hofmann & Müller | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 5527 | Description: Ansicht der Melemstraße 7*
 

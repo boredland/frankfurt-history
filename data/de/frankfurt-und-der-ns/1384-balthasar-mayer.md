@@ -24,6 +24,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein von Balthasar Mayer](../../images/IMG_0198_J_bce2be4f7820be5f02a4ec6c81422362_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein von Balthasar Mayer*
 

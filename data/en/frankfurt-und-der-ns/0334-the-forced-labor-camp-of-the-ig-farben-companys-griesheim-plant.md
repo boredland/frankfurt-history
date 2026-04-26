@@ -30,6 +30,7 @@ A review of the surviving card file reveals that many forced laborers, particula
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photograph of a chemical plant belonging to I.G. Farben-Industrie AG; there was a barracks camp on the factory premises in Stroofstraße in Griesheim](../../images/4776fa2871647976672aaa2f47f17a44_original.jpg)
 *1927 — Author: Südwestdeutsche Luftverkehrs AG | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-22672 | Description: Photograph of a chemical plant belonging to I.G. Farben-Industrie AG; there was a barracks camp on the factory premises in Stroofstraße in Griesheim*
 

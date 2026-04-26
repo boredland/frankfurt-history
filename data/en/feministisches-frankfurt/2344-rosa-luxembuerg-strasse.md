@@ -23,6 +23,7 @@ There are around 3,380 official street names in Frankfurt, including streets, sq
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Rosa Luxemburg Straße](../../images/FemFFM_pla_51ec9396b1132f5f5b3e40ef28814ea6_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Rosa Luxemburg Straße*
 

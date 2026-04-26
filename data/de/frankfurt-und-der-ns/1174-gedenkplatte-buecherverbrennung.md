@@ -24,6 +24,7 @@ Die in den Boden des Römerbergs eingelassene Messingplatte wurde von Willi Schm
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Heinz Woelcke, Bücherverbrennung auf dem Römerberg, Öl auf Leinwand, 1933, HMF B1614](../../images/8556216263cbb08d7db49257c0f2e2c0_original.jpg)
 *1933 — Author: Heinz Woelcke | Description: Heinz Woelcke, Bücherverbrennung auf dem Römerberg, Öl auf Leinwand, 1933, HMF B1614*
 

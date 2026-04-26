@@ -26,6 +26,7 @@ Der Bahnhof Mainkur in Fechenheim spielte eine zentrale Rolle bei den Deportatio
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Empfangsgebäude des Bahnhofs Mainkur](../../images/2d39c1036939f5822dc62c4cc51937b2_original.jpg)
 *nach 1913 — Author: unbekannt | License: HMF, Sammlung Church C80390 | Description: Bildpostkarte mit dem Empfangsgebäude des Bahnhofs Mainkur*
 

@@ -34,12 +34,14 @@ On November 7, 1943, the DAF began the process of dissolving the assembly camp f
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Front view of Rückertstraße 53.](../../images/db2105cf8330c9d7f849d1dbceb9d8d7_original.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: Front view of Rückertstraße 53.*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Purchase agreement for the property at Rückertstraße 53 between the Reich Association of Jews in Germany and the City of Frankfurt am Main dated April 14, 1943, p. 1.](../../images/isg_ffm_a__7ecf53ee98869008d463fcec5d512098_original.jpg)
 *n.d. — Author: Unbekannt | License: ISG FFM Best. A.62.02 Nr. 1022 | Description: Purchase agreement for the property at Rückertstraße 53 between the Reich Association of Jews in Germany and the City of Frankfurt am Main dated April 14, 1943, p. 1.*
 

@@ -34,6 +34,7 @@ Die von Carbone schon im November 1942 angeforderten 30 Ostarbeiterinnen kamen w
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Gebäude der Deutsche Carbone AG, die in der Talstraße 107 ein Zwangsarbeitslager betrieb](../../images/e0b6711829b3b22f3d07d6f673ef36c1_original.jpg)
 *ca. 1900 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29233 | Description: Foto eines Gebäude der Deutsche Carbone AG, die in der Talstraße 107 ein Zwangsarbeitslager betrieb*
 
@@ -43,6 +44,7 @@ Die von Carbone schon im November 1942 angeforderten 30 Ostarbeiterinnen kamen w
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carbone-Werbung aus den 1940er Jahren. Übersetzung des Französichen Werbeslogans: "Keine schlechten Zeiten mehr! Papa verdient Geld in Deutschland."](../../images/Anwerbung__9c6d426e67398b9f3969463034ccf2f0_original.jpg)
 *o.D. — Author: Unbekannt | License: Fritz Koch, "Von Le Carbone AG bis zu Mersen Deutschland Ffm AG", Frankfurt/M 2013. | Description: Carbone-Werbung aus den 1940er Jahren. Übersetzung des Französichen Werbeslogans: "Keine schlechten Zeiten mehr! Papa verdient Geld in Deutschland."*
 
@@ -52,6 +54,7 @@ Die von Carbone schon im November 1942 angeforderten 30 Ostarbeiterinnen kamen w
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Wohn-Baracken für französische Arbeiter mit Blick auf das Carbone Werksgebäude.](../../images/Talstra%C3%9Fe_5bc6e5237aabb2dfd1fe52ea315abef5_original.jpg)
 *Mai 2025 — Author: Christine Hartwig-Thürmer | License: gemeinfrei | Description: Wohn-Baracken für französische Arbeiter mit Blick auf das Carbone Werksgebäude.*
 

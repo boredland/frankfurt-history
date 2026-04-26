@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Mainzer Landstraße 249](../../images/Mainzer-La_bdf7215b2c44624a7d05caffe462285b_original.jpg)
 *1910 — Author: unbekannt | License: ISG | Description: Mainzer Landstraße 249*
 

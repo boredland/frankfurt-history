@@ -26,6 +26,7 @@ Im Saalbau in der Junghofstraße, dem damals einzigen in Frankfurt, versammelten
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Der große Saal des Saalbaus, 1908. Die Gründungsversammlung des Deutschen Kolonialvereins fand im kleinen Saal statt.](../../images/saalbau_pn_7944ac26a01e16732174f78547ad8027_original.jpg)
 *1908 — License: HMF.C25741. | Description: Der große Saal des Saalbaus, 1908. Die Gründungsversammlung des Deutschen Kolonialvereins fand im kleinen Saal statt.*
 

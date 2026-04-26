@@ -30,6 +30,7 @@ Those tortured here usually faced years of imprisonment in prisons or camps. The
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of an SS barracks and place of torture located in the former Klinger school](../../images/84919d5ac7bdf0cc613a4cdf4b35b2c2_original.jpg)
 *n.D. — Author: unbekannt | License: HMF / Sammlung Church C80408 | Description: Photo of an SS barracks and place of torture located in the former Klinger school*
 

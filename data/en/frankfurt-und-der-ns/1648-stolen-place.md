@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Finkenhofstraße 29](../../images/Finkenhofs_a1dc6b92546697a7f8a3fe1c65c3e771_original.jpg)
 *ca. 1900 — Author: Albert Klöckner | License: ISG | Description: Finkenhofstraße 29*
 

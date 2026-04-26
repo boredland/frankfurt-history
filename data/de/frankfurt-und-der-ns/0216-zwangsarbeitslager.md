@@ -21,6 +21,7 @@ Die Firma Pelzwaren Cubaeus F. Nitsche jr. unterhielt in der Großen Eschenheime
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager](../../images/ae0d4761f55b74189a8282b50ea71b0b_original.jpg)
 *Author: Schirg | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-8344 | Description: Zwangsarbeitslager*
 

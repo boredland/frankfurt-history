@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Pfingstweidstraße 12](../../images/Pfingstwei_f093a7b0320fb65b66aac74149282e52_original.jpg)
 *2012 — Author: Martin Starl | License: ISG | Description: Pfingstweidstraße 12*
 

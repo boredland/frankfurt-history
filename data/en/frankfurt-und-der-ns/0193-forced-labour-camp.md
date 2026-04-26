@@ -24,6 +24,7 @@ The Brehler bed company operated a camp for civilian workers at Domplatz 8. Civi
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Domplatz 8](../../images/C27974_jpg_0ccb0178e641afeceb55082684692659_original.jpg)
 *1932 — Author: Unbekannt | License: HMF, C27974 | Description: Forced labor camp, Domplatz 8*
 

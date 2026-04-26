@@ -26,6 +26,7 @@ This bomb shelter was part of the so-called Fuehrer’s Emergency Programme. The
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Bebraer Straße](../../images/a657000d4897ae74fc55642b1012c564_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Bebraer Straße*
 

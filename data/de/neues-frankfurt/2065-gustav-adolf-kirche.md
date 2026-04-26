@@ -33,6 +33,7 @@ Jörg Schilling (Hg.), Gustav-Adolf-Kirche Niederursel in Frankfurt am Main 1927
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht der Gustav-Adolf-Kirche](../../images/177_els_m-_e88de99c1b529e083427205fa612ce09_original.jpg)
 *unbekannt — Author: unbekannt / unknown | License: Martin-Elsaesser-Stiftung / Architekturmuseum TU München | Description: Ansicht der Gustav-Adolf-Kirche*
 

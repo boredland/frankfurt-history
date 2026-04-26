@@ -32,6 +32,7 @@ A Stolperstein—literally “stumbling stone”—is a 10 x 10 x 10-cm concrete
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein for Nikolaus Kopp at Mainzer Landstraße 137](../../images/stolperste_e48a88587c5f2729c50506d2d5bf453d_original.jpg)
 *unknown — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein for Nikolaus Kopp at Mainzer Landstraße 137*
 

@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kurfürstenstraße 1](../../images/Kurfuerste_0d0abf6cc6ca60005ba655a58551fffb_original.jpg)
 *ca. 1930 — Author: unbekannt | License: ISG | Description: Kurfürstenstraße 1*
 

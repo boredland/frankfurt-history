@@ -21,6 +21,7 @@ In der Liegenschaftsstelle des Finanzamtes Frankfurt-Außenbezirk befand sich au
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Frankfurt-Außenbezirk Tax Office at Hochstraße 2-4](../../images/c81c16901f8a9b37fa80d30df00edd95_original.jpg)
 *ca. 1920 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-8853 | Description: Frankfurt-Außenbezirk Tax Office at Hochstraße 2-4*
 

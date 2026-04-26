@@ -29,6 +29,7 @@ Die Finanzämter Frankfurt-Ost und -West hatten hier ihren Sitz. Wie alle Finanz
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Hansahaus](../../images/7cc4f4861b9f5e93db070a4c60957310_original.jpg)
 *1903 — Author: unbekannt | License: HMF / Sammlung Church C80383 | Description: Bildpostkarte mit dem Hansahaus*
 

@@ -27,6 +27,7 @@ Under international pressure, Prussia withdrew its troops. On 26 August 1848, ma
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo: "Englischer Hof" (The English Court) at Roßmarkt,](../../images/Frankfurt__09497e330b518f36f129372ba5500d56_original.jpg)
 *1878 (or 1890) — Author: Karl Hertel | License: gemeinfrei | Description: Photo: "Englischer Hof" (The English Court) at Roßmarkt,*
 

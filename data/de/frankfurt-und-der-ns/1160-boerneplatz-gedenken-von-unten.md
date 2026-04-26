@@ -22,6 +22,7 @@ filters:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/589ffbeae04a70035dda015017740aa8_original.jpg)
 *1993 — Author: unbekannt | License: ISG Frankfurt Best. S7z Nr.1994/7*
 

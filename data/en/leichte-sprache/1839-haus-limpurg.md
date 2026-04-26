@@ -50,6 +50,7 @@ Regeln verboten.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo: Carl Friedrich Mylius, 1864, Historical Museum Frankfurt C17720](../../images/LS_Haus%20Li_9cc337d7c2cd8087354c21b7d0b94725_original.jpg)
 *1864 — Author: Carl Friedrich Mylius | Description: Photo: Carl Friedrich Mylius, 1864, Historical Museum Frankfurt C17720*
 

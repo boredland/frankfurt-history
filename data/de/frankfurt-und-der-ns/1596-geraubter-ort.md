@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Allerheiligenstraße 28](../../images/Allerheili_4a197d9033d8b95de4f4e54b389f8353_original.jpg)
 *ca. 1945 — License: HMF | Description: Allerheiligenstraße 28*
 

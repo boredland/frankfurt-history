@@ -23,6 +23,7 @@ The video was created as part of the project "What's May 8 to me? Five senior cl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Heinz Woelcke, Book burning on the Römerberg, oil on canvas, 1933, HMF B1614](../../images/8556216263cbb08d7db49257c0f2e2c0_original.jpg)
 *1933 — Author: Heinz Woelcke | Description: Heinz Woelcke, Book burning on the Römerberg, oil on canvas, 1933, HMF B1614*
 

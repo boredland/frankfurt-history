@@ -24,6 +24,7 @@ Das Haus wurde von Karl Nagel und seiner Ehefrau für 27.300 Reichsmark ersteige
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Obermainanlage 29 (heute)](../../images/IMG2023063_ffb51e111059656e3b1a6a151ffbf63e_original.jpg)
 *2023 — Author: Gabriel Olbrich | Description: Obermainanlage 29 (heute)*
 

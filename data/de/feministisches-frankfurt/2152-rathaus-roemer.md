@@ -23,6 +23,7 @@ Das Bild zeigt die Magistratsmitglieder und Stadtverordneten 1926 im Römerhöfc
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Magistratsmitglieder und Stadtverordnete, Gruppenbild im Römerhöfchen, Fotografie](../../images/C26728_jpg_e0970237803add1a489985aa0dd019da_original.jpg)
 *1926 — Author: Friedrich Lauffer | License: HMF/Gemeinfrei | Description: Magistratsmitglieder und Stadtverordnete, Gruppenbild im Römerhöfchen, Fotografie*
 

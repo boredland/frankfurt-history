@@ -24,6 +24,7 @@ This was the location of the local Nordend branch of the National Socialist Germ
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the offices of the NSDAP local group and NSDAP Women's League Nordend](../../images/5f67e16346f0b7ce686fd74b83616ca1_original.jpg)
 *1934 — Author: H. Collischonn | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 2003-29 | Description: Photo of the offices of the NSDAP local group and NSDAP Women's League Nordend*
 

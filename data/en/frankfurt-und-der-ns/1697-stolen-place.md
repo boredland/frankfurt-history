@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kelsterbacher Straße 6](../../images/Kelsterbac_ad4f273f838b4c91af95ac3ded610841_original.jpg)
 *1907 — Author: Postkartensammlung Church | License: HMF | Description: Kelsterbacher Straße 6*
 

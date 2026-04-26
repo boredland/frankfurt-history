@@ -23,6 +23,7 @@ Eine Bestrafung war das sogenannte „Baumhängen“. Dabei wurden Menschen mit 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die Todesmeldung vom 19. November 1938 informiert über den Tod des Juden Julius Wohlfarth im Konzentrationslager Buchenwald. Als Todesursache wurde ein Lungenödem angegeben.](../../images/Todesmeldu_6cced2469d1bdee5b7d4d86fa9b321f5_original.jpg)
 *License: Todesmeldung aus dem Konzentrationslager Buchenwald, 1.1.5.3 / 7434665/ in conformity with ITS Digital Archive, Arolsen Archives | Description: Die Todesmeldung vom 19. November 1938 informiert über den Tod des Juden Julius Wohlfarth im Konzentrationslager Buchenwald. Als Todesursache wurde ein Lungenödem angegeben.*
 

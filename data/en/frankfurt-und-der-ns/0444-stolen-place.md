@@ -24,6 +24,7 @@ This residential building belonged to Sally Fleisch and his wife Selma (née Ste
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the building at Reichsburgstraße 2](../../images/C80401_jpg_a65a8875aa9a22ae295fc222c6b41e35_original.jpg)
 *n.d. — Author: unbekannt | License: HMF / Sammlung Church C80401 | Description: Picture postcard with the building at Reichsburgstraße 2*
 

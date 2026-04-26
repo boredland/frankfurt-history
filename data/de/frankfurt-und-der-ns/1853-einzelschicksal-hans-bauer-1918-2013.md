@@ -35,6 +35,7 @@ Eine Hilfsstelle unterstützte Jüdinnen und Juden dabei, das Land zu verlassen.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Reisepass von Hans Bauer bei seiner Flucht. Er trägt typisch für die Zeit den Beinamen Israel im Pass](../../images/Pass%20Hans%20_65bc60fbbf59856fcb674429a38cb7a7_original.jpg)
 *20.01.1939 — Author: Unbekannt | License: © Dieses Bild wurde mit der freundlichen Erlaubnis von Jon Bauer veröffentlicht. Alle Rechte bleiben beim Urheber.; | Description: Reisepass von Hans Bauer bei seiner Flucht. Er trägt typisch für die Zeit den Beinamen Israel im Pass*
 

@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Hanauer Landstraße 435](../../images/Hanauer-La_2d724b03694a75291776c660d26a7bac_original.jpg)
 *1991 — Author: Martin Starl | License: ISG | Description: Hanauer Landstraße 435*
 

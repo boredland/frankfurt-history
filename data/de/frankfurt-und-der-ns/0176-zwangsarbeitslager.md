@@ -24,6 +24,7 @@ Hier befand sich die Gaststätte A. Klein, in der Zivilarbeiter*innen aus Italie
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Berger Straße 133](../../images/feffc9255ca59aa3dce46c0f32b0fe97_original.jpg)
 *1985 — Author: Elisabeth Rehm | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2018-631 | Description: Zwangsarbeitslager, Berger Straße 133*
 

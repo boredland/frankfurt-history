@@ -25,6 +25,7 @@ SCHLAU which originally started out as SchLAu (Gay and Lesbian Education) is now
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![SCHLAU information booth at CSD Frankfurt 2024](../../images/Infostand%20_c4cb581257838d05eb5fc00f940e9535_original.jpg)
 *2024 — Author: SCHLAU Frankfurt | License: SCHLAU Frankfurt-gemeinfrei | Description: SCHLAU information booth at CSD Frankfurt 2024*
 

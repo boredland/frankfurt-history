@@ -29,6 +29,7 @@ Der neue Standort des Bürgerhospitals liegt seit 1907 an der Nibelungenallee. H
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Senckenberg‘sches Haus, Große Eschenheimerstraße Nr. 76, Innenhof, 1866, aquarellierte Bleistiftzeichnung, HMF R0830](../../images/R0830_png_002536a73b21776cbbec605f7c87b1d3_original.jpg)
 *1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Senckenberg‘sches Haus, Große Eschenheimerstraße Nr. 76, Innenhof, 1866, aquarellierte Bleistiftzeichnung, HMF R0830*
 

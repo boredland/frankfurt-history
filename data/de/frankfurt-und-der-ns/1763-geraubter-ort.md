@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Seilerstraße 10](../../images/Seilerstra_ba2361bc1a3e8f9528fb1b1ab99b6eea_original.jpg)
 *ca. 1860 — Author: unbekannt | License: ISG | Description: Seilerstraße 10*
 

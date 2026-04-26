@@ -29,6 +29,7 @@ Die hier untergebrachten Arbeiter*innen und Kinder waren sowohl in der Eilgutabf
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftaufnahme 15.08.1944. Am linken Bildrand: Alt Griesheim. Nr. 12: Reichsautobahn (heutige A5). Nr. 8: Triebwagenhalle, in der sich das Zwangsarbeiterlager befand. Von schraffierten Linien umgebener Bereich: Abstellbahnhof Griesheim.](../../images/Gleisbautr_b9df90cbadb762d9caee67325cf90f7c_original.jpg)
 *1944 — License: NARA | Description: Luftaufnahme 15.08.1944. Am linken Bildrand: Alt Griesheim. Nr. 12: Reichsautobahn (heutige A5). Nr. 8: Triebwagenhalle, in der sich das Zwangsarbeiterlager befand. Von schraffierten Linien umgebener Bereich: Abstellbahnhof Griesheim.*
 

@@ -29,6 +29,7 @@ Architect: Carl-Hermann Rudloff
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Draft sketch for swimming hall at Pestalozziplatz, exterior view](../../images/Schwimmbad_6bfd8950b6d94a61d224904ce20c5254_original.jpg)
 *1926 — Author: Carl-Hermann Rudloff | License: ernst-may-gesellschaft e.V. | Description: Draft sketch for swimming hall at Pestalozziplatz, exterior view*
 

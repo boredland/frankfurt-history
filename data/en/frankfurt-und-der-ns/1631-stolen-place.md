@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Eschenheimer Anlage 33-34](../../images/Eschenheim_38c18fc4ac23078ac9e9ef8e5974beba_original.jpg)
 *1937 — Author: unbekannt | License: ISG | Description: Eschenheimer Anlage 33-34*
 

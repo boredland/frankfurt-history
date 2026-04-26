@@ -33,6 +33,7 @@ https://www.vde.com/de/geschichte/karte/hessen/umspannwerk-nord
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Umspannwerk an der Eschersheimer Landstraße](../../images/Cetto_Umsp_cc63b4641e4d09d3d0d3a950e1beea04_original.jpg)
 *um 1930 — Author: Unbekannt | License: Max Cetto-Archiv, Deutsches Architekturmuseum, Frankfurt am Main | Description: Umspannwerk an der Eschersheimer Landstraße*
 

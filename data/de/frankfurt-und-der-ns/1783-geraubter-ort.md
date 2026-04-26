@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Wilhelm-Leuschner-Straße 10](../../images/Wilhelm-Le_bcf6a42c9893db332b02369cf98f6450_original.jpg)
 *1981 — Author: Falk Kynast | License: ISG | Description: Wilhelm-Leuschner-Straße 10*
 

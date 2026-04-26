@@ -24,6 +24,7 @@ Die Maschinenfabrik Moenus AG setzte hier Zwangsarbeiter*innen ein, die in der n
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitsbetrieb, Voltastraße 74-80](../../images/1aa05ca8d8b3b5793be58dc5ef91ec32_original.jpg)
 *unbekannt — Author: unbekannt | License: HMF, Ph13640 | Description: Zwangsarbeitsbetrieb, Voltastraße 74-80*
 

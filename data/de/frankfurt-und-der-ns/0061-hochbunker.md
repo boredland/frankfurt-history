@@ -27,6 +27,7 @@ Bauunternehmen: Joseph Kunz & Sohn, Frankfurt-Höchst.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Thudichumstraße](../../images/2f55072a0c200773773127f2d13602c5_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Thudichumstraße*
 

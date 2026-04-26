@@ -24,6 +24,7 @@ Auf dem Werksgelände der VDM-Halbzeugwerke GmbH befand sich seit 1941 ein groß
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto einer Maschinenhalle der VDM-Halbzeugwerke GmbH, auf deren Werksgelände im Zeilweg (ohne Nummer, evtl. 42) sich ein Zwangsarbeitslager befand](../../images/3a73caf00b696d274f4e706038a11460_original.jpg)
 *o.D. — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 4414 | Description: Foto einer Maschinenhalle der VDM-Halbzeugwerke GmbH, auf deren Werksgelände im Zeilweg (ohne Nummer, evtl. 42) sich ein Zwangsarbeitslager befand*
 

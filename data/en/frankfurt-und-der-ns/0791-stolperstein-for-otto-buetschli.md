@@ -38,6 +38,7 @@ A Stolperstein—literally “stumbling stone”—is a 10 x 10 x 10-cm concrete
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein for Otto Bütschli at Körnerstraße 16](../../images/stolperst__8f493edbafb226d72f1cbcb3cd078fa7_original.jpg)
 *2021 — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein for Otto Bütschli at Körnerstraße 16*
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Königsteiner Straße 3c](../../images/Koenigstei_eaab80cc609847667aeedc564f880864_original.jpg)
 *ca. 1900 — Author: unbekannt | License: ISG | Description: Königsteiner Straße 3c*
 

@@ -39,6 +39,7 @@ Eine Gedenktafel für die Zwangsarbeiter*innen in Bergen-Enkheim gibt es bisher 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"](../../images/28a9f5b70c96acc9e0f3d6e9dc3c09c2_original.jpg)
 *Author: Postkartensammlung Church | License: HMF / Sammlung Church C80374 | Description: Bildpostkarte mit dem Restaurant "Zur Schönen Aussicht"*
 

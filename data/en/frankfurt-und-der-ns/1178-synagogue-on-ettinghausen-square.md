@@ -31,6 +31,7 @@ Since its naming in 2008, the square in front of the bunker has commemorated the
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Simulation of the exterior view of the synagogue](../../images/isg_gt_syn_e2ee0b354a8073f2e0f2fb7c7a8f5fba_original.jpg)
 *License: © 2010 Architectura Virtualis GmbH, Kooperationspartner der Technischen Universität Darmstadt | Description: Simulation of the exterior view of the synagogue*
 

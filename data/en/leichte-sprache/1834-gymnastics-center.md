@@ -59,6 +59,7 @@ Die Zeit vor der Revolution hat die Turn-Vereine in Deutschland verändert.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Steel engraving: Friedrich Wilhelm Delkeskamp, 1864, Institut für Stadtgeschichte, Frankfurt Best. S8-9 No. 411](../../images/LS_Turnans_6087770ffbe0a38485416c6684633b40_original.jpg)
 *1864 — Author: Friedrich Wilhelm Delkeskamp | Description: Steel engraving: Friedrich Wilhelm Delkeskamp, 1864, Institut für Stadtgeschichte, Frankfurt Best. S8-9 No. 411*
 

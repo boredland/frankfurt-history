@@ -23,6 +23,7 @@ There are around 3,380 official street names in Frankfurt, including streets, sq
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Elisabeth Winterhalter Straße](../../images/Elisabeth%20_217e0b743844b60eff2ac38f40cc931c_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Elisabeth Winterhalter Straße*
 

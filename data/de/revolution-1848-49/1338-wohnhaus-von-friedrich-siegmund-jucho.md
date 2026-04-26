@@ -25,6 +25,7 @@ Als einziger Frankfurter war Jucho sowohl Mitglied im Vorparlament als auch in d
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto: Reproaufnahme von Gottfried Vömel einer Fotografie von Carl Friedrich Mylius, ca. 1860, Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 155](../../images/11%20Wohnhau_d0aaaf0a23940d0dc1d7724bacc60379_original.jpg)
 *um 1860 — Author: Reproaufnahme von Gottfried Vömel einer Fotografie von Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 155 | Description: Foto: Reproaufnahme von Gottfried Vömel einer Fotografie von Carl Friedrich Mylius, ca. 1860, Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 155*
 

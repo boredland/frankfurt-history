@@ -26,6 +26,7 @@ Social Democrats and Communists gathered at the Concordia restaurant, which was 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Meeting place for resistance fighters who sit together at the table, Alt Praunheim 11](../../images/2022111615_3741bd92472aa8c6b0b4c7a251d80631_original.jpg)
 *2022 — Author: Katahrina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Meeting place for resistance fighters who sit together at the table, Alt Praunheim 11*
 

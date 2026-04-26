@@ -24,6 +24,7 @@ Die Torpedo-Werke AG produzierte Büromaschinen und Fahrräder. Während des Zwe
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Gesamtansicht der Weilwerke (Torpedo-Werke)](../../images/64a43b222b0b23c29e4eba5ae5db98a2_original.jpg)
 *unbekannt — Author: Unbekannt | License: HMF, Sammlung Church, C80403 | Description: Bildpostkarte mit Gesamtansicht der Weilwerke (Torpedo-Werke)*
 

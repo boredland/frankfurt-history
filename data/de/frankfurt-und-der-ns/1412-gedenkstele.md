@@ -19,6 +19,7 @@ Zur Erinnerung an den Bäcker Martin Bertram sowie an alle weiteren Frankfurter 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenkstele in der Rohrbachstraße 58](../../images/gedenkstel_c4d99426e7e3bb726618d4702f754e43_original.jpg)
 *License: Erika und Günter Krämer | Description: Gedenkstele in der Rohrbachstraße 58*
 

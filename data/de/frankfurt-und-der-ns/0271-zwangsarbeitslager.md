@@ -24,6 +24,7 @@ Im Röderbergweg 270 bestand seit 1942 ein Zwangsarbeitslager im Café Röderber
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftaufnahme des Café Röderbergschlösschen im Röderbergweg 270, in dem ein Zwangsarbeitslager betrieben wurde](../../images/ef6720a2939ddb9907c93985c5210280_original.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-14005 | Description: Luftaufnahme des Café Röderbergschlösschen im Röderbergweg 270, in dem ein Zwangsarbeitslager betrieben wurde*
 

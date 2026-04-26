@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zeil 72-78](../../images/Zeil-72-78_c4e782a4bb3ac81225bfb23de3d10015_original.jpg)
 *1939 — Author: Postkartensammlung Church | License: HMF | Description: Zeil 72-78*
 

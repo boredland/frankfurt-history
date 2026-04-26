@@ -47,6 +47,7 @@ Lutz Becht vermerkt in seiner Aufstellung zu Zwangsarbeiter*innenlagern in Frank
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Werk Mayfarth in der Mainkur](../../images/574afe1affd94c4fbc1eb183542f0187_original.jpg)
 *o.D. — Author: unbekannt | License: HMF / Sammlung Church C80387 | Description: Bildpostkarte mit dem Werk Mayfarth in der Mainkur*
 

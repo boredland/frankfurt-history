@@ -19,6 +19,7 @@ Here you will find different perspectives on the place.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, airport](../../images/5505d438d6f4dd81ff9181dfe8869624_original.jpg)
 *1936 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 3831 | Description: Forced labor camp, airport*
 

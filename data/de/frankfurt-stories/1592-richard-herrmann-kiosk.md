@@ -28,12 +28,14 @@ Denn der damalige Mannschaftsarzt Franz Loogen verabreichte den Spielern des Tur
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Richard Hermann wird im Graffito gewürdigt](../../images/station%2010_01b605ad16f01cc27cba095440e4d747_original.jpg)
 *Author: F. Blendin | Description: Richard Hermann wird im Graffito gewürdigt*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Der ursprüngliche Kiosk, den Richard Herrmann mit seiner Frau Lilo betrieben hat](../../images/station%2010_afffbab359812c7425d13f76d36a6d9a_original.jpg)
 *License: Quelle: Horst und Rolf Herrmann | Description: Der ursprüngliche Kiosk, den Richard Herrmann mit seiner Frau Lilo betrieben hat*
 

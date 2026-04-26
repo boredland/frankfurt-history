@@ -23,6 +23,7 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers an der Bruno-Asch-Anlage](../../images/6eccdb08f3afe4f480972ae6549b62a5_original.jpg)
 *vor 1943 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 839-19 | Description: Foto eines Hochbunkers an der Bruno-Asch-Anlage*
 

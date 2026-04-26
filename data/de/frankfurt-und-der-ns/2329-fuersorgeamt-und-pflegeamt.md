@@ -18,6 +18,7 @@ Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![In dem Gebäude des Stadtgesundheitsamtes befand sich auch das Fürsorgeamt. Foto: HMF.](../../images/171365433b_a33d3d65be335e0328fe688fdc3a7810_original.jpg)
 *ca. 1936 — Author: Max Göllner | License: HMF, NS1366 | Description: In dem Gebäude des Stadtgesundheitsamtes befand sich auch das Fürsorgeamt. Foto: HMF.*
 

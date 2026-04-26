@@ -21,6 +21,7 @@ In den 1930er-Jahren besaßen jüdische Familien etwa ein Drittel der Geschäfte
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Eine historische Aufnahme der Einkaufsstraße „Zeil“ in Frankfurt am Main, aufgenommen um die Jahrhundertwende. Kutschen, prächtige Gebäude und Straßenuhren prägen das Stadtbild.](../../images/Zeil_Gottf_9f01cb0903970d4f110b8276a06a5dd7_original.jpg)
 *o. D. — Author: Gottfried Vömel | License: © Stadt Frankfurt, Fotografien von Gottfried Vömel 1900-1943 hrsg. von Wolfgang Klötzer, Gottfried Vömel | Description: Eine historische Aufnahme der Einkaufsstraße „Zeil“ in Frankfurt am Main, aufgenommen um die Jahrhundertwende. Kutschen, prächtige Gebäude und Straßenuhren prägen das Stadtbild.*
 

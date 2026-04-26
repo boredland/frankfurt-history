@@ -22,6 +22,7 @@ This video was created as part of the inclusive educational vacation "Your City 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/isg_ffm_s7_72c1fa3537580aaff15a9a6a1480e3a9_original.jpg)
 
 

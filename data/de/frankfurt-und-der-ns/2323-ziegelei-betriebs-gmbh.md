@@ -33,6 +33,7 @@ Eine Aufarbeitung der Zwangsarbeit in Sossenheim fand nach dem Krieg nicht statt
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein in der Westerbachstraße 300.](../../images/Stolperste_653f1b996ed55ad971a2df203fc8ddc5_original.jpg)
 *Author: GeorgDerReisende | License: Wikimedia Commons, CC BY-SA 4.0 | Description: Stolperstein in der Westerbachstraße 300.*
 

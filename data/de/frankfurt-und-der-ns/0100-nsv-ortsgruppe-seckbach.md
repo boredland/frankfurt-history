@@ -24,6 +24,7 @@ Die Ortsgruppe Seckbach der Nationalsozialistischen Volkswohlfahrt e.V. (NSV) be
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Sitzes der NSV Ortsgruppe Seckbach](../../images/b1ace9d4320e76bfffa0c67a291666cf_original.jpg)
 *1932 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-25447 | Description: Foto des Sitzes der NSV Ortsgruppe Seckbach*
 

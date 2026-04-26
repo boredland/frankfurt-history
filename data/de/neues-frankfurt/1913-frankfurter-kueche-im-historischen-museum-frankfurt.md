@@ -23,6 +23,7 @@ Das Historische Museum Frankfurt zeigt in seiner Abteilung „100 x Frankfurt“
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die Frankfurter Küche im Historischen Museum Frankfurt](../../images/Frankfurte_046826474576eaafdf243c2ed236bed1_original.jpg)
 *2017 — Author: Petra Welzel | License: Historisches Museum Frankfurt | Description: Die Frankfurter Küche im Historischen Museum Frankfurt*
 

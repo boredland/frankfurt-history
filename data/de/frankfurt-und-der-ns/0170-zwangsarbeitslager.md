@@ -24,6 +24,7 @@ Im Wirtshaussaal der Gaststätte Jakob Heisack waren 18 Zwangsarbeiter*innen aus
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit den Gebäuden Alt-Schwanheim 8 (links) und Alt-Schwanheim 6 (rechts)](../../images/11f05813b969cd9b2b9435bcd01345b4_original.jpg)
 *unbekannt — Author: Unbekannt | License: HMF, Sammlung Church, C80406 | Description: Bildpostkarte mit den Gebäuden Alt-Schwanheim 8 (links) und Alt-Schwanheim 6 (rechts)*
 

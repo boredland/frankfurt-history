@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Fichtestraße 18](../../images/Fichtestra_3853d1731a09f62f770c8436265d02e4_original.jpg)
 *2012 — Author: Martin Starl | License: ISG | Description: Fichtestraße 18*
 

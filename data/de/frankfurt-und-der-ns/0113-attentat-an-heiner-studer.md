@@ -26,6 +26,7 @@ Bewaffnete SA-Leute lauerten am 19. Februar 1933 an der Bockenheimer Warte Heine
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/20ec5b0caa2b41b38177c4980698de2f_original.jpg)
 *Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 

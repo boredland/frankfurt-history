@@ -24,6 +24,7 @@ The members of the National Socialist German Workers’ Party (NSDAP) regularly 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/43d6fa3835966bc11279a733b41b3346_original.jpg)
 *Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 

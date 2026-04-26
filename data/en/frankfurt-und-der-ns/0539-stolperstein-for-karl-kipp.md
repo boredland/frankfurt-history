@@ -38,6 +38,7 @@ A Stolperstein—literally “stumbling stone”—is a 10 x 10 x 10-cm concrete
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein for Karl Kipp at Berliner Straße 32](../../images/stolperst__6bc20989d18384c4144f19e2ee51f4b2_original.jpg)
 *unknown — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein for Karl Kipp at Berliner Straße 32*
 

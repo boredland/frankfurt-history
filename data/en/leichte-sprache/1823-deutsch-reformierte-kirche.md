@@ -54,6 +54,7 @@ Man kann also sagen:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto: Gottfried Vömel, 1905, Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 240](../../images/LS_Deutsch_ef797a9035aa4a78621453250a5cb0a9_original.jpg)
 *1905 — Author: Gottfried Vömel | Description: Foto: Gottfried Vömel, 1905, Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 240*
 

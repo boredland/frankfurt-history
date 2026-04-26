@@ -25,6 +25,7 @@ Quelle: Klaus Klemp, Matthias Wagner K (Hg.): Das Neue Frankfurt und die Frankfu
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die Frankfurter Küche im Museum Angewandte Kunst Frankfurt](../../images/frankfurte_757ac914b7e2d5609c996c74cb40a8e2_original.jpg)
 *2017 — Author: Anja Jahn | License: Museum Angewandte Kunst | Description: Die Frankfurter Küche im Museum Angewandte Kunst Frankfurt*
 

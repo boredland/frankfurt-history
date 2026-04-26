@@ -23,6 +23,7 @@ Bleichstraße 60 was the shared home of the doctor Elisabeth H. Winterhalter (18
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/C51047%2B001_45258587d803c9998ff63b143d5ba631_original.jpg)
 *Author: Carl Theodor Reiffenstein | License: HMF/Gemeinfre*
 

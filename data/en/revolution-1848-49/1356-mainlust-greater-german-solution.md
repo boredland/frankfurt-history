@@ -23,6 +23,7 @@ In 1849, the Mainlust tavern became the meeting point for a cross-faction group 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the garden restaurant "Mainlust"](../../images/14%20Mainlus_e79ecd979ecbd0ac8b0864cf1b099887_original.jpg)
 *ca. 1860 — Author: Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-507 | Description: Photo of the garden restaurant "Mainlust"*
 

@@ -24,6 +24,7 @@ The Henninger brewery, which was based at Wendelsweg 64, made use of forced labo
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor company, Wendelsweg 64](../../images/3bccbf47f9b782876394da9e9b5f83b7_original.jpg)
 *ca. 1900 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29407 | Description: Forced labor company, Wendelsweg 64*
 

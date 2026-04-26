@@ -23,6 +23,7 @@ instagram: @juletreffimlibs
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![LIBS Logo](../../images/Erstes%20LIB_9a0f1c07fb743e8010518d51a591872d_original.jpg)
 *Author: Unbekannt | License: LIBS e.V | Description: LIBS Logo*
 

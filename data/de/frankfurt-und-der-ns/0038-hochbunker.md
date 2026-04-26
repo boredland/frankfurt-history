@@ -26,6 +26,7 @@ Bauunternehmen: unbekannt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Heddernheimer Kirchstraße](../../images/87f72a22bc9ee9e00e5c106fe8834d76_original.jpg)
 *ca. 1955 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2008-128 | Description: Foto eines Hochbunkers in der Heddernheimer Kirchstraße*
 

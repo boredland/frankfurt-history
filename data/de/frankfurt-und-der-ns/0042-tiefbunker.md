@@ -27,6 +27,7 @@ Bauunternehmen: Diplom-Ingenieur Karl Kögel, Frankfurt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/tiefbunker_3802888f38af9a4eae8f5c4ad23a26a5_original.jpg)
 *Author: Dieter Wesp*
 

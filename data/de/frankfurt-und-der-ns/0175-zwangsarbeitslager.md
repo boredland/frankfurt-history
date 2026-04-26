@@ -21,6 +21,7 @@ Die Lanninger-Regner AG, die Beregnungsanlagen und Armaturen für Feuerlöschzwe
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager](../../images/f93698d8f4962fab47c831713496cb5a_original.jpg)
 *1944 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-5206 | Description: Zwangsarbeitslager*
 

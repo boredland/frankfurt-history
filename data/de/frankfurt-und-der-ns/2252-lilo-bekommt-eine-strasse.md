@@ -30,6 +30,7 @@ Schau dich noch weiter in der App um. Dort findest du die Geschichten von andere
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lilo, Gerdi und Helmut wieder zusammen an Weihnachten im Jahr 1945](../../images/G%C3%BC_11_png_59ee7409939ac7b8dcc2bfc57bb49865_original.jpg)
 *1945 — Author: unbekannt | License: Privat, Lilo Günzler: Endlich Reden, Henrich Editionen Frankfurt | Description: Lilo, Gerdi und Helmut wieder zusammen an Weihnachten im Jahr 1945*
 

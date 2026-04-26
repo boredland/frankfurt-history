@@ -24,6 +24,7 @@ The Meuser & Co. machine tools factory made use of forced labourers from 1942 on
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor operation, Hanauer Landstraße 475](../../images/de1a03c6eb2ab175cc94a133e62021d9_original.jpg)
 *1970 — Author: Hans Schleiss | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2012-247 | Description: Forced labor operation, Hanauer Landstraße 475*
 

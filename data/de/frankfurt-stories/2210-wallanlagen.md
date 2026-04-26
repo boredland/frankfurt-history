@@ -37,12 +37,14 @@ Das Spazierengehen entwickelte sich zu einer Kulturtechnik weiter und etablierte
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Johann Friedrich Morgenstern (1777-1844), Park mit Kurhäuschen in der Anlage zwischen Bockenheimer Tor und Eschenheimer Tor, Frankfurt 1837, HMF.C30326, gemeinfrei](../../images/C30326_001_a5ff37bfcd7e375ade355d3b21a607a2_original.jpg)
 *1837 — Author: Johann Friedrich Morgenstern | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Johann Friedrich Morgenstern (1777-1844), Park mit Kurhäuschen in der Anlage zwischen Bockenheimer Tor und Eschenheimer Tor, Frankfurt 1837, HMF.C30326, gemeinfrei*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Matthäus Merian d. Ä. (1593-1650), Aktualisierte Auflage des Großen Stadtplans von Frankfurt mit Wallanlagen, Frankfurt um 1761, HMF.C01215, gemeinfrei](../../images/C01215_001_4307755ccf613d57d7311b785530cf86_original.jpg)
 *Um 1761 — Author: Matthäus Merian d. Ä. | License: Gemeinfrei, HMF | Description: Matthäus Merian d. Ä. (1593-1650), Aktualisierte Auflage des Großen Stadtplans von Frankfurt mit Wallanlagen, Frankfurt um 1761, HMF.C01215, gemeinfrei*
 
@@ -52,12 +54,14 @@ Das Spazierengehen entwickelte sich zu einer Kulturtechnik weiter und etablierte
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Johann Friedrich Morgenstern (1777-1844), Park mit Kurhäuschen in der Anlage zwischen Bockenheimer Tor und Eschenheimer Tor, Frankfurt 1837, HMF.C30326, gemeinfrei](../../images/C30326_001_a5ff37bfcd7e375ade355d3b21a607a2_original.jpg)
 *1837 — Author: Johann Friedrich Morgenstern | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Johann Friedrich Morgenstern (1777-1844), Park mit Kurhäuschen in der Anlage zwischen Bockenheimer Tor und Eschenheimer Tor, Frankfurt 1837, HMF.C30326, gemeinfrei*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Johann Christian Berndt (1748-1811), Abtragung der Wälle vor dem Gallustor durch die Frankfurter Bevölkerung, Frankfurt 1805, HMF.C00718, gemeinfrei](../../images/C00718_001_b99bf6c1f774ad1ef9565fe7a6b934ab_original.jpg)
 *1805 — Author: Johann Christian Berndt | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Johann Christian Berndt (1748-1811), Abtragung der Wälle vor dem Gallustor durch die Frankfurter Bevölkerung, Frankfurt 1805, HMF.C00718, gemeinfrei*
 

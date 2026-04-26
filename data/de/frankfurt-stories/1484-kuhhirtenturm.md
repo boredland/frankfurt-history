@@ -30,6 +30,7 @@ Nach der Beschädigung im Zweiten Weltkrieg wurde der Turm wiederaufgebaut. Seit
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Blick mainaufwärts von der Alten Brücke, rechts der Kuhhirtenturm, 1872, aquarellierte Bleistiftzeichnung, HMF RS0007](../../images/RS0007_png_9b80a2cfea351343fd050e9542d0cad6_original.jpg)
 *1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Blick mainaufwärts von der Alten Brücke, rechts der Kuhhirtenturm, 1872, aquarellierte Bleistiftzeichnung, HMF RS0007*
 

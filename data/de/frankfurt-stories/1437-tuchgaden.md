@@ -25,6 +25,7 @@ Die Fläche zwischen Markt und Bendergasse war dicht mit mittelalterlichen Häus
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Tuchgaden nach Norden, 1871, aquarellierte Bleistiftzeichnung, HMF R0579](../../images/R0579_png_a79a334426484a9c5fae2a5a0ccfd17d_original.jpg)
 *1871 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Tuchgaden nach Norden, 1871, aquarellierte Bleistiftzeichnung, HMF R0579*
 

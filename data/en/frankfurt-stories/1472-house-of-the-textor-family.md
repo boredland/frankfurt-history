@@ -26,6 +26,7 @@ In the late 18th century, Reiffenstein’s father and grandfather lived here. Wh
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Textor House and garden (condition from 1758), Große Friedbergerstraße, 1862, sepia drawing, HMF C09299](../../images/C09299_png_6052ee6351be07bbf7b1d65d2957d56f_original.jpg)
 *1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Textor House and garden (condition from 1758), Große Friedbergerstraße, 1862, sepia drawing, HMF C09299*
 

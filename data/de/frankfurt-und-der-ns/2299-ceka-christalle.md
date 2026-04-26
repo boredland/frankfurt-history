@@ -31,6 +31,7 @@ Wenige Wochen später zerstörten Bombenabwürfe in den Nächten vom 4./5. und 1
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Allerheiligenstraße: Blick in die Straße u.a. auf zerstörte Häuser Nr. 22, 24, 26.](../../images/d6c4ffb8f9588694f5a738ebc6995d75_original.jpg)
 *ca. 1944 — Author: Unbekannt | License: ISG FFM S7B Nr. 1998-2410 | Description: Allerheiligenstraße: Blick in die Straße u.a. auf zerstörte Häuser Nr. 22, 24, 26.*
 
@@ -40,6 +41,7 @@ Wenige Wochen später zerstörten Bombenabwürfe in den Nächten vom 4./5. und 1
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Allerheiligenstraße 26 und 26a: Zwangsversteigerung des Grundstücks von Dr. Otto Hirschberg 1939-1940. Schreiben der "Deutschen Zentralbodenkredit-Aktiengesellschaft" an den Regierungspräsidenten in Wiesbaden, 26.4.1939.](../../images/isg_ffm_a__ad0e545906f2d64e208098da9fe9b74f_original.jpg)
 *o.D. — Author: Unbekannt | License: ISG FFM A.62.02 Nr. 1329 | Description: Allerheiligenstraße 26 und 26a: Zwangsversteigerung des Grundstücks von Dr. Otto Hirschberg 1939-1940. Schreiben der "Deutschen Zentralbodenkredit-Aktiengesellschaft" an den Regierungspräsidenten in Wiesbaden, 26.4.1939.*
 

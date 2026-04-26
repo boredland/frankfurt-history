@@ -28,6 +28,7 @@ In 1571, the old Jewish School was converted into a weighing house for copper. I
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Jewish school, exterior view, 1870, watercolored pencil drawing, HMF R0392](../../images/R0392_png_d810372de3ebc67e1a4be555019a49f3_original.jpg)
 *1870 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Jewish school, exterior view, 1870, watercolored pencil drawing, HMF R0392*
 

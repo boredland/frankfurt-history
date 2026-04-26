@@ -21,6 +21,7 @@ filters:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Album Villa Waldfried, Frankfurt am Main, Niederrad, Portierhaus, Fotografie](../../images/Ph19243%2C02_48a39e02680206a52b6fb96ade7ed7ee_original.jpg)
 *Unbekannt — Author: Friedrich Lauffer | License: HMF/Gemeinfrei | Description: Album Villa Waldfried, Frankfurt am Main, Niederrad, Portierhaus, Fotografie*
 

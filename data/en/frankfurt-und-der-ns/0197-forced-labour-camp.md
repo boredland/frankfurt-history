@@ -24,6 +24,7 @@ Two companies had their main headquarters at this location: the Westdeutsche Zie
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Eschborner Landstraße 172](../../images/54c41472c580dd3510ed3ebc532a16ea_original.jpg)
 *1935 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-30807 | Description: Forced labor camp, Eschborner Landstraße 172*
 

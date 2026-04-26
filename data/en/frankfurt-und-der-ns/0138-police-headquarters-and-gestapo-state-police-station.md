@@ -32,6 +32,7 @@ In 1936, the office moved to Bürgerstraße 22 (now Wilhelm-Leuscher-Straße).
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the police headquarters and Gestapo state police station](../../images/da657d6e351eafeccf8d27e3dda3a6ce_original.jpg)
 *1933 — Author: Hannah Reeck | License: HMF, Ph03225a | Description: Photo of the police headquarters and Gestapo state police station*
 

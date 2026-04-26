@@ -24,6 +24,7 @@ In the early summer of 1940, the Gaswerke West (west side gas works) of the Main
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Camps for prisoners of war and forced labor camps](../../images/bd5cbff96ae7170337f421006398e611_original.jpg)
 *ca. 1925 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19799 | Description: Camps for prisoners of war and forced labor camps*
 

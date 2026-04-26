@@ -23,6 +23,7 @@ In überfüllten Großsiedlungen kämpften die Juden gegen Hunger, Krankheiten u
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel für Ella Stern am Alten jüdischen Friedhof](../../images/Foto_EllaS_21234b0cf7a45f08c54809faf9f97806_original.jpg)
 *2023 — Author: Lisa Lungu, Laura Wand | License: gemeinfrei | Description: Gedenktafel für Ella Stern am Alten jüdischen Friedhof*
 

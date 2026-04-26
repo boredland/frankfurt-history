@@ -33,6 +33,7 @@ Further reading: Christina Gräwe, Jörg Schilling: Grossmarkthalle Frankfurt am
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the wholesale market hall](../../images/Grossmarkt_a19872dbc67e49ad7f419d66ad5338d6_original.jpg)
 *around 1929 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: View of the wholesale market hall*
 

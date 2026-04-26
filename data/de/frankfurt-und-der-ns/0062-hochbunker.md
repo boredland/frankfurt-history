@@ -31,6 +31,7 @@ Bauunternehmen: Gebrüder Weil, Limburg.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Germaniastraße](../../images/7057fabbfda91dc614b8f5431f0b8739_original.jpg)
 *1981 — Author: Joachim Sändig | License: HMF Ph17146 | Description: Foto eines Hochbunkers in der Germaniastraße*
 

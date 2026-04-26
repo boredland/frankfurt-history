@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Waldfriedstraße](../../images/Waldfrieds_de7594e943093fb00e0b686f984707ca_original.jpg)
 *ca. 1905 — Author: Friedrich Lauffer | License: HMF | Description: Waldfriedstraße*
 

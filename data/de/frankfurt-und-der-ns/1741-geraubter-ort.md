@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Oeder Weg 113](../../images/Oeder-Weg-_ccb812067e8fa9e8c0cb196f412eeca3_original.jpg)
 *1924 — Author: Carl Oehler | License: ISG | Description: Oeder Weg 113*
 

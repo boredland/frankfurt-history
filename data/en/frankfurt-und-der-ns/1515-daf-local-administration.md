@@ -19,6 +19,7 @@ On the site of today's daycare center used to be the clubhouse that housed the l
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kurzröderstraße 18](../../images/P1036569_J_7accf5e741610a2570467efb460de21a_original.jpg)
 *2024 — Description: Kurzröderstraße 18*
 

@@ -27,6 +27,7 @@ Bauunternehmen: Diplom-Ingenieur Karl Kögel, Frankfurt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Mühlgasse](../../images/016e24264977fd52acd228f07f3883ab_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Mühlgasse*
 

@@ -22,6 +22,7 @@ The Voltohm rope and cable works had its company grounds at this site. In the su
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Hainer Weg 129-131](../../images/f4cd9f29c5ee2c5737fc4510ec2d671c_original.jpg)
 *1935 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 2780 | Description: Forced labor camp, Hainer Weg 129-131*
 

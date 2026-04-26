@@ -23,6 +23,7 @@ Around 1900, a building complex was built at Basaltstraße 23. Today, it's home 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Luxemburg__656ca01f53a952c87c6462b653ddbe75_original.jpg)
 *Author: Unbekannt | License: Stadt Frankfurt/Udo Fedderies*
 

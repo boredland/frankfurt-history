@@ -24,6 +24,7 @@ A glimpse inside the 1935 directory shows that altogether five local chapters of
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the offices of the NSDAP local group and NSDAP Women's League Altstadt](../../images/042f8c17e764e770fdf6ded195947976_original.jpg)
 *1910 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2427 | Description: Photo of the offices of the NSDAP local group and NSDAP Women's League Altstadt*
 

@@ -31,6 +31,7 @@ Quelle: Jutta Frieß: Der Frankfurter Reformschulversuch 1921–1937. Frankfurt 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schule am Bornheimer Hang von der Gartenseite aus gesehen](../../images/C35129_001_cfd74c62d89c13af889f4baf50b928ac_original.jpg)
 *um 1930 — Author: Paul Wolff | License: Historisches Museum Frankfurt | Description: Schule am Bornheimer Hang von der Gartenseite aus gesehen*
 

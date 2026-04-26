@@ -33,6 +33,7 @@ Stephan Kummer (Hg.): Neues Bauen hundert Jahre später – Wie saniere ich ein 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht vom Wohnhausblock Am Grethenweg.](../../images/Grethenweg_5e08ed18dbfba76eb819f913ebb900c3_original.jpg)
 *um 1928 — Author: Hermann Collischonn | License: Das Neue Frankfurt, 1928, Heft 7/8, S. 152 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Ansicht vom Wohnhausblock Am Grethenweg.*
 

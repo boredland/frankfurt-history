@@ -31,6 +31,7 @@ Quelle: Christina Gräwe: Haus Elsaesser 1926. In: Martin Elsaesser und das Neue
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick auf die Rückseite des Wohngebäudes mit Terrasse, Balkon und Dachterrasse.](../../images/isg_ffm_s7_2d929d8d395bc92d874a9fb29ffd8b01_original.jpg)
 *1926 — Author: Hermann Collischonn | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Blick auf die Rückseite des Wohngebäudes mit Terrasse, Balkon und Dachterrasse.*
 

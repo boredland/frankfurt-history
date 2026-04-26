@@ -22,6 +22,7 @@ The plumber Hans Lutz (b. 1904) lived at Böttgerstrasse 29. He worked for the V
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Apartment of resistance fighter Hans Lutz, Böttgerstraße 29](../../images/c130cc7cc71154662634e337f86a6ecd_original.jpg)
 *1981 — Author: Joachim Sändig | License: HMF, Ph17152 | Description: Apartment of resistance fighter Hans Lutz, Böttgerstraße 29*
 

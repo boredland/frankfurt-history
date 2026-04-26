@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ziegelgasse 20](../../images/Ziegelgass_40bf8bb692c3dc3bb714b57af9e1fc4b_original.jpg)
 *1939 — Author: Fried Lübbecke | License: ISG | Description: Ziegelgasse 20*
 

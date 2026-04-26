@@ -23,6 +23,7 @@ Die 16-jährige Mathilde Einzig begann dort 1902 ihre Schauspielkarriere. Ab 190
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Rollenporträt Mathilde Einzig in der Operette "Caramba oder die Dolores und die Paralellen" Schauspiel Frankfurt (vgl. Ph 41903), Fotografie](../../images/sdf037_001_614ee9837d39fe7a71146338f8155649_original.jpg)
 *1932 — Author: Nini und Carry Hess | License: Institut für Stadtgeschichte/Verweist | Description: Rollenporträt Mathilde Einzig in der Operette "Caramba oder die Dolores und die Paralellen" Schauspiel Frankfurt (vgl. Ph 41903), Fotografie*
 

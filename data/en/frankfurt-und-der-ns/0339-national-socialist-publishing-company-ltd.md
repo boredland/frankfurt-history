@@ -24,6 +24,7 @@ In der Neuen Mainzer Straße 8 hatte die Nationalsozialistische Verlags-Gesellsc
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Editorial office of the Frankfurter Volksblatt](../../images/Ph38327_jp_d9e2578eef24719a8428060121225ff8_original.jpg)
 *vor 1945 — Description: Editorial office of the Frankfurter Volksblatt*
 

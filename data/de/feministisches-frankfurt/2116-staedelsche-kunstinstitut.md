@@ -21,6 +21,7 @@ Das Städelsche Kunstinstitut, heute vor allem als Städel-Museum mit angeschlos
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ottilie W. Roederstein und Elisabeth Winterhalter](../../images/Dame0164_j_16ba232149cd8dc0e819bb38b6eaaeaf_original.jpg)
 *um 1932 — Author: Unbekannt | License: HMF/Privatbesitz | Description: Ottilie W. Roederstein und Elisabeth Winterhalter*
 

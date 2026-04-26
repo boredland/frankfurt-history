@@ -23,6 +23,7 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/0d3205913720e1606dd012f93cf352b9_original.jpg)
 *Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 

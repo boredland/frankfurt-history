@@ -24,6 +24,7 @@ Die Deutsche Vereinigte Schuhmaschinenfabrik GmbH (DVSG) betrieb auf ihrem Werks
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto einer Werkstatt auf dem Werksgelände der Deutsche Vereinigte Schuhmaschinenfabrik GmbH (DVSG), auf dem ein Zwangsarbeitslager betrieben wurde](../../images/ee42c6000a42c63949daca7637066b87_original.jpg)
 *ca. 1938 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29295 | Description: Foto einer Werkstatt auf dem Werksgelände der Deutsche Vereinigte Schuhmaschinenfabrik GmbH (DVSG), auf dem ein Zwangsarbeitslager betrieben wurde*
 

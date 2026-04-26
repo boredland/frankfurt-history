@@ -23,6 +23,7 @@ Seit Beginn der fünfziger Jahre diskutierte die Stadt Frankfurt die Errichtung 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ehrenmal "Hiob"](../../images/isg_gt_ns-_ea094a49ce8148bc4668bd35b412717c_original.jpg)
 *License: © Institut für Stadtgeschichte | Description: Ehrenmal "Hiob"*
 

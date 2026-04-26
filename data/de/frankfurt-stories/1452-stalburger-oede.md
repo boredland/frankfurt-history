@@ -26,6 +26,7 @@ Im Zuge der Stadterweiterung wurde das Gebiet 1873 als Wohnviertel bebaut. Trotz
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Stalburger Oede, Ostseite mit Brücke und Graben, 1859, aquarellierte Bleistiftzeichnung, HMF RS0131](../../images/RS0131_png_80fab762820749e63b105124ffb4f891_original.jpg)
 *1859 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Stalburger Oede, Ostseite mit Brücke und Graben, 1859, aquarellierte Bleistiftzeichnung, HMF RS0131*
 

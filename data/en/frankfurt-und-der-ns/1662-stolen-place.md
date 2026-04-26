@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Große Friedberger Straße 1](../../images/Grosse-Fri_1d7b399ff6083b3b2f030ed0cce8305e_original.jpg)
 *1902 — Author: unbekannt | License: ISG | Description: Große Friedberger Straße 1*
 

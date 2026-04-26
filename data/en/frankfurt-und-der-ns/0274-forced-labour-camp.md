@@ -24,6 +24,7 @@ Schanzenbach & Co., an electrical engineering and lighting technology company ba
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the electrical and lighting equipment manufacturer G. Schanzenbach &amp; Co. GmbH, which operated a forced labour camp at Schloßstraße 72](../../images/7a228d8ac28bbbfa1eefec039bf10827_original.jpg)
 *1932 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-30477 | Description: Photo of the electrical and lighting equipment manufacturer G. Schanzenbach &amp; Co. GmbH, which operated a forced labour camp at Schloßstraße 72*
 

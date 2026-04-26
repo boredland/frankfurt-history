@@ -24,6 +24,7 @@ Die Bockenheimer Eisengießerei & Maschinenfabrik GmbH mit Sitz in der Solmsstra
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitsbetrieb, Solmsstraße 81-83](../../images/cc4bc6c7697b77451cb1e2c0633bfb3a_original.jpg)
 *1922 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29185 | Description: Zwangsarbeitsbetrieb, Solmsstraße 81-83*
 

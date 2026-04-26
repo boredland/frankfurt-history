@@ -25,6 +25,7 @@ On December 7, 2000, on the occasion of the 250th birthday of Cornelia Schlosser
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The founding directors of the center at the opening ceremony: From left to right are Ute Gerhard, Heide Schlüpmann, Susanne Opfermann, and Brita Rang.](../../images/Gr%C3%BCndung%20_b64b9a0873afbc6225267d907560025c_original.jpg)
 *1997 — Author: N.N. | License: gemeinfrei | Description: The founding directors of the center at the opening ceremony: From left to right are Ute Gerhard, Heide Schlüpmann, Susanne Opfermann, and Brita Rang.*
 

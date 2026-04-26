@@ -25,6 +25,7 @@ The archive is open to visitors every Friday from 11 a.m. to 2 p.m
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Film still from DIE FILMPRIMADONNA (2013, director: Urban Gad) starring Asta Nielsen in the lead role (right in the picture).](../../images/d30ad1fa957c8423e15f067ccfdfbd15_original.png)
 *1913 — Author: Urban Gad | License: Eye Filmmuseum Amsterdam | Description: Film still from DIE FILMPRIMADONNA (2013, director: Urban Gad) starring Asta Nielsen in the lead role (right in the picture).*
 

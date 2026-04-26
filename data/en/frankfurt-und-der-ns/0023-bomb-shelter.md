@@ -27,6 +27,7 @@ Construction company: Diplom-Ingenieur Karl Kögel, Frankfurt
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Schmidtstraße](../../images/0d896e5bb739c9d0d45fe90b2704316c_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Schmidtstraße*
 

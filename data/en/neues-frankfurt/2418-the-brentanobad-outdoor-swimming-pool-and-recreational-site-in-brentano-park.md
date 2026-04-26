@@ -33,6 +33,7 @@ Heike Kaiser, Der Brentanopark. Kleinod romantischer Gartenkunst. Frankfurt am M
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of Brentanobad](../../images/Brentanoba_d22b749c7fa378fddddbb80e9decad0c_original.jpg)
 *around 1930 — Author: unbekannt / unknown | License: Privat | Description: Aerial view of Brentanobad*
 

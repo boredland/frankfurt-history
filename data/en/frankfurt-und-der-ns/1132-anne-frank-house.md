@@ -21,6 +21,7 @@ The video was created as part of the project "What's May 8 to me? Five senior cl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Anne Frank House at Marbachweg 307](../../images/dffc67d5b7e4a886bdf755dca7ee6a5f_original.jpg)
 *Description: Anne Frank House at Marbachweg 307*
 

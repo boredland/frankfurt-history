@@ -26,6 +26,7 @@ Das Gebäude des Krankenhauses der Israelitischen Krankenkassen wurde seit 1923 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Innenraumes in der Rechneigrabenstraße 18-20](../../images/isg_ffm_s7_331ec944dc19ad48c2ce4830b5c2cf30_original.jpg)
 *ca. 1938 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-18992 | Description: Foto eines Innenraumes in der Rechneigrabenstraße 18-20*
 

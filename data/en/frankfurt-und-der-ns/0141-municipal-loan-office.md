@@ -25,6 +25,7 @@ From December 1938, those persecuted as Jews were forbidden to buy, pawn or sell
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Municipal lending institution](../../images/7ca39895a3f35f502c99a84b93c60391_original.jpg)
 *Before 1941 — Author: Otto Emmel | License: HMF, Ph21687 | Description: Municipal lending institution*
 

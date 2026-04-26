@@ -28,6 +28,7 @@ When the house was demolished in 1866, the entrance to the narrow Wedelgasse lan
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, back houses of the Haus zum Wedel, seen from Paulsplatz, around 1850, watercolored pencil drawing, HMF R0545](../../images/R0545_png_9901502365f615ec0b7eded93df0c433_original.jpg)
 *1850 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, back houses of the Haus zum Wedel, seen from Paulsplatz, around 1850, watercolored pencil drawing, HMF R0545*
 

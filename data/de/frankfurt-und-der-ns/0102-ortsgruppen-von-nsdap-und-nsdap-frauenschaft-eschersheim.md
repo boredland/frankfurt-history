@@ -24,6 +24,7 @@ Hier hatte die Ortsgruppe Eschersheim der Nationalsozialistischen Deutschen Arbe
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Sitzes der Ortsgruppe Obermain der NSDAP und der NS-Frauenschaft](../../images/97e290576eda1fe42747f5a77dbe602f_original.jpg)
 *2002 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2015-575 | Description: Foto des Sitzes der Ortsgruppe Obermain der NSDAP und der NS-Frauenschaft*
 

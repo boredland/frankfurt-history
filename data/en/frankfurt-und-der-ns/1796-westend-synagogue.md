@@ -24,6 +24,7 @@ The synagogue is guarded by the police for security reasons. How sad that in thi
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The Westend Synagogue in the Freiherr-von-Stein Street today](../../images/Freiherr%20v_5a070ea4e12ce97e1b216d578f2e86b7_original.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: The Westend Synagogue in the Freiherr-von-Stein Street today*
 

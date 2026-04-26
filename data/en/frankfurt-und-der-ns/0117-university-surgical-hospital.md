@@ -24,6 +24,7 @@ In the Surgical University Clinic, men and women were forced to undergo a radiot
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Theodor-Stern-Kai/Ludwig-Rehn-Straße](../../images/bf212af5a7f60af81e35c93c427a173f_original.jpg)
 *ca. 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A No. 2002-75 | Description: Forced labor camp, Theodor-Stern-Kai/Ludwig-Rehn-Straße*
 

@@ -26,6 +26,7 @@ Despite some objections, the tower was torn down in 1930 to make way for a flood
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, remnants of the Ulrichstein and the old houses in the Färberstraße, 1871/1877, watercolored pencil drawing, HMF RS0207](../../images/RS0207_png_ffc7cd58231024582c1048ec300629aa_original.jpg)
 *1871/1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, remnants of the Ulrichstein and the old houses in the Färberstraße, 1871/1877, watercolored pencil drawing, HMF RS0207*
 

@@ -24,6 +24,7 @@ In May and June 1933, the SA (Storm Troopers), a paramilitary wing of the Nazi P
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Höchst Barracks, west entrance.](../../images/isg_ffm_s7_b5b258d8c49ef1bac2074fcdd8d40f45_original.jpg)
 *1923 — Author: Unbekannt | License: Institut für Stadtgeschichte, Sig. S7A, 1998-22802 | Description: Höchst Barracks, west entrance.*
 

@@ -24,6 +24,7 @@ In der katholischen Bernhardus-Gemeinde wirkte von 1926 bis 1950 Priester Alois 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto von der St. Bernhard Kirche](../../images/6725708e581821b2f4d138f90d8816c0_original.jpg)
 *vor 1945 — Author: unbekannt | License: HMF C26535 | Description: Foto von der St. Bernhard Kirche*
 

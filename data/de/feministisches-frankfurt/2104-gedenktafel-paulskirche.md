@@ -23,6 +23,7 @@ Als SPD-Politikerin und Mitbegründerin der Frankfurter Arbeiterwohlfahrt (AWO) 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel von Johanna Kirchner mit der Inschrift: Den Frankfurter Bürgerinnen und Bürgern, die der Barbarei des Nationalsozialismus Widerstand entgegensetzten.](../../images/Kirchner_G_63ea3123f8f82c067bf6ac13f269e205_original.jpg)
 *1992 — Author: Clemens Strugalla | License: HMF/Gemeinfrei | Description: Gedenktafel von Johanna Kirchner mit der Inschrift: Den Frankfurter Bürgerinnen und Bürgern, die der Barbarei des Nationalsozialismus Widerstand entgegensetzten.*
 

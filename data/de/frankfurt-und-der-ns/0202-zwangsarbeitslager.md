@@ -22,6 +22,7 @@ Hier betrieb die Hartmann & Braun AG ein Lager für Zwangsarbeiter*innen. Das Un
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Falkstraße 34](../../images/9566e0c68970623079c41b73d9ee49c9_original.jpg)
 *ca. 1905 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2001-178 | Description: Zwangsarbeitslager, Falkstraße 34*
 

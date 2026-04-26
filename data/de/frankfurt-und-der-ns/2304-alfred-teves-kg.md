@@ -35,6 +35,7 @@ Eine junge katholische Ostarbeiterin, Walja M., 1923 geboren, wurde aus dem Lage
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Straßenfront des Gebäudekomplexes Marburger Straße 28.](../../images/Marburger%20_321e981a642b3e71589ec0555bd25c3d_original.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: Straßenfront des Gebäudekomplexes Marburger Straße 28.*
 

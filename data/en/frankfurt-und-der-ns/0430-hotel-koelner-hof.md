@@ -23,5 +23,6 @@ Even in the late 1800s, the Hotel Kölner Hof at Gneisenaustrasse 1-5 (now Mannh
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/NS0880_jpg_aa571b061cf0837456557ddb56c5b6e2_original.jpg)
 

@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kurfürstenstraße 20](../../images/Kurfuerste_7aba556e9f7a30565f5eae17f8804386_original.jpg)
 *1906 — Author: unbekannt | License: ISG | Description: Kurfürstenstraße 20*
 

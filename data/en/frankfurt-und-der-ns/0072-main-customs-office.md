@@ -24,6 +24,7 @@ The Customs Offices worked closely with the Foreign Exchange Offices (“Devisen
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the main customs office building](../../images/82493a04a6d52bd8447338fbb5386182_original.jpg)
 *1927 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-4044 | Description: Photo of the main customs office building*
 

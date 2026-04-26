@@ -24,6 +24,7 @@ Die Gaststätte Bornheimer Ratskeller im Nussberg 72 (heute: Kettelerallee) dien
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Außenansicht des Bornheimer Ratskellers](../../images/47a8ae916b95f6df5596b637b741e8f6_original.jpg)
 *1907 — Author: unbekannt | License: HMF / Sammlung Church C80203 | Description: Bildpostkarte mit Außenansicht des Bornheimer Ratskellers*
 

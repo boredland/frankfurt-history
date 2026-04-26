@@ -23,6 +23,7 @@ In dem Vergnügungspalast Groß-Frankfurt mit Kino und Gaststätte bestand ein L
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Vergnügungspalast "Groß-Frankfurt"](../../images/8de8b3475533eb8b14971d32d5e9b88d_original.jpg)
 *unbekannt — Author: Postkartensammlung Church | License: HMF / Sammlung Church C80381 | Description: Bildpostkarte mit Vergnügungspalast "Groß-Frankfurt"*
 

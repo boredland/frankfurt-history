@@ -26,6 +26,7 @@ In diesem Gebäude hatte von 1920 bis zur Bombardierung der Frankfurter Altstadt
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Hier%20fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
 *License: HMF*
 

@@ -39,6 +39,7 @@ Aber nicht alle Kirchen-Leute fanden das gut.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Grafik: gestochen von Johann Jakob Tanner, um 1855, Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 911](../../images/LS_Kathari_e0754b8242af2737fe98796b724b3eda_original.jpg)
 *um 1855 — Author: gestochen von Johann Jakob Tanner | Description: Grafik: gestochen von Johann Jakob Tanner, um 1855, Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 911*
 

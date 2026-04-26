@@ -21,6 +21,7 @@ The company Formulardruck Efmagdruck GmbH ran a camp for forced laborers at Taun
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of Taunusstraße 8](../../images/e04b56da1df753d1dd6e7dc5bc9aaa1a_original.jpg)
 *1908 — Author: Lönholdt & Söhne, | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 4582 | Description: View of Taunusstraße 8*
 

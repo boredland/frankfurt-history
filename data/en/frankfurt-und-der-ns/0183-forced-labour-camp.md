@@ -24,6 +24,7 @@ The Peter Görres welding equipment manufacturer made use of forced labourers wh
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Buchrainstraße 18](../../images/dd738be9322cc0a9a2f88a62aa68b6ee_original.jpg)
 *2002 — Author: Claus Graubner | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2015-913 | Description: Forced labor camp, Buchrainstraße 18*
 

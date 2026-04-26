@@ -24,6 +24,7 @@ Die Deutsche Reichspost mit Hauptsitz in der Hohenzollernanlage 60-64 (heute Fri
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Friedrich-Ebert-Anlage 60-64](../../images/b7216e1bf4322629411b1d65b34a213e_original.jpg)
 *vor 1920 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 00579-8 | Description: Zwangsarbeitslager, Friedrich-Ebert-Anlage 60-64*
 

@@ -35,6 +35,7 @@ Further reading: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. F
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of the Westhausen housing estate.](../../images/Westhausen_5394e750f784cf2505e3d4273fc7a791_original.jpg)
 *around 1932 — Author: Unbekannt | License: Privat | Description: Aerial view of the Westhausen housing estate.*
 

@@ -22,6 +22,7 @@ In unmittelbarer Nähe zum Rebstockgelände produzierte die Max Gerner GmbH auf 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Am Römerhof](../../images/322c9938e8139c5da29a10ade95e90fb_original.jpg)
 *1929 — Author: Landesbildstelle Hessen | License: HMF, Ph06335 | Description: Zwangsarbeitslager, Am Römerhof*
 

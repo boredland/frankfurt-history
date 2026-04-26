@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Liebigstraße 53](../../images/Liebigstra_474332fb70328bb5048bf9d754460850_original.jpg)
 *ca. 1890 — Author: Hertel | License: ISG | Description: Liebigstraße 53*
 

@@ -31,6 +31,7 @@ Further reading: Konrad Elsässer, Das Bootshaus der Universität – Am Wasserw
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The boathouse at the Main river during the flood of November 1930.](../../images/Bootshaus__27d3f336f20c94863383a5d7e104a121_original.jpg)
 *1930 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: The boathouse at the Main river during the flood of November 1930.*
 

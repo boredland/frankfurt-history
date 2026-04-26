@@ -20,6 +20,7 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto: Staatliche Bildstelle Berlin, 1937, HMF C31431](../../images/C31431_jpg_6c3cd7858d4fbb52ae73dd9370ff1257_original.jpg)
 *1937 — Author: Staatliche Bildstelle Berlin | Description: Foto: Staatliche Bildstelle Berlin, 1937, HMF C31431*
 

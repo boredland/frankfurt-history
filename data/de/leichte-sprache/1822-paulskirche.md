@@ -79,6 +79,7 @@ Die Paulskirche nennt man auch:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Farblithografie: unbekannt, um 1850, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 322](../../images/LS_Paulski_1315617b70cc1d5c7f61f58b42e55048_original.jpg)
 *um 1850 — Author: unbekannt | Description: Farblithografie: unbekannt, um 1850, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 322*
 

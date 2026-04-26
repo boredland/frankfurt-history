@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Liebigstraße 3](../../images/Liebigstra_bf19e135a0134e8234cc445fe65225da_original.jpg)
 *ca. 1890 — Author: Hertel | License: ISG | Description: Liebigstraße 3*
 

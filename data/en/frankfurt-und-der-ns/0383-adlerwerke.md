@@ -27,6 +27,7 @@ After World War II, the same managers remained in charge of the Adlerwerke, whos
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The main building of Adlerwerke on Kleyerstraße.](../../images/a9cdd04332e322bdca2b1677078b7653_original.jpg)
 *1934 — Author: Wolff & Tritschler | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 2531 | Description: The main building of Adlerwerke on Kleyerstraße.*
 

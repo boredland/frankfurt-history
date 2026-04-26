@@ -25,6 +25,7 @@ On the morning of 3 March 1959, arms dealer Georg Puchert was killed by a car bo
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/isg_ffm_s7_8bed73e5c4da9c17b7ff6771ab2b85aa_original.jpg)
 *License: ISG*
 

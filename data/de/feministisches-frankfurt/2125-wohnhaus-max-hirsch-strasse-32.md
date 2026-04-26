@@ -23,6 +23,7 @@ Johanna Tesch engagierte sich in der SPD, gründete Vereine für Arbeiterinnen u
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel für Johanna Tesch](../../images/johanna-te_db3d0a92b740fa464311b8c0c885211c_original.jpg)
 *1995 — Author: Unbekannt | License: Stadt Frankfurt/Günter Maniewski | Description: Gedenktafel für Johanna Tesch*
 

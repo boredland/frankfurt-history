@@ -21,6 +21,7 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/isg_gt_ged_4f9ab2e06cd7ac01c5f8a636d6acca5e_original.jpg)
 *Author: © Institut für Stadtgeschichte*
 

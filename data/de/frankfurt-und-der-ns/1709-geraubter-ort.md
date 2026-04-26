@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Landgrafenstraße 12](../../images/Landgrafen_3f4ae0032883629f6db775e642cd524f_original.jpg)
 *1907 — Author: unbekannt | License: ISG | Description: Landgrafenstraße 12*
 

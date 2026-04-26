@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Allerheiligenstraße 30](../../images/Allerheili_3e83e4a891f137c57653429acdb58645_original.jpg)
 *1955 — License: ISG | Description: Allerheiligenstraße 30*
 

@@ -21,6 +21,7 @@ In the 1930s, Jewish families owned about a third of all shops in Frankfurt. Whe
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![A historical photo of the Zeil shopping street in Frankfurt, taken around the turn of the century. Note the horse-drawn carriages, magnificent buildings and street clocks.](../../images/Zeil_Gottf_9f01cb0903970d4f110b8276a06a5dd7_original.jpg)
 *n. d. — Author: Gottfried Vömel | License: © Stadt Frankfurt, Fotografien von Gottfried Vömel 1900-1943 hrsg. von Wolfgang Klötzer, Gottfried Vömel | Description: A historical photo of the Zeil shopping street in Frankfurt, taken around the turn of the century. Note the horse-drawn carriages, magnificent buildings and street clocks.*
 

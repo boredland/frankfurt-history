@@ -24,6 +24,7 @@ Von 1943 bis 1945 betrieb die Firma Heinrich Wörner, Hersteller von Präzisions
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto einer Maschinenhalle der Firma Heinrich Wörner, die auf ihrem Werksgelände in der Vilbeler Landstraße 7 ein eigenes Zwangsarbeitslager betrieb](../../images/5eeee577ca6c4409c906b787af84212f_original.jpg)
 *o.D. — Author: Max Göllner | License: HMF Z.2005Göllner000007 | Description: Foto einer Maschinenhalle der Firma Heinrich Wörner, die auf ihrem Werksgelände in der Vilbeler Landstraße 7 ein eigenes Zwangsarbeitslager betrieb*
 

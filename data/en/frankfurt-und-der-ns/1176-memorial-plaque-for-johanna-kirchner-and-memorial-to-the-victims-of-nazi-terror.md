@@ -18,6 +18,7 @@ filters:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial plaque for Johanna Kirchner on the façade of St. Paul's Church](../../images/isg_gt_joh_47421fb9efa8abb9e421cd22514ffd59_original.jpg)
 *Description: Memorial plaque for Johanna Kirchner on the façade of St. Paul's Church*
 

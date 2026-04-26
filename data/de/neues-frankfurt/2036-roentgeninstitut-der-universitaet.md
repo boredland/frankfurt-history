@@ -30,6 +30,7 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Außenansicht des Röntgeninstituts der Universität](../../images/Roentgenin_5c84e167c2bb877cba44d14eceb65a2e_original.jpg)
 *1931 — Author: Hermann Collischonn | License: Das Neue Frankfurt, 1931, Heft 4/5, S. 86 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Außenansicht des Röntgeninstituts der Universität*
 

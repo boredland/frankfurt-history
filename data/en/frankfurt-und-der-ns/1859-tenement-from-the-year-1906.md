@@ -27,6 +27,7 @@ The architect Fritz Epstein planned, built or converted around 150 buildings in 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/20241004_B_4a7dc24014190db49b5c15bb06e9f969_original.jpg)
 *2024 — Author: Moritz Bernoully | License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 

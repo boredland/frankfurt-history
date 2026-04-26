@@ -22,6 +22,7 @@ The lot and villa at Leonhardsbrunn 12–14 belonged to the Jewish businessman a
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with villa Merton](../../images/C80373_jpg_8ca22ea6bfb0de78074bd139caa7c18a_original.jpg)
 *around 1932 — Author: Unbekannt | License: HMF, Sammlung Church, C80373 | Description: Picture postcard with villa Merton*
 

@@ -29,6 +29,7 @@ Architect: Max Cetto
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the enclosed bathing area of the Ostpark pond with numerous bathers, pavilion in the rear.](../../images/isg_ffm_s7_d1cf25132118c9d61e3fe25d54fd190b_original.jpg)
 *1937 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: View of the enclosed bathing area of the Ostpark pond with numerous bathers, pavilion in the rear.*
 

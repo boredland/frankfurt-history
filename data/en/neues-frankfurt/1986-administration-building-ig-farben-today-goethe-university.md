@@ -31,6 +31,7 @@ Further reading: Wolfgang Voigt: Verwaltungsgebäude der I.G. Farben. In: Neuer 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of the I.G. Farbenindustrie administration building](../../images/Verwaltung_f9f67b2bcc591db0b41f09bf6d26ad12_original.jpg)
 *around 1933 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: Aerial view of the I.G. Farbenindustrie administration building*
 

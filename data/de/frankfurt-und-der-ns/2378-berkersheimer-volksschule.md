@@ -27,6 +27,7 @@ Die Behörden planten zunächst eine Schulbaracke im Lager einzurichten, wozu ih
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Außeansicht der Berkersheimer Volksschule. ISG FFM S7A/1998-19782.](../../images/Volksschul_f3d9a7b3ba517132f03ef3c1261f07be_original.jpg)
 *ca. 1935 — Author: Theodor Derlam | License: Institut für Stadtgeschichte Frankfurt | Description: Außeansicht der Berkersheimer Volksschule. ISG FFM S7A/1998-19782.*
 

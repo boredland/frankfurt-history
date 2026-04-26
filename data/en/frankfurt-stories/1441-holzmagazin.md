@@ -29,6 +29,7 @@ Reiffenstein also sketched the city wall’s easternmost point, the round tower 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, wood depot in Sachsenhausen, tower no. 4, 1877, watercolored pencil drawing, HMF RS0201](../../images/RS0201_png_e95693ab39660d4ba61713970fc17825_original.jpg)
 *1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, wood depot in Sachsenhausen, tower no. 4, 1877, watercolored pencil drawing, HMF RS0201*
 

@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![An der Staufenmauer 5](../../images/An-der-Sta_f5899a91a5e07efbda51a957d7c3453c_original.jpg)
 *Author: Kuropatwa | License: ISG | Description: An der Staufenmauer 5*
 

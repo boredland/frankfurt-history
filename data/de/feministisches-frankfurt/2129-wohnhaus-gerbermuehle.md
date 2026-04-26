@@ -19,6 +19,7 @@ Die Gerbermühle am östlichen Rand Frankfurts hat eine lange Geschichte. Ab 178
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die Gerbermühle bei Frankfurt am Main](../../images/C67624_jpg_28449b3523e91e9b5b0bf3ba7701a4a9_original.jpg)
 *Unbekannt — Author: Ludwig von Roeßler | License: HMF/Gemeinfrei | Description: Die Gerbermühle bei Frankfurt am Main*
 

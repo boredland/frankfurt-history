@@ -24,6 +24,7 @@ It was here that the local Obermain chapters of the National Socialist German Wo
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard showing the building at Danziger Platz 2, headquarter of the local Obermain chap­ters of the Natio­nal Socialist People’s Welfare, the Natio­nal Socialist German Workers’ Party and the Natio­nal Socialist Women’s League](../../images/2fa8f59dac8ea3e0c2d92a0084f503e4_original.jpg)
 *n.D. — Author: unbekannt | License: HMF / Sammlung Church C80397 | Description: Picture postcard showing the building at Danziger Platz 2, headquarter of the local Obermain chap­ters of the Natio­nal Socialist People’s Welfare, the Natio­nal Socialist German Workers’ Party and the Natio­nal Socialist Women’s League*
 

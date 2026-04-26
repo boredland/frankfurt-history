@@ -27,6 +27,7 @@ Construction company: unknown
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Küferstraße](../../images/cf8532fb1595e61f4a8446765391f5c0_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Küferstraße*
 

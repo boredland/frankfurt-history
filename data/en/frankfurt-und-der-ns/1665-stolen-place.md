@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Grüneburgweg 95](../../images/Grueneburg_64ff4bfa7474d83f195b19eed2db0d8e_original.jpg)
 *1970 — Author: Günter Moos | License: ISG | Description: Grüneburgweg 95*
 

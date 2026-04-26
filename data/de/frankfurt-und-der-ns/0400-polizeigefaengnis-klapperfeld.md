@@ -19,6 +19,7 @@ Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Polizeigefängnis Klapperfeld](../../images/567a737a5685d4e4d8aaa0619ebc123f_original.jpg)
 *nach 1945 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 7260 | Description: Foto des Polizeigefängnis Klapperfeld*
 

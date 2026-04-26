@@ -22,6 +22,7 @@ Die Möbelfabrik Georg Vicari & Co. KG mit Sitz in der Straße Alt-Hausen 34, an
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Hausener Obergasse 49](../../images/1b2486ae29e2353c0d0bd5a8a5837027_original.jpg)
 *1934 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-21742 | Description: Zwangsarbeitslager, Hausener Obergasse 49*
 

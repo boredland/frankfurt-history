@@ -20,6 +20,7 @@ Das Video ist im Rahmen des inklusiven Bildungsurlaubs „Deine Stadt und der Na
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/isg_ffm_s7_72c1fa3537580aaff15a9a6a1480e3a9_original.jpg)
 
 

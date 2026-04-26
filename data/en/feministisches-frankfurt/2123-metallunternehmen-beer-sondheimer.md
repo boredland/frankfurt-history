@@ -26,6 +26,7 @@ Tony Sender was a trade unionist, editor, SPD member of the Reichstag, and socia
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/FemFFM_pla_51ec9396b1132f5f5b3e40ef28814ea6_original.jpg)
 *Author: Hannah Rödel | License: HMF/Hannah Rödel*
 

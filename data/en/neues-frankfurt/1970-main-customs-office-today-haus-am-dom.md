@@ -30,6 +30,7 @@ Further reading: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. F
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The main customs office](../../images/isg_ffm_s7_54480369aacc49ad67b5f80badfdc771_original.jpg)
 *1927 — Author: unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: The main customs office*
 

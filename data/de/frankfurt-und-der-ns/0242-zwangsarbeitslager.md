@@ -22,6 +22,7 @@ Die Voigt & Haeffner AG brachte im Hotel Hansa Royal in der Kronprinzenstraße 5
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem "Hansa Royal"](../../images/82b32804865c6f0e4ce25e455211bfa6_original.jpg)
 *vor 1950 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 00535-21 | Description: Bildpostkarte mit dem "Hansa Royal"*
 

@@ -24,6 +24,7 @@ The Heinrich Herget furniture transport company based at Berger Strasse 147 prof
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the vehicle fleet of the Heinrich Herget company](../../images/c7086f7756e58f3a6e3832c1a79f5e88_original.jpg)
 *ca. 1900 — Author: unbekannt | License: HMF, Sammlung Church, C80364 | Description: Picture postcard with the vehicle fleet of the Heinrich Herget company*
 

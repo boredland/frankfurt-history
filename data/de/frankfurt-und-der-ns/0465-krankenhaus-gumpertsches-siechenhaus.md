@@ -22,6 +22,7 @@ Im Röderbergweg 62-64 befand sich ein jüdisches Krankenhaus, das unter dem Nam
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Grundriss des Gumpertz'schen Siechenhauses](../../images/dd9491ad67673148f0cbacbb9e36804a_original.jpg)
 *ca. 1900 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-2 Nr. 767 | Description: Grundriss des Gumpertz'schen Siechenhauses*
 

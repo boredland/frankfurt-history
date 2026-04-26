@@ -24,6 +24,7 @@ Die Schuhfabriken J. & C. A. Schneider hatten ihren Sitz auf einem Werksgelände
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitsbetrieb, Mainzer Landstraße 249-251](../../images/9f14e714ac554e2001fa539fbbb6dac7_original.jpg)
 *1910 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13199 | Description: Zwangsarbeitsbetrieb, Mainzer Landstraße 249-251*
 

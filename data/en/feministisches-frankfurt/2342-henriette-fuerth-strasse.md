@@ -23,6 +23,7 @@ There are around 3,380 official street names in Frankfurt, including streets, sq
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Henriette Fürth Straße](../../images/Henriette%20_24d64160155b455cd416dd7e3e7a9faa_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Henriette Fürth Straße*
 

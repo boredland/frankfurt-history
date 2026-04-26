@@ -27,6 +27,7 @@ Even today, the main cemetery has a memorial to the soldiers killed in putting d
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lithograph: The monument to the "fallen of the people" at the main cemetery. 34 names are engraved on the four sides of the obelisk.](../../images/Route%203%2C%20S_c9183cd1bdc591c5d1a33b68b1bbebf5_original.jpg)
 *1872 — Author: H. Schaefer | License: HMF C 10173 | Description: Lithograph: The monument to the "fallen of the people" at the main cemetery. 34 names are engraved on the four sides of the obelisk.*
 

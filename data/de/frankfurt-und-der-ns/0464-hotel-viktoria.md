@@ -24,6 +24,7 @@ Das Hotel Viktoria gehörte der jüdischen Witwe Therese Oberndorfer, geb. Bing.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Hotel Viktoria](../../images/8b3f34644789c19a1326f608a64680dc_original.jpg)
 *1982 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2013-2261 | Description: Foto des Hotel Viktoria*
 

@@ -23,6 +23,7 @@ Katharina Elisabeth Goethe, his mother, lived here for many decades. She turned 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/C09292%2B001_2149fbfb5e78a840b6d35a92f36b4f6a_original.jpg)
 *Author: Carl Theodor Reifenstein | License: HMF*
 

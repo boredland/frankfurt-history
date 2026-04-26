@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kaiserstraße 37](../../images/Kaiserstra_de17b32ece81385080173e900ad92bfb_original.jpg)
 *vor 1944 — Author: Postkarte | License: HMF | Description: Kaiserstraße 37*
 

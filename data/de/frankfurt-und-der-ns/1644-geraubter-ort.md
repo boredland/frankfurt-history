@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Feldbergstraße 21](../../images/Feldbergst_491aa4dc87b9044c8bc4eea4fd0df84f_original.jpg)
 *1891 — Author: Keller | License: ISG | Description: Feldbergstraße 21*
 

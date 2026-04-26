@@ -25,6 +25,7 @@ Since 1998, the official name of the square on the corner of Lahn- and Kriegkstr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Commemorative plaque on Golub-Lebedenko Square in German.](../../images/0dcbcae5595b3f7b951239e9b13f3106_original.jpg)
 *2025 — Author: Thomas Altmeyer | License: gemeinfrei | Description: Commemorative plaque on Golub-Lebedenko Square in German.*
 

@@ -33,6 +33,7 @@ maybrief 52. Frankfurt am Main 2019, S. 4-6.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick auf den kubischen Bau mit heller Fassade und Flachdach. Rechts unten der Eingang mit fünf stahl-glasverkleideten Stützen.](../../images/isg_ffm_s7_142146efa9b73c8f6beed1012f7f3018_original.jpg)
 *1932 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Blick auf den kubischen Bau mit heller Fassade und Flachdach. Rechts unten der Eingang mit fünf stahl-glasverkleideten Stützen.*
 

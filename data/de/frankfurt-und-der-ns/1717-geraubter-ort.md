@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Leipziger Straße 41](../../images/Leipziger-_aa75e94f009a245a27d8c82453e1f8ee_original.jpg)
 *1906 — Author: unbekannt | License: ISG | Description: Leipziger Straße 41*
 

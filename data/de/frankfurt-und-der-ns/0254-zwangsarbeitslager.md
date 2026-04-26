@@ -24,6 +24,7 @@ Hier hatte die Firma Milchversorgung Frankfurt am Main einen von zwei Firmensitz
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Briefkopf der  "Frankfurter Central Dampf Molkerei Eier-Großhandlung"](../../images/b2c37e8d83853f4573b361f3ddacbfc3_original.jpg)
 *1910 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A 1998-29902 | Description: Briefkopf der  "Frankfurter Central Dampf Molkerei Eier-Großhandlung"*
 

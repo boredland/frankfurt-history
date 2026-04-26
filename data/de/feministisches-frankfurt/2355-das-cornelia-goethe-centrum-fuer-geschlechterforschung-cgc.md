@@ -26,6 +26,7 @@ Um die internationale Zusammenarbeit zu fördern, besetzt das Centrum regelmäß
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die geschäftsführende Direktorin des Cornelia Goethe Centrums, Helma Lutz und Angela Davis bei der Pressekonferenz zur Inauguration der Angela-Davis Gastprofessur.](../../images/Angela%20Dav_37f299f19d612ab86bc268e7a93f2f79_original.jpg)
 *2013 — Author: Anja Feix | License: Anja Feix | Description: Die geschäftsführende Direktorin des Cornelia Goethe Centrums, Helma Lutz und Angela Davis bei der Pressekonferenz zur Inauguration der Angela-Davis Gastprofessur.*
 

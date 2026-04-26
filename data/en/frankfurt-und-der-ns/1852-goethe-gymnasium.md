@@ -21,6 +21,7 @@ In the 1920s, many Jewish boys attended Goethe-Gymnasium in Frankfurt, a prestig
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Class photo from the Goethe-Gymnasium grammar school circa 1925–1933. This photo shows Hans Bauer and his classmates.](../../images/Schulklass_4f38f6622b04ab4cd6de939d46642798_original.jpg)
 *around 1925-1933 — Author: Unbekannt | License: © Dieses Bild wurde mit der freundlichen Erlaubnis von Jon Bauer veröffentlicht. Alle Rechte bleiben beim Urheber. | Description: Class photo from the Goethe-Gymnasium grammar school circa 1925–1933. This photo shows Hans Bauer and his classmates.*
 

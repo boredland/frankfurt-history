@@ -21,6 +21,7 @@ The Staufermauer wall running along the Fahrgasse road in Frankfurt is one of th
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![A piece of the 12th-century Staufermauer city walls. Surviving parts of the wall can still be seen along Fahrgasse in Frankfurt.](../../images/Staufermau_b0c48c0ec79c9efb2f9134ef90252a89_original.jpg)
 *2024 — Author: Aliah Habl Corona | License: gemeinfrei | Description: A piece of the 12th-century Staufermauer city walls. Surviving parts of the wall can still be seen along Fahrgasse in Frankfurt.*
 

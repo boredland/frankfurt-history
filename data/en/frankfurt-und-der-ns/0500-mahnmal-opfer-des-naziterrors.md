@@ -25,6 +25,7 @@ There has been an official memorial to the National Socialist crimes in Frankfur
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Drawing of the memorial to the Victims of Nazi Terror](../../images/152f6a3905c2c8cef236c619820a58c4_original.jpg)
 *Description: Drawing of the memorial to the Victims of Nazi Terror*
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Westendstraße 28](../../images/Westendstr_e12d21e0826c129e6280d1f614a234f3_original.jpg)
 *before 1950 — Author: Postkartensammlung | License: ISG | Description: Westendstraße 28*
 

@@ -30,6 +30,7 @@ The Bockenheim Synagogue in Schloßstrasse 3-5 was constructed around 1873–187
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schloßstraße](../../images/55bfacfbd8ed5fd919360f87019dbb8c_original.jpg)
 *before 1911 — Author: Hermann Bückling | License: HMF, C20438a | Description: Schloßstraße*
 

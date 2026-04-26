@@ -21,6 +21,7 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel am Geschichtsort Adlerwerke](../../images/isg_gt_zwa_87d6cacbf76226411ec3a67b2faeb9f3_original.jpg)
 *Author: © Institut für Stadtgeschichte | Description: Gedenktafel am Geschichtsort Adlerwerke*
 

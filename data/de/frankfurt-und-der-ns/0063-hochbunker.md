@@ -27,6 +27,7 @@ Bauunternehmen: Hochtief AG.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers im Zeilweg](../../images/f1a227c7432217ca163db48f639b4d9d_original.jpg)
 *1998 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers im Zeilweg*
 

@@ -27,6 +27,7 @@ Bauunternehmen: Hochtief AG.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Brühlstraße](../../images/7e5e3d672454a3ed77d15f9ac29c5e9a_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Brühlstraße*
 

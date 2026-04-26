@@ -27,6 +27,7 @@ Construction company: Robert Kögel
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Fabriciusstraße](../../images/5a9ba8799c7b50408c579ad24e8dec7d_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Fabriciusstraße*
 

@@ -25,6 +25,7 @@ This was the location of the “University Institute for Hereditary Biology and 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the Rhine-Main Labour Office](../../images/e42816f8095a5c5003d92f45d2ae7c76_original.jpg)
 *ca. 1933 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-130 | Description: Photo of the Rhine-Main Labour Office*
 

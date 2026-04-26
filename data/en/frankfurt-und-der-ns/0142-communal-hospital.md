@@ -24,6 +24,7 @@ This was the location of the Municipal Hospital. From 1935, medical personnel he
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Municipal hospital](../../images/d3d455b64dbae977727e9fcb05373ffa_original.jpg)
 *1908 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-22823 | Description: Municipal hospital*
 

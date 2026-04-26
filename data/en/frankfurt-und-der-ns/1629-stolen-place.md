@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ebersheimstraße 5](../../images/Ebersheims_1fa585c183742bf028a3223f1856da7c_original.jpg)
 *ca. 1950 — Author: unbekannt | License: ISG | Description: Ebersheimstraße 5*
 

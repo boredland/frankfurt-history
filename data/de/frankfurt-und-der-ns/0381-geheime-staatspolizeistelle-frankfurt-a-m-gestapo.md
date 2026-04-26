@@ -26,6 +26,7 @@ Während sie in der Bürgerstraße residierte, führte die Gestapo im Oktober 19
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Leider fehlt hier ein Bild. Dafür kann es verschiedene Gründe geben, z. B. wurde von der Person oder de Ort kein Bild zur Verfügung gestellt. Wenn Sie einen Vorschlag für ein Bild haben, freuen wir uns über eine E-Mail an frankfurthistory@stadt-frankfurt.de.](../../images/Hier%20fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
 *Author: HMF | License: gemeinfrei | Description: Leider fehlt hier ein Bild. Dafür kann es verschiedene Gründe geben, z. B. wurde von der Person oder de Ort kein Bild zur Verfügung gestellt. Wenn Sie einen Vorschlag für ein Bild haben, freuen wir uns über eine E-Mail an frankfurthistory@stadt-frankfurt.de.*
 

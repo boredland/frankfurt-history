@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kronberger Straße 33](../../images/Kronberger_042d11f4d13c81e85d4a2cccc1ae049a_original.jpg)
 *ca. 1900 — Author: unbekannt | License: ISG | Description: Kronberger Straße 33*
 

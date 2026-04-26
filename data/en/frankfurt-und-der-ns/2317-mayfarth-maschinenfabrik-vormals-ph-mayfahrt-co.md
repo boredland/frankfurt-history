@@ -47,6 +47,7 @@ After evaluating sources in the Hesse main state archive, Lutz Becht commented i
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the Mayfarth plant in the Mainkur](../../images/574afe1affd94c4fbc1eb183542f0187_original.jpg)
 *n.d. — Author: unbekannt | License: HMF / Sammlung Church C80387 | Description: Picture postcard with the Mayfarth plant in the Mainkur*
 

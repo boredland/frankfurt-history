@@ -25,6 +25,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ehepaar Kaltwasser; S-004247](../../images/Kaltwasser_136118cb0b672515e5a1c173186ccea0_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Ehepaar Kaltwasser; S-004247*
 

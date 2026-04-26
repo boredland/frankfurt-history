@@ -23,6 +23,7 @@ Als Frau blieb ihr der Zugang zu universitärer Forschung und naturwissenschaftl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Senckenbergische Krankenhospital vom Botanischen Garten aus](../../images/C03271%2B001_9db07b548e5dfee205d6607155298c8f_original.jpg)
 *1866 — Author: Carl Freidrich Mylius | License: HMF/Gemeinfrei | Description: Das Senckenbergische Krankenhospital vom Botanischen Garten aus*
 

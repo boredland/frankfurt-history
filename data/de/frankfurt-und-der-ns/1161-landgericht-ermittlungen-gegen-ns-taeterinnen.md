@@ -21,6 +21,7 @@ Hier finden Sie verschiedene Ermittlungsverfahren.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Landgericht in Frankfurt heute](../../images/Landgerich_0237211f8beebced2c5519304e5d6c6b_original.jpg)
 *2025 — Author: Jasmin Klotz | License: gemeinfrei | Description: Das Landgericht in Frankfurt heute*
 

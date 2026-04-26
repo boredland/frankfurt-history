@@ -23,6 +23,7 @@ Die Lurgi Werkstätten GmbH brachte auf ihrem Werksgelände in der Mousonstraße
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Gebäudes der Lurgi Werkstätten GmbH, die auf ihrem Werksgelände ein Zwangsarbeitslager betrieb](../../images/ddb3f71c2e1766b5d85109f1678c4686_original.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-30046 | Description: Foto eines Gebäudes der Lurgi Werkstätten GmbH, die auf ihrem Werksgelände ein Zwangsarbeitslager betrieb*
 

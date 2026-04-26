@@ -27,6 +27,7 @@ Das Steinerne Haus diente in früheren Zeiten als Patrizierwohnsitz und Messequa
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto: Carl Friedrich Mylius, 1864, Historisches Museum Frankfurt Ph00021](../../images/01%20Steiner_d480780aed11df43e825b635091f0098_original.jpg)
 *1864 — Author: Carl Friedrich Mylius | License: ISG | Description: Foto: Carl Friedrich Mylius, 1864, Historisches Museum Frankfurt Ph00021*
 

@@ -27,6 +27,7 @@ The memorial was erected by the "Initiative Mahnmal Homosexuellenverfolgung e.V.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The Frankfurt Angel in memory of the suffering of homosexuals during the Nazi regime](../../images/isg_gt_mah_2c91545bec59e34fda5e9bad797fd830_original.jpg)
 *Author: © Institut für Stadtgeschichte | Description: The Frankfurt Angel in memory of the suffering of homosexuals during the Nazi regime*
 

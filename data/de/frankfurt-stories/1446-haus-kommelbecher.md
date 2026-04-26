@@ -28,6 +28,7 @@ Im Zweiten Weltkrieg wurde die Graubengasse zerstört, seit 1954 steht hier die 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Graubengasse 18, Haus Kommelbacher, Raum im Erdgeschoss, 1865, aquarellierte Bleistiftzeichnung, HMF R0457](../../images/R0457_png_f31759e138adef4bc95a1a0b21164109_original.jpg)
 *1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Graubengasse 18, Haus Kommelbacher, Raum im Erdgeschoss, 1865, aquarellierte Bleistiftzeichnung, HMF R0457*
 

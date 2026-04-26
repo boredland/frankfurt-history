@@ -24,6 +24,7 @@ Hier war die Ortsgruppe Obermain der Nationalsozialistischen Volkswohlfahrt e.V.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Gebäude Danziger Platz 2, Sitz der Orts­gruppen Obermain der Natio­nal­so­zialis­ti­schen Volks­wohl­fahrt e.V. (NSV), der Natio­nal­so­zialis­ti­schen Deut­schen Arbei­ter­par­tei (NSDAP) und der Frau­en­schaft der NSDAP](../../images/2fa8f59dac8ea3e0c2d92a0084f503e4_original.jpg)
 *o.D. — Author: unbekannt | License: HMF / Sammlung Church C80397 | Description: Bildpostkarte mit dem Gebäude Danziger Platz 2, Sitz der Orts­gruppen Obermain der Natio­nal­so­zialis­ti­schen Volks­wohl­fahrt e.V. (NSV), der Natio­nal­so­zialis­ti­schen Deut­schen Arbei­ter­par­tei (NSDAP) und der Frau­en­schaft der NSDAP*
 

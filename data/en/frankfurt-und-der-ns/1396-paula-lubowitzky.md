@@ -24,6 +24,7 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein for Paula Lubowitzky](../../images/Paula%20Lubo_e50909bd13e4089d0b1bd04c49ce3e5b_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Paula Lubowitzky*
 

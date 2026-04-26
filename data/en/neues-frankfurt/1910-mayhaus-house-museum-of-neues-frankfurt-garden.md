@@ -36,6 +36,7 @@ Christina Treutlein, Philipp Sturm (eds.), MAYHAUS. Das Musterhaus des Neuen Fra
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Street view of the mayhaus, Römerstadt housing estate.](../../images/mayhaus_Fo_247f172a1fb6f11ba0e55ce0ebcbb123_original.jpg)
 *2013 — Author: Reinhard Wegmann | License: ernst-may-gesellschaft e.V. | Description: Street view of the mayhaus, Römerstadt housing estate.*
 

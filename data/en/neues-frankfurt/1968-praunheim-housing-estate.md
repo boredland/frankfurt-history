@@ -34,6 +34,7 @@ DW Dreysse: May-Siedlungen. Architekturführer durch zehn Siedlungen des Neuen F
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of the Praunheim housing estate.](../../images/isg_ffm_s7_4bdf598bb20048651c6d98eb4c9dd5b5_original.jpg)
 *around 1935 — Author: unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Aerial view of the Praunheim housing estate.*
 

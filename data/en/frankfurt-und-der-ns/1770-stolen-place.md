@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stettenstraße 42](../../images/Stettenstr_f8679fd8b43e78b009ac151449760184_original.jpg)
 *1933/34 — Author: Heinrich Jourdan | License: ISG | Description: Stettenstraße 42*
 

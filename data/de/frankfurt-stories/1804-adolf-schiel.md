@@ -28,6 +28,7 @@ Schiel geriet wenige Tage nach Beginn der Kämpfe in britische Gefangenschaft. N
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Adolf Schiel (7. von links) mit deutschen Offizieren im Südafrikanischen Krieg, 1899.](../../images/schiel_png_868e094f5a938ec51a73a8e54d40e05e_original.jpg)
 *1899 — License: Adolf Schiel. 23 Jahre Sturm und Sonnenschein in Südafrika. Leipzig: Brockhaus, 1902, S. 384. | Description: Adolf Schiel (7. von links) mit deutschen Offizieren im Südafrikanischen Krieg, 1899.*
 

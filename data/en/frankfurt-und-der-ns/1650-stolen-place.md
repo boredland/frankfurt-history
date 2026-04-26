@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![François-Mitterrand-Platz 27](../../images/Fran%C3%A7ois-_057a8c80e6b2a3520ccd870ef859232d_original.jpg)
 *1933 — Author: Hannah Reeck | License: ISG | Description: François-Mitterrand-Platz 27*
 

@@ -22,6 +22,7 @@ Die Spezialfabrik für elektrische Starkstromapparate Voigt & Haeffner hatte ihr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Luftbild der Industrie- und Firmenanlage der Firma Voigt &amp; Haeffner](../../images/2fd17422f42dba499a178fb0e386bfbc_original.jpg)
 *unbekannt — Author: Unbekannt | License: HMF, Sammlung Church, C80393 | Description: Bildpostkarte mit Luftbild der Industrie- und Firmenanlage der Firma Voigt &amp; Haeffner*
 

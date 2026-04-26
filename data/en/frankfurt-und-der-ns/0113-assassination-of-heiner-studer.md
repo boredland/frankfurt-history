@@ -26,6 +26,7 @@ On 19 February 1933 at the Bockenheimer Warte tower, armed SA members lay in wai
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/20ec5b0caa2b41b38177c4980698de2f_original.jpg)
 *Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 

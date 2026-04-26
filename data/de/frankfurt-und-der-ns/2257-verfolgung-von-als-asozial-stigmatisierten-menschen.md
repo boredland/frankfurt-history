@@ -26,6 +26,7 @@ Unter den in der „Erbkartei“ erfassten Personen befanden sich auch viele als
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![In dem Gebäude des Stadtgesundheitsamts befand sich auch dessen Abteilung für „Erb- und Rassenpflege“. Foto: HMF.](../../images/171365433b_a33d3d65be335e0328fe688fdc3a7810_original.jpg)
 *ca. 1936 — Author: Max Göllner | License: HMF, NS1366 | Description: In dem Gebäude des Stadtgesundheitsamts befand sich auch dessen Abteilung für „Erb- und Rassenpflege“. Foto: HMF.*
 

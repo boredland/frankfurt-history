@@ -34,6 +34,7 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Children’s observation ward](../../images/Kinderbeob_c3f9156494f25bf30a11aa1b0dd59ff6_original.jpg)
 *around 1929 — Author: Grete Leistikow | License: Das Neue Frankfurt, 1931, Heft 4/5, S. 82 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Children’s observation ward*
 

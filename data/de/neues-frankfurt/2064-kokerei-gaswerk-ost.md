@@ -33,6 +33,7 @@ Elisa Lecointe: Adolf Meyer und Heinrich Helbing. Funktionsarchitektur für das 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kohlensilo der Kokerei im Gaswerk Ost](../../images/isg_ffm_a__7abfdd947d03b3dadcb47f3cc0a8ad08_original.jpg)
 *um 1930 — Author: Max Göllner | License: Institut für Stadtgeschichte, Frankfurt am Main | Description: Kohlensilo der Kokerei im Gaswerk Ost*
 

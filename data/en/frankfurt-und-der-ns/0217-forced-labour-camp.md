@@ -24,6 +24,7 @@ In 1942/43, the German Reich Post Office operated a forced labour camp at Grosse
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Große Gallusstraße 12](../../images/cfb2f7da785535c2f542f51c5b5257a9_original.jpg)
 *unknown — Author: Repro Schirg | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-8414 | Description: Forced labor camp, Große Gallusstraße 12*
 

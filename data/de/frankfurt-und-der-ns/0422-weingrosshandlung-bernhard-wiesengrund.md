@@ -26,6 +26,7 @@ In der Schönen Aussicht 7 befand sich bis 1939 die Weingroßhandlung der Famili
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Weingroßhandlung Bernhard Wiesengrund, Schöne Aussicht 7](../../images/C28162_jpg_785c65f8c52678c8aaef38d2ed4e3170_original.jpg)
 *1930 — Author: Leonhard Kleemann | License: HMF, C28162 | Description: Weingroßhandlung Bernhard Wiesengrund, Schöne Aussicht 7*
 

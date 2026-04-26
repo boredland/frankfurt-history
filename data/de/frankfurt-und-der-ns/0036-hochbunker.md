@@ -27,6 +27,7 @@ Bauunternehmen: unbekannt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Europa-Allee](../../images/6763b0112cc44b4a2a955faf401c6246_original.jpg)
 *1998 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Europa-Allee*
 

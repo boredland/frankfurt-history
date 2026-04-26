@@ -25,6 +25,7 @@ Auf Empfehlung von Magnus Hirschfeld wandte sich die trans Frau Hertha Wind ca. 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![In der Kronberger Straße 5 steht heute ein Nachrkiegsbau.](../../images/Kronberger_1c6ff37fb0bd5358adcda27bd5d32b25_original.jpg)
 *2025 — Author: Jasmin Klotz | License: gemeinfrei | Description: In der Kronberger Straße 5 steht heute ein Nachrkiegsbau.*
 

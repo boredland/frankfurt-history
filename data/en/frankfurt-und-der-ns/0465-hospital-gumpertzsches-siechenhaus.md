@@ -22,6 +22,7 @@ Röderbergweg 62–64 was the site of a Jewish hospital known as the Gumpertz’
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Floor plan of the hospital "Gumpertz'sche Siechenhaus" (Gumpertz's infirmary)](../../images/dd9491ad67673148f0cbacbb9e36804a_original.jpg)
 *ca. 1900 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-2 Nr. 767 | Description: Floor plan of the hospital "Gumpertz'sche Siechenhaus" (Gumpertz's infirmary)*
 

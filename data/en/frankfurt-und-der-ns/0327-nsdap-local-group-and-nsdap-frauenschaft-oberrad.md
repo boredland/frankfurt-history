@@ -24,6 +24,7 @@ This was the location of the local Oberrad branch of the National Socialist Germ
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the offices of the NSDAP local group and NSDAP Women's League Oberrad](../../images/dccf594676626b1298bf413978d008de_original.jpg)
 *1934 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 2006-1 | Description: Photo of the offices of the NSDAP local group and NSDAP Women's League Oberrad*
 

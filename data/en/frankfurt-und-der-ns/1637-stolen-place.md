@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Fahrgasse 150](../../images/Fahrgasse-_08b6f8d38a3126ae7859799ad511f255_original.jpg)
 *ca. 1930 — Author: unbekannt | License: ISG | Description: Fahrgasse 150*
 

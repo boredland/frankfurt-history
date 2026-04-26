@@ -27,6 +27,7 @@ Folgend findet du einen fiktiven Monologe von Johannes Brahms über seine Freund
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Poträt Clara Schumann](../../images/Schumann_j_a53a271a238b48666f912a03f2044088_original.jpg)
 *1857 — Author: Franz Hanfsteangl | License: Arhiv Frauen und Musik/Gemeinfrei | Description: Poträt Clara Schumann*
 

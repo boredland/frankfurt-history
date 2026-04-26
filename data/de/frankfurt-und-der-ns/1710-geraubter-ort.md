@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Landgrafenstraße 28](../../images/Landgrafen_bdb0dd1a3024c3fce5a861d8ab08837f_original.jpg)
 *1906 — Author: unbekannt | License: ISG | Description: Landgrafenstraße 28*
 

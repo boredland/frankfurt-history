@@ -24,6 +24,7 @@ Hier war der Sitz des Vereins für jüdische Krankenpflegerinnen. Es handelte si
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Verein für jüdische Krankenpflegerinnen, Bornheimer Landwehr 85](../../images/815aa0eb1a6a26e7db878b8326f66fb2_original.jpg)
 *unbekannt — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-26866 | Description: Verein für jüdische Krankenpflegerinnen, Bornheimer Landwehr 85*
 

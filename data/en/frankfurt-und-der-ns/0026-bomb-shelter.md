@@ -26,6 +26,7 @@ This bomb shelter offered protection to 878 persons on four floors. The bomb she
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Eberstadtstraße](../../images/b8c1cdf597db72d3585970d67bbaa276_original.jpg)
 *n.d. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Eberstadtstraße*
 

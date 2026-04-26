@@ -27,6 +27,7 @@ It was stonecutters of the “Sinti Workshop” in Albersweiler, Rhineland-Palat
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial plaque for Sinti and Roma at the main cemetery](../../images/030-Roma-S_12dd7d2157abf860dedc009048495615_original.jpg)
 *2013 — Author: Daniel Ebert | License: Institut für Stadtgeschichte Frankfurt | Description: Memorial plaque for Sinti and Roma at the main cemetery*
 

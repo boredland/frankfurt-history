@@ -33,12 +33,14 @@ After the war, all the remains were ruthlessly removed, which I find very sad, a
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The Unterlindau 23 today](../../images/Unterlinda_959fa73e4dfda49c9ccfd0efe3392158_original.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: The Unterlindau 23 today*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memory Plaque for Jakob Horovitz](../../images/Unterlinda_8130c2a46e31bdff6653d945ecda8909_original.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Memory Plaque for Jakob Horovitz*
 

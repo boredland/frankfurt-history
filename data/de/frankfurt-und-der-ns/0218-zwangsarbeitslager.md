@@ -22,6 +22,7 @@ Hier hatte die Frankfurter Uniform-Schneiderei Fritz Kamp ihren Sitz (heute: San
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Sandgasse 6](../../images/13f5065ebe88e147bd3bd3776cc44a55_original.jpg)
 *ca. 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-3896 | Description: Zwangsarbeitslager, Sandgasse 6*
 

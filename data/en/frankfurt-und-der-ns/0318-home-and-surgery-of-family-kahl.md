@@ -23,6 +23,7 @@ Margarete and Fritz Kahl, who rescued Jews, lived in this house. They took the r
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The house at Blanchardstraße 22 was the home and practice of the Kahl family](../../images/a2ed48fa1569b474707ab54d31a1d903_original.jpg)
 *Description: The house at Blanchardstraße 22 was the home and practice of the Kahl family*
 

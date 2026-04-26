@@ -24,6 +24,7 @@ The Arbeitsgemeinschaft des Frankfurter Kohlenhandels (Working Group of the Fran
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with exterior view of the pub “Zum Riederwald”](../../images/24f51be28c1571bc5a6a5cc648d3ee1e_original.jpg)
 *1925 — Author: unbekannt | License: HMF / Sammlung Church C80398 | Description: Picture postcard with exterior view of the pub “Zum Riederwald”*
 

@@ -24,6 +24,7 @@ The Reich Federation of German Civil Servants was founded on 15 October 1933 to 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the offices of the Gauwaltung of the Reich Federation of German Civil Servants](../../images/3cbb4c8b2edf85e0edf50d182ee67fb7_original.jpg)
 *ca. 1929 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-7973 | Description: Photo of the offices of the Gauwaltung of the Reich Federation of German Civil Servants*
 

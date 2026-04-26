@@ -27,6 +27,7 @@ Architects: Franz Heberer, Franz von Hoven, Karl Leonhard
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Boat parade for the inauguration of the new “Old Bridge”](../../images/isg_ffm_s7_ca8c761f9bfef60cb868aae3c5461880_original.jpg)
 *15-8-1926 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Boat parade for the inauguration of the new “Old Bridge”*
 

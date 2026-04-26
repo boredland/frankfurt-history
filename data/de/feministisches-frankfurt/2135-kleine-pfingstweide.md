@@ -21,6 +21,7 @@ Die ehemalige Kleine Pfingstweide war 1848 Schauplatz einer Massenversammlung, b
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die Pfingstweide](../../images/C41309_jpg_3262895c661e19667463b811fdd692fd_original.jpg)
 *um 1850 — Author: Johann Andreas Benjamin Reges | License: HMF/Gemeinfrei | Description: Die Pfingstweide*
 

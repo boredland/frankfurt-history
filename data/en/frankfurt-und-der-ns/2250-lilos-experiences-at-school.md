@@ -29,6 +29,7 @@ If you’d like to learn more about Lilo’s life, have a look at the other plac
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lilo on her first day of school](../../images/G%C3%BC_05_jpg_b98ff4d64beb16b9884f8b3d0dee04ab_original.jpg)
 *1939 — Author: unbekannt | License: Privat, Lilo Günzler: Endlich Reden, Henrich Editionen Frankfurt | Description: Lilo on her first day of school*
 

@@ -24,6 +24,7 @@ In der Kronprinzenstraße 24 (heute: Münchener Straße) befand sich das Reise- 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Reise- und Veranstaltungsbüros der NS Gemeinschaft Kraft durch Freude (KdF)](../../images/87ab3b4c8f8dac5931883f022cd76817_original.jpg)
 *vor 1934 — Author: Sepp Jäger | License: Hessisches Wirtschaftsarchiv e. V., Darmstadt jae_0000711 | Description: Foto des Reise- und Veranstaltungsbüros der NS Gemeinschaft Kraft durch Freude (KdF)*
 

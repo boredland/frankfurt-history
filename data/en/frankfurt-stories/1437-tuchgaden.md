@@ -25,6 +25,7 @@ The area between the Markt and Bendergasse lanes was densely packed with medieva
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Tuchgaden to the north, 1871, watercolored pencil drawing, HMF R0579](../../images/R0579_png_a79a334426484a9c5fae2a5a0ccfd17d_original.jpg)
 *1871 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Tuchgaden to the north, 1871, watercolored pencil drawing, HMF R0579*
 

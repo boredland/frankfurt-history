@@ -28,6 +28,7 @@ In 1838, to replace the old synagogue from 1730, a new synagogue was inaugurated
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with Niddapartie and synagogue in Rödelheim](../../images/C80402_jpg_42d755b38db22ab2ab852a16d9ee7bef_original.jpg)
 *1927 — Author: unbekannt | License: HMF, Sammlung Church, C80402 | Description: Picture postcard with Niddapartie and synagogue in Rödelheim*
 

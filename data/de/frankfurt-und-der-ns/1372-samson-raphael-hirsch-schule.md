@@ -20,6 +20,7 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/isg_ffm_s7_ffaba6401ddc08c70d39dd7714b8a144_original.jpg)
 
 ![Postkarte "Was geht mich der 8. Mai an?"](../../images/f967409822649b04ce90c064391de946_original.jpg)

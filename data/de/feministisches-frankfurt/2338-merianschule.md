@@ -24,6 +24,7 @@ Maria Sibylla Merian war eine Frankfurter Künstlerin und Naturforscherin, die �
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Merianschule](../../images/Merianschu_074d7550d3a9ee5b11ca58763ac75b9f_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Merianschule*
 

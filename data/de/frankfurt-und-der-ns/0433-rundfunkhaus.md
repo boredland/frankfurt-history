@@ -24,6 +24,7 @@ Nach der Machtübernahme der Nationalsozialisten 1933 wurde der Frankfurter Rund
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte „Frankfurt a. M. – Rundfunkhaus“, Frankfurt](../../images/3cfc36585c20dcd5f6cccbc2cccb4d8e_original.jpg)
 *nach 1933 — Author: unbekannt | License: HMF / Sammlung Church | Description: Bildpostkarte „Frankfurt a. M. – Rundfunkhaus“, Frankfurt*
 

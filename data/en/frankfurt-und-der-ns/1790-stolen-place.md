@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zeil 92](../../images/Zeil-92_jp_dfcb678a15e0c58b58ad80e6e94677b8_original.jpg)
 *before 1944 — Author: Leonhard Kleemann | License: HMF | Description: Zeil 92*
 

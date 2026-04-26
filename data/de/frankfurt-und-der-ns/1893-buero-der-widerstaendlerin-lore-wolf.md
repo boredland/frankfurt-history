@@ -26,6 +26,7 @@ Im August 1934 wurde die Gruppe verraten und viele Mitglieder wurden verhaftet. 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![„Proletarisches Volks-Gericht“ (Titelseite)](../../images/Neuhofstra_51cc44d1f449b9882a65633106e75b43_original.jpg)
 *License: HHStAW, Best. 461 Nr. 15199/1 | Description: „Proletarisches Volks-Gericht“ (Titelseite)*
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Holzhausenstraße 25](../../images/Holzhausen_98a18d3d8df2388b64813e63cf3063c2_original.jpg)
 *1983 — Author: Jutta Hofmann | License: ISG | Description: Holzhausenstraße 25*
 

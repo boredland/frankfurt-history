@@ -23,6 +23,7 @@ As a Jewish artist and art historian, Erna Auerbach fled from the Nazis into exi
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/C25446_001_391a38abf0f300f18a5d13027661e8c4_original.jpg)
 *Author: J.B. Ciolina | License: HMF*
 

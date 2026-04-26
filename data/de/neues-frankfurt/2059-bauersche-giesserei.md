@@ -25,6 +25,7 @@ Quelle: Petra Eisele, Annette Ludwig, Isabel Naegele (Hrsg.): Futura. Die Schrif
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht des Firmengebäudes der Bauerschen Gießerei.](../../images/isg_ffm_s7_4349503bb32915bd6dfeda5fb274ce36_original.jpg)
 *1926 — Author: unbekannt / unknown | License: Institut für Stadtgeschichte, Frankfurt am Main | Description: Ansicht des Firmengebäudes der Bauerschen Gießerei.*
 

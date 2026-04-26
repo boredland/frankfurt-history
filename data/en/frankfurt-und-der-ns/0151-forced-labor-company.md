@@ -24,6 +24,7 @@ On the premises of the Gaswerk Ost (east side gas works) located at this site, t
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the premises of Messer &amp; Co., where a barracks camp for forced labourers was operated](../../images/da795a031957adb5922c006fddcfdb7d_original.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13989 | Description: Photo of the premises of Messer &amp; Co., where a barracks camp for forced labourers was operated*
 

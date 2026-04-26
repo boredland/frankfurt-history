@@ -24,6 +24,7 @@ In 1850, the ‘Anstalt zur Nachweisung von Arbeit’, a charitable organisation
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Advice center of the Frankfurt Emigration Association (Zeil)](../../images/isg_ffm_s7_17939a059d7994f66f0a082b8a2c22d0_original.jpg)
 *License: ISG | Description: Advice center of the Frankfurt Emigration Association (Zeil)*
 

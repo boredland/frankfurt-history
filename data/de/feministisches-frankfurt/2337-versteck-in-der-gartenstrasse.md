@@ -25,6 +25,7 @@ Nach 1945 eröffnete Sandels in Heidelberg erneut eine Kinderarztpraxis, unterst
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftaufnahme Sachsenhausen: Gartenstraße 51 und Kinderhaus](../../images/Sandels_PO_b5fe3513916e03dad912c1ea476ee3c2_original.jpg)
 *um 1915 — Author: Unbekannt | License: Homepage "Platz der vergessenen Kinder" | Description: Luftaufnahme Sachsenhausen: Gartenstraße 51 und Kinderhaus*
 

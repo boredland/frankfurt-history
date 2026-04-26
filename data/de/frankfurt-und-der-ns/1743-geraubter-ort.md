@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ostbahnhofstraße 9](../../images/Ostbahnhof_e2d28269f43f4f73b9ffcf2ef56d64bf_original.jpg)
 *2016 — Author: Martin Starl | License: ISG | Description: Ostbahnhofstraße 9*
 

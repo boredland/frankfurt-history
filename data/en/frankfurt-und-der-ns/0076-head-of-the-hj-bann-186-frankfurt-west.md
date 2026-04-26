@@ -24,6 +24,7 @@ The Frankfurt chapter of the Hitler Youth organization was founded in 1927. The 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the headquarters of the leadership of the HJ-Bann 186 (Frankfurt-West)](../../images/d0278c1de76097b8d1631f40b10788a7_original.jpg)
 *1863 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13074 | Description: Photo of the headquarters of the leadership of the HJ-Bann 186 (Frankfurt-West)*
 

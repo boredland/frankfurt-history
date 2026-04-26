@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Oberlindau 1](../../images/Oberlindau_6178d42979ad6932cbe1d49c7d04cf04_original.jpg)
 *n. d. — Author: unbekannt | License: HMF | Description: Oberlindau 1*
 

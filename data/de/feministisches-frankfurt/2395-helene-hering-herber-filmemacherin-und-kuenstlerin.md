@@ -25,6 +25,7 @@ Helene Hering-Herber lebte und arbeitete in verschiedenen Ländern, darunter Fra
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Portrait der Filmemacherin und Künstlerin Helene Hering-HerberQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber](../../images/Portrait%20H_aa1c865582c90d12163d314390f1c0c0_original.jpg)
 *nicht feststellbar — Author: Barbara T. Pohle | License: Helene Hering-Herber | Description: Portrait der Filmemacherin und Künstlerin Helene Hering-HerberQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Helene Hering-Herber*
 

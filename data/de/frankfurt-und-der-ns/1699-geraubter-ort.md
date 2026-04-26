@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kettenhofweg 27](../../images/Kettenhofw_c0509c9e6ea9e82246bb4d96707ae943_original.jpg)
 *1880 — Author: unbekannt | License: ISG | Description: Kettenhofweg 27*
 

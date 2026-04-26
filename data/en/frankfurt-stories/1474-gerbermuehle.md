@@ -30,6 +30,7 @@ The mill building was renovated in 1904. In the post-war years, it was rebuilt i
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, view of the tanner's mill, 19th century, aquarelle, HMF C29583](../../images/C29583_png_cb9b4fc7353a3e5f611d8c3ec6ae4a7f_original.jpg)
 *19th century — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view of the tanner's mill, 19th century, aquarelle, HMF C29583*
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kaiserstraße 44](../../images/Kaiserstra_134a766e407bd4bc4c1725b3739c0346_original.jpg)
 *ca. 1907 — Author: unbekannt | License: ISG | Description: Kaiserstraße 44*
 

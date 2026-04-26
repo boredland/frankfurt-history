@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gutleutstraße 40](../../images/Gutleutstr_f161f0f0c18b494fc1d8cb568d094128_original.jpg)
 *1922 — Author: unbekannt | License: ISG | Description: Gutleutstraße 40*
 

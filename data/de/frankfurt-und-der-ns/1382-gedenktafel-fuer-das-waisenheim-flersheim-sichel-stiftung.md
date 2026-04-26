@@ -21,6 +21,7 @@ Das Haus der Flersheim-Sichel-Stiftung in der Ebersheimstr. 5 diente ab 1930 als
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel für das Waisenheim Flersheim-Sichel-Stiftung](../../images/Flersheim-_f2fa9eaf381bb679950866d826d06009_original.jpg)
 *Author: Till Lieberz-Gross | Description: Gedenktafel für das Waisenheim Flersheim-Sichel-Stiftung*
 

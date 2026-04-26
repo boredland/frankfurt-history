@@ -25,6 +25,7 @@ Die 1886 in Frankfurt geborene Rosy Kullmann zeigte schon als Kind großes musik
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Leo Baeck Institute.](../../images/Geiger-Kul_ad7c7e7db4286aa355dd104a3590e1c8_original.jpg)
 *1957 — Author: Lilian Photo Studio New York | License: Leo Baeck Institute. | Description: Leo Baeck Institute.*
 

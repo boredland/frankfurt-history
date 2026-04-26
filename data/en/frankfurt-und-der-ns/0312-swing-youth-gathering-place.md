@@ -24,6 +24,7 @@ The Schumann Theatre at Hindenburg Square (now Am Hauptbahnhof Square) was a fav
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the Schumann cellar](../../images/2e4f13ccf387620acdb9248e9b09d568_original.jpg)
 *1940 — Author: unbekannt | License: HMF, Sammlung Church, C80371 | Description: Picture postcard with the Schumann cellar*
 

@@ -25,6 +25,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Missions-Fahrt mit LKW; L-000290](../../images/Lehrbach_E_db61df1613d202b457b6021403c8c430_original.jpg)
 *1932 — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Missions-Fahrt mit LKW; L-000290*
 

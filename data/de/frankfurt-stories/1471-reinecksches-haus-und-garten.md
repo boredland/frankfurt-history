@@ -28,6 +28,7 @@ Das Anwesen kam 1822 in den Besitz der Stadt. Seit 1830 diente es als Stadtgeric
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Reineck‘sches Haus und Garten (Zustand von 1753), Hasengasse, 1864, Sepiazeichnung, HMF C09301](../../images/C09301_png_b4f931d22716556bcda6e3a3422bbea6_original.jpg)
 *1864 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Reineck‘sches Haus und Garten (Zustand von 1753), Hasengasse, 1864, Sepiazeichnung, HMF C09301*
 

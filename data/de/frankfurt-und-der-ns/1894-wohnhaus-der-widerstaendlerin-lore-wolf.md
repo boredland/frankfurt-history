@@ -30,6 +30,7 @@ Im August 1934 musste Lore Wolf ins neutrale Saargebiet fliehen, ihre Familie un
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lore Wolf mit Tochter Hannelore ca. 1926 vor dem Haus in der Gerlachstraße](../../images/Gerlachstr_e5496e7fb259edfa8204684364476b93_original.jpg)
 *ca. 1926 — License: Privat (Anja Bandas) | Description: Lore Wolf mit Tochter Hannelore ca. 1926 vor dem Haus in der Gerlachstraße*
 

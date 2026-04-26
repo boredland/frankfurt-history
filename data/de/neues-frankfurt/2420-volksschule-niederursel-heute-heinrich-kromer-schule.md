@@ -34,6 +34,7 @@ Heike Risse, Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Perspektivische Zeichnung des Schulgebäudes](../../images/Volksschul_65f4a373ed60b7e4a406e9e0c914c6ea_original.jpg)
 *1927 — Author: Franz Schuster | License: Das Neue Frankfurt, 1928, Heft 11/12, S. 231 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Perspektivische Zeichnung des Schulgebäudes*
 

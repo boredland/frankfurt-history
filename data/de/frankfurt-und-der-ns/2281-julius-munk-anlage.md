@@ -25,6 +25,7 @@ Auf dieser Fläche standen bis 1939 die Gebäude von vier Unternehmen, deren Eig
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick in die Julius-Munk-Anlage.](../../images/94540682303b810f983bc097817c82c8_original.jpg)
 *2022 — Author: Thomas Altmeyer | License: gemeinfrei | Description: Blick in die Julius-Munk-Anlage.*
 

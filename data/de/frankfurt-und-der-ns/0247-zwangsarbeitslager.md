@@ -21,6 +21,7 @@ Die Firma Hartmann & Braun AG, die elektrische und wärmetechnische Messgeräte 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit der Lorscher Straße in Frankfurt-Rödelheim](../../images/7d86a4eb990242af5fb4773f60e66c7d_original.jpg)
 *1927 — Author: Unbekannt | License: HMF, Sammlung Church, C80400 | Description: Bildpostkarte mit der Lorscher Straße in Frankfurt-Rödelheim*
 

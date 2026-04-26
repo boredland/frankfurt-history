@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Leerbachstraße 107](../../images/Leerbachst_c96dd2b1c36bd468aeedf3aced26ef98_original.jpg)
 *1905 — Author: August Ravenstein | License: ISG | Description: Leerbachstraße 107*
 

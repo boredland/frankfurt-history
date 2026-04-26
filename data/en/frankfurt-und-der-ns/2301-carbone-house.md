@@ -31,6 +31,7 @@ Despite the Carbone management’s intense efforts to have all the 60 skilled wo
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Renovation plan for the Carbone House in Frankfurt am Main – Bonames, Homburger Landstraße 642, dated May 17, 1942.](../../images/ABB%2039%20Car_31d7bc105787fe8909c820ee57fd0abd_original.jpg)
 *n.d. — Author: Unbekannt | License: Fritz Koch | Description: Renovation plan for the Carbone House in Frankfurt am Main – Bonames, Homburger Landstraße 642, dated May 17, 1942.*
 

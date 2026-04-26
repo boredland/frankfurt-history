@@ -33,6 +33,7 @@ Quelle: Brigitte Dippold-Theile: Siedlung Bruchfeldstraße / Zick-Zackhausen, 20
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Frontaler Blick auf den Häuserblock am Haardtwaldplatz. Links das Turmhaus mit der Atelierwohnung an der Haardtwaldstraße 2.](../../images/Atelierwoh_61831dd35e6c7f75eec8128417b85572_original.jpg)
 *1927 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: Frontaler Blick auf den Häuserblock am Haardtwaldplatz. Links das Turmhaus mit der Atelierwohnung an der Haardtwaldstraße 2.*
 

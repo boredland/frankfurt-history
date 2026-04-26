@@ -31,12 +31,14 @@ Erst seit 1966 ist es erlaubt, das Auto am Straßenrand abzustellen. Auch die Fr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Willy Keim, Parkhaus Kornmarkt an der Hauptwache mit Tankstelle, Frankfurt 1957, HMF.Ph12325, roebild](../../images/Ph12325%2B00_3e8be8ea7bdaf5103cbf7bb80fc551fd_original.jpg)
 *1957 — Author: Willy Keim | License: HMF, roebild | Description: Willy Keim, Parkhaus Kornmarkt an der Hauptwache mit Tankstelle, Frankfurt 1957, HMF.Ph12325, roebild*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Willy Keim, Parkhaus an der Konstablerwache, 1959 eröffnet, Frankfurt 1969, HMF.Ph12267, roebild](../../images/Ph12267%2B00_bcdf2954adbd0cf521bdce6b1042a87c_original.jpg)
 *1969 — Author: Willy Keim | License: HMF, roebild | Description: Willy Keim, Parkhaus an der Konstablerwache, 1959 eröffnet, Frankfurt 1969, HMF.Ph12267, roebild*
 

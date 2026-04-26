@@ -30,6 +30,7 @@ Die Finanzämter Frankfurt-Ost und -West hatten hier ihren Sitz. Wie alle Finanz
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Finanzamt Frankfurt-Außenbezirk](../../images/10c039e32296fdc3a0f43d81aa296592_original.jpg)
 *1944 — Author: Max Göllner | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 2004-18 | Description: Foto des Finanzamt Frankfurt-Außenbezirk*
 

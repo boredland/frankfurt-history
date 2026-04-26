@@ -24,6 +24,7 @@ Die erste Geschäftsstelle der Nationalsozialistischen Deutschen Arbeiterpartei 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![© Katharina Müller, VG Bild-Kunst, Bonn 2022](../../images/df5ce683e96f640e31681d4103d03239_original.jpg)
 *2022 — Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022 | Description: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 

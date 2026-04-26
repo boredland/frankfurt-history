@@ -24,6 +24,7 @@ In 1942, Hotel Drexel at Grosse Friedberger Strasse 18 made use of at least 1 fe
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the Hotel Drexel](../../images/bfa1c860c02e856b78bb1b31ed0dfa51_original.jpg)
 *around 1935 — Author: Unbekannt | License: HMF, Sammlung Church, C80378 | Description: Picture postcard with the Hotel Drexel*
 

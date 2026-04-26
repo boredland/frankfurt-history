@@ -35,6 +35,7 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Siedlung Mammolshainer Straße, links noch unverputzte Häuser im Plattenbauverfahren.](../../images/Mammolshai_0001f391a1d369e3c868b3f8f680aba9_original.jpg)
 *um 1930 — Author: Unbekannt | License: Das Neue Frankfurt, 1930, Heft 4/5, S. 130 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Siedlung Mammolshainer Straße, links noch unverputzte Häuser im Plattenbauverfahren.*
 

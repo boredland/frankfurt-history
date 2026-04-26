@@ -26,6 +26,7 @@ The photograph shows the Rotkäppchen-Brunnen (Little Red Riding Hood fountain) 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/schillersc_ed63920a5f9c59b37e1889ecdb0f3e0b_original.jpg)
 *Author: Hannah Rödel | License: HMF/Gemeinfrei*
 

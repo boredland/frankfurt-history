@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Friedberger Anlage 16](../../images/Friedberge_f311a415371f8239a54fef6dead26425_original.jpg)
 *2012 — Author: Martin Starl | License: ISG | Description: Friedberger Anlage 16*
 

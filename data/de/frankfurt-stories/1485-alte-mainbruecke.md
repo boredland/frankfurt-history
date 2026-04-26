@@ -29,6 +29,7 @@ Hochwasser und Eis zerstörten die Brücke regelmäßig. 1914 wurde sie wegen de
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Ansicht Alte Brücke und Sachsenhausen aus Westen, 1850/1872, aquarellierte Bleistiftzeichnung, HMF RS0004](../../images/RS0004_png_08b696435e26381ea45a7e658477b2b9_original.jpg)
 *1850/1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Ansicht Alte Brücke und Sachsenhausen aus Westen, 1850/1872, aquarellierte Bleistiftzeichnung, HMF RS0004*
 

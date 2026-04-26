@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bockenheimer Landstraße 102](../../images/Bockenheim_efa6576ac39155b6cb8ed1442ea573cf_original.jpg)
 *License: ISG | Description: Bockenheimer Landstraße 102*
 

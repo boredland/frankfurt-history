@@ -23,6 +23,7 @@ Founded in 1908, the Schillerschule was the first high school for girls in Frank
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Braach_Sch_ed63920a5f9c59b37e1889ecdb0f3e0b_original.jpg)
 *Author: Unbekannt | License: Schillerschule/Gemeinfrei*
 

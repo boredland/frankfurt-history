@@ -45,6 +45,7 @@ Quelle: Claudia Quiring, Wolfgang Voigt, Peter Cachola Schmal, Eckhard Herrel (H
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftaufnahme der Siedlung mit dem namensgebenden Hofgut Goldstein in der Bildmitte.](../../images/isg_ffm_s7_ff1b2899a5d5ad560df38855376a7ba2_original.jpg)
 *1937 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Luftaufnahme der Siedlung mit dem namensgebenden Hofgut Goldstein in der Bildmitte.*
 

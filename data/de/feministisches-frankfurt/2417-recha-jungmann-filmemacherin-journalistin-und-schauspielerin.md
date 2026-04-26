@@ -22,6 +22,7 @@ Zudem produzierte sie drei Langfilme: TWO RIGHT, TWO LEFT, DROP ONE (1972), ETWA
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Portrait Recha Jungmann](../../images/Portrait%20R_c5c4dff6321a6edfaeabaf82cc6d6e9d_original.jpg)
 *1995 — Author: Heiko Arendt | License: Heiko Arendt | Description: Portrait Recha Jungmann*
 

@@ -24,6 +24,7 @@ Im Gast- bzw. Forsthaus Biegwald waren seit September 1942 zunächst 36 polnisch
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Gasthaus Biegwald](../../images/19614a48854fd7de7c424553d42cae90_original.jpg)
 *vor 1936 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 899-6 | Description: Bildpostkarte mit dem Gasthaus Biegwald*
 

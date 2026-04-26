@@ -23,6 +23,7 @@ One form of punishment was known as “tree hanging”. This involved tying a pr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The death notice dated November 19, 1938, reports the death of the Jew Julius Wohlfarth in the Buchenwald concentration camp. The cause of death was given as pulmonary edema.](../../images/Todesmeldu_6cced2469d1bdee5b7d4d86fa9b321f5_original.jpg)
 *License: Todesmeldung aus dem Konzentrationslager Buchenwald, 1.1.5.3 / 7434665/ in conformity with ITS Digital Archive, Arolsen Archives | Description: The death notice dated November 19, 1938, reports the death of the Jew Julius Wohlfarth in the Buchenwald concentration camp. The cause of death was given as pulmonary edema.*
 

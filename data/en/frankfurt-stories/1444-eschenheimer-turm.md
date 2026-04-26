@@ -27,6 +27,7 @@ Reiffenstein sketched the tower and its interior. In his day, the tower was Fran
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Eschenheimer Tor with city walls (reconstruction based on an old drawing from 1790), 1859, watercolored pencil drawing, HMF R0039](../../images/R0039_png_382afdcbbb304bb86c9ffdc0229f501b_original.jpg)
 *1859 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Eschenheimer Tor with city walls (reconstruction based on an old drawing from 1790), 1859, watercolored pencil drawing, HMF R0039*
 

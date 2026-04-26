@@ -24,6 +24,7 @@ Die heute in den USA berühmte Sexualtherapeutin Dr. Ruth K. Westheimer wurde am
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums](../../images/ffaba6401ddc08c70d39dd7714b8a144_original.jpg)
 *o.D. — Author: Alexander Paul Englert | License: Deutsche Nationalbibliothek | Description: Foto des Neubaus des Heinrich-von-Gagern-Gymnasiums*
 

@@ -31,6 +31,7 @@ Das Neue Frankfurt, Heft 6, 2. Jg., 1928.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Modell der Erweiterung des Hauptfriedhofs](../../images/Erweiterun_59c696566012ae9730755281bb608fa3_original.jpg)
 *1928 — Author: Unbekannt | License: Das Neue Frankfurt, 1928, Heft 6, S. 101 | Description: Modell der Erweiterung des Hauptfriedhofs*
 

@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Münchener Straße 9](../../images/Muenchener_ee64b2e904541788d3fbd0ece5b467da_original.jpg)
 *1980 — Author: Falk Kynast | License: ISG | Description: Münchener Straße 9*
 

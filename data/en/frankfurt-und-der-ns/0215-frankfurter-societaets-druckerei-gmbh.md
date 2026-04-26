@@ -26,6 +26,7 @@ The Frankfurter Societäts-Druckerei printing company was based at this site. It
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the Frankfurt Societäts-Druckerei GmbH](../../images/296bb0c9964148c5dd36b8ef77428679_original.jpg)
 *ca. 1940 — Author: Christian | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-8334 | Description: Photo of the Frankfurt Societäts-Druckerei GmbH*
 

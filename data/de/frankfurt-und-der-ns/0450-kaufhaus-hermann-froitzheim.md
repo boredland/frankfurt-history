@@ -28,6 +28,7 @@ Hermanns & Froitzheim war ein Mode- und Versandhaus, das in Frankfurt und andere
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Kaufhauses Hermann &amp; Froitzheim](../../images/Ph21690_jp_1deee3dbf94e010f2a4dce178a9a31ad_original.jpg)
 *vor 1941 — Author: Otto Emmel | License: HMF Ph21690 | Description: Foto des Kaufhauses Hermann &amp; Froitzheim*
 

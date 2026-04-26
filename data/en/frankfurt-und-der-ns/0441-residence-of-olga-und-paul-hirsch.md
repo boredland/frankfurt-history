@@ -24,3 +24,4 @@ This was the site of the residence of Paul Hirsch, a Frankfurt industrialist and
 
 ## Gallery
 
+<!-- gallery:standard -->

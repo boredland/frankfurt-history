@@ -23,6 +23,7 @@ Martha Wertheimer was born to Jewish parents Julius and Johanna Wertheimer and l
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Martha Wertheimer working at her desk.](../../images/MarthaWert_244f27a20174132b4170935efa494bbc_original.jpg)
 *License: © Jüdisches Museum Frankfurt, Signatur: B2002/002-014d | Description: Martha Wertheimer working at her desk.*
 

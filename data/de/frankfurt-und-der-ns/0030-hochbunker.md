@@ -27,6 +27,7 @@ Bauunternehmen: unbekannt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Freiligrathstraße](../../images/0525ac03d413767a44794839805d78d4_original.jpg)
 *1943 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-4895 | Description: Foto eines Hochbunkers in der Freiligrathstraße*
 

@@ -25,6 +25,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein von Karoline Veith](../../images/5d25238b4ac4e191434a610507b2974d_original.jpg)
 *Author: Erika und Günter Krämer | License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein von Karoline Veith*
 

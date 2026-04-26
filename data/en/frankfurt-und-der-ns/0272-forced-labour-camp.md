@@ -25,6 +25,7 @@ The I.G. Farben-Industrie, a manufacturer of dyestuffs, made use of forced labou
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with exterior view of the Schwanheim gymnastics club](../../images/11118bc2b3e06577663bc84e73151e25_original.jpg)
 *1939 — Author: unbekannt | License: HMF / Sammlung Church C80405 | Description: Picture postcard with exterior view of the Schwanheim gymnastics club*
 

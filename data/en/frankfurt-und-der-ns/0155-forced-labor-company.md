@@ -24,6 +24,7 @@ The Naxos Union abrasives and sanding machine factory at Waldschmidtstrasse 43 p
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor company, Waldschmidtstraße 43](../../images/e65a5dc60a9a5ac89503979d3bc10fa7_original.jpg)
 *ca. 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2010-55 | Description: Forced labor company, Waldschmidtstraße 43*
 

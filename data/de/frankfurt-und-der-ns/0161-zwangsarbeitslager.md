@@ -24,6 +24,7 @@ Hier – in den ehemaligen Schauburg-Lichtspielen – soll zwischen Februar 1944
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Berger Straße 161](../../images/99c9916e324812b6cb66f61659ef77e4_original.jpg)
 *1963 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2007-529 | Description: Zwangsarbeitslager, Berger Straße 161*
 

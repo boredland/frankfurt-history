@@ -23,6 +23,7 @@ Die Deutsche Reichsbahn betrieb im Wartesaal des Bahnhofs Nied in der OeserstraÃ
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Bahnhof Nied](../../images/7542f78183e90a9579b19b0a660e574d_original.jpg)
 *o.D. â€” Author: unbekannt | License: HMF / Sammlung Church C80388 | Description: Bildpostkarte mit dem Bahnhof Nied*
 

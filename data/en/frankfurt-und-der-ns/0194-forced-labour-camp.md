@@ -24,6 +24,7 @@ The Friedrich Kilian wholesale sack trader based at Eichwaldstrasse 8–10 made 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Eichwaldstraße 8-10](../../images/d2f267fe62e1207ee121261216c87822_original.jpg)
 *2019 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2019-715 | Description: Forced labor camp, Eichwaldstraße 8-10*
 

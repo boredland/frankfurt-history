@@ -33,6 +33,7 @@ Jörg Schilling, Klinik für Gemüts- und Nervenkranke, Frankfurt a. M. 1930, Ha
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Direktorenvilla der Klinik für Gemüts- und Nervenkranke](../../images/193_els_m-_c47c733b4c9afb6b9a6f85927da62fdb_original.jpg)
 *um 1930 — Author: unbekannt / unknown | License: Martin-Elsaesser-Stiftung / Architekturmuseum TU München | Description: Direktorenvilla der Klinik für Gemüts- und Nervenkranke*
 

@@ -27,6 +27,7 @@ Im Jahr 1852 erwarb die Senckenbergische Stiftung das danebenliegende Grundstüc
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Bleichhäuser und -gärten an der Senckenbergischen Stiftung, Ecke Bleichstraße / Radgasse, 1857, Aquarell, HMF C51047](../../images/C51047_png_2d87c8943d01dbed8db230f2698b605d_original.jpg)
 *1857 — Author: Carl Theodort Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Bleichhäuser und -gärten an der Senckenbergischen Stiftung, Ecke Bleichstraße / Radgasse, 1857, Aquarell, HMF C51047*
 

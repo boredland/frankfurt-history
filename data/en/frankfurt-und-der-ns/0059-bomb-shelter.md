@@ -27,6 +27,7 @@ Construction company: Gebrüder Heunisch, Frankfurt
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Schmickstraße](../../images/660fc0c59d7a59713688c9acdf559743_original.jpg)
 *ca. 1943 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-3775 | Description: Photo of a bomb shelter located in Schmickstraße*
 

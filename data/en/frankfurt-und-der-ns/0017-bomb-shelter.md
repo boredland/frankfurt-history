@@ -27,6 +27,7 @@ Construction company: FA Hofmann II (presumably Karl Hofmann II of Ortenberg)
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Alt Schwanheim](../../images/acdec9ce02500d6720a4b4b2fb096243_original.jpg)
 *n.d. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Alt Schwanheim*
 

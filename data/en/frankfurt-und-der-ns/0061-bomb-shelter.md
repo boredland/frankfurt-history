@@ -27,6 +27,7 @@ Construction company: Joseph Kunz & Sohn, Frankfurt-Höchst
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Thudichumstraße](../../images/2f55072a0c200773773127f2d13602c5_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Thudichumstraße*
 

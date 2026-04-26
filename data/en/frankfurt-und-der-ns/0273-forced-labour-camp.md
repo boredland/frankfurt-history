@@ -21,6 +21,7 @@ Lackfabrik A. Dreißigacker GmbH operated a camp for forced laborers at Schieles
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Section of the office building at Schielestrasse 45](../../images/f742d94452e76b824cb991a9d5481401_original.jpg)
 *1921 — Author: Ph. Hofmann | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 5515 | Description: Section of the office building at Schielestrasse 45*
 

@@ -24,6 +24,7 @@ Vor ihrer Auswanderung in die USA musste die Familie hohe Zwangsabgaben auf ihr 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick in die Fischerfeldstraße von Langfeldstraße aus nach Westen](../../images/Foto_Fisch_cfbf4cb5c569107417f3e28452eaf092_original.jpg)
 *1932 — Author: Leonhard Klemm | License: HMF, C27958+001.tif | Description: Blick in die Fischerfeldstraße von Langfeldstraße aus nach Westen*
 

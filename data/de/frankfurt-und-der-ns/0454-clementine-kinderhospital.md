@@ -22,6 +22,7 @@ Seit 1875 bestand hier eines der ersten und modernsten Kinderkrankenhäuser Deut
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Clementine-Kinderhospital](../../images/C80395_jpg_6ef7e7c72899f209502322e5d38cfdf6_original.jpg)
 *ca. 1900 — Author: unbekannt | License: HMF, Sammlung Church C80395 | Description: Bildpostkarte mit dem Clementine-Kinderhospital*
 

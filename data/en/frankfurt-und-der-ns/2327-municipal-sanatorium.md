@@ -23,6 +23,7 @@ On order of Frankfurt’s district court, the trans* person W. Heinrich, then ag
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of the municipal sanatorium from the Kleist family photo album “Memories of the Psychiatric and Neurological Clinic”. HMF Hoff1066_011.](../../images/Hoff1066_0_63e2abe12d4b809fddc666c6f36ca562_original.jpg)
 *1900-1930 — Author: unbekannt | License: Historisches Museum Frankfurt | Description: Aerial view of the municipal sanatorium from the Kleist family photo album “Memories of the Psychiatric and Neurological Clinic”. HMF Hoff1066_011.*
 

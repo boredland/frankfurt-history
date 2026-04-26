@@ -23,6 +23,7 @@ Ruth Cahn war eine expressionistische Künstlerin aus einer Frankfurter jüdisch
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick in die Stresemannalle, Öl auf Leinwand](../../images/B%20%201549_jp_e54de89a8013243b3f27c4219da95adf_original.jpg)
 *1935 — Author: Emil Dielmann | License: HMF | Description: Blick in die Stresemannalle, Öl auf Leinwand*
 

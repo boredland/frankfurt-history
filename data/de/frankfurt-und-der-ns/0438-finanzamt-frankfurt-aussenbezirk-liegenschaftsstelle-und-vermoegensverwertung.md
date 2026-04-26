@@ -24,6 +24,7 @@ Das Finanzamt Frankfurt-Außenbezirk spielte eine wesentliche Rolle bei der Ausp
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der Finanzamt Frankfurt-Außenbezirk Liegenschaftsstelle und Vermögensverwertung](../../images/isg_ffm_s7_e55385688807c490abb9304bef703110_original.jpg)
 *ca. 1920 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-8853 | Description: Foto der Finanzamt Frankfurt-Außenbezirk Liegenschaftsstelle und Vermögensverwertung*
 

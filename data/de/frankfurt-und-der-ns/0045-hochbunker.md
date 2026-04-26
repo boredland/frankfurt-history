@@ -28,6 +28,7 @@ Auf den drei Etagen gab es mehrheitlich Liegeplätze. Der Bunker war für etwa 7
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Konrad-Broßwitz-Straße](../../images/d487d91963798f6deb7b3cb31013d66d_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Konrad-Broßwitz-Straße*
 

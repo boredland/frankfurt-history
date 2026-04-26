@@ -49,6 +49,7 @@ Fraktion getroffen.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo: unknown, around 1930, Institut für Stadtgeschichte, Frankfurt Best. S7A No. 1998-2609](../../images/LS_Lokal%20f_c449fe7de7825862fcb7f49a15af2614_original.jpg)
 *um 1930 — Author: unbekannt | Description: Photo: unknown, around 1930, Institut für Stadtgeschichte, Frankfurt Best. S7A No. 1998-2609*
 

@@ -24,6 +24,7 @@ During the National Socialist period, the August Osterrieth printing company pro
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labour camp, Frankenallee 25](../../images/a1719d2dc40963731c31e20f1d88d188_original.jpg)
 *1935 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 2778 | Description: Forced labour camp, Frankenallee 25*
 

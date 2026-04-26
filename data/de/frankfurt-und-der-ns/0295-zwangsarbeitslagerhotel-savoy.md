@@ -24,6 +24,7 @@ Das Hotel Savoy in der Wiesenhüttenstraße 42 diente als Lager für Zwangsarbei
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem "Hotel Savoy" in der Wiesenhüttenstraße 42](../../images/0d5e00baaf5fa5bf12cd9aa148de4647_original.jpg)
 *1909 — Author: unbekannt | License: HMF / Sammlung Church C80365 | Description: Bildpostkarte mit dem "Hotel Savoy" in der Wiesenhüttenstraße 42*
 

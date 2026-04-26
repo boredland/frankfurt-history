@@ -24,6 +24,7 @@ In der Seckbächer Gasse 13 befand sich eines von sechs Zwangsarbeitslagern der 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines mehrstöckigen Gebäudes in der Seckbächer Gasse 13, welches die Firma Degussa als Zwangsarbeitslagers nutzte](../../images/9104be4253893d23efa373329d624a89_original.jpg)
 *1915 — Author: unbekannt | License: HMF C23275 | Description: Foto eines mehrstöckigen Gebäudes in der Seckbächer Gasse 13, welches die Firma Degussa als Zwangsarbeitslagers nutzte*
 

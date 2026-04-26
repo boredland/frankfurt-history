@@ -31,6 +31,7 @@ Further reading: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. F
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Isometric drawing of the living room](../../images/Ledigenhei_532d31914cb9972d048eae34db2c970f_original.jpg)
 *1930 — Author: Unbekannt | License: Das Neue Frankfurt, 1930, Heft 4/5, S. 100 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Isometric drawing of the living room*
 

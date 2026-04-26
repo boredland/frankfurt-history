@@ -26,6 +26,7 @@ One of the subdivisions of the municipal Sachsenhausen Hospital opened in 1884 w
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The building of the University Dermatology Clinic at Sachsenhausen Municipal Hospital. Photo: Institut für Stadtgeschichte Frankfurt](../../images/Hautklinik_b82db46d509093815c2be02749ef4ba3_original.jpg)
 *1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt, S7A2002 75 | Description: The building of the University Dermatology Clinic at Sachsenhausen Municipal Hospital. Photo: Institut für Stadtgeschichte Frankfurt*
 

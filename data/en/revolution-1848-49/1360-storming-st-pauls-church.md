@@ -29,6 +29,7 @@ When the protests then shifted to the church’s eastern entrance opposite the s
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Colored lithograph: St. Paul's Church surrounded by the Austrian infantry regiment "Erzherzog Rainer" and the Prussian infantry regiment No. 38 on the morning of September 18, 1848. In the foreground, insurgents break up the pavement.](../../images/Route%203%2C%20S_ebffe0c7048af3a39b3af1246ee6a633_original.jpg)
 *1848 — Author: Gustav Kühn Verlag | License: HMF C 10172 | Description: Colored lithograph: St. Paul's Church surrounded by the Austrian infantry regiment "Erzherzog Rainer" and the Prussian infantry regiment No. 38 on the morning of September 18, 1848. In the foreground, insurgents break up the pavement.*
 

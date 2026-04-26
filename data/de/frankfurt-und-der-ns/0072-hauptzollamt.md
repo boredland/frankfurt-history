@@ -24,6 +24,7 @@ Die Zollämter arbeiteten Hand in Hand mit den Devisenstellen. Sie sorgten dafü
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Hauptzollamtgebäudes](../../images/82493a04a6d52bd8447338fbb5386182_original.jpg)
 *1927 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-4044 | Description: Foto des Hauptzollamtgebäudes*
 

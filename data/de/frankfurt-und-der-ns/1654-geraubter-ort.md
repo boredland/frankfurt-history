@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Friedberger Anlage 22](../../images/Friedberge_58caf6208632f2d38836c8c8403f53c5_original.jpg)
 *1914 — Author: Postkartensammlung Church | License: HMF | Description: Friedberger Anlage 22*
 

@@ -27,6 +27,7 @@ In April 1943, the NSDAP acquired the building and used it as an office. In the 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Children's home of the Association of Female Welfare e.V](../../images/isg_gt_kin_113dc4be4c1a4fe776c895e329a4476f_original.jpg)
 *License: © Manfred Rosenthal, Middletown (USA) | Description: Children's home of the Association of Female Welfare e.V*
 

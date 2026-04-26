@@ -21,6 +21,7 @@ The company Pelzwaren Cubaeus F. Nitsche jr. ran a camp for forced laborers at G
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp](../../images/ae0d4761f55b74189a8282b50ea71b0b_original.jpg)
 *Author: Schirg | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-8344 | Description: Forced labor camp*
 

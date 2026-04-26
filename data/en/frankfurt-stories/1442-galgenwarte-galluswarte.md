@@ -29,6 +29,7 @@ When the city’s fortifications were demolished, the watch towers were left sta
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Galgenwarte, view from the west, 1856/1857, watercolored pencil drawing, HMF RS0100](../../images/RS0100_png_7e9bb39660e9ec8eb651798b00fc98ae_original.jpg)
 *1856/1857 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Galgenwarte, view from the west, 1856/1857, watercolored pencil drawing, HMF RS0100*
 

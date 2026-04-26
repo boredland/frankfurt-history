@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Alte Gasse 69](../../images/Alte-Gasse_f4c2a3a5f03650ec9b51484ddf27e6ed_original.jpg)
 *ca. 1878 — Author: Friedrich August Doermer | License: HMF | Description: Alte Gasse 69*
 

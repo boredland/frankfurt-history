@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kaiserstraße 41](../../images/Kaiserstra_a634984b35bd8ad0610f4c046fa1b4c0_original.jpg)
 *ca. 1947 — Author: unbekannt | License: ISG | Description: Kaiserstraße 41*
 

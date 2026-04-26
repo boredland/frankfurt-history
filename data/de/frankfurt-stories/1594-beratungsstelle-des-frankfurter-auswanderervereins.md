@@ -24,6 +24,7 @@ Am Ort des heutigen Bürgeramts richtete die »Anstalt zur Nachweisung von Arbei
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Beratungsstelle des Frankfurter Auswanderervereins (Zeil)](../../images/isg_ffm_s7_17939a059d7994f66f0a082b8a2c22d0_original.jpg)
 *License: ISG | Description: Beratungsstelle des Frankfurter Auswanderervereins (Zeil)*
 

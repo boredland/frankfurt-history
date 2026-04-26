@@ -21,6 +21,7 @@ Die 1908 gegründete Schillerschule war das erste Mädchengymnasium in Frankfurt
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Fotografie Schillerschule](../../images/Braach_Sch_ed63920a5f9c59b37e1889ecdb0f3e0b_original.jpg)
 *um 1908 — Author: Unbekannt | License: Schillerschule/Gemeinfrei | Description: Fotografie Schillerschule*
 

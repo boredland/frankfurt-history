@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Fahrgasse 116](../../images/Fahrgasse-_c266edf26b13ff1212a118f7b5dd4a9a_original.jpg)
 *ca. 1940 — Author: unbekannt | License: ISG | Description: Fahrgasse 116*
 

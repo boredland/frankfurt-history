@@ -24,6 +24,7 @@ In 1944, 24 forced labourers from France were housed on the first floor of the Z
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Alt Fechenheim 123](../../images/47366bf8cc54190a86b53e696a8fcbec_original.jpg)
 *ca. 1906 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-21465 | Description: Forced labor camp, Alt Fechenheim 123*
 

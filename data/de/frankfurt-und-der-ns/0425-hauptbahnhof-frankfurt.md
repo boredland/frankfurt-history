@@ -19,6 +19,7 @@ Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes](../../images/a1d39718701a7832716493eab9a26074_original.jpg)
 *1937 — Author: Wolff & Tritschler | License: HMF Ph04243 | Description: Foto des Bahnhofsgebäudes des Frankfurter Hauptbahnhofes*
 

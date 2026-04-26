@@ -27,6 +27,7 @@ Im 19. Jahrhundert entsprach das Hospital nicht mehr dem hygienischen und medizi
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Altes Heiliggeist-Spital, Hofansicht (Zustand vor 1841), 1859, aquarellierte Bleistiftzeichnung, HMF R0690](../../images/R0690_png_f8f67049e95bb2c7f697ed2ada12f413_original.jpg)
 *1859 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Altes Heiliggeist-Spital, Hofansicht (Zustand vor 1841), 1859, aquarellierte Bleistiftzeichnung, HMF R0690*
 

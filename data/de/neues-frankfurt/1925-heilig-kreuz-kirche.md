@@ -31,6 +31,7 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht der Heilig-Kreuz-Kirche.](../../images/Heilig-Kre_f51826a8230349ea90d48e11a794c378_original.jpg)
 *um 1930 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: Ansicht der Heilig-Kreuz-Kirche.*
 

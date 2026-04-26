@@ -24,6 +24,7 @@ Der Sackgroßhandel Friedrich Kilian mit Sitz in der Eichwaldstraße 8-10 besch�
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Eichwaldstraße 8-10](../../images/d2f267fe62e1207ee121261216c87822_original.jpg)
 *2019 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2019-715 | Description: Zwangsarbeitslager, Eichwaldstraße 8-10*
 

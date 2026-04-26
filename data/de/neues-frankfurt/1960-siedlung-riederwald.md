@@ -30,6 +30,7 @@ Quelle: DW Dreysse: May-Siedlungen. Architekturführer durch zehn Siedlungen des
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick von der Kreuzung Lasallestraße/Friedrich-List-Straße auf das Café](../../images/isg_ffm_s7_93bfe4c28c4ce0b22f59350673bf7836_original.jpg)
 *um 1928 — Author: 1.	Nicht genannt (Abbildung aus: 40 Jahre AG für kleine Wohnungen 1890-1930. Frankfurt 1930.) | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Blick von der Kreuzung Lasallestraße/Friedrich-List-Straße auf das Café*
 

@@ -24,6 +24,7 @@ In 1907, 32 German industrial companies and banks founded the South West African
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Mining Syndicate (Bockenheimer Anlage)](../../images/isg_ffm_s7_ffb7ea44e34c6c807f4fd6e9a73a8f0c_original.jpg)
 *License: ISG | Description: Mining Syndicate (Bockenheimer Anlage)*
 

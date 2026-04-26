@@ -25,6 +25,7 @@ This was the location of the Henry and Emma Budge Foundation’s home for the el
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the Henry and Emmy Budge home for the elderly](../../images/Ph20590_jp_a9136f195c8f905c741b22152911bfaa_original.jpg)
 *before 1941 — Author: Otto Emmel | License: HMF Ph20590 | Description: Photo of the Henry and Emmy Budge home for the elderly*
 

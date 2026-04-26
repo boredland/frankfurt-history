@@ -30,6 +30,7 @@ The building was damaged in the war and reconstruction work started in 1963. Tod
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, view over the Old Bridge to the Deutschordenshaus and church, 1852, watercolored pencil drawing, HMF RS0026](../../images/RS0026_png_2b035f5c6e51f3d7c61d039b42b88769_original.jpg)
 *1852 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view over the Old Bridge to the Deutschordenshaus and church, 1852, watercolored pencil drawing, HMF RS0026*
 

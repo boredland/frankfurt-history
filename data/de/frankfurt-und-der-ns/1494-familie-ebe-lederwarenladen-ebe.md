@@ -23,6 +23,7 @@ In der Eckenheimer Landstraße 84 richtet Abraham Ebe 1921 sein Geschäft mit We
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Familie Ebe ca. 1923](../../images/Familie%20Eb_a9bfb41c673703754cd02ff50f70f8ad_original.jpg)
 *Author: unbekannt | Description: Familie Ebe ca. 1923*
 

@@ -19,6 +19,7 @@ filters:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial plaque at the new Jewish cemetery](../../images/isg_gt_aus_fa2091c72708fd48a228acbb186ceb84_original.jpg)
 *License: © Institut für Stadtgeschichte | Description: Memorial plaque at the new Jewish cemetery*
 

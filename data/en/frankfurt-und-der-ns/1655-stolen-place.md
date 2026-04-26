@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Friedberger Landstraße 27](../../images/Friedberge_86d7b6e537a52d33a250cdb3e6892f65_original.jpg)
 *ca. 1930 — Author: Hans Möhring | License: ISG | Description: Friedberger Landstraße 27*
 

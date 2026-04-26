@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bockenheimer Landstraße 28](../../images/Bockenheim_ec8e100d6e7642d2db5c4537cea662b2_original.jpg)
 *1884 — Author: Römmler & Jonas | License: ISG | Description: Bockenheimer Landstraße 28*
 

@@ -23,6 +23,7 @@ Die Architektin Margarete Schütte-Lihotzky entwarf diese Küche als einen stand
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Innenansicht in einem Ernst May Haus, Frankfurter Küche (Margarete Schütte-Lihotzky)](../../images/PhD_02653__e02ebfd354b8cfc2726807d621bc659a_original.jpg)
 *1993 — Author: Calle Hesslefors | License: HMF | Description: Innenansicht in einem Ernst May Haus, Frankfurter Küche (Margarete Schütte-Lihotzky)*
 

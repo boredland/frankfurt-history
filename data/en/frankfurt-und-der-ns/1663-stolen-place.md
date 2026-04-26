@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Große Friedberger Straße 24](../../images/Grosse-Fri_1b77438ed88c0723c9ec89c0ae2370ed_original.jpg)
 *1936 — Author: unbekannt | License: ISG | Description: Große Friedberger Straße 24*
 

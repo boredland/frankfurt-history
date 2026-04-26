@@ -24,6 +24,7 @@ The Main Post Office had a secret post office box allowing the Gestapo to mainta
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the main post office](../../images/60e79eeee0ff0278e4629ac517f8ce24_original.jpg)
 *1942 — Author: Fred Kochmann | License: HMF Ph00665 | Description: Photo of the main post office*
 

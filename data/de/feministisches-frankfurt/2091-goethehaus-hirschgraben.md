@@ -23,6 +23,7 @@ Katharina Elisabeth Goethe (1731-1808), seine Mutter, lebte hier viele Jahrzehnt
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Großer Hirschgraben, das Goethehaus (Elternhaus), nach dem Umbau 1754, Aquarell auf Papier](../../images/C09292%2B001_2149fbfb5e78a840b6d35a92f36b4f6a_original.jpg)
 *1858 — Author: Carl Theodor Reifenstein | License: HMF | Description: Großer Hirschgraben, das Goethehaus (Elternhaus), nach dem Umbau 1754, Aquarell auf Papier*
 

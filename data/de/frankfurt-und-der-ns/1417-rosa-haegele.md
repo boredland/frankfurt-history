@@ -25,6 +25,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Porträt von Rosa Hägele](../../images/Rosa%20Haege_1923344739a9446a1930ecde7e0f89ea_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Porträt von Rosa Hägele*
 

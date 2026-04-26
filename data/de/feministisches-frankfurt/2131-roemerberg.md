@@ -23,6 +23,7 @@ Für Lore Wolf (1900-1996) war dieses Ereignis ein prägender Einschnitt. Sie ar
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bücherverbrennungen auf dem Römerberg 10.05.1933, Öl auf Leinwand](../../images/B1614_001__588245d32caf31c80c36d391a02a9711_original.jpg)
 *1933 — Author: Heinz Woelcke | License: HMF | Description: Bücherverbrennungen auf dem Römerberg 10.05.1933, Öl auf Leinwand*
 

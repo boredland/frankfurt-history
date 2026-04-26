@@ -27,6 +27,7 @@ Bauunternehmen: Ambrosius und Sohn.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Grusonstraße](../../images/5cb73548d169fc137e4814880c179a43_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Grusonstraße*
 

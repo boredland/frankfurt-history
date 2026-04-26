@@ -24,6 +24,7 @@ Die Calor Emag Elektrizitäts-AG, eine Spezialfabrik für Hoch- und Niederspannu
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Gebäudes der Calor Emag Elektrizitäts-AG, welches alsZwangsarbeitslager genutzt wurde](../../images/e22e059b94de13afd03003f8d9f14158_original.jpg)
 *2012 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2013-564 | Description: Foto eines Gebäudes der Calor Emag Elektrizitäts-AG, welches alsZwangsarbeitslager genutzt wurde*
 

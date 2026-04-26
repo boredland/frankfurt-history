@@ -27,6 +27,7 @@ By the early 1800s, the original hospital no longer met the hygienic and medical
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, old Heiliggeist-Spital, view of the courtyard, 1859, watercolored pencil drawing, HMF R0690](../../images/R0690_png_f8f67049e95bb2c7f697ed2ada12f413_original.jpg)
 *1859 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, old Heiliggeist-Spital, view of the courtyard, 1859, watercolored pencil drawing, HMF R0690*
 

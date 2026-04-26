@@ -21,6 +21,7 @@ Here you will find different perspectives on the place.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the "Philanthropin"](../../images/412da0376c365dbf16121e99ef7370da_original.jpg)
 *ca. 1935 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19667 | Description: Photo of the "Philanthropin"*
 

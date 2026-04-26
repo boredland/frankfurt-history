@@ -29,6 +29,7 @@ Ein Stolperstein erinnert an Elise Hoffmann.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Elise Hofmann, ca. 1941](../../images/Elisa%20Hofm_5b186489a3be59cdf441fb4c39090d61_original.jpg)
 *ca. 1941 — Author: unbekannt | License: Karin Levi | Description: Elise Hofmann, ca. 1941*
 

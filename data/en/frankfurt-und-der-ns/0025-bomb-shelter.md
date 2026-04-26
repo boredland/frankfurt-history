@@ -27,6 +27,7 @@ Construction company: unknown
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Leunastraße](../../images/8a4c788e4fa5b15d9fe407aefe49b88d_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Leunastraße*
 

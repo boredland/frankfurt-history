@@ -28,12 +28,14 @@ Erste Runde Eulenburg – zweite Runde Pub – im Schöneberger geht’s heut ri
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Der Blick in die Eulengasse mit dem Lokal auf der rechten Seite im Fachwerkhaus](../../images/station%205__21ab3a270950d8247379e40507ce25c1_original.jpg)
 *1912 — License: Quelle: Familie Henze | Description: Der Blick in die Eulengasse mit dem Lokal auf der rechten Seite im Fachwerkhaus*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Der FSV Frankfurt Stammtisch Ende der 50er Jahre](../../images/station%205__e825961950f731026d0a6ffa104d209c_original.jpg)
 *License: Quelle: FSV Frankfurt Chronik 90 Jahre | Description: Der FSV Frankfurt Stammtisch Ende der 50er Jahre*
 

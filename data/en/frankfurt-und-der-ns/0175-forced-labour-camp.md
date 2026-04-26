@@ -21,6 +21,7 @@ Lanninger-Regner AG, which manufactured sprinkler systems and fittings for fire 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp](../../images/f93698d8f4962fab47c831713496cb5a_original.jpg)
 *Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-5206 | Description: Forced labor camp*
 

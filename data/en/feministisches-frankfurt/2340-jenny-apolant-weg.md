@@ -21,6 +21,7 @@ There are around 3,380 official street names in Frankfurt, including streets, sq
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Jenny-Apolant-Weg](../../images/Jenny-Apol_1dd55b1f3daf47949521daa757a82a94_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Jenny-Apolant-Weg*
 

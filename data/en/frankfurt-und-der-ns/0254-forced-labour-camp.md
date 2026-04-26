@@ -24,6 +24,7 @@ The dairy product supplier Milchversorgung Frankfurt am Main had one of its two 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Letterhead of "Frankfurter Central Dampf Molkerei Eier-Großhandlung"](../../images/b2c37e8d83853f4573b361f3ddacbfc3_original.jpg)
 *1910 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A 1998-29902 | Description: Letterhead of "Frankfurter Central Dampf Molkerei Eier-Großhandlung"*
 

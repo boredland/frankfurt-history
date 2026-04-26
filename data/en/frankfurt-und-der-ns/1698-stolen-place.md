@@ -25,6 +25,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kennedyallee 115-117](../../images/Kennedyall_6fa59b271311952a5d2521f6e154590c_original.jpg)
 *1939 — Author: Georg Schmidter | License: ISG | Description: Kennedyallee 115-117*
 

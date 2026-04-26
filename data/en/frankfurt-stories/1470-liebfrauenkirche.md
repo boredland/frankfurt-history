@@ -28,6 +28,7 @@ Badly damaged in the Second World War, the church was reconstructed in 1955/56. 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Liebfrauenberg with Liebfrauenkirche in front of the breakthrough of Liebfrauenstraße, 1845, aquarelle, HMF C13074](../../images/C13074_png_3822dfb942d09de5e7dd4d1bc84dcafa_original.jpg)
 *1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Liebfrauenberg with Liebfrauenkirche in front of the breakthrough of Liebfrauenstraße, 1845, aquarelle, HMF C13074*
 

@@ -24,6 +24,7 @@ Die Deutsche Reichspost betrieb 1942/43 ein Zwangsarbeitslager in der Großen Ga
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Große Gallusstraße 12](../../images/cfb2f7da785535c2f542f51c5b5257a9_original.jpg)
 *unbekannt — Author: Repro Schirg | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-8414 | Description: Zwangsarbeitslager, Große Gallusstraße 12*
 

@@ -24,6 +24,7 @@ filters:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Werksgelände eines Zwangsarbeitsbetriebs, Gräfstraße 103](../../images/eca7e3564dbaec3a8df8cf356a36f584_original.jpg)
 *1920 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19962 | Description: Werksgelände eines Zwangsarbeitsbetriebs, Gräfstraße 103*
 

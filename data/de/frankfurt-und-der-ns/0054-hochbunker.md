@@ -27,6 +27,7 @@ Bauunternehmen: W. Franz Hoch- und Tiefbau, Hanau.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Petterweilstraße](../../images/687414fb295657237a660387c429222c_original.jpg)
 *1981 — Author: Joachim Sändig | License: HMF Ph17181 | Description: Foto eines Hochbunkers in der Petterweilstraße*
 

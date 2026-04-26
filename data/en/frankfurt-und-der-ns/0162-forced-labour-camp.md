@@ -24,6 +24,7 @@ In 1944, Café Rumpelmayer made use of 1 female forced labourer from Czechia. No
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of Gallusanlage 2, where a forced labour camp was operated in Café Rumpelmayer](../../images/66e5bb6d8d7b87c30b48694eaa8aaa0b_original.jpg)
 *ca. 1940 — Author: US-Nachrichtendienst | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-459 | Description: Photo of Gallusanlage 2, where a forced labour camp was operated in Café Rumpelmayer*
 

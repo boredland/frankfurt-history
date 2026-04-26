@@ -31,6 +31,7 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht der Trauerhalle](../../images/C28083_001_1443b303dad3e71c050a4cb97908ef36_original.jpg)
 *Unbekannt — Author: Hermann Collischonn | License: Historisches Museum Frankfurt | Description: Ansicht der Trauerhalle*
 

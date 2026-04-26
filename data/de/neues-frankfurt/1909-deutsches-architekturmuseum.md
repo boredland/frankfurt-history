@@ -25,6 +25,7 @@ In der Dauerausstellung können Sie die „Siedlung Bruchfeldstraße“ von 1927
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Innenaufnahme des Deutschen Architekturmuseums, 3. Obergeschoss](../../images/DAM_3_Ober_a0b987ca1bb77f4bea8014caae371bd6_original.jpg)
 *2024 — Author: Moritz Bernoully | License: Deutsches Architekturmuseum | Description: Innenaufnahme des Deutschen Architekturmuseums, 3. Obergeschoss*
 

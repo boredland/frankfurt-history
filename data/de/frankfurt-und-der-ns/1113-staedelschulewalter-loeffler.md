@@ -21,6 +21,7 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/00021fae60d17cd1c3652e80659f189d_original.jpg)
 
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Hanauer Landstraße 17](../../images/Hanauer-La_fca976d50b1764fa34cb62659a82988d_original.jpg)
 *2014 — Author: Martin Starl | License: ISG | Description: Hanauer Landstraße 17*
 

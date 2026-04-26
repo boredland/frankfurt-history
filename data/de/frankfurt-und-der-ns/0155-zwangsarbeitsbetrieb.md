@@ -24,6 +24,7 @@ Die Schleifmittel- und Schleifmaschinenfabrik Naxos Union in der Waldschmidtstra
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitsbetrieb, Waldschmidtstraße 43](../../images/e65a5dc60a9a5ac89503979d3bc10fa7_original.jpg)
 *ca. 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2010-55 | Description: Zwangsarbeitsbetrieb, Waldschmidtstraße 43*
 

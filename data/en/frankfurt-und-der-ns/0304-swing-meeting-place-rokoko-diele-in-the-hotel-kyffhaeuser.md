@@ -24,6 +24,7 @@ The Rokoko-Diele was the most important gathering place for young people who lis
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard showing the Rococo hall at the Hotel Kyffhäuser](../../images/c36b7ab6be2abf657ea95de842c594a1_original.jpg)
 *1942 — Author: unbekannt | License: HMF, Sammlung Church, C80368 | Description: Picture postcard showing the Rococo hall at the Hotel Kyffhäuser*
 

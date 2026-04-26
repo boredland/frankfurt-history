@@ -31,6 +31,7 @@ The private collector, banker, and art patron Maximilian Freiherr von Goldschmid
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of Rothschild Palace in Bockenheimer Landstraße 10](../../images/C28607_jpg_5c3277d445d3ad104a76103dad192be8_original.jpg)
 *ca. 1930 — Author: Leonhard Kleemann | License: HMF C28607 | Description: Photo of Rothschild Palace in Bockenheimer Landstraße 10*
 

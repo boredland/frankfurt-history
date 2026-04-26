@@ -24,6 +24,7 @@ Laut dem Adressbuch von 1935 befand sich hier im ehemaligen Rathaus von Nied ein
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem ehemaligen Rathaus von Nied und dem Sitz der NSDAP Ortsgruppe und NSDAP Frauenschaft Nied](../../images/456e47bba04a00cd325594056ff57ac2_original.jpg)
 *1908 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-23364 | Description: Bildpostkarte mit dem ehemaligen Rathaus von Nied und dem Sitz der NSDAP Ortsgruppe und NSDAP Frauenschaft Nied*
 

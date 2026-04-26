@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Leipziger Straße 51](../../images/Leipziger-_9fda50b2bd5ffdea8d649eefd2e25a05_original.jpg)
 *ca. 1930 — Author: unbekannt | License: ISG | Description: Leipziger Straße 51*
 

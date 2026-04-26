@@ -27,6 +27,7 @@ From 1895, a new building replaced St. Peter’s Church on the northern section.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, St. Peter's churchyard, entrance gate from the inside with the surrounding houses of the Schäfergasse, 1840/1874, watercolored pencil drawing, HMF R0854](../../images/R0854_png_24e6854faa89d57363d7914804842d9c_original.jpg)
 *1840/1874 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, St. Peter's churchyard, entrance gate from the inside with the surrounding houses of the Schäfergasse, 1840/1874, watercolored pencil drawing, HMF R0854*
 

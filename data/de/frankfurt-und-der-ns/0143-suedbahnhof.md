@@ -28,6 +28,7 @@ Von der Festhalle wurden immer wieder Gruppen von jüdischen Männern in Bussen 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Südbahnhof](../../images/a9a92efabb3694a9bc680f28c1ab1a8e_original.jpg)
 *ca. 1925 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2012-149 | Description: Südbahnhof*
 

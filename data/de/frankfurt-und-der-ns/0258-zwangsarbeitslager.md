@@ -24,6 +24,7 @@ In der Neuen Mainzer Straße 49-53 hatte die Frankfurter Sparkasse ihren Sitz. S
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Sitzes der Frankfurter Sparkasse, welcher auch als Zwangsarbeitslager eingesetzt wurde](../../images/9176fdbff45d7b6ae687b9f615ad2e7a_original.jpg)
 *ca. 1940 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-9143 | Description: Foto des Sitzes der Frankfurter Sparkasse, welcher auch als Zwangsarbeitslager eingesetzt wurde*
 

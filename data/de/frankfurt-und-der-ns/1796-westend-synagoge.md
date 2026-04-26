@@ -24,6 +24,7 @@ Die Westend-Synagoge ist die größte Synagoge in Frankfurt. Die Synagoge wird a
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die Westend Synagoge in der Freiherr-von-Stein Straße heute](../../images/Freiherr%20v_5a070ea4e12ce97e1b216d578f2e86b7_original.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Die Westend Synagoge in der Freiherr-von-Stein Straße heute*
 

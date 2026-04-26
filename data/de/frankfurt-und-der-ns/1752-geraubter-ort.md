@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Röderbergweg 62-64](../../images/Roederberg_cd2dd8d4f1248b78e73c1de37d6fd3c6_original.jpg)
 *ca. 1925 — License: ISG | Description: Röderbergweg 62-64*
 

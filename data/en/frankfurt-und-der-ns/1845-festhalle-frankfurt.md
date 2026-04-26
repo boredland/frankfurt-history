@@ -23,6 +23,7 @@ The Festhalle in Frankfurt is a central event location steeped in over one hundr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Frankfurt Festhalle, a historic building on the exhibition grounds. During the November pogroms in 1938, it was used as a collection point for more than 3,000 male Jewish citizens from Frankfurt and the surrounding region.](../../images/Festhalle__96771b6fbfef6cc066417688b48404b3_original.jpg)
 *2024 — Author: Aliah Habl Corona | License: gemeinfrei | Description: Frankfurt Festhalle, a historic building on the exhibition grounds. During the November pogroms in 1938, it was used as a collection point for more than 3,000 male Jewish citizens from Frankfurt and the surrounding region.*
 

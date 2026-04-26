@@ -24,6 +24,7 @@ Frankfurter Maschinenbau (formerly Pokorny & Wittekind), a mechanical engineerin
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor company, Solmsstraße 2-26](../../images/1b3e44d0512bf9099fe8967245314627_original.jpg)
 *before 1945 — Author: Max Göllner | License: HMF, Z.2005Göllner.000002 | Description: Forced labor company, Solmsstraße 2-26*
 

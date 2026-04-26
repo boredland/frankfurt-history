@@ -24,6 +24,7 @@ Die Arbeitsgemeinschaft des Frankfurter Kohlenhandels e.V. betrieb in der Gastst
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Außenansicht der Wirtschaft "Zum Riederwald"](../../images/24f51be28c1571bc5a6a5cc648d3ee1e_original.jpg)
 *1925 — Author: unbekannt | License: HMF / Sammlung Church C80398 | Description: Bildpostkarte mit Außenansicht der Wirtschaft "Zum Riederwald"*
 

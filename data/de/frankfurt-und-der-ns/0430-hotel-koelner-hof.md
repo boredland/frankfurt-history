@@ -23,5 +23,6 @@ Das Hotel Kölner Hof in der Gneisenaustraße 1-5 (heute: Mannheimer Straße 5) 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/NS0880_jpg_aa571b061cf0837456557ddb56c5b6e2_original.jpg)
 

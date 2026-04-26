@@ -21,6 +21,7 @@ The former main synagogue was located near Judengasse and served as a religious 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Johann Georg Kayser’s architectural design drawing for the former main synagogue at Börnestrasse.](../../images/Ehemalige%20_8061f11d67eeed843ee31ab17fdde68c_original.jpg)
 *Author: Künstler Johann Georg Kayser | License: © Institut für Stadtgeschichte (öffentlicher Aushang An der Staufermauer), Frankfurt am Main, s7a_nr_1998-18936 | Description: Johann Georg Kayser’s architectural design drawing for the former main synagogue at Börnestrasse.*
 

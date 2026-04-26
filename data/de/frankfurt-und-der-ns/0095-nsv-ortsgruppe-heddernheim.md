@@ -24,6 +24,7 @@ Hier hatte die Ortsgruppe Heddernheim der Nationalsozialistischen Volkswohlfahrt
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Sitzes der NSV Ortsgruppe Heddernheim](../../images/aa5079cffd9f5725d097934ba7c08142_original.jpg)
 *1915 — Author: Abt Carl Andreas | License: HMF C23244a | Description: Foto des Sitzes der NSV Ortsgruppe Heddernheim*
 

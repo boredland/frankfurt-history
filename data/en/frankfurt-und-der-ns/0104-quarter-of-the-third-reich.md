@@ -24,6 +24,7 @@ In 1935, the German Labour Front planned a huge annex on the grounds of the trad
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Architectural model of a construction project called ‘Quarter of the Third Reich’](../../images/7f19f3643dab19718dba685c79c7b7bd_original.jpg)
 *1937 — Author: Hugo Schmölz | License: HMF C35090 | Description: Architectural model of a construction project called ‘Quarter of the Third Reich’*
 

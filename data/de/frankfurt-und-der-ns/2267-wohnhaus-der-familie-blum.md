@@ -42,12 +42,14 @@ Institut für Stadtgeschichte, Sig. A62.02.46, Schenkungsvertrag Arndtstr. 51.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Haus in der Arndtstr. 51 heute](../../images/3954065ffa6923c08c89fdaa8da9bdbb_original.jpg)
 *Author: Susanne Thurnay | License: Privat | Description: Das Haus in der Arndtstr. 51 heute*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Notarsschreiben wegen Schenkung.](../../images/isg_ffm_a__132bee090ba49deee6eb6bbb779938b3_original.jpg)
 *Author: unbekannt | License: Institut für Stadtgeschichte, Sig. A62.02.46 | Description: Notarsschreiben wegen Schenkung.*
 

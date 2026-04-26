@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Große Bockenheimer Straße 33](../../images/Grosse-Boc_0605cb67a956f942db690d6123cdee70_original.jpg)
 *ca. 1910 — Author: L. Klaus | License: ISG | Description: Große Bockenheimer Straße 33*
 

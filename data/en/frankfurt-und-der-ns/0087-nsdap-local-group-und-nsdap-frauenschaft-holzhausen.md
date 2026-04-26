@@ -24,6 +24,7 @@ This was the location of the local Holzhausen branch of the National Socialist G
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Exterior view of Hermannstraße 27](../../images/5f4dcf2fc05c4b548b754b3d9a81b4d1_original.jpg)
 *ca. 1900 — Author: Schaffner & Albert | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 5317 | Description: Exterior view of Hermannstraße 27*
 

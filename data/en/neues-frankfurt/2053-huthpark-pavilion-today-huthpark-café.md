@@ -31,6 +31,7 @@ Further reading: Alexander Brockhoff: Unterstandshalle im Huthpark. In: Neuer Me
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Huthpark pavilion](../../images/isg_ffm_s7_eda41af5c875c0d077d20fadcb3c3f5b_original.jpg)
 *Unbekannt — Author: Kurt Weiner | License: Institut für Stadtgeschichte Frankfurt am Main, S7FR 10164 | Description: Huthpark pavilion*
 

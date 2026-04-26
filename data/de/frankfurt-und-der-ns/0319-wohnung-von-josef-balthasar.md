@@ -22,6 +22,7 @@ Der Schneider Josef Balthasar lebte in der Scharnhorststraße 21 (heute: Baseler
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zeichnung der Dachgeschosswohnung von Josef Balthasar](../../images/4414c0200c253844514f919b0dffed5a_original.jpg)
 *2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Zeichnung der Dachgeschosswohnung von Josef Balthasar*
 

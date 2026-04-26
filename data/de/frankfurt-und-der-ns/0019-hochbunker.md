@@ -27,6 +27,7 @@ Bauunternehmen: unbekannt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers An der Schwarzbachmühle](../../images/05121597e1c33cd3fc2470e60f0e60b7_original.jpg)
 *2007 — Author: Wolfgang Kamberger | Description: Foto eines Hochbunkers An der Schwarzbachmühle*
 

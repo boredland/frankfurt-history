@@ -26,6 +26,7 @@ The farmer Heinrich Pulver exploited 1 female civilian worker from Poland and lo
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of Berkersheimer Untergasse 2](../../images/cd7c09177ab38d4be1e296af0107a5ed_original.jpg)
 *1908 — Author: Heinrich Klöss | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 2825 | Description: View of Berkersheimer Untergasse 2*
 

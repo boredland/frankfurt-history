@@ -24,6 +24,7 @@ Das Autohaus Fritz Opel & Co. setzte 100 Kriegsgefangene aus Russland und weiter
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Gebäudes des Autohaus Fritz Opel &amp; Co., welches auf seinem Werksgelände ein Zwangsarbeitslager betrieb](../../images/d35ebb71fa4885d1c49b0c3d404dfeeb_original.jpg)
 *1930 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 1388 | Description: Foto eines Gebäudes des Autohaus Fritz Opel &amp; Co., welches auf seinem Werksgelände ein Zwangsarbeitslager betrieb*
 

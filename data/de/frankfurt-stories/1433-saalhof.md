@@ -29,6 +29,7 @@ Heute beheimaten die Gebäude das Historische Museum. Hier befinden sich einige 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Saalhof, holzgeschnitzter Giebel zur Saalgasse, 1863, aquarellierte Bleistiftzeichnung, HMF R0669](../../images/R0669_png_31ac760ac8426ceff21a8ffd42015de0_original.jpg)
 *1863 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Saalhof, holzgeschnitzter Giebel zur Saalgasse, 1863, aquarellierte Bleistiftzeichnung, HMF R0669*
 

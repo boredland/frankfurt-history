@@ -24,6 +24,7 @@ Meuser & Co., which was based at Hanauer Landstrasse 475, operated a camp for Fr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the Fechenheim gymnasium](../../images/353e2f0d70327852a883559075a0ae2e_original.jpg)
 *before 1955 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 00796-14 | Description: Picture postcard with the Fechenheim gymnasium*
 

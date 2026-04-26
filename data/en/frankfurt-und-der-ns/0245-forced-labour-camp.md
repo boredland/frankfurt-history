@@ -22,6 +22,7 @@ The Betten Zellekens bed and upholstered furniture company had its headquarters 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Leipziger Straße 22](../../images/543560a660f22e6fa8ea25db6c876d5d_original.jpg)
 *1905 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-20124 | Description: Forced labor camp, Leipziger Straße 22*
 

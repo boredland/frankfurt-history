@@ -24,6 +24,7 @@ The Deutsche Vereinigte Schuhmaschinenfabrik, a shoe machine factory, operated a
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a workshop on the premises of Deutsche Vereinigte Schuhmaschinenfabrik GmbH (DVSG), where a forced labour camp was operated](../../images/ee42c6000a42c63949daca7637066b87_original.jpg)
 *ca. 1938 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29295 | Description: Photo of a workshop on the premises of Deutsche Vereinigte Schuhmaschinenfabrik GmbH (DVSG), where a forced labour camp was operated*
 

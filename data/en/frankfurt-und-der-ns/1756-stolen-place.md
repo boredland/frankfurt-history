@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schöne Aussicht 16](../../images/Schoene-Au_b4cd2e06f53510d3fe7ed2c63a2b09f4_original.jpg)
 *ca. 1935 — Author: BLDAM | License: HMF,  Bildarchiv, Neg.Nr. 42 b 26/6438.1 | Description: Schöne Aussicht 16*
 

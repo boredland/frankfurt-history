@@ -23,6 +23,7 @@ From 1940 to 1945, the Geheime Staatspolizei - Gestapo (Secret State Police) had
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/NS0953_001_9580c35f1a6af652bc27726636617921_original.jpg)
 *Author: Unbekannt | License: Institut für Stadtgeschichte*
 

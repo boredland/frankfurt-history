@@ -24,6 +24,7 @@ Der Friseur Karl Eschenbach hatte hier sein Geschäft. Er beschäftigte zwei Zwa
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto einer Kreuzung mit einigen Gebäuden im Hintergrund, wo im Steinweg 2 mehrere Zwangsarbeiter*innen beschäftigt waren](../../images/b45a58d3fb4452d0176ddbbdeaa1bc79_original.jpg)
 *1928 — Author: Paul Wolff | License: Wolff &amp; Tritschler, Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 479 | Description: Foto einer Kreuzung mit einigen Gebäuden im Hintergrund, wo im Steinweg 2 mehrere Zwangsarbeiter*innen beschäftigt waren*
 

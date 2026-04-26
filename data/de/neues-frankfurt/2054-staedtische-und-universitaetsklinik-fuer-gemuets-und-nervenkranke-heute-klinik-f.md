@@ -31,6 +31,7 @@ Quelle: Jörg Schilling, Klinik für Gemüts- und Nervenkranke, Frankfurt a.M. 1
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Nordfassade mit Haupteingang zur Klinik für Nerven- und Gemütskranke](../../images/191_els_m-_b413b00be3cf09a392543af6086e13c3_original.jpg)
 *1930er Jahre — Author: Unbekannt | License: Martin-Elsaesser-Stiftung / Architekturmuseum TU München | Description: Nordfassade mit Haupteingang zur Klinik für Nerven- und Gemütskranke*
 

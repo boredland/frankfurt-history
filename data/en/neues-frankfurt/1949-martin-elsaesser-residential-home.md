@@ -31,6 +31,7 @@ Further reading: Christina Gräwe: Haus Elsaesser 1926. In: Martin Elsaesser und
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the rear of the residential building with terrace, balcony, and roof terrace.](../../images/isg_ffm_s7_2d929d8d395bc92d874a9fb29ffd8b01_original.jpg)
 *1926 — Author: Hermann Collischonn | License: Institut für Stadtgeschichte Frankfurt am Main | Description: View of the rear of the residential building with terrace, balcony, and roof terrace.*
 

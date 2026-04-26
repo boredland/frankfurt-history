@@ -28,6 +28,7 @@ Beim Abriss des Hauses 1866 verbreiterte sich der Eingang der Wedelgasse und es 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Hinterhäuser des Hauses Zum Wedel, vom Paulsplatz gesehen, (um 1850), aquarellierte Bleistiftzeichnung, HMF R0545](../../images/R0545_png_9901502365f615ec0b7eded93df0c433_original.jpg)
 *1850 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Hinterhäuser des Hauses Zum Wedel, vom Paulsplatz gesehen, (um 1850), aquarellierte Bleistiftzeichnung, HMF R0545*
 

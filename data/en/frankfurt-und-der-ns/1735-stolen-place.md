@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Musikantenweg 61](../../images/Musikanten_1ca574be8451231811e2ccb14683bf07_original.jpg)
 *2012 — Author: Martin Starl | License: ISG | Description: Musikantenweg 61*
 

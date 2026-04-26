@@ -17,6 +17,7 @@ Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Schleifergasse](../../images/b59f1810392ceed5ff7fa2e2966791ca_original.jpg)
 *o.D. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Schleifergasse*
 

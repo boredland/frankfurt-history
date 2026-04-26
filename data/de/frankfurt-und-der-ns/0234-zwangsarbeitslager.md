@@ -22,6 +22,7 @@ Die Schneiderei Prokasky & Bechthold mit Sitz in der Kaiserstraße 18-20 profiti
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Kaiserstraße 18-20](../../images/67845382c3dcc1e89bb7a7eed6a9c057_original.jpg)
 *ca. 1904 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-11784 | Description: Zwangsarbeitslager, Kaiserstraße 18-20*
 

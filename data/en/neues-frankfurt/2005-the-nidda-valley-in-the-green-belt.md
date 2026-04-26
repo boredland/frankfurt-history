@@ -31,6 +31,7 @@ Architects: Leberecht Migge, Max Bromme
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The Nidda valley with a view of the Römerstadt housing estate.](../../images/Niddatal_P_f15dfb1fa62fa80c0e3f0cb7b987b698_original.jpg)
 *around 1930 — Author: Unbekannt | License: Privat | Description: The Nidda valley with a view of the Römerstadt housing estate.*
 

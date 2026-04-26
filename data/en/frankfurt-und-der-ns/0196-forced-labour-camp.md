@@ -24,6 +24,7 @@ The Eintracht stadium at Riederwald was the location of a camp for forced labour
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the Riederwald stadium](../../images/a0ca46616632c69f542fea340b1e5b28_original.jpg)
 *after 1937 — Author: Unbekannt | License: HMF, Sammlung Church, C80399 | Description: Picture postcard with the Riederwald stadium*
 

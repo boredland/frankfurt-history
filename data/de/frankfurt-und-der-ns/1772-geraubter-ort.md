@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Taunusanlage 12](../../images/Taunusanla_0b80822194eda8043a7db0daa66d1186_original.jpg)
 *ca. 1949 — Author: unbekannt | License: ISG | Description: Taunusanlage 12*
 

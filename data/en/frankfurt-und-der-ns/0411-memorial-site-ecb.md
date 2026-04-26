@@ -19,6 +19,7 @@ Here you will find different perspectives on the place.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the memorial at the Frankfurt wholesale market hall](../../images/d440d389c1a093da0375a32f84361d17_original.jpg)
 *n.d. — Author: Norbert Miguletz | Description: Photo of the memorial at the Frankfurt wholesale market hall*
 

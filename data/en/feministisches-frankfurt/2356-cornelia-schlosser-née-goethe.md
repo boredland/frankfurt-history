@@ -26,6 +26,7 @@ On the occasion of her 250th birthday, the Center for Women's Studies and Gender
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Cornelia Schlosser, née Goethe, portrait drawing; red chalk and black chalk over pencil](../../images/Cornelia%20S_6cf49537efd0f7630b695e86fe199599_original.jpg)
 *circa 1770 — Author: Johann Ludwig Ernst Morgenstern | License: gemeinfrei | Description: Cornelia Schlosser, née Goethe, portrait drawing; red chalk and black chalk over pencil*
 

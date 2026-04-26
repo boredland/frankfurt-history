@@ -23,6 +23,7 @@ There are around 3,380 official street names in Frankfurt, including streets, sq
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bertha Pappenheim Platz](../../images/Bertha%20Pap_a8bdfe56abd4036a5d6f2850f5c92af8_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Bertha Pappenheim Platz*
 

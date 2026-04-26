@@ -27,6 +27,7 @@ Das 1782 eröffnete Comoedienhaus – 1792 umbenannt in »Frankfurter Nationalth
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Innenansicht des Nationaltheaters](../../images/nationalth_2014fa94fb720d87b8b570dbef5c5a7c_original.jpg)
 *um 1800 — License: HMF.C12746. | Description: Innenansicht des Nationaltheaters*
 

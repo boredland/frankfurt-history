@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bornheimer Landstraße 21](../../images/Bornheimer_6008aafaad8385f64b5b84219a455d6b_original.jpg)
 *2021 — Author: Martin Starl | License: ISG | Description: Bornheimer Landstraße 21*
 

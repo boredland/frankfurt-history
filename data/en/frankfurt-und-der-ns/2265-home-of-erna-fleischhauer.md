@@ -41,12 +41,14 @@ The agency also seized the house at Wolfsgangstrasse 123 and managed it. It has 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The house at Wolfsgangstraße 123 no longer exists. Parkstraße 20 now stands on the site.](../../images/Wolfsgangs_335d61704ad6491bea32c97a3391582c_original.jpg)
 *2025 — Author: Jasmin Klotz | License: gemeinfrei | Description: The house at Wolfsgangstraße 123 no longer exists. Parkstraße 20 now stands on the site.*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Advertisement by Hella Knabe in the magazine “Das 3. Geschlecht” (The Third Sex), 1931. Martin Radszuweit Verlag Berlin, Lili-Elbe-Bibliothek.](../../images/Knabe_Comp_2a9a84218dc034d1cee38481ee0dddae_original.jpg)
 *1931 — Author: Martin Radszuweit Verlag Berlin | License: Lili-Elbe-Bibliothek | Description: Advertisement by Hella Knabe in the magazine “Das 3. Geschlecht” (The Third Sex), 1931. Martin Radszuweit Verlag Berlin, Lili-Elbe-Bibliothek.*
 

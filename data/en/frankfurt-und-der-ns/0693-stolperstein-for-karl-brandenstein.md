@@ -38,6 +38,7 @@ A Stolperstein—literally “stumbling stone”—is a 10 x 10 x 10-cm concrete
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolpersteine for Karl Brandenstein at Hattsteiner Straße 6](../../images/stolperst__18b049ea272fd0a78bf4d3b55253c1b5_original.jpg)
 *2021 — Author: Initiative Stolpersteine Frankfurt am Main | Description: Stolpersteine for Karl Brandenstein at Hattsteiner Straße 6*
 

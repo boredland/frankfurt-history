@@ -27,6 +27,7 @@ Der Pulverdampf behinderte in den engen Gassen die Sicht. Die österreichische I
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kolorierte Lithografie: Ansturm der österreichischen Infanterie auf die erbittert verteidigte Barrikade in der Töngesgasse.](../../images/Route%203%2C%20S_b64323af0f0b9bed7191237d0ee4bfc2_original.jpg)
 *1848 — Author: Eduard Gustav May | License: HMF C 8429 | Description: Kolorierte Lithografie: Ansturm der österreichischen Infanterie auf die erbittert verteidigte Barrikade in der Töngesgasse.*
 

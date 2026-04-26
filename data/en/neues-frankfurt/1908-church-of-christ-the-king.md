@@ -31,6 +31,7 @@ Adrian Seib, Der Kirchenbaumeister Martin Weber (1890–1941). Leben und Werk ei
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Church of Christ the King in the Praunheim housing estate](../../images/isg_ffm_s7_e5d20c687b305c545bf4ea63ffe0d399_original.jpg)
 *Unknown — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Church of Christ the King in the Praunheim housing estate*
 

@@ -22,6 +22,7 @@ In der Brüder-Grimm-Schule in der Luxemburger Allee 1-3 waren die Erste und Zwe
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Luxemburger Allee 1-3](../../images/2a8a8c682a7ba33d5e5f2bcabc97395e_original.jpg)
 *ca. 1939 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19131 | Description: Zwangsarbeitslager, Luxemburger Allee 1-3*
 

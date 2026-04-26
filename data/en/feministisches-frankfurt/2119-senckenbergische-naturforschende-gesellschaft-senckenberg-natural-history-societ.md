@@ -25,6 +25,7 @@ As a woman, she was long denied access to university research and scientific soc
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/C03271%2B001_9db07b548e5dfee205d6607155298c8f_original.jpg)
 *Author: Carl Freidrich Mylius | License: HMF/Gemeinfrei*
 

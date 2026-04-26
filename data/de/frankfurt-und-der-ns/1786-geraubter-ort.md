@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zeil 43](../../images/Zeil-43_jp_cf0ef3445564991ebd83827988b2ab8c_original.jpg)
 *o. D. — Author: Postkartensammlung Church | License: HMF | Description: Zeil 43*
 

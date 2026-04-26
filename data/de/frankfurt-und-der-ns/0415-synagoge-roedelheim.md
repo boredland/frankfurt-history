@@ -28,6 +28,7 @@ filters:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Niddapartie und Synagoge in Rödelheim](../../images/C80402_jpg_42d755b38db22ab2ab852a16d9ee7bef_original.jpg)
 *1927 — Author: unbekannt | License: HMF, Sammlung Church, C80402 | Description: Bildpostkarte mit Niddapartie und Synagoge in Rödelheim*
 

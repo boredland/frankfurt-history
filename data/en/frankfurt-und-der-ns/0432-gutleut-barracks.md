@@ -24,6 +24,7 @@ The Police Battalion 306 was trained in summer 1940 at the Gutleut Barracks. The
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![DXR](../../images/29bbed895c86b6c37bc0e5308c3999d4_original.jpg)
 *n.d. — Author: DXR | License: CC BY-SA 4.0 | Description: DXR*
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kaiserstraße 4](../../images/Kaiserstra_5be2f038dd29b77fd4e5992c8120d8d7_original.jpg)
 *ca. 1909 — Author: unbekannt | License: ISG | Description: Kaiserstraße 4*
 

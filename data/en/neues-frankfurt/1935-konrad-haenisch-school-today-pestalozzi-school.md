@@ -31,6 +31,7 @@ Further reading: Christina Gräwe: Martin Elsaessers Frankfurter Schulen. In: Ma
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Front of the school building. The large, numberless clock can be seen at the top left.](../../images/isg_ffm_s7_8a35859a059d68dcbdf20640b6c00f9b_original.jpg)
 *around 1927 — Author: Buch vom Bauen (1927) | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Front of the school building. The large, numberless clock can be seen at the top left.*
 

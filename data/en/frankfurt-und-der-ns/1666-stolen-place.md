@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Grüne Straße 42](../../images/Gruene-Str_94c210b8770170096b508f68f5b5070f_original.jpg)
 *2014 — Author: Martin Starl | License: ISG | Description: Grüne Straße 42*
 

@@ -30,6 +30,7 @@ Badly damaged in the Second World War, the tower was later rebuilt. Since 2011, 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, view up the Main from the Old Bridge, the Kuhhirtenturn on the right, 1872, watercolored pencil drawing, HMF RS0007](../../images/RS0007_png_9b80a2cfea351343fd050e9542d0cad6_original.jpg)
 *1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view up the Main from the Old Bridge, the Kuhhirtenturn on the right, 1872, watercolored pencil drawing, HMF RS0007*
 

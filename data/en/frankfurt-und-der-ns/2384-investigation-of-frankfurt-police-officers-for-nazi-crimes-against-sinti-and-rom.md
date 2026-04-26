@@ -31,6 +31,7 @@ All investigations were closed on April 18, 1958 on grounds that the defendants 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Final report on the investigation against Johannes Himmelheber. HHStAW, 520, FZ 6638.](../../images/PXL_202511_5714d1de691c29ab16b17dd6c962662f_original.jpg)
 *1947 — License: Hessisches Hauptstaatsarchiv Wiesbaden | Description: Final report on the investigation against Johannes Himmelheber. HHStAW, 520, FZ 6638.*
 

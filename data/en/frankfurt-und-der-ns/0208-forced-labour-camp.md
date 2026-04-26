@@ -21,6 +21,7 @@ Frankfurter Mühlenwerke AG operated a camp for forced laborers at Franziusstra�
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp](../../images/69724ac276a7db6be1c7efbbeac26efa_original.jpg)
 *1912 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29486 | Description: Forced labor camp*
 

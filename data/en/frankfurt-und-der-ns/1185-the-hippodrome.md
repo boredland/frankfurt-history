@@ -23,6 +23,7 @@ The Hippodrome had been opened in 1899 on Forsthausstraße (today Kennedyallee /
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Opening of the 1936 Maccabi Indoor Sports Festival at the Hippodrome.](../../images/ecb42acb72cbe081b0b0dd30282fee1f_original.jpg)
 *1977 — Author: Robert Atlasz, Bar Kochba: Makkabi-Deutschland 1898-1938, Tel Aviv 1977 | Description: Opening of the 1936 Maccabi Indoor Sports Festival at the Hippodrome.*
 

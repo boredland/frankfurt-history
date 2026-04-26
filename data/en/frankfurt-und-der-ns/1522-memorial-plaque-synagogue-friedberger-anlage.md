@@ -21,6 +21,7 @@ Inside the Jewish cemetery, there is a memorial plaque on the right-hand side of
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial plaque at the New Jewish Cemetery](../../images/Gedenktafe_fe4276d14522d6547422a7d6870e6c07_original.jpg)
 *2023 — Description: Memorial plaque at the New Jewish Cemetery*
 

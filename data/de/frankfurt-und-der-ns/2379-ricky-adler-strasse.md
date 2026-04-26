@@ -21,6 +21,7 @@ Im Stadtteil Kalbach-Riedberg wurde 2012 auf Anregung des Hessischen Landesverba
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Straßenschild Ricky-Adler-Straße](../../images/Ricky-Adle_ccbf2c4b5f7d4f61f938d0ded003474e_original.jpg)
 *2012 — Author: Andreas Pflock | License: Dokumentations- und Kulturzentrum Deutscher Sinti und Roma | Description: Straßenschild Ricky-Adler-Straße*
 

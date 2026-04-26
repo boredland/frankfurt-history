@@ -19,6 +19,7 @@ Im ersten Obergeschoss des Schumann-Theaters befand sich das Schumann-Café, in 
 
 ## Gallery
 
+<!-- gallery:standard -->
 
 ## Links
 

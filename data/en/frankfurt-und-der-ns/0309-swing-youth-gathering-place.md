@@ -24,6 +24,7 @@ Café Nizza was known as a gathering place for young people from the swing scene
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Café Nizza, Untermainkai 17](../../images/b5a6d668a1e5653567b0da5c7acd6ce6_original.jpg)
 *1938 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2009-199 | Description: Café Nizza, Untermainkai 17*
 

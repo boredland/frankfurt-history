@@ -21,6 +21,7 @@ The Ludwig-Richter-Schule, Eschersheimer Landstraße 587, served as quarters for
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp](../../images/21842482353d4802ddac18b4af16a66b_original.jpg)
 *1936 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1936-450 | Description: Forced labor camp*
 

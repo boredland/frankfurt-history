@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Eckenheimer Landstraße 238](../../images/Eckenheime_df6dd4b5e4e16b44ac1551a2536b673a_original.jpg)
 *1929 — Author: Hermann Collischonn | License: HMF | Description: Eckenheimer Landstraße 238*
 

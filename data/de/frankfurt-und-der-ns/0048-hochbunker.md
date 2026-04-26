@@ -27,6 +27,7 @@ Bauunternehmen: ARGE (Arbeitsgemeinschaft) Noll.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Robert-Bunsen-Straße](../../images/0bd7f356c32d5850d95531d091230a11_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Robert-Bunsen-Straße*
 

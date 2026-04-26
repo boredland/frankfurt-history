@@ -26,6 +26,7 @@ The wholesale wine business belonging to the Wiesengrund family was located at S
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bernhard Wiesengrund Wine Wholesaler, Schöne Aussicht 7](../../images/C28162_jpg_785c65f8c52678c8aaef38d2ed4e3170_original.jpg)
 *1930 — Author: Leonhard Kleemann | License: HMF, C28162 | Description: Bernhard Wiesengrund Wine Wholesaler, Schöne Aussicht 7*
 

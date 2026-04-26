@@ -23,6 +23,7 @@ Wanda Pratschke's decades of work as a sculptor in a traditionally male-dominate
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Betty_2_20_6d0acf7b0e5692c38b30c85091f4a4a8_original.jpg)
 *Author: Hartmut Schroth | License: Hartmut Schroth*
 

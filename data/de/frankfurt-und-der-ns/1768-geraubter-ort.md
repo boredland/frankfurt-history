@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Sternstraße 8](../../images/Sternstras_0c8af6481b68d4a77f01df79c27d35bb_original.jpg)
 *ca. 1930 — Author: Leonhard Kleemann | License: HMF | Description: Sternstraße 8*
 

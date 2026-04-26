@@ -23,6 +23,7 @@ Hier unterhielt die Deutsche Reichsbahn ein Lager für Zwangsarbeiter*innen. Ins
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto einer Bahnhofshalle am Diesterwegplatz, in der die Deutsche Reichsbahn ein Zwangsarbeiterlager unterhielt](../../images/12a3b11f3546287adc2831e744e456eb_original.jpg)
 *1930 — Author: Friedrich Lauffer | License: HMF Ph11533 | Description: Foto einer Bahnhofshalle am Diesterwegplatz, in der die Deutsche Reichsbahn ein Zwangsarbeiterlager unterhielt*
 

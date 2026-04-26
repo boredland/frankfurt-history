@@ -19,6 +19,7 @@ Here you will find different perspectives on the place.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![HMF, Garten 207](../../images/a702658ce6b1fb8f22b03675424a4c2f_original.jpg)
 *Description: HMF, Garten 207*
 

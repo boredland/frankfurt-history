@@ -23,6 +23,7 @@ Remake hat kein Wettbewerbsprogramm und macht keine Vorgaben zu Genre-, Format u
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![CineConcert bei Remake. Frankfurter Frauen* Filmtage](../../images/Kinothek_2_e2bba741de7cd82001b3f7677dc5d196_original.jpg)
 *2019 — Author: Božica Babić; | License: Kinothek Asta Nielsen e.V. | Description: CineConcert bei Remake. Frankfurter Frauen* Filmtage*
 

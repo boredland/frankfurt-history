@@ -22,6 +22,7 @@ In 1944 and 1945, there was a forced labour camp in the Glauburg School on Glaub
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with exterior view of the Glauburg School](../../images/16ba277a9f1c84cecb224e9edce095db_original.jpg)
 *1910 — Author: Unbekannt | License: HMF, Sammlung Church, C80407 | Description: Picture postcard with exterior view of the Glauburg School*
 

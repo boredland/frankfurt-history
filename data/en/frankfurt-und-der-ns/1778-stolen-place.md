@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Westendstraße 52](../../images/Westendstr_20b704ecbe32ef4f2bf4b5e269696635_original.jpg)
 *1941 — Author: Leuschner | License: ISG | Description: Westendstraße 52*
 

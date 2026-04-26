@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Feldbergstraße 42](../../images/Feldbergst_33f2deb4bb92a1bbb32441c8567721cb_original.jpg)
 *ca. 1964 — Author: Walter Schröder-Kiewert | License: ISG | Description: Feldbergstraße 42*
 

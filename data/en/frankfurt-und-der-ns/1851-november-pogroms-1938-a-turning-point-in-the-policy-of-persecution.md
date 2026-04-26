@@ -27,6 +27,7 @@ In Frankfurt, the pogroms escalated in the early hours of the morning of 10 Nove
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial plaque in Frankfurt in memory of the 3,000-plus local Jewish people who were forced into the Festhalle during the November pogroms in 1938, ill-treated and deported to concentration camps. With this plaque, the city is paying tribute to the victims of terror and tyranny.](../../images/Gedenktafe_fe523c62eb16771e8c6c6eab4e8a7fe8_original.jpg)
 *2024 — Author: Aliah Habl Corona | License: gemeinfrei | Description: Memorial plaque in Frankfurt in memory of the 3,000-plus local Jewish people who were forced into the Festhalle during the November pogroms in 1938, ill-treated and deported to concentration camps. With this plaque, the city is paying tribute to the victims of terror and tyranny.*
 

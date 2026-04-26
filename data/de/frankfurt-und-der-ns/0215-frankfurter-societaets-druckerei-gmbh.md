@@ -26,6 +26,7 @@ Hier befand sich der Sitz der Frankfurter Societäts-Druckerei GmbH. Sie war 186
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der Frankfurter Societäts-Druckerei GmbH](../../images/296bb0c9964148c5dd36b8ef77428679_original.jpg)
 *ca. 1940 — Author: Christian | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-8334 | Description: Foto der Frankfurter Societäts-Druckerei GmbH*
 

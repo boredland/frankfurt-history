@@ -27,6 +27,7 @@ Between October 1941 and September 1942, the Secret State Police (Gestapo) rente
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the wholesale market hall](../../images/C27570a_jp_b295c3b34ea83e686f08bab4b7a56c2c_original.jpg)
 *before 1929 — Author: Südwestdeutsche Luftverkehrs AG | License: HMF C27570a | Description: Photo of the wholesale market hall*
 

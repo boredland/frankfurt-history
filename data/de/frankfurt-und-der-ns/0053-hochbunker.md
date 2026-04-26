@@ -27,6 +27,7 @@ Bauunternehmen: unbekannt
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Peter-Bied-Straße](../../images/3a3963b540eedec3d6fd32e2c48237e6_original.jpg)
 *o.D. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Peter-Bied-Straße*
 

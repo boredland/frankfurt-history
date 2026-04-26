@@ -23,6 +23,7 @@ Die Martin-Elsaesser-Stiftung wurde 2009 gegründet, um den baukünstlerischen N
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht der Geschäftsstelle Martin-Elsaesser-Stiftung in Frankfurt am Main](../../images/MES_201906_e18917d32b60c6fe9c93199707f07d86_original.jpg)
 *2019 — Author: Konrad Elsässer | License: Martin-Elsaesser-Stiftung | Description: Ansicht der Geschäftsstelle Martin-Elsaesser-Stiftung in Frankfurt am Main*
 

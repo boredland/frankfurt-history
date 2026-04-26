@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schäfergasse 9](../../images/Schaeferga_f24283959f7c2556095ff235cd4a7767_original.jpg)
 *1884 — Author: Wehe-Wehl | License: HMF | Description: Schäfergasse 9*
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Falkensteiner Straße 53](../../images/Falkenstei_73c2a7ab56d288042fb4b0875dde8041_original.jpg)
 *1983 — Author: Jutta Hofmann | License: ISG | Description: Falkensteiner Straße 53*
 

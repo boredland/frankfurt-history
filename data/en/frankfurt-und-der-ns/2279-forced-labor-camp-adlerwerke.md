@@ -25,6 +25,7 @@ For the Adlerwerke’s forced laborers, there were further camps on Weilburger S
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial photograph taken by the US Air Force in 1944. The Adlerwerke factory is in the center. Forced labor camps were located on the premises and in the adjacent streets.](../../images/9550d7d7a180977deb9f9062b884f130_original.jpg)
 *1944 — Author: US-Army | License: Institut für Stadtgeschichte, Sig. S6b-93 Nr. A-14-4 | Description: Aerial photograph taken by the US Air Force in 1944. The Adlerwerke factory is in the center. Forced labor camps were located on the premises and in the adjacent streets.*
 

@@ -30,6 +30,7 @@ Im Zweiten Weltkrieg wurde der Dom zerstört und ab 1948 wiederaufgebaut. Heute 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Blick vom Glockentürmchen des Römers zum Dom, 1853, aquarellierte Bleistiftzeichnung, HMF R0517](../../images/R0517_png_3cab62f1112a9b84fe631d5b7d581aff_original.jpg)
 *1853 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Blick vom Glockentürmchen des Römers zum Dom, 1853, aquarellierte Bleistiftzeichnung, HMF R0517*
 

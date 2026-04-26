@@ -32,6 +32,7 @@ A Stolperstein—literally “stumbling stone”—is a 10 x 10 x 10-cm concrete
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein for Karl Stecker at Frankenallee 60](../../images/stolperst__827e3de1f16988832f5afda6bfad5d28_original.jpg)
 *2019 — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein for Karl Stecker at Frankenallee 60*
 

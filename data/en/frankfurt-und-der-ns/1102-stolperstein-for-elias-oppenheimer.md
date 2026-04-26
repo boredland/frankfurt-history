@@ -35,6 +35,7 @@ A Stolperstein—literally “stumbling stone”—is a 10 x 10 x 10-cm concrete
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein for Elias Oppenheimer at Wöhlerstraße 6](../../images/stolperst__86b00440db6bb79189f9ff3cdc05e4b6_original.jpg)
 *unknown — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein for Elias Oppenheimer at Wöhlerstraße 6*
 

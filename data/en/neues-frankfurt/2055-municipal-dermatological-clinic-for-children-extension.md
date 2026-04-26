@@ -33,6 +33,7 @@ www.martin-elsaesser.de/projekte/kinderhautklinik-des-staedtischen-krankenhauses
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Terrace of dermatological clinic for children](../../images/198_els_m-_645817578660cda4a3211862f9b72a53_original.jpg)
 *1929 — Author: Grete Leistikow | License: Martin-Elsaesser-Stiftung / Architekturmuseum TU München | Description: Terrace of dermatological clinic for children*
 

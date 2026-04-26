@@ -22,6 +22,7 @@ This was the location of an orphanage and synagogue that had been endowed by Bar
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto: Landesbildstelle, undatiert, HMF Ph06318](../../images/Ph06318_jp_2c66c1738c744ceac9dac43aee8631d4_original.jpg)
 *unknown — Author: unbekannt | License: Landesbildstelle Hessen | Description: Foto: Landesbildstelle, undatiert, HMF Ph06318*
 

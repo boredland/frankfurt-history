@@ -24,6 +24,7 @@ The Fritz Opel & Co. car dealership made use of 100 prisoners of war from Russia
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a building belonging to the Fritz Opel &amp; Co. car dealership, which operated a forced labour camp on its factory premises](../../images/d35ebb71fa4885d1c49b0c3d404dfeeb_original.jpg)
 *1930 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 1388 | Description: Photo of a building belonging to the Fritz Opel &amp; Co. car dealership, which operated a forced labour camp on its factory premises*
 

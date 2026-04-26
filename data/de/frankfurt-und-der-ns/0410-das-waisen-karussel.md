@@ -19,6 +19,7 @@ Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Gallus-Anl_ff00605d4c14fc649a52bef08c6d16b5_original.jpg)
 *Author: © Foto aus: Gooi-eb Eemlandervom 16.11.1938, Zeitungsausschnitt von Ruth Levi, geb. Hess.*
 

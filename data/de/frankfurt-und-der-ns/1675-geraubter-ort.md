@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Hansaallee 12](../../images/Hansaallee_1cdf909ab1dd0314837e1ecb201b6fd8_original.jpg)
 *1902 — Author: Philipp Hufnagel | License: ISG | Description: Hansaallee 12*
 

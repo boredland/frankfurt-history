@@ -24,6 +24,7 @@ Von 1933 bis 1945 wurden im Untersuchungs- und Gerichtsgefängnis in der Hammels
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Innenhof der Untersuchungshaftanstalt/Gerichtsgefängnis,  Hammelsgasse 6-10](../../images/Ph30608_jp_8a188b36527979d4499108f9b37b51f2_original.jpg)
 *1984 — Author: Gisa Hillesheimer | License: HMF, Ph30608 | Description: Innenhof der Untersuchungshaftanstalt/Gerichtsgefängnis,  Hammelsgasse 6-10*
 

@@ -29,6 +29,7 @@ Es gehörte zu den zentralen Einrichtungen für die Verbreitung der pseudowissen
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Außenansicht des Institut für Erbbiologie und Rassenhygiene](../../images/130eb3e62814dad808af4a7c64d61e96_original.jpg)
 *1936 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-131 | Description: Außenansicht des Institut für Erbbiologie und Rassenhygiene*
 

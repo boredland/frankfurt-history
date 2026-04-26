@@ -22,6 +22,7 @@ The Alfred Teves machine and fixtures factory made use of several hundred forced
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with Kaiserplatz, Friedensstraße and Kaiserstraße](../../images/2235017e704959f960d9393355651425_original.jpg)
 *around 1900 — Author: Unbekannt | License: HMF, Sammlung Church, C80370 | Description: Picture postcard with Kaiserplatz, Friedensstraße and Kaiserstraße*
 

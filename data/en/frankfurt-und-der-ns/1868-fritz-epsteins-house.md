@@ -27,6 +27,7 @@ The architect Fritz Epstein planned, built or converted around 150 buildings in 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/villa_epst_cde15c59d11f3b68b1ae4be87c27703c_original.jpg)
 *after 1913 — License: Privat (Daniela Epstein)*
 

@@ -24,6 +24,7 @@ Das Bauunternehmen Philipp Holzmann AG, mit Sitz in der Taunusanlage 1, beschäf
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines mehrstöckigen Gebäudes und Sitz des Bauunternehmens Philipp Holzmann AG in der Taunusanlage 1](../../images/38bc1dd3fcb1a463bb07b74c6c92eb7a_original.jpg)
 *ca. 1942 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-10624 | Description: Foto eines mehrstöckigen Gebäudes und Sitz des Bauunternehmens Philipp Holzmann AG in der Taunusanlage 1*
 

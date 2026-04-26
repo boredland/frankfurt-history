@@ -27,6 +27,7 @@ Construction company: unknown
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Freiligrathstraße](../../images/0525ac03d413767a44794839805d78d4_original.jpg)
 *1943 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-4895 | Description: Photo of a bomb shelter located in Freiligrathstraße*
 

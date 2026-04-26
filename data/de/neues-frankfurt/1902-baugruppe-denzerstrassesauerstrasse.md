@@ -33,6 +33,7 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Wohnhaus in der Sauerstraße.](../../images/Baugruppe__97cb520b7d870c5e8fde5a822b0c9644_original.jpg)
 *2023 — Author: Christina Treutlein | License: ernst-may-gesellschaft e.V. | Description: Wohnhaus in der Sauerstraße.*
 

@@ -24,6 +24,7 @@ In 1943 and 1944, 30 male and 37 female forced labourers used by the Adam Hettle
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with exterior and interior view of the Beck restaurant](../../images/de2bec38da67e5fd57f95cb54a592016_original.jpg)
 *1942 — Author: unbekannt | License: HMF / Sammlung Church C80392 | Description: Picture postcard with exterior and interior view of the Beck restaurant*
 

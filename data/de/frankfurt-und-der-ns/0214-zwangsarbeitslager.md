@@ -22,6 +22,7 @@ Die Stadt Frankfurt am Main unterhielt im Städtischen Krankenhaus in der Gotens
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Gotenstraße 6](../../images/994dc2a28fd15c33d0cb2f61d7b6f2b1_original.jpg)
 *vor 1941 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 847 | Description: Zwangsarbeitslager, Gotenstraße 6*
 

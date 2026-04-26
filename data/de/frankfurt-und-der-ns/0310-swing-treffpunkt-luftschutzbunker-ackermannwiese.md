@@ -24,6 +24,7 @@ Hier traf sich der „Club der Kameruner“. Das war eine Gruppe Jugendlicher, d
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Herxheimer Straße](../../images/5a1f8122579b64515ab57c083299e1e8_original.jpg)
 *1947 — Author: Fred Kochmann | License: Institut für Stadtgeschichte, Frankfurt Best. S7Ko Nr. 1668 | Description: Foto eines Hochbunkers in der Herxheimer Straße*
 

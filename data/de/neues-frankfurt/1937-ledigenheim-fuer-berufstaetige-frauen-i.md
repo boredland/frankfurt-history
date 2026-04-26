@@ -31,6 +31,7 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht des Ledigenheims von der Adickesallee](../../images/Ledigenhei_46070fa2d6854ae78555023c30036888_original.jpg)
 *1930 — Author: Unbekannt | License: Das Neue Frankfurt, 1930, Heft 4/5, S. 97 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Ansicht des Ledigenheims von der Adickesallee*
 

@@ -24,6 +24,7 @@ At this site, the Moenus machine factory made use of forced labourers who were l
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor company, Voltastraße 74-80](../../images/1aa05ca8d8b3b5793be58dc5ef91ec32_original.jpg)
 *unknown — Author: unbekannt | License: HMF, Ph13640 | Description: Forced labor company, Voltastraße 74-80*
 

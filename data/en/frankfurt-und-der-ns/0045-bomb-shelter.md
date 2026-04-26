@@ -26,6 +26,7 @@ This was the site of a bomb shelter built in Werderstrasse (now Konrad-Brosswitz
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Konrad-Broßwitz-Straße](../../images/d487d91963798f6deb7b3cb31013d66d_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Konrad-Broßwitz-Straße*
 

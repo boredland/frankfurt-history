@@ -27,6 +27,7 @@ Reiffenstein described these wooden houses as “an exceptionally characteristic
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Löhergasse 12, House Rote Badstube with the Oberpförtchen, 1865, watercolored pencil drawing, HMF RS0076](../../images/RS0076_png_1eb9921b484cc1fcf3a36cd04f8a6ffc_original.jpg)
 *1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Löhergasse 12, House Rote Badstube with the Oberpförtchen, 1865, watercolored pencil drawing, HMF RS0076*
 

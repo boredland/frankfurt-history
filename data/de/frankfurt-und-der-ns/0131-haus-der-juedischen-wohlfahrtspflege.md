@@ -28,6 +28,7 @@ In der Quinckestraße 24-26 (heute: Königswarter Straße 16) hatten in der Zeit
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Grundriss des "Haus der Jüdischen Wohlfahrtspflege"](../../images/62b5ce5b07b976a65906a5c75f80a728_original.jpg)
 *ca. 1875 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-14049 | Description: Grundriss des "Haus der Jüdischen Wohlfahrtspflege"*
 

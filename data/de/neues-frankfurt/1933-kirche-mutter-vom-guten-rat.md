@@ -35,6 +35,7 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kirche vom Guten Rat an der Bruchfeldstraße in Niederrad](../../images/Ph35087%2B00_baedd8790f6345adb377334541ae13a4_original.jpg)
 *um 1933 — Author: Otto Emmel | License: Historisches Museum Frankfurt | Description: Kirche vom Guten Rat an der Bruchfeldstraße in Niederrad*
 

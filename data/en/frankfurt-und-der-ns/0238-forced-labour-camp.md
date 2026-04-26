@@ -21,6 +21,7 @@ There was a camp for civilian workers in the brewery Gaststätte Schneider, Klei
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp](../../images/92723b667447ad5a2dacc779697c8177_original.jpg)
 *ca. 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-4551 | Description: Forced labor camp*
 

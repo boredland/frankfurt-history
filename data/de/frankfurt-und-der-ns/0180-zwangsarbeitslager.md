@@ -21,6 +21,7 @@ Die Herrenkleiderfabrik Deutsche Kleiderwerke AG betrieb in der Bismarckallee 2 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager](../../images/3da405785c78da47a7eb3c4883634b82_original.jpg)
 *ca. 1925 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2000-368 | Description: Zwangsarbeitslager*
 

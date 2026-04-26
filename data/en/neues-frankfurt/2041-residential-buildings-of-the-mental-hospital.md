@@ -31,6 +31,7 @@ Further reading: www.martin-elsaesser.de/projekte/wohngebaeude-der-klinik-fuer-g
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Southern side, facing the garden, of the residential buildings for hospital employees.](../../images/192_els_m-_35e54495cda6f6ae598148dd26e006cb_original.jpg)
 *around 1930 — Author: Hermann Collischonn | License: Martin-Elsaesser-Stiftung / Architekturmuseum TU München | Description: Southern side, facing the garden, of the residential buildings for hospital employees.*
 

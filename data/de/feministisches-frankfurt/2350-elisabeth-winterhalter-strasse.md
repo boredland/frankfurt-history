@@ -23,6 +23,7 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Elisabeth Winterhalter Straße](../../images/Elisabeth%20_217e0b743844b60eff2ac38f40cc931c_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Elisabeth Winterhalter Straße*
 

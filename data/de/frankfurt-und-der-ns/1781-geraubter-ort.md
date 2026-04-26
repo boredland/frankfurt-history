@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Westendstraße 85](../../images/Westendstr_8fcb697f402e395b719c4ba98b2f4014_original.jpg)
 *vor 1950 — Author: Postkartensammlung | License: ISG | Description: Westendstraße 85*
 

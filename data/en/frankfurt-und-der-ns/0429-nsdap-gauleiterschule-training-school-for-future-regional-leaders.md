@@ -24,6 +24,7 @@ From 1935, this was the location of a training school for future regional leader
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with exterior view of the Jakob Sprenger School](../../images/C80410_jpg_352d9bf86f0049bbc5cd492da7368f82_original.jpg)
 *1938 — Author: unbekannt | License: HMF, Sammlung Church, C80410 | Description: Picture postcard with exterior view of the Jakob Sprenger School*
 

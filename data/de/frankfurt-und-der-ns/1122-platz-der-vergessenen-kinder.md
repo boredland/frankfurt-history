@@ -21,6 +21,7 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kinder­haus des Ver­eins der Weibli­chen Für­sorge e.V](../../images/isg_gt_kin_113dc4be4c1a4fe776c895e329a4476f_original.jpg)
 *License: © Manfred Rosenthal, Middletown (USA) | Description: Kinder­haus des Ver­eins der Weibli­chen Für­sorge e.V*
 

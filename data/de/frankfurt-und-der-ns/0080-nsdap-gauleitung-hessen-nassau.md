@@ -24,6 +24,7 @@ Die Gauleitung für Hessen-Nassau der Nationalsozialistischen Deutschen Arbeiter
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Sitzes der NSDAP Gauleitung Hessen-Nassau](../../images/cbe9d58f9c9a8db7e223576aaa0067be_original.jpg)
 *Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1933-321 | Description: Foto des Sitzes der NSDAP Gauleitung Hessen-Nassau*
 

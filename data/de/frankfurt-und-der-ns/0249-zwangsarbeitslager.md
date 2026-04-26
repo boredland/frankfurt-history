@@ -22,6 +22,7 @@ Hier befand sich der Sitz der Firma Spedition und Möbeltransport H. Delliehause
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Werbekarte der Firma H. Delliehausen](../../images/80a15f00581950b25f1668e320a938e5_original.jpg)
 *unbekannt — Author: Unbekannt | License: HMF, Sammlung Church, C80375 | Description: Bildpostkarte mit Werbekarte der Firma H. Delliehausen*
 

@@ -26,6 +26,7 @@ Hier befand sich ein Zwangsarbeitslager der Maschinenfabrik Breuerwerke, die ihr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Palleskestraße 32](../../images/bbcb9fedc56e853b77de79fbc39f494b_original.jpg)
 *ca. 1914 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-23146 | Description: Zwangsarbeitslager, Palleskestraße 32*
 

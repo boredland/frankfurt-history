@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Leerbachstraße 112](../../images/Leerbachst_54ce757a1c84162d58a266b695645283_original.jpg)
 *1905 — Author: August Ravenstein | License: ISG | Description: Leerbachstraße 112*
 

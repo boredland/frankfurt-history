@@ -25,6 +25,7 @@ Johanna Tesch was active in the SPD, founded Vereine für Arbeiterinnen und Haus
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/johanna-te_db3d0a92b740fa464311b8c0c885211c_original.jpg)
 *Author: Unbekannt | License: Stadt Frankfurt/Günter Maniewski*
 

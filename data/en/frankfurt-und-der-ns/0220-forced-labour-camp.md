@@ -21,6 +21,7 @@ V.I.B. Apparatebau GmbH operated a camp for civilian workers at Gutleutstraße 2
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp](../../images/bdff1c515bbc7134ae1e942757aedfe9_original.jpg)
 *1910 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29073 | Description: Forced labor camp*
 

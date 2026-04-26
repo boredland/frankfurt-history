@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Fuchshohl 67](../../images/Fuchshohl-_31be4ec34f193c89577672a5d3ef92fb_original.jpg)
 *1930 — Author: Franz Roeckle | License: ISG | Description: Fuchshohl 67*
 

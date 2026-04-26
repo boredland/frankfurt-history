@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ostendstraße 26](../../images/Ostendstra_ecaa4a11308a643dfa34101c847c0ac9_original.jpg)
 *n. d. — Author: Postkartensammlung Church | License: HMF | Description: Ostendstraße 26*
 

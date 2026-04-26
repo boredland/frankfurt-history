@@ -21,6 +21,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Reinganumstraße 27](../../images/Reinganums_f3bbc97a0a3ab5726d763dc591ecdd96_original.jpg)
 *2017 — Author: Martin Starl | License: ISG | Description: Reinganumstraße 27*
 

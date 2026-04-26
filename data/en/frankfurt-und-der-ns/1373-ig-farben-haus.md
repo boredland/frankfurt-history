@@ -20,6 +20,7 @@ The video was created as part of the project "What's May 8 to me? Five senior cl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo: Staatliche Bildstelle Berlin, 1937, HMF C31431](../../images/C31431_jpg_6c3cd7858d4fbb52ae73dd9370ff1257_original.jpg)
 *1937 — Author: Staatliche Bildstelle Berlin | Description: Photo: Staatliche Bildstelle Berlin, 1937, HMF C31431*
 

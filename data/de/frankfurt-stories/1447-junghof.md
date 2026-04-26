@@ -26,6 +26,7 @@ Ab 1860 musste der Junghof einem Straßendurchbruch zwischen dem Rossmarkt und d
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Der Junghof, Vogelschauansicht von Westen nach Osten, 1862, aquarellierte Bleistiftzeichnung, HMF R0148](../../images/R0148_png_47c9fefb51f3677c4a351a6d6d586c50_original.jpg)
 *1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Der Junghof, Vogelschauansicht von Westen nach Osten, 1862, aquarellierte Bleistiftzeichnung, HMF R0148*
 

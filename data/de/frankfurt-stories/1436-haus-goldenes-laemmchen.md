@@ -29,6 +29,7 @@ Während des Zweiten Weltkriegs wurde das Haus zerstört und für die 2018 einge
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Hinter dem Lämmchen 6, Madonna am Eck des Hauses, 1878, aquarellierte Bleistiftzeichnung, HMF R1561](../../images/R1561_png_c720f7e65bc8d7480c089d6eb606810d_original.jpg)
 *1878 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Hinter dem Lämmchen 6, Madonna am Eck des Hauses, 1878, aquarellierte Bleistiftzeichnung, HMF R1561*
 

@@ -21,6 +21,7 @@ Innerhalb des Jüdischen Friedhofs findet sich auf der rechten Seite des Eingang
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel am Neuen Jüdischen Friedhof](../../images/Gedenktafe_fe4276d14522d6547422a7d6870e6c07_original.jpg)
 *2023 — Description: Gedenktafel am Neuen Jüdischen Friedhof*
 

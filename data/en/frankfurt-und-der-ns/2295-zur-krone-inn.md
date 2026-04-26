@@ -27,6 +27,7 @@ From 1943 to 1944, Heinrich Wörner also operated a second labor camp a few pace
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The “Zur Krone” inn at Alt-Fechenheim 95.](../../images/isg_ffm_s7_0586b3bfdb6cca17de271d6f2a2ae918_original.jpg)
 *n.d. — Author: Unbekannt | License: ISG FFM S7C Nr. 1998-42364 | Description: The “Zur Krone” inn at Alt-Fechenheim 95.*
 

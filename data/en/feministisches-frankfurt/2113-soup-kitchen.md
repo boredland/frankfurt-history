@@ -23,6 +23,7 @@ The Israelitische Suppenanstalt (Israelite Soup Kitchen) at Theobald-Christ-Str.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/FemFFM_pla_51ec9396b1132f5f5b3e40ef28814ea6_original.jpg)
 *Author: Hannah Rödel | License: HMF/Hannah Rödel*
 

@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schubertstraße 1](../../images/Schubertst_24453e44200dbabc033000199d56a22e_original.jpg)
 *ca. 1910 — Author: unbekannt | License: ISG, S7A Nr. 1998-13242 | Description: Schubertstraße 1*
 

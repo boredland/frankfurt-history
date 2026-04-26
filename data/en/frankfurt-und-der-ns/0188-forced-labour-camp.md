@@ -24,6 +24,7 @@ The Johannes Holzhauer canning factory was located at Kesselbergstrasse 30–34 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Hahnstraße 30-34](../../images/e8f5efa120b841eec8be90d0dd9b6f0e_original.jpg)
 *1925 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29791 | Description: Forced labor camp, Hahnstraße 30-34*
 

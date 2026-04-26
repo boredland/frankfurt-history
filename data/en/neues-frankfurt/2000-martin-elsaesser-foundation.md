@@ -23,6 +23,7 @@ The Martin Elsaesser Foundation was established in 2009. Its aim is to document 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the Martin Elsaesser Foundation office in Frankfurt am Main](../../images/MES_201906_e18917d32b60c6fe9c93199707f07d86_original.jpg)
 *2019 — Author: Konrad Elsässer | License: Martin-Elsaesser-Stiftung | Description: View of the Martin Elsaesser Foundation office in Frankfurt am Main*
 

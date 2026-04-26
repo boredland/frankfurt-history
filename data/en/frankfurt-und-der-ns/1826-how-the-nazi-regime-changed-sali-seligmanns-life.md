@@ -25,12 +25,14 @@ Shortly afterwards, on September 23, 1940, Sali and his family (two other people
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Signature of Sali Seligmann from 1956.](../../images/1-Untersch_087c6bc95ed2c22ba28366a41a70aa10_original.jpg)
 *1956 — Author: Andreas Schanne | License: HHStAW, 519/320560 ODER HHStAW, 518, 58809 | Description: Signature of Sali Seligmann from 1956.*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Sandweg 40 in Frankfurt-Bornheim/Ostend](../../images/2-Sandweg4_41e2f2b9c61ca0a4c985cc3286b19107_original.jpg)
 *2024 — Author: Yanaphon Sanitsom | Description: Sandweg 40 in Frankfurt-Bornheim/Ostend*
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bettinaplatz 59](../../images/Bettinapla_0e735cc239f36fed172f21ff5eb653fe_original.jpg)
 *License: ISG | Description: Bettinaplatz 59*
 

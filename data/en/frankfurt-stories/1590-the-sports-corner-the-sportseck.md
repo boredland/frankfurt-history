@@ -22,6 +22,7 @@ The building was only leased and, as is so often the case, belonged to the Bindi
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The Sport-Eck was a great inn. The picture was taken at the birthday of Gretl Pflug.](../../images/station%208__8273e00a54e8a163907a2abf47c5ce3e_original.jpg)
 *License: Förderkreis historisches Bornheim | Description: The Sport-Eck was a great inn. The picture was taken at the birthday of Gretl Pflug.*
 

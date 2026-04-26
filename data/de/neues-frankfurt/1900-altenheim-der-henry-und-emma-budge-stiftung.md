@@ -31,6 +31,7 @@ Quelle: Lore Kramer: Das Altersheim der Henry und Emma Budge-Stiftung in Frankfu
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Titelblatt der Zeitschrift “Das Neue Frankfurt” (1930, Heft 7) mit der isometrischen Zeichnung des Gebäudes.](../../images/isg_ffm_s7_271878f9dd592940b8dc952ddc8c7b64_original.jpg)
 *1930 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Titelblatt der Zeitschrift “Das Neue Frankfurt” (1930, Heft 7) mit der isometrischen Zeichnung des Gebäudes.*
 
@@ -43,6 +44,7 @@ Quelle: Lore Kramer: Das Altersheim der Henry und Emma Budge-Stiftung in Frankfu
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Der Gartenhof zwischen den beiden Flügeln des zweigeschossigen Gebäudes.](../../images/isg_ffm_s7_c62befac2b943ec2260123acd79272bd_original.jpg)
 *Unbekannt — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Der Gartenhof zwischen den beiden Flügeln des zweigeschossigen Gebäudes.*
 

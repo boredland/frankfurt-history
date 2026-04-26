@@ -23,6 +23,7 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne](../../images/Ph03224a_j_bdae36c341a3ed7d3683b2d62b12c23a_original.jpg)
 *Author: Hannah Reeck | License: HMF Ph03224a | Description: Foto des Rathaus Römerberg und dem Hissen der Hakenkreuzfahne*
 

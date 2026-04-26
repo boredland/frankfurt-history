@@ -24,6 +24,7 @@ Die Firma Hartmann & Braun AG betrieb seit 1942 ein Zwangsarbeitslager im Hotel 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Historische Zeitungsanzeige des Hotel-Restaurant "Rheingauer Hof", in dem die Firma Hartmann &amp; Braun AG ein Zwangsarbeitslager betrieb](../../images/36908a73cd9777e61a89acdde8b9cf8c_original.jpg)
 *ca. 1910 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2006-88 | Description: Historische Zeitungsanzeige des Hotel-Restaurant "Rheingauer Hof", in dem die Firma Hartmann &amp; Braun AG ein Zwangsarbeitslager betrieb*
 

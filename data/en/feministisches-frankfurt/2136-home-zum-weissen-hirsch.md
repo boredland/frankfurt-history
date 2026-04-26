@@ -23,6 +23,7 @@ The “Wheiße Hirsch” was one of the largest estates with extensive gardens i
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/R0077%2B001__e57852f534ac942cbbf5b522abfe3f32_original.jpg)
 *Author: Carl Theodor Reiffenstein | License: HMF/Gemeinfrei*
 

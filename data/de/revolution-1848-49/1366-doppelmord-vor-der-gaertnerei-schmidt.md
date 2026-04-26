@@ -25,6 +25,7 @@ Nach einer Verfolgungsjagd durch die vor der Stadt gelegenen Gärten bis zur Bor
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kolorierte Lithografie: Von Aufständischen umringt sieht Lichnowsky vor dem Haus des Kunstgärtners Schmidt dem Tod entgegen. Der leblose Auerswald wird in einen Graben geschleift.](../../images/Route%203%2C%20S_64f0c0a5eaa515f1759c49c4748994cc_original.jpg)
 *1848 — Author: Wilhelm Völker | License: HMF C 10164b | Description: Kolorierte Lithografie: Von Aufständischen umringt sieht Lichnowsky vor dem Haus des Kunstgärtners Schmidt dem Tod entgegen. Der leblose Auerswald wird in einen Graben geschleift.*
 

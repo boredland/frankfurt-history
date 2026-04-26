@@ -26,6 +26,7 @@ Construction company: unknown
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Heddernheimer Kirchstraße](../../images/87f72a22bc9ee9e00e5c106fe8834d76_original.jpg)
 *ca. 1955 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2008-128 | Description: Photo of a bomb shelter located in Heddernheimer Kirchstraße*
 

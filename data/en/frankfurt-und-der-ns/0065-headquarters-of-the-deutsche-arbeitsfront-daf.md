@@ -26,6 +26,7 @@ The trade union hall at Bürgerstrasse 69–77 (now Wilhelm-Leuschner-Strasse 69
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the headquarters of the Deutsche Arbeitsfront (DAF)](../../images/2dbc6ae8b31383adee828cd1574dcf83_original.jpg)
 *1931 — Author: Wolff & Tritschler | License: HMF C35145 | Description: Photo of the headquarters of the Deutsche Arbeitsfront (DAF)*
 

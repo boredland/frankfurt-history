@@ -24,6 +24,7 @@ This was the site of a camp for Ukrainian forced labourers who were assigned to 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Alt Bornheim 10](../../images/4d7e454f32fd002e88a92c35720d4492_original.jpg)
 *before 1941 — Author: Otto Emmel | License: HMF, Ph21065 | Description: Forced labor camp, Alt Bornheim 10*
 

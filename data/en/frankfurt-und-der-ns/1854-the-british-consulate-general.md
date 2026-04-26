@@ -22,6 +22,7 @@ The consulate aided Jews following the pogroms in November 1938, and 10,000 Jewi
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The memorial plaque at Guiollettstrasse 62 commemorates the efforts made and assistance given by the British Consulate General, where Smallbones and Dowden saved many thousands of Jewish lives from National Socialist persecution.](../../images/Gedenktafe_a2471bfc2598a818c944f9691cbaad7d_original.jpg)
 *2024 — Author: Aliah Habl Corona | License: gemeinfrei | Description: The memorial plaque at Guiollettstrasse 62 commemorates the efforts made and assistance given by the British Consulate General, where Smallbones and Dowden saved many thousands of Jewish lives from National Socialist persecution.*
 

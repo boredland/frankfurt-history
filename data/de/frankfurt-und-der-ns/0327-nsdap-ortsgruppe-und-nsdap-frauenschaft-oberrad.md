@@ -24,6 +24,7 @@ Hier hatte die Ortsgruppe Oberrad der Nationalsozialistischen Deutschen Arbeiter
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Oberrad](../../images/dccf594676626b1298bf413978d008de_original.jpg)
 *1934 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 2006-1 | Description: Foto des Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Oberrad*
 

@@ -25,6 +25,7 @@ Architect Margarete Schütte-Lihotzky (1897-2000) designed this kitchen as a sta
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/PhD_02653__e02ebfd354b8cfc2726807d621bc659a_original.jpg)
 *Author: Calle Hesslefors | License: HMF*
 

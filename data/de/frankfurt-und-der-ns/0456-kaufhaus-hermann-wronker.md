@@ -23,6 +23,7 @@ Das Warenhaus in der Zeil 97 war Teil der 1921 gegründeten Hermann Wronker AG. 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Kaufhauses der Hermann Wronker AG auf der Zeil](../../images/49587b41df234c13fd7eb18cf076105a_original.jpg)
 *ca. 1940 — Author: Stuhl | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-10243 | Description: Foto eines Kaufhauses der Hermann Wronker AG auf der Zeil*
 

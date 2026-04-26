@@ -25,6 +25,7 @@ Die Adler-Werke (vormals Heinrich Kleyer AG) waren während des Krieges einer de
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit der Allgemeinen Elektricitäts-Gesellschaft](../../images/4dcf5d61dc8b0a013859066c4ceedced_original.jpg)
 *o.D. — Author: unbekannt | License: HMF, Sammlung Church, C80376 | Description: Bildpostkarte mit der Allgemeinen Elektricitäts-Gesellschaft*
 

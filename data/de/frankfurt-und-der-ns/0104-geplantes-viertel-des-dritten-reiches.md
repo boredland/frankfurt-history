@@ -24,6 +24,7 @@ Auf dem Gelände des Gewerkschaftshauses plante die Deutsche Arbeitsfront (DAF) 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Architekturmodell eines Bau­projekts mit dem Namen „Vier­tel des Drit­ten Rei­ches“](../../images/7f19f3643dab19718dba685c79c7b7bd_original.jpg)
 *1937 — Author: Hugo Schmölz | License: HMF C35090 | Description: Architekturmodell eines Bau­projekts mit dem Namen „Vier­tel des Drit­ten Rei­ches“*
 

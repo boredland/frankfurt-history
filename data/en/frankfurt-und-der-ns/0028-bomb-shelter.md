@@ -27,6 +27,7 @@ Construction company: ARGE (Arbeitsgemeinschaft) Junior
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter in Eppenhainer Straße](../../images/a05049996b61646eb038f79e68493ab9_original.jpg)
 *n.d. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter in Eppenhainer Straße*
 

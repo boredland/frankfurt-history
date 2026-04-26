@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Hansaallee 30](../../images/Hansaallee_e227c00e47ec435abf03608c6cfd8223_original.jpg)
 *ca. 1970 — Author: unbekannt | License: ISG | Description: Hansaallee 30*
 

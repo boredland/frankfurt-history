@@ -27,6 +27,7 @@ Bis heute erinnert auf dem Hauptfriedhof an die im Septemberaufstand 1848 gefall
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lithografie: Das Denkmal für die „Gefallenen aus dem Volke“ auf dem Hauptfriedhof. Auf den vier Seiten des Obelisken sind 34 Namen eingemeißelt.](../../images/Route%203%2C%20S_c9183cd1bdc591c5d1a33b68b1bbebf5_original.jpg)
 *1872 — Author: H. Schaefer | License: HMF C 10173 | Description: Lithografie: Das Denkmal für die „Gefallenen aus dem Volke“ auf dem Hauptfriedhof. Auf den vier Seiten des Obelisken sind 34 Namen eingemeißelt.*
 

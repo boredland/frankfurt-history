@@ -31,6 +31,7 @@ Quelle: Christina Gräwe, Jörg Schilling: Grossmarkthalle Frankfurt am Main 192
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht der Großmarkthalle](../../images/Grossmarkt_a19872dbc67e49ad7f419d66ad5338d6_original.jpg)
 *um 1929 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: Ansicht der Großmarkthalle*
 

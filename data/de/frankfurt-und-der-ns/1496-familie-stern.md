@@ -27,6 +27,7 @@ Seligmann Stern hatte im 1. Weltkrieg gekämpft und sich mit Malaria infiziert, 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Selma und Elfriede Stern](../../images/Selma%20Ster_4a597eef880b7115a7c616f7f0a9907a_original.jpg)
 *Author: unbekannt | Description: Selma und Elfriede Stern*
 

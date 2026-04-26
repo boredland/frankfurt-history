@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Friedberger Anlage 15](../../images/Friedberge_c7aaa8a5df2bc7c7d5980967ef66a6d5_original.jpg)
 *2012 — Author: Martin Starl | License: ISG | Description: Friedberger Anlage 15*
 

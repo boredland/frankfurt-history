@@ -26,6 +26,7 @@ On 6 December 1882, around 200 interested people from various parts of Germany g
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The large hall of the Saalbau, 1908. The founding meeting of the German Colonial Association took place in the small hall.](../../images/saalbau_pn_7944ac26a01e16732174f78547ad8027_original.jpg)
 *1908 — License: HMF.C25741. | Description: The large hall of the Saalbau, 1908. The founding meeting of the German Colonial Association took place in the small hall.*
 

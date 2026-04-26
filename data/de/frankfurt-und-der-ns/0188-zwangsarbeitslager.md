@@ -24,6 +24,7 @@ In der Kesselbergstraße 30-34 (heute: Hahnstraße) befand sich die Konservenfab
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Hahnstraße 30-34](../../images/e8f5efa120b841eec8be90d0dd9b6f0e_original.jpg)
 *1925 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29791 | Description: Zwangsarbeitslager, Hahnstraße 30-34*
 

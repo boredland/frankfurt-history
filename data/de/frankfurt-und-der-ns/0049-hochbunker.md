@@ -27,6 +27,7 @@ Bauunternehmen: Karl Hofmann II, Ortenberg.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Ludwigstraße](../../images/e65009731c342e8dcfdf021c82dceb61_original.jpg)
 *1944 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Ludwigstraße*
 

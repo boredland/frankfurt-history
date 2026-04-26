@@ -25,6 +25,7 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Portrait of Adolf Krämer; M-001763](../../images/Kra%CC%88mer_A_96e70f67236f66bcbae88e444253dfd9_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Portrait of Adolf Krämer; M-001763*
 

@@ -27,6 +27,7 @@ Bauunternehmen: A. u. K. Dietrich, Frankfurt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Lortzingstraße](../../images/492d44a96576839671aeb79ad8856f49_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Lortzingstraße*
 

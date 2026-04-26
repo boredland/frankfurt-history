@@ -24,6 +24,7 @@ The Biegwald guesthouse and forester’s lodge was already housing 36 Polish for
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the Biegwald inn](../../images/19614a48854fd7de7c424553d42cae90_original.jpg)
 *before 1936 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 899-6 | Description: Picture postcard with the Biegwald inn*
 

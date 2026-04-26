@@ -27,6 +27,7 @@ Bauunternehmen: Philipp Holzmann AG.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers Im Wörth](../../images/ef903ac59722d7fb7b3f923114b4a5a9_original.jpg)
 *1940 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers Im Wörth*
 

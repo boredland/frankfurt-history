@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Loenstraße 3](../../images/Loenstrass_d9c87a4d18f362520ba2eb34ee2790c9_original.jpg)
 *1983 — Author: Jutta Hofmann | License: ISG | Description: Loenstraße 3*
 

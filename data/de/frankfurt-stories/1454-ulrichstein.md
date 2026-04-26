@@ -26,6 +26,7 @@ Trotz einiger Einwände wurde der Turm um 1930 für den Durchbruch einer hochwas
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Reste des Ulrichsteins und alten Häuser in der Färberstraße, 1871/1877, aquarellierte Bleistiftzeichnung, HMF RS0207](../../images/RS0207_png_ffc7cd58231024582c1048ec300629aa_original.jpg)
 *1871/1877 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Reste des Ulrichsteins und alten Häuser in der Färberstraße, 1871/1877, aquarellierte Bleistiftzeichnung, HMF RS0207*
 

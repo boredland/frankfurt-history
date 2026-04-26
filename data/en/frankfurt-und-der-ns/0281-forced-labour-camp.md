@@ -24,6 +24,7 @@ The Bäuerliche Hauptgenossenschaft (BHG) Rhein-Main-Neckar had its headquarters
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a multi-story building and the headquarters of the Bäuerliche Hauptgenossenschaft (BHG) Rhein-Main-Neckar at Taunusanlage 3](../../images/763c20532e12c08d0bcfe7ccf876b57e_original.jpg)
 *ca. 1942 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-10626 | Description: Photo of a multi-story building and the headquarters of the Bäuerliche Hauptgenossenschaft (BHG) Rhein-Main-Neckar at Taunusanlage 3*
 

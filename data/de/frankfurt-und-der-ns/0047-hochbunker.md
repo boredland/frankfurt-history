@@ -27,6 +27,7 @@ Bauunternehmen: Eduard Züblin AG.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Lassallestraße](../../images/4aba624db8d678727aab409b2766f331_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Lassallestraße*
 

@@ -22,6 +22,7 @@ Hier war das technische Büro der Siemens & Halske AG ansässig, in dem zwei hol
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Gutleutstraße 31](../../images/4e67a4a2537483024e2635e7ad83b95a_original.jpg)
 *ca. 1900 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-11220 | Description: Zwangsarbeitslager, Gutleutstraße 31*
 

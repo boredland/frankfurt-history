@@ -27,12 +27,14 @@ The memory of him and his family remains, as next year (2025) stumbling stones w
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Jakob Horovitz](../../images/isg_ffm_s7_d775e14140845140bc80bc9ca6b698d8_original.jpg)
 *Über Hinweise zur/m Bildeigentümer/in sind wir dankbar! — License: ISG FFM S7P Nr. 6890 | Description: Jakob Horovitz*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Staufenstreet 33 (today): The home of Jakob Horovitz](../../images/Staufenstr_fc4d9a37545728a7cc9ee06815e2ef8d_original.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Staufenstreet 33 (today): The home of Jakob Horovitz*
 

@@ -23,6 +23,7 @@ Mathilde Battenberg (1878-1936) war eine der ersten Schülerinnen der Malerin Ot
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Städel'sche Kunstinstitut in der Neuen Mainzer Landstraße, Druckgrafik](../../images/C12709g_00_f6201389b68f752c798b50e8034b06ff_original.jpg)
 *um 1860 — Author: Unbekannt | License: HMF/Gemeinfrei; | Description: Das Städel'sche Kunstinstitut in der Neuen Mainzer Landstraße, Druckgrafik*
 

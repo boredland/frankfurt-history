@@ -33,6 +33,7 @@ Quelle: https://www.martin-elsaesser.de/projekte/rathaus-frankfurt-am-main/
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ideenskizze für ein Rathaus als Hochhaus](../../images/Rathaus-En_08f4177755632995b3c8416a7ef6e3f9_original.jpg)
 *Unbekannte — Author: Martin Elsaesser | License: Martin Elsaesser: Bauten und Entwürfe aus den Jahren 1924–1932, Berlin 1933 | Description: Ideenskizze für ein Rathaus als Hochhaus*
 

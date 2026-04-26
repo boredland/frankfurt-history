@@ -36,6 +36,7 @@ Heike Risse, Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Straßenansicht des Gebäudes, 1929](../../images/Volksstimm_10816135da40a3623e51e627838e7a85_original.jpg)
 *1929 — Author: unbekannt / unknown | License: Das Neue Frankfurt, 1929, Heft 12, S. 234 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Straßenansicht des Gebäudes, 1929*
 

@@ -35,6 +35,7 @@ For its many armament orders, Carbone AG, a carbon brush and battery component f
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Laurentiuskirchgarten with chapel, Catholic Church of St. Laurentius, which has belonged to the “Parish of Catherine of Siena” since 2016.](../../images/d588850cffb78d6c0b1f59c44a98e3ed_original.jpg)
 *approx. 1980 — Author: Adam Ruppel | License: ISG FFM S14Ru Nr. 1660 | Description: Laurentiuskirchgarten with chapel, Catholic Church of St. Laurentius, which has belonged to the “Parish of Catherine of Siena” since 2016.*
 

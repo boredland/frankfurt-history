@@ -18,6 +18,7 @@ This building was the headquarters of the local branch of the National Socialist
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Eckenheimer Landstraße 308](../../images/NSDAP%20Ecke_35cba1e1b1ec0f9667c52809534d492c_original.jpg)
 *2023 — Description: Eckenheimer Landstraße 308*
 

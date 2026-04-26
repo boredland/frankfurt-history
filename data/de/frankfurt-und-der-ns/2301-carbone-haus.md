@@ -31,6 +31,7 @@ Die Firmenleitung der Carbone bemühte sich intensiv, alle benötigten 60 Fachar
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Umbauplan für das Carbone-Haus Frankfurt am Main - Bonames, Homburger Landstraße 642, datiert auf den 17. Mai 1942.](../../images/ABB%2039%20Car_31d7bc105787fe8909c820ee57fd0abd_original.jpg)
 *o.D. — Author: Unbekannt | License: Fritz Koch | Description: Umbauplan für das Carbone-Haus Frankfurt am Main - Bonames, Homburger Landstraße 642, datiert auf den 17. Mai 1942.*
 

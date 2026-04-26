@@ -23,6 +23,7 @@ The video was created as part of the project "What's May 8 to me? Five senior cl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/20ce3dcda162d52bb272a0eb6586b80d_original.jpg)
 
 

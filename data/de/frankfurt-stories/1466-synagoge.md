@@ -28,6 +28,7 @@ Die Hauptsynagoge wurde 1938 während der Novemberprogrome zerstört. Nur noch e
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Blick in die Judengasse, links die alte Synagoge, 1845, aquarellierte Bleistiftzeichnung, HMF R0254](../../images/R0254_png_9a2de6a65e9238caf10a2f2dfafda94c_original.jpg)
 *1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Blick in die Judengasse, links die alte Synagoge, 1845, aquarellierte Bleistiftzeichnung, HMF R0254*
 

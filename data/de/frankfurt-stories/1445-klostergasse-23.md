@@ -25,6 +25,7 @@ Die Klostergasse erstreckte sich parallel zur Fahrgasse, auf deren Ostseite sie 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Klostergasse 23, Hinterhäuser, Durchbruch der Battonnstraße, 1884, aquarellierte Bleistiftzeichnung, HMF R1625](../../images/R1625_png_c00844e30172568789760515a484cf41_original.jpg)
 *1884 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Klostergasse 23, Hinterhäuser, Durchbruch der Battonnstraße, 1884, aquarellierte Bleistiftzeichnung, HMF R1625*
 

@@ -24,6 +24,7 @@ The Jakob Heisack restaurant housed 18 forced labourers from France in its main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard showing the buildings at Alt-Schwanheim 8 (left) and Alt-Schwanheim 6 (right)](../../images/11f05813b969cd9b2b9435bcd01345b4_original.jpg)
 *unknown — Author: Unbekannt | License: HMF, Sammlung Church, C80406 | Description: Picture postcard showing the buildings at Alt-Schwanheim 8 (left) and Alt-Schwanheim 6 (right)*
 

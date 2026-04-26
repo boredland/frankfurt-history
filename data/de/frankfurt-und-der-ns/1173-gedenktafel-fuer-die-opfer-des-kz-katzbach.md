@@ -28,6 +28,7 @@ Die Gedenktafel wurde auf Initiative des Betriebsrates der Adlerwerke (zu diesem
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die Gedenktafel für die Häftlinge des KZ „Katzbach“.](../../images/Altmeyer%2C%20_8ec8ec661cf474915928965687bb3beb_original.jpg)
 *2023 — Author: Thomas Altmeyer | License: gemeinfrei | Description: Die Gedenktafel für die Häftlinge des KZ „Katzbach“.*
 

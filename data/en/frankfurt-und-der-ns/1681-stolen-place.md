@@ -25,6 +25,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Hermesweg 3](../../images/Hermesweg-_96626e8a8463ad0b0bdab7a7eff3e455_original.jpg)
 *2012 — Author: Martin Starl | License: ISG | Description: Hermesweg 3*
 

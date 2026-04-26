@@ -23,6 +23,7 @@ Jenny Apolant arbeitete hier anfangs allein. Sie sichtete Unterlagen, sammelte S
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Fragebogen Auskunftstelle der Gemeindeämter der Frauen, Frankfurt am Main Bockenheimerlandstraße 109](../../images/Dame0490_0_85aa002304abf340444544db7c089a61_original.jpg)
 *1908 — Author: Unbekannt | License: HMF | Description: Fragebogen Auskunftstelle der Gemeindeämter der Frauen, Frankfurt am Main Bockenheimerlandstraße 109*
 

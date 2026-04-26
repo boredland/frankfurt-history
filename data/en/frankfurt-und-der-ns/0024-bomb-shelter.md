@@ -27,6 +27,7 @@ Construction company: Hochtief AG
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Brühlstraße](../../images/7e5e3d672454a3ed77d15f9ac29c5e9a_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Brühlstraße*
 

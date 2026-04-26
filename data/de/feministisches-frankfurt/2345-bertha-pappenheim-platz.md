@@ -23,6 +23,7 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bertha Pappenheim Platz](../../images/Bertha%20Pap_a8bdfe56abd4036a5d6f2850f5c92af8_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Bertha Pappenheim Platz*
 

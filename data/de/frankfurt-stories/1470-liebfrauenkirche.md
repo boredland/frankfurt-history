@@ -28,6 +28,7 @@ Nach der Zerstörung im Zweiten Weltkrieg wurde die Kirche bis 1955/56 wiederauf
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Liebfrauenberg mit Liebfrauenkirche vor dem Durchbruch der Liebfrauenstraße, 1845, Aquarell, HMF C13074](../../images/C13074_png_3822dfb942d09de5e7dd4d1bc84dcafa_original.jpg)
 *1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Liebfrauenberg mit Liebfrauenkirche vor dem Durchbruch der Liebfrauenstraße, 1845, Aquarell, HMF C13074*
 

@@ -24,6 +24,7 @@ The Philipp Holzmann construction company based at Taunusanlage 1 made use of se
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a multi-storey building and headquarters of the construction company Philipp Holzmann AG at Taunusanlage 1](../../images/38bc1dd3fcb1a463bb07b74c6c92eb7a_original.jpg)
 *ca. 1942 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-10624 | Description: Photo of a multi-storey building and headquarters of the construction company Philipp Holzmann AG at Taunusanlage 1*
 

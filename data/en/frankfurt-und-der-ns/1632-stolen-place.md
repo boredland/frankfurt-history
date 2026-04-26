@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Eschersheimer Landstraße 12](../../images/Eschershei_64e6d99653b32a5f30748ab73eba3708_original.jpg)
 *1938 — Author: Hannah Reeck | License: ISG | Description: Eschersheimer Landstraße 12*
 

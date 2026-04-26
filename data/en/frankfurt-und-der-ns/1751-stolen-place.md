@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Röderbergweg 29](../../images/Roederberg_c893f46f69a29644c92d6323bf3448d2_original.jpg)
 *ca. 1925 — Author: unbekannt | License: ISG | Description: Röderbergweg 29*
 

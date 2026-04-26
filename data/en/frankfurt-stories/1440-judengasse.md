@@ -29,6 +29,7 @@ From 1864, the city acquired dilapidated houses with the plan of redeveloping th
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Judengasse, back houses, 1849, watercolored pencil drawing, HMF R0271](../../images/R0271_png_172e953183a0138a307edb03c7098035_original.jpg)
 *1849 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Judengasse, back houses, 1849, watercolored pencil drawing, HMF R0271*
 

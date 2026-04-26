@@ -23,6 +23,7 @@ Toni Schiesser arbeitete sich ohne formale Ausbildung mit Ausdauer und unternehm
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Modeatelier Toni Schiesser in der Friedensstraße 2, Fotografie](../../images/Ph30680_jp_ab8837f8d28bc9017ce30d5aa6e3e55d_original.jpg)
 *1988 — Author: Unbekannt | License: HMF | Description: Modeatelier Toni Schiesser in der Friedensstraße 2, Fotografie*
 

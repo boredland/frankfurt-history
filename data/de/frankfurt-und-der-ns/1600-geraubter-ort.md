@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Alte Gasse 26a](../../images/Alte-Gasse_756db780f1f9a43574b0091806d90e72_original.jpg)
 *1908 — Author: Hermann Bückling | License: HMF | Description: Alte Gasse 26a*
 

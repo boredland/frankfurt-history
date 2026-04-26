@@ -24,6 +24,7 @@ Die Rokoko-Diele war der wichtigste Treffpunkt für Jugendliche, die Swing hört
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Rokokodiele im Hotel Kyffhäuser](../../images/c36b7ab6be2abf657ea95de842c594a1_original.jpg)
 *1942 — Author: unbekannt | License: HMF, Sammlung Church, C80368 | Description: Bildpostkarte mit Rokokodiele im Hotel Kyffhäuser*
 

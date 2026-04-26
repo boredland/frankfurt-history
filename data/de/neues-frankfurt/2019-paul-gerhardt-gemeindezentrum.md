@@ -34,6 +34,7 @@ Philipp Sturm: Das moderne Gemeindehaus der Paul-Gerhardt-Gemeinde und sein Arch
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die Paul-Gerhardt-Kirche im Rohbau](../../images/Paul-Gerha_da332d3d99fa27c6543e6658e51016d5_original.jpg)
 *1930 — Author: Unbekannt | License: Bauwelt, 1930, Heft 41, Seite 16 | Description: Die Paul-Gerhardt-Kirche im Rohbau*
 

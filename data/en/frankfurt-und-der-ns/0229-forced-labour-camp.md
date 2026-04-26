@@ -21,6 +21,7 @@ David Stempel AG ran a camp for forced laborers at Hedderichstraße 104-116.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp](../../images/Ph18838%2B00_31d10f2c9959ebd58d7ef212616d902e_original.jpg)
 *Author: Jean Meyer | License: HMF Ph18838 | Description: Forced labor camp*
 

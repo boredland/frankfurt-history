@@ -40,6 +40,7 @@ So war der Aufstand nach nur einer Stunde vorbei.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Color lithograph: Francois Georgin, ca. 1833, Institut für Stadtgeschichte, Frankfurt Best. S7Z No. 1833-2](../../images/LS_Hauptwa_b846fa895325646b32c88078f22a7f0c_original.jpg)
 *um 1833 — Author: Francois Georgin | Description: Color lithograph: Francois Georgin, ca. 1833, Institut für Stadtgeschichte, Frankfurt Best. S7Z No. 1833-2*
 

@@ -24,6 +24,7 @@ Das vegetarische Restaurant Eden am Platz der SA (heute: Börsenplatz) galt als 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Vegetarisches Restaurant „Eden“, Börsenstraße 7](../../images/97915dc647aaafe9f2e94b7d80661c84_original.jpg)
 *1933 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1933-396 | Description: Vegetarisches Restaurant „Eden“, Börsenstraße 7*
 

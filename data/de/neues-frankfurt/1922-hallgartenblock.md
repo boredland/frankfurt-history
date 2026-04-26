@@ -31,6 +31,7 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht des Hallgartenblocks an der Ecke Rotlintstraße/Hallgartenstraße](../../images/Hallgarten_01e8172698b6a1a712736ff2dedfb58c_original.jpg)
 *um 1930 — Author: Unbekannt | License: Emil Klar: Vier Jahrzehnte Wohnungsbau. Denkschrift zum vierzigjährigen Bestehen der Aktienbaugesellschaft für kleine Wohnungen in Frankfurt am Main. 1890-1930. Frankfurt 1930, S. 37. | Description: Ansicht des Hallgartenblocks an der Ecke Rotlintstraße/Hallgartenstraße*
 

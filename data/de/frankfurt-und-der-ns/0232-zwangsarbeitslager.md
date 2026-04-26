@@ -22,6 +22,7 @@ Hier war das Firmengelände der Firma Hans Metz & Co, einer Präzisionsfabrik f�
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, In der Au 2](../../images/a333a5d7fda1123a5acc4f04426d5aec_original.jpg)
 *unbekannt — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 5578 | Description: Zwangsarbeitslager, In der Au 2*
 

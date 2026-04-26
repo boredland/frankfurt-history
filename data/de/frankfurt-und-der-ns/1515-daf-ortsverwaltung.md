@@ -19,6 +19,7 @@ An der Stelle der heutigen Kita stand früher das Vereinsheim, in dem die Ortsve
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kurzröderstraße 18](../../images/P1036569_J_7accf5e741610a2570467efb460de21a_original.jpg)
 *2024 — Description: Kurzröderstraße 18*
 

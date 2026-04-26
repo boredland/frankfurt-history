@@ -24,6 +24,7 @@ In der Arbeitersiedlung Westhausen wohnten überwiegend Wähler*innen der Sozial
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftbildfoto der Siedlung Westhausen](../../images/9ac75c7230c92309ff54cf03483231d1_original.jpg)
 *o.D. — Author: unbekannt | Description: Luftbildfoto der Siedlung Westhausen*
 

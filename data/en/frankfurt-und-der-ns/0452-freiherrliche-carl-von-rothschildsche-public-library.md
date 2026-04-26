@@ -22,6 +22,7 @@ The Freiherrlich Carl von Rothschild’sche Public Library was located at this s
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the Freiherrliche Carl von Rothschildsche public library](../../images/C12852a_jp_7f9581b15500b1d61192abbcc641e9a9_original.jpg)
 *ca. 1890 — Author: Kühl & Co. | License: HMF C12852a | Description: Photo of the Freiherrliche Carl von Rothschildsche public library*
 

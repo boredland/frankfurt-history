@@ -26,6 +26,7 @@ Paul Arnsberg kam 1890 in Frankfurt am Main als Sohn jüdischer Eltern zur Welt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/isg_gt_arn_bdcea8838e6f7addba8798770484b010_original.jpg)
 *Author: © Institut für Stadtgeschichte*
 

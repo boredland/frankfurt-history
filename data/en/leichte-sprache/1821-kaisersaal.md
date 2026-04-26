@@ -54,6 +54,7 @@ Die Freude war riesig:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lithografie: verlegt von Heinrich Keller, um 1880, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 322](../../images/LS_Kaisers_dd7b9c3dd70966d9ba7c0043788da079_original.jpg)
 *um 1880 — Author: verlegt von Heinrich Keller | Description: Lithografie: verlegt von Heinrich Keller, um 1880, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 322*
 

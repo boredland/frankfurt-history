@@ -26,6 +26,7 @@ The photo shows the members of the Magistrat and city councillors in 1926 in the
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/C26728_jpg_e0970237803add1a489985aa0dd019da_original.jpg)
 *Author: Friedrich Lauffer | License: HMF/Gemeinfrei*
 

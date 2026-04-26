@@ -22,6 +22,7 @@ In der Klostergasse (heute: Fahrgasse) waren Zivilarbeiter*innen untergebracht. 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Fahrgasse 10](../../images/71d707ec2322c5105412c41f0214393f_original.jpg)
 *ca. 1930 — Author: Rainer Emanuel | License: HMF, Ph06493 | Description: Zwangsarbeitslager, Fahrgasse 10*
 

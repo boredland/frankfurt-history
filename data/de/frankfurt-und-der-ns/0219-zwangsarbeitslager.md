@@ -22,6 +22,7 @@ Die I.G. Farben-Industrie AG hatte ihren Verwaltungssitz am Grüneburgplatz 20 (
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Norbert-Wollheim-Platz 1](../../images/6c3cd7858d4fbb52ae73dd9370ff1257_original.jpg)
 *1937 — Author: Unbekannt | License: HMF, C31431 | Description: Zwangsarbeitslager, Norbert-Wollheim-Platz 1*
 

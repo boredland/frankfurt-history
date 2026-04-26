@@ -29,6 +29,7 @@ Inhaltlich übernahm der „Augsburger Hof“ weite Teile des Programms des „W
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der Vogelgesangsgasse mit Blick auf den Augsburger Hof](../../images/04%20Augsbur_16cbb84bbb559e7794dc4d7150ff4c95_original.jpg)
 *1915 — Author: Carl Andreas Abt | License: HMF C23217 | Description: Foto der Vogelgesangsgasse mit Blick auf den Augsburger Hof*
 

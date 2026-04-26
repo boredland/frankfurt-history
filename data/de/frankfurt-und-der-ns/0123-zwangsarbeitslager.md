@@ -22,6 +22,7 @@ An der Ecke der Hanauer Landstraße 108/Honsellstraße befand sich das Zwangsarb
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Hanauer Landstraße 108](../../images/6c63536800b23f58ddeb4f2cf5b4eca8_original.jpg)
 *1927 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A No. 1998-13997 | Description: Zwangsarbeitslager, Hanauer Landstraße 108*
 

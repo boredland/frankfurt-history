@@ -21,6 +21,7 @@ Anna Beyer (1909-1991) eröffnete 1936 die vegetarische Gaststätte „Vega“ i
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Anna Beyer als Küchenhilfe in einer vegetarischen Gaststätte in London 1943, Fotografie](../../images/NS0710_001_1b942a6553deb2a3d9d6bea27ddab27e_original.jpg)
 *1943 — Author: Unbekannt | License: Hessisches Hauptstaatsarchiv Wiesbaden/Unklar | Description: Anna Beyer als Küchenhilfe in einer vegetarischen Gaststätte in London 1943, Fotografie*
 

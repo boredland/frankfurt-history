@@ -26,6 +26,7 @@ As part of the restructuring of the Ostend, a square was named after Paul Arnsbe
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/isg_gt_arn_bdcea8838e6f7addba8798770484b010_original.jpg)
 *Author: © Institut für Stadtgeschichte*
 

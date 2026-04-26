@@ -20,6 +20,7 @@ filters:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The entrance to the Zeilsheim DP camp at the intersection of Pfaffenwiese and Hahnbergstraße.](../../images/2-Station-_04a4764722f373e476081837519c7abe_original.jpg)
 *n.d. — Author: Ephraim Mayer Robinson | License: Ghetto Fighters House Museum, Israel/ Photo Archive, photographer: Robinson, Foto, Zeilsheim, Catalog no. 1929. | Description: The entrance to the Zeilsheim DP camp at the intersection of Pfaffenwiese and Hahnbergstraße.*
 

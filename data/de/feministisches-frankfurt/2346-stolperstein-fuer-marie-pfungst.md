@@ -23,6 +23,7 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein für Marie Pfungst](../../images/Stolperste_299fc5d0577d85bb86b706da35ad8975_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Stolperstein für Marie Pfungst*
 

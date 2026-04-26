@@ -24,6 +24,7 @@ Hier befand sich das Gestüt Waldfried (heute: Waldstraße) von Arthur und Carl 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftaufnahme der Waldstraße 78, wo die Degussa das Zwangsarbeitslager „Waldfried“ betrieb](../../images/87825c5aab2793f12b5d8d76d357b9bb_original.jpg)
 *1927 — Author: unbekannt | License: Südwestdeutsche Luftverkehrs-A.G., Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2012-142 | Description: Luftaufnahme der Waldstraße 78, wo die Degussa das Zwangsarbeitslager „Waldfried“ betrieb*
 

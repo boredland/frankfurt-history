@@ -25,6 +25,7 @@ Das Kinderhaus des Vereins der Weiblichen Fürsorge e.V., der von der Frankfurte
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kinder­haus des Ver­eins der Weibli­chen Für­sorge e.V](../../images/isg_gt_kin_113dc4be4c1a4fe776c895e329a4476f_original.jpg)
 *License: © Manfred Rosenthal, Middletown (USA) | Description: Kinder­haus des Ver­eins der Weibli­chen Für­sorge e.V*
 

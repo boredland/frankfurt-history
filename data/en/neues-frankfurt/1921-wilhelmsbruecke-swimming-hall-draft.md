@@ -32,6 +32,7 @@ www.martin-elsaesser.de/projekte/hallenschwimmbad-wilhelmsbruecke-frankfurt-am-m
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Draft of Wilhelmsbrücke swimming hall, south view from the Main river.](../../images/Hallenschw_9edaf870b5128cdb99de174f70e7a691_original.jpg)
 *1930 — Author: Martin Elsaesser | License: Martin Elsaesser: Bauten und Entwürfe aus den Jahren 1924–1932, Berlin 1933 | Description: Draft of Wilhelmsbrücke swimming hall, south view from the Main river.*
 

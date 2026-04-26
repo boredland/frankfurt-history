@@ -31,6 +31,7 @@ Further reading: Wolfgang Voigt: Institut für Sozialforschung. In: Neuer Mensch
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Street view of the institute building with entrance area emphasised by a portico with two columns.](../../images/isg_ffm_s7_c5dfd4506fcb4a2061886c16def977b8_original.jpg)
 *around 1925 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Street view of the institute building with entrance area emphasised by a portico with two columns.*
 

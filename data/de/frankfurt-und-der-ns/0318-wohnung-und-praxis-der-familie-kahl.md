@@ -23,6 +23,7 @@ In diesem Haus wohnten Margarete und Fritz Kahl, die Jüdinnen und Juden rettete
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![In dem Haus in der Blanchardstraße 22 befand sich die Wohnung und Praxis der Familie Kahl](../../images/a2ed48fa1569b474707ab54d31a1d903_original.jpg)
 *Description: In dem Haus in der Blanchardstraße 22 befand sich die Wohnung und Praxis der Familie Kahl*
 

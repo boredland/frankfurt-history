@@ -31,6 +31,7 @@ Quelle: Wolfgang Voigt: Institut für Sozialforschung. In: Neuer Mensch, neue Wo
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Straßenansicht des Institutsgebäudes mit Eingangsbereich, der durch einen Portikus mit zwei Säulen hervorgehoben wird.](../../images/isg_ffm_s7_c5dfd4506fcb4a2061886c16def977b8_original.jpg)
 *um 1925 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Straßenansicht des Institutsgebäudes mit Eingangsbereich, der durch einen Portikus mit zwei Säulen hervorgehoben wird.*
 

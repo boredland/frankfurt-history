@@ -35,6 +35,7 @@ In 1938, the family moved on to New York, where Klara attended the George Washin
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Alte Gasse](../../images/1-Alte-Gas_c706b566828b08bf84c1b4db6d357741_original.jpg)
 *2024 — Author: Chiara Mascolo, Conrad Wiedemann | Description: Alte Gasse*
 
@@ -44,6 +45,7 @@ In 1938, the family moved on to New York, where Klara attended the George Washin
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Signature of Henriette Sichel. This was probably the last sign of life that was documented before she was deported to Buchenwald.](../../images/4-Untersch_b0e501785d192d51926f0e7aa6863117_original.jpg)
 *License: HHStAW, 518/8808 | Description: Signature of Henriette Sichel. This was probably the last sign of life that was documented before she was deported to Buchenwald.*
 

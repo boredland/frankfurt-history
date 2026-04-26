@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bockenheimer Anlage 36](../../images/Bockenheim_ee5045b004acad4316fb9a3a49b8c8ee_original.jpg)
 *ca. 1910 — License: ISG | Description: Bockenheimer Anlage 36*
 

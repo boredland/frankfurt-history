@@ -24,6 +24,7 @@ She looked after customers, developed the company strategically, and expanded it
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Excerpt from the Merian plan](../../images/Metz007%2300_742735dcad1563fa2e132d771a76ffb1_original.jpg)
 *around 1620 — Author: Matthäus Merian | License: HMF/Gemeinfrei | Description: Excerpt from the Merian plan*
 

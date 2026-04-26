@@ -24,6 +24,7 @@ The Hartmann & Braun company operated a forced labour camp in the Hotel Rheingau
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Historical newspaper advertisement for the hotel-restaurant "Rheingauer Hof" in which Hartmann &amp; Braun company operated a forced labor camp](../../images/36908a73cd9777e61a89acdde8b9cf8c_original.jpg)
 *ca. 1910 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2006-88 | Description: Historical newspaper advertisement for the hotel-restaurant "Rheingauer Hof" in which Hartmann &amp; Braun company operated a forced labor camp*
 

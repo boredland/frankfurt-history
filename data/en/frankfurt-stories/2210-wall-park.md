@@ -37,12 +37,14 @@ Walking developed into a cultural technique and established itself as a bourgeoi
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Johann Friedrich Morgenstern (1777-1844), Park with Kurhäuschen in the park between Bockenheimer Tor and Eschenheimer Tor, Frankfurt 1837, HMF.C30326, public domain](../../images/C30326_001_a5ff37bfcd7e375ade355d3b21a607a2_original.jpg)
 *1837 — Author: Johann Friedrich Morgenstern | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Johann Friedrich Morgenstern (1777-1844), Park with Kurhäuschen in the park between Bockenheimer Tor and Eschenheimer Tor, Frankfurt 1837, HMF.C30326, public domain*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Matthäus Merian d. Ä. (1593-1650), Updated edition of the large city map of Frankfurt with ramparts, Frankfurt around 1761, HMF.C01215, public domain](../../images/C01215_001_4307755ccf613d57d7311b785530cf86_original.jpg)
 *Around 1761 — Author: Matthäus Merian d. Ä. | License: Gemeinfrei, HMF | Description: Matthäus Merian d. Ä. (1593-1650), Updated edition of the large city map of Frankfurt with ramparts, Frankfurt around 1761, HMF.C01215, public domain*
 
@@ -52,12 +54,14 @@ Walking developed into a cultural technique and established itself as a bourgeoi
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Johann Friedrich Morgenstern (1777-1844), Park with Kurhäuschen in the park between Bockenheimer Tor and Eschenheimer Tor, Frankfurt 1837, HMF.C30326, public domain](../../images/C30326_001_a5ff37bfcd7e375ade355d3b21a607a2_original.jpg)
 *1837 — Author: Johann Friedrich Morgenstern | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Johann Friedrich Morgenstern (1777-1844), Park with Kurhäuschen in the park between Bockenheimer Tor and Eschenheimer Tor, Frankfurt 1837, HMF.C30326, public domain*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Johann Christian Berndt (1748-1811), Demolition of the city wall in front of the Gallustor by the people of Frankfurt, Frankfurt 1805, HMF.C00718, public domain](../../images/C00718_001_b99bf6c1f774ad1ef9565fe7a6b934ab_original.jpg)
 *1805 — Author: Johann Christian Berndt | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Johann Christian Berndt (1748-1811), Demolition of the city wall in front of the Gallustor by the people of Frankfurt, Frankfurt 1805, HMF.C00718, public domain*
 

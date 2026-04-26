@@ -26,6 +26,7 @@ The vegetarian restaurant (VeGa) run by Anna Beyer and Ludwig Gehm—both member
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ufa Theatre in the Swan with film poster for ‘Der Gasmann’](../../images/ns0558_jpg_8deda27bef7c3ddbf8b0b7d207e00d6d_original.jpg)
 *1941 — Author: unbekannt | License: DFF – Deutsches Filminstitut &amp; Filmmuseum, Frankfurt | Description: Ufa Theatre in the Swan with film poster for ‘Der Gasmann’*
 

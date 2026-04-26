@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Westendstraße 58](../../images/Westendstr_143745517ce3700c2566839ffdc3d4e2_original.jpg)
 *1939 — Author: Herzog | License: ISG | Description: Westendstraße 58*
 

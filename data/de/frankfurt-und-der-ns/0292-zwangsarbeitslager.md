@@ -24,6 +24,7 @@ In der Wiener Straße 24 oder 26 war ein Zwangsarbeitslager der Fischer AG, die 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Zwangsarbeitslagers der Fischer AG](../../images/2d40130fea50ab84ee69f0ae6198f475_original.jpg)
 *ca. 1935 — Author: AERO-Express | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-24003 | Description: Foto eines Zwangsarbeitslagers der Fischer AG*
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Mauerweg 36](../../images/Mauerweg-3_9601b32884f4ecc0c829896abbd7a479_original.jpg)
 *ca. 1905 — Author: Carl Diehl | License: ISG | Description: Mauerweg 36*
 

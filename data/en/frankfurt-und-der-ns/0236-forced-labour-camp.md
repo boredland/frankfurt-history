@@ -22,6 +22,7 @@ G. Hoffmann, a construction materials company based at Kaiserstrasse 39, profite
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Kaiserstraße 39](../../images/42548a8c791f51756facd57b505ed517_original.jpg)
 *1909 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-11821 | Description: Forced labor camp, Kaiserstraße 39*
 

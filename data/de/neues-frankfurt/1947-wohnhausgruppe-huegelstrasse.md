@@ -77,6 +77,7 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftaufnahme der Wohnhausgruppe Hügelstraße.](../../images/isg_ffm_s7_59216d80099853dc38a52c3a14e4d6c6_original.jpg)
 *Juni 1929 — Author: Hugo Junkers Luftbild | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Luftaufnahme der Wohnhausgruppe Hügelstraße.*
 

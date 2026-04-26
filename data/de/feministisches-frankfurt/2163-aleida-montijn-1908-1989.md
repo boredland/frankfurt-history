@@ -25,6 +25,7 @@ Aleida Montijn wurde 1908 in Mannheim geboren. Sie studierte von 1927 bis 1930 a
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Porträt Aleida Montijn](../../images/Portrait%20A_c9caea380ed2ac0f39a536dd2bf74d5a_original.jpg)
 *1886 — Author: Unbekannt | License: Archiv Frauen und Musik | Description: Porträt Aleida Montijn*
 

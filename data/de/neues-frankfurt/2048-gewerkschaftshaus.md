@@ -17,5 +17,9 @@ filters:
 ![Straßenansicht des Gewerkschaftshauses.](../../images/cefa0661dfdcd4ff941881065c54cf2f_original.jpg)
 *um 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Straßenansicht des Gewerkschaftshauses.*
 
-## Interactive Before & After
+## Before & After
+
+<!-- gallery:before-after -->
+![Straßenansicht des Gewerkschaftshauses.](../../images/isg_ffm_s7_0038fcd1dc1a8b9fbdb89a13dd5b142d_original.jpg)
+*um 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Straßenansicht des Gewerkschaftshauses.*
 

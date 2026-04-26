@@ -24,6 +24,7 @@ Ein Blick in das Adressbuch von 1935 zeigt, dass hier insgesamt sechs nationalso
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Sitzes der Ortsgruppen Sandweg](../../images/4af2649e806c8afb472b4ff59c5ce95f_original.jpg)
 *ca. 1940 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-10822 | Description: Foto des Sitzes der Ortsgruppen Sandweg*
 

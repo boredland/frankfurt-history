@@ -27,6 +27,7 @@ Construction company: unknown
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Europa-Allee](../../images/6763b0112cc44b4a2a955faf401c6246_original.jpg)
 *1998 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Europa-Allee*
 

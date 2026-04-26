@@ -24,6 +24,7 @@ The district office of the National Socialist German Workers’ Party for Greate
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the NSDAP office Frankfurt located in Domstraße](../../images/2419d7e849b2a1604714cdfad28bd269_original.jpg)
 *1910 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2703 | Description: Photo of the NSDAP office Frankfurt located in Domstraße*
 

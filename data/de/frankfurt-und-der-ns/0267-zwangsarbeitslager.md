@@ -21,6 +21,7 @@ Die Firma Frankfurter Karosserie- und Fahrzeug-Werke Friedrich Schmitt & Co. bet
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Philipp Hufnagel, Ansicht des Fabrikgebäudes an der Rebstöcker Straße 57-59, 1914, Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 7560](../../images/6998f38b28e846896ffd796eabcf28bb_original.jpg)
 *Description: Philipp Hufnagel, Ansicht des Fabrikgebäudes an der Rebstöcker Straße 57-59, 1914, Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 7560*
 

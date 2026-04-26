@@ -24,6 +24,7 @@ Hier bestand mindestens seit 1917 ein Kinderhort für jüdische Jungen und Mädc
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Pensionat Stockmann](../../images/C80382_jpg_26b3b34249d09a66787d4f4f0bea1f7f_original.jpg)
 *Unbekannt — Author: unbekannt | License: HMF, Sammlung Church, C80382 | Description: Bildpostkarte mit dem Pensionat Stockmann*
 

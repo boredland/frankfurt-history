@@ -27,6 +27,7 @@ Auf internationalen Druck zog Preußen seine Truppen wieder zurück und schloss 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto: Der Englische Hof am Roßmarkt](../../images/Frankfurt__09497e330b518f36f129372ba5500d56_original.jpg)
 *1878 (oder 1890) — Author: Karl Hertel | License: gemeinfrei | Description: Foto: Der Englische Hof am Roßmarkt*
 

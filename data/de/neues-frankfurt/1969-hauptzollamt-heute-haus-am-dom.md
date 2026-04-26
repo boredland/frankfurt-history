@@ -16,5 +16,9 @@ filters:
 
 ![](../../images/4a6dcb33b6600e082c547551ce2ec39c_original.jpg)
 
-## Interactive Before & After
+## Before & After
+
+<!-- gallery:before-after -->
+![Das Hauptzollamt](../../images/isg_ffm_s7_54480369aacc49ad67b5f80badfdc771_original.jpg)
+*1927 — Author: unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Das Hauptzollamt*
 

@@ -37,12 +37,14 @@ Explanatory remark: The text refers to the person in question as “G. Wild” b
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The building in which G. Wild's appartment was located still stands today.](../../images/Karlsruher_773250d18e8d579485b4ce73129dbd74_original.jpg)
 *2026 — Author: Jasmin Klotz | License: gemeinfrei | Description: The building in which G. Wild's appartment was located still stands today.*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Advertisement by Hella Knabe in the magazine “Das 3. Geschlecht” (The Third Sex), 1931. Martin Radszuweit Verlag Berlin, Lili-Elbe-Bibliothek.](../../images/Knabe_Comp_2a9a84218dc034d1cee38481ee0dddae_original.jpg)
 *1931 — Author: Martin Radszuweit Verlag Berlin | License: Lili-Elbe-Bibliothek | Description: Advertisement by Hella Knabe in the magazine “Das 3. Geschlecht” (The Third Sex), 1931. Martin Radszuweit Verlag Berlin, Lili-Elbe-Bibliothek.*
 

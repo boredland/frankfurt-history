@@ -27,6 +27,7 @@ On August 4, 1944, the hiding place was betrayed and those in hiding were deport
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Anne Frank House at Marbachweg 307](../../images/dffc67d5b7e4a886bdf755dca7ee6a5f_original.jpg)
 *Description: Anne Frank House at Marbachweg 307*
 

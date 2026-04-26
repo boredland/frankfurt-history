@@ -24,6 +24,7 @@ A forced labour camp went into operation in the Café Röderbergschlösschen at 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of Café Röderbergschlösschen at Röderbergweg 270, where a forced labour camp was operated](../../images/ef6720a2939ddb9907c93985c5210280_original.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-14005 | Description: Aerial view of Café Röderbergschlösschen at Röderbergweg 270, where a forced labour camp was operated*
 

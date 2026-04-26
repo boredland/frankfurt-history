@@ -31,6 +31,7 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Straßenfront mit Turm.](../../images/isg_ffm_s7_cd84b21d47bed004641f24cb8ee11074_original.jpg)
 *1924 — Author: Aus dem Buch von Walter Müller-Wolckow: Bauten der Arbeit und des Verkehrs / From the book by Walter Müller-Wolckow: Bauten der Arbeit und des Verkehrs | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Straßenfront mit Turm.*
 

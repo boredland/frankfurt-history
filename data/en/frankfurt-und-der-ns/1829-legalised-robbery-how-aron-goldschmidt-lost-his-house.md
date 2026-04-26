@@ -39,6 +39,7 @@ According to the victim database holocaust.cz, the couple was murdered by the Na
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Sandweg 38](../../images/1960_sandw_8cb40689fd2824e3bdd7be644157f9d2_original.jpg)
 *1960 — License: http://www.frankfurt-nordend.de/Images/1960_sandweg_mousonstr.jpg | Description: Sandweg 38*
 

@@ -35,6 +35,7 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein für Otto Bütschli in der Körnerstraße 16](../../images/stolperst__8f493edbafb226d72f1cbcb3cd078fa7_original.jpg)
 *2021 — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein für Otto Bütschli in der Körnerstraße 16*
 

@@ -26,6 +26,7 @@ This bomb shelter was built for the personnel of the Reich Railway, the fire bri
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Mörfelder Landstraße](../../images/b026bedcc6563e5de19ec17f5242acb0_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Mörfelder Landstraße*
 

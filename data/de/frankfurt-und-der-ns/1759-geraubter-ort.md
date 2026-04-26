@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schumannstraße 24-26](../../images/Schumannst_c8e734491aa4e24cc731a3a540f75bdd_original.jpg)
 *ca. 1904 — Author: unbekannt | License: ISG | Description: Schumannstraße 24-26*
 

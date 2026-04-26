@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Hausener Obergasse 49](../../images/Hausener-O_9ee121577ad99a0f567695a424fdb1d9_original.jpg)
 *1934 — Author: unbekannt | License: ISG | Description: Hausener Obergasse 49*
 

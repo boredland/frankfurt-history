@@ -24,6 +24,7 @@ The Bockenheim chapters of the National Socialist German Workers’ Party and th
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the offices of the NSDAP local group and NSDAP Women's League Bockenheim](../../images/313292f7d2dfba7f75933a883655e50f_original.jpg)
 *1907 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-20132 | Description: Photo of the offices of the NSDAP local group and NSDAP Women's League Bockenheim*
 

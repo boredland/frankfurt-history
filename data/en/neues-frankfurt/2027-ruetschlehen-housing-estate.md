@@ -33,6 +33,7 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Jakobsbrunnenstraße in the Rütschlehen housing estate.](../../images/isg_ffm_s7_59c76cd567f1c9007a5cb859fe8dc8a0_original.jpg)
 *around 1940 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Jakobsbrunnenstraße in the Rütschlehen housing estate.*
 

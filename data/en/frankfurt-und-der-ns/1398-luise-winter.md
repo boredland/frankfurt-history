@@ -24,6 +24,7 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein for Luise Winter](../../images/Luise%20Wint_48efa695e112263cf8327e253f25bb8a_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein for Luise Winter*
 

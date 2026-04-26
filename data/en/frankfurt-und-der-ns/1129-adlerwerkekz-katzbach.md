@@ -21,6 +21,7 @@ The video was created as part of the project "What's May 8 to me? Five senior cl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial plaque at the Adlerwerke historical site](../../images/isg_gt_zwa_87d6cacbf76226411ec3a67b2faeb9f3_original.jpg)
 *Author: © Institut für Stadtgeschichte | Description: Memorial plaque at the Adlerwerke historical site*
 

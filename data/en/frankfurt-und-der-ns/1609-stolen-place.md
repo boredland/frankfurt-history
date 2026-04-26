@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bethmannstraße 32](../../images/Bethmannst_0bf786787a7804f8949c0cba99b2c0db_original.jpg)
 *ca. 1930 — License: ISG | Description: Bethmannstraße 32*
 

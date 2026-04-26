@@ -24,6 +24,7 @@ This was the location of the Haus der Jugend (House of Youth), the most modern y
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the "Haus der Jugend Dornbusch" (NSV local group Dornbusch)](../../images/8136e65dc5242c87ad33f470433e414e_original.jpg)
 *before 1941 — Author: Otto Emmel | License: HMF Ph34715 | Description: Photo of the "Haus der Jugend Dornbusch" (NSV local group Dornbusch)*
 

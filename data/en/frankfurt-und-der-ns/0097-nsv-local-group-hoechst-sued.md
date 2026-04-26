@@ -24,6 +24,7 @@ This was the location of the Höchst-Süd chapter of the National Socialist Peop
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the offices of the NSV local group Höchst-Süd](../../images/3b3c9ef9a03b3946480713dda657bd1f_original.jpg)
 *ca. 1905 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-22945 | Description: Picture postcard with the offices of the NSV local group Höchst-Süd*
 

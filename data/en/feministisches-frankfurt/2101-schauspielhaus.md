@@ -23,6 +23,7 @@ Where the Schauspiel and Opera are located today, there was already a large thea
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/sdf037_001_614ee9837d39fe7a71146338f8155649_original.jpg)
 *Author: Nini und Carry Hess | License: Institut für Stadtgeschichte/Verweist*
 

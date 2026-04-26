@@ -31,6 +31,7 @@ Further reading: https://www.martin-elsaesser.de/projekte/hallenschwimmbad-feche
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Entrance portal of the swimming hall with brick plinth, mullioned windows, and brick framing as part of the facade.](../../images/isg_ffm_s7_6d913bbd29e3d97afe6513941f64f3a1_original.jpg)
 *1930 — Author: Max Göllner | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Entrance portal of the swimming hall with brick plinth, mullioned windows, and brick framing as part of the facade.*
 

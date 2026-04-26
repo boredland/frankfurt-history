@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Wiesenau 50](../../images/Wiesenau-5_1a1750fc22d8e642a8ba62738b800815_original.jpg)
 *before 1950 — Author: Postkartensammlung | License: ISG | Description: Wiesenau 50*
 

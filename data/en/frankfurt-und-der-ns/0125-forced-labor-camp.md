@@ -24,6 +24,7 @@ During World War II, the Schwanthaler Hof restaurant and dance hall was the loca
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with exterior and interior view of the Schwanthalerhof Inn](../../images/f6f9b4390340f181677c60ba5b8048f1_original.jpg)
 *n.D. — Author: unbekannt | License: HMF, Sammlung Church, C80416 | Description: Picture postcard with exterior and interior view of the Schwanthalerhof Inn*
 

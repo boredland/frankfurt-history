@@ -19,6 +19,7 @@ Here you will find different perspectives on the place.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Outside view of the Institut für Erbbiologie und Rassenhygiene (Institute for Hereditary Biology and Racial Hygiene)](../../images/130eb3e62814dad808af4a7c64d61e96_original.jpg)
 *1936 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2002-131 | Description: Outside view of the Institut für Erbbiologie und Rassenhygiene (Institute for Hereditary Biology and Racial Hygiene)*
 

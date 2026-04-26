@@ -24,6 +24,7 @@ The Frankfurter Sparkasse, a savings bank, was based at Neue Mainzer Strasse 49�
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the headquarters of the Frankfurter Sparkasse, which was also used as a forced labour camp](../../images/9176fdbff45d7b6ae687b9f615ad2e7a_original.jpg)
 *ca. 1940 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-9143 | Description: Photo of the headquarters of the Frankfurter Sparkasse, which was also used as a forced labour camp*
 

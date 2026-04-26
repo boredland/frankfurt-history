@@ -24,6 +24,7 @@ This was the location of the local Eschersheim branch of the National Socialist 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the offcies of the local groups of the NSDAP and NSDAP Women's League Eschersheim](../../images/97e290576eda1fe42747f5a77dbe602f_original.jpg)
 *2002 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2015-575 | Description: Photo of the offcies of the local groups of the NSDAP and NSDAP Women's League Eschersheim*
 

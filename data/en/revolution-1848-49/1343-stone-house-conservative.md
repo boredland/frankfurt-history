@@ -27,6 +27,7 @@ In the past, the Stone House was a patrician family’s home and accommodation f
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo: Carl Friedrich Mylius, 1864, Historisches Museum Frankfurt Ph00021](../../images/01%20Steiner_d480780aed11df43e825b635091f0098_original.jpg)
 *1864 — Author: Carl Friedrich Mylius | License: ISG | Description: Photo: Carl Friedrich Mylius, 1864, Historisches Museum Frankfurt Ph00021*
 

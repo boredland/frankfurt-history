@@ -23,6 +23,7 @@ Yael Bartanas Arbeit umfasst eine Vielzahl von Kunstformen, darunter Filme, Lich
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Yael Bartanas Karussell im Frakfurter Bahnhofsviertel erinnert an die Kindertransporte der Jahre 1938/1939, deren organisatorisches Zentrum Frankfurt am Main war.](../../images/KIT_APE_12_d09def4b3cb0900d14b73ad2cd307db6_original.jpg)
 *2021 — Author: Alexander Paul Englert | License: Kulturamt Frankfurt | Description: Yael Bartanas Karussell im Frakfurter Bahnhofsviertel erinnert an die Kindertransporte der Jahre 1938/1939, deren organisatorisches Zentrum Frankfurt am Main war.*
 

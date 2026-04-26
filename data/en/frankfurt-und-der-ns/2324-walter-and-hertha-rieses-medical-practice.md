@@ -25,6 +25,7 @@ Around 1930, following the recommendation of physician and sexologist Magnus Hir
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Today, there is a post-war building at Kronberger Straße 5.](../../images/Kronberger_1c6ff37fb0bd5358adcda27bd5d32b25_original.jpg)
 *2025 — Author: Jasmin Klotz | License: gemeinfrei | Description: Today, there is a post-war building at Kronberger Straße 5.*
 

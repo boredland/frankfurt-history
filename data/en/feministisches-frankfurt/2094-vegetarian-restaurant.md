@@ -23,6 +23,7 @@ Anna Beyer opened the vegetarian restaurant “Vega” at Steinweg 10 in 1936. S
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/NS0710_001_1b942a6553deb2a3d9d6bea27ddab27e_original.jpg)
 *Author: Unbekannt | License: Hessisches Hauptstaatsarchiv Wiesbaden/Unklar*
 

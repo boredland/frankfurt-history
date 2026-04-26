@@ -24,6 +24,7 @@ At its company premises, the Schuh Hansa shoe manufacturer lodged 10 forced labo
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a forced labor camp located in Basaltstraße](../../images/665c3834ee7a5824c3e14cf6622db899_original.jpg)
 *1905 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19982 | Description: Photo of a forced labor camp located in Basaltstraße*
 

@@ -24,6 +24,7 @@ The Association of Jewish Nurses had its offices at this site. Nurses of Frankfu
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Association for Jewish Nurses, Bornheimer Landwehr 85](../../images/815aa0eb1a6a26e7db878b8326f66fb2_original.jpg)
 *unknown — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-26866 | Description: Association for Jewish Nurses, Bornheimer Landwehr 85*
 

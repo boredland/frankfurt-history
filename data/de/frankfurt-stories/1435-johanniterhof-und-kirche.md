@@ -28,6 +28,7 @@ Reiffenstein zeichnete die Kirche mit den angrenzenden Verkaufsbuden, die 1845 a
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Johanniterkirche, Eingangstor, Sakristei und Umgebung (Zustand 1839), 1871, aquarellierte Bleistiftzeichnung, HMF R0184](../../images/R0184_png_077fd90882d80c05dd7f2bce0472c53a_original.jpg)
 *1871 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Johanniterkirche, Eingangstor, Sakristei und Umgebung (Zustand 1839), 1871, aquarellierte Bleistiftzeichnung, HMF R0184*
 

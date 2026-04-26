@@ -24,6 +24,7 @@ Mit Kriegsbeginn veränderte sich auch die Situation der Jugendlichen, die in de
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Fischerfeldstraße 13](../../images/C27897_jpg_1700195052f811de780f0d25be6fb4a8_original.jpg)
 *1932 — Author: Leonhard Kleemann | License: HMF, C27897 | Description: Zwangsarbeitslager, Fischerfeldstraße 13*
 

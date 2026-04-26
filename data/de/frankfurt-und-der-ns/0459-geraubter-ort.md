@@ -24,6 +24,7 @@ Das Gebäude in der Ulmenstraße 20 gehörte 1889 dem Bankier Maximilian Benedik
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Wohnhaus Familie Goldschmidt-Rothschild, Ulmenstraße 20](../../images/64fd1fcd03774f0c1751865baa4c3803_original.jpg)
 *ca. 1882 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13284 | Description: Wohnhaus Familie Goldschmidt-Rothschild, Ulmenstraße 20*
 

@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Eschersheimer Landstraße 132](../../images/Eschershei_abbef4532c4d4d7acde42fc8152bd8e6_original.jpg)
 *2002 — Author: Martin Starl | License: ISG | Description: Eschersheimer Landstraße 132*
 

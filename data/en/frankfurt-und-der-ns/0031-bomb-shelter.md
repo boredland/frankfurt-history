@@ -27,6 +27,7 @@ Construction company: unknown
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Goldsteinstraße](../../images/a56876dfe1b6b5aaa8b0b00e2b6ec584_original.jpg)
 *n.d. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Goldsteinstraße*
 

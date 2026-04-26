@@ -22,6 +22,7 @@ The H. Delliehausen forwarder and furniture transporter was based here. The comp
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with advertising card of the company H. Delliehausen](../../images/80a15f00581950b25f1668e320a938e5_original.jpg)
 *unknown — Author: Unbekannt | License: HMF, Sammlung Church, C80375 | Description: Picture postcard with advertising card of the company H. Delliehausen*
 

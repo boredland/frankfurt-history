@@ -24,6 +24,7 @@ Die Paulsgemeinde am Wiener Platz (heute: Paulsplatz) gehörte zur Bekennenden K
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der Paulskirche](../../images/826adf6555b4d4644251267a987e6c3c_original.jpg)
 *o.D. — Author: unbekannt | License: HMF Ph04282 | Description: Foto der Paulskirche*
 

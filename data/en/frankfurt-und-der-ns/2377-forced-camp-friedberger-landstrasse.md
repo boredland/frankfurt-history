@@ -27,6 +27,7 @@ The “concentration camp” on Friedberger Landstrasse was an initial step in t
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Cover of the Frankfurt municipal authority file on the “concentration camp on Friedberger Landstraße”. ISG FFM A.02.01 Nr. R-1378.](../../images/isg_ffm_a__94e7f9ff7073f853a6b5a5821b9b8891_original.jpg)
 *1929-1930 — License: Institut für Stadtgeschichte Frankfurt | Description: Cover of the Frankfurt municipal authority file on the “concentration camp on Friedberger Landstraße”. ISG FFM A.02.01 Nr. R-1378.*
 

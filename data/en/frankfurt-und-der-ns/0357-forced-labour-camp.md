@@ -28,6 +28,7 @@ This was the site of a camp operated by the Adlerwerke company for 2,000 persons
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Site plan of the Adlerwerke forced-labor camp on Froschhäuser Straße, based on the original construction drawing from 1942.](../../images/map_editab_da62ad0be90eabb62ca5f4bee3b1e2ae_original.jpg)
 *2025 — Author: Grafikdesigner: carloscusguen.com | License: Sascha Mahl | Description: Site plan of the Adlerwerke forced-labor camp on Froschhäuser Straße, based on the original construction drawing from 1942.*
 

@@ -28,6 +28,7 @@ This was the location of the neo-classical twin buildings of the Hospital of Jew
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of an interior space at Rechneigrabenstraße 18-20](../../images/isg_ffm_s7_331ec944dc19ad48c2ce4830b5c2cf30_original.jpg)
 *ca. 1938 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-18992 | Description: Photo of an interior space at Rechneigrabenstraße 18-20*
 

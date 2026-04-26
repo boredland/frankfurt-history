@@ -21,6 +21,7 @@ The company Stahl Schanz Adam u. Ludwig Schanz ran a camp for forced laborers at
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gartenstraße 45](../../images/1522072e18a357ff36144f55aba2ca21_original.jpg)
 *1990 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2013-2151 | Description: Gartenstraße 45*
 

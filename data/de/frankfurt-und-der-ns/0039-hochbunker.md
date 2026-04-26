@@ -27,6 +27,7 @@ Bauunternehmen: unbekannt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Hermann-Eggert-Straße](../../images/41dd25a437dd20738f89ec91152fa22d_original.jpg)
 *2011 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Hermann-Eggert-Straße*
 

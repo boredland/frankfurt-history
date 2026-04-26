@@ -23,6 +23,7 @@ In its “100 x Frankfurt” section, the Historisches Museum Frankfurt presents
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The Frankfurt kitchen at Historisches Museum Frankfurt](../../images/Frankfurte_046826474576eaafdf243c2ed236bed1_original.jpg)
 *2017 — Author: Petra Welzel | License: Historisches Museum Frankfurt | Description: The Frankfurt kitchen at Historisches Museum Frankfurt*
 

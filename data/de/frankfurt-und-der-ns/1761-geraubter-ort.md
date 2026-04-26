@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schwindstraße 5](../../images/Schwindstr_94d4f1b8f3e7efa9e851ac91829a1423_original.jpg)
 *1878 — Author: unbekannt | License: ISG | Description: Schwindstraße 5*
 

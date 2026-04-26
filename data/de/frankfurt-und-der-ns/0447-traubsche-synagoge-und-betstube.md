@@ -27,6 +27,7 @@ Dieser Platz änderte im Laufe der Jahrhunderte immer wieder seinen Namen: Seit 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht der Häusergruppe am Dominikanerplatz 4-12](../../images/616257f9c5ed55791777a8f3dc336265_original.jpg)
 *1939 — Author: Claus Mehs | License: Institut für Stadtgeschichte, Frankfurt Best. S8-3 Nr. 28 | Description: Ansicht der Häusergruppe am Dominikanerplatz 4-12*
 

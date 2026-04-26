@@ -24,6 +24,7 @@ In 1940, the Nazi leadership of the Hesse-Nassau region moved into a new locatio
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Postcard of "Schiller-Denkmal Adolf-Hitler-Haus"](../../images/f26b2fc8440b5985fd7cececadc04ed0_original.jpg)
 *after 1939 — Author: unbekannt | License: HMF, Sammlung Church | Description: Postcard of "Schiller-Denkmal Adolf-Hitler-Haus"*
 

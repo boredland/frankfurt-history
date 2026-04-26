@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Merianstraße 25](../../images/Merianstra_857c3cc8714d1a2323870fda7b8b65e1_original.jpg)
 *2010 — Author: Martin Starl | License: ISG | Description: Merianstraße 25*
 

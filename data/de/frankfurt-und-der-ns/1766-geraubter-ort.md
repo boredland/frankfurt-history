@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Städelstraße 6](../../images/Staedelstr_f22ebbc348b60b45cb48a35c55fb4f71_original.jpg)
 *1912 — Author: unbekannt | License: ISG | Description: Städelstraße 6*
 

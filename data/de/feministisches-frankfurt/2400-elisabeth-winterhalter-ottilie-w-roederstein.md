@@ -24,6 +24,7 @@ www.dagmar-touren.de
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ottilie W. Roederstein und Elisabeth H. Winterhalter](../../images/Dame0164_j_16ba232149cd8dc0e819bb38b6eaaeaf_original.jpg)
 *Ca. 1932 — Author: Unbekannt | License: HMF/Privatbesitz | Description: Ottilie W. Roederstein und Elisabeth H. Winterhalter*
 

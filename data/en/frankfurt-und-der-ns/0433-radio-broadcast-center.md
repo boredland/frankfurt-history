@@ -24,6 +24,7 @@ After the Nazi Party came to power in 1933, institutions throughout society were
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard "Frankfurt a. M. - Rundfunkhaus"](../../images/3cfc36585c20dcd5f6cccbc2cccb4d8e_original.jpg)
 *after 1933 — Author: unbekannt | License: HMF / Sammlung Church | Description: Picture postcard "Frankfurt a. M. - Rundfunkhaus"*
 

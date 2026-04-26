@@ -27,6 +27,7 @@ When Reiffenstein knew the house the half-timbered structure had been plastered 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Haus Zur Goldenen Waage, 1876, watercolored pencil drawing, HMF R1572](../../images/R1572_png_61c763c5b485243f321ad161ae61a4b6_original.jpg)
 *1876 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Haus Zur Goldenen Waage, 1876, watercolored pencil drawing, HMF R1572*
 

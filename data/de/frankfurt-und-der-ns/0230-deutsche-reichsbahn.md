@@ -46,30 +46,35 @@ Eines Tages fuhren die Züge wegen der Bombenschäden vom Bahnhof Griesheim und 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Idsteiner Straße 18](../../images/9d8f28a7ad7a9e93b7c194034aae0151_original.jpg)
 *ca. 1944 — Author: Jürgen Engelhardt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-4243 | Description: Zwangsarbeitslager, Idsteiner Straße 18*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zeichnung eines zerstörten Industriegebäudes im Zweiten Weltkrieg in Frankfurt am Main.](../../images/Zerst%C3%B6rte_04405461b84000634051c84861dee6ec_original.jpg)
 *2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Zeichnung eines zerstörten Industriegebäudes im Zweiten Weltkrieg in Frankfurt am Main.*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Verzeichnis über die beim Standesamt Flörsheim beurkundeten Geburten von Ausländern.](../../images/Verzeichni_17e96cc65e3da7d7bb96b7273c087749_original.jpg)
 *o.D. — Author: Unbekannt | License: Archiv der Stadt Flörsheim am Main | Description: Verzeichnis über die beim Standesamt Flörsheim beurkundeten Geburten von Ausländern.*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Sterbeurkunde von Tanj[a] Tribowa, ausgestellt am 17. September 1947 in Flörsheim am Main.](../../images/Arolsen%20Ar_df982ecabae4dc1c135681dd85b068f2_original.jpg)
 *o.D. — Author: Unbekannt | License: Sterbeurkunden Kinder (Kindersuchdienst), 2.2.2.4/77105996, ITS Digital Archive, Arolsen Archives. | Description: Sterbeurkunde von Tanj[a] Tribowa, ausgestellt am 17. September 1947 in Flörsheim am Main.*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Vor dem Flörsheimer Bahnhof erinnert ein Koffer-Denkmal an die Menschen, die wegen der NS-Verfolgung und Zwangsarbeit hier zwischen 1933 und 1945 hier abfuhren und ankamen.](../../images/Foto%203%20Ids_35d8a8fbb8c8fd3cde011de398e05a3e_original.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christne Hartwig-Thürmer | Description: Vor dem Flörsheimer Bahnhof erinnert ein Koffer-Denkmal an die Menschen, die wegen der NS-Verfolgung und Zwangsarbeit hier zwischen 1933 und 1945 hier abfuhren und ankamen.*
 

@@ -24,6 +24,7 @@ The Bornheimer Ratskeller at Nussberg 72 (now Kettelerallee) served as a camp fo
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with exterior view of the Bornheimer Ratskeller](../../images/47a8ae916b95f6df5596b637b741e8f6_original.jpg)
 *1907 — Author: unbekannt | License: HMF / Sammlung Church C80203 | Description: Picture postcard with exterior view of the Bornheimer Ratskeller*
 

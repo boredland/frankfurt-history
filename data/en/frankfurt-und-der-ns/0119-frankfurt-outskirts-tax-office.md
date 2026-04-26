@@ -30,6 +30,7 @@ This was the location of the Frankfurt East and West tax authorities. Just like 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the Frankfurt Outskirts Tax Office](../../images/10c039e32296fdc3a0f43d81aa296592_original.jpg)
 *1944 — Author: Max Göllner | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 2004-18 | Description: Photo of the Frankfurt Outskirts Tax Office*
 

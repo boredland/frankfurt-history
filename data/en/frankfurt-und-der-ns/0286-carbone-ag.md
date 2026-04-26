@@ -40,6 +40,7 @@ Given the lack of accommodation, the thirty women “Eastern workers” demanded
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a building belonging to Deutsche Carbone AG, which operated a forced labour camp at Talstraße 107](../../images/e0b6711829b3b22f3d07d6f673ef36c1_original.jpg)
 *ca. 1900 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29233 | Description: Photo of a building belonging to Deutsche Carbone AG, which operated a forced labour camp at Talstraße 107*
 
@@ -49,6 +50,7 @@ Given the lack of accommodation, the thirty women “Eastern workers” demanded
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carbone advertisement from the 1940s. Translation of the French advertising slogan: “No more hard times! Dad earns money in Germany.”](../../images/Anwerbung__9c6d426e67398b9f3969463034ccf2f0_original.jpg)
 *n.d. — Author: Unbekannt | License: Fritz Koch, "Von Le Carbone AG bis zu Mersen Deutschland Ffm AG", Frankfurt/M 2013. | Description: Carbone advertisement from the 1940s. Translation of the French advertising slogan: “No more hard times! Dad earns money in Germany.”*
 
@@ -58,6 +60,7 @@ Given the lack of accommodation, the thirty women “Eastern workers” demanded
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Barracks for French workers with a view of the Carbone factory building.](../../images/Talstra%C3%9Fe_5bc6e5237aabb2dfd1fe52ea315abef5_original.jpg)
 *May 2025 — Author: Christine Hartwig-Thürmer | License: gemeinfrei | Description: Barracks for French workers with a view of the Carbone factory building.*
 

@@ -27,6 +27,7 @@ Ab 1895 ersetzte ein Neubau auf dem nördlichen Gelände die Peterskirche. Schli
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Peterskirchhof, Einfahrtstor von innen, mit den umgebenden Häusern der Schäfergasse, 1840/1874, aquarellierte Bleistiftzeichnung, HMF R0854](../../images/R0854_png_24e6854faa89d57363d7914804842d9c_original.jpg)
 *1840/1874 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Peterskirchhof, Einfahrtstor von innen, mit den umgebenden Häusern der Schäfergasse, 1840/1874, aquarellierte Bleistiftzeichnung, HMF R0854*
 

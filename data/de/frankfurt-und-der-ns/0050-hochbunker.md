@@ -27,6 +27,7 @@ Bauunternehmen: ARGE (Arbeitsgemeinschaft) Groß-Frankfurt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Mörfelder Landstraße](../../images/b026bedcc6563e5de19ec17f5242acb0_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Mörfelder Landstraße*
 

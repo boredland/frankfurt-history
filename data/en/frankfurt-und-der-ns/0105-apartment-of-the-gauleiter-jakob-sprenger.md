@@ -23,6 +23,7 @@ The NSDAP Gauleiter of Hesse-Nassau, Jakob Sprenger, who was known for his fanat
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Apartment of Gauleiter Jakob Sprenger at Zeppelinallee 8](../../images/cb89fe192ee9c874e7f479d4f9115804_original.jpg)
 *ca. 1935 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2003-140 | Description: Apartment of Gauleiter Jakob Sprenger at Zeppelinallee 8*
 

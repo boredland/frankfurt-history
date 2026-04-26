@@ -36,6 +36,7 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Neun Stolpersteine in der Löherstraße 21 im Frankfurter Stadtteil Sachsenhausen erinnern an die Familie Adler: Die Eltern Reinhold und Margarete Adler sowie die Kinder Wanda, Gisela, Heinz, Herbert „Ricky“, Rolf, Gertrud und Ursula.](../../images/Stolperste_d4e7837e21409f313667a0346365cc48_original.jpg)
 *Author: Andreas Pflock | License: Dokumentations- und Kulturzentrum Deutscher Sinti und Roma | Description: Neun Stolpersteine in der Löherstraße 21 im Frankfurter Stadtteil Sachsenhausen erinnern an die Familie Adler: Die Eltern Reinhold und Margarete Adler sowie die Kinder Wanda, Gisela, Heinz, Herbert „Ricky“, Rolf, Gertrud und Ursula.*
 

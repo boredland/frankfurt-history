@@ -25,6 +25,7 @@ Die aufgeheizte Stimmung in dem Weinlokal entlud sich in der an die Abgeordneten
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lithografie: Die zentrale Lage der Gräber’schen Weinwirtschaft im Frankfurter Stadtplan](../../images/Route%203%2C%20S_e19971091c949e6c0126885b43f72c2e_original.jpg)
 *1852 — Author: Eduard Foltz-Eberle | License: Institut für Stadtgeschichte, Frankfurt Best. S8-7 Nr. 8 | Description: Lithografie: Die zentrale Lage der Gräber’schen Weinwirtschaft im Frankfurter Stadtplan*
 

@@ -29,6 +29,7 @@ The building was left in ruins in the Second World War. It was rebuilt for Frank
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Hinter dem Lämmchen 6, Madonna at the corner of the house, 1878, watercolored pencil drawing, HMF R1561](../../images/R1561_png_c720f7e65bc8d7480c089d6eb606810d_original.jpg)
 *1878 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Hinter dem Lämmchen 6, Madonna at the corner of the house, 1878, watercolored pencil drawing, HMF R1561*
 

@@ -24,6 +24,7 @@ Im ersten Stock des Gasthauses Zum Schwan waren 1944 24 Zwangsarbeiter*innen aus
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Alt Fechenheim 123](../../images/47366bf8cc54190a86b53e696a8fcbec_original.jpg)
 *ca. 1906 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-21465 | Description: Zwangsarbeitslager, Alt Fechenheim 123*
 

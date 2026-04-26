@@ -25,6 +25,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Porträt von Anna Engler; Engler_Anna_001](../../images/Engler_Ann_66b04ff7476f9f8a8f97cdb05e3c1b4d_original.jpg)
 *ca. 1940 — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Porträt von Anna Engler; Engler_Anna_001*
 

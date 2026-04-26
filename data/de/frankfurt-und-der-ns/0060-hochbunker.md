@@ -27,6 +27,7 @@ Bauunternehmen: unbekannt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers im Sonnenweg](../../images/9d3f43a5af682279439d9d9bb2b269be_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers im Sonnenweg*
 

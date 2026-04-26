@@ -21,6 +21,7 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der Redaktion des Frankfurter Volksblattes](../../images/d9e2578eef24719a8428060121225ff8_original.jpg)
 *vor 1945 — Author: Otto Emmel | License: HMF Ph38327 | Description: Foto der Redaktion des Frankfurter Volksblattes*
 

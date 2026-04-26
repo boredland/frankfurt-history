@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Beethovenstraße 16](../../images/Beethovens_a3e1c18ab5b835150fd8ece383cad830_original.jpg)
 *License: ISG | Description: Beethovenstraße 16*
 

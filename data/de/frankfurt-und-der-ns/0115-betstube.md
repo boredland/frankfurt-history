@@ -24,6 +24,7 @@ Hier befand sich eine Betstube, die seit 1920 unter dem Namen Berger’sche Schu
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der Außenfassade der Betstube, Obermainanlage 8](../../images/e76e904667b1a6efdee57e261a26e22e_original.jpg)
 *ca. 1955 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2008-124 | Description: Foto der Außenfassade der Betstube, Obermainanlage 8*
 

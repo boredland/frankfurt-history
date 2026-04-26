@@ -33,6 +33,7 @@ Quelle: Andreas Hanser: Brechung der Moderne. Der Salon der Lilly von Schnitzler
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das von Elsaesser umgebaute Speisezimmer mit Blick in den Garten.](../../images/176_els_m-_926b9ee9f7adbe1d4c27a56ce16e8402_original.jpg)
 *um 1927 — Author: Waldemar Titzenthaler | License: Martin-Elsaesser-Stiftung | Description: Das von Elsaesser umgebaute Speisezimmer mit Blick in den Garten.*
 

@@ -26,6 +26,7 @@ The municipal health authority building also housed the welfare office. Werner F
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The building of the municipal health department also contained the welfare office. Photo: HMF.](../../images/171365433b_a33d3d65be335e0328fe688fdc3a7810_original.jpg)
 *ca. 1936 — Author: Max Göllner | License: HMF, NS1366 | Description: The building of the municipal health department also contained the welfare office. Photo: HMF.*
 

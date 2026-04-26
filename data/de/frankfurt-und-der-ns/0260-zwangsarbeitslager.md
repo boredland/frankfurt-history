@@ -24,6 +24,7 @@ Die Philipp Possmann Großkelterei beschäftigte hier Zwangsarbeiter*innen. Wohe
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Gebäudes der Philipp Possmann Großkelterei in Niddagaustraße 6-8](../../images/a9fcebde5f34c701c853f0df0d02164e_original.jpg)
 *1927 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-30311 | Description: Foto eines Gebäudes der Philipp Possmann Großkelterei in Niddagaustraße 6-8*
 

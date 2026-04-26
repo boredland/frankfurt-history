@@ -21,6 +21,7 @@ In der Mainzer Landstraße 281-291 betrieben die Schuhfabriken J. & C. A. Schnei
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager](../../images/17f628a9418dab489d24630a4ec665af_original.jpg)
 *ca. 1941 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-4160 | Description: Zwangsarbeitslager*
 

@@ -26,6 +26,7 @@ Sophie Gotthardt and her husband Hans lived as subtenants in the house at Bauhau
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Sophie Gotthardt, née Müller, and her husband Hans lived here in 1934. Photo: Magistrat der Stadt Frankfurt, Untere Denkmalschutzbehörde](../../images/baustra%E2%94%9C_1711d77ffa7eee948bcb4652256f2cb3_original.jpg)
 *unknown — Author: unbekannt | License: Magistrat der Stadt Frankfurt, Untere Denkmalschutzbehörde | Description: Sophie Gotthardt, née Müller, and her husband Hans lived here in 1934. Photo: Magistrat der Stadt Frankfurt, Untere Denkmalschutzbehörde*
 

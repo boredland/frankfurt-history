@@ -27,6 +27,7 @@ Bauunternehmen: unbekannt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Karlstraße](../../images/8a6c2fe7e1ce83b2b4386ef4e70b0e63_original.jpg)
 *o.D. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Karlstraße*
 

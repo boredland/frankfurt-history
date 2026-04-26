@@ -33,6 +33,7 @@ Philipp Sturm: Stadion im Frankfurter Stadtwald. In: Wolfgang Voigt, Dorothea De
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of the stadium grounds with a view of the main stand and its antique facade.](../../images/isg_ffm_s7_61be83e491d081d15fc97e70901083b6_original.jpg)
 *around 1928 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Aerial view of the stadium grounds with a view of the main stand and its antique facade.*
 

@@ -26,6 +26,7 @@ In der Gastwirtschaft Concordia, auch Bender-Schuch genannt, trafen sich Soziald
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Treffpunkt von Widerständigen, die gemeinsam am Tisch sitzen, Alt Praunheim 11](../../images/2022111615_3741bd92472aa8c6b0b4c7a251d80631_original.jpg)
 *2022 — Author: Katahrina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Treffpunkt von Widerständigen, die gemeinsam am Tisch sitzen, Alt Praunheim 11*
 

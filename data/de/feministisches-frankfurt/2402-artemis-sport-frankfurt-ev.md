@@ -19,6 +19,7 @@ Mitten auf der Konstablerwache findet an den CSD Wochenenden einmal im Jahr das 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Logo Artemis Sport Frankfurt e.V](../../images/artemis-lo_eb445553be47ba6beca86186774276cb_original.jpg)
 *Unbekannt — Author: Unbekannt | License: LIBS e.V. | Description: Logo Artemis Sport Frankfurt e.V*
 

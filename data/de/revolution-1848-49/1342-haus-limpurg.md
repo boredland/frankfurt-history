@@ -27,6 +27,7 @@ Aufgrund des mangelnden Rückhalts in der Bevölkerung verweigerte der Senat ein
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Haus Limpurg am Römerberg](../../images/15%20Haus%20Li_5b3b73975bea60c108f67db938771492_original.jpg)
 *1864 — Author: Carl Friedrich Mylius | License: HMF C17720 | Description: Foto des Haus Limpurg am Römerberg*
 

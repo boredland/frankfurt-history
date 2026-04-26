@@ -24,6 +24,7 @@ A glimpse inside the 1935 directory shows that altogether six local chapters of 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the offices ofthe local groups Sandweg](../../images/4af2649e806c8afb472b4ff59c5ce95f_original.jpg)
 *ca. 1940 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-10822 | Description: Photo of the offices ofthe local groups Sandweg*
 

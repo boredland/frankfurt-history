@@ -25,6 +25,7 @@ Hier befand sich das Gemeindehaus der Israelitischen Religionsgemeinschaft. Sie 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Friedberger Anlage 4](../../images/isg_ffm_s7_aad24b2e240d88f35899c19f9194e455_original.jpg)
 *ca. 1935 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-10817 | Description: Friedberger Anlage 4*
 

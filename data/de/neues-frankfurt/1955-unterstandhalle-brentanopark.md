@@ -16,5 +16,9 @@ filters:
 
 ![](../../images/bff582385a115a10474341173bbb82b7_original.jpg)
 
-## Interactive Before & After
+## Before & After
+
+<!-- gallery:before-after -->
+![Blick auf die rechte halbrunde Vorderseite des Pavillons.](../../images/isg_ffm_s7_605402cab07e5e343a261ffd2407fa9e_original.jpg)
+*um 1930 — Author: unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Blick auf die rechte halbrunde Vorderseite des Pavillons.*
 

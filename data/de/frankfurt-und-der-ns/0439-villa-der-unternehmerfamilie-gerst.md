@@ -26,6 +26,7 @@ Hier befand sich das Wohnhaus des Kommerzienrats und Unternehmers Gustav Gerst. 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Außenansicht der Jakob-Sprenger-Schule](../../images/C80410_jpg_352d9bf86f0049bbc5cd492da7368f82_original.jpg)
 *1938 — Author: unbekannt | License: HMF, Sammlung Church, C80410 | Description: Bildpostkarte mit Außenansicht der Jakob-Sprenger-Schule*
 

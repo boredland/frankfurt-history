@@ -35,6 +35,7 @@ Evelyn Brockhoff (Hrsg.): Akteure des Neuen Frankfurt. Frankfurt am Main 2016, S
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Mehrfamilienhäuser am Marbachweg, um 1930](../../images/Marbachweg_1ca06d546df7d05bdf8f8f342159ccfd_original.jpg)
 *um 1930 — Author: Unbekannt | License: Das Neue Frankfurt, 1930, Heft 4/5, S. 96 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Mehrfamilienhäuser am Marbachweg, um 1930*
 

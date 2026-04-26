@@ -23,6 +23,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Charlotte Kohlhaas mit im KZ Lichtenburg gehäkeltem Kragen; L-000426](../../images/Kohlhaas_C_12a7a2e90c4ec4f2502aec6167291498_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Charlotte Kohlhaas mit im KZ Lichtenburg gehäkeltem Kragen; L-000426*
 

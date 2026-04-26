@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kornmarkt 4](../../images/Kornmarkt-_8fb26fb916d461699329417f53a526a5_original.jpg)
 *ca. 1930 — Author: unbekannt | License: ISG | Description: Kornmarkt 4*
 

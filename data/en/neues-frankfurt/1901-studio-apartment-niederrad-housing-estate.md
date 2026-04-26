@@ -31,6 +31,7 @@ Further reading: Brigitte Dippold-Theile: Siedlung Bruchfeldstraße / Zick-Zackh
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Frontal view of the block of houses on Haardtwaldplatz. Tower building at Haardtwaldstraße 2 on the left.](../../images/Atelierwoh_61831dd35e6c7f75eec8128417b85572_original.jpg)
 *1927 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: Frontal view of the block of houses on Haardtwaldplatz. Tower building at Haardtwaldstraße 2 on the left.*
 

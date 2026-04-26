@@ -23,6 +23,7 @@ The Gerbermühle on the eastern edge of Frankfurt has a long history. From 1785 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/C67624_jpg_28449b3523e91e9b5b0bf3ba7701a4a9_original.jpg)
 *Author: Ludwig von Roeßler | License: HMF/Gemeinfrei*
 

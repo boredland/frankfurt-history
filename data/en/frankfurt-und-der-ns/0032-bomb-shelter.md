@@ -27,6 +27,7 @@ Construction company: Hoch- und Tiefbau Wilhelm Franz, Hanau am Main
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Gründenseestraße](../../images/fd88e0ad7a77cc6a2bbb4fc304a78dbf_original.jpg)
 *n.d. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Gründenseestraße*
 

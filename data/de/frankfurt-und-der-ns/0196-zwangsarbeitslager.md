@@ -24,6 +24,7 @@ Im Eintracht-Stadion am Riederwald befand sich ein Lager für Zwangsarbeiter*inn
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Riederwald-Stadion](../../images/a0ca46616632c69f542fea340b1e5b28_original.jpg)
 *nach 1937 — Author: Unbekannt | License: HMF, Sammlung Church, C80399 | Description: Bildpostkarte mit dem Riederwald-Stadion*
 

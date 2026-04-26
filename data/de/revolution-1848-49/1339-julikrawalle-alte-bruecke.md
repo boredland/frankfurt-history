@@ -25,6 +25,7 @@ Nach dem Tod eines Soldaten zog sich das Linienmilitär zurück und die Sachsenh
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der steinernen Alten Brücke](../../images/12%20Alte%20Br_28e8ac7cbd4a969282352901795838b9_original.jpg)
 *um 1860 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 738 | Description: Foto der steinernen Alten Brücke*
 

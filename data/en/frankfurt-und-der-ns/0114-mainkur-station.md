@@ -26,6 +26,7 @@ The Mainkur Station in Fechenheim played a key role in the deportation of Jews f
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the station building of Mainkur station](../../images/2d39c1036939f5822dc62c4cc51937b2_original.jpg)
 *after 1913 — Author: unbekannt | License: HMF, Sammlung Church C80390 | Description: Picture postcard with the station building of Mainkur station*
 

@@ -23,6 +23,7 @@ The Museum Angewandte Kunst is one of the most internationally recognised and di
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of Museum Angewandte Kunst](../../images/MAK_DSC179_39a90346e18362896023507010643815_original.jpg)
 *2022 — Author: Günzel/Rademacher, Museum Angewandte Kunst | License: Museum Angewandte Kunst | Description: View of Museum Angewandte Kunst*
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Leipziger Straße 1](../../images/Leipziger-_e21bb62564686df8a8cad896f9e58651_original.jpg)
 *before 1900 — Author: Hermann Bückling | License: ISG | Description: Leipziger Straße 1*
 

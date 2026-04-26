@@ -31,6 +31,7 @@ Further reading: Ernst May: Das soziale Moment in der neuen Baukunst. In: Das Ne
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The Niederrad community centre viewed from the interior courtyard.](../../images/Gemeinscha_2fec03bc90a8663510b463eb623c8673_original.jpg)
 *around 1928 — Author: Hermann Collischonn | License: ernst-may-gesellschaft e.V. | Description: The Niederrad community centre viewed from the interior courtyard.*
 

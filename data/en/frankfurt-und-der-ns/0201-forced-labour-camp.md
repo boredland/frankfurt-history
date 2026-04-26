@@ -22,6 +22,7 @@ In the Katharina Jockel guesthouse at Eulengasse 46 there was a camp for forced 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the restaurant "Zur Eulenburg" in Bornheim](../../images/0533dc953124078640858853d1af85b9_original.jpg)
 *1901 — Author: Unbekannt | License: HMF, Sammlung Church, C80372 | Description: Picture postcard with the restaurant "Zur Eulenburg" in Bornheim*
 

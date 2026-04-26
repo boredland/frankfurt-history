@@ -33,6 +33,7 @@ Das Familienunternehmen D. Cohn Jr. AG hatte seinen Sitz auf der Zeil 109. Es wa
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Kaufhauses D. Cohn Jr. AG](../../images/160e87af122a9fac8e7a80da045db971_original.jpg)
 *ca. 1930 — Author: Lauterwasser | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-10249 | Description: Foto des Kaufhauses D. Cohn Jr. AG*
 

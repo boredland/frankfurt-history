@@ -24,6 +24,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein für Daniël Hamerslag](../../images/Daniel%20Ham_ad690918ad50a7fa0a86fc2630eeeaa6_original.jpg)
 *License: Forschung zur Geschichte der Zeugen Jehovas in Frankfurt am Main | Description: Stolperstein für Daniël Hamerslag*
 

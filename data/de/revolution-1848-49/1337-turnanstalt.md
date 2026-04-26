@@ -27,6 +27,7 @@ Im Zuge der Märzreformen und der verkündeten Versammlungsfreiheit gründete si
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stahlstich mit einer Vogelperspektive auf die Turnanstalt](../../images/10%20Turnans_5a3bd26ea7e5f69949a595b81ef1073e_original.jpg)
 *1864 — Author: Friedrich Wilhelm Delkeskamp | License: Institut für Stadtgeschichte, Frankfurt Best. S8-9 Nr. 411 | Description: Stahlstich mit einer Vogelperspektive auf die Turnanstalt*
 

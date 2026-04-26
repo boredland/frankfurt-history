@@ -31,6 +31,7 @@ Quelle: Christoph Mohr/Michael Müller: Funktionalität und Moderne. Das Neue Fr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick von Eschersheimer Landstraße in die Miquelallee mit den Mehrfamilienhausblöcken.](../../images/emg-12-08-_62c355175181174fa3743c8c8edf5a3c_original.jpg)
 *nach 1930 — Author: Max Göllner | License: ernst-may-gesellschaft e.V. | Description: Blick von Eschersheimer Landstraße in die Miquelallee mit den Mehrfamilienhausblöcken.*
 

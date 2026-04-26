@@ -22,6 +22,7 @@ Die Sozialdemokratin Johanna Kirchner ist die Symbolfigur des Frankfurter Widers
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel für Johanna Kirchner an der Fassade der Paulskirche](../../images/isg_gt_joh_47421fb9efa8abb9e421cd22514ffd59_original.jpg)
 *Description: Gedenktafel für Johanna Kirchner an der Fassade der Paulskirche*
 

@@ -35,6 +35,7 @@ Die Kohlebürsten- und Elemente-Fabrik Carbone AG benötigte für ihre zahlreich
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Laurentiuskirchgarten mit Kapelle, Katholischen Kirche St. Laurentiuskirche, die seit 2016 zur "Pfarrei Katharina von Siena" gehört.](../../images/d588850cffb78d6c0b1f59c44a98e3ed_original.jpg)
 *ca. 1980 — Author: Adam Ruppel | License: ISG FFM S14Ru Nr. 1660 | Description: Laurentiuskirchgarten mit Kapelle, Katholischen Kirche St. Laurentiuskirche, die seit 2016 zur "Pfarrei Katharina von Siena" gehört.*
 

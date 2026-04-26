@@ -23,6 +23,7 @@ The Kranichhof am Roßmarkt was the home of Justina Catharina Steffan von Cronst
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/C25652a_00_2654f2666dedbb0d31fea1f7936d12b7_original.jpg)
 *Author: Friedrich Weisbrod | License: HMF/Gemeinfrei*
 

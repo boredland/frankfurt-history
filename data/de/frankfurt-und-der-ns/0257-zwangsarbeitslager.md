@@ -22,6 +22,7 @@ Die Firma Glasbau Georg Schäfer &Co. betrieb in der Neuen Mainzer Straße 24 ei
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Neue Mainzer Straße 24](../../images/7e8afdbf352e4be5c04afcc61262d70a_original.jpg)
 *ca. 1900 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2014-126 | Description: Neue Mainzer Straße 24*
 

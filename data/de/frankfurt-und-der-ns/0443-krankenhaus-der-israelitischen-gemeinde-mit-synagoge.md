@@ -29,6 +29,7 @@ filters:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Luftaufnahme des Krankenhauses der israelitischen Gemeinde](../../images/C80396_jpg_deac6e7cf666bccd006f7d4f2b643044_original.jpg)
 *1931 — Author: unbekannt | License: HMF / Sammlung Church C80396 | Description: Bildpostkarte mit Luftaufnahme des Krankenhauses der israelitischen Gemeinde*
 

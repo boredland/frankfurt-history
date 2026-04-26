@@ -34,6 +34,7 @@ Das Neue Frankfurt, vol. 4, issue 4/5 (April/May 1930), p. 132.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Plan of the Engelsruhe housing estate. The houses built in 1929 are colored black.](../../images/Engelsruhe_923228f62659e0e1c1dd52f952ef151d_original.jpg)
 *1930 — Author: Unbekannt | License: Das Neue Frankfurt, 1930, Heft 4/5, S. 132 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Plan of the Engelsruhe housing estate. The houses built in 1929 are colored black.*
 

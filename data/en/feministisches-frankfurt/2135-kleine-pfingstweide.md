@@ -23,6 +23,7 @@ In 1848, the former Kleine Pfingstweide was the scene of a mass rally in which o
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/C41309_jpg_3262895c661e19667463b811fdd692fd_original.jpg)
 *Author: Johann Andreas Benjamin Reges | License: HMF/Gemeinfrei*
 

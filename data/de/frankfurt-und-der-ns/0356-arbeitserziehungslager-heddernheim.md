@@ -34,6 +34,7 @@ Seit 1987 erinnert eine Gedenkstätte im Oberschelder Weg an das Lager und das L
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftbildaufnahme der US Air Force von der Region Frankfurt-Heddernheim. Das Areal des ehemaligen AEL Heddernheim ist zu Darstellungszecken rot umrandet.](../../images/Luftbildda_8b947559089a9d8462f00e855c1ce4cd_original.jpg)
 *Author: Unbekannt | License: NARA RG 373 / F-14748 | Description: Luftbildaufnahme der US Air Force von der Region Frankfurt-Heddernheim. Das Areal des ehemaligen AEL Heddernheim ist zu Darstellungszecken rot umrandet.*
 

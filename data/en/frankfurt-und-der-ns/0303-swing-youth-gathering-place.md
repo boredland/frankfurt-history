@@ -24,6 +24,7 @@ Café Rumpelmayer was located not far from the theatre in Adolf-Hitler-Anlage (n
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Outdoor area of the ‘Rumpelmayer’ café](../../images/232904ac707c75cce2a6cf6ad5898ced_original.jpg)
 *ca. 1940 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2003-126 | Description: Outdoor area of the ‘Rumpelmayer’ café*
 

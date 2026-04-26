@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Niedenau 63](../../images/Niedenau-6_91ce6c0f39c00de7f6c29473f1f86d0a_original.jpg)
 *1971 — Author: TH Darmstadt | License: HMF | Description: Niedenau 63*
 

@@ -41,6 +41,7 @@ Dennoch kann der „Fall Justin“ als exemplarisch für den Umgang der bundesde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Eva Justin im Jahr 1946. ISG FFM S7P Nr. 7326.](../../images/isg_ffm_s7_a81a60dbf5a0efd010b5a09b08c51dca_original.jpg)
 *1946 — License: Institut für Stadtgeschichte Frankfurt | Description: Eva Justin im Jahr 1946. ISG FFM S7P Nr. 7326.*
 

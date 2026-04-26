@@ -32,6 +32,7 @@ Der Frankfurter Privatsammler, Bankier und Mäzen Maximilian Freiherr von Goldsc
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Rothschild-Palais in der Bockenheimer Landstraße 10](../../images/C28607_jpg_5c3277d445d3ad104a76103dad192be8_original.jpg)
 *ca. 1930 — Author: Leonhard Kleemann | License: HMF C28607 | Description: Foto des Rothschild-Palais in der Bockenheimer Landstraße 10*
 

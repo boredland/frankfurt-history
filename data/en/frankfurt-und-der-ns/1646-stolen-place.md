@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Feuerbachstraße 1](../../images/Feuerbachs_61239a73ab744f684e163747cdf17f1b_original.jpg)
 *before 1933 — Author: unbekannt | License: ISG | Description: Feuerbachstraße 1*
 

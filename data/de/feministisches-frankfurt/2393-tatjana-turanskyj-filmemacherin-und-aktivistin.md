@@ -25,6 +25,7 @@ In diesen Werken verband sie feministische Diskurse zu Arbeit, Geschlecht und Ge
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Tatjana Turanskyj bei Remake. Frankfurter Frauen* Film TageQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Tatjana Turanskyj](../../images/R2_2_jpg_d52a61f52c65be670a4b66aadf2ceb49_original.jpg)
 *2018 — Author: Swenja Bergold | License: Swenja Bergold | Description: Tatjana Turanskyj bei Remake. Frankfurter Frauen* Film TageQuelle: Archiv der Kinothek Asta Nielsen, Sammlung Tatjana Turanskyj*
 

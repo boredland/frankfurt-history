@@ -22,6 +22,7 @@ Further reading: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. F
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The paddling pool in the children’s recreation garden.](../../images/isg_ffm_s7_3510038cee575f64aafcd28ac5546941_original.jpg)
 *1927 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: The paddling pool in the children’s recreation garden.*
 

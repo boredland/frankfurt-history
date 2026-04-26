@@ -24,6 +24,7 @@ So wie viele mittellose Frauen, die damals ihren Lebensunterhalt mit Sexarbeit v
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Hier wohnten Sophie Gotthardt, geborene Müller, und ihr Mann Hans 1934. Foto: Magistrat der Stadt Frankfurt, Untere Denkmalschutzbehörde](../../images/baustra%E2%94%9C_1711d77ffa7eee948bcb4652256f2cb3_original.jpg)
 *unbekannt — Author: unbekannt | License: Magistrat der Stadt Frankfurt, Untere Denkmalschutzbehörde | Description: Hier wohnten Sophie Gotthardt, geborene Müller, und ihr Mann Hans 1934. Foto: Magistrat der Stadt Frankfurt, Untere Denkmalschutzbehörde*
 

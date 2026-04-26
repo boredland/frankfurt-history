@@ -27,6 +27,7 @@ Bauunternehmen: FA Hoffmann II.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in Alt Schwanheim](../../images/acdec9ce02500d6720a4b4b2fb096243_original.jpg)
 *o.D. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in Alt Schwanheim*
 

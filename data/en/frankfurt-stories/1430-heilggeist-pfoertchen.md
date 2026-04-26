@@ -25,6 +25,7 @@ The Holy Spirit Gate was the main entrance to the Heiliggeist-Spital – the Hos
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Heiliggeist-Pförtchen from the outside (reconstruction after a drawing by Reiß), 1854, watercolored pencil drawing, HMF R0030](../../images/R0030_png_cd5f989de33f26a13e96154102fdff85_original.jpg)
 *1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Heiliggeist-Pförtchen from the outside (reconstruction after a drawing by Reiß), 1854, watercolored pencil drawing, HMF R0030*
 

@@ -24,6 +24,7 @@ A number of prisoners of war had their lodgings in the building of the Salzmann 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a school building belonging to the Salzmannschule at Schwanheimer Straße 23, which was used as a forced labour camp](../../images/51d70870e9552ec8ca2fe6becd03eb8d_original.jpg)
 *1987 — Author: Hade-Foto | License: HMF Ph14500 | Description: Photo of a school building belonging to the Salzmannschule at Schwanheimer Straße 23, which was used as a forced labour camp*
 

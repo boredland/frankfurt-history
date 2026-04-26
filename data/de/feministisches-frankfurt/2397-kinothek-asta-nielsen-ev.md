@@ -25,6 +25,7 @@ Das Archiv ist freitags von 11 bis 14 Uhr für Besucher*innen geöffnet.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Filmstill aus DIE FILMPRIMADONNA (2013, R: Urban Gad) mit Asta Nielsen in der Hauptrolle (rechts im Bild).](../../images/d30ad1fa957c8423e15f067ccfdfbd15_original.png)
 *1913 — Author: Urban Gad | License: Eye Filmmuseum Amsterdam | Description: Filmstill aus DIE FILMPRIMADONNA (2013, R: Urban Gad) mit Asta Nielsen in der Hauptrolle (rechts im Bild).*
 

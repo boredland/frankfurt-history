@@ -31,6 +31,7 @@ Further reading: Franz Roeckle. Bauten 1902–1933. Ed. by Marianne Hilti-Roeckl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gardeners in the “Teller” housing estate](../../images/isg_ffm_s7_6f2311917f0685311769533261d6137f_original.jpg)
 *1929 — Author: Kiehm | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Gardeners in the “Teller” housing estate*
 

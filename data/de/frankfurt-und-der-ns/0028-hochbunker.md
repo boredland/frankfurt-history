@@ -27,6 +27,7 @@ Bauunternehmen: ARGE (Arbeitsgemeinschaft) Junior.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Eppenhainer Straße](../../images/a05049996b61646eb038f79e68493ab9_original.jpg)
 *o.D. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Eppenhainer Straße*
 

@@ -21,6 +21,7 @@ Auf diesem Grundstück war nach 1933 eine „Hachschara“, eine Gärtnerei mit 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das ehemalige Gelände des Hachschara-Zentrums in Eckenheim.](../../images/Hachschara_f25448150f5398be9cb1dcc55435e0e3_original.jpg)
 *2023 — Description: Das ehemalige Gelände des Hachschara-Zentrums in Eckenheim.*
 

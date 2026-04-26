@@ -23,6 +23,7 @@ Ab 1939 residierte die Kreisleitung der Nationalsozialistischen Handwerks-, Hand
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the offices of the National Socialist Organization for Crafts, Trade, and Commerce (NS Hago) and District Office Management at Elbestraße 1](../../images/c992dec756cf2e004e7198e57aa5ea5f_original.jpg)
 *1934 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-11200 | Description: Photo of the offices of the National Socialist Organization for Crafts, Trade, and Commerce (NS Hago) and District Office Management at Elbestraße 1*
 

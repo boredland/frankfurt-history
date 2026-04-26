@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Fahrgasse 94](../../images/Fahrgasse-_933af49f6c5b5d906dc818eb3342dfa9_original.jpg)
 *1935 — Author: unbekannt | License: ISG | Description: Fahrgasse 94*
 

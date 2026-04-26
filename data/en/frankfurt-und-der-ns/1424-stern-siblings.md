@@ -27,6 +27,7 @@ HHStW 519/3 Nr. 20039, 469/6 Nr. 20036/14; 461 Nr. 19115; 519/3 Nr. 7676; 309/10
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial plaque for Ella Stern at the old Jewish cemetery](../../images/Foto_EllaS_21234b0cf7a45f08c54809faf9f97806_original.jpg)
 *2023 — Author: Lisa Lungu, Laura Wand | License: gemeinfrei | Description: Memorial plaque for Ella Stern at the old Jewish cemetery*
 

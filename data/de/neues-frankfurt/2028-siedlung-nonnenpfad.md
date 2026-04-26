@@ -33,6 +33,7 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Straßenansicht der Siedlung Nonnenpfad.](../../images/Nonnenpfad_c636ef53407b603814fb4668e23f467c_original.jpg)
 *um 1935 — Author: Hans Beckstein | License: 25 Jahre Gartenstadt-Gesellschaft Frankfurt am Main A.G. 1910-1935, herausgegeben vom Vorstand der Gesellschaft, Februar 1935, S. 54 | Description: Straßenansicht der Siedlung Nonnenpfad.*
 

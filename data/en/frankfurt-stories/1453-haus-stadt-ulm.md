@@ -26,6 +26,7 @@ The Stadt Ulm house was converted in 1915 and ultimately destroyed in the Second
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Schäfergasse 9, Haus Stadt Ulm, courtyard, 1862, watercolored pencil drawing, HMF R0863](../../images/R0863_png_fb2ad8be23d581cd64065cde9a723353_original.jpg)
 *1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Schäfergasse 9, Haus Stadt Ulm, courtyard, 1862, watercolored pencil drawing, HMF R0863*
 

@@ -29,6 +29,7 @@ The adults and children lodged here were put to work in express goods dispatch a
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial photograph from August 15, 1944. On the left edge of the image: Old Griesheim. No. 12: Reichsautobahn (today's A5). No. 8: Railcar depot where the forced labor camp was located. Area surrounded by hatched lines: Griesheim storage yard.](../../images/Gleisbautr_b9df90cbadb762d9caee67325cf90f7c_original.jpg)
 *1944 — License: NARA | Description: Aerial photograph from August 15, 1944. On the left edge of the image: Old Griesheim. No. 12: Reichsautobahn (today's A5). No. 8: Railcar depot where the forced labor camp was located. Area surrounded by hatched lines: Griesheim storage yard.*
 

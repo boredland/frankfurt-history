@@ -22,6 +22,7 @@ During World War II, the drycleaning plant and dye works Gebrüder Röver operat
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with aerial view of the dry-cleaning works of the company Färberei Gebrüder Röver](../../images/d62a0d1c024837349ae161a685823967_original.jpg)
 *after 1900 — Author: Unbekannt | License: HMF, Sammlung Church, C80412 | Description: Picture postcard with aerial view of the dry-cleaning works of the company Färberei Gebrüder Röver*
 

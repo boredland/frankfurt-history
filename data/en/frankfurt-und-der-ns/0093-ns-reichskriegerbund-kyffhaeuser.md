@@ -24,6 +24,7 @@ Since March 4, 1938 the Nazi Reichskriegerbund “Kyffhäuser”. On March 3, 19
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Headquarters of the Nazi Reich War Veterans Association “Kyffhäuser” at Niedenau 61](../../images/71563a4909620e9f3ea9115fd2ff09e7_original.jpg)
 *1971 — Author: TH Darmstadt | License: HMF Ph08883 | Description: Headquarters of the Nazi Reich War Veterans Association “Kyffhäuser” at Niedenau 61*
 

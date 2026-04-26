@@ -24,6 +24,7 @@ Das Hotel Drexel in der Großen Friedberger Straße 18 beschäftigte 1942 mindes
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Hotel Drexel](../../images/bfa1c860c02e856b78bb1b31ed0dfa51_original.jpg)
 *um 1935 — Author: Unbekannt | License: HMF, Sammlung Church, C80378 | Description: Bildpostkarte mit dem Hotel Drexel*
 

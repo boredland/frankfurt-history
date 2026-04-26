@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Große Eschenheimer Straße 25](../../images/Gro%C3%9Fe-Esc_dfbc7a4d59b93885aeab3f4cc9e73ad5_original.jpg)
 *1926 — Author: unbekannt | License: ISG | Description: Große Eschenheimer Straße 25*
 

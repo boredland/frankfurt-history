@@ -37,6 +37,7 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftaufnahme der Siedlung Westhausen.](../../images/Westhausen_5394e750f784cf2505e3d4273fc7a791_original.jpg)
 *um 1932 — Author: Unbekannt | License: Privat | Description: Luftaufnahme der Siedlung Westhausen.*
 

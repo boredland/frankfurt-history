@@ -23,6 +23,7 @@ Elisabeth H. Winterhalter war eine der ersten Gynäkologinnen in Deutschland. Si
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bleichstraße-Hinterhäuser: altes Senkenbergisches Institut, Eschenheimer Turm, Aquarell;](../../images/C51047%2B001_45258587d803c9998ff63b143d5ba631_original.jpg)
 *1857 — Author: Carl Theodor Reiffenstein | License: HMF/Gemeinfre | Description: Bleichstraße-Hinterhäuser: altes Senkenbergisches Institut, Eschenheimer Turm, Aquarell;*
 

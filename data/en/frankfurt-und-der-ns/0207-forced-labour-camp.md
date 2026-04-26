@@ -21,6 +21,7 @@ The iron wholesaler Thyssen-Rheinstahl AG ran a camp for forced laborers at Fran
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp](../../images/3bf75c21ddcec0d949ae73587b9d4db9_original.jpg)
 *1939 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 5340 | Description: Forced labor camp*
 

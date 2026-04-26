@@ -24,6 +24,7 @@ Die auf einen Sandsteinsockel aufgebrachte Messingtafel erinnert an die allgemei
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel am ehemaligen Gestapo-Hauptquartier](../../images/isg_gt_ges_85960433acd34566d0b7275f6dc9d500_original.jpg)
 *License: © Institut für Stadtgeschichte | Description: Gedenktafel am ehemaligen Gestapo-Hauptquartier*
 

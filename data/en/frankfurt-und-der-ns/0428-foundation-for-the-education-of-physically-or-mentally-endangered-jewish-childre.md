@@ -24,6 +24,7 @@ From at least 1917, this was the location of a day-care centre for Jewish boys a
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the Stockmann boarding house](../../images/C80382_jpg_26b3b34249d09a66787d4f4f0bea1f7f_original.jpg)
 *Unknown — Author: unbekannt | License: HMF, Sammlung Church, C80382 | Description: Picture postcard with the Stockmann boarding house*
 

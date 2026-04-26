@@ -23,6 +23,7 @@ Ein offizielles Gedenken an die nationalsozialistischen Verbrechen gibt es in Fr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zeichnung des Mahnmals der Opfer des Nazi-Terrors](../../images/152f6a3905c2c8cef236c619820a58c4_original.jpg)
 *Description: Zeichnung des Mahnmals der Opfer des Nazi-Terrors*
 

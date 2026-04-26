@@ -27,6 +27,7 @@ Die Geheime Staatspolizeistelle Frankfurt am Main (Gestapo) hatte ab dem 1. Apri
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der Geheimen Staatspolizeistelle Frankfurt a. M.](../../images/54c8ca1bc0359a68200f60946aacb4dc_original.jpg)
 *1947 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13183 | Description: Foto der Geheimen Staatspolizeistelle Frankfurt a. M.*
 

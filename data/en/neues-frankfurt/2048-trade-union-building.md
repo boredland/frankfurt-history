@@ -17,5 +17,9 @@ filters:
 ![Street view of the trade union building.](../../images/cefa0661dfdcd4ff941881065c54cf2f_original.jpg)
 *around 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Street view of the trade union building.*
 
-## Interactive Before & After
+## Before & After
+
+<!-- gallery:before-after -->
+![Street view of the trade union building.](../../images/isg_ffm_s7_0038fcd1dc1a8b9fbdb89a13dd5b142d_original.jpg)
+*around 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Street view of the trade union building.*
 

@@ -22,6 +22,7 @@ The property at Günthersburgallee 79 originally belonged to Adolf Guckenheimer 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Günthersburgallee 79](../../images/Guenthersb_eb7c743216c8055e2d647dfd2514a383_original.jpg)
 *2023 — License: Hermann Tertilt | Description: Günthersburgallee 79*
 

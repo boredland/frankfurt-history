@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Falkensteiner Straße 37](../../images/Falkenstei_e50a00e093fb93400c06f369cef37301_original.jpg)
 *ca. 1925 — License: ISG | Description: Falkensteiner Straße 37*
 

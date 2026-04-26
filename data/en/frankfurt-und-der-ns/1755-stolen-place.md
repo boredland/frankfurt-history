@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schloßstraße 4](../../images/Schlo%C3%9Fstr_ad1aab936a2e5f886a790662df0a4d07_original.jpg)
 *1905 — Author: Hermann Bückling | License: HMF | Description: Schloßstraße 4*
 

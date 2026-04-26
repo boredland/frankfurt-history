@@ -25,6 +25,7 @@ Neben Jacob S. H. Stern war Lazard Speyer-Ellisen die zweite Frankfurter Privatb
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Gebäude in der Neue Mainzer Straße 23 war bis 1908 Sitz von Lazard Speyer-Ellisen; danach zog die Bank in die Taunusanlage 11 um.](../../images/798978ffee_a29ca314d93d9d3322f69ed2ceb9e027_original.jpg)
 *Author: unbekannt | License: HMF.C16681. | Description: Das Gebäude in der Neue Mainzer Straße 23 war bis 1908 Sitz von Lazard Speyer-Ellisen; danach zog die Bank in die Taunusanlage 11 um.*
 

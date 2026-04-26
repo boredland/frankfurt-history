@@ -28,6 +28,7 @@ Wie es Lilo dort ging, kannst du bei „Lilo versteckt sich im Krieg“ erfahren
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lilo und Helmut (beide vorne) mit ihren Freundinnen und Freunden aus dem Wollgraben.](../../images/Kindergrup_e08a43d7d99da06715d6373d49d4a278_original.jpg)
 *ca. 1936 — Author: unbekannt | License: Privat, Lilo Günzler: Endlich Reden, Henrich Editionen Frankfurt | Description: Lilo und Helmut (beide vorne) mit ihren Freundinnen und Freunden aus dem Wollgraben.*
 

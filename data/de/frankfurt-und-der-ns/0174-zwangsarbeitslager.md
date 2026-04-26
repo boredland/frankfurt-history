@@ -24,6 +24,7 @@ In der Körnerschule (heute: Michael-Ende-Schule) waren Kriegsgefangene einquart
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Assenheimer Straße 38-40](../../images/f88e51560dc0bd254adb39f5691e47b9_original.jpg)
 *unbekannt — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-24687 | Description: Zwangsarbeitslager, Assenheimer Straße 38-40*
 

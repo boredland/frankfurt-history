@@ -24,6 +24,7 @@ Hier gab es ein Sammellager für westeuropäische Zwangsarbeiter*innen. Es wurde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Allerheiligenstraße 28](../../images/1ba084840eb1c5ea116e843b1d7f9363_original.jpg)
 *ca. 1945 — Author: unbekannt | License: HMF, Ph07261 | Description: Zwangsarbeitslager, Allerheiligenstraße 28*
 

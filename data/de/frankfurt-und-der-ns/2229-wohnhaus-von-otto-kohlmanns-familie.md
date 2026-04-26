@@ -26,6 +26,7 @@ Vor dem Haus der Familie Kohlmann erinnern seit 2025 Stolpersteine an Otto Kohlm
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Hier wohnten Otto Kohlmann und ihre Familie von 1913 bis mindestens 1934. Foto: Frauke Steinhäuser, Frankfurt, 2025.](../../images/ro%E2%94%9C%C6%92dor_61891274b4c760de4506c2889549e265_original.jpg)
 *2025 — Author: Frauke Steinhäuser | License: CC:BY-NC 4.0 | Description: Hier wohnten Otto Kohlmann und ihre Familie von 1913 bis mindestens 1934. Foto: Frauke Steinhäuser, Frankfurt, 2025.*
 

@@ -31,6 +31,7 @@ Quelle: DW Dreysse: May-Siedlungen. Architekturführer durch zehn Siedlungen des
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftaufnahme der an der Frankenallee gelegenen Wohnsiedlung mit Zeilen- und Kopfbauten.](../../images/isg_ffm_s7_49e87cd2a32d7ab736c2a9de8aec3991_original.jpg)
 *1928 — Author: Ilse Bing | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Luftaufnahme der an der Frankenallee gelegenen Wohnsiedlung mit Zeilen- und Kopfbauten.*
 

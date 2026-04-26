@@ -31,6 +31,7 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick auf die Rückseite des Pavillons mit Aussichtsterrasse.](../../images/isg_ffm_s7_3b40f11edfe58d2784efdf779e8e106f_original.jpg)
 *um 1930 — Author: unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Blick auf die Rückseite des Pavillons mit Aussichtsterrasse.*
 

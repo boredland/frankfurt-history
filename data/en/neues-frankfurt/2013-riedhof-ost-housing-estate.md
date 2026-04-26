@@ -31,6 +31,7 @@ Further reading: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. F
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Model of the Riedhof-Ost housing estate](../../images/Riedhof-Os_3c5080f8877f36504873652f9e01f704_original.jpg)
 *around 1930 — Author: Unbekannt | License: Das Neue Frankfurt, 1930, Heft 4/5, S. 116 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Model of the Riedhof-Ost housing estate*
 

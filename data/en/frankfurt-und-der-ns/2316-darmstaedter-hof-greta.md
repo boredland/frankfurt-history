@@ -49,6 +49,7 @@ On August 1, 1972, Nieder-Eschbach was incorporated into Frankfurt as administra
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Darmstädter Hof, side view](../../images/Darmst%C3%A4dt_923dfa2a0648a52ee2498b877df78eae_original.jpg)
 *2026 — Author: Peter Brosche | License: Privat | Description: Darmstädter Hof, side view*
 

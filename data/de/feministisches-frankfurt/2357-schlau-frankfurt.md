@@ -25,6 +25,7 @@ SCHLAU - was ursprünglich als SchLAu für Schwul-Lesbische Aufklärung stand, i
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![SCHLAU Infostand beim CSD 2024](../../images/Infostand%20_c4cb581257838d05eb5fc00f940e9535_original.jpg)
 *2024 — Author: SCHLAU Frankfurt | License: SCHLAU Frankfurt-gemeinfrei | Description: SCHLAU Infostand beim CSD 2024*
 

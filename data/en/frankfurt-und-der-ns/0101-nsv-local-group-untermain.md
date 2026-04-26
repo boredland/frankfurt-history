@@ -24,6 +24,7 @@ According to the 1935 directory, a local branch of the National Socialist People
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo fo the offices of the NSV local group Untermain](../../images/04c3b756e7236b23b9f5b93ed962c656_original.jpg)
 *1938 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1938-33 | Description: Photo fo the offices of the NSV local group Untermain*
 

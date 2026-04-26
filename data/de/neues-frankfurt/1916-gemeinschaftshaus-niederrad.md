@@ -31,6 +31,7 @@ Quelle: Ernst May: Das soziale Moment in der neuen Baukunst. In: Das Neue Frankf
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Gemeinschaftshaus in Niederrad vom Innenhof aus betrachtet.](../../images/Gemeinscha_2fec03bc90a8663510b463eb623c8673_original.jpg)
 *um 1928 — Author: Hermann Collischonn | License: ernst-may-gesellschaft e.V. | Description: Das Gemeinschaftshaus in Niederrad vom Innenhof aus betrachtet.*
 

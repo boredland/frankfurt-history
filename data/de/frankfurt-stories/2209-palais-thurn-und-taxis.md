@@ -35,18 +35,21 @@ Die für Reisen genutzte „Fahrpost“ war bis 1841 im Palais Thurn und Taxis u
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Johann Michael Eben (1716-1761), Palais Thurn und Taxis, 19. Jahrhundert, HMF.C01274, gemeinfrei](../../images/C01274_001_ba7c5a7758dc5ccb6c3a8072822568e8_original.jpg)
 *18. Jahrhundert — Author: Johann Michael Eben | License: Gemeinfrei; HMF, Foto: Ursula Seitz Gray | Description: Johann Michael Eben (1716-1761), Palais Thurn und Taxis, 19. Jahrhundert, HMF.C01274, gemeinfrei*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Paul Emil Rumpf (1860-1948), Postkutsche bei Regenwetter, um 1879, HMF.C24080, gemeinfrei](../../images/C24080_001_5aa6f3944bbaeccc7ffc1d6359f923ab_original.jpg)
 *1879 — Author: Paul Emil Rumpf | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Paul Emil Rumpf (1860-1948), Postkutsche bei Regenwetter, um 1879, HMF.C24080, gemeinfrei*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Iffland, Große Eschenheimer Straße mit Palais Thurn und Taxis, Frankfurt 1907, HMF.Ph05579](../../images/Ph05579_00_20d095bff06c8167b6e5f96112b8b68b_original.jpg)
 *1907 — Author: Carl Iffland | License: HMF, Foto: Horst Ziegenfusz | Description: Carl Iffland, Große Eschenheimer Straße mit Palais Thurn und Taxis, Frankfurt 1907, HMF.Ph05579*
 

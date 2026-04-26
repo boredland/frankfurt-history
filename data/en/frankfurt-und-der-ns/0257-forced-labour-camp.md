@@ -22,6 +22,7 @@ The property had originally belonged to a Jewish owner who had to sell it due to
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Neue Mainzer Straße 24](../../images/7e8afdbf352e4be5c04afcc61262d70a_original.jpg)
 *Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2014-126 | Description: Neue Mainzer Straße 24*
 

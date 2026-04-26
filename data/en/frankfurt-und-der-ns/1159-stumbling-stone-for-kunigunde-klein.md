@@ -19,6 +19,7 @@ filters:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/0d3205913720e1606dd012f93cf352b9_original.jpg)
 *Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 

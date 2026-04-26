@@ -21,6 +21,7 @@ Die Deutsche Vereinigte Schuhmaschinenfabrik GmbH betrieb in der Hohenzollernanl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager](../../images/15cf99b4df9456ee48d51aed4b52ed27_original.jpg)
 *ca. 1938 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13133 | Description: Zwangsarbeitslager*
 

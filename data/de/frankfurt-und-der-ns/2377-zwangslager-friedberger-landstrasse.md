@@ -27,6 +27,7 @@ Das „Konzentrationslager“ an der Friedberger Landstraße war ein erster Schr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Deckel der Magistratsakte der Stadt Frankfurt zum "Konzentrationslager an der Friedberger Landstraße". ISG FFM A.02.01 Nr. R-1378.](../../images/isg_ffm_a__94e7f9ff7073f853a6b5a5821b9b8891_original.jpg)
 *1929-1930 — License: Institut für Stadtgeschichte Frankfurt | Description: Deckel der Magistratsakte der Stadt Frankfurt zum "Konzentrationslager an der Friedberger Landstraße". ISG FFM A.02.01 Nr. R-1378.*
 

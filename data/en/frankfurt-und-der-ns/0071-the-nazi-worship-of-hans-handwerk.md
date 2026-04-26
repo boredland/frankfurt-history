@@ -24,6 +24,7 @@ On 4 July 1932, Hans Handwerk was shot in the vicinity of his home. He was a mem
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of an antechamber at the Heilig Geist Hospital](../../images/65b1e7e92bce31aa391cca46bd145f00_original.jpg)
 *1934 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. H.14.10 Nr. 82 | Description: Photo of an antechamber at the Heilig Geist Hospital*
 

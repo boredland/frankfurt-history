@@ -27,6 +27,7 @@ Die Schicksale der übrigen Kinder waren ebenfalls geprägt von Flucht und Verlu
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die Stolpersteine in der Corneliusstraße 15 erinnern an die Familie Wohlfarth: Auguste, Theodor, Hugo und Julius, die von den Nationalsozialist*innen verfolgt wurden.](../../images/Stolperste_b9fec13ff6f97203c4e327ef265fc54f_original.jpg)
 *2024 — Author: Aliah Habl Corona | License: gemeinfrei | Description: Die Stolpersteine in der Corneliusstraße 15 erinnern an die Familie Wohlfarth: Auguste, Theodor, Hugo und Julius, die von den Nationalsozialist*innen verfolgt wurden.*
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stettenstraße 9](../../images/Stettenstr_9e096cdbbb993119c1d578e60a51e06f_original.jpg)
 *ca. 1923 — Author: unbekannt | License: ISG | Description: Stettenstraße 9*
 

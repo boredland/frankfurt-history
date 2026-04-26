@@ -21,6 +21,7 @@ Die Lackfabrik A. Dreißigacker GmbH betrieb in der Schielestraße 45 ein Lager 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schnitt des Bürogebäudes an der Schielestraße 45](../../images/f742d94452e76b824cb991a9d5481401_original.jpg)
 *1921 — Author: Ph. Hofmann | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 5515 | Description: Schnitt des Bürogebäudes an der Schielestraße 45*
 

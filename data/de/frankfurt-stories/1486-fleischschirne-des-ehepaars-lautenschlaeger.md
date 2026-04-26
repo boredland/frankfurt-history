@@ -28,6 +28,7 @@ Noch 1874 forderte das Ehepaar 50.000 Gulden für ihren Laden, was die Stadt abl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Stadtwaage, Vorderseite, 1837, Bleistiftzeichnung, HMF R0369](../../images/R0369_png_afc95832ca4c90a15992b5c5aeeb8378_original.jpg)
 *1837 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Stadtwaage, Vorderseite, 1837, Bleistiftzeichnung, HMF R0369*
 

@@ -27,6 +27,7 @@ Bauunternehmen: Gebrüder Weil, Limburg.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Kaiser-Sigmund-Straße](../../images/8874b2d0b4dc79d08ef705eddd77680e_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Kaiser-Sigmund-Straße*
 

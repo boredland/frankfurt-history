@@ -22,6 +22,7 @@ Clotilde Koch-Gontard interessierte sich früh für die politischen Entwicklunge
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick in den Kettenhofweg, Zustand von 1834, Aquarell](../../images/RS0159%2B001_dd6704917a29ce4bfaaac94427c41235_original.jpg)
 *1868 — Author: Carl Theodor Reiffenstein | License: HMF/Gemeinfrei | Description: Blick in den Kettenhofweg, Zustand von 1834, Aquarell*
 

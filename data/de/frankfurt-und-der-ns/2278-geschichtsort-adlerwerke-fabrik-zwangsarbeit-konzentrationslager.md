@@ -25,6 +25,7 @@ Der Geschichtsort Adlerwerke dokumentiert und vermittelt das Thema Zwangsarbeit 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schriftzug des Geschichtsort Adlerwerke an der Fassade des alten Fabrikgebäudes.](../../images/621f4f946c021519b587631bf9fb55e0_original.jpg)
 *2023 — Author: Thomas Altmeyer | License: gemeinfrei | Description: Schriftzug des Geschichtsort Adlerwerke an der Fassade des alten Fabrikgebäudes.*
 

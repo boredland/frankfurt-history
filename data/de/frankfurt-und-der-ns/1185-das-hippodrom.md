@@ -23,6 +23,7 @@ Das Hippodrom war 1899 an der Forsthausstraße (heute Kennedyallee / Ecke Strese
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Eröffnung des Makkabi-Hallensportfests 1936 im Hippodrom](../../images/ecb42acb72cbe081b0b0dd30282fee1f_original.jpg)
 *1977 — Author: Robert Atlasz, Bar Kochba: Makkabi-Deutschland 1898-1938, Tel Aviv 1977 | Description: Eröffnung des Makkabi-Hallensportfests 1936 im Hippodrom*
 

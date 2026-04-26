@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Hynspergstraße 27](../../images/Hynspergst_704cc7d0b9d186a965986ee3dc037189_original.jpg)
 *1938 — Author: Jutta Hofmann | License: ISG | Description: Hynspergstraße 27*
 

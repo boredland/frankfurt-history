@@ -24,6 +24,7 @@ Am Blittersdorfplatz 29 (heute Mainzer Landstraße) hatte die Firma W. Schmidt-D
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Mainzer Landstraße 27](../../images/9f4bce829042560b794655b95f360dcf_original.jpg)
 *1933 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-11192 | Description: Zwangsarbeitslager, Mainzer Landstraße 27*
 

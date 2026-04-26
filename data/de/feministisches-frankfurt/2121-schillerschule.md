@@ -24,6 +24,7 @@ Die Fotografie zeigt den Rotkäppchen-Brunnen auf dem Schulhof. Ein Informations
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schillerschule](../../images/schillersc_ed63920a5f9c59b37e1889ecdb0f3e0b_original.jpg)
 *2025 — Author: Hannah Rödel | License: HMF/Gemeinfrei | Description: Schillerschule*
 

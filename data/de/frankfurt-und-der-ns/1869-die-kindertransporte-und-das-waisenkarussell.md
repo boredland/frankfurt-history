@@ -23,6 +23,7 @@ Im November 1938 beschlossen mehrere Länder, jüdische Kinder aus Deutschland a
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Denkmal „Waisenkarussell“, das an die jüdischen Kindertransporte während der Nazi-Zeit erinnert in Frankfurt am Main.](../../images/Waisenkaru_a3336f6fcef16529d4ba0d64d91e26b5_original.jpg)
 *2024 — Author: Victoria Schneider | License: gemeinfrei | Description: Das Denkmal „Waisenkarussell“, das an die jüdischen Kindertransporte während der Nazi-Zeit erinnert in Frankfurt am Main.*
 

@@ -28,6 +28,7 @@ The house had a magnificent main room with 17th-century wooden panelling and a s
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Haus Fürsteneck (reconstructed state before the renovation), 1854, watercolored pencil drawing, HMF R0330](../../images/R0330_png_16cd4b2b08ba45010cca892e7dd786d6_original.jpg)
 *1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Haus Fürsteneck (reconstructed state before the renovation), 1854, watercolored pencil drawing, HMF R0330*
 

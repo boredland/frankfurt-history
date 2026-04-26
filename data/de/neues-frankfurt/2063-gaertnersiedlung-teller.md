@@ -31,6 +31,7 @@ Quelle: Franz Roeckle. Bauten 1902–1933. Hrsg. von Marianne Hilti-Roeckle, Han
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gärtner*innen in der Siedlung Teller](../../images/isg_ffm_s7_6f2311917f0685311769533261d6137f_original.jpg)
 *1929 — Author: Kiehm | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Gärtner*innen in der Siedlung Teller*
 

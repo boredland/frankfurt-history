@@ -24,6 +24,7 @@ Inhaber des Café Metz in der Großen Sandgasse 17 (heute: vermutlich Sandgasse 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Meeting place for resistance fighters, Sandgasse 8](../../images/0feed17b981501e2469cea620f7c38a0_original.jpg)
 *ca. 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-3893 | Description: Meeting place for resistance fighters, Sandgasse 8*
 

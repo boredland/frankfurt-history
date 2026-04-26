@@ -24,6 +24,7 @@ This was the location of the Johann Mankel winery. In 1943 the company made use 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labour camp, Schäfergasse 19](../../images/51efcbbdbd9735367ca3c80e28c91276_original.jpg)
 *ca. 1880 — Author: Hertel | License: Institut für Stadtgeschichte, Frankfurt Best. S7A 1998-9505 | Description: Forced labour camp, Schäfergasse 19*
 

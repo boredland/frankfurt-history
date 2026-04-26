@@ -25,6 +25,7 @@ Nach der Machtübertragung an die Nationalsozialist*innen 1933 wurde das Institu
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Café Laumer in Frankfurt, ein historischer Treffpunkt für Intellektuelle, das seit 1919 als Ort für Diskussionen und Austausch dient.](../../images/Cafe%CC%81%20Lau_3788aa6f455b1c13e1ab49fb74219aae_original.jpg)
 *2024 — Author: Aliah Habl Corona | License: gemeinfrei | Description: Das Café Laumer in Frankfurt, ein historischer Treffpunkt für Intellektuelle, das seit 1919 als Ort für Diskussionen und Austausch dient.*
 

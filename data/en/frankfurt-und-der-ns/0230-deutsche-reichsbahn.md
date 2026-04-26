@@ -46,30 +46,35 @@ Due to bomb damage, one day the trains left from Frankfurt-Griesheim Station and
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Idsteiner Straße 18](../../images/9d8f28a7ad7a9e93b7c194034aae0151_original.jpg)
 *ca. 1944 — Author: Jürgen Engelhardt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-4243 | Description: Forced labor camp, Idsteiner Straße 18*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Drawing of an industrial building destroyed during World War II in Frankfurt am Main.](../../images/Zerst%C3%B6rte_04405461b84000634051c84861dee6ec_original.jpg)
 *2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Drawing of an industrial building destroyed during World War II in Frankfurt am Main.*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Register of births of foreign nationals recorded at the Flörsheim Registry Office.](../../images/Verzeichni_17e96cc65e3da7d7bb96b7273c087749_original.jpg)
 *n.d. — Author: Unbekannt | License: Archiv der Stadt Flörsheim am Main | Description: Register of births of foreign nationals recorded at the Flörsheim Registry Office.*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Death certificate of Tanj[a] Tribowa, issued on September 17, 1947, in Flörsheim am Main.](../../images/Arolsen%20Ar_df982ecabae4dc1c135681dd85b068f2_original.jpg)
 *n.d. — Author: Unbekannt | License: Sterbeurkunden Kinder (Kindersuchdienst), 2.2.2.4/77105996, ITS Digital Archive, Arolsen Archives. | Description: Death certificate of Tanj[a] Tribowa, issued on September 17, 1947, in Flörsheim am Main.*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![In front of Flörsheim train station, a suitcase monument commemorates the people who departed and arrived here between 1933 and 1945 as a result of Nazi persecution and forced labor.](../../images/Foto%203%20Ids_35d8a8fbb8c8fd3cde011de398e05a3e_original.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christne Hartwig-Thürmer | Description: In front of Flörsheim train station, a suitcase monument commemorates the people who departed and arrived here between 1933 and 1945 as a result of Nazi persecution and forced labor.*
 

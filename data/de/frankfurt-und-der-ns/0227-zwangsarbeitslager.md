@@ -22,6 +22,7 @@ Die I.G. Farben-Industrie AG setzte in ihren drei Frankfurter Chemiewerken in H�
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Hanauer Landstraße 528](../../images/d520898a5c46c2c87a314c71e3330088_original.jpg)
 *1931 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29253 | Description: Zwangsarbeitslager, Hanauer Landstraße 528*
 

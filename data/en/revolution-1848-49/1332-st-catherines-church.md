@@ -25,6 +25,7 @@ Not all the clergy and church representatives were in favour of using religious 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Illustration of St. Catherine's Church](../../images/05%20Kathari_2162acb2da333a9d91ddb17bdc0ae5e1_original.jpg)
 *ca. 1855 — Author: Johann Jakob Tanner | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 911 | Description: Illustration of St. Catherine's Church*
 

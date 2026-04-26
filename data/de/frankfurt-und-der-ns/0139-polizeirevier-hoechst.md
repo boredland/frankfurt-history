@@ -24,6 +24,7 @@ Das Polizeirevier im Bolongaropalast diente während der Novemberpogrome 1938 al
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Polizeirevier Höchst](../../images/9c22e794ba6233bd9b0472ba813ea256_original.jpg)
 *1938 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2006-31 | Description: Foto des Polizeirevier Höchst*
 

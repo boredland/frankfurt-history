@@ -22,6 +22,7 @@ Voigt & Haeffner, a factory specializing in heavy current electrical equipment, 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with aerial view of the Voigt &amp; Haeffner industrial and company plant](../../images/2fd17422f42dba499a178fb0e386bfbc_original.jpg)
 *unknown — Author: Unbekannt | License: HMF, Sammlung Church, C80393 | Description: Picture postcard with aerial view of the Voigt &amp; Haeffner industrial and company plant*
 

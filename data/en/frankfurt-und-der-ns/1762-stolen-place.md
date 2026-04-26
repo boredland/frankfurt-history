@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Seeheimer Straße 8](../../images/Seeheimer-_ca18a2c9f784bad49b09b57a560e764c_original.jpg)
 *ca. 1900 — Author: unbekannt | License: ISG | Description: Seeheimer Straße 8*
 

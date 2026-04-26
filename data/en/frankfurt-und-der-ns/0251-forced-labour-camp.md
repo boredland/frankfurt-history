@@ -21,6 +21,7 @@ At Mainzer Landstraße 281-291, the shoe factories J. & C. A. Schneider operated
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp](../../images/17f628a9418dab489d24630a4ec665af_original.jpg)
 *ca. 1941 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 1998-4160 | Description: Forced labor camp*
 

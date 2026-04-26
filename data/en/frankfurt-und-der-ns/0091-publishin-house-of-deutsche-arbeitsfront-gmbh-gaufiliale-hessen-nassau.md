@@ -24,6 +24,7 @@ In 1940, this was the location of a branch of the German Labour Front publishing
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the Roßmarkt](../../images/d219c62bb3c53495ab26b566c657cec5_original.jpg)
 *unknown — Author: unbekannt | License: HMF, Sammlung Church, C80384 | Description: Picture postcard with the Roßmarkt*
 

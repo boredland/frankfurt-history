@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Herderstraße 30](../../images/Herderstra_7562541426d6ced45a37348ae34625d8_original.jpg)
 *2010 — Author: Martin Starl | License: ISG | Description: Herderstraße 30*
 

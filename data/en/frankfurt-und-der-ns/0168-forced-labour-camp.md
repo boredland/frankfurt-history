@@ -24,6 +24,7 @@ From 1943 onwards, this was the location of a forced labour camp probably operat
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Alt Praunheim 13](../../images/c95be6c394247897288f8b8f84e180ad_original.jpg)
 *1944 — Author: J. van Emden | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 2002-65 | Description: Forced labor camp, Alt Praunheim 13*
 

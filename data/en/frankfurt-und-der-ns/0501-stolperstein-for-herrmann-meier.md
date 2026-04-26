@@ -32,6 +32,7 @@ A Stolperstein—literally “stumbling stone”—is a 10 x 10 x 10-cm concrete
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein for Herrmann Meier Am Rödelheimer Wehr 4](../../images/stolperst__b0d8648d99670537df37a4ca0f7ebcdf_original.jpg)
 *2021 — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein for Herrmann Meier Am Rödelheimer Wehr 4*
 

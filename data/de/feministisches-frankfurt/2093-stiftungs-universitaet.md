@@ -24,6 +24,7 @@ Als jüdische Künstlerin und Kunsthistorikerin floh Erna Auerbach 1933 vor den 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die Goethe Universität](../../images/C25446_001_391a38abf0f300f18a5d13027661e8c4_original.jpg)
 *1907 — Author: J.B. Ciolina | License: HMF | Description: Die Goethe Universität*
 

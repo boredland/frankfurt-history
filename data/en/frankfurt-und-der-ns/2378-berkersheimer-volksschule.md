@@ -27,6 +27,7 @@ The authorities initially planned to set up a school barrack in the camp but did
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Exterior view of Berkersheim public school. ISG FFM S7A/1998-19782.](../../images/Volksschul_f3d9a7b3ba517132f03ef3c1261f07be_original.jpg)
 *ca. 1935 — Author: Theodor Derlam | License: Institut für Stadtgeschichte Frankfurt | Description: Exterior view of Berkersheim public school. ISG FFM S7A/1998-19782.*
 

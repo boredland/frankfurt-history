@@ -25,6 +25,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Berta Pater, sitzend; S-006056](../../images/Pater_Bert_7c077295b3264801e0af9985678ef42c_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Berta Pater, sitzend; S-006056*
 

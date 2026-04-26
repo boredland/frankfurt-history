@@ -22,6 +22,7 @@ This was the location of the Wilhelm Schupp hide trading company which exploited
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the warehouse at Krifteler Straße 30](../../images/b4e2c9c7dfd66347863642297671f435_original.jpg)
 *1906 — Author: Hermann Kreissler | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 6026 | Description: View of the warehouse at Krifteler Straße 30*
 

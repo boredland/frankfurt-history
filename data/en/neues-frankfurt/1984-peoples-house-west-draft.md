@@ -31,6 +31,7 @@ Further reading: Das Neue Frankfurt, vol. 5, 1931, issue 8, p. 152-153.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![People’s house West, draft](../../images/Volkshaus-_b27e04f7db511db3c2ff6b77c3111b32_original.jpg)
 *1930 — Author: Max Cetto | License: Das Neue Frankfurt, 1931, Heft 8, S. 152 (Sammlung der ernst-may-gesellschaft e.V.) | Description: People’s house West, draft*
 

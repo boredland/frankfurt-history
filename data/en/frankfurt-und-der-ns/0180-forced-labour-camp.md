@@ -21,6 +21,7 @@ The men's clothing factory Deutsche Kleiderwerke AG operated a camp for civilian
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp](../../images/3da405785c78da47a7eb3c4883634b82_original.jpg)
 *Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2000-368 | Description: Forced labor camp*
 

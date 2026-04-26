@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Musikantenweg 36](../../images/Musikanten_651963cff1b082b4250456e5ad085a03_original.jpg)
 *2012 — Author: Martin Starl | License: ISG | Description: Musikantenweg 36*
 

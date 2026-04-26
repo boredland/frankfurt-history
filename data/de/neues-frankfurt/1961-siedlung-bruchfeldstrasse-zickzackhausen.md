@@ -16,5 +16,9 @@ filters:
 
 ![](../../images/c5909aa9947716685fd5b2f80514467a_original.jpg)
 
-## Interactive Before & After
+## Before & After
+
+<!-- gallery:before-after -->
+![Blick in die Breubergstraße nach Osten](../../images/Niederrad1_0d5e12ece8c69400e9b1cdd5a5c5c9de_original.jpg)
+*um 1926 — Author: Hermann Collischonn | License: ernst-may-gesellschaft e.V. | Description: Blick in die Breubergstraße nach Osten*
 

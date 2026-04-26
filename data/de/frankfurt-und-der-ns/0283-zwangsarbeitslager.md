@@ -21,6 +21,7 @@ Die Firma Formulardruck Efmagdruck GmbH betrieb in der Taunusstraße 8 ein Lager
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht der Taunusstraße 8](../../images/e04b56da1df753d1dd6e7dc5bc9aaa1a_original.jpg)
 *1908 — Author: Lönholdt & Söhne, | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 4582 | Description: Ansicht der Taunusstraße 8*
 

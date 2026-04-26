@@ -25,6 +25,7 @@ Im alten Bockenheimer Krankenhaus befand sich ein Konzentrationslager, das vermu
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines frühen Konzentrationslagers im alten Bockenheimer Krankenhaus](../../images/435423696b749b039f6243ec126e6a22_original.jpg)
 *ca. 1932 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-26829 | Description: Foto eines frühen Konzentrationslagers im alten Bockenheimer Krankenhaus*
 

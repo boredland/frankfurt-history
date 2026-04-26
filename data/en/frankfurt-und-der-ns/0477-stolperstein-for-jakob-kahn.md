@@ -42,6 +42,7 @@ A Stolperstein—literally “stumbling stone”—is a 10 x 10 x 10-cm concrete
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein for Jakob Kahn at Allerheiligenstraße 26](../../images/stolperst__b99121054a69ef0288d52f72e51c1f9a_original.jpg)
 *unknown — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein for Jakob Kahn at Allerheiligenstraße 26*
 

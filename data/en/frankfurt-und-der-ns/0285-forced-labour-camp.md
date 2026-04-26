@@ -24,6 +24,7 @@ This was the location of the Tivoli dance casino. From April 1943, the Frankfurt
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photograph of a building at Goetheplatz 2, where the Frankfurter Societätsdruckerei operated a forced labour camp](../../images/ee2cda5f659dd12fd1895453a79cbc04_original.jpg)
 *1947 — Author: Fred Kochmann | License: Institut für Stadtgeschichte, Frankfurt Best. S7Ko Nr. 2035 | Description: Photograph of a building at Goetheplatz 2, where the Frankfurter Societätsdruckerei operated a forced labour camp*
 

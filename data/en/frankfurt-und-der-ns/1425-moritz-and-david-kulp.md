@@ -23,6 +23,7 @@ The house was auctioned off to Karl Nagel and his wife for 27,300 Reichsmarks.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Obermainanlage 29 (today)](../../images/IMG2023063_ffb51e111059656e3b1a6a151ffbf63e_original.jpg)
 *2023 — Author: Gabriel Olbrich | Description: Obermainanlage 29 (today)*
 

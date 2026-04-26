@@ -31,6 +31,7 @@ Further reading: Christoph Mohr/Michael Müller: Funktionalität und Moderne. Da
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View from Eschersheimer Landstraße into Miquelallee with apartment blocks.](../../images/emg-12-08-_62c355175181174fa3743c8c8edf5a3c_original.jpg)
 *after 1930 — Author: Max Göllner | License: ernst-may-gesellschaft e.V. | Description: View from Eschersheimer Landstraße into Miquelallee with apartment blocks.*
 

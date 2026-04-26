@@ -25,6 +25,7 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Portrait of Valentin Steinbach, 1918; Steinbach_Valentin_002](../../images/Steinbach__e71506e228087186cadfcdb3281c508a_original.jpg)
 *1918 — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Portrait of Valentin Steinbach, 1918; Steinbach_Valentin_002*
 

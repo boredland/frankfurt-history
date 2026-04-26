@@ -24,6 +24,7 @@ Die Ortsgruppen Bockenheim der Nationalsozialistischen Deutschen Arbeiterpartei 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Sitzes der Ortsgruppe Bockenheim der NSDAP und NS-Frauenschaft](../../images/313292f7d2dfba7f75933a883655e50f_original.jpg)
 *1907 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-20132 | Description: Foto des Sitzes der Ortsgruppe Bockenheim der NSDAP und NS-Frauenschaft*
 

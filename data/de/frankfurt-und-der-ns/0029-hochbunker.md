@@ -27,6 +27,7 @@ Bauunternehmen: Robert Kögel.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Fabriciusstraße](../../images/5a9ba8799c7b50408c579ad24e8dec7d_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Fabriciusstraße*
 

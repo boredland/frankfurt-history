@@ -23,6 +23,7 @@ From 1908 onwards, Mathilde Battenberg had her own studio at the art institute, 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/C12709g_00_f6201389b68f752c798b50e8034b06ff_original.jpg)
 *Author: Unbekannt | License: HMF/Gemeinfrei;*
 

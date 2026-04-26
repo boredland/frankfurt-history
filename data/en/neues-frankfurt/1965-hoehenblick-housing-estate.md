@@ -16,5 +16,9 @@ filters:
 
 ![](../../images/d1ee4946a85cbaf3aafc7c3a3c99b24b_original.jpg)
 
-## Interactive Before & After
+## Before & After
+
+<!-- gallery:before-after -->
+![View from the green area opposite Kurhessenstraße to the corner buildings on Kurhessenstraße, Höhenblick, and the single-family houses in the Höhenblick street](../../images/Hoehenblic_33c8dfd55b7905b35ef3556687f76a2c_original.jpg)
+*around 1927 — Author: Paul Wolff | License: ernst-may-gesellschaft e.V. | Description: View from the green area opposite Kurhessenstraße to the corner buildings on Kurhessenstraße, Höhenblick, and the single-family houses in the Höhenblick street*
 

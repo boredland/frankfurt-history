@@ -27,6 +27,7 @@ Construction company: Gebrüder Weil, Limburg
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Germaniastraße](../../images/7057fabbfda91dc614b8f5431f0b8739_original.jpg)
 *1981 — Author: Joachim Sändig | License: HMF Ph17146 | Description: Photo of a bomb shelter located in Germaniastraße*
 

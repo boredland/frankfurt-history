@@ -21,6 +21,7 @@ Der Kranichhof am Roßmarkt war das Zuhause von Justina Catharina Steffan von Cr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Cronstettensche Stift auf dem Roßmarkt, Frank'sches Geschäftshaus, Fotografie](../../images/C25652a_00_2654f2666dedbb0d31fea1f7936d12b7_original.jpg)
 *vor 1867 — Author: Friedrich Weisbrod | License: HMF/Gemeinfrei | Description: Das Cronstettensche Stift auf dem Roßmarkt, Frank'sches Geschäftshaus, Fotografie*
 

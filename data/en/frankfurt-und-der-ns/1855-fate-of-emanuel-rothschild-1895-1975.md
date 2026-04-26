@@ -30,6 +30,7 @@ From 1941, Emanuel was required to wear a Star of David. Four years later, he we
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foreign exchange report for Emanuel Rothschild](../../images/Devisenber_9adc50e2158980d9b4c166418ee98482_original.jpg)
 *n. d. — Author: Unbekannt | License: © Stadt Frankfurt am Main, Nachkriegsaufstellung Liste G, Devisenstelle Landeszentralbank Frankfurt a. M, 2.1.1.1 / 70364469 /in conformity with IST Digital Archive, Arolsen Archives | Description: Foreign exchange report for Emanuel Rothschild*
 

@@ -25,6 +25,7 @@ Am Ort der ehemaligen Synagoge an der Friedberger Anlage erinnert seit 1988 eine
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/isg_gt_ged_4f9ab2e06cd7ac01c5f8a636d6acca5e_original.jpg)
 *Author: © Institut für Stadtgeschichte*
 

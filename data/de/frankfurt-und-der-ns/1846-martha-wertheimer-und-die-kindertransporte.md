@@ -25,6 +25,7 @@ Sie betonte: „Ich bereue nichts. Ich habe das Leben in die Tiefe kennengelernt
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Martha Wertheimer arbeitend an einem Schreibtisch.](../../images/MarthaWert_244f27a20174132b4170935efa494bbc_original.jpg)
 *License: © Jüdisches Museum Frankfurt, Signatur: B2002/002-014d | Description: Martha Wertheimer arbeitend an einem Schreibtisch.*
 

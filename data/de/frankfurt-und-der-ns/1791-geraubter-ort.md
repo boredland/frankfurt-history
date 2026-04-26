@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zeppelinallee 41](../../images/Zeppelinal_6cfea2f15885dbf8663db606b0b86fe8_original.jpg)
 *ca. 1911 — Author: August Ravenstein | License: ISG | Description: Zeppelinallee 41*
 

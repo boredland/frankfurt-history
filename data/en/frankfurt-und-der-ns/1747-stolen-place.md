@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Rat-Beil-Straße 10](../../images/Rat-Beil-S_3039957a9ff72ece8221021a3071e786_original.jpg)
 *ca. 1963 — Author: Hermann Nöller | License: HMF | Description: Rat-Beil-Straße 10*
 

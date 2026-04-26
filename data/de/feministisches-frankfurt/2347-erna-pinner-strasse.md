@@ -23,6 +23,7 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Erna Pinner Straße](../../images/Erna%20Pinne_dfbccd4f7a270efc50ad58ee95256787_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Erna Pinner Straße*
 

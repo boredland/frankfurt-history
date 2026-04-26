@@ -30,6 +30,7 @@ Today, Frankfurt’s Goethe House is a museum.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Goethe's birthplace (reconstructed state before the renovation in 1749), 1858, aquarelle, HMF C09288](../../images/C09288_png_f4f33da0a7b9f82f2e6afa6009eae692_original.jpg)
 *1858 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Goethe's birthplace (reconstructed state before the renovation in 1749), 1858, aquarelle, HMF C09288*
 

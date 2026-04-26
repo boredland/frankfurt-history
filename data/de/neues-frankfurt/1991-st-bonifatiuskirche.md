@@ -31,6 +31,7 @@ Quelle: Adrian Seib: Der Kirchenbaumeister Martin Weber (1890–1941). Leben und
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht der St. Bonifatiuskirche.](../../images/Bonifatius_778a4eba746a051bd761cbab2e343cb5_original.jpg)
 *um 1930 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: Ansicht der St. Bonifatiuskirche.*
 

@@ -30,6 +30,7 @@ Die Gebäude der Mühle wurden 1904 renoviert und nach dem Zweiten Weltkrieg in 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Blick auf die Gerbermühle, 19. Jahrhundert, Aquarell, HMF C29583](../../images/C29583_png_cb9b4fc7353a3e5f611d8c3ec6ae4a7f_original.jpg)
 *19. Jhd. — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Blick auf die Gerbermühle, 19. Jahrhundert, Aquarell, HMF C29583*
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bockenheimer Landstraße 136-138](../../images/Bockenheim_81f6d89c00cd31c3c780f31eaad5c8fe_original.jpg)
 *License: HMF | Description: Bockenheimer Landstraße 136-138*
 

@@ -21,6 +21,7 @@ Deutsche Vereinigte Schuhmaschinenfabrik GmbH operated a camp for forced laborer
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp](../../images/15cf99b4df9456ee48d51aed4b52ed27_original.jpg)
 *Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13133 | Description: Forced labor camp*
 

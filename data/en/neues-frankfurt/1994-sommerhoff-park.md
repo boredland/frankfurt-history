@@ -35,6 +35,7 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Day nursery in Sommerhoff park. Construction site of the test authority centre 6 (Prüfamt 6) in Gutleutstraße in the background.](../../images/isg_ffm_s7_8770e173fc1c1592e4dd4808f4ab1399_original.jpg)
 *around 1928 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Day nursery in Sommerhoff park. Construction site of the test authority centre 6 (Prüfamt 6) in Gutleutstraße in the background.*
 

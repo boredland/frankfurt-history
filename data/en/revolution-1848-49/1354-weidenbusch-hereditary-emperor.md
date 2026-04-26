@@ -25,6 +25,7 @@ Formed in mid-February 1849, the Weidenbusch group comprised parliamentarians fr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lithograph depitcting the restaurant and hotel "zum Weidenbusch"](../../images/12%20Weidenb_c9e50116ce0d8bdfc29fef36261ce292_original.jpg)
 *ca. 1840 — Author: J. H. Martens | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 271 | Description: Lithograph depitcting the restaurant and hotel "zum Weidenbusch"*
 

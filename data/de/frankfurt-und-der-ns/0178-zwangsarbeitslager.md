@@ -25,6 +25,7 @@ Der Landwirt Heinrich Pulver beschäftigte eine Zivilarbeiterin aus Polen, die b
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht der Berkersheimer Untergasse 2](../../images/cd7c09177ab38d4be1e296af0107a5ed_original.jpg)
 *1908 — Author: Heinrich Klöss | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 2825 | Description: Ansicht der Berkersheimer Untergasse 2*
 

@@ -24,6 +24,7 @@ Von dem einst größten Kaufhaus Frankfurts ist nur noch die Fassade aus rotem S
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Hier%20fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
 *License: HMF*
 

@@ -24,6 +24,7 @@ In February 1925, the Frankfurt chapter of the National Socialist German Workers
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zum Storch, meeting place of the NSDAP, Saalgasse 1](../../images/6ecfe910f2a38ab97981edb44bae882a_original.jpg)
 *1907 — Author: Hermann Bückling | License: HMF, C20291 | Description: Zum Storch, meeting place of the NSDAP, Saalgasse 1*
 

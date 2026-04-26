@@ -26,6 +26,7 @@ Naphtali Fromm setzte sich immer sehr stark für seine Religion ein. 1919 war er
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Liebigstraße 27 (heute): Haus von Naphtali Fromm](../../images/Liebigstra_99707515cc8c2907a4581467213ab238_original.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Liebigstraße 27 (heute): Haus von Naphtali Fromm*
 

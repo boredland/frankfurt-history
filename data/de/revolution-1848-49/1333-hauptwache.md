@@ -25,6 +25,7 @@ Der Deutsche Bund reagierte mit harten Sanktionen. Als Machtdemonstration statio
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Farblithografie, die einen Schusswechsel zwischen Angreifern und Verteidigern der Hauptwache abbildet](../../images/06%20Wachens_d1dcac4927da3618bb30e64466be8847_original.jpg)
 *um 1833 — Author: Francois Georgin | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1833-2 | Description: Farblithografie, die einen Schusswechsel zwischen Angreifern und Verteidigern der Hauptwache abbildet*
 

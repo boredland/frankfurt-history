@@ -28,6 +28,7 @@ Die neue Dreikönigs-Kirche wurde 1881 eingeweiht und erlitt im Zweiten Weltkrie
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Ansicht der Alten Dreikönigskirche (aus dem Haus Löhergasse Nr. 49 gesehen), 1874, aquarellierte Bleistiftzeichnung, HMF RS0050](../../images/RS0050_png_fc72188f50c5925862b813716620fc2c_original.jpg)
 *1874 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Ansicht der Alten Dreikönigskirche (aus dem Haus Löhergasse Nr. 49 gesehen), 1874, aquarellierte Bleistiftzeichnung, HMF RS0050*
 

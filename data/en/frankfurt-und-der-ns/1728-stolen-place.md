@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Mauerweg 34](../../images/Mauerweg-3_0865f41b9aceaea7fd697b3e82697bdb_original.jpg)
 *1896 — Author: unbekannt | License: ISG | Description: Mauerweg 34*
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Mainzer Landstraße 53-57](../../images/Mainzer-La_5c9b27b34683b1a64601c88007f384a4_original.jpg)
 *ca. 1930 — Author: unbekannt | License: ISG | Description: Mainzer Landstraße 53-57*
 

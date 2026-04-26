@@ -24,6 +24,7 @@ The Degussa (previously Roessler) gold and silver parting works operated altoget
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the building at Weißfrauenstraße 9-11](../../images/157dcfffc132570bd790947d7ca9eee6_original.jpg)
 *ca. 1907 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 00517-2 | Description: Picture postcard with the building at Weißfrauenstraße 9-11*
 

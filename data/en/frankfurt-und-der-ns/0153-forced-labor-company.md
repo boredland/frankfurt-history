@@ -24,6 +24,7 @@ In 1943, the Bockenheim iron foundry and machine factory based at Solmsstrasse 8
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor company, Solmsstraße 81-83](../../images/cc4bc6c7697b77451cb1e2c0633bfb3a_original.jpg)
 *1922 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29185 | Description: Forced labor company, Solmsstraße 81-83*
 

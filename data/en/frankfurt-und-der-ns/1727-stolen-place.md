@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Mathildenstraße 12](../../images/Mathildens_9100fac098774516cecb931388897767_original.jpg)
 *2002 — Author: Claus Graubner | License: ISG | Description: Mathildenstraße 12*
 

@@ -25,6 +25,7 @@ Hier befand sich ein Altersheim der Henry und Emma Budge-Stiftung. Das Gebäude 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Henry und Emma Budge Heims](../../images/Ph20590_jp_a9136f195c8f905c741b22152911bfaa_original.jpg)
 *vor 1941 — Author: Otto Emmel | License: HMF Ph20590 | Description: Foto des Henry und Emma Budge Heims*
 

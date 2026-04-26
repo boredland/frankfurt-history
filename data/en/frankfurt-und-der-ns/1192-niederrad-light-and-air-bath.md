@@ -23,6 +23,7 @@ The Strandbad Niederrad was a very popular river swimming pool on the Main Islan
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Copyright: Nachlass J. Bendorf](../../images/18383845f2b77a3f2c969048d40c6aee_original.jpg)
 *Author: Julius Bendorf | Description: Copyright: Nachlass J. Bendorf*
 

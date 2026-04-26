@@ -24,6 +24,7 @@ Die Gastwirtschaft Bayernhof, auch Lokal Lippmann genannt nach dem Betreiber Wil
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schwarzweißzeichnung mit Tusche und Folienstift eines tanzendes Paar im Innenraum einer Bar](../../images/6cc229e585670999cbfe2083b0b1ee34_original.jpg)
 *2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Schwarzweißzeichnung mit Tusche und Folienstift eines tanzendes Paar im Innenraum einer Bar*
 

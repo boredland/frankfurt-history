@@ -25,6 +25,7 @@ On 14 May 1848, the riding arena was also the venue of another gathering with ov
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bird's-eye view drawing of the municipal riding arena](../../images/07%20Reitbah_0e6ca6f54136610dc8b794df5eb655cb_original.jpg)
 *1835 — Author: Carl Theodor Reiffenstein | License: HMF R158 | Description: Bird's-eye view drawing of the municipal riding arena*
 

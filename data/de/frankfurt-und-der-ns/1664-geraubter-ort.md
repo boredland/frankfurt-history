@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Große Gallusstraße 1](../../images/Grosse-Gal_2f0ce3503d079fdef906ea024cbc8d12_original.jpg)
 *1895 — Author: unbekannt | License: ISG | Description: Große Gallusstraße 1*
 

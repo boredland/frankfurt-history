@@ -30,6 +30,7 @@ Have a further look around the app. In it, you’ll find stories about other chi
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lilo, Gerdi, and Helmut reunited at Christmas in 1945](../../images/G%C3%BC_11_png_59ee7409939ac7b8dcc2bfc57bb49865_original.jpg)
 *1945 — Author: unbekannt | License: Privat, Lilo Günzler: Endlich Reden, Henrich Editionen Frankfurt | Description: Lilo, Gerdi, and Helmut reunited at Christmas in 1945*
 

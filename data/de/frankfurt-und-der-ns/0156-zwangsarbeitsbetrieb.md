@@ -24,6 +24,7 @@ Die Firma Henninger Bräu AG mit Sitz am Wendelsweg 64 beschäftigte Zwangsarbei
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitsbetrieb, Wendelsweg 64](../../images/3bccbf47f9b782876394da9e9b5f83b7_original.jpg)
 *ca. 1900 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29407 | Description: Zwangsarbeitsbetrieb, Wendelsweg 64*
 

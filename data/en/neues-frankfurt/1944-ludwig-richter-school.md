@@ -35,6 +35,7 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the Ludwig Richter school](../../images/Ludwig-Ric_80876bf3779c905a4f6afee231546cb8_original.jpg)
 *around 1928 — Author: Unbekannt | License: Martin Elsaesser: Bauten und Entwürfe aus den Jahren 1924–1932, Berlin 1933 | Description: View of the Ludwig Richter school*
 

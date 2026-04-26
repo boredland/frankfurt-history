@@ -25,6 +25,7 @@ For Lore Wolf (1900 - 1996), this event was a defining moment. She worked in the
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/B1614_001__588245d32caf31c80c36d391a02a9711_original.jpg)
 *Author: Heinz Woelcke | License: HMF*
 

@@ -22,6 +22,7 @@ Hier betrieben die Vereinigten Färbereien und Chemischen Waschanstalten Georg K
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Hainer Weg 24](../../images/e1ed997db25afcd9ebfd51b90159b961_original.jpg)
 *ca. 1942 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2013-9 | Description: Zwangsarbeitslager, Hainer Weg 24*
 

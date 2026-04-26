@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Friedrichstraße 63](../../images/Friedrichs_a33f8ad625d7ad88af7781df7227380b_original.jpg)
 *ca. 1970 — Author: unbekannt | License: ISG | Description: Friedrichstraße 63*
 

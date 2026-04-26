@@ -24,6 +24,7 @@ Den Devisenstellen kam während des Nationalsozialismus eine bedeutende Rolle zu
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schwarzweißzeichnung der Außenfassade der Devisenstelle in der Bethmannstraße](../../images/f4a9de115b4de8045a20586eef0b452e_original.jpg)
 *1919 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2014-60 | Description: Schwarzweißzeichnung der Außenfassade der Devisenstelle in der Bethmannstraße*
 

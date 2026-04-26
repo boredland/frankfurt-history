@@ -24,6 +24,7 @@ In der Solmsstraße 2-26 hatte die Frankfurter Maschinenbau AG (vorm. Pokorny & 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitsbetrieb, Solmsstraße 2-26](../../images/1b3e44d0512bf9099fe8967245314627_original.jpg)
 *vor 1945 — Author: Max Göllner | License: HMF, Z.2005Göllner.000002 | Description: Zwangsarbeitsbetrieb, Solmsstraße 2-26*
 

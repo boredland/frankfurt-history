@@ -16,5 +16,9 @@ filters:
 
 ![](../../images/d1ee4946a85cbaf3aafc7c3a3c99b24b_original.jpg)
 
-## Interactive Before & After
+## Before & After
+
+<!-- gallery:before-after -->
+![Blick von der Grünfläche gegenüber der Kurhessenstraße auf die Eckbauten Kurhessenstraße, Höhenblick und die Einfamilienhäuser in der Straße Höhenblick](../../images/Hoehenblic_33c8dfd55b7905b35ef3556687f76a2c_original.jpg)
+*um 1927 — Author: Paul Wolff | License: ernst-may-gesellschaft e.V. | Description: Blick von der Grünfläche gegenüber der Kurhessenstraße auf die Eckbauten Kurhessenstraße, Höhenblick und die Einfamilienhäuser in der Straße Höhenblick*
 

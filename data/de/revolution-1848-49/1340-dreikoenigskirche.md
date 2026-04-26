@@ -23,6 +23,7 @@ Im Spätsommer 1848 nutzten mehrere Versammlungen die Dreikönigskirche in Sachs
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der Dreikönigskirche](../../images/13%20Dreik%C3%B6_81f171428b93422053d864f54d0984f7_original.jpg)
 *um 1890 — Author: Gottfried Vömel | License: Institut für Stadtgeschichte, Frankfurt Best. S7Voe Nr. 275 | Description: Foto der Dreikönigskirche*
 

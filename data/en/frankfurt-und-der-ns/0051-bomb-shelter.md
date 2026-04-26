@@ -27,6 +27,7 @@ Construction company: Diplom-Ingenieur Karl Kögel, Frankfurt
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Mühlgasse](../../images/016e24264977fd52acd228f07f3883ab_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Mühlgasse*
 

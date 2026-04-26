@@ -33,6 +33,7 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Westfassade Haus der Jugend mit Eingang.](../../images/isg_ffm_s7_cb9b88ac237931b3efd68b404d74f979_original.jpg)
 *um 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Westfassade Haus der Jugend mit Eingang.*
 

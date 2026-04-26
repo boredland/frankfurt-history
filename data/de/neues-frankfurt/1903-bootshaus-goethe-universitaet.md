@@ -31,6 +31,7 @@ Quelle: Konrad Elsässer, Das Bootshaus der Universität – Am Wasserweg ost-we
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Bootshaus am Main im Hochwasser, November 1930.](../../images/Bootshaus__27d3f336f20c94863383a5d7e104a121_original.jpg)
 *1930 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: Das Bootshaus am Main im Hochwasser, November 1930.*
 

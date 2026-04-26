@@ -26,6 +26,7 @@ Um eine lange Straßenachse von der Hasengasse zum Dom zu bilden, wurde die Maus
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Mausgasse (Zustand von 1830), 1865, aquarellierte Bleistiftzeichnung, HMF R0472](../../images/R0472_png_7947e722d4c6e5c6e432360bf16cd7cc_original.jpg)
 *1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Mausgasse (Zustand von 1830), 1865, aquarellierte Bleistiftzeichnung, HMF R0472*
 

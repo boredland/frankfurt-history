@@ -31,6 +31,7 @@ Adrian Seib, Der Kirchenbaumeister Martin Weber (1890–1941). Leben und Werk ei
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Christ-König-Kirche in der Siedlung Praunheim](../../images/isg_ffm_s7_e5d20c687b305c545bf4ea63ffe0d399_original.jpg)
 *Unbekannt — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Christ-König-Kirche in der Siedlung Praunheim*
 

@@ -27,6 +27,7 @@ Construction company: A. u. K. Dietrich, Frankfurt
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Lortzingstraße](../../images/492d44a96576839671aeb79ad8856f49_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Lortzingstraße*
 

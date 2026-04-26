@@ -24,6 +24,7 @@ Im Tanzsaal der Gaststätte Stapf in der Oeserstraße 16 befand sich das Zwangsa
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Saalbau zur Wanderlust in Nied](../../images/6c5914f65866453f72987d9ce727a6a8_original.jpg)
 *1935 — Author: unbekannt | License: HMF Sammlung Church C80389 | Description: Bildpostkarte mit dem Saalbau zur Wanderlust in Nied*
 

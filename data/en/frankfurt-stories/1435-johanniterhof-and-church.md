@@ -27,6 +27,7 @@ From 1801, the single-nave church interior served as a storeroom. When the city 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Johanniterkirche, entrance gate, sacristy and surroundings (condition of 1839), 1871, watercolored pencil drawing, HMF R0184](../../images/R0184_png_077fd90882d80c05dd7f2bce0472c53a_original.jpg)
 *1871 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Johanniterkirche, entrance gate, sacristy and surroundings (condition of 1839), 1871, watercolored pencil drawing, HMF R0184*
 

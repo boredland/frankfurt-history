@@ -27,6 +27,7 @@ Die Tschechin Blažená Urbanová musste zwischen 1942 und 1945 Zwangsarbeit lei
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Schulgebäude der Ackermannschule ist bei Bombenangriffen beschädigt worden.](../../images/Geschichts_99bbd18f13c2fd80bcb991fd431ce83a_original.jpg)
 *1945 — Author: Unbekannt | License: Geschichtswerkstatt Gallus e.V. | Description: Das Schulgebäude der Ackermannschule ist bei Bombenangriffen beschädigt worden.*
 

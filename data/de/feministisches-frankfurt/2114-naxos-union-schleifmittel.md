@@ -23,6 +23,7 @@ In diese erfolgreiche Unternehmerfamilie wurde Marie E. Pfungst (1862-1943) gebo
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Postkarte mit Blick auf den Stand der Naxos-Union Frankfurt auf der Deutschen Verkehrs-Ausstellung in München 1925](../../images/C97038%2B001_2d62b67c3cd3270f68074f7bd25498a8_original.jpg)
 *1925 — Author: Unbekannt | License: HMF | Description: Postkarte mit Blick auf den Stand der Naxos-Union Frankfurt auf der Deutschen Verkehrs-Ausstellung in München 1925*
 

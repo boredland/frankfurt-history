@@ -22,6 +22,7 @@ In 1943, 2 forced labourers from Russia (1 man and 1 woman) as well as 16 from U
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with exterior view of the restaurant "Zum Rad" in Seckbach](../../images/991b981ddc04b51e381279cc6e58abe1_original.jpg)
 *unknown — Author: Unbekannt | License: HMF, Sammlung Church, C80414 | Description: Picture postcard with exterior view of the restaurant "Zum Rad" in Seckbach*
 

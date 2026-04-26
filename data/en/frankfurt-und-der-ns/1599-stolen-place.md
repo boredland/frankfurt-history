@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Alte Falterstraße 32](../../images/Alte-Falte_1fe26fba74966a18ada367c1b4aa7224_original.jpg)
 *ca. 1930 — License: ISG | Description: Alte Falterstraße 32*
 

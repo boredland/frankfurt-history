@@ -36,6 +36,7 @@ A Stolperstein—literally “stumbling stone”—is a 10 x 10 x 10-cm concrete
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein for Adolf Korndörfer at Beethovenstraße 32](../../images/stolperst__3a0e64d538295cf6a902c11b65b88176_original.jpg)
 *unknown — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein for Adolf Korndörfer at Beethovenstraße 32*
 

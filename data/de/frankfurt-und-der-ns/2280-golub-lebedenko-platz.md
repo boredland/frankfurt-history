@@ -25,6 +25,7 @@ Seit 1998 trägt der Platz an der Ecke Lahnstraße/Kriegkstraße den Namen Golub
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel auf dem Golub-Lebedenko-Platz in Deutsch.](../../images/0dcbcae5595b3f7b951239e9b13f3106_original.jpg)
 *2025 — Author: Thomas Altmeyer | License: gemeinfrei | Description: Gedenktafel auf dem Golub-Lebedenko-Platz in Deutsch.*
 

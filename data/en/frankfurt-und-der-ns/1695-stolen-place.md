@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kantstraße 6](../../images/Kantstrass_b2a95d4d565709a6ccd47a11c2ccec85_original.jpg)
 *2012 — Author: Martin Starl | License: ISG | Description: Kantstraße 6*
 

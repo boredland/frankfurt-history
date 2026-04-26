@@ -29,6 +29,7 @@ Auch Kinder lebten im Lager. Das belegt unter anderem die Todesurkunde des klein
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Zwangsarbeitslagerbefand sich in der Nähe der Staustufe. Auf diesem Foto, das vermutlich vor dem NS entstand, sind die Baracken noch nicht zu sehen, da sie erst ab 1942 gebaut wurden.](../../images/ISG%20S7A%20Nr_4314c9d5cb072d10265162b9f2fa7281_original.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, S7A Nr. 1998-21650 | Description: Das Zwangsarbeitslagerbefand sich in der Nähe der Staustufe. Auf diesem Foto, das vermutlich vor dem NS entstand, sind die Baracken noch nicht zu sehen, da sie erst ab 1942 gebaut wurden.*
 

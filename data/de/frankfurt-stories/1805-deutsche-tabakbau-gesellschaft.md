@@ -24,6 +24,7 @@ Spätestens 1912 gründeten Frankfurter Geschäftsleute um Josef Schloßmacher u
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/isg_ffm_s7_5bd842a9b786147f458b81ff1b2ec5f0_original.jpg)
 
 

@@ -19,6 +19,7 @@ Here you will find different perspectives on the place.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the south station](../../images/3a2860a951268f91ab46b55564363796_original.jpg)
 *Description: View of the south station*
 

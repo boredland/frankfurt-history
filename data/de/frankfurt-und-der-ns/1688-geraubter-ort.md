@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Junghofstraße 14](../../images/Junghofstr_171c3de13c7bebe0d5fdd7ff2446b035_original.jpg)
 *1930 — Author: Willy Keim | License: ISG | Description: Junghofstraße 14*
 

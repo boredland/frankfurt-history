@@ -36,6 +36,7 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein für Adolf Korndörfer in der Beethovenstraße 32](../../images/stolperst__3a0e64d538295cf6a902c11b65b88176_original.jpg)
 *unbekannt — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein für Adolf Korndörfer in der Beethovenstraße 32*
 

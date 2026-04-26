@@ -24,6 +24,7 @@ Von 1942 bis 1944 betrieb die Firma Messer & Co. auf ihrem Firmengelände in der
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Firmengeländes der Firma Messer &amp; Co., auf dem ein Barackenlager für Zwangsarbeiter*innen betrieben wurde](../../images/da795a031957adb5922c006fddcfdb7d_original.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13989 | Description: Foto des Firmengeländes der Firma Messer &amp; Co., auf dem ein Barackenlager für Zwangsarbeiter*innen betrieben wurde*
 

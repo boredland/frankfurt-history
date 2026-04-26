@@ -24,6 +24,7 @@ The Degussa gold and silver parting works operated six forced labour camps in Fr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a multi-storey building at Seckbächer Gasse 13, which the Degussa company used as a forced labour camp](../../images/9104be4253893d23efa373329d624a89_original.jpg)
 *1915 — Author: unbekannt | License: HMF C23275 | Description: Photo of a multi-storey building at Seckbächer Gasse 13, which the Degussa company used as a forced labour camp*
 

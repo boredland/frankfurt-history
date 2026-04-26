@@ -25,6 +25,7 @@ In the permanent exhibition, you can see the “Bruchfeldstraße housing estate�
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Interior view of Deutsches Architekturmuseum, 3rd floor](../../images/DAM_3_Ober_a0b987ca1bb77f4bea8014caae371bd6_original.jpg)
 *2024 — Author: Moritz Bernoully | License: Deutsches Architekturmuseum | Description: Interior view of Deutsches Architekturmuseum, 3rd floor*
 

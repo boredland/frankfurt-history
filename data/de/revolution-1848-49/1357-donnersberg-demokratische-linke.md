@@ -31,6 +31,7 @@ Außerhalb des Parlaments schlossen sich Vertreter der „Donnersberg“-Fraktio
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Lokal Donnersberg (rechts neben dem "Zähringer Hof")](../../images/15%20Donners_dc9fb9418cd9d31296955de03dbc2b12_original.jpg)
 *um 1865 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1848-79 | Description: Foto des Lokal Donnersberg (rechts neben dem "Zähringer Hof")*
 

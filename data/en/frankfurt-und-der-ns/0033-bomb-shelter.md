@@ -27,6 +27,7 @@ Construction company: Ambrosius und Sohn
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Grusonstraße](../../images/5cb73548d169fc137e4814880c179a43_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Grusonstraße*
 

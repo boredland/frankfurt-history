@@ -28,6 +28,7 @@ Construction company: Philipp Holzmann AG
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Im Wörth](../../images/ef903ac59722d7fb7b3f923114b4a5a9_original.jpg)
 *1940 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Im Wörth*
 

@@ -22,6 +22,7 @@ Am 10. November 1938 schändeten Hitler-Jungen und SA-Leute die 1874 eingweihte 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bockenheim Synagogue](../../images/C20438a_jp_55bfacfbd8ed5fd919360f87019dbb8c_original.jpg)
 *vor 1911 — Author: Hermann Bückling | License: HMF C20438a | Description: Bockenheim Synagogue*
 

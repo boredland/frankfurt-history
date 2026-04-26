@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Wolfsgangstraße 22b](../../images/Wolfsgangs_c7d06c1f2c560793578d4b0c6e2e1f5b_original.jpg)
 *ca. 1930 — Author: Justus Helme | License: ISG, Frankfurt Best. S8-1 Nr. 4054 | Description: Wolfsgangstraße 22b*
 

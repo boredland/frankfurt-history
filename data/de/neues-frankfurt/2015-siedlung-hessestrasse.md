@@ -31,6 +31,7 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick in die Georg-Wolff-Straße mit den Läden am Anfang, um 1931.](../../images/Siedlung_H_e35228b2c1cf6c4b90e65e700fb50fec_original.jpg)
 *um 1931 — Author: Unbekannt | License: Privatsammlung | Description: Blick in die Georg-Wolff-Straße mit den Läden am Anfang, um 1931.*
 

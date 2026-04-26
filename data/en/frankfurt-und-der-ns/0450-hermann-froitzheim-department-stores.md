@@ -28,6 +28,7 @@ Hermanns & Froitzheim was a fashion and mail-order company with branches in Fran
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the Hermann &amp; Froitzheim department store](../../images/Ph21690_jp_1deee3dbf94e010f2a4dce178a9a31ad_original.jpg)
 *before 1941 — Author: Otto Emmel | License: HMF Ph21690 | Description: Photo of the Hermann &amp; Froitzheim department store*
 

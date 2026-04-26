@@ -36,6 +36,7 @@ Seine Abteilung baute eine Erbkartei auf, die bis Kriegsende erbbiologische Date
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Gesundheitsamt befand sich in diesem Gebäude in der Braubachstraße 18-22.](../../images/Stadtgesun_92d7c370a8dba98f691669c1b1970e9d_original.jpg)
 *ca. 1936 — Author: Max Göllner | License: HMF, NS1366 | Description: Das Gesundheitsamt befand sich in diesem Gebäude in der Braubachstraße 18-22.*
 

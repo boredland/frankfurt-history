@@ -28,6 +28,7 @@ This was the site of the city’s police headquarters until 2002. At the rear en
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Ludwigstraße](../../images/e65009731c342e8dcfdf021c82dceb61_original.jpg)
 *1944 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Ludwigstraße*
 

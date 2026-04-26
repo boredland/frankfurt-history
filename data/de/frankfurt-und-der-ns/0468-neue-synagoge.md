@@ -24,6 +24,7 @@ In der Erbsengasse befand sich seit 1854 die Neue Synagoge der Jüdischen Gemein
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Verwüsteter Innenraum der Synagoge.](../../images/hhstaw_300_105d60f070915027b2f1ed8ba700a4c8_original.jpg)
 *Description: Verwüsteter Innenraum der Synagoge.*
 

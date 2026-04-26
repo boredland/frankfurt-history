@@ -35,6 +35,7 @@ Nach einer allgemeinen Begutachtung der Zwangsarbeitslager im Mai 1945 berichtet
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Mehrfamilienhaus Reuterweg 91 / Bewässerungsplan, Lageplan, Grundriss, Schnit, 19.11.1942.](../../images/49942cee1205fec78c6dbc00dc2bd5f5_original.jpg)
 *o.D. — Author: Unbekannt | License: ISG FFM, Best. A.63.03 Nr. 18484 | Description: Mehrfamilienhaus Reuterweg 91 / Bewässerungsplan, Lageplan, Grundriss, Schnit, 19.11.1942.*
 
@@ -47,6 +48,7 @@ Nach einer allgemeinen Begutachtung der Zwangsarbeitslager im Mai 1945 berichtet
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht des Hauses Reuterweg 91.](../../images/Reuterweg%20_84bc8c6dd23abf03031ce2abcb2a0008_original.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: Ansicht des Hauses Reuterweg 91.*
 

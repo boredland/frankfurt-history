@@ -25,6 +25,7 @@ Da Heinrich von Gagern die Stimmen der „Braunfels“-Gruppe zur Durchsetzung e
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto einer Häuserfront mit Haus und Lokal "Zum Braunfels"](../../images/06%20Braunfe_4f850b95f09d32fe0b8506a80ba9f271_original.jpg)
 *1883 — Author: Carl Friedrich Mylius | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-4054 | Description: Foto einer Häuserfront mit Haus und Lokal "Zum Braunfels"*
 

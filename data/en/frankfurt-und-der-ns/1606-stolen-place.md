@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Battonstraße 70 und 70a](../../images/Battonstra_cb773c14b8753ee037f7ca0eb740285b_original.jpg)
 *ca. 1941 — License: ISG | Description: Battonstraße 70 und 70a*
 

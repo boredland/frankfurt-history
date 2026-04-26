@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Wilhelm-Leuschner-Straße 12](../../images/Wilhelm-Le_42eaf87acfeb9ffbc52afa1c10bff231_original.jpg)
 *1981 — Author: Falk Kynast | License: ISG | Description: Wilhelm-Leuschner-Straße 12*
 

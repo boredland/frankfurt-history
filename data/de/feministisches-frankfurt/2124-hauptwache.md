@@ -21,6 +21,7 @@ Die Hauptwache ist ein ehemaliges Wachgebäude, das 1671 erbaut wurde und dem gl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick auf die Hauptwache mit Wachparade, Katharinenkirche und die Zeil](../../images/C02263_001_e9edbb39ab5fdfc74c9ab94269f4158c_original.jpg)
 *um 1850 — Author: Johann Jakob Tanner | License: HMF/Gemeinfrei | Description: Blick auf die Hauptwache mit Wachparade, Katharinenkirche und die Zeil*
 

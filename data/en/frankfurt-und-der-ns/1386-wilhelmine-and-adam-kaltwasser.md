@@ -25,6 +25,7 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kaltwasser couple; S-004247](../../images/Kaltwasser_136118cb0b672515e5a1c173186ccea0_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Kaltwasser couple; S-004247*
 

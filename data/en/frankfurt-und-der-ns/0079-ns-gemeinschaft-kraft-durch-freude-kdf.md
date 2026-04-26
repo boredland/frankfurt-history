@@ -24,6 +24,7 @@ Kronprinzenstrasse 24 (now Münchener Strasse) once housed the travel and event 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photograph of the travel and events office of the Nazi organisation Kraft durch Freude (Strength Through Joy)](../../images/87ab3b4c8f8dac5931883f022cd76817_original.jpg)
 *before 1934 — Author: Sepp Jäger | License: Hessisches Wirtschaftsarchiv e. V., Darmstadt jae_0000711 | Description: Photograph of the travel and events office of the Nazi organisation Kraft durch Freude (Strength Through Joy)*
 

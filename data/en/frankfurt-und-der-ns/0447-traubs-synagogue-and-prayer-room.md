@@ -27,6 +27,7 @@ The name of this square changed several times over the course of the centuries. 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the group of houses at Dominikanerplatz 4-12](../../images/616257f9c5ed55791777a8f3dc336265_original.jpg)
 *1939 — Author: Claus Mehs | License: Institut für Stadtgeschichte, Frankfurt Best. S8-3 Nr. 28 | Description: View of the group of houses at Dominikanerplatz 4-12*
 

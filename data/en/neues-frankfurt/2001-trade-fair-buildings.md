@@ -33,6 +33,7 @@ Further reading: Klaus Klemp: In: Moderne am Main 1919–1933. Frankfurt am Main
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of the trade fair centre with the festival hall, built between 1907 and 1909, and the “House of Fashion” (“Haus der Moden”), designed by Peter Behrens in 1924.](../../images/isg_ffm_s7_7e93f22c7cb1233b985fdf45ee6b0f78_original.jpg)
 *1-9-1925 — Author: Südwestdeutsche Luftverkehrs-AG | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Aerial view of the trade fair centre with the festival hall, built between 1907 and 1909, and the “House of Fashion” (“Haus der Moden”), designed by Peter Behrens in 1924.*
 

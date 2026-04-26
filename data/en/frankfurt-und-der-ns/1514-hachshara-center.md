@@ -21,6 +21,7 @@ After 1933, there was a "Hachshara" on this property, a nursery and training cen
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The former area of the Hachshara Center in Eckenheim.](../../images/Hachschara_f25448150f5398be9cb1dcc55435e0e3_original.jpg)
 *2023 — Description: The former area of the Hachshara Center in Eckenheim.*
 

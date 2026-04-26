@@ -22,6 +22,7 @@ The City of Frankfurt am Main operated a camp for forced labourers in the munici
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Gotenstraße 6](../../images/994dc2a28fd15c33d0cb2f61d7b6f2b1_original.jpg)
 *before 1941 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 847 | Description: Forced labor camp, Gotenstraße 6*
 

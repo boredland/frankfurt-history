@@ -24,6 +24,7 @@ Dieser Bunker war Teil des sogenannten Führer-Sofortprogramms und diente als Sc
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Palleskestraße](../../images/52c1269e7a059935cf2487c57653fed6_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Palleskestraße*
 

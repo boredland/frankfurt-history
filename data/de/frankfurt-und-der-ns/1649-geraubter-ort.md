@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Fischerfeldstraße 8](../../images/Fischerfel_3c1714e3d8ca96f66f489f8953f8ff11_original.jpg)
 *1944 — Author: BLDAM | License: HMF, Bildarchiv, Neg.Nr. 42 b 31/6442.1 | Description: Fischerfeldstraße 8*
 

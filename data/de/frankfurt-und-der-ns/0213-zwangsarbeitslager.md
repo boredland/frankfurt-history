@@ -22,6 +22,7 @@ In der Glauburgschule am Glauburgplatz (heute: Lenaustraße 64-70) gab es 1944 u
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Außenansicht der Glauburgschule](../../images/16ba277a9f1c84cecb224e9edce095db_original.jpg)
 *1910 — Author: Unbekannt | License: HMF, Sammlung Church, C80407 | Description: Bildpostkarte mit Außenansicht der Glauburgschule*
 

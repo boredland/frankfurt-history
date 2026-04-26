@@ -31,6 +31,7 @@ Just a few weeks later, on the nights of October 4 and 12, 1943, the assembly ca
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Allerheiligenstraße: View of the street, including destroyed houses nos. 22, 24, and 26.](../../images/d6c4ffb8f9588694f5a738ebc6995d75_original.jpg)
 *approx. 1994 — Author: Unbekannt | License: ISG FFM S7B Nr. 1998-2410 | Description: Allerheiligenstraße: View of the street, including destroyed houses nos. 22, 24, and 26.*
 
@@ -40,6 +41,7 @@ Just a few weeks later, on the nights of October 4 and 12, 1943, the assembly ca
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Allerheiligenstraße 26 and 26a: Foreclosure sale of Dr. Otto Hirschberg's property in 1939-1940. Letter from the “Deutsche Zentralbodenkredit-Aktiengesellschaft” to the district president in Wiesbaden, April 26, 1939.](../../images/isg_ffm_a__ad0e545906f2d64e208098da9fe9b74f_original.jpg)
 *n.d. — Author: Unbekannt | License: ISG FFM A.62.02 Nr. 1329 | Description: Allerheiligenstraße 26 and 26a: Foreclosure sale of Dr. Otto Hirschberg's property in 1939-1940. Letter from the “Deutsche Zentralbodenkredit-Aktiengesellschaft” to the district president in Wiesbaden, April 26, 1939.*
 

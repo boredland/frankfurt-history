@@ -24,6 +24,7 @@ Die Firma Meuser & Co GmbH, die ihren Sitz in der Hanauer Landstraße 475 hatte,
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit der Turnhalle Fechenheim](../../images/353e2f0d70327852a883559075a0ae2e_original.jpg)
 *vor 1955 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 00796-14 | Description: Bildpostkarte mit der Turnhalle Fechenheim*
 

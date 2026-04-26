@@ -21,6 +21,7 @@ The company Rohrleitungsbau Ziegler & Co. and Maschinenfabrik Kistner & Wolf/Pol
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Taunusstraße 52-60](../../images/51afb82fb8eb8677eca3789b32dc5aa4_original.jpg)
 *1924 — Author: Reklame | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29828 | Description: Taunusstraße 52-60*
 

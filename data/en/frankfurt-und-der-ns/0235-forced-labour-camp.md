@@ -22,6 +22,7 @@ The August Klüser company, which was active in the nickel industry, was based h
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Kaiserstraße 38](../../images/dd98f8550314a321a6c6e98c2e03c938_original.jpg)
 *1909 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-11791 | Description: Forced labor camp, Kaiserstraße 38*
 

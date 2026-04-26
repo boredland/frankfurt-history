@@ -27,6 +27,7 @@ Hier stand die Hauptsynagoge der Israelitischen Gemeinde, die 1860 eingeweiht wu
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der Hauptsynagoge an der Kurt-Schumacher-Straße 41](../../images/C35410_jpg_a1b9677abe45c79015f2709a0293a039_original.jpg)
 *ca. 1865 — Author: Carl Krause | License: HMF C35410 | Description: Foto der Hauptsynagoge an der Kurt-Schumacher-Straße 41*
 

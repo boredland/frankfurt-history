@@ -24,6 +24,7 @@ An dieser Stelle befand sich das Haus der Jugend, die modernste Jugendherberge i
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des "Haus der Jugend Dornbusch"](../../images/8136e65dc5242c87ad33f470433e414e_original.jpg)
 *vor 1941 — Author: Otto Emmel | License: HMF Ph34715 | Description: Foto des "Haus der Jugend Dornbusch"*
 

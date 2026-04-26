@@ -21,6 +21,7 @@ The first Ladies Takeover Friday took place at the Metropol Café in 2008. Franc
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Letterhead Ladies Takeover Friday](../../images/briefkopf%20_7ebed245e73790c0b5f33894e4d38e7f_original.jpg)
 *unknown — Author: Unbekannt | License: LIBS e.V. | Description: Letterhead Ladies Takeover Friday*
 

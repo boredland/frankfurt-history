@@ -48,6 +48,7 @@ Später hat man Platz in der Stadt gebraucht:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lithograph: J. H. Martens, around 1850, Institut für Stadtgeschichte, Frankfurt Best. S13 No. 283](../../images/LS_Russisc_3102f235122908a407a1dcbe8400250b_original.jpg)
 *um 1850 — Author: J. H. Martens | Description: Lithograph: J. H. Martens, around 1850, Institut für Stadtgeschichte, Frankfurt Best. S13 No. 283*
 

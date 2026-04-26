@@ -22,6 +22,7 @@ This was the location of the Bamberger Hof restaurant, which served as a lodging
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Kelsterbacher Straße 14](../../images/6ea85968755e881bdd8dab290475df17_original.jpg)
 *1934 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-23868 | Description: Forced labor camp, Kelsterbacher Straße 14*
 

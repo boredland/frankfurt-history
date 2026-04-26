@@ -19,6 +19,7 @@ Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenkpyramide während der Gedenkveranstaltung im Jahr 2024.](../../images/Gedenkst%C3%A4_b589a994d998d9ee2a6ec37a1649d595_original.jpg)
 *Author: Lisa Schrimpf | License: gemeinfrei | Description: Gedenkpyramide während der Gedenkveranstaltung im Jahr 2024.*
 

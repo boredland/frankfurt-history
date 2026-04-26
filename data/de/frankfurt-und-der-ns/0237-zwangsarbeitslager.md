@@ -22,6 +22,7 @@ Hier stand das Gasthaus Bamberger Hof, in dem Zwangsarbeiter*innen untergebracht
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Kelsterbacher Straße 14](../../images/6ea85968755e881bdd8dab290475df17_original.jpg)
 *1934 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-23868 | Description: Zwangsarbeitslager, Kelsterbacher Straße 14*
 

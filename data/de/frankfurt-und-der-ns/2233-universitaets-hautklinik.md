@@ -28,6 +28,7 @@ Zu dem 1884 eröffneten Städtischen Krankenhaus Sachsenhausen gehörte auch ein
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Gebäude der Universitäts-Hautklinik im Städtischen Krankenhaus Sachsenhausen. Foto: Institut für Stadtgeschichte Frankfurt](../../images/Hautklinik_b82db46d509093815c2be02749ef4ba3_original.jpg)
 *1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt, S7A2002 75 | Description: Das Gebäude der Universitäts-Hautklinik im Städtischen Krankenhaus Sachsenhausen. Foto: Institut für Stadtgeschichte Frankfurt*
 

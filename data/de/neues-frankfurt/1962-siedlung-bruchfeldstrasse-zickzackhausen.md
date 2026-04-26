@@ -30,6 +30,7 @@ Quelle: DW Dreysse: May-Siedlungen. Architekturführer durch zehn Siedlungen des
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick in die Breubergstraße nach Osten](../../images/Niederrad1_0d5e12ece8c69400e9b1cdd5a5c5c9de_original.jpg)
 *um 1926 — Author: Hermann Collischonn | License: ernst-may-gesellschaft e.V. | Description: Blick in die Breubergstraße nach Osten*
 

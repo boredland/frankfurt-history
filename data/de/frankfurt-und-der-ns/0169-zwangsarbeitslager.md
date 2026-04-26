@@ -24,6 +24,7 @@ Das Institut für Stadtgeschichte wies 2003 im Zuge umfangreicher Recherchen nac
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Alt Praunheim 42-44](../../images/b0c78315b61ec6b5cf9cdec7799621f0_original.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-24209 | Description: Zwangsarbeitslager, Alt Praunheim 42-44*
 

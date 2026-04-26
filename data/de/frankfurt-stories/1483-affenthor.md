@@ -28,6 +28,7 @@ Noch heute stehen sich die beiden Affentorhäuser gegenüber. Erst im Laufe des 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Das Affentor von außen (Zustand von 1807), nach einem Stich, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0034](../../images/RS0034_png_07a05647755930007f54fa0d40ff68cd_original.jpg)
 *19. Jhd. — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Das Affentor von außen (Zustand von 1807), nach einem Stich, 19. Jahrhundert, aquarellierte Bleistiftzeichnung, HMF RS0034*
 

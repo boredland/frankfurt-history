@@ -31,6 +31,7 @@ Further reading: Jörg Schilling: Gesellschaftshaus Palmengarten, martin-elsaess
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the Gesellschaftshaus](../../images/Gesellscha_5a623e6609a95f486479b213c50e7885_original.jpg)
 *Unknown — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: View of the Gesellschaftshaus*
 

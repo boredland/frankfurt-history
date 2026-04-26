@@ -29,6 +29,7 @@ Architekt: Max Cetto
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick auf den Badebereich des Ostparkweihers mit zahlreichen Badenden und dahinterliegender Unterstandhalle.](../../images/isg_ffm_s7_d1cf25132118c9d61e3fe25d54fd190b_original.jpg)
 *1937 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Blick auf den Badebereich des Ostparkweihers mit zahlreichen Badenden und dahinterliegender Unterstandhalle.*
 

@@ -23,6 +23,7 @@ In November 1938, several countries agreed to accept Jewish children from German
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The ‘Waisen-Karussell’ (Orphans’ Roundabout) memorial commemorating the Jewish children who were sent abroad during the Nazi era in Frankfurt.](../../images/Waisenkaru_a3336f6fcef16529d4ba0d64d91e26b5_original.jpg)
 *2024 — Author: Victoria Schneider | License: gemeinfrei | Description: The ‘Waisen-Karussell’ (Orphans’ Roundabout) memorial commemorating the Jewish children who were sent abroad during the Nazi era in Frankfurt.*
 

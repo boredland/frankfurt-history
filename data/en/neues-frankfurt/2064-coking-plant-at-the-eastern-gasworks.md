@@ -33,6 +33,7 @@ Elisa Lecointe: Adolf Meyer und Heinrich Helbing. Funktionsarchitektur für das 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Coal silo of the coking plant at the eastern gasworks](../../images/isg_ffm_a__7abfdd947d03b3dadcb47f3cc0a8ad08_original.jpg)
 *around 1930 — Author: Max Göllner | License: Institut für Stadtgeschichte, Frankfurt am Main | Description: Coal silo of the coking plant at the eastern gasworks*
 

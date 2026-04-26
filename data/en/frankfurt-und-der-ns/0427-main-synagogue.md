@@ -27,6 +27,7 @@ This was the location of the Jewish community’s Main Synagogue inaugurated in 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the main synagogue at Kurt-Schumacher-Straße 41](../../images/C35410_jpg_a1b9677abe45c79015f2709a0293a039_original.jpg)
 *ca. 1865 — Author: Carl Krause | License: HMF C35410 | Description: Photo of the main synagogue at Kurt-Schumacher-Straße 41*
 

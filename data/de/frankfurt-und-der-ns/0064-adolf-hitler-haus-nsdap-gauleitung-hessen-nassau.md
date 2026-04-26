@@ -24,6 +24,7 @@ Die Gauleitung für Hessen-Nassau der Nationalsozialistischen Deutschen Arbeiter
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte von „Schiller-Denkmal Adolf-Hitler-Haus"](../../images/f26b2fc8440b5985fd7cececadc04ed0_original.jpg)
 *nach 1939 — Author: unbekannt | License: HMF, Sammlung Church | Description: Bildpostkarte von „Schiller-Denkmal Adolf-Hitler-Haus"*
 

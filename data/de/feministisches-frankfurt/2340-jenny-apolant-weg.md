@@ -21,6 +21,7 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Jenny-Apolant-Weg](../../images/Jenny-Apol_1dd55b1f3daf47949521daa757a82a94_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Jenny-Apolant-Weg*
 

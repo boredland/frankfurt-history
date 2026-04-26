@@ -24,6 +24,7 @@ Die I.G. Farben-Industrie AG setzte in ihren drei Frankfurter Chemiewerken Höch
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Außenansicht und Gastronomiebereich des Restaurants "Zur schönen Aussicht" in Schwanheim](../../images/f03abf78c00b5f62412e2defe55ca1e7_original.jpg)
 *um 1917 — Author: Unbekannt | License: HMF, Sammlung Church, C80404 | Description: Bildpostkarte mit Außenansicht und Gastronomiebereich des Restaurants "Zur schönen Aussicht" in Schwanheim*
 

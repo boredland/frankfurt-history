@@ -38,6 +38,7 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein für Jakob Kahn in der  Allerheiligenstraße 26](../../images/stolperst__b99121054a69ef0288d52f72e51c1f9a_original.jpg)
 *unbekannt — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein für Jakob Kahn in der  Allerheiligenstraße 26*
 

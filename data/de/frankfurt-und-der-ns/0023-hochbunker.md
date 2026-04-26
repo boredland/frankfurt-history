@@ -27,6 +27,7 @@ Bauunternehmen: Diplom-Ingenieur Karl Kögel, Frankfurt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Schmidtstraße](../../images/0d896e5bb739c9d0d45fe90b2704316c_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Schmidtstraße*
 

@@ -24,6 +24,7 @@ Die Elektro- und lichttechnische Spezialfabrik G. Schanzenbach & Co. GmbH hatte 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der Elektro- und lichttechnischen Spezialfabrik G. Schanzenbach &amp; Co. GmbH, die ein Zwangsarbeitslager betrieb](../../images/2473d56b9d2dfc8fcc2f3fb4962b1440_original.jpg)
 *1903 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19965 | Description: Foto der Elektro- und lichttechnischen Spezialfabrik G. Schanzenbach &amp; Co. GmbH, die ein Zwangsarbeitslager betrieb*
 

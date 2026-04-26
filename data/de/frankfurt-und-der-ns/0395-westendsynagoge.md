@@ -21,6 +21,7 @@ Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Westendsynagoge, Freiherr-vom-Stein-Straße 28-32](../../images/fd5c07293bd77b08600cefeef0136ce2_original.jpg)
 *ca. 1911 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2009-145 | Description: Westendsynagoge, Freiherr-vom-Stein-Straße 28-32*
 

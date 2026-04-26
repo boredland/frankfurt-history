@@ -37,6 +37,7 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Power house with test authority centre 6 on Gutleutstraße, with large garages of the Frankfurt automobile company, designed by Ferdinand Kramer, adjoining on the right.](../../images/isg_ffm_s7_d4f9d582f7c3e7d0b7e881a533b3e9d8_original.jpg)
 *1933 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Power house with test authority centre 6 on Gutleutstraße, with large garages of the Frankfurt automobile company, designed by Ferdinand Kramer, adjoining on the right.*
 

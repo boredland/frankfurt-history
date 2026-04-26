@@ -30,6 +30,7 @@ The Cathedral was badly damaged in the Second World War. Reconstruction work beg
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, view from the Römer's bell tower to the cathedral, 1853, watercolored pencil drawing, HMF R0517](../../images/R0517_png_3cab62f1112a9b84fe631d5b7d581aff_original.jpg)
 *1853 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view from the Römer's bell tower to the cathedral, 1853, watercolored pencil drawing, HMF R0517*
 

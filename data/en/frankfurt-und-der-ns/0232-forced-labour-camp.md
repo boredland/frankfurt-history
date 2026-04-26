@@ -22,6 +22,7 @@ Hans Metz & Co., a precision maker of profile steel and lathe tools, had its com
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, In der Au 2](../../images/a333a5d7fda1123a5acc4f04426d5aec_original.jpg)
 *unknown — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 5578 | Description: Forced labor camp, In der Au 2*
 

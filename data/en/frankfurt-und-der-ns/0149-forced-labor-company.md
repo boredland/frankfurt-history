@@ -24,6 +24,7 @@ The Franz Garny safe factory exploited some 130 forced labourers who had their l
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor company, Goldsteinstraße 114](../../images/87b44e13effa52c25fec934b1c2315a3_original.jpg)
 *unkown — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 5230 | Description: Forced labor company, Goldsteinstraße 114*
 

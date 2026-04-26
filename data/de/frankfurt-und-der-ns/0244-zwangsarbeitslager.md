@@ -22,6 +22,7 @@ Die Lebensmittel- und Eiergroßhandlung Josef Münstermann & Co. hatte ihren Fir
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Landgrafenstraße 12](../../images/61c640dcb86cbedb24bec44f34247588_original.jpg)
 *1907 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-20090 | Description: Zwangsarbeitslager, Landgrafenstraße 12*
 

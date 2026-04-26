@@ -24,6 +24,7 @@ Hier war die Kreisleitung der Nationalsozialistischen Deutschen Arbeiterpartei (
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Sitzes der Nationalsozialistischen Handwerks, Handels-und Gewerbeorganisation (NS Hago) und Kreisamtsleitung in der Elbestraße 1](../../images/c992dec756cf2e004e7198e57aa5ea5f_original.jpg)
 *1934 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-11200 | Description: Foto des Sitzes der Nationalsozialistischen Handwerks, Handels-und Gewerbeorganisation (NS Hago) und Kreisamtsleitung in der Elbestraße 1*
 

@@ -29,6 +29,7 @@ The historical inn and hotel in the Fahrgasse bore the name Württemberger Hof f
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the restaurant "Württemberger Hof"](../../images/03%20W%C3%BCrtte_16f1e35436a6663eb95ad8b6022a4519_original.jpg)
 *1915 — Author: Carl Andreas Abt | License: HMF C16763 | Description: Photo of the restaurant "Württemberger Hof"*
 

@@ -27,6 +27,7 @@ Reiffenstein beschreibt diese hölzernen Häuser als „ein äußerst charakteri
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Löhergasse 12, Haus Rote Badstube mit dem Oberpförtchen, 1865, aquarellierte Bleistiftzeichnung, HMF RS0076](../../images/RS0076_png_1eb9921b484cc1fcf3a36cd04f8a6ffc_original.jpg)
 *1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Löhergasse 12, Haus Rote Badstube mit dem Oberpförtchen, 1865, aquarellierte Bleistiftzeichnung, HMF RS0076*
 

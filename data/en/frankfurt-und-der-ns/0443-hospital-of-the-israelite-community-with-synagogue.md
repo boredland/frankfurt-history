@@ -29,6 +29,7 @@ The hospital of the Jewish community was opened here in 1914. It replaced an old
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with aerial view of the hospital of the Israelite community](../../images/C80396_jpg_deac6e7cf666bccd006f7d4f2b643044_original.jpg)
 *1931 — Author: unbekannt | License: HMF / Sammlung Church C80396 | Description: Picture postcard with aerial view of the hospital of the Israelite community*
 

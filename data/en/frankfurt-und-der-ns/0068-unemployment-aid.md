@@ -24,6 +24,7 @@ Here the SA (“Sturmabteilung”), the paramilitary wing of the Nazi Party, est
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the unemployment aid building](../../images/9c952578c89882c02983d017d69e0b65_original.jpg)
 *1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2001-155 | Description: Photo of the unemployment aid building*
 

@@ -25,12 +25,14 @@ Sie wurden gezwungen, eine „Judenvermögensabgabe“ in Höhe von 16.855,73 Re
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Salomon Sander (links) und Lina Sander (rechts) in Frankfurt am Main](../../images/Salomon-Li_24877bb648135fb1d6350b8619a4d5cc_original.jpg)
 *License: Initiative Stolpersteine Frankfurt am Main | Description: Salomon Sander (links) und Lina Sander (rechts) in Frankfurt am Main*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwei Stolpersteine zur Erinnerung an Salomon (links; 1888-21.10.1942) und Lina Sander (rechts; geb. Baer, 1864-06.10.1942) in der Querstraße 1, Frankfurt am Main.](../../images/Stolperste_eea611f45dbac76cba2b493a732f251a_original.jpg)
 *License: Initiative Stolpersteine Frankfurt am Main | Description: Zwei Stolpersteine zur Erinnerung an Salomon (links; 1888-21.10.1942) und Lina Sander (rechts; geb. Baer, 1864-06.10.1942) in der Querstraße 1, Frankfurt am Main.*
 

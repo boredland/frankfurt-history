@@ -27,6 +27,7 @@ Construction company: unknown
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located on An der Schwarzbachmühle](../../images/05121597e1c33cd3fc2470e60f0e60b7_original.jpg)
 *2007 — Author: Wolfgang Kamberger | Description: Photo of a bomb shelter located on An der Schwarzbachmühle*
 

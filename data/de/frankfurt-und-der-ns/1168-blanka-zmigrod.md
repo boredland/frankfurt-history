@@ -22,6 +22,7 @@ Am 23. Februar2021 haben sich rund 100 Frankfurter*innen an der Kreuzung Kettenh
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel für Blanka Zmigrod](../../images/be21b4063d_b4a678a8472a5feb783d1c8bfe9611e0_original.jpg)
 *Author: Franziska Mucha | Description: Gedenktafel für Blanka Zmigrod*
 

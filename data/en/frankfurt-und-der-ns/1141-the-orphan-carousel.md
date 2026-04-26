@@ -23,6 +23,7 @@ This video was created as part of the inclusive educational vacation "Your City 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Gallus-Anl_ff00605d4c14fc649a52bef08c6d16b5_original.jpg)
 *Author: © Foto aus: Gooi-eb Eemlandervom 16.11.1938, Zeitungsausschnitt von Ruth Levi, geb. Hess.*
 

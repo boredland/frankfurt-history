@@ -28,6 +28,7 @@ Today, the two Affentor buildings still stand facing each other. Only in the cou
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, the Affentor from the outside (condition from 1807), after an engraving, 19th century, watercolored pencil drawing, HMF RS0034](../../images/RS0034_png_07a05647755930007f54fa0d40ff68cd_original.jpg)
 *19th century — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, the Affentor from the outside (condition from 1807), after an engraving, 19th century, watercolored pencil drawing, HMF RS0034*
 

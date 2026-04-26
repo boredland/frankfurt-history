@@ -27,6 +27,7 @@ Construction company: Gebrüder Weil, Limburg
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Praunheimer Landstraße](../../images/38f03fe1184e1f267d5c9202755f44d0_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Praunheimer Landstraße*
 

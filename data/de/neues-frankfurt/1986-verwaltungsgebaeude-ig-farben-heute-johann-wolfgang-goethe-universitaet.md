@@ -31,6 +31,7 @@ Quelle: Wolfgang Voigt: Verwaltungsgebäude der I.G. Farben. In: Neuer Mensch, N
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftaufnahme des Verwaltungsgebäudes der I.G. Farbenindustrie](../../images/Verwaltung_f9f67b2bcc591db0b41f09bf6d26ad12_original.jpg)
 *um 1933 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: Luftaufnahme des Verwaltungsgebäudes der I.G. Farbenindustrie*
 

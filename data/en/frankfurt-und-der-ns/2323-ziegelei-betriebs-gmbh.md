@@ -33,6 +33,7 @@ After the war, no attempt was ever made to critically review and come to terms w
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stumbling block at Westerbachstraße 300.](../../images/Stolperste_653f1b996ed55ad971a2df203fc8ddc5_original.jpg)
 *Author: GeorgDerReisende | License: Wikimedia Commons, CC BY-SA 4.0 | Description: Stumbling block at Westerbachstraße 300.*
 

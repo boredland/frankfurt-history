@@ -27,6 +27,7 @@ After Robert Schumann’s death, she began working in 1878 as a professor at the
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Schumann_j_a53a271a238b48666f912a03f2044088_original.jpg)
 *Author: Franz Hanfsteangl | License: Arhiv Frauen und Musik/Gemeinfrei*
 

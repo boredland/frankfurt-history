@@ -27,6 +27,7 @@ Die Geheime Staatspolizei (Gestapo) mietete zwischen Oktober 1941 und September 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der Großmarkthalle](../../images/C27570a_jp_b295c3b34ea83e686f08bab4b7a56c2c_original.jpg)
 *vor 1929 — Author: Südwestdeutsche Luftverkehrs AG | License: HMF C27570a | Description: Foto der Großmarkthalle*
 

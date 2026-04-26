@@ -24,6 +24,7 @@ A jointly used camp for forced labourers reportedly existed here, in the former 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labour camp, Berger Straße 161](../../images/99c9916e324812b6cb66f61659ef77e4_original.jpg)
 *1963 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2007-529 | Description: Forced labour camp, Berger Straße 161*
 

@@ -22,6 +22,7 @@ Die Chemischen Reinigungswerke Färberei Gebrüder Röver hatten während des Zw
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Luftansicht der chemischen Reinigungswerke der Firma Färberei Gebrüder Röver](../../images/d62a0d1c024837349ae161a685823967_original.jpg)
 *nach 1900 — Author: Unbekannt | License: HMF, Sammlung Church, C80412 | Description: Bildpostkarte mit Luftansicht der chemischen Reinigungswerke der Firma Färberei Gebrüder Röver*
 

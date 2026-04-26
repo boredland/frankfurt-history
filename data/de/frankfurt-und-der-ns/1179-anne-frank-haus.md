@@ -27,6 +27,7 @@ Anne Frank wurde am 12. Juni 1929 geboren, ihre Familie lebte im Marbachweg 307 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Anne Frank Haus im Marbachweg 307](../../images/dffc67d5b7e4a886bdf755dca7ee6a5f_original.jpg)
 *Description: Anne Frank Haus im Marbachweg 307*
 

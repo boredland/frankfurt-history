@@ -33,6 +33,7 @@ Die Menschen, die um mich standen, rückten von mir ab, keiner sagte ein Wort, e
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand](../../images/B1614_jpg_c2c481455aee1ae5e47def229dacefa3_original.jpg)
 *1933 — Author: Heinz Woelcke | License: HMF B1614 | Description: Gemälde mit der Bücherverbrennung auf dem Römerberg, Öl auf Leinwand*
 

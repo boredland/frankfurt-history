@@ -25,6 +25,7 @@ Louise Héritte-Viardot was born in Paris in 1841 and grew up in an artistic env
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Heritte-Vi_33d9a84fa642de45c55aa132d537bef3_original.jpg)
 *Author: Unbekannt | License: Aus den "Mémoires de Louise Héritte-Viardot"*
 

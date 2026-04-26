@@ -20,6 +20,7 @@ A Stolperstein—literally “stumbling stone”—is a 10 x 10 x 10-cm concrete
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/0d3205913720e1606dd012f93cf352b9_original.jpg)
 *Author: © Katharina Müller, VG Bild-Kunst, Bonn 2022*
 

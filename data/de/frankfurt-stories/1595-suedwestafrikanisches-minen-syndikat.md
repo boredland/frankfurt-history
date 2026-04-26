@@ -24,6 +24,7 @@ Um Kapital für den Abbau von Mineralien in Deutsch-Südwestafrika zu bündeln, 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Minensyndikat (Bockenheimer Anlage)](../../images/isg_ffm_s7_ffb7ea44e34c6c807f4fd6e9a73a8f0c_original.jpg)
 *License: ISG | Description: Minensyndikat (Bockenheimer Anlage)*
 

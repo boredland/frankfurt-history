@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Guiollettstraße 17](../../images/Guiolletts_1f3376f1f531f89445417ecebf40b498_original.jpg)
 *1931 — Author: unbekannt | License: ISG | Description: Guiollettstraße 17*
 

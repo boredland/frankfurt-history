@@ -28,6 +28,7 @@ Badly damaged in the Second World War, the Stone House was reconstructed from 19
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Steinernes Haus, 1845, aquarelle, HMF C16226](../../images/C16226_png_dc2f16036b1f0592287739c084166ad9_original.jpg)
 *1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Steinernes Haus, 1845, aquarelle, HMF C16226*
 

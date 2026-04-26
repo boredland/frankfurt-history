@@ -27,6 +27,7 @@ Die Paulskirche fungierte bis 1944 als Gotteshaus. Nach ihrer Zerstörung und de
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Farblithografie mit Paulskirche und Paulsplatz](../../images/02%20Paulski_4bf1da67ec3ce5ad5d4481cb5b291768_original.jpg)
 *um 1850 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 322 | Description: Farblithografie mit Paulskirche und Paulsplatz*
 

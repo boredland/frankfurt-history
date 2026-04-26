@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ginnheimer Landstraße 40-42](../../images/Ginnheimer_cfbdadd8b31638586957c7f367b8f1d2_original.jpg)
 *ca. 1910 — Author: unbekannt | License: ISG | Description: Ginnheimer Landstraße 40-42*
 

@@ -23,6 +23,7 @@ The Bar Kochba Frankfurt club had to search for new sports grounds several times
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The emblems of the club are sewn onto Max Girgulski's jersey from 1937:The Star of David, named after King David. It has a religious meaning. Today, it is primarily a symbol of the people of Israel and Judaism.The Bar Kochba logo. It commemorates Simon bar Kochba, the leader of the Bar Kochba uprising against the Roman Empire (from 132 to 135 AD). The bottom line proudly reads "Champion 1936"](../../images/3_Max%20G_Ca_ccb876263845ad360136113fe9ae57b6_original.jpg)
 *License: Eintracht Frankfurt Museum | Description: The emblems of the club are sewn onto Max Girgulski's jersey from 1937:The Star of David, named after King David. It has a religious meaning. Today, it is primarily a symbol of the people of Israel and Judaism.The Bar Kochba logo. It commemorates Simon bar Kochba, the leader of the Bar Kochba uprising against the Roman Empire (from 132 to 135 AD). The bottom line proudly reads "Champion 1936"*
 

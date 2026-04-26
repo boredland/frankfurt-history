@@ -30,6 +30,7 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Hauptzollamt](../../images/isg_ffm_s7_54480369aacc49ad67b5f80badfdc771_original.jpg)
 *1927 — Author: unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Das Hauptzollamt*
 

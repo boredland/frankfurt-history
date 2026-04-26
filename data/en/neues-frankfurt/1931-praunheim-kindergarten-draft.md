@@ -29,6 +29,7 @@ Further reading: Peter Noever (ed.), Margarete Schütte-Lihotzky. Soziale Archit
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Model of a kindergarten in the Praunheim housing estate based on a design by Margarete Schütte-Lihotzky](../../images/Kindergart_6af0dc4c9d7e33784795631e6b69f989_original.jpg)
 *1930 — Author: Unbekannt | License: Das Neue Frankfurt, 1930, Heft 2/3, S. 46 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Model of a kindergarten in the Praunheim housing estate based on a design by Margarete Schütte-Lihotzky*
 

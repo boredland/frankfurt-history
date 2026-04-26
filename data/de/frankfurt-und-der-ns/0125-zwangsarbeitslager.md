@@ -24,6 +24,7 @@ In der Gastwirtschaft und dem Tanzlokal Schwanthaler Hof befand sich während de
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Außen- und Innenansicht des Gasthauses Schwanthalerhof](../../images/f6f9b4390340f181677c60ba5b8048f1_original.jpg)
 *o.D. — Author: unbekannt | License: HMF, Sammlung Church, C80416 | Description: Bildpostkarte mit Außen- und Innenansicht des Gasthauses Schwanthalerhof*
 

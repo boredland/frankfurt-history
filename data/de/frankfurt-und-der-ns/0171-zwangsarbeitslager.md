@@ -22,6 +22,7 @@ Das Gelände Am Biegwald (heute: Rebstöcker Straße 17) gehörte dem Turnverein
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager](../../images/7b5935511706956c970f8c81fca8abdc_original.jpg)
 *1994 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2006-340 | Description: Zwangsarbeitslager*
 

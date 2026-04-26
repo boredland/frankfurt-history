@@ -26,6 +26,7 @@ From April 1933, the SA (Sturmabteilung), the paramilitary wing of the Nazi Part
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of an early concentration camp in a former pearl factory](../../images/84ddc4f5b2eb1eb6c9160d8c966a677a_original.jpg)
 *ca.1910 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-20027 | Description: Photo of an early concentration camp in a former pearl factory*
 

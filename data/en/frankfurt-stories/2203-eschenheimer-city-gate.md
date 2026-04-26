@@ -37,18 +37,21 @@ Jan Kamensky's “Visual Utopia” shows that there is another way. The Hamburg-
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Georg Braun (1541/42–1622)/Franz Hogenberg (1535–1590), Excerpt showing the Eschenheimer Tower from the city map of Frankfurt am Main, 1574, HMF.C06902, public domain](../../images/db0527f0cf_e0960932f036f490759d4dd0e9722b22_original.jpg)
 *1574 — Author: Georg Braun; Franz Hogenberg | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Georg Braun (1541/42–1622)/Franz Hogenberg (1535–1590), Excerpt showing the Eschenheimer Tower from the city map of Frankfurt am Main, 1574, HMF.C06902, public domain*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Karl Theodor Reiffenstein (1820–1893), Eschenheimer City Gate with city wall, based on an old drawing from 1790, 1859, HMF.R0039, public domain](../../images/R0039%2B001__af8d6cb656a19c3d91a8cb2c0f79d122_original.jpg)
 *1859 (Original 1790) — Author: Karl Theodor Reiffenstein | License: Gemeinfrei, HMF | Description: Karl Theodor Reiffenstein (1820–1893), Eschenheimer City Gate with city wall, based on an old drawing from 1790, 1859, HMF.R0039, public domain*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Peter Becker (1828–1904), View of the Eschenheimer Tower, 1879, HMF.C30633, public domain](../../images/C30633%2B001_28f1dd4263f80e33ef4f4488284243fd_original.jpg)
 *1879 — Author: Peter Becker | License: Gemeinfrei, HMF | Description: Peter Becker (1828–1904), View of the Eschenheimer Tower, 1879, HMF.C30633, public domain*
 
@@ -58,6 +61,7 @@ Jan Kamensky's “Visual Utopia” shows that there is another way. The Hamburg-
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gustav Rapp (1856-1940), Eschenheimer Tower, 1914, HMF.C22110, public domain](../../images/C22110%2B001_ae67ab1ac7fc47c42103db10aab3b905_original.jpg)
 *1914 — Author: Gustav Rapp | License: Gemeinfrei, HMF | Description: Gustav Rapp (1856-1940), Eschenheimer Tower, 1914, HMF.C22110, public domain*
 

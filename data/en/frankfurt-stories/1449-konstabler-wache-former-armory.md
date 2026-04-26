@@ -26,6 +26,7 @@ In the second half of the 17th century, the Konstablerwache guard house was buil
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Konstablerwache, 1857/1879, watercolored pencil drawing, HMF R1586](../../images/R1586_png_b2b54be19a687886f0944628251a6873_original.jpg)
 *1857/1879 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Konstablerwache, 1857/1879, watercolored pencil drawing, HMF R1586*
 

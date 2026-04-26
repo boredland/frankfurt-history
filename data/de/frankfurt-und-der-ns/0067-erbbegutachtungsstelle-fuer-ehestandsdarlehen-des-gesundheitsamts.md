@@ -26,6 +26,7 @@ Hier, im Haus „Zum Salzeck“ (heute: Römerberg), hatte die „Erbbegutachtun
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570](../../images/9d222e2d06c483b6fddcff7750d59b16_original.jpg)
 *ca. 1930 — Author: Staatliche Bildstelle Berlin | Description: Foto: Staatliche Bildstelle Berlin, ca. 1930, HMF C31570*
 

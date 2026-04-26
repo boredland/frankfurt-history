@@ -34,6 +34,7 @@ A Stolperstein—literally “stumbling stone”—is a 10 x 10 x 10-cm concrete
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein for Johann Bolzt at Savignystraße 55](../../images/stolperst__91b8d622245f42f4d6df64a34a589cc6_original.jpg)
 *2021 — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein for Johann Bolzt at Savignystraße 55*
 

@@ -27,6 +27,7 @@ Bauunternehmen: unbekannt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Gutleutstraße](../../images/7632a448fe9c19b0df98ea64dfe3c581_original.jpg)
 *1965 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Gutleutstraße*
 

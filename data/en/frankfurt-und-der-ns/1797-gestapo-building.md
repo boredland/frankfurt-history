@@ -25,6 +25,7 @@ After the war, an acquaintance of Jakob Horovitz, who was also imprisoned, recou
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Former Gestapo Building](../../images/Lindenstra_d073d7b0b2d29d3098af4ffc9e52ff38_original.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Former Gestapo Building*
 

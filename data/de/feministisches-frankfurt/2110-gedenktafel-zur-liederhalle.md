@@ -21,6 +21,7 @@ Um 1900 wurde in der Basaltstraße 23 ein Gebäudekomplex errichtet. Heute befin
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel für Rosa Luxemburg, Bronze](../../images/Luxemburg__656ca01f53a952c87c6462b653ddbe75_original.jpg)
 *2005 — Author: Unbekannt | License: Stadt Frankfurt/Udo Fedderies | Description: Gedenktafel für Rosa Luxemburg, Bronze*
 

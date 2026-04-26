@@ -24,6 +24,7 @@ The I.G. Farben-Industrie, a manufacturer of dyestuffs, made use of forced labou
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with exterior view and catering area of the restaurant "Zur schönen Aussicht" in Schwanheim](../../images/f03abf78c00b5f62412e2defe55ca1e7_original.jpg)
 *around 1917 — Author: Unbekannt | License: HMF, Sammlung Church, C80404 | Description: Picture postcard with exterior view and catering area of the restaurant "Zur schönen Aussicht" in Schwanheim*
 

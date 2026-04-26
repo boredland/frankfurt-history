@@ -24,6 +24,7 @@ Hier befand sich der Sitz der Bäuerlichen Hauptgenossenschaft (BHG) Rhein-Main-
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines mehrstöckigen Gebäudes und Sitz der Bäuerlichen Hauptgenossenschaft (BHG) Rhein-Main-Neckar in der Taunusanlage 3](../../images/763c20532e12c08d0bcfe7ccf876b57e_original.jpg)
 *ca. 1942 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-10626 | Description: Foto eines mehrstöckigen Gebäudes und Sitz der Bäuerlichen Hauptgenossenschaft (BHG) Rhein-Main-Neckar in der Taunusanlage 3*
 

@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Oskar-von-Miller-Straße 5](../../images/Oskar-von-_b6b6ede688717e1abf4cf9a5c58a4ace_original.jpg)
 *1983 — Author: unbekannt | License: ISG | Description: Oskar-von-Miller-Straße 5*
 

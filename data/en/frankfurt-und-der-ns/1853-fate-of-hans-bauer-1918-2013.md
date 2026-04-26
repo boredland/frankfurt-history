@@ -38,6 +38,7 @@ There was an aid centre that provided assistance to Jews who wanted to flee Germ
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Hans Bauer’s passport when he fled from Germany. Typical of the time, the name “Israel” has been added to his passport.](../../images/Pass%20Hans%20_65bc60fbbf59856fcb674429a38cb7a7_original.jpg)
 *20.01.1939 — Author: Unbekannt | License: © Dieses Bild wurde mit der freundlichen Erlaubnis von Jon Bauer veröffentlicht. Alle Rechte bleiben beim Urheber.; | Description: Hans Bauer’s passport when he fled from Germany. Typical of the time, the name “Israel” has been added to his passport.*
 

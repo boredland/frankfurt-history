@@ -30,6 +30,7 @@ Die Bockenheimer Synagoge in der Schloßstraße 3-5 wurde um 1873/74 an der Stel
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schloßstraße](../../images/55bfacfbd8ed5fd919360f87019dbb8c_original.jpg)
 *vor 1911 — Author: Hermann Bückling | License: HMF, C20438a | Description: Schloßstraße*
 

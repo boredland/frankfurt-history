@@ -25,12 +25,14 @@ Von der Gründung deutscher Kolonien in Afrika und Ozeanien versprachen sich nic
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick auf das Fabrikgelände](../../images/isg_ffm_s7_df4a00ea1833db7923e27e7b5cf11fea_original.jpg)
 *License: ISG | Description: Blick auf das Fabrikgelände*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Anzeige zur Moskinonetzfabrik Klehn](../../images/moskitonet_883819d76c73ce7d38c1d89b785ca3b9_original.jpg)
 *1912 — License: Usambara-Post 11/14 (06.04.1912). | Description: Anzeige zur Moskinonetzfabrik Klehn*
 

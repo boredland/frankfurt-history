@@ -29,6 +29,7 @@ There were also children among the camp’s residents—a circumstance of which 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The forced-labor camp was located near the weir. In this photo, which was likely taken before the Nazi era, the barracks are not yet visible, as they were not built until 1942.](../../images/ISG%20S7A%20Nr_4314c9d5cb072d10265162b9f2fa7281_original.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, S7A Nr. 1998-21650 | Description: The forced-labor camp was located near the weir. In this photo, which was likely taken before the Nazi era, the barracks are not yet visible, as they were not built until 1942.*
 

@@ -22,6 +22,7 @@ On February 23, 2021, about 100 people from Frankfurt met at the intersection of
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial plaque for Blanka Zmigrod](../../images/be21b4063d_b4a678a8472a5feb783d1c8bfe9611e0_original.jpg)
 *Author: Franziska Mucha | Description: Memorial plaque for Blanka Zmigrod*
 

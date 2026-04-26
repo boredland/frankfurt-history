@@ -56,6 +56,7 @@ Außerdem gab es eine Schießerei in der Brückenstraße.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo: unknown, around 1860, Institut für Stadtgeschichte, Frankfurt Best. S7A No. 738](../../images/LS_Julikra_1049fdc2051018171cbcd4865fb7bb45_original.jpg)
 *um 1860 — Author: unbekannt | Description: Photo: unknown, around 1860, Institut für Stadtgeschichte, Frankfurt Best. S7A No. 738*
 

@@ -27,6 +27,7 @@ Construction company: unknown
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Hermann-Eggert-Straße](../../images/41dd25a437dd20738f89ec91152fa22d_original.jpg)
 *2011 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Hermann-Eggert-Straße*
 

@@ -22,6 +22,7 @@ Seit 1908 befand sich in der Hebelstraße 15-19 das sogenannte Philanthropin. Di
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Philanthropin](../../images/412da0376c365dbf16121e99ef7370da_original.jpg)
 *ca. 1935 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19667 | Description: Foto des Philanthropin*
 

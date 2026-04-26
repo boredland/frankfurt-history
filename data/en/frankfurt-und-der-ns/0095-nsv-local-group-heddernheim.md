@@ -24,6 +24,7 @@ This was the location of the Heddernheim chapter of the National Socialist Peopl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the offices of the NSV local group Heddernheim](../../images/aa5079cffd9f5725d097934ba7c08142_original.jpg)
 *1915 — Author: Abt Carl Andreas | License: HMF C23244a | Description: Photo of the offices of the NSV local group Heddernheim*
 

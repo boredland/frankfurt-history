@@ -29,6 +29,7 @@ In 1938, she fled into exile in the United States with parts of her family. Rosy
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Geiger-Kul_ad7c7e7db4286aa355dd104a3590e1c8_original.jpg)
 *Author: Lilian Photo Studio New York | License: Leo Baeck Institute.*
 

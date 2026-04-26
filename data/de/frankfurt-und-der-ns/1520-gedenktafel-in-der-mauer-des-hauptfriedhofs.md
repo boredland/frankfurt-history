@@ -20,6 +20,7 @@ An der Mauer des Hauptfriedhofs befindet sich eine Gedenktafel. Sie erinnert dar
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel an der Mauer des Hauptfriedhofs](../../images/Gedenktafe_41e70dc68f2d9cafc15cfd2e62818a58_original.jpg)
 *2023 — Description: Gedenktafel an der Mauer des Hauptfriedhofs*
 

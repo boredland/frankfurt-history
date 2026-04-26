@@ -22,6 +22,7 @@ Further information about Dyke* March Frankfurt: www.dykemarchffm.wordpress.com
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Logo Dyke* March –colourful](../../images/IMG_9899_j_d1d368997010096d9ccdb52f8956587e_original.jpg)
 *Author: Unbekannt | License: LIBS e.V. | Description: Logo Dyke* March –colourful*
 

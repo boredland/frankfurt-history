@@ -22,6 +22,7 @@ The tailor Josef Balthasar lived at Scharnhorststrasse 21 (now Baseler Strasse).
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Drawing of Josef Balthasar's attic flat](../../images/4414c0200c253844514f919b0dffed5a_original.jpg)
 *2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Drawing of Josef Balthasar's attic flat*
 

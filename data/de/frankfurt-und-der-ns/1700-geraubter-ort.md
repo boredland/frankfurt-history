@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kettenhofweg 94](../../images/Kettenhofw_bdf4661be196314cf0824998182322f7_original.jpg)
 *ca. 1990 — Author: Gebrüder Seeger | License: ISG | Description: Kettenhofweg 94*
 

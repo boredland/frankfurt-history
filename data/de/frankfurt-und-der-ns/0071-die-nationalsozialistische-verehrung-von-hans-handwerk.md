@@ -24,6 +24,7 @@ Die nationalsozialistische Stadtregierung benannte die Lange Straße in Hans-Han
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eine Vorraums im Heilig-Geist-Hospital](../../images/65b1e7e92bce31aa391cca46bd145f00_original.jpg)
 *1934 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. H.14.10 Nr. 82 | Description: Foto eine Vorraums im Heilig-Geist-Hospital*
 

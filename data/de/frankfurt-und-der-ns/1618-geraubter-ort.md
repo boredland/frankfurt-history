@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bockenheimer Landstraße 118 und 120](../../images/Bockenheim_7e165d82f5cc1621c5ffb61305ec39b7_original.jpg)
 *ca. 1909 — License: ISG | Description: Bockenheimer Landstraße 118 und 120*
 

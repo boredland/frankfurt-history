@@ -19,6 +19,7 @@ Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick auf den Südbahnhof](../../images/3a2860a951268f91ab46b55564363796_original.jpg)
 *Description: Blick auf den Südbahnhof*
 

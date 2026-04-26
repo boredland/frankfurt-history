@@ -33,6 +33,7 @@ Further reading: Andreas Hanser: Brechung der Moderne. Der Salon der Lilly von S
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The dining room, redesigned by Elsaesser, with a view of the garden](../../images/176_els_m-_926b9ee9f7adbe1d4c27a56ce16e8402_original.jpg)
 *around 1927 — Author: Waldemar Titzenthaler | License: Martin-Elsaesser-Stiftung | Description: The dining room, redesigned by Elsaesser, with a view of the garden*
 

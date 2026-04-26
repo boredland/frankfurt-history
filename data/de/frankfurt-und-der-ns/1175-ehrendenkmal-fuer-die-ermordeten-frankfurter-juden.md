@@ -25,6 +25,7 @@ Der neue Jüdische Friedhof in der Eckenheimer Landstraße wurde in den 1920er J
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel auf dem neuen Jüdischen Friedhof](../../images/isg_gt_aus_fa2091c72708fd48a228acbb186ceb84_original.jpg)
 *License: © Institut für Stadtgeschichte | Description: Gedenktafel auf dem neuen Jüdischen Friedhof*
 

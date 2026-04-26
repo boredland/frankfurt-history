@@ -24,6 +24,7 @@ The Torpedo-Werke manufactured office machines and bicycles. During World War II
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with general view of the Weilwerke (torpedo works)](../../images/64a43b222b0b23c29e4eba5ae5db98a2_original.jpg)
 *unknown — Author: Unbekannt | License: HMF, Sammlung Church, C80403 | Description: Picture postcard with general view of the Weilwerke (torpedo works)*
 

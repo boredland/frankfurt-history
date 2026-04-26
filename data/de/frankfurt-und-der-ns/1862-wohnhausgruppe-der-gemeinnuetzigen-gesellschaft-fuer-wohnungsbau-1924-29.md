@@ -27,6 +27,7 @@ Der Architekt Fritz Epstein hat in Frankfurt etwa 150 Gebäude geplant, gebaut o
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/20241212_B_59c5c264c0eee0d0ed92fdccab6b0d13_original.jpg)
 *2024 — License: BDA - Bund deutscher Archiktektinnen und Architekten Hessen e.V.*
 

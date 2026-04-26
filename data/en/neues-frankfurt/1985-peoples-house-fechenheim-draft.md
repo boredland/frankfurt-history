@@ -33,6 +33,7 @@ www.martin-elsaesser.de/projekte/volkshaus-fechenheim-frankfurt-am-main-ost/
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Draft of the people’s house Fechenheim (left). Swimming hall, which was built in 1929, to the right.](../../images/Volkshaus__aad66161de9270f0f8ac9c6855b63264_original.jpg)
 *1929 — Author: Martin Elsaesser | License: Zentralblatt der Bauverwaltung, 1929, Jg. 49, H. 33, S. 529 | Description: Draft of the people’s house Fechenheim (left). Swimming hall, which was built in 1929, to the right.*
 

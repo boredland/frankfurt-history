@@ -27,6 +27,7 @@ In Frankfurt am Main eskalierten die Pogrome am frühen Morgen des 10. November 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel in Frankfurt am Main, die an mehr als 3.000 jüdischen Mitbürger*innen erinnert, die während der Novemberpogrome 1938 in der Festhalle zusammengetrieben, misshandelt und in Konzentrationslager deportiert wurden. Die Stadt gedenkt der Opfer von Terror und Gewaltherrschaft.](../../images/Gedenktafe_fe523c62eb16771e8c6c6eab4e8a7fe8_original.jpg)
 *2024 — Author: Aliah Habl Corona | License: gemeinfrei | Description: Gedenktafel in Frankfurt am Main, die an mehr als 3.000 jüdischen Mitbürger*innen erinnert, die während der Novemberpogrome 1938 in der Festhalle zusammengetrieben, misshandelt und in Konzentrationslager deportiert wurden. Die Stadt gedenkt der Opfer von Terror und Gewaltherrschaft.*
 

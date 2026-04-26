@@ -27,6 +27,7 @@ Als Sitz übernahm die neue Regierung das Palais Thurn und Taxis vom Bundestag, 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Farblithografie des Palais Thurn und Taxis](../../images/08%20Palais%20_1ab3d844ac46c55243f20e8cf9ff316e_original.jpg)
 *1863 — Author: verlegt im Verlag Völcker | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 269 | Description: Farblithografie des Palais Thurn und Taxis*
 

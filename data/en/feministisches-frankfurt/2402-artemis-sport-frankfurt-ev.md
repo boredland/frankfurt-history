@@ -19,6 +19,7 @@ Once a year, during the CSD weekends, the supporting programme for the CSD demon
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Logo Artemis Sport Frankfurt e.V](../../images/artemis-lo_eb445553be47ba6beca86186774276cb_original.jpg)
 *Unknown — Author: Unbekannt | License: LIBS e.V. | Description: Logo Artemis Sport Frankfurt e.V*
 

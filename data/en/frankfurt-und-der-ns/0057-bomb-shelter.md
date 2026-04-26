@@ -27,6 +27,7 @@ Construction company: unknown
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Schifferstraße](../../images/77fa8e026bc43a3f7eb60ca36cf37023_original.jpg)
 *1944 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7B Nr. 2015-50 | Description: Photo of a bomb shelter located in Schifferstraße*
 

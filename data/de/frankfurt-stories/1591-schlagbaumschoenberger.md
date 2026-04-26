@@ -22,12 +22,14 @@ Von den 1920-er Jahren bis in das Jahr 1953 fanden dort zahlreiche Veranstaltung
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Findet ihr das Relief des Schlagbaums?](../../images/Station%203-_cd53d676a45dd87e41fab53d25ec997d_original.jpg)
 *License: F. Blendin | Description: Findet ihr das Relief des Schlagbaums?*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Inserat des Clublokals in den Vereinsnachrichten vom September 1925](../../images/station%209__1d15e73ca79ea9a8f9a9a22b6e968b92_original.jpg)
 *Description: Inserat des Clublokals in den Vereinsnachrichten vom September 1925*
 

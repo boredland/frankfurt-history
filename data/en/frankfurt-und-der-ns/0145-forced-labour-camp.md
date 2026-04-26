@@ -24,6 +24,7 @@ This was the location of the Zur Rose guesthouse. The Ada-Ada shoe company opera
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Alt Sossenheim 27](../../images/e72da012c81b5e3935bfff3e6fbfbcf9_original.jpg)
 *ca. 1950 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2012-16 | Description: Forced labor camp, Alt Sossenheim 27*
 

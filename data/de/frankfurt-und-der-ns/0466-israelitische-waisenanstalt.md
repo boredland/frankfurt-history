@@ -22,6 +22,7 @@ Hier befand sich ein Waisenhaus mit Synagoge, das von der Baronin Edmond de Roth
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto: Landesbildstelle, undatiert, HMF Ph06318](../../images/Ph06318_jp_2c66c1738c744ceac9dac43aee8631d4_original.jpg)
 *unbekannt — Author: unbekannt | License: Landesbildstelle Hessen | Description: Foto: Landesbildstelle, undatiert, HMF Ph06318*
 

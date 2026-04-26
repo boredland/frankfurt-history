@@ -24,6 +24,7 @@ This was the location of a prayer room known from 1920 onwards as the Berger’s
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the facade of the prayer room, Obermainanlage 8](../../images/e76e904667b1a6efdee57e261a26e22e_original.jpg)
 *ca. 1955 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2008-124 | Description: Photo of the facade of the prayer room, Obermainanlage 8*
 

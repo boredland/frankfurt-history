@@ -24,6 +24,7 @@ In addition to the synagogue on the market, the Jewish religious community had a
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schleifergasse 5](../../images/Ph00482_jp_d3ed7e96d01c36d0c1a1e3aa28be7f99_original.jpg)
 *1939 — Author: Leonhard Kleemann | License: HMF, Ph00482 | Description: Schleifergasse 5*
 

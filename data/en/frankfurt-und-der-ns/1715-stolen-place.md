@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Leerbachstraße 32](../../images/Leerbachst_279546c6b2d1b063ca6a57c3076d0a4e_original.jpg)
 *1890 — Author: Karl Hertel | License: ISG | Description: Leerbachstraße 32*
 

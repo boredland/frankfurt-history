@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bockenheimer Landstraße 104](../../images/Bockenheim_ba039022651f45151d9ef710bd93530f_original.jpg)
 *ca. 1937 — License: ISG | Description: Bockenheimer Landstraße 104*
 

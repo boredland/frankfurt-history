@@ -24,6 +24,7 @@ Im Hauptpostamt gab es ein heimliches Postfach, mit dem die Gestapo unauffällig
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Hauptpostamtes](../../images/60e79eeee0ff0278e4629ac517f8ce24_original.jpg)
 *1942 — Author: Fred Kochmann | License: HMF Ph00665 | Description: Foto des Hauptpostamtes*
 

@@ -27,6 +27,7 @@ The aim was to turn the eastern historic city into a fortress with total of 50 b
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Chalk lithography: Everyone pitches in – building barricades on Wedelgasse](../../images/Route%203%2C%20S_1d52a16db24fda1c8700dedda9544d2a_original.jpg)
 *1848 — Author: Ludwig von Elliot | License: Institut für Stadtgeschichte, Frankfurt Best. W 1-9 ZGS Nr. 36-250 | Description: Chalk lithography: Everyone pitches in – building barricades on Wedelgasse*
 

@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ludolfusstraße 5](../../images/Ludolfusst_94794c1d6b30782c12e554930f21110b_original.jpg)
 *1912 — Author: unbekannt | License: ISG | Description: Ludolfusstraße 5*
 

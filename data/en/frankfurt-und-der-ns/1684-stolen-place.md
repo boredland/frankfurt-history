@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Holzhausenstraße 52](../../images/Holzhausen_7dfc9223a9c2f62a1da41ebc8e70acdc_original.jpg)
 *n. d. — Author: unbekannt | License: ISG | Description: Holzhausenstraße 52*
 

@@ -27,6 +27,7 @@ Construction company: Hochtief AG
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Zeilweg](../../images/f1a227c7432217ca163db48f639b4d9d_original.jpg)
 *1998 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Zeilweg*
 

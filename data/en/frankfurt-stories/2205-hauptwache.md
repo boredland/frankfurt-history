@@ -42,12 +42,14 @@ In October 1968, the city of Frankfurt celebrated the opening of subway line A1,
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Friedrich Mylius (1827-1916), Schillerplatz at the Hauptwache with waiting horse-drawn carriages, Frankfurt around 1865, HMF.C19977, public domain](../../images/C19977_001_62041c7e00e7d64fcd325e5166273db3_original.jpg)
 *Around 1865 — Author: Carl Friedrich Mylius | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Carl Friedrich Mylius (1827-1916), Schillerplatz at the Hauptwache with waiting horse-drawn carriages, Frankfurt around 1865, HMF.C19977, public domain*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Hertel (1832-1906), Horse-drawn streetcar on Zeil coming from Hauptwache, Frankfurt, HMF.C29106, public domain](../../images/C29106_001_bc5393a3870030ecc87ede598da2a58c_original.jpg)
 *Around 1880 — Author: Carl Hertel | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Carl Hertel (1832-1906), Horse-drawn streetcar on Zeil coming from Hauptwache, Frankfurt, HMF.C29106, public domain*
 
@@ -57,6 +59,7 @@ In October 1968, the city of Frankfurt celebrated the opening of subway line A1,
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Walter Schmidt, Hauptwache streetcar stop with streetcar line 24 heading toward Oberursel, Frankfurt, circa 1913, HMF.C25939c, public domain](../../images/C25939c_00_bc2d4c5b008d3b3249c256f00c683cac_original.jpg)
 *Around 1913 — Author: Walter Schmidt | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Walter Schmidt, Hauptwache streetcar stop with streetcar line 24 heading toward Oberursel, Frankfurt, circa 1913, HMF.C25939c, public domain*
 
@@ -66,6 +69,7 @@ In October 1968, the city of Frankfurt celebrated the opening of subway line A1,
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Hermann Nöller, Subway construction at Hauptwache, Frankfurt 1965, HMF.Ph05152](../../images/Ph05152%2B00_07d3cb225cd7edd1820740d6a1c7eda6_original.jpg)
 *1965 — Author: Hermann Nöller | License: Verwaist | Description: Hermann Nöller, Subway construction at Hauptwache, Frankfurt 1965, HMF.Ph05152*
 
@@ -75,6 +79,7 @@ In October 1968, the city of Frankfurt celebrated the opening of subway line A1,
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Willy Keim, inauguration of the subway at Hauptwache on October 4, 1968, Frankfurt, HMF.Ph08367, roebild](../../images/Ph08367_00_5524292af2cac026769803055368d92a_original.jpg)
 *1968 — Author: Willy Keim | License: HMF, roebild; Foto: Horst Ziegenfusz | Description: Willy Keim, inauguration of the subway at Hauptwache on October 4, 1968, Frankfurt, HMF.Ph08367, roebild*
 

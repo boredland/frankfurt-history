@@ -28,6 +28,7 @@ Die alte Judenschule wurde 1571 zur Kupferwage umgebaut. Schließlich berichtet 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Judenschule, Außenansicht, 1870, aquarellierte Bleistiftzeichnung, HMF R0392](../../images/R0392_png_d810372de3ebc67e1a4be555019a49f3_original.jpg)
 *1870 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Judenschule, Außenansicht, 1870, aquarellierte Bleistiftzeichnung, HMF R0392*
 

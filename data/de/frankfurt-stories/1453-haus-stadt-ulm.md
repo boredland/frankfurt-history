@@ -26,6 +26,7 @@ Das Haus Stadt Ulm wurde 1915 umgebaut und schließlich im Zweiten Weltkrieg zer
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Schäfergasse 9, Haus Stadt Ulm, Innenhof, 1862, aquarellierte Bleistiftzeichnung, HMF R0863](../../images/R0863_png_fb2ad8be23d581cd64065cde9a723353_original.jpg)
 *1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Schäfergasse 9, Haus Stadt Ulm, Innenhof, 1862, aquarellierte Bleistiftzeichnung, HMF R0863*
 

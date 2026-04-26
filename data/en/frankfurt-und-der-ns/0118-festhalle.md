@@ -26,6 +26,7 @@ During the November pogroms of 1938, some 3,000 Jewish men between the ages of e
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the Festhalle](../../images/8709fb97696f7e044e87653ed1eefb96_original.jpg)
 *ca. 1936 — Author: Friedrich Lauffer | License: HMF Ph11572 | Description: Photo of the Festhalle*
 

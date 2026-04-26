@@ -22,6 +22,7 @@ The grounds at Am Biegwald (now Rebstöcker Strasse 17) belonged to the “Vorw�
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp](../../images/7b5935511706956c970f8c81fca8abdc_original.jpg)
 *Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2006-340 | Description: Forced labor camp*
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Brückhofstraße 10](../../images/Brueckhofs_9198fc89cfc1d2359bd593be55e2893e_original.jpg)
 *1939 — Author: Fried Lübbecke | License: ISG | Description: Brückhofstraße 10*
 

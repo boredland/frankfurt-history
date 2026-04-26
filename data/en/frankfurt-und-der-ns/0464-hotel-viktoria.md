@@ -23,6 +23,7 @@ The Hotel Viktoria belonged to the Jewish widow Therese Oberndorfer, née Bing. 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the Hotel Viktoria](../../images/8b3f34644789c19a1326f608a64680dc_original.jpg)
 *1982 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2013-2261 | Description: Photo of the Hotel Viktoria*
 

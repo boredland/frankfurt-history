@@ -37,6 +37,7 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Elektizitätswerk mit Prüfamt an der Gutleutstraße mit rechts angrenzenden Großgaragen der Frankfurter Automobildroschkengesellschaft von Ferdinand Kramer.](../../images/isg_ffm_s7_d4f9d582f7c3e7d0b7e881a533b3e9d8_original.jpg)
 *1933 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Elektizitätswerk mit Prüfamt an der Gutleutstraße mit rechts angrenzenden Großgaragen der Frankfurter Automobildroschkengesellschaft von Ferdinand Kramer.*
 

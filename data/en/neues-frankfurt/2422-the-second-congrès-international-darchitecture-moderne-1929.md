@@ -31,6 +31,7 @@ Helen Barr (ed.): Neues Wohnen 1929/2009. Frankfurt und der 2. Congrès Interna
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The international exhibition “The Apartment for the Breadline” at Werkbundhaus in Frankfurt am Main, 1929](../../images/CIAM_DNF_1_97a0d0015b6db99f93f170a32e482d27_original.jpg)
 *1929 — Author: unbekannt / unknown | License: Das Neue Frankfurt, 1929, Heft 11, S. 213 (Sammlung der ernst-may-gesellschaft e.V.) | Description: The international exhibition “The Apartment for the Breadline” at Werkbundhaus in Frankfurt am Main, 1929*
 

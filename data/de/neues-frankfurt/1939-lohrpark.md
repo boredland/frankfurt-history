@@ -22,6 +22,7 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Planschbecken des Kindererholungsgartens.](../../images/isg_ffm_s7_3510038cee575f64aafcd28ac5546941_original.jpg)
 *1927 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Das Planschbecken des Kindererholungsgartens.*
 

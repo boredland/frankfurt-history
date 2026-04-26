@@ -21,6 +21,7 @@ Das Bauunternehmen Georg Lönholdt, das sich im Straßen-, Bahn-, Kanal- und Hoc
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager](../../images/920dc9de22f04f7b2d19c633424f048c_original.jpg)
 *2017 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2017-963 | Description: Zwangsarbeitslager*
 

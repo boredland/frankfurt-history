@@ -28,6 +28,7 @@ Die alte Brückenmühle wurde schließlich 1852 abgerissen. Auf der letzten verb
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Der Müllermain in Sachsenhausen gegen die Alte Brücke gesehen, 1837/1866, aquarellierte Bleistiftzeichnung, HMF RS0005](../../images/RS0005_png_92829776a3efc30665eff5f9632cbe45_original.jpg)
 *1837/1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Der Müllermain in Sachsenhausen gegen die Alte Brücke gesehen, 1837/1866, aquarellierte Bleistiftzeichnung, HMF RS0005*
 

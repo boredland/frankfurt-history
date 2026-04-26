@@ -30,6 +30,7 @@ Further reading: Dorothea Deschermeier: Siedlung Höhenblick. In: Neuer Mensch, 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View from the green area opposite Kurhessenstraße to the corner buildings on Kurhessenstraße, Höhenblick, and the single-family houses in the Höhenblick street](../../images/Hoehenblic_33c8dfd55b7905b35ef3556687f76a2c_original.jpg)
 *around 1927 — Author: Paul Wolff | License: ernst-may-gesellschaft e.V. | Description: View from the green area opposite Kurhessenstraße to the corner buildings on Kurhessenstraße, Höhenblick, and the single-family houses in the Höhenblick street*
 

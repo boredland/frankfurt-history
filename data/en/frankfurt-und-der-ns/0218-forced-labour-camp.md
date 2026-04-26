@@ -22,6 +22,7 @@ The Fritz Kamp uniform manufacturer of Frankfurt was based at this site (now San
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Sandgasse 6](../../images/13f5065ebe88e147bd3bd3776cc44a55_original.jpg)
 *ca. 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-3896 | Description: Forced labor camp, Sandgasse 6*
 

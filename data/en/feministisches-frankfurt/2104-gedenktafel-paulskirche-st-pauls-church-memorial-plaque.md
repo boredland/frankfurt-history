@@ -23,6 +23,7 @@ The Paulskirche was built in the 18th century as the main Protestant church, was
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Kirchner_G_63ea3123f8f82c067bf6ac13f269e205_original.jpg)
 *Author: Clemens Strugalla | License: HMF/Gemeinfrei*
 

@@ -27,6 +27,7 @@ This bomb shelter was deliberately built in the park. From the air it was meant 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Am Gemeindegarten](../../images/a491e39db3211584e3440765b126f911_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Am Gemeindegarten*
 

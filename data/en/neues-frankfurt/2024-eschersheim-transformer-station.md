@@ -35,6 +35,7 @@ https://www.vde.com/de/geschichte/karte/hessen/umspannwerk-thielenstrasse
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Eschersheim transformer station](../../images/Cetto_Umsp_1be89bf58710192789f129f93dbebe10_original.jpg)
 *around 1930 — Author: Unbekannt | License: Max Cetto-Archiv, Deutsches Architekturmuseum, Frankfurt am Main | Description: Eschersheim transformer station*
 

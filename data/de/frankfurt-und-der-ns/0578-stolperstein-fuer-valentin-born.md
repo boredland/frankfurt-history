@@ -40,6 +40,7 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein für Valentin Born in der Dominikanergasse 7](../../images/stolperst__7aa217419de87db16543c80d744aff34_original.jpg)
 *unbekannt — Author: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein für Valentin Born in der Dominikanergasse 7*
 

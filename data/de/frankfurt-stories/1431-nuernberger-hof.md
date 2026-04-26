@@ -29,6 +29,7 @@ Seit dem 13. Jahrhundert wohnte hier die Familie Glauburg. Sie ließ den südlic
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Nürnberger Hof, Eingang von der Schnurgasse, 1856, aquarellierte Bleistiftzeichnung, HMF R0400](../../images/R0400_png_29e638f76ace4fcfd21c07bf7fa79166_original.jpg)
 *1856 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Nürnberger Hof, Eingang von der Schnurgasse, 1856, aquarellierte Bleistiftzeichnung, HMF R0400*
 

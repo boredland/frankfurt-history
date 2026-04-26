@@ -24,6 +24,7 @@ Mit Kriegsbeginn passten alle Fabriken ihre Produktion an die Bedürfnisse der W
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Außenansicht der Gastwirtschaft "Zum Löwen"](../../images/04b963907928821cbca9c50a0297bcf2_original.jpg)
 *ca. 1900 — Author: unbekannt | License: HMF / Sammlung Church C80413 | Description: Bildpostkarte mit Außenansicht der Gastwirtschaft "Zum Löwen"*
 

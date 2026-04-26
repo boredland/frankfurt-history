@@ -25,6 +25,7 @@ Yael Bartana's work encompasses a variety of art forms, including films, light i
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/KIT_APE_12_d09def4b3cb0900d14b73ad2cd307db6_original.jpg)
 *Author: Alexander Paul Englert | License: Kulturamt Frankfurt*
 

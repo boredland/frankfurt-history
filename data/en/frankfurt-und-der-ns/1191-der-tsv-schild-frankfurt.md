@@ -23,6 +23,7 @@ TSV Schild Frankfurt became the largest club in the Schild Association. Many wel
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The TSV Schild women's handball team became Reich champions in both 1936/37 and 1937/38. On the jerseys most of them have the emblem of the Schild sewn on, the big S. In the background is the call to "become a member of the Kulturbund". From left: Anny Freund, Trude Seligmann, Gretel Landau, Friedel Sommer, Betty Blumenfeld, Marga Markus, Helga Horn, Gretel Sichel, Lotte Sichel, Emmy Wertheimer, Alice Wohlfahrt. Image rights: Estate of J. Bendorf](../../images/9e6560b43bbfdfd77d48ae75e5111d2e_original.jpg)
 *Author: Julius Bendorf | Description: The TSV Schild women's handball team became Reich champions in both 1936/37 and 1937/38. On the jerseys most of them have the emblem of the Schild sewn on, the big S. In the background is the call to "become a member of the Kulturbund". From left: Anny Freund, Trude Seligmann, Gretel Landau, Friedel Sommer, Betty Blumenfeld, Marga Markus, Helga Horn, Gretel Sichel, Lotte Sichel, Emmy Wertheimer, Alice Wohlfahrt. Image rights: Estate of J. Bendorf*
 

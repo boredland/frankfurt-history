@@ -31,6 +31,7 @@ Das Neue Frankfurt, vol. 2, 1928, issue 7/8, p. 132 and vol. 4, 1930, issue 2/3,
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Model of the people’s house Praunheim](../../images/Volkshaus__0c112364acfd0b4e07af3576aa55f49d_original.jpg)
 *1928 — Author: Paul Wolff | License: Das Neue Frankfurt, 1928, Heft 7/8, S. 132 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Model of the people’s house Praunheim*
 

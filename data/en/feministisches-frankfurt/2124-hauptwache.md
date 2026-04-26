@@ -23,6 +23,7 @@ The Hauptwache is a former guardhouse that was built in 1671 and gave its name t
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/C02263_001_e9edbb39ab5fdfc74c9ab94269f4158c_original.jpg)
 *Author: Johann Jakob Tanner | License: HMF/Gemeinfrei*
 

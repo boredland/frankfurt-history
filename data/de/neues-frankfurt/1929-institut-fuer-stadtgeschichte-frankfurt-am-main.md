@@ -23,6 +23,7 @@ Das Institut für Stadtgeschichte (ISG) ist das kommunale Archiv der Stadt Frank
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Außenansicht des Instituts für Stadtgeschichte](../../images/Au%C3%9Fenansi_e460e0e6976397cdfb7e6b38af98070c_original.jpg)
 *2021 — Author: Uwe Dettmar | License: Institut für Stadtgeschichte | Description: Außenansicht des Instituts für Stadtgeschichte*
 

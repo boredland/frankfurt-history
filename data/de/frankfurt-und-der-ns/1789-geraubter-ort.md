@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zeil 84](../../images/Zeil-84_jp_6b5f88abe9085671f3cbf927dbf4bafe_original.jpg)
 *1912 — Author: Werbung | License: ISG | Description: Zeil 84*
 

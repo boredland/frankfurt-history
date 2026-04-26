@@ -34,6 +34,7 @@ D. Cohn Jr. AG was a family company located at Zeil 109. Founded by David Cohn, 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of department store D. Cohn Jr. AG](../../images/160e87af122a9fac8e7a80da045db971_original.jpg)
 *ca. 1930 — Author: Lauterwasser | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-10249 | Description: Photo of department store D. Cohn Jr. AG*
 

@@ -33,6 +33,7 @@ Die meisten Häftlinge im KZ „Katzbach“ waren Männer aus Polen, die im Zusa
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![2025 wurde eine gläserne Gedenkstele gesetzt. Sie trägt alle Namen der 527 Häftlinge des KZ "Katzbach", die in Frankfurt ermordet wurden.](../../images/87f28160c11ef27d7b829c921959edab_original.jpg)
 *2025 — Author: Maciej Rusinek | License: Privat | Description: 2025 wurde eine gläserne Gedenkstele gesetzt. Sie trägt alle Namen der 527 Häftlinge des KZ "Katzbach", die in Frankfurt ermordet wurden.*
 

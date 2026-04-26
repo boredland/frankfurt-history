@@ -22,6 +22,7 @@ The forced labour camp of a branch of Daimler Benz was located at the corner of 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labour camp, Hanauer Landstraße 108](../../images/6c63536800b23f58ddeb4f2cf5b4eca8_original.jpg)
 *1927 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A No. 1998-13997 | Description: Forced labour camp, Hanauer Landstraße 108*
 

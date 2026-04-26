@@ -25,6 +25,7 @@ filters:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![links Adam Strauß, Vorsitzender des Hessischen Landesverbands Dt. Sinti und Roma, 2. von links Andreas von Schoeler, Oberbürgermeister von Frankfurt am Main, rechts Hans Eichel, Ministerpräsident in der Paulskirche, Foto: Verband Deutscher Sinti und Roma, Landesverband Hessen](../../images/d17bdc01e8e9304a249c2333f6dafc2a_original.jpg)
 *Author: Verband Deutscher Sinti und Roma, Landesverband Hessen | Description: links Adam Strauß, Vorsitzender des Hessischen Landesverbands Dt. Sinti und Roma, 2. von links Andreas von Schoeler, Oberbürgermeister von Frankfurt am Main, rechts Hans Eichel, Ministerpräsident in der Paulskirche, Foto: Verband Deutscher Sinti und Roma, Landesverband Hessen*
 

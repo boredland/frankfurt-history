@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Börsenstraße 17](../../images/Boersenstr_3a6cb02b37c2f16281b35bf31e406992_original.jpg)
 *1910 — License: ISG | Description: Börsenstraße 17*
 

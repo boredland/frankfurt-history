@@ -22,6 +22,7 @@ Im Gasthaus Katharina Jockel in der Eulengasse 46 befand sich ein Lager für Zwa
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit der Gaststätte "Zur Eulenburg" in Bornheim](../../images/0533dc953124078640858853d1af85b9_original.jpg)
 *1901 — Author: Unbekannt | License: HMF, Sammlung Church, C80372 | Description: Bildpostkarte mit der Gaststätte "Zur Eulenburg" in Bornheim*
 

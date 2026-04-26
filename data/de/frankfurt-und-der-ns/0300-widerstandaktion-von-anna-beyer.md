@@ -24,6 +24,7 @@ Mit einem präparierten Koffer trug die Widerstandskämpferin Anna Beyer den Sch
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Widerstandaktion von Anna Beyer, Eiserner Steg](../../images/c7915bf9ff03f02d4d715689bfa71171_original.jpg)
 *2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Widerstandaktion von Anna Beyer, Eiserner Steg*
 

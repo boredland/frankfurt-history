@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Im Trutz 13](../../images/Im-Trutz-1_f1ccf96d0274dd580f2a5cf156884658_original.jpg)
 *ca. 1880 — Author: unbekannt | License: HMF | Description: Im Trutz 13*
 

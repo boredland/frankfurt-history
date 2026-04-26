@@ -30,6 +30,7 @@ In August 1934 Lore Wolf had to flee to the neutral Saar area, her family and Mo
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lore Wolf with her daughter Hannelore ca. 1926 in front of the house in Gerlachstreet.](../../images/Gerlachstr_e5496e7fb259edfa8204684364476b93_original.jpg)
 *approx. 1926 — License: Privat (Anja Bandas) | Description: Lore Wolf with her daughter Hannelore ca. 1926 in front of the house in Gerlachstreet.*
 

@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schumannstraße 56](../../images/Schumannst_3ee3c999ccdbf26ab26bb06f45d78c9c_original.jpg)
 *ca. 1900 — Author: Günther & Seeger | License: ISG | Description: Schumannstraße 56*
 

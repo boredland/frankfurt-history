@@ -27,6 +27,7 @@ Construction company: unknown
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located at Bruno-Asch-Anlage](../../images/6eccdb08f3afe4f480972ae6549b62a5_original.jpg)
 *before 1943 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 839-19 | Description: Photo of a bomb shelter located at Bruno-Asch-Anlage*
 

@@ -27,6 +27,7 @@ In 1852, the Senckenberg Foundation acquired the adjacent plot on Radgasse lane.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, bleach houses and gardens at the Senckenbergischen Stiftung, corner at Bleichstraße and Radgasse, 1857, aquarelle, HMF C51047](../../images/C51047_png_2d87c8943d01dbed8db230f2698b605d_original.jpg)
 *1857 — Author: Carl Theodort Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, bleach houses and gardens at the Senckenbergischen Stiftung, corner at Bleichstraße and Radgasse, 1857, aquarelle, HMF C51047*
 

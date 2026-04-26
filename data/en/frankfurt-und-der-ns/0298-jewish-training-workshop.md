@@ -24,6 +24,7 @@ The “Jüdische Anlernwerkstätte”, an independent vocational school at Fisch
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a Jewish training workshop](../../images/C27897_jpg_1700195052f811de780f0d25be6fb4a8_original.jpg)
 *1932 — Author: Leonhard Kleemann | License: HMF C27897 | Description: Photo of a Jewish training workshop*
 

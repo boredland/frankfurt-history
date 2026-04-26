@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Fahrgasse 8](../../images/Fahrgasse-_2a186345f22b26598f8893897f4eb2b6_original.jpg)
 *ca. 1930 — Author: Rainer Emanuel | License: h | Description: Fahrgasse 8*
 

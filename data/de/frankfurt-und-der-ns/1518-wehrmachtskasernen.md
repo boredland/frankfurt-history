@@ -20,6 +20,7 @@ Hier befand sich die 1938 eingeweihte Wehrmachtskaserne einer Nachrichteneinheit
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ehemaliges Kasernengebäude](../../images/Kasernenge_f6883ecc726d61d0f0a36bd16d122bb4_original.jpg)
 *2023 — Description: Ehemaliges Kasernengebäude*
 

@@ -31,6 +31,7 @@ Das Neue Frankfurt, vol. 2, issue 6, 1928.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Model of the extension of the new main cemetery](../../images/Erweiterun_59c696566012ae9730755281bb608fa3_original.jpg)
 *1928 — Author: Unbekannt | License: Das Neue Frankfurt, 1928, Heft 6, S. 101 | Description: Model of the extension of the new main cemetery*
 

@@ -42,6 +42,7 @@ In den Gesprächen ging es oft um die Rechte von Frauen.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto: unbekannt, um 1908, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2348](../../images/LS_Salon%20d_ac59de20c6b3c28c295237072ee13e4f_original.jpg)
 *um 1908 — Author: unbekannt | Description: Foto: unbekannt, um 1908, Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2348*
 

@@ -24,6 +24,7 @@ The New Synagogue of the Jewish community of Bergen-Fechenheim, located in Erbse
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Devastated interior of the synagogue.](../../images/hhstaw_300_105d60f070915027b2f1ed8ba700a4c8_original.jpg)
 *Description: Devastated interior of the synagogue.*
 

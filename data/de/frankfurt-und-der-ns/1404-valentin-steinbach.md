@@ -25,6 +25,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Porträt von Valentin Steinbach, 1918; Steinbach_Valentin_002](../../images/Steinbach__e71506e228087186cadfcdb3281c508a_original.jpg)
 *1918 — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Porträt von Valentin Steinbach, 1918; Steinbach_Valentin_002*
 

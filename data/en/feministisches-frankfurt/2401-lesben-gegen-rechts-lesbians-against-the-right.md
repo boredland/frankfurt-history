@@ -20,6 +20,7 @@ The memorial to the persecution of homosexuals is located on Klaus-Mann-Platz. H
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The memorial to the persecution and criminalisation of homosexuals, designed by Rosemarie Trockel, has stood on Klaus Mann Square in Frankfurt city centre since 1994.](../../images/frankfurte_04e14809b96ace27f46307b777c45417_original.jpg)
 *Unknown — Author: Axel Schneider | License: IMH / Axel Schneider – www.frankfurter-engel.de | Description: The memorial to the persecution and criminalisation of homosexuals, designed by Rosemarie Trockel, has stood on Klaus Mann Square in Frankfurt city centre since 1994.*
 

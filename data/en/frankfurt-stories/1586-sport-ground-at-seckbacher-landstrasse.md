@@ -30,12 +30,14 @@ After FSV moved to the stadium on Bornheimer Hang in 1931, the pitch on Seckbach
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The crowded tribune on Seckbacher Landstraße. It was located on the site where the clubhouse of SG Bornheim Grün/Weiß stands today](../../images/station%204__e453562097ad84ae455003cb404aaea9_original.jpg)
 *Description: The crowded tribune on Seckbacher Landstraße. It was located on the site where the clubhouse of SG Bornheim Grün/Weiß stands today*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Entrance to the stadium on Seckbacher Landstraße](../../images/Station%208-_aa2eedb68b36cfeefffb93084a799615_original.jpg)
 *License: Quelle: Festschrift zum 25-jährigen Jubiläum von 1924 | Description: Entrance to the stadium on Seckbacher Landstraße*
 

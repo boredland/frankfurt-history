@@ -23,6 +23,7 @@ In 1713, Anna Elisabeth Zahn (1669-1757) took over the ironmongery at Töngesgas
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/FemFFM_pla_51ec9396b1132f5f5b3e40ef28814ea6_original.jpg)
 *Author: Hannah Rödel | License: HMF/Hannah Rödel*
 

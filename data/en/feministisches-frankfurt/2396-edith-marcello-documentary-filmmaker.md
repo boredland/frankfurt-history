@@ -25,6 +25,7 @@ In 1975/76, she created the film Das hat mich sehr verändert – Das Frankfurte
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Edith Marcello and cameraman during the filming of DER KAMPF DER LIP ARBEITER (The Struggle of the Lip Workers, West Germany, 1973–1975). Source: Kinothek Asta Nielsen Archive, Edith Marcello Collection](../../images/Bildschirm_5eb50927b8edc2b5f7515f1d8e20a6a5_original.jpg)
 *ca. 1974 — Author: nicht feststellbar/not detectable | License: nicht feststellbar/not detectable | Description: Edith Marcello and cameraman during the filming of DER KAMPF DER LIP ARBEITER (The Struggle of the Lip Workers, West Germany, 1973–1975). Source: Kinothek Asta Nielsen Archive, Edith Marcello Collection*
 

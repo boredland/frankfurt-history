@@ -26,6 +26,7 @@ Naphtali Fromm was always very committed to his religion. In 1919, he co-founded
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Liebigstreet 27 (today): Home of Naphtali Fromm](../../images/Liebigstra_99707515cc8c2907a4581467213ab238_original.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Liebigstreet 27 (today): Home of Naphtali Fromm*
 

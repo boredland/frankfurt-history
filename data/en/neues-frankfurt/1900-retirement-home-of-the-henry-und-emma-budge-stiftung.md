@@ -31,6 +31,7 @@ Further reading: Lore Kramer: Das Altersheim der Henry und Emma Budge-Stiftung i
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Title page of the magazine “Das Neue Frankfurt” (1930, issue 7) with the isometric drawing of the building.](../../images/isg_ffm_s7_271878f9dd592940b8dc952ddc8c7b64_original.jpg)
 *1930 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Title page of the magazine “Das Neue Frankfurt” (1930, issue 7) with the isometric drawing of the building.*
 
@@ -43,6 +44,7 @@ Further reading: Lore Kramer: Das Altersheim der Henry und Emma Budge-Stiftung i
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The garden courtyard between the two wings of the two-storey building.](../../images/isg_ffm_s7_c62befac2b943ec2260123acd79272bd_original.jpg)
 *Unknown — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: The garden courtyard between the two wings of the two-storey building.*
 

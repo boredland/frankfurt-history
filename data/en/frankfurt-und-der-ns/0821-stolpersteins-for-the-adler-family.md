@@ -36,6 +36,7 @@ A Stolperstein—literally “stumbling stone”—is a 10 x 10 x 10-cm concrete
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Nine stumbling stones at Löherstraße 21 in Frankfurt's Sachsenhausen district commemorate the Adler family: parents Reinhold and Margarete Adler and their children Wanda, Gisela, Heinz, Herbert “Ricky,” Rolf, Gertrud, and Ursula.](../../images/Stolperste_d4e7837e21409f313667a0346365cc48_original.jpg)
 *Author: Andreas Pflock | License: Dokumentations- und Kulturzentrum Deutscher Sinti und Roma | Description: Nine stumbling stones at Löherstraße 21 in Frankfurt's Sachsenhausen district commemorate the Adler family: parents Reinhold and Margarete Adler and their children Wanda, Gisela, Heinz, Herbert “Ricky,” Rolf, Gertrud, and Ursula.*
 

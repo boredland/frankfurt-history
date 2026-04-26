@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Weberstraße 3](../../images/Weberstras_d12d81ea14f56d354a9a1532634f0754_original.jpg)
 *before 1921 — Author: Postkarte | License: ISG | Description: Weberstraße 3*
 

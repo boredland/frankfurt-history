@@ -33,6 +33,7 @@ Le condizioni di vita degli IMI, costretti a un estenuante lavoro forzato, erano
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Inauguration of the Italian Military Cemetery of Honour, Frankfurt 1959. Photograph: unknown, Italian Ministry of Defence](../../images/1_1%20-%20Cimi_34435b373412c0c6c7287cff9d295e5e_original.jpg)
 *1959 — Author: Commissariato generale per le onoranze ai caduti in guerra | License: IT: Ministero della Difesa, Ufficio per la tutela della cultura e della memoria della difesa | Description: Inauguration of the Italian Military Cemetery of Honour, Frankfurt 1959. Photograph: unknown, Italian Ministry of Defence*
 

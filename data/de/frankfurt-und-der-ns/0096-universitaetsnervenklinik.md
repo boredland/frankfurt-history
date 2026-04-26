@@ -27,6 +27,7 @@ Hier befand sich die sogenannte Universitätsnervenklinik. Hier und im Universit
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Universitätsnervenklinik, Heinrich-Hoffmann-Straße 10](../../images/c628295604a7ff5c1292793470e364c9_original.jpg)
 *ca. 1931 — Author: Otto Emmel | License: HMF, Ph35169 | Description: Universitätsnervenklinik, Heinrich-Hoffmann-Straße 10*
 

@@ -23,6 +23,7 @@ The video was created as part of the project "What's May 8 to me? Five senior cl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a ghetto house in Gaußstraße 14](../../images/1404b1e2361b27c6fd4da79dfa9a3bca_original.jpg)
 *2010 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2010-158 | Description: Photo of a ghetto house in Gaußstraße 14*
 

@@ -27,6 +27,7 @@ When the memorial was redesigned in 2017/2018, a pyramid of bricks and corten st
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial pyramid during the commemorative event in 2024.](../../images/Gedenkst%C3%A4_b589a994d998d9ee2a6ec37a1649d595_original.jpg)
 *Author: Lisa Schrimpf | License: gemeinfrei | Description: Memorial pyramid during the commemorative event in 2024.*
 

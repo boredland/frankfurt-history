@@ -22,6 +22,7 @@ The Georg Klein dye works and chemical laundries company operated a forced labou
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Hainer Weg 24](../../images/e1ed997db25afcd9ebfd51b90159b961_original.jpg)
 *ca. 1942 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2013-9 | Description: Forced labor camp, Hainer Weg 24*
 

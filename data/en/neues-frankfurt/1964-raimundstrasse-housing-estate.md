@@ -40,6 +40,7 @@ Further reading: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. F
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Multi-dwelling unit in Raimundstraße](../../images/Raimundstr_d49303ae2b6d90f269583d0095509555_original.jpg)
 *1930 — Author: Max Göllner | License: ernst-may-gesellschaft e.V. | Description: Multi-dwelling unit in Raimundstraße*
 

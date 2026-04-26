@@ -24,6 +24,7 @@ The Waldfried stud farm belonging to Arthur and Carl von Weinberg was located he
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of Waldstraße 78, where Degussa operated the ‘Waldfried’ forced labour camp](../../images/87825c5aab2793f12b5d8d76d357b9bb_original.jpg)
 *1927 — Author: unbekannt | License: Südwestdeutsche Luftverkehrs-A.G., Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2012-142 | Description: Aerial view of Waldstraße 78, where Degussa operated the ‘Waldfried’ forced labour camp*
 

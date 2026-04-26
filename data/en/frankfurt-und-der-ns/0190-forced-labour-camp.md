@@ -23,6 +23,7 @@ This was the site of a forced labour camp operated by the L. Scriba iron foundry
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of Bolongarostraße 90](../../images/61a9d4af3612c543399c1269a4d854ac_original.jpg)
 *ca. 1900 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 8135 | Description: View of Bolongarostraße 90*
 

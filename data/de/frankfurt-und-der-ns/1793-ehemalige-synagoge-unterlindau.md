@@ -34,12 +34,14 @@ Nach dem Krieg wurden alle Überreste skrupellos beseitigt, was ich sehr traurig
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die Unterlindau 23 heute](../../images/Unterlinda_959fa73e4dfda49c9ccfd0efe3392158_original.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Die Unterlindau 23 heute*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Gedenktafel an Jakob Horovitz](../../images/Unterlinda_8130c2a46e31bdff6653d945ecda8909_original.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Gedenktafel an Jakob Horovitz*
 

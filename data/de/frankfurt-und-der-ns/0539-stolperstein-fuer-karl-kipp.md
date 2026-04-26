@@ -38,6 +38,7 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein für Karl Kipp in der Berliner Straße 32](../../images/stolperst__6bc20989d18384c4144f19e2ee51f4b2_original.jpg)
 *unbekannt — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein für Karl Kipp in der Berliner Straße 32*
 

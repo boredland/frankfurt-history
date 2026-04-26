@@ -24,6 +24,7 @@ Die Ortsgruppe Frankfurt der Nationalsozialistischen Deutschen Arbeiterpartei (N
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zum Storch, Versammlungslokal der NSDAP, Saalgasse 1](../../images/6ecfe910f2a38ab97981edb44bae882a_original.jpg)
 *1907 — Author: Hermann Bückling | License: HMF, C20291 | Description: Zum Storch, Versammlungslokal der NSDAP, Saalgasse 1*
 

@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bethmannstraße 58](../../images/Bethmannst_45a36ac8c4a4c6ee4a8fd9cc312ee075_original.jpg)
 *1935 — Author: Paul Wolff | License: ISG, Frankfurt Best. S7Wo Nr. 3224 | Description: Bethmannstraße 58*
 

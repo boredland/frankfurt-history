@@ -24,6 +24,7 @@ Das Café Rumpelmayer befand sich unweit des Schauspielhauses in der Adolf-Hitle
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Außenbereich des Café "Rumpelmayer"](../../images/232904ac707c75cce2a6cf6ad5898ced_original.jpg)
 *ca. 1940 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2003-126 | Description: Außenbereich des Café "Rumpelmayer"*
 

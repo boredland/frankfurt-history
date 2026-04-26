@@ -28,6 +28,7 @@ In the National Socialist era, a large number of charitable institutions such as
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Floor plan of the House of Jewish Welfare](../../images/62b5ce5b07b976a65906a5c75f80a728_original.jpg)
 *ca. 1875 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-14049 | Description: Floor plan of the House of Jewish Welfare*
 

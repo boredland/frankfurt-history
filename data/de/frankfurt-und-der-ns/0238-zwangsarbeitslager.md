@@ -21,6 +21,7 @@ In der Brauerei Gaststätte Schneider, Kleiner Kornmarkt 19, bestand ein Lager f
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager](../../images/92723b667447ad5a2dacc779697c8177_original.jpg)
 *ca. 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-4551 | Description: Zwangsarbeitslager*
 

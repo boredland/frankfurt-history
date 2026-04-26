@@ -32,6 +32,7 @@ Den hier Gefolterten stand meist eine jahrelange Haft in Gefängnissen oder Lage
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto einer SS-Kaserne und Folterstätte in der ehemaligen Klingerschule](../../images/84919d5ac7bdf0cc613a4cdf4b35b2c2_original.jpg)
 *o.D. — Author: unbekannt | License: HMF / Sammlung Church C80408 | Description: Foto einer SS-Kaserne und Folterstätte in der ehemaligen Klingerschule*
 

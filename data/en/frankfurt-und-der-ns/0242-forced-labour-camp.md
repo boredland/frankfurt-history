@@ -22,6 +22,7 @@ The Voigt & Haeffner company lodged forced labourers in the Hotel Hansa Royal at
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the "Hansa Royal"](../../images/82b32804865c6f0e4ce25e455211bfa6_original.jpg)
 *before 1950 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 00535-21 | Description: Picture postcard with the "Hansa Royal"*
 

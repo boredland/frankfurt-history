@@ -22,6 +22,7 @@ Der Installateur Hans Lutz (* 1904) wohnte in der Böttgerstraße 29. Er arbeite
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Wohnung des Widerständlers Hans Lutz, Böttgerstraße 29](../../images/c130cc7cc71154662634e337f86a6ecd_original.jpg)
 *1981 — Author: Joachim Sändig | License: HMF, Ph17152 | Description: Wohnung des Widerständlers Hans Lutz, Böttgerstraße 29*
 

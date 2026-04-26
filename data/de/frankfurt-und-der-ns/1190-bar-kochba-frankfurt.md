@@ -23,6 +23,7 @@ Der Verein Bar Kochba Frankfurt musste sich wegen Protesten von Naziorganisation
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Auf dem Trikot von Max Girgulski aus dem Jahr 1937 sind die Embleme des Vereins aufgenäht:
 Der Davidstern, benannt nach König David. Er hat eine religiöse Bedeutung. Heute gilt er vor allem als Symbol des Volkes Israel und des Judentums.
 Das Logo von Bar Kochba. Es erinnert an Simon bar Kochba, den Anführer des Bar-Kochba-Aufstands gegen das Römische Reich (von 132 bis 135 nach Christus). In der untersten Zeile steht stolz „Meister 1936“](../../images/3_Max%20G_Ca_ccb876263845ad360136113fe9ae57b6_original.jpg)

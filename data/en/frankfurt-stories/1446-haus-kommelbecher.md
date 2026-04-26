@@ -28,6 +28,7 @@ In the Second World War, the Graubengasse lane was destroyed. In 1954, the Klein
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Graubengasse 18, Haus Kommelbacher, room on the ground floor, 1865, watercolored pencil drawing, HMF R0457](../../images/R0457_png_f31759e138adef4bc95a1a0b21164109_original.jpg)
 *1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Graubengasse 18, Haus Kommelbacher, room on the ground floor, 1865, watercolored pencil drawing, HMF R0457*
 

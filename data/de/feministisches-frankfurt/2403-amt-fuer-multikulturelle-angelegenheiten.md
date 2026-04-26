@@ -19,6 +19,7 @@ Wenige Meter weiter grüßen die schwul-lesbischen Ampelpärchen nicht nur in de
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aufnahme Ampel - Grün](../../images/Ampel1_jpg_815f43663f16ec967f0a4df083c7b1b2_original.jpg)
 *unbekannt — Author: Unbekannt | License: LIBS e.V. | Description: Aufnahme Ampel - Grün*
 

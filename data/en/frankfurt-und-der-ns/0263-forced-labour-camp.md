@@ -24,6 +24,7 @@ The forced labour camp serving to accommodate the German Reich Railway’s Expre
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the Saalbau zur Wanderlust in Nied](../../images/6c5914f65866453f72987d9ce727a6a8_original.jpg)
 *1935 — Author: unbekannt | License: HMF Sammlung Church C80389 | Description: Picture postcard with the Saalbau zur Wanderlust in Nied*
 

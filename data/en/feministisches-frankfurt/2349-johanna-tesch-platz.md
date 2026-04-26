@@ -23,6 +23,7 @@ There are around 3,380 official street names in Frankfurt, including streets, sq
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Johanna Tesch Platz](../../images/Johanna%20Te_4df9ff421974e3a2bed66af3edc0bd41_original.jpg)
 *2025 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Johanna Tesch Platz*
 

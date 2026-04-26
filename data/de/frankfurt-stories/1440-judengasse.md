@@ -29,6 +29,7 @@ Seit 1864 erwarb die Stadt baufällige Häuser und ließ innerhalb von zehn Jahr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Judengasse, Hinterhäuser, 1849, aquarellierte Bleistiftzeichnung, HMF R0271](../../images/R0271_png_172e953183a0138a307edb03c7098035_original.jpg)
 *1849 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Judengasse, Hinterhäuser, 1849, aquarellierte Bleistiftzeichnung, HMF R0271*
 

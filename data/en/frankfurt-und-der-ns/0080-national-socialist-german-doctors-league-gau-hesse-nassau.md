@@ -24,6 +24,7 @@ The Nazi leadership of the Hesse-Nassau region had their headquarters here from 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the headquarters of the Nazi leadership of the Hesse-Nassau region](../../images/cbe9d58f9c9a8db7e223576aaa0067be_original.jpg)
 *Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1933-321 | Description: Photo of the headquarters of the Nazi leadership of the Hesse-Nassau region*
 

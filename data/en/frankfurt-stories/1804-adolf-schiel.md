@@ -28,6 +28,7 @@ Schiel was taken prisoner by the British a few days after the fighting began. Af
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Adolf Schiel (7th from left) with German officers during the South African War, 1899.](../../images/schiel_png_868e094f5a938ec51a73a8e54d40e05e_original.jpg)
 *1899 — License: Adolf Schiel. 23 Jahre Sturm und Sonnenschein in Südafrika. Leipzig: Brockhaus, 1902, S. 384. | Description: Adolf Schiel (7th from left) with German officers during the South African War, 1899.*
 

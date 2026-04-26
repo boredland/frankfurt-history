@@ -24,6 +24,7 @@ Die Sturmabteilung (SA) war eine gewaltbereite und bewaffnete Kampfabteilung der
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftbildfoto eines SA-Hilfswerklagers in der Rödelheimer Landstraße](../../images/c46382dfe5bf2fc931834d0b42a5670d_original.jpg)
 *ca. 1926/27 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19802 | Description: Luftbildfoto eines SA-Hilfswerklagers in der Rödelheimer Landstraße*
 

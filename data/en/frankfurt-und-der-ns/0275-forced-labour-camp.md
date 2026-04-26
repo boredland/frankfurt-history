@@ -24,6 +24,7 @@ In 1943, the Gebr. Haldy coal trading company operated a camp for forced laboure
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of Schmickstraße 63, where Gebr. Haldy Kohlenhandelsgesellschaft GmbH operated a forced labour camp](../../images/d7f03f8750836057ea384b619017a356_original.jpg)
 *ca. 1929 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-14003 | Description: Aerial view of Schmickstraße 63, where Gebr. Haldy Kohlenhandelsgesellschaft GmbH operated a forced labour camp*
 

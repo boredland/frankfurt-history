@@ -26,6 +26,7 @@ Hier befand sich bis 1933 die Redaktion des „Frankfurter Volksblatts“, der w
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der Redaktion des Frankfurter Volksblattes](../../images/d9e2578eef24719a8428060121225ff8_original.jpg)
 *vor 1945 — Author: Otto Emmel | License: HMF Ph38327 | Description: Foto der Redaktion des Frankfurter Volksblattes*
 

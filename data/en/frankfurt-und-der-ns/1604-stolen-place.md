@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Annastraße 12](../../images/Annastrass_07cc36466376c4c316ef5d64662bc8a6_original.jpg)
 *1983 — Author: Jutta Hofmann | License: ISG | Description: Annastraße 12*
 

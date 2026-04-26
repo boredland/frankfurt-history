@@ -22,6 +22,7 @@ Hartmann & Braun operated a camp for forced labourers here. Based at Königstras
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Falkstraße 34](../../images/9566e0c68970623079c41b73d9ee49c9_original.jpg)
 *ca. 1905 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2001-178 | Description: Forced labor camp, Falkstraße 34*
 

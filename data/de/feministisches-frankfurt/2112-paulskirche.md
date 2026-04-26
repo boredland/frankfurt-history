@@ -21,6 +21,7 @@ Die Paulskirche wurde im 18. Jahrhundert als evangelische Hauptkirche erbaut u
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Sitzung der Nationalversammlung in der Paulskirche in Frankfurt](../../images/C03805_001_f2c3f16afde214e1679fb072e02fa278_original.jpg)
 *1848 — Author: Eduard Gustav May (Drucker*in), S. Schember (Verleger*in), Jean Nicolas Ventadour (Zeichner*in) | License: HMF | Description: Sitzung der Nationalversammlung in der Paulskirche in Frankfurt*
 

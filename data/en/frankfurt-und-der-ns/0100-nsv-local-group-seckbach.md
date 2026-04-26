@@ -24,6 +24,7 @@ The Seckbach chapter of the National Socialist Peoples’ Welfare was located in
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo fo the offices of the NSV local group Seckbach](../../images/b1ace9d4320e76bfffa0c67a291666cf_original.jpg)
 *1932 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-25447 | Description: Photo fo the offices of the NSV local group Seckbach*
 

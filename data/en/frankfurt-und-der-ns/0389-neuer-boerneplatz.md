@@ -22,6 +22,7 @@ The video was created as part of the project "What does May 8 mean to me?". Five
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/00021fae60d17cd1c3652e80659f189d_original.jpg)
 
 

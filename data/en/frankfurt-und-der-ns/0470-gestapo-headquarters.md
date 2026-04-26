@@ -24,6 +24,7 @@ Just a few weeks after the seizure of power in 1933, the Secret State Police in 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial plaque at the former Gestapo headquarters](../../images/isg_gt_ges_85960433acd34566d0b7275f6dc9d500_original.jpg)
 *License: © Institut für Stadtgeschichte | Description: Memorial plaque at the former Gestapo headquarters*
 

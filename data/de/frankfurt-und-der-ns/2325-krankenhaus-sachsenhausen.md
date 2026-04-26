@@ -23,6 +23,7 @@ Seit 1928 war Max Flesch-Thebesius leitender Chirurg im Privatkrankenhaus Sachse
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Privatkrankenhaus Sachsenhausen. ISG FFM, S7A-1998-26853.](../../images/Krankenhau_138beefea2f89ba1c00aa8df3ca2377b_original.jpg)
 *1912 — Author: unbekannt | License: Institut für Stadtgeschichte Frankfurt | Description: Privatkrankenhaus Sachsenhausen. ISG FFM, S7A-1998-26853.*
 

@@ -31,6 +31,7 @@ Am 18. April 1958 wurden alle Verfahren eingestellt. Die Begründung: Es ließe 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schlussbericht über das Ermittlungsverfahren gegen Johannes Himmelheber. HHStAW, 520, FZ 6638.](../../images/PXL_202511_5714d1de691c29ab16b17dd6c962662f_original.jpg)
 *1947 — License: Hessisches Hauptstaatsarchiv Wiesbaden | Description: Schlussbericht über das Ermittlungsverfahren gegen Johannes Himmelheber. HHStAW, 520, FZ 6638.*
 

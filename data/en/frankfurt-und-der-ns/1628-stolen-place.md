@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Corneliusstraße 9](../../images/Corneliuss_5d275ea63b74aa097096c529a3017f19_original.jpg)
 *before 1950 — Author: Postkartensammlung | License: ISG | Description: Corneliusstraße 9*
 

@@ -23,6 +23,7 @@ The Paulskirche (St. Paul’s Church), built in the 18th century as Frankfurt’
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/C03805_001_f2c3f16afde214e1679fb072e02fa278_original.jpg)
 *Author: Eduard Gustav May (Drucker*in), S. Schember (Verleger*in), Jean Nicolas Ventadour (Zeichner*in) | License: HMF*
 

@@ -29,6 +29,7 @@ Die feministische Bibliothek Frankfurt (Fembib) wird von einem kleinen ehrenamtl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Entdecke die Fembib von innen.](../../images/IMG_5825_j_c3812454b058833988415b5f69d9c9d0_original.jpg)
 *2024 — Author: Fembib Kollektiv | License: Fembib/Gemeinfrei | Description: Entdecke die Fembib von innen.*
 

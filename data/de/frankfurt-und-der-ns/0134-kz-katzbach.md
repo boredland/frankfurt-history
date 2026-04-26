@@ -30,6 +30,7 @@ Das KZ „Katzbach“ geriet nach Kriegsende fast in Vergessenheit. Erst ein Rec
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schwarzweißzeichnung mit KZ-Häftlingen bei der Trümmerräumung im Stadtteil Gallus 1944; Zeichnung des ehemaligen Häftlings Zygmunt Świstak.](../../images/Hauwert-%C5%9A_8765e57e9028bfbf377aa1907220cc80_original.jpg)
 *o.D. — Author: Zeichnung von Zygmunt Świstak | License: Jenni Hauwert-Świstak | Description: Schwarzweißzeichnung mit KZ-Häftlingen bei der Trümmerräumung im Stadtteil Gallus 1944; Zeichnung des ehemaligen Häftlings Zygmunt Świstak.*
 

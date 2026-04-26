@@ -22,6 +22,7 @@ Das Grundstück und die Villa am Leonhardsbrunn 12-14 gehörten dem jüdischen U
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit der Villa Merton](../../images/C80373_jpg_8ca22ea6bfb0de78074bd139caa7c18a_original.jpg)
 *um 1932 — Author: Unbekannt | License: HMF, Sammlung Church, C80373 | Description: Bildpostkarte mit der Villa Merton*
 

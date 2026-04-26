@@ -27,6 +27,7 @@ Es wurde mit dem Prädikat „Reisen für Alle“ in Barrierefreiheit ausgezeich
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Historische Museum Frankfurt, Außenansicht](../../images/HMF_Museum_cc773d8e5a96debe948ada74c520c124_original.jpg)
 *2024 — Author: Jan Hassenpflug | License: Historisches Museum Frankfurt | Description: Das Historische Museum Frankfurt, Außenansicht*
 

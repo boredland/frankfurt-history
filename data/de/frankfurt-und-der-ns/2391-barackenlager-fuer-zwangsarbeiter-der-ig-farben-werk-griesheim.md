@@ -25,6 +25,7 @@ Im Norden des Lagers standen mehrere, miteinander verbundene Gebäude mit zwei K
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bauplan des Lagers für Zwangsarbeiter und Kriegsgefangene der I.G. Farben, Werk Griesheim.](../../images/Lager%20Stro_87b7d76ce2acbebe38f2157f29607479_original.jpg)
 *2025 — Author: Grafikdesigner: carloscusguen.com | License: Sascha Mahl | Description: Bauplan des Lagers für Zwangsarbeiter und Kriegsgefangene der I.G. Farben, Werk Griesheim.*
 

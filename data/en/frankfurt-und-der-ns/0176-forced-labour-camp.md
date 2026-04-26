@@ -24,6 +24,7 @@ This was the location of the A. Klein restaurant, which was used to lodge civili
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Berger Straße 133](../../images/feffc9255ca59aa3dce46c0f32b0fe97_original.jpg)
 *1985 — Author: Elisabeth Rehm | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2018-631 | Description: Forced labor camp, Berger Straße 133*
 

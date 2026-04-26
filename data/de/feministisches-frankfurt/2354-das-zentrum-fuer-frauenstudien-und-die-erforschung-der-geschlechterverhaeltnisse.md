@@ -25,6 +25,7 @@ Am 7. Dezember 2000 wurde das Zentrum anlässlich des 250. Geburtstags von Corne
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die Gründungsdirektorinnen des Zentrums bei der Gründungsfeier: Von links nach rechts sind dies Ute Gerhard, Heide Schlüpmann, Susanne Opfermann und Brita Rang.](../../images/Gr%C3%BCndung%20_b64b9a0873afbc6225267d907560025c_original.jpg)
 *1997 — Author: N.N. | License: gemeinfrei | Description: Die Gründungsdirektorinnen des Zentrums bei der Gründungsfeier: Von links nach rechts sind dies Ute Gerhard, Heide Schlüpmann, Susanne Opfermann und Brita Rang.*
 

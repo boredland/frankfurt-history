@@ -23,6 +23,7 @@ Rebstöcker Strasse 55 was the location of Dr. Ing. Schneider & Co., a lighting 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard featuring the electricity company Dr. Ing. Schneider &amp; Co.](../../images/3c931b2c14b5621281ae6c072233f9d7_original.jpg)
 *unknown — Author: unbekannt | License: HMF, Sammlung Church, C80377 | Description: Picture postcard featuring the electricity company Dr. Ing. Schneider &amp; Co.*
 

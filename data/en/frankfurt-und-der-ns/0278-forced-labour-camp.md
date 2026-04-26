@@ -24,6 +24,7 @@ The barber Karl Eschenbach had his shop here. He had two forced labourers workin
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of an intersection with several buildings in the background, where several forced labourers were employed at Steinweg 2](../../images/b45a58d3fb4452d0176ddbbdeaa1bc79_original.jpg)
 *1928 — Author: Paul Wolff | License: Wolff &amp; Tritschler, Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 479 | Description: Photo of an intersection with several buildings in the background, where several forced labourers were employed at Steinweg 2*
 

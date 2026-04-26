@@ -21,6 +21,7 @@ In der Hedderichstraße 104-116 betrieb die David Stempel AG ein Lager für Zivi
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager](../../images/Ph18838%2B00_31d10f2c9959ebd58d7ef212616d902e_original.jpg)
 *Author: Jean Meyer | License: HMF Ph18838 | Description: Zwangsarbeitslager*
 

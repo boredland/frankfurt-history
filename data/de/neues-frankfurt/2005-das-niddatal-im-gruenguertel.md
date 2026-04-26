@@ -31,6 +31,7 @@ Architekten: Leberecht Migge, Max Bromme
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Niddatal mit Blick auf die Siedlung Römerstadt.](../../images/Niddatal_P_f15dfb1fa62fa80c0e3f0cb7b987b698_original.jpg)
 *um 1930 — Author: Unbekannt | License: Privat | Description: Das Niddatal mit Blick auf die Siedlung Römerstadt.*
 

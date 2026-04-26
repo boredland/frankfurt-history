@@ -24,6 +24,7 @@ Laut dem Adressbuch von 1935 befand sich am Hermann-Göring-Ufer 27 (heute: Unte
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Sitzes der NSV Ortsgruppe Untermain](../../images/04c3b756e7236b23b9f5b93ed962c656_original.jpg)
 *1938 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1938-33 | Description: Foto des Sitzes der NSV Ortsgruppe Untermain*
 

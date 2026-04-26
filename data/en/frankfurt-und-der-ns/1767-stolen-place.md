@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Steinweg 8](../../images/Steinweg-8_c0b05512d26ce8e61ac7f899d7ef60f7_original.jpg)
 *ca. 1885 — Author: unbekannt | License: ISG | Description: Steinweg 8*
 

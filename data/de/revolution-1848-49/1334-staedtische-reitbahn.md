@@ -25,6 +25,7 @@ Ebenfalls an der städtischen Reitbahn trafen sich am 14. Mai 1848 mehr als 1.00
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zeichnung der Städtischen Reitbahn aus der Vogelperspektive](../../images/07%20Reitbah_0e6ca6f54136610dc8b794df5eb655cb_original.jpg)
 *1835 — Author: Carl Theodor Reiffenstein | License: HMF R158 | Description: Zeichnung der Städtischen Reitbahn aus der Vogelperspektive*
 

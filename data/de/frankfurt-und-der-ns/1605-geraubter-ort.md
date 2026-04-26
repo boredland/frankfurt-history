@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Arndtstraße 25](../../images/Arndtstras_974ded841f837d3368d51d76caabbbaa_original.jpg)
 *ca. 1910 — License: ISG | Description: Arndtstraße 25*
 

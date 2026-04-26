@@ -21,18 +21,21 @@ Leverkuser Straße 9
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Lotti_jpg_8e38986b7b9cc2ae50b912b4ed1e9ff5_original.jpg)
 *1925 — Author: Unbekannt | License: gemeinfrei*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Wohnhaus_j_1d13130466b5414b6371501c0cd4cced_original.jpg)
 *21.10.2025 — Author: Jasmin Dietz-Rumpf | License: gemeinfrei*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Familienbi_7a50f8222ab81afbe6aebc172baafac2_original.jpg)
 *1936 — Author: Unbekannt | License: gemeinfrei*
 

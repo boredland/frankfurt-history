@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Mainzer Landstraße 187-189](../../images/Mainzer-La_9b6102ace377318553998585792f46cd_original.jpg)
 *1933 — Author: Kühn & Olsson | License: ISG | Description: Mainzer Landstraße 187-189*
 

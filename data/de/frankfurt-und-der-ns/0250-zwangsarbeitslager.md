@@ -22,6 +22,7 @@ Hier befand sich die Felina Miederfabrik Greiling & Co. In ihr mussten 20 sowjet
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Vorderansicht und Schnitt des Geschäftshauses an der Mainzer Landstraße 218](../../images/5bedc7f9e3226cf47e20c7aef79106c7_original.jpg)
 *ca. 1906 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S8-2 Nr. 836-2 | Description: Vorderansicht und Schnitt des Geschäftshauses an der Mainzer Landstraße 218*
 

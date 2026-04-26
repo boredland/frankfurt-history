@@ -32,6 +32,7 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein für Nikolaus Kopp in der Mainzer Landstraße 137](../../images/stolperste_e48a88587c5f2729c50506d2d5bf453d_original.jpg)
 *unbekannt — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein für Nikolaus Kopp in der Mainzer Landstraße 137*
 

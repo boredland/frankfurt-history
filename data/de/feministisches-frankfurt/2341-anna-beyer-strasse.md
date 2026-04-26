@@ -23,6 +23,7 @@ In Frankfurt gibt es rund 3380 amtliche Straßennamen, darunter Straßen, Plätz
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Anna Beyer Straße](../../images/Anna%20Beyer_afeddb68b44aa8bf3f3bfc797034a15b_original.jpg)
 *20235 — Author: Sofia Schnitzler | License: HMF/Gemeinfrei | Description: Anna Beyer Straße*
 

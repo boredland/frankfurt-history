@@ -31,6 +31,7 @@ Quelle: Jörg Schilling, Klinik für Gemüts- und Nervenkranke, Frankfurt a. M. 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Northern facade with entrance to the mental hospital](../../images/191_els_m-_b413b00be3cf09a392543af6086e13c3_original.jpg)
 *1930s — Author: Unbekannt | License: Martin-Elsaesser-Stiftung / Architekturmuseum TU München | Description: Northern facade with entrance to the mental hospital*
 

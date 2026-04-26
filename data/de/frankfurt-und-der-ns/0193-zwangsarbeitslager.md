@@ -24,6 +24,7 @@ Die Firma Betten Brehler unterhielt am Domplatz 8 ein Lager für Zivilarbeiter*i
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Domplatz 8](../../images/C27974_jpg_0ccb0178e641afeceb55082684692659_original.jpg)
 *1932 — Author: Unbekannt | License: HMF, C27974 | Description: Zwangsarbeitslager, Domplatz 8*
 

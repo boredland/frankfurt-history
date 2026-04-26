@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Frankenallee 99](../../images/Frankenall_d5119509473acf08ba0040ac0c6e6b8c_original.jpg)
 *ca. 1928 — Author: unbekannt | License: ISG | Description: Frankenallee 99*
 

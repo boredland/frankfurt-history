@@ -21,6 +21,7 @@ Die heute in den USA berühmte Sexualtherapeutin Dr. Ruth K. Westheimer wurde am
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Hebelstr%201_c1e3361f7e8dedbc8680e64052036ddc_original.jpg)
 
 

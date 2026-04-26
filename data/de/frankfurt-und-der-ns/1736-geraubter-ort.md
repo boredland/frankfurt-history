@@ -25,6 +25,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Neckarstraße 15](../../images/Neckarstra_07b069ff152232a416441cd942bcce34_original.jpg)
 *1916 — Author: Briefkopf | License: ISG | Description: Neckarstraße 15*
 

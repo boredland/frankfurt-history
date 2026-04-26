@@ -24,6 +24,7 @@ Im ersten Stock befand sich die Vegetarische Gaststätte (VeGa), die von Anna Be
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ufa-Theater im Schwan mit Filmtransparent „Der Gasmann“](../../images/ns0558_jpg_8deda27bef7c3ddbf8b0b7d207e00d6d_original.jpg)
 *1941 — Author: unbekannt | License: DFF – Deutsches Filminstitut &amp; Filmmuseum, Frankfurt | Description: Ufa-Theater im Schwan mit Filmtransparent „Der Gasmann“*
 

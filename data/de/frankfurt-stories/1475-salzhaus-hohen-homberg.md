@@ -28,6 +28,7 @@ Auf Reiffensteins Zeichnung sind ein verziertes Erdgeschoss aus rotem Sandstein 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Salzhaus, Römerberg Nr. 27, Ecke Wedelgasse, Frontansicht, 1856, aquarellierte Bleistiftzeichnung, HMF R0649](../../images/R0649_png_dbced5522176299b9a12fb53e35bf455_original.jpg)
 *1856 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Salzhaus, Römerberg Nr. 27, Ecke Wedelgasse, Frontansicht, 1856, aquarellierte Bleistiftzeichnung, HMF R0649*
 

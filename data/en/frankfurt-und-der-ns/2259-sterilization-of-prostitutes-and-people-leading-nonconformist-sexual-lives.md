@@ -28,6 +28,7 @@ During the Weimar Republic, prostitutes and people leading nonconformist sexual 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The university psychiatric clinic. Photo: Otto Emmel, ca. 1931, HMF Ph35169.](../../images/c628295604_8cf0d4f2263789ba7988850702e7bda3_original.jpg)
 *ca. 1931 — Author: Otto Emmel | License: HMF Ph35169 | Description: The university psychiatric clinic. Photo: Otto Emmel, ca. 1931, HMF Ph35169.*
 

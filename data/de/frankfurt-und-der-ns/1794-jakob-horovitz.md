@@ -27,12 +27,14 @@ Die Erinnerung an ihn und seine Familie bleibt, denn nächstes Jahr (2025) werde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Jakob Horovitz](../../images/isg_ffm_s7_d775e14140845140bc80bc9ca6b698d8_original.jpg)
 *Über Hinweise zur/m Bildeigentümer/in sind wir dankbar! — License: ISG FFM S7P Nr. 6890 | Description: Jakob Horovitz*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Staufenstraße 33 (heute): Das Haus von Jakob Horovitz](../../images/Staufenstr_fc4d9a37545728a7cc9ee06815e2ef8d_original.jpg)
 *2024 — Author: Daniel Fricke | License: Evangelisch reformierte Gemeinde | Description: Staufenstraße 33 (heute): Das Haus von Jakob Horovitz*
 

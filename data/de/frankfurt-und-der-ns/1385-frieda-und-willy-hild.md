@@ -25,6 +25,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Willy Hild mit Kinoorchester Allemania, 5. v. links; L-000386](../../images/Hild_Willy_8a12b632168fb4beeec04e71de53328a_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Willy Hild mit Kinoorchester Allemania, 5. v. links; L-000386*
 

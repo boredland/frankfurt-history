@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Corneliusstraße 17](../../images/Corneliuss_9afd03dfa63c17effec7f67f788a76d3_original.jpg)
 *1880 — Author: A. Mayer | License: ISG | Description: Corneliusstraße 17*
 

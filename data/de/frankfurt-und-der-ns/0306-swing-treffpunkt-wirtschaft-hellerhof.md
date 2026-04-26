@@ -24,6 +24,7 @@ Im heutigen Restaurant Menzza, früher Restaurant oder Gaststätte Hellerhof, tr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schneidhainer Straße 17](../../images/d615954355e0da2f82ff23c0718c31c5_original.jpg)
 *1931 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-12240 | Description: Schneidhainer Straße 17*
 

@@ -27,6 +27,7 @@ After many years of dedicated work, the IMH dissolved in 2025. Further informati
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The memorial to the persecution and criminalisation of homosexuals, designed by Rosemarie Trockel, has stood on Klaus-Mann-Platz in Frankfurt city centre since 1994.](../../images/frankfurte_04e14809b96ace27f46307b777c45417_original.jpg)
 *Author: Axel Schneider | License: IMH / Axel Schneider – www.frankfurter-engel.de | Description: The memorial to the persecution and criminalisation of homosexuals, designed by Rosemarie Trockel, has stood on Klaus-Mann-Platz in Frankfurt city centre since 1994.*
 

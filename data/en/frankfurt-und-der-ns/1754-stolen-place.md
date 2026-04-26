@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schaumainkai 55](../../images/Schaumaink_c3a2406c50a91fc98f6e3a327466d180_original.jpg)
 *1935 — Author: Hannah Reeck | License: ISG | Description: Schaumainkai 55*
 

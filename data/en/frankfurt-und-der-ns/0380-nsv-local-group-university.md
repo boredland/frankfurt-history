@@ -26,6 +26,7 @@ The address Mertonstraße (today renamed again) was renamed Universitätsstraße
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Placeholder image](../../images/Hier%20fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
 *License: HMF*
 

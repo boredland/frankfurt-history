@@ -26,6 +26,7 @@ From 1860, the Junghof was cleared for a new connecting road between the Rossmar
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Junghof, bird view from west to east, 1862, watercolored pencil drawing, HMF R0148](../../images/R0148_png_47c9fefb51f3677c4a351a6d6d586c50_original.jpg)
 *1862 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Junghof, bird view from west to east, 1862, watercolored pencil drawing, HMF R0148*
 

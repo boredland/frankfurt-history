@@ -22,6 +22,7 @@ Die Firma Baustoffe G. Hoffmann mit Sitz in der Kaiserstraße 39 profitierte von
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Kaiserstraße 39](../../images/42548a8c791f51756facd57b505ed517_original.jpg)
 *1909 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-11821 | Description: Zwangsarbeitslager, Kaiserstraße 39*
 

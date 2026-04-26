@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bornheimer Landwehr 77](../../images/Bornheimer_048f2b7cce8baaf0e9367513e7bc098d_original.jpg)
 *License: ISG | Description: Bornheimer Landwehr 77*
 

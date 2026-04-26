@@ -25,6 +25,7 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Portrait of Ludwig Eichhorn; M-000857](../../images/Eichhorn_L_934311af897dc9f8d70b17563d7ee439_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Portrait of Ludwig Eichhorn; M-000857*
 

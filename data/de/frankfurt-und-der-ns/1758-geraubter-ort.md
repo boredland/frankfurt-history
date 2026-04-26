@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Schützenstraße 14](../../images/Schuetzens_a5fb3b6c58d34640210100e7778ae717_original.jpg)
 *1932 — Author: Leonhard Kleemann | License: HMF | Description: Schützenstraße 14*
 

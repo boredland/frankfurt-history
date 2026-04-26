@@ -23,6 +23,7 @@ At a young age, she decided to pursue an independent life as an artist. She work
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/B%20%201549_jp_e54de89a8013243b3f27c4219da95adf_original.jpg)
 *Author: Emil Dielmann | License: HMF*
 

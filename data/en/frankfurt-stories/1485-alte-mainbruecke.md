@@ -29,6 +29,7 @@ The original bridge was regularly damaged by high water and ice from the frozen 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, view of the Old Bridge and Sachsenhausen from the west, 1850/1872, watercolored pencil drawing, HMF RS0004](../../images/RS0004_png_08b696435e26381ea45a7e658477b2b9_original.jpg)
 *1850/1872 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view of the Old Bridge and Sachsenhausen from the west, 1850/1872, watercolored pencil drawing, HMF RS0004*
 

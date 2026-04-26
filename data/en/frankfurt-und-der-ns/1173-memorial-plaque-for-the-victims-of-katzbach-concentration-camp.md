@@ -28,6 +28,7 @@ The commemorative plaque was mounted in the 1990s on the initiative of the works
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The memorial plaque for the prisoners of the Katzbach concentration camp.](../../images/Altmeyer%2C%20_8ec8ec661cf474915928965687bb3beb_original.jpg)
 *2023 — Author: Thomas Altmeyer | License: gemeinfrei | Description: The memorial plaque for the prisoners of the Katzbach concentration camp.*
 

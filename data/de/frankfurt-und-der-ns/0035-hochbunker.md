@@ -27,6 +27,7 @@ Bauunternehmen: Dykerhoff und Widmann KG (Dywidag), Wiesbaden.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Hadrianstraße](../../images/1c8f5bcd6903858a2ca6d3798b2a9b18_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Hadrianstraße*
 

@@ -25,6 +25,7 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Portrait of Martin Bertram, M-000473](../../images/Bertram_%20M_38d9d91bb679cf19c0906abfe37e8d29_original.jpg)
 *1920s — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Portrait of Martin Bertram, M-000473*
 

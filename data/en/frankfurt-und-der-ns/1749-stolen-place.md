@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Reuterweg 49](../../images/Reuterweg-_d5b7baf4ed9dd8dfd99c49ee53f50806_original.jpg)
 *1939 — Author: Georg Krauss | License: ISG | Description: Reuterweg 49*
 

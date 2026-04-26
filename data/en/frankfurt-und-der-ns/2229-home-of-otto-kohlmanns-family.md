@@ -20,6 +20,7 @@ filters:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Otto Kohlmann and her family lived here from 1913 until at least 1934. Photo: Frauke Steinhäuser, Frankfurt, 2025.](../../images/ro%E2%94%9C%C6%92dor_61891274b4c760de4506c2889549e265_original.jpg)
 *2025 — Author: Frauke Steinhäuser | License: CC:BY-NC 4.0 | Description: Otto Kohlmann and her family lived here from 1913 until at least 1934. Photo: Frauke Steinhäuser, Frankfurt, 2025.*
 

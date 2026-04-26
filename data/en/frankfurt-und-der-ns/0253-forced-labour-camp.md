@@ -22,6 +22,7 @@ The property had originally belonged to Rosa Hirschmann, née Ambach, who had to
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of Melemstrasse 7](../../images/d9b92bd16cc0bf840202c463cd4059fe_original.jpg)
 *ca. 1925 — Author: Hofmann & Müller | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 5527 | Description: View of Melemstrasse 7*
 

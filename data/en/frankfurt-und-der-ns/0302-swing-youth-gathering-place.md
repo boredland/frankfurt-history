@@ -24,6 +24,7 @@ The Bayernhof, also called the Lippmann after Wilhelm Lippmann, who ran it, was 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Black-and-white drawing with ink and foil pencil of a dancing couple inside a bar](../../images/6cc229e585670999cbfe2083b0b1ee34_original.jpg)
 *2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Black-and-white drawing with ink and foil pencil of a dancing couple inside a bar*
 

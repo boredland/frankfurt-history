@@ -18,6 +18,7 @@ It is said that some of the streetcar drivers were against the National Socialis
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Streetcar depot at Schwabstraße 18](../../images/Stra%C3%9Fenba_9db54103a6b3aa903db3d3fa8c29cd82_original.jpg)
 *2023 — Description: Streetcar depot at Schwabstraße 18*
 

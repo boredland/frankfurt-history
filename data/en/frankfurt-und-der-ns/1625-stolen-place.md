@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Brückenstraße 26](../../images/Brueckenst_92fa9886dba5479c80d83d5fdcd2e68c_original.jpg)
 *before 1941 — Author: Otto Emmel | License: HMF | Description: Brückenstraße 26*
 

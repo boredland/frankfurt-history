@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Beethovenstraße 18](../../images/Beethovens_0cde36f47bd45c7c3af40c6a14577810_original.jpg)
 *License: ISG | Description: Beethovenstraße 18*
 

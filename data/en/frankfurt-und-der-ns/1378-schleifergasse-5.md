@@ -17,6 +17,7 @@ Here you will find different perspectives on the place.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Schleifergasse](../../images/b59f1810392ceed5ff7fa2e2966791ca_original.jpg)
 *n.d. — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Schleifergasse*
 

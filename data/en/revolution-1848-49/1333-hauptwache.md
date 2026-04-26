@@ -25,6 +25,7 @@ The German Confederation, an organisation of 39 German states, reacted with a se
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Color lithograph depicting the exchange of fire between attackers and defenders of the Hauptwache](../../images/06%20Wachens_d1dcac4927da3618bb30e64466be8847_original.jpg)
 *ca. 1833 — Author: Francois Georgin | License: Institut für Stadtgeschichte, Frankfurt Best. S7Z Nr. 1833-2 | Description: Color lithograph depicting the exchange of fire between attackers and defenders of the Hauptwache*
 

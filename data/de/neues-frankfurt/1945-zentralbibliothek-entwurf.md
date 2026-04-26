@@ -35,6 +35,7 @@ www.martin-elsaesser.de/projekte/zentralbibliothek-in-frankfurt-am-main/
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zeichnung der Straßenansicht.](../../images/Zentralbib_7cf47711c554520bb6dfb8ba336e11c3_original.jpg)
 *1929 — Author: Martin Elsaesser | License: Martin Elsaesser: Bauten und Entwürfe aus den Jahren 1924–1932, Berlin 1933, S. 329. | Description: Zeichnung der Straßenansicht.*
 

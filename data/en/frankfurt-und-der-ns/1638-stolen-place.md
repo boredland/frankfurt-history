@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Fahrgasse 36](../../images/Fahrgasse-_2b6e795bfef249bfe32fd166365882ce_original.jpg)
 *ca. 1940 — Author: unbekannt | License: ISG | Description: Fahrgasse 36*
 

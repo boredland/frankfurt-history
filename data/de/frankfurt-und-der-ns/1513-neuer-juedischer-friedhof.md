@@ -23,6 +23,7 @@ Hier erinnern 800 Grabsteine am Hauptweg an Menschen, die sich während der NS-Z
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Hauptpfad auf dem Neuen Jüdischen Friedhof](../../images/Neuer%20J%C3%BCd_212ac3dba3be05f8a6a7b01b39bf1e47_original.jpg)
 *2023 — Description: Hauptpfad auf dem Neuen Jüdischen Friedhof*
 

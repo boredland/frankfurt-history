@@ -24,6 +24,7 @@ According to one report:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the station building at Frankfurt Central Railway Station](../../images/a1d39718701a7832716493eab9a26074_original.jpg)
 *1937 — Author: Wolff & Tritschler | License: HMF Ph04243 | Description: Photo of the station building at Frankfurt Central Railway Station*
 

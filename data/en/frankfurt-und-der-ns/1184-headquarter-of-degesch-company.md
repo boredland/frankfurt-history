@@ -23,6 +23,7 @@ The DeGeSch company had its headquarters in this building from 1920 until the bo
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Placeholder image](../../images/Hier%20fehlt_dfdc6d631f271e842082099187aa5623_original.jpg)
 *License: HMF*
 

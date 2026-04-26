@@ -22,6 +22,7 @@ Starting in 1875, this was the site of one of the first and most modern children
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard of the Clementine Children's Hospital](../../images/C80395_jpg_6ef7e7c72899f209502322e5d38cfdf6_original.jpg)
 *ca. 1900 — Author: unbekannt | License: HMF, Sammlung Church C80395 | Description: Picture postcard of the Clementine Children's Hospital*
 

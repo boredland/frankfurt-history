@@ -25,6 +25,7 @@ Alongside Jacob S. H. Stern, Lazard Speyer-Ellisen was the second private bank i
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The building at Neue Mainzer Strasse 23 was the headquarters of Lazard Speyer-Ellisen until 1908, when the bank moved to Taunusanlage 11.](../../images/798978ffee_a29ca314d93d9d3322f69ed2ceb9e027_original.jpg)
 *Author: unbekannt | License: HMF.C16681. | Description: The building at Neue Mainzer Strasse 23 was the headquarters of Lazard Speyer-Ellisen until 1908, when the bank moved to Taunusanlage 11.*
 

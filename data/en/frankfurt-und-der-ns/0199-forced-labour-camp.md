@@ -21,6 +21,7 @@ The gardening company Friedrich Sinai operated a forced labor camp on its premis
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with large nursery Friedrich Sinai](../../images/C80380%2B001_471dc3657337c3dd7e24a63373cbb326_original.jpg)
 *n. d. — Author: Postkartensammlung Church | License: HMF / Sammlung Church C80380 | Description: Picture postcard with large nursery Friedrich Sinai*
 

@@ -27,6 +27,7 @@ In 1945, she fled from Dresden to Frankfurt and worked for the postwar cabaret S
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Portrait%20A_c9caea380ed2ac0f39a536dd2bf74d5a_original.jpg)
 *Author: Unbekannt | License: Archiv Frauen und Musik*
 

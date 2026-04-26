@@ -25,6 +25,7 @@ The Adler-Werke (formerly Heinrich Kleyer) was a leading manufacturer of engines
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with the Allgemeine Elektricitäts-Gesellschaft](../../images/4dcf5d61dc8b0a013859066c4ceedced_original.jpg)
 *n.d. — Author: unbekannt | License: HMF, Sammlung Church, C80376 | Description: Picture postcard with the Allgemeine Elektricitäts-Gesellschaft*
 

@@ -23,6 +23,7 @@ Zeil 97 was the site of a department store belonging to the Hermann Wronker comp
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a Hermann Wronker AG department store located on Zeil](../../images/49587b41df234c13fd7eb18cf076105a_original.jpg)
 *ca. 1940 — Author: Stuhl | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-10243 | Description: Photo of a Hermann Wronker AG department store located on Zeil*
 

@@ -21,6 +21,7 @@ The video was created as part of the project "What's May 8 to me? Five senior cl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/BOERNEPLAT_69dd83e3d21901466eacc2a47d59c2cb_original.jpg)
 
 ![Postcard "What do I care about May 8?"](../../images/f967409822649b04ce90c064391de946_original.jpg)

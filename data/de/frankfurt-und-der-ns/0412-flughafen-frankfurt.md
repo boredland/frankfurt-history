@@ -19,6 +19,7 @@ Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Flughafen](../../images/5505d438d6f4dd81ff9181dfe8869624_original.jpg)
 *1936 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 3831 | Description: Zwangsarbeitslager, Flughafen*
 

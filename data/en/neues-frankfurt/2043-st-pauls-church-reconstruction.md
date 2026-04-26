@@ -25,6 +25,7 @@ Further reading: https://www.martin-elsaesser.de/projekte/wiederaufbau-paulskirc
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Drawing of the eastern view.](../../images/244_els_m-_6f4d4ccee20cdc5db45a8ec59eff9746_original.jpg)
 *1946 — Author: Martin Elsaesser | License: Martin-Elsaesser-Stiftung / Architekturmuseum TU München | Description: Drawing of the eastern view.*
 

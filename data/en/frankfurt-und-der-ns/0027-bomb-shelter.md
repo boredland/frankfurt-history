@@ -27,6 +27,7 @@ Construction company: Züblin AG
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located at Engelsplatz](../../images/b7afdaaea4579e376f65e211c1e2d634_original.jpg)
 *2014 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located at Engelsplatz*
 

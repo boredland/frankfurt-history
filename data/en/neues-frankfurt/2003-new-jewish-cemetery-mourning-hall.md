@@ -31,6 +31,7 @@ Further reading: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. F
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the mourning hall](../../images/C28083_001_1443b303dad3e71c050a4cb97908ef36_original.jpg)
 *Unknown — Author: Hermann Collischonn | License: Historisches Museum Frankfurt | Description: View of the mourning hall*
 

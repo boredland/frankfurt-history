@@ -35,6 +35,7 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein für Elias Oppenheimer in der Wöhlerstraße 6](../../images/stolperst__86b00440db6bb79189f9ff3cdc05e4b6_original.jpg)
 *unbekannt — Author: Initiative Stolpersteine Frankfurt am Main | License: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein für Elias Oppenheimer in der Wöhlerstraße 6*
 

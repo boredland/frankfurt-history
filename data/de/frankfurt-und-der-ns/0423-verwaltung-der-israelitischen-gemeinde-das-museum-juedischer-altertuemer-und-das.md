@@ -31,6 +31,7 @@ An dieser Stelle befand sich das Museum Jüdischer Altertümer. Es wurde 1922 im
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Fahrgasse 146](../../images/1ad3e4b62313ee098fa086edb8747783_original.jpg)
 *ca. 1900 — Author: unbekannt | License: HMF, Ph00758 | Description: Fahrgasse 146*
 

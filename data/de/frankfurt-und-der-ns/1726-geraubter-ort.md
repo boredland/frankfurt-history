@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Marbachweg 318](../../images/Marbachweg_6c8072609c806659853103017b1385d8_original.jpg)
 *ca. 1928 — Author: unbekannt | License: ISG | Description: Marbachweg 318*
 

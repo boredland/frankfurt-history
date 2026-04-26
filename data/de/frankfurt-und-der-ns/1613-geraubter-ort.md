@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bockenheimer Anlage 40](../../images/Bockenheim_2fbb9b593d546d2249d2fabf0084d49e_original.jpg)
 *Author: Leonhard Kleemann | License: HMF | Description: Bockenheimer Anlage 40*
 

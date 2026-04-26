@@ -26,6 +26,7 @@ Alfred Feist-Belmont, the manager of the family-run Feist & Bellmont’sche spar
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor company, Hainer Weg 37-53](../../images/8f98adc6357dd82abc258b26c45486d5_original.jpg)
 *1933 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29360 | Description: Forced labor company, Hainer Weg 37-53*
 

@@ -23,6 +23,7 @@ Die trans* Person W. Heinrich wurde hier im Alter von 16 Jahren im März 1925 au
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftaufnahme der Städtischen Heilanstalt aus dem Fotoalbum der Familie Kleist "Erinnerung an die Psychiatrische u. Nervenklinik". HMF Hoff1066_011.](../../images/Hoff1066_0_63e2abe12d4b809fddc666c6f36ca562_original.jpg)
 *1900-1930 — Author: unbekannt | License: Historisches Museum Frankfurt | Description: Luftaufnahme der Städtischen Heilanstalt aus dem Fotoalbum der Familie Kleist "Erinnerung an die Psychiatrische u. Nervenklinik". HMF Hoff1066_011.*
 

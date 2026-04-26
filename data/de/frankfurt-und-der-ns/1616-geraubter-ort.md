@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bockenheimer Landstraße 114](../../images/Bockenheim_c11bf80b4f420d00cb4d0ecdd78cbc01_original.jpg)
 *Author: Hedwig Loy | License: HMF | Description: Bockenheimer Landstraße 114*
 

@@ -24,6 +24,7 @@ Im Mai und Juni 1933 betrieb die gewaltbereite Sturmabteilung (SA) der Nationals
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kaserne Höchst, Westeingang.](../../images/isg_ffm_s7_b5b258d8c49ef1bac2074fcdd8d40f45_original.jpg)
 *1923 — Author: Unbekannt | License: Institut für Stadtgeschichte, Sig. S7A, 1998-22802 | Description: Kaserne Höchst, Westeingang.*
 

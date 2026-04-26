@@ -16,5 +16,6 @@ Here you will find different perspectives on the place.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/218d2de3ece38b1f5e4ecfc22dd4ec21_original.jpg)
 

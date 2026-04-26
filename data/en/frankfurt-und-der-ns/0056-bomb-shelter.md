@@ -27,6 +27,7 @@ Construction company: Wayss & Freytag AG, Frankfurt
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Rendeler Straße](../../images/9a60612a635b1433b3c9b997797071f5_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Rendeler Straße*
 

@@ -24,6 +24,7 @@ The German Reich Post Office headquartered at Hohenzollernanlage 60–64 (now Fr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Friedrich-Ebert-Anlage 60-64](../../images/b7216e1bf4322629411b1d65b34a213e_original.jpg)
 *before 1920 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 00579-8 | Description: Forced labor camp, Friedrich-Ebert-Anlage 60-64*
 

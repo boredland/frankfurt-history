@@ -20,6 +20,7 @@ The video was created as part of the project "What's May 8 to me? Five senior cl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/isg_ffm_s7_ffaba6401ddc08c70d39dd7714b8a144_original.jpg)
 
 ![Postcard "What do I care about May 8?"](../../images/f967409822649b04ce90c064391de946_original.jpg)

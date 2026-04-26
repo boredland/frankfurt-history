@@ -24,6 +24,7 @@ The Old Jewish Cemetery is the second oldest of its kind in Germany. In 1836, Re
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, old Judenkirchhof, old entrance from the outside, 1853, watercolored pencil drawing, HMF R0289](../../images/R0289_png_c731b54722b46a2ec4fb458f981755c1_original.jpg)
 *1853 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, old Judenkirchhof, old entrance from the outside, 1853, watercolored pencil drawing, HMF R0289*
 

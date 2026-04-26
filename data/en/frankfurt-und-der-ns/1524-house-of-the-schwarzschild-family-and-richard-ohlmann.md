@@ -23,6 +23,7 @@ Richard Ohlmann also lived in the same house. He was deported to Theresienstadt 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Eckenheimer Landstraße 307](../../images/Eckenheime_0a10c4563bd2dd35dbcb7fb729608742_original.jpg)
 *2023 — Description: Eckenheimer Landstraße 307*
 

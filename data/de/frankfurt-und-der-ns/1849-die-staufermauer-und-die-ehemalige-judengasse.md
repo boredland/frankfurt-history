@@ -21,6 +21,7 @@ Die Staufermauer in der Fahrgasse in Frankfurt am Main ist ein Rest der Stadtbef
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ein Stück der Stadtmauer Staufermauer aus dem 12. Jahrhundert. Teile der Mauer sind heute noch in der Fahrgasse in Frankfurt erhalten.](../../images/Staufermau_b0c48c0ec79c9efb2f9134ef90252a89_original.jpg)
 *2024 — Author: Aliah Habl Corona | License: gemeinfrei | Description: Ein Stück der Stadtmauer Staufermauer aus dem 12. Jahrhundert. Teile der Mauer sind heute noch in der Fahrgasse in Frankfurt erhalten.*
 

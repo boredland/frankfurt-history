@@ -21,6 +21,7 @@ A few metres further on, the gay and lesbian traffic light couples greet passers
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Traffic light recording – green](../../images/Ampel1_jpg_815f43663f16ec967f0a4df083c7b1b2_original.jpg)
 *unknown — Author: Unbekannt | License: LIBS e.V. | Description: Traffic light recording – green*
 

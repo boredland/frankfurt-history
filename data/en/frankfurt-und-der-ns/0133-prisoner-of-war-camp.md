@@ -24,6 +24,7 @@ After the war began, all factories adapted their production to the needs of the 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with exterior view of the inn “Zum Löwen”](../../images/04b963907928821cbca9c50a0297bcf2_original.jpg)
 *ca. 1900 — Author: unbekannt | License: HMF / Sammlung Church C80413 | Description: Picture postcard with exterior view of the inn “Zum Löwen”*
 

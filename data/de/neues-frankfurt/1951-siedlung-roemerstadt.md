@@ -32,6 +32,7 @@ Quelle: Julius Reinsberg: Siedlung Römerstadt. In: Neuer Mensch, Neue Wohnung. 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftaufnahme der gesamten Siedlung](../../images/Roemerstad_2d7d938609f499fbb1114d6e795d7900_original.jpg)
 *um 1928 — Author: Verlag W. Müller | License: ernst-may-gesellschaft e.V. | Description: Luftaufnahme der gesamten Siedlung*
 

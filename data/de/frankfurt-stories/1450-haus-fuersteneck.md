@@ -28,6 +28,7 @@ Das Haus besaß ein prächtiges Hauptzimmer mit einer Holzvertäfelung und Stuck
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Haus Fürsteneck (rekonstruierter Zustand vor dem Umbau), 1854, aquarellierte Bleistiftzeichnung, HMF R0330](../../images/R0330_png_16cd4b2b08ba45010cca892e7dd786d6_original.jpg)
 *1854 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Haus Fürsteneck (rekonstruierter Zustand vor dem Umbau), 1854, aquarellierte Bleistiftzeichnung, HMF R0330*
 

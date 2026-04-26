@@ -25,6 +25,7 @@ Bis 2021 sind 30 Stolpersteine für diese Opfergruppe in Frankfurt verlegt worde
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Porträt von Marie Schättle; M-002814](../../images/Scha%CC%88ttle_dee62e285e2582d611b7e64be16ce9a2_original.jpg)
 *License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Porträt von Marie Schättle; M-002814*
 

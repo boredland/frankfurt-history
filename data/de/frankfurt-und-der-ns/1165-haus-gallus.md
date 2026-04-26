@@ -28,6 +28,7 @@ Von April 1964 bis August 1965 fand im Haus Gallus der erste Frankfurter Auschwi
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zum 30. Jah­res­tag des Pro­zes­ses wurde 1993 die von Mich­ael Sander gestal­tete Tafel außen am Saalbau Gallus angebracht.](../../images/isg_gt_aus_f99c762b361abc1e5dd7e1a6235950fc_original.jpg)
 *Author: © Institut für Stadtgeschichte | Description: Zum 30. Jah­res­tag des Pro­zes­ses wurde 1993 die von Mich­ael Sander gestal­tete Tafel außen am Saalbau Gallus angebracht.*
 

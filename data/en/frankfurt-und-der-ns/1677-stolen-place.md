@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard as a receipt and advertising card for the company S.Wronker &amp; Co.](../../images/Hasengasse_4cb7a999b29d5b9e886acd3ab27f3142_original.jpg)
 *1898 — Author: Postkartensammlung Church | License: HMF | Description: Picture postcard as a receipt and advertising card for the company S.Wronker &amp; Co.*
 

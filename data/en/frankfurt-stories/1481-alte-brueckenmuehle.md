@@ -28,6 +28,7 @@ The old Bridge Mill was ultimately demolished in 1852. The architecture of the 2
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, the Müllermain in Sachsenhausen seen from the Alte Brücke, 1837/1866, watercolored pencil drawing, HMF RS0005](../../images/RS0005_png_92829776a3efc30665eff5f9632cbe45_original.jpg)
 *1837/1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, the Müllermain in Sachsenhausen seen from the Alte Brücke, 1837/1866, watercolored pencil drawing, HMF RS0005*
 

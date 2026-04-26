@@ -75,6 +75,7 @@ Further reading: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. F
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of the residential neighbourhood Hügelstraße.](../../images/isg_ffm_s7_59216d80099853dc38a52c3a14e4d6c6_original.jpg)
 *June 1929 — Author: Hugo Junkers Luftbild | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Aerial view of the residential neighbourhood Hügelstraße.*
 

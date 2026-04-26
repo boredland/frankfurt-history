@@ -23,6 +23,7 @@ The Deutsche Reichsbahn (German Reich Railway) operated a forced labour camp for
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard with Nied station](../../images/7542f78183e90a9579b19b0a660e574d_original.jpg)
 *n.d. — Author: unbekannt | License: HMF / Sammlung Church C80388 | Description: Picture postcard with Nied station*
 

@@ -27,6 +27,7 @@ Die oberen Stockwerke dienten als städtische Fruchtspeicher, hier war im 19. Ja
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Stadtwaage und Dom, 1837/1870, aquarellierte Bleistiftzeichnung, HMF R0370](../../images/R0370_png_30c4abe5ab47dfcb5c9a8e9ec97bd95c_original.jpg)
 *1837/1870 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Stadtwaage und Dom, 1837/1870, aquarellierte Bleistiftzeichnung, HMF R0370*
 

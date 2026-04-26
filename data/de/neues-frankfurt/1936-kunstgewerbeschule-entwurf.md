@@ -33,6 +33,7 @@ Thomas Elsässer, Christina Gräwe, Jörg Schilling, Peter Cachola Schmal: Marti
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Isometrische Zeichnung des Gebäudeentwurfs](../../images/Kunstgewer_f81ee0496916bf83b926494a9643d4d8_original.jpg)
 *1926/1927 — Author: Martin Elsaesse | License: Martin Elsaesser: Bauten und Entwürfe aus den Jahren 1924–1932, Berlin 1933 | Description: Isometrische Zeichnung des Gebäudeentwurfs*
 

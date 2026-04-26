@@ -29,6 +29,7 @@ After the Second World War, only the stone façades and ground floors of the med
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Römer, door with iron grille on the Kaisertreppe (today the staircase to the wedding hall), 1865, watercolored pencil drawing, HMF R0542](../../images/R0542_png_c797a12ecbbed0c7d00cf41b0c769952_original.jpg)
 *1865 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Römer, door with iron grille on the Kaisertreppe (today the staircase to the wedding hall), 1865, watercolored pencil drawing, HMF R0542*
 

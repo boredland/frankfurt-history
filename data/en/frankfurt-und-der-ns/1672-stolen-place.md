@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Hanauer Landstraße 12](../../images/Hanauer-La_e8a377e4bb75a348948ebb57bb33361b_original.jpg)
 *1930 — Author: P. Körbitz | License: ISG | Description: Hanauer Landstraße 12*
 

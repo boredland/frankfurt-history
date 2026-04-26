@@ -35,6 +35,7 @@ Lutz Mohnhaupt: Die Friedrich-Ebert-Siedlung. In: Geschichtswerkstatt Gallus (ed
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of the housing estate.](../../images/isg_ffm_s7_6328420e9aff31f3982f3d45395ff3aa_original.jpg)
 *around 1939 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Aerial view of the housing estate.*
 

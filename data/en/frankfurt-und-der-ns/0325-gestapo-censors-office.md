@@ -24,6 +24,7 @@ In 1941, the Gestapo set up a centre in the Herder School building to inspect pr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the Herder School, which was used by the Gestapo as a printing inspection centre and by the Naxos Union as a forced labour camp](../../images/ac82349e652016e9ccbaf0329d042145_original.jpg)
 *1929 — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 705 | Description: Photo of the Herder School, which was used by the Gestapo as a printing inspection centre and by the Naxos Union as a forced labour camp*
 

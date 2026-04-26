@@ -31,6 +31,7 @@ Edgar Bönisch, Joseph und Hannchen May’sche Stiftung für Kranke und Hilfsbed
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Street view of Siechenhaus Rödelheim](../../images/419-024-00_1e2349132009be38c19d930ee41ba088_original.jpg)
 *after 1930 — Author: Albert Roth | License: Deutsches Architekturmuseum, Frankfurt am Main | Description: Street view of Siechenhaus Rödelheim*
 

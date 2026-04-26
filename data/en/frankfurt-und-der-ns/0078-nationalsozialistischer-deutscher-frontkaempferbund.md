@@ -24,6 +24,7 @@ Gartenstrasse 11 was the location of the Sachsenhausen branch of the National So
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Front elevation of Gartenstraße 109-111, loca­tion of the Sachsen­hau­sen branch of the Natio­nal Socialist German Vete­rans’ League](../../images/6af0bd1e6ac1bc65a56acab59da798ed_original.jpg)
 *1912 — Author: Max Stapf und August Haenlein | License: Institut für Stadtgeschichte, Frankfurt Best. S8-1 Nr. 5494 | Description: Front elevation of Gartenstraße 109-111, loca­tion of the Sachsen­hau­sen branch of the Natio­nal Socialist German Vete­rans’ League*
 

@@ -27,6 +27,7 @@ The Pfingstweide demonstration ended by urging those protesters from places outs
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Colored wood engraving: Workers and gymnasts with their club flags crowd around the speaker's platform on the Pfingstweide.](../../images/Route%203%2C%20S_ec98624f7485ea4a4dc2e1e3764bd424_original.jpg)
 *1848 — Author: P. C. Geissler | License: HMF  C 10169 | Description: Colored wood engraving: Workers and gymnasts with their club flags crowd around the speaker's platform on the Pfingstweide.*
 

@@ -35,6 +35,7 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Straßenansicht des Gewerkschaftshauses.](../../images/isg_ffm_s7_0038fcd1dc1a8b9fbdb89a13dd5b142d_original.jpg)
 *um 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Straßenansicht des Gewerkschaftshauses.*
 

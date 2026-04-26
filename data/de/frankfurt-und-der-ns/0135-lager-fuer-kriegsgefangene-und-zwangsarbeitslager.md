@@ -24,6 +24,7 @@ Seit Frühsommer 1940 betrieben die Gaswerke West der Main Gaswerke AG auf dem W
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lager für Kriegsgefangene und Zwangsarbeitslager](../../images/bd5cbff96ae7170337f421006398e611_original.jpg)
 *ca. 1925 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19799 | Description: Lager für Kriegsgefangene und Zwangsarbeitslager*
 

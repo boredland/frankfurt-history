@@ -29,6 +29,7 @@ In 1907, the Bürgerhospital moved into a new build on Nibelungenallee. Parts of
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76, inner courtyard, 1866, watercolored pencil drawing, HMF R0830](../../images/R0830_png_002536a73b21776cbbec605f7c87b1d3_original.jpg)
 *1866 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Senckenberg House, Große Eschenheimerstraße no. 76, inner courtyard, 1866, watercolored pencil drawing, HMF R0830*
 

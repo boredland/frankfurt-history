@@ -25,6 +25,7 @@ Der Musterkleingarten der ernst-may-gesellschaft wird von einem Team ehrenamtlic
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Historische Ansicht der Kleingartenanlage im Osten der Römerstadt mit typisierten Gärten und Lauben.](../../images/isg_ffm_s7_827ac9bc21a43ba61c891a1ba59e9b76_original.jpg)
 *um 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Historische Ansicht der Kleingartenanlage im Osten der Römerstadt mit typisierten Gärten und Lauben.*
 

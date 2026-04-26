@@ -24,6 +24,7 @@ Father Alois Eckert (1890–1969) was the priest of the Catholic Church of St Be
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of St. Bernhard Church](../../images/6725708e581821b2f4d138f90d8816c0_original.jpg)
 *before 1945 — Author: unbekannt | License: HMF C26535 | Description: Photo of St. Bernhard Church*
 

@@ -24,6 +24,7 @@ The Heinrich Wörner company, a manufacturer of precision turned parts, operated
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a machine hall of the Heinrich Wörner company, which operated its own forced labour camp on its premises at Vilbeler Landstraße 7](../../images/5eeee577ca6c4409c906b787af84212f_original.jpg)
 *n.d. — Author: Max Göllner | License: HMF Z.2005Göllner000007 | Description: Photo of a machine hall of the Heinrich Wörner company, which operated its own forced labour camp on its premises at Vilbeler Landstraße 7*
 

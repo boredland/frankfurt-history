@@ -24,6 +24,7 @@ Under National Socialism, the Bünte & Remmler light fixture factory profited fr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor company, Lahnstraße 60](../../images/ef84134cf98d09ba93673eb5a96addd6_original.jpg)
 *1914 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-29221 | Description: Forced labor company, Lahnstraße 60*
 

@@ -27,6 +27,7 @@ Entworfen wurde die Großmarkthalle Mitte der 1920er-Jahre von dem Architekten M
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle](../../images/d440d389c1a093da0375a32f84361d17_original.jpg)
 *o.D. — Author: Norbert Miguletz | Description: Foto der Erinnerungsstätte an der Frankfurter Großmarkthalle*
 

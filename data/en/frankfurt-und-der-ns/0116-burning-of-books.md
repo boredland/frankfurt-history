@@ -33,6 +33,7 @@ The people around me moved away from me, no-one said anything, icy silence. Mayb
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Painting depicting the book burning on the Römerberg, oil on canvas](../../images/B1614_jpg_c2c481455aee1ae5e47def229dacefa3_original.jpg)
 *1933 — Author: Heinz Woelcke | License: HMF B1614 | Description: Painting depicting the book burning on the Römerberg, oil on canvas*
 

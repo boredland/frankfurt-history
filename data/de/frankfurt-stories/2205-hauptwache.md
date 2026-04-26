@@ -42,12 +42,14 @@ Im Oktober 1968 feierte die Stadt Frankfurt die Eröffnung der U-Bahnlinie A1, w
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Friedrich Mylius (1827-1916), Schillerplatz an der Hauptwache mit wartenden Pferde-Droschken, Frankfurt um 1865, HMF.C19977, gemeinfrei](../../images/C19977_001_62041c7e00e7d64fcd325e5166273db3_original.jpg)
 *Um 1865 — Author: Carl Friedrich Mylius | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Carl Friedrich Mylius (1827-1916), Schillerplatz an der Hauptwache mit wartenden Pferde-Droschken, Frankfurt um 1865, HMF.C19977, gemeinfrei*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Hertel (1832-1906), Pferdetrambahn auf der Zeil von der Hauptwache kommend, Frankfurt, HMF.C29106, gemeinfrei](../../images/C29106_001_bc5393a3870030ecc87ede598da2a58c_original.jpg)
 *Um 1880 — Author: Carl Hertel | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Carl Hertel (1832-1906), Pferdetrambahn auf der Zeil von der Hauptwache kommend, Frankfurt, HMF.C29106, gemeinfrei*
 
@@ -57,6 +59,7 @@ Im Oktober 1968 feierte die Stadt Frankfurt die Eröffnung der U-Bahnlinie A1, w
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Walter Schmidt, Haltestelle Hauptwache mit der Straßenbahnlinie 24 Richtung Oberursel, Frankfurt um 1913, HMF.C25939c, gemeinfrei](../../images/C25939c_00_bc2d4c5b008d3b3249c256f00c683cac_original.jpg)
 *Um 1913 — Author: Walter Schmidt | License: Gemeinfrei; HMF, Foto: Horst Ziegenfusz | Description: Walter Schmidt, Haltestelle Hauptwache mit der Straßenbahnlinie 24 Richtung Oberursel, Frankfurt um 1913, HMF.C25939c, gemeinfrei*
 
@@ -66,6 +69,7 @@ Im Oktober 1968 feierte die Stadt Frankfurt die Eröffnung der U-Bahnlinie A1, w
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Hermann Nöller, U-Bahnbau an der Hauptwache, Frankfurt 1965, HMF.Ph05152, verwaist](../../images/Ph05152%2B00_07d3cb225cd7edd1820740d6a1c7eda6_original.jpg)
 *1965 — Author: Hermann Nöller | License: Verwaist | Description: Hermann Nöller, U-Bahnbau an der Hauptwache, Frankfurt 1965, HMF.Ph05152, verwaist*
 
@@ -75,6 +79,7 @@ Im Oktober 1968 feierte die Stadt Frankfurt die Eröffnung der U-Bahnlinie A1, w
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Willy Keim, Einweihung der U-Bahn an der Hauptwache am 4. Oktober 1968, Frankfurt, HMF.Ph08367, roebild](../../images/Ph08367_00_5524292af2cac026769803055368d92a_original.jpg)
 *1968 — Author: Willy Keim | License: HMF, roebild; Foto: Horst Ziegenfusz | Description: Willy Keim, Einweihung der U-Bahn an der Hauptwache am 4. Oktober 1968, Frankfurt, HMF.Ph08367, roebild*
 

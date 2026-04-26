@@ -23,6 +23,7 @@ Wanda Pratschkes jahzehntelange Arbeit als Bildhauerin in einem traditionell von
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Wanda Pratschke's "Betty" ist eine von einer Vielzahl an Skulpturen im öffentlichen Raum, mit denen die Künstlerin normative Körperideale herausfordert und Frauen mehr Sichtbarkeit verleiht.](../../images/Betty_2_20_6d0acf7b0e5692c38b30c85091f4a4a8_original.jpg)
 *2019 — Author: Hartmut Schroth | License: Hartmut Schroth | Description: Wanda Pratschke's "Betty" ist eine von einer Vielzahl an Skulpturen im öffentlichen Raum, mit denen die Künstlerin normative Körperideale herausfordert und Frauen mehr Sichtbarkeit verleiht.*
 

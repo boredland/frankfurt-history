@@ -24,6 +24,7 @@ Hier befand sich 1940 eine Niederlassung des Verlags der Deutschen Arbeitsfront 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Roßmarkt](../../images/d219c62bb3c53495ab26b566c657cec5_original.jpg)
 *unbekannt — Author: unbekannt | License: HMF, Sammlung Church, C80384 | Description: Bildpostkarte mit dem Roßmarkt*
 

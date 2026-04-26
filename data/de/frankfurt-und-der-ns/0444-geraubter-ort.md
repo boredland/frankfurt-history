@@ -26,6 +26,7 @@ Dieses Mehrfamilienhaus gehörte Sally Fleisch und seiner Frau Selma (geb. Stern
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Gebäude Reichsburgstraße 2](../../images/C80401_jpg_a65a8875aa9a22ae295fc222c6b41e35_original.jpg)
 *o.D. — Author: unbekannt | License: HMF / Sammlung Church C80401 | Description: Bildpostkarte mit dem Gebäude Reichsburgstraße 2*
 

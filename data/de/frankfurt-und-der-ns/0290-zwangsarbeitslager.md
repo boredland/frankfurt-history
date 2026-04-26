@@ -24,6 +24,7 @@ Hier hatte die Degussa (Deutsche Gold- und Silberscheideanstalt, vorm. Roessler)
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Gebäude Weißfrauenstraße 9-11](../../images/157dcfffc132570bd790947d7ca9eee6_original.jpg)
 *ca. 1907 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S17 Nr. 00517-2 | Description: Bildpostkarte mit dem Gebäude Weißfrauenstraße 9-11*
 

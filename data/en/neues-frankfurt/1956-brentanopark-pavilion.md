@@ -31,6 +31,7 @@ Further reading: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. F
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the rear of the pavilion with viewing terrace.](../../images/isg_ffm_s7_3b40f11edfe58d2784efdf779e8e106f_original.jpg)
 *around 1930 — Author: unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: View of the rear of the pavilion with viewing terrace.*
 

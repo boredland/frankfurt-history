@@ -24,6 +24,7 @@ Die Liegenschaft Oeder Weg 100 hatte ursprünglich Adolf Guckenheimer und seiner
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Oeder Weg 100](../../images/Oeder-Weg-_41c646677e43807f18557183edcf7b3b_original.jpg)
 *2023 — Author: Hermann Tertilt | Description: Oeder Weg 100*
 

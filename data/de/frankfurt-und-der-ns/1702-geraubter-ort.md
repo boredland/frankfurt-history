@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kleine Seestraße 18](../../images/Kleine-See_34d6c8ed52f01b067f0c7ba2e038f537_original.jpg)
 *1976 — Author: unbekannt | License: ISG | Description: Kleine Seestraße 18*
 

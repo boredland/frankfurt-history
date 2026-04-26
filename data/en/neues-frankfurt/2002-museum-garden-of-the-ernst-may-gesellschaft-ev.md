@@ -25,6 +25,7 @@ The museum garden of the ernst-may-gesellschaft is cultivated by a team of volun
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Historical view of the allotment garden site in the east of the Römerstadt housing estate with standardised gardens and sheds.](../../images/isg_ffm_s7_827ac9bc21a43ba61c891a1ba59e9b76_original.jpg)
 *around 1930 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Historical view of the allotment garden site in the east of the Römerstadt housing estate with standardised gardens and sheds.*
 

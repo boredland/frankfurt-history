@@ -24,6 +24,7 @@ From 1941 onwards, there was a large forced labour camp with a population of 1,4
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a machine hall belonging to VDM-Halbzeugwerke GmbH, on whose premises in Zeilweg (no number, possibly 42) there was a forced labour camp.](../../images/3a73caf00b696d274f4e706038a11460_original.jpg)
 *n.d. — Author: Paul Wolff | License: Institut für Stadtgeschichte, Frankfurt Best. S7Wo Nr. 4414 | Description: Photo of a machine hall belonging to VDM-Halbzeugwerke GmbH, on whose premises in Zeilweg (no number, possibly 42) there was a forced labour camp.*
 

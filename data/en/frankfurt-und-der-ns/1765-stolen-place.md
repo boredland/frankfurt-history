@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Senckenberganlage 22](../../images/fe6b0ff58ee860833b9666a27c0a5ee1_original.jpg)
 *before 1944 — Author: Südwestdeutsche Luftverkehrs AG | License: ISG | Description: Senckenberganlage 22*
 

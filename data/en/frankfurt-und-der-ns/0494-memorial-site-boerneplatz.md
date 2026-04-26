@@ -27,6 +27,7 @@ A few meters next to the stone cube, five street signs commemorate the changing 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial site Börneplatz](../../images/e0b4f881ba21d35e11ce265fff830730_original.jpg)
 *Author: Norbert Miguletz | Description: Memorial site Börneplatz*
 

@@ -24,6 +24,7 @@ Die Geschäftsstelle der Nationalsozialistischen Deutschen Arbeiterpartei (NSDAP
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der NSDAP Geschäftsstelle Frankfurt in der Domstraße](../../images/2419d7e849b2a1604714cdfad28bd269_original.jpg)
 *1910 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-2703 | Description: Foto der NSDAP Geschäftsstelle Frankfurt in der Domstraße*
 

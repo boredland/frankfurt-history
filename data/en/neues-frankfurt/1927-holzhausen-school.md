@@ -31,6 +31,7 @@ Further reading: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. F
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of Holzhausen school. At a closer look, a circle of pupils can be seen in the inner courtyard.](../../images/isg_ffm_s7_2b34d0f1dbacc18dd5acb90e5e609b51_original.jpg)
 *around 1927 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Aerial view of Holzhausen school. At a closer look, a circle of pupils can be seen in the inner courtyard.*
 

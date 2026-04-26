@@ -24,6 +24,7 @@ Die Eisenbeton-Hoch- und Tiefbau AG Wayss & Freytag betrieb in der Neuen Mainzer
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Gebäudes der Eisenbeton-Hoch- und Tiefbau AG Wayss &amp; Freytag, welches  als Zwangsarbeitslager genutzt wurde](../../images/3fd0ad4a8379b9c77084a7a9c84be1da_original.jpg)
 *ca. 1900 — Author: unbekannt | Description: Foto eines Gebäudes der Eisenbeton-Hoch- und Tiefbau AG Wayss &amp; Freytag, welches  als Zwangsarbeitslager genutzt wurde*
 

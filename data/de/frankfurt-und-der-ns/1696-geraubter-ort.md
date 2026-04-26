@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kelsterbacher Straße 2-6](../../images/Kelsterbac_baeb5396c6abeae0d33e486d6f63fdd4_original.jpg)
 *vor 1941 — Author: Otto Emmel | License: HMF | Description: Kelsterbacher Straße 2-6*
 

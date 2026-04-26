@@ -49,6 +49,7 @@ Ab dem 1.August 1972 gehörte Nieder-Eschbach als Ortsbezirk 15 zu Frankfurt. Di
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Darmstädter Hof, Seitenansicht](../../images/Darmst%C3%A4dt_923dfa2a0648a52ee2498b877df78eae_original.jpg)
 *2026 — Author: Peter Brosche | License: Privat | Description: Darmstädter Hof, Seitenansicht*
 

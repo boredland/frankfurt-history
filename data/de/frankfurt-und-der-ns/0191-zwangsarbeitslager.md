@@ -24,6 +24,7 @@ Hier war die Bäckerei von Philipp Schlecht. Auch er beschäftigte Zwangsarbeite
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager](../../images/ac885220c332892cfb60280695c3c989_original.jpg)
 *2019 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2019-721 | Description: Zwangsarbeitslager*
 

@@ -37,12 +37,14 @@ Hinweis: Der Text nennt durchgehend „G. Wild“ als Namensform, weil die Brief
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Gebäude, in dem sich G. Wilds Wohnung befand, steht noch heute.](../../images/Karlsruher_773250d18e8d579485b4ce73129dbd74_original.jpg)
 *2026 — Author: Jasmin Klotz | License: gemeinfrei | Description: Das Gebäude, in dem sich G. Wilds Wohnung befand, steht noch heute.*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Werbeanzeige von Hella Knabe in der Zeitschrift "Das 3. Geschlecht", 1931. Martin Radszuweit Verlag Berlin, Lili-Elbe-Bibliothek.](../../images/Knabe_Comp_2a9a84218dc034d1cee38481ee0dddae_original.jpg)
 *1931 — Author: Martin Radszuweit Verlag Berlin | License: Lili-Elbe-Bibliothek | Description: Werbeanzeige von Hella Knabe in der Zeitschrift "Das 3. Geschlecht", 1931. Martin Radszuweit Verlag Berlin, Lili-Elbe-Bibliothek.*
 

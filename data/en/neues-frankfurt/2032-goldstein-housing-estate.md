@@ -45,6 +45,7 @@ Further reading: Claudia Quiring, Wolfgang Voigt, Peter Cachola Schmal, Eckhard 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of the housing estate with the eponymous Goldstein estate at the centre of the picture.](../../images/isg_ffm_s7_ff1b2899a5d5ad560df38855376a7ba2_original.jpg)
 *1937 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Aerial view of the housing estate with the eponymous Goldstein estate at the centre of the picture.*
 

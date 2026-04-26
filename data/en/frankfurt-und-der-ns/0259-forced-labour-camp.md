@@ -24,6 +24,7 @@ The Wayss & Freytag structural and civil engineering company operated a forced l
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a building belonging to Eisenbeton-Hoch- und Tiefbau AG Wayss &amp; Freytag, used as forced labour camp](../../images/3fd0ad4a8379b9c77084a7a9c84be1da_original.jpg)
 *ca. 1900 — Author: unbekannt | Description: Photo of a building belonging to Eisenbeton-Hoch- und Tiefbau AG Wayss &amp; Freytag, used as forced labour camp*
 

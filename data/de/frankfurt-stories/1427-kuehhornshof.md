@@ -27,6 +27,7 @@ Auf dem ehemaligen Gelände des Kühhornshofs im Stadtteil Dornbusch befindet si
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Kühhornshof mit Wassergraben und Brücke, 1855, aquarellierte Bleistiftzeichnung, HMF RS0122](../../images/RS0122_png_f64ec14854054de6cc19207f27f2c741_original.jpg)
 *1855 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Kühhornshof mit Wassergraben und Brücke, 1855, aquarellierte Bleistiftzeichnung, HMF RS0122*
 

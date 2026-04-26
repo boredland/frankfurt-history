@@ -24,6 +24,7 @@ The “Kompostellhof” was a spacious location for events and functions. It had
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the Kompostellhof](../../images/9d29abe26c9ed3500d7c063a6297cbf2_original.jpg)
 *1933 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-27828 | Description: Photo of the Kompostellhof*
 

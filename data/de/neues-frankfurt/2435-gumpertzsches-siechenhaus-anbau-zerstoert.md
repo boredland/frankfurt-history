@@ -36,6 +36,7 @@ Brigitte Seemann, Edgar Bönisch, Das Gumpertz’sche Siechenhaus – ein „Jew
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Eingangshalle Gumpertz’sches Siechenhaus](../../images/419-025-00_2d910a7004e17d5be56e91252ef5ecb3_original.jpg)
 *um 1932 — Author: Jeanne Mandello | License: Deutsches Architekturmuseum, Frankfurt am MainCopyright: James Bauer, New York / Isabel Mandello de Bauer, Barcelona | Description: Eingangshalle Gumpertz’sches Siechenhaus*
 

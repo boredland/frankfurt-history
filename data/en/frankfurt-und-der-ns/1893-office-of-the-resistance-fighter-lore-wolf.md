@@ -26,6 +26,7 @@ In August 1934 the group was betrayed and many members were arrested. Lore Wolf 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Title page of one issue of the “Proletarisches Volks-Gericht” newpaper](../../images/Neuhofstra_51cc44d1f449b9882a65633106e75b43_original.jpg)
 *License: HHStAW, Best. 461 Nr. 15199/1 | Description: Title page of one issue of the “Proletarisches Volks-Gericht” newpaper*
 

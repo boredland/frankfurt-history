@@ -21,6 +21,7 @@ Das Video ist im Rahmen des Projekts „Was geht mich der 8. Mai an?“ entstand
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/BOERNEPLAT_69dd83e3d21901466eacc2a47d59c2cb_original.jpg)
 
 ![Postkarte "Was geht mich der 8. Mai an?"](../../images/f967409822649b04ce90c064391de946_original.jpg)

@@ -23,6 +23,7 @@ She also produced three feature films: Two Right, Two Left, Drop One (1972), Etw
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Portrait Recha Jungmann](../../images/Portrait%20R_c5c4dff6321a6edfaeabaf82cc6d6e9d_original.jpg)
 *1995 — Author: Heiko Arendt | License: Heiko Arendt | Description: Portrait Recha Jungmann*
 

@@ -35,6 +35,7 @@ Evelyn Brockhoff (ed.): Akteure des Neuen Frankfurt. Frankfurt am Main 2016, p. 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Multi-dwelling units at Marbachweg, around 1930](../../images/Marbachweg_1ca06d546df7d05bdf8f8f342159ccfd_original.jpg)
 *around 1930 — Author: Unbekannt | License: Das Neue Frankfurt, 1930, Heft 4/5, S. 96 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Multi-dwelling units at Marbachweg, around 1930*
 

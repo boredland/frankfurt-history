@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Westendstraße 72](../../images/Westendstr_0590f59a290bc3d25df23298a9121b18_original.jpg)
 *1896 — Author: Ludwig Kopf | License: ISG | Description: Westendstraße 72*
 

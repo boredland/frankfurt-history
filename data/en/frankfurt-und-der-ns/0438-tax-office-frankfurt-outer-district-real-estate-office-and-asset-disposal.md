@@ -24,6 +24,7 @@ The Frankfurt-Suburbs tax authorities played a key role in looting citizens pers
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the Tax Office Frankfurt-Outer District Real Estate Office and Asset Disposal](../../images/isg_ffm_s7_e55385688807c490abb9304bef703110_original.jpg)
 *ca. 1920 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-8853 | Description: Photo of the Tax Office Frankfurt-Outer District Real Estate Office and Asset Disposal*
 

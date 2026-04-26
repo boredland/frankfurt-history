@@ -21,6 +21,7 @@ In 2012, at the suggestion of the Hesse State Association of German Sinti and Ro
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Street sign Ricky-Adler-Straße](../../images/Ricky-Adle_ccbf2c4b5f7d4f61f938d0ded003474e_original.jpg)
 *2012 — Author: Andreas Pflock | License: Dokumentations- und Kulturzentrum Deutscher Sinti und Roma | Description: Street sign Ricky-Adler-Straße*
 

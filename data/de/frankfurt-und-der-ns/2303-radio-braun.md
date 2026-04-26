@@ -35,6 +35,7 @@ In den Baracken auf dem Betriebsgelände der Idsteiner Straße 91 arbeitete vom 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Radio Braun, Idsteiner Straße 91](../../images/Idsteiner%20_e38955467a90ca45535f101a42184532_original.jpg)
 *1946 — Author: Unbekannt | License: Braun Archiv | Description: Radio Braun, Idsteiner Straße 91*
 
@@ -44,6 +45,7 @@ In den Baracken auf dem Betriebsgelände der Idsteiner Straße 91 arbeitete vom 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Auszug aus der tabellarischen Auflistung aller Ausländer mit sowjetischer Staatsbürgerschaft aus dem Gesundsheitsbereich des Kreises Frankfurt am Main. Der Name "Anna Melnyk" befindet sich an zweiter Stelle.](../../images/Arolsen%20Ar_7352973056b265c2ed29830f52bc9a0f_original.jpg)
 *o.D. — Author: Unbekannt | License: Informationen über Ausländer aus dem Gesundheitsbereich der Kreises Frankfurt/Main, 2.1.1.2/70505682, ITS Digital Archive, Arolsen Archives. | Description: Auszug aus der tabellarischen Auflistung aller Ausländer mit sowjetischer Staatsbürgerschaft aus dem Gesundsheitsbereich des Kreises Frankfurt am Main. Der Name "Anna Melnyk" befindet sich an zweiter Stelle.*
 

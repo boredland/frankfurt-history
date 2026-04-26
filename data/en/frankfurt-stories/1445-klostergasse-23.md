@@ -25,6 +25,7 @@ The Klostergasse lane was east of Fahrgasse, and ran parallel to it. Starting in
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Klostergasse 23, back houses, opening of the Battonnstraße, 1884, watercolored pencil drawing, HMF R1625](../../images/R1625_png_c00844e30172568789760515a484cf41_original.jpg)
 *1884 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Klostergasse 23, back houses, opening of the Battonnstraße, 1884, watercolored pencil drawing, HMF R1625*
 

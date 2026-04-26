@@ -30,6 +30,7 @@ After the war, the “Katzbach” concentration camp was all but forgotten. It t
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Black-and-white drawing of concentration camp prisoners clearing rubble in the Gallus district in 1944; drawing by former prisoner Zygmunt Śwista.](../../images/Hauwert-%C5%9A_8765e57e9028bfbf377aa1907220cc80_original.jpg)
 *n.d. — Author: Zeichnung von Zygmunt Świstak | License: Jenni Hauwert-Świstak | Description: Black-and-white drawing of concentration camp prisoners clearing rubble in the Gallus district in 1944; drawing by former prisoner Zygmunt Śwista.*
 

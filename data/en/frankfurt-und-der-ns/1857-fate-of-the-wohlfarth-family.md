@@ -28,6 +28,7 @@ example of how Jewish existences were destroyed in National Socialist Germany. T
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial stones at Corneliusstrasse 15 commemorate the fatesof Wohlfarth family members Auguste, Theodor, Hugo and Julius, who werepersecuted by the National Socialists.](../../images/Stolperste_b9fec13ff6f97203c4e327ef265fc54f_original.jpg)
 *2024 — Author: Aliah Habl Corona | License: gemeinfrei | Description: Memorial stones at Corneliusstrasse 15 commemorate the fatesof Wohlfarth family members Auguste, Theodor, Hugo and Julius, who werepersecuted by the National Socialists.*
 

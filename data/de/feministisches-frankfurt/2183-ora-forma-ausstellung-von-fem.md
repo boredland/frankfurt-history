@@ -26,6 +26,7 @@ Der vorliegende Text erweitert die Perspektive der Ausstellung, indem er die Ver
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Kunstwerk „Cherry Picking“ von Un-Zu Ha-Nul Lee, im Jahr 2022 ausgestellt bei der Ausstellung ora forma im Blumenladen Blumen Ora Ora unweit des Frankfurter Hauptbahnhofs.](../../images/Un-Zu%20Ha-N_94be0f2ca0013d9967283e47603ba2c0_original.jpg)
 *2022 — Author: Yoav Kedem | License: © Yoav Kedem | Description: Das Kunstwerk „Cherry Picking“ von Un-Zu Ha-Nul Lee, im Jahr 2022 ausgestellt bei der Ausstellung ora forma im Blumenladen Blumen Ora Ora unweit des Frankfurter Hauptbahnhofs.*
 

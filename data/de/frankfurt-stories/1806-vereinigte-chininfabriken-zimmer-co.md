@@ -26,6 +26,7 @@ Das Pharmaunternehmen C. Zimmer erwarb 1876 die Plantage »Argasarie« auf Java 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Ansicht der Fabrik von Zimmer](../../images/zimmer_png_0484a087c2b945a7be892d97942ef13a_original.jpg)
 *Bildergalerie — License: HMF.C41852. | Description: Ansicht der Fabrik von Zimmer*
 

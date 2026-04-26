@@ -34,6 +34,7 @@ Since 1987, there has been a memorial on Oberschelder Weg to commemorate the cam
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial photograph taken by the US Air Force of the Frankfurt-Heddernheim region. The area of the former AEL Heddernheim is outlined in red for illustrative purposes.](../../images/Luftbildda_8b947559089a9d8462f00e855c1ce4cd_original.jpg)
 *Author: Unbekannt | License: NARA RG 373 / F-14748 | Description: Aerial photograph taken by the US Air Force of the Frankfurt-Heddernheim region. The area of the former AEL Heddernheim is outlined in red for illustrative purposes.*
 

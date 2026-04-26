@@ -24,6 +24,7 @@ Hier befand sich das Städtische Krankenhaus. Seit 1935 führte das medizinische
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Städtisches Krankenhaus](../../images/d3d455b64dbae977727e9fcb05373ffa_original.jpg)
 *1908 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-22823 | Description: Städtisches Krankenhaus*
 

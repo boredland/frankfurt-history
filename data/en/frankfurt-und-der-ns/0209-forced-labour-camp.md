@@ -24,6 +24,7 @@ The A. von Kaick generator factory based at Friedberger Landstrasse 298 profited
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor company, Friedberger Landstraße 298](../../images/a98da970cec9326f1379f2c77a634ea8_original.jpg)
 *2000 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2014-759 | Description: Forced labor company, Friedberger Landstraße 298*
 

@@ -25,6 +25,7 @@ The Adlerwerke Memorial Site documents and communicates the history of forced la
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lettering of the historical site Adlerwerke on the facade of the old factory building.](../../images/621f4f946c021519b587631bf9fb55e0_original.jpg)
 *2023 — Author: Thomas Altmeyer | License: gemeinfrei | Description: Lettering of the historical site Adlerwerke on the facade of the old factory building.*
 

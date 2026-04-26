@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Mendelssohnstraße 78](../../images/Mendelssoh_9ed683629b5b29f8d118c9c4873bf33d_original.jpg)
 *1930 — Author: unbekannt | License: ISG | Description: Mendelssohnstraße 78*
 

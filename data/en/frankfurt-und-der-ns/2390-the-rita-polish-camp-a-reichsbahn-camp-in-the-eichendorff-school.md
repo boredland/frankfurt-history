@@ -25,6 +25,7 @@ As the air raids on Frankfurt increased in 1943 and 1944, however, the majority 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The Waldschule (later renamed Eichendorffschule) in its opening year, 1918](../../images/Waldschule_b46dbae54964f3905e5267ae4c9a3c04_original.jpg)
 *1918 — Author: Verlag Georg Emrich, Griesheim | License: Geschichtsverein Griesheim e.V. | Description: The Waldschule (later renamed Eichendorffschule) in its opening year, 1918*
 

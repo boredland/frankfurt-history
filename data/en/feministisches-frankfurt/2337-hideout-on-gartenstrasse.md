@@ -25,6 +25,7 @@ After 1945, Sandels reopened a pediatric practice in Heidelberg, supported by Ma
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of Sachsenhausen: Gartenstraße 51 and children's home](../../images/Sandels_PO_b5fe3513916e03dad912c1ea476ee3c2_original.jpg)
 *around 1915 — Author: Unbekannt | License: Homepage "Platz der vergessenen Kinder" | Description: Aerial view of Sachsenhausen: Gartenstraße 51 and children's home*
 

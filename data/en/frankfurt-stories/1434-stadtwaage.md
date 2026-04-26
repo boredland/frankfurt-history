@@ -27,6 +27,7 @@ The upper storey served as the municipal fruit store; in the 19th century, it ho
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, weighing house and cathedral, 1837/1870, watercolored pencil drawing, HMF R0370](../../images/R0370_png_30c4abe5ab47dfcb5c9a8e9ec97bd95c_original.jpg)
 *1837/1870 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, weighing house and cathedral, 1837/1870, watercolored pencil drawing, HMF R0370*
 

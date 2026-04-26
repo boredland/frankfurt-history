@@ -22,6 +22,7 @@ Forced labourers were also lodged here in the Zum Adler restaurant. They were pu
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Former forced labor camp, Ginnheimer Hohl 2](../../images/786cf2b5e87b8a8e600fd057bc8cd18f_original.jpg)
 *2019 — Author: Claus Graubner | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2020-41 | Description: Former forced labor camp, Ginnheimer Hohl 2*
 

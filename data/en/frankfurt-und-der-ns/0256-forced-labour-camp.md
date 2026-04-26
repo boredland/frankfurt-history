@@ -24,6 +24,7 @@ The Calor Emag Elektrizitäts-AG, a company from Ratingen specializing in high- 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a building belonging to Calor Emag Elektrizitäts-AG, which was used as a forced labour camp](../../images/e22e059b94de13afd03003f8d9f14158_original.jpg)
 *2012 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2013-564 | Description: Photo of a building belonging to Calor Emag Elektrizitäts-AG, which was used as a forced labour camp*
 

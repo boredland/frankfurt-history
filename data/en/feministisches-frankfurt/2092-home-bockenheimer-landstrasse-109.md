@@ -23,6 +23,7 @@ Jenny Apolant initially worked here alone. She reviewed documents, collected sta
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/Dame0490_0_85aa002304abf340444544db7c089a61_original.jpg)
 *Author: Unbekannt | License: HMF*
 

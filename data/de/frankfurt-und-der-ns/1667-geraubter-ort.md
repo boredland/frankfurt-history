@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Günthersburgallee 43](../../images/Guenthersb_addc94cd1d15f45cb8a244b2b5df426c_original.jpg)
 *2011 — Author: Martin Starl | License: ISG | Description: Günthersburgallee 43*
 

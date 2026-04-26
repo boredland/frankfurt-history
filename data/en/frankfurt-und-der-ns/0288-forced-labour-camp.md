@@ -24,6 +24,7 @@ The City of Frankfurt made use of forced labourers in various municipal departme
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo showing the building at Weckmarkt 3, which housed a forced labour camp](../../images/b1a04f42471146dd7faafbe5fc3f18b4_original.jpg)
 *1913 — Author: Rapp (Gustav & Co.) | License: HMF C26429 | Description: Photo showing the building at Weckmarkt 3, which housed a forced labour camp*
 

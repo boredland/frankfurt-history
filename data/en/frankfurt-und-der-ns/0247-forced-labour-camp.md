@@ -21,6 +21,7 @@ The Hartmann & Braun company, which manufactured electrical and thermo-technical
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Picture postcard showing Lorscher Straße in Frankfurt-Rödelheim](../../images/7d86a4eb990242af5fb4773f60e66c7d_original.jpg)
 *1927 — Author: Unbekannt | License: HMF, Sammlung Church, C80400 | Description: Picture postcard showing Lorscher Straße in Frankfurt-Rödelheim*
 

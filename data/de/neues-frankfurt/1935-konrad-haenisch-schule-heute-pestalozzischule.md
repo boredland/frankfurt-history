@@ -31,6 +31,7 @@ Quelle: Christina Gräwe: Martin Elsaessers Frankfurter Schulen. In: Martin Elsa
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Vorderseite des Schulgebäudes. Links oben ist die große, ziffernlose Uhr zu erkennen.](../../images/isg_ffm_s7_8a35859a059d68dcbdf20640b6c00f9b_original.jpg)
 *um 1927 — Author: Buch vom Bauen (1927) | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Vorderseite des Schulgebäudes. Links oben ist die große, ziffernlose Uhr zu erkennen.*
 

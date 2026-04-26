@@ -28,6 +28,7 @@ In 1874, the couple demanded 50,000 guilders for their booth - a demand the city
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, weighing house, front, 1837, pencil drawing, HMF R0369](../../images/R0369_png_afc95832ca4c90a15992b5c5aeeb8378_original.jpg)
 *1837 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, weighing house, front, 1837, pencil drawing, HMF R0369*
 

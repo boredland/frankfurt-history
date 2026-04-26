@@ -42,6 +42,7 @@ A Stolperstein—literally “stumbling stone”—is a 10 x 10 x 10-cm concrete
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein for Karl Alberti at Kelsterbacher Straße 73](../../images/stolperst__31697676ba0fae378e69d662acc37bfd_original.jpg)
 *unknown — Author: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein for Karl Alberti at Kelsterbacher Straße 73*
 

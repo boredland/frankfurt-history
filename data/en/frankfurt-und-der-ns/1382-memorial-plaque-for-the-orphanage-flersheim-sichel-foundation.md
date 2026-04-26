@@ -21,6 +21,7 @@ The house of the Flersheim-Sichel Foundation at Ebersheimstrasse 5 served as a J
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial plaque for the orphanage Flersheim-Sichel Foundation](../../images/Flersheim-_f2fa9eaf381bb679950866d826d06009_original.jpg)
 *Author: Till Lieberz-Gross | Description: Memorial plaque for the orphanage Flersheim-Sichel Foundation*
 

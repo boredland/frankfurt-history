@@ -21,6 +21,7 @@ The company Naxos Schmirgel-Schleifwaren Fabrik Burkhard & Co. operated a camp f
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Rödelheimer Landstraße 31](../../images/54791b959428800540a47a88601bed21_original.jpg)
 *Author: unbekannt | License: S7A Nr. 1998-24909 | Description: Rödelheimer Landstraße 31*
 

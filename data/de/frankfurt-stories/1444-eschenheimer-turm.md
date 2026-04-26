@@ -27,6 +27,7 @@ Reiffenstein zeichnete den Turm und seine Innenräume. Zu seiner Zeit zählte de
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Eschenheimer Tor mit Stadtmauer (Rekonstruktion nach einer alten Zeichnung von 1790), 1859, aquarellierte Bleistiftzeichnung, HMF R0039](../../images/R0039_png_382afdcbbb304bb86c9ffdc0229f501b_original.jpg)
 *1859 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Eschenheimer Tor mit Stadtmauer (Rekonstruktion nach einer alten Zeichnung von 1790), 1859, aquarellierte Bleistiftzeichnung, HMF R0039*
 

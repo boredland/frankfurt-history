@@ -42,6 +42,7 @@ Stolpersteine sind 10 x 10 x 10 cm große Betonquader, auf deren Oberseite eine 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein für Karl Alberti in der Kelsterbacher Straße 73](../../images/stolperst__31697676ba0fae378e69d662acc37bfd_original.jpg)
 *unbekannt — Author: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein für Karl Alberti in der Kelsterbacher Straße 73*
 

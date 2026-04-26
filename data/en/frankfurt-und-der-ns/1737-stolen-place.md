@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Neue Mainzer Straße 24](../../images/Neue-Mainz_d0d4c549291ff6056415821ce4855a13_original.jpg)
 *ca. 1900 — Author: unbekannt | License: ISG | Description: Neue Mainzer Straße 24*
 

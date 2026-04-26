@@ -21,6 +21,7 @@ The video was created as part of the project "What's May 8 to me? Five senior cl
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Copyright: Nachlass J. Bendorf](../../images/18383845f2b77a3f2c969048d40c6aee_original.jpg)
 *Author: Julius Bendorf | Description: Copyright: Nachlass J. Bendorf*
 

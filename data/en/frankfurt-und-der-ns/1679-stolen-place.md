@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Heddernheimer Landstraße 32](../../images/Heddernhei_f6147cac66579c23eecdcf5955dcccf7_original.jpg)
 *2008 — Author: Wolfgang Kamberg | License: ISG | Description: Heddernheimer Landstraße 32*
 

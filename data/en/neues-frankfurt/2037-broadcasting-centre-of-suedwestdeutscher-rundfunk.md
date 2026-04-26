@@ -31,6 +31,7 @@ Further reading: Klaus Strzyz und Roswitha Väth: Zu Unrecht vergessen: der Arch
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the cubic building with its light-coloured facade and flat roof. The entrance with five steel and glass-clad pillars is at the bottom right.](../../images/isg_ffm_s7_142146efa9b73c8f6beed1012f7f3018_original.jpg)
 *1932 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: View of the cubic building with its light-coloured facade and flat roof. The entrance with five steel and glass-clad pillars is at the bottom right.*
 

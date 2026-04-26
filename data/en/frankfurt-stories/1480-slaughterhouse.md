@@ -26,6 +26,7 @@ Reiffenstein sketched the only Frankfurt meeting hall for guild masters still in
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, slaughterhouse and alley, 1849/1860, watercolored pencil drawing, HMF R0399](../../images/R0399_png_0f6933f11f77426cde0686ec0747cf3b_original.jpg)
 *1849/1860 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, slaughterhouse and alley, 1849/1860, watercolored pencil drawing, HMF R0399*
 

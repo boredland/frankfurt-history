@@ -21,6 +21,7 @@ Der Frankfurter Hauptbahnhof, 1888 als Centralbahnhof eröffnet, ist ein Ort des
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Blick auf den Hauptbahnhof](../../images/Ph14449_JP_982660ac1acaa08315ca083c999ac30e_original.jpg)
 *1915 — Author: Unbekannt | License: HMF | Description: Blick auf den Hauptbahnhof*
 

@@ -33,6 +33,7 @@ Wolfgang Voigt: Wohnhaus May. In: Wolfgang Voigt, Dorothea Deschermeier, Peter C
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Villa May, garden view with large window.](../../images/Wohnhaus_M_b094709be2b0d0f39dbdf818a8aa1319_original.jpg)
 *1925 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: Villa May, garden view with large window.*
 

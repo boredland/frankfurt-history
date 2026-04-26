@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bockenheimer Landstraße 8](../../images/Bockenheim_faf3aedc3ab678763e3ffd5c6f432987_original.jpg)
 *ca. 1935 — License: ISG | Description: Bockenheimer Landstraße 8*
 

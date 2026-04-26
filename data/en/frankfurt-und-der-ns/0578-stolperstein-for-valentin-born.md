@@ -40,6 +40,7 @@ A Stolperstein—literally “stumbling stone”—is a 10 x 10 x 10-cm concrete
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Stolperstein for Valentin Born at Dominikanergasse 7](../../images/stolperst__7aa217419de87db16543c80d744aff34_original.jpg)
 *unknown — Author: Initiative Stolpersteine Frankfurt am Main | Description: Stolperstein for Valentin Born at Dominikanergasse 7*
 

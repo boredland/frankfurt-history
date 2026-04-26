@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Leerbachstraße 13](../../images/Leerbachst_9ccd5cf41645610720af6ffff4306e0f_original.jpg)
 *ca. 1935 — Author: unbekannt | License: ISG | Description: Leerbachstraße 13*
 

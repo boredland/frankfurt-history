@@ -31,6 +31,7 @@ For example, the investigators believed Ritter’s claim that he had known nothi
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Robert Ritter around 1947. ISG FFM S7P Nr. 11819.](../../images/isg_ffm_s7_762f9797c5f6521da270ad077887cc5b_original.jpg)
 *ca. 1947 — License: Institut für Stadtgeschichte Frankfurt am Main | Description: Robert Ritter around 1947. ISG FFM S7P Nr. 11819.*
 

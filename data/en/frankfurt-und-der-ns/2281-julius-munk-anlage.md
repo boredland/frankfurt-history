@@ -25,6 +25,7 @@ Until 1939, this site was home to the buildings of four companies whose owners w
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the Julius Munk complex.](../../images/94540682303b810f983bc097817c82c8_original.jpg)
 *2022 — Author: Thomas Altmeyer | License: gemeinfrei | Description: View of the Julius Munk complex.*
 

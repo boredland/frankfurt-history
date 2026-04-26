@@ -24,6 +24,7 @@ Das Gebäude in der Liebigstraße 27b gehörte ursprünglich Fritz Bieler. Er wu
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Wohnhaus Familie Grünbaum, Liebigstraße 27b](../../images/f688a039edc758b0b350df0f8d47c2cb_original.jpg)
 *1884 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13178 | Description: Wohnhaus Familie Grünbaum, Liebigstraße 27b*
 

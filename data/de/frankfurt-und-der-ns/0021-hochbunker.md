@@ -27,6 +27,7 @@ Bauunternehmen: Philipp Holzmann AG.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto eines Hochbunkers in der Bebraer Straße](../../images/a657000d4897ae74fc55642b1012c564_original.jpg)
 *1984 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Foto eines Hochbunkers in der Bebraer Straße*
 

@@ -27,6 +27,7 @@ Construction company: unknown
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a bomb shelter located in Gutleutstraße](../../images/7632a448fe9c19b0df98ea64dfe3c581_original.jpg)
 *1965 — Author: unbekannt | License: Denkmalamt Stadt Frankfurt | Description: Photo of a bomb shelter located in Gutleutstraße*
 

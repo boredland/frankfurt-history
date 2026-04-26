@@ -35,6 +35,7 @@ Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt am Main 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kinderhort im Sommerhoff-Park. Im Hintergrund die Baustelle des Prüfamtes 6 in der Gutleutstraße.](../../images/isg_ffm_s7_8770e173fc1c1592e4dd4808f4ab1399_original.jpg)
 *um 1928 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Kinderhort im Sommerhoff-Park. Im Hintergrund die Baustelle des Prüfamtes 6 in der Gutleutstraße.*
 

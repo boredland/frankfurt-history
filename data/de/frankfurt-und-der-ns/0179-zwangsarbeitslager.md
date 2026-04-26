@@ -24,6 +24,7 @@ Im Hotel Frankfurter Hof, das von der Steigenberger AG betrieben wurde, wurden Z
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Bethmannstraße 33](../../images/d4560504f1d9cb42869ed12de693ae86_original.jpg)
 *unbekannt — Author: Wolff & Tritschler | License: HMF, C35249 | Description: Zwangsarbeitslager, Bethmannstraße 33*
 

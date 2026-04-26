@@ -24,6 +24,7 @@ The “Sturmabteilung”, or Storm Troopers, were a branch of the National Socia
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial photo of an SA Relilef Organisation Camp in Rödelheimer Landstraße](../../images/c46382dfe5bf2fc931834d0b42a5670d_original.jpg)
 *ca. 1926/27 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19802 | Description: Aerial photo of an SA Relilef Organisation Camp in Rödelheimer Landstraße*
 

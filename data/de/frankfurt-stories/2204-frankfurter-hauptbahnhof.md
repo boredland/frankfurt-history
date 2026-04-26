@@ -32,12 +32,14 @@ Die Eisenbahn revolutionierte die Mobilität der Bevölkerung. Vorher war das Re
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Hertel (1832-1906), Frankfurter Hauptbahnhof mit noch unbebauter Umgebung, Frankfurt 1896, HMF.C29184, gemeinfrei](../../images/C29184%2B001_adc7875678a08b3ea36f1a82422d579b_original.jpg)
 *1896 — Author: Carl Hertel | License: Gemeinfrei, HMF | Description: Carl Hertel (1832-1906), Frankfurter Hauptbahnhof mit noch unbebauter Umgebung, Frankfurt 1896, HMF.C29184, gemeinfrei*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Friedrich Emil Beer/Gerhard Friedrich Wilmanns (1764-1830), Das Innere des Taunusbahnhofes, Frankfurt um 1840, HMF.C10531, gemeinfrei](../../images/C10531%2B001_02b9420c32e5cdff8fe4757b3a26960c_original.jpg)
 *Um 1840 — Author: Carl Friedrich Emil Beer (Lithograf); Gerhard Friedrich Wilmanns (Drucker) | License: Gemeinfrei, HMF | Description: Carl Friedrich Emil Beer/Gerhard Friedrich Wilmanns (1764-1830), Das Innere des Taunusbahnhofes, Frankfurt um 1840, HMF.C10531, gemeinfrei*
 
@@ -50,6 +52,7 @@ Die Eisenbahn revolutionierte die Mobilität der Bevölkerung. Vorher war das Re
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Hertel (1832-1906), Frankfurter Hauptbahnhof mit noch unbebauter Umgebung, Frankfurt 1896, HMF.C29184, gemeinfrei](../../images/C29184%2B001_adc7875678a08b3ea36f1a82422d579b_original.jpg)
 *1896 — Author: Carl Hertel | License: Gemeinfrei, HMF | Description: Carl Hertel (1832-1906), Frankfurter Hauptbahnhof mit noch unbebauter Umgebung, Frankfurt 1896, HMF.C29184, gemeinfrei*
 
@@ -62,6 +65,7 @@ Die Eisenbahn revolutionierte die Mobilität der Bevölkerung. Vorher war das Re
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Paul Wolff (1887-1951), Bahnsteighalle des Frankfurter Hauptbahnhofs, Frankfurt vor 1925, HMF.C26961a, Foto: Dr. Paul Wolff &amp; Trischler, Historisches Bildarchiv, Offenburg](../../images/C26961a_00_fd305e2c4d4c99aed481c8e771ca507e_original.jpg)
 *Um 1925 — Author: Paul Wolff | License: HMF, Foto: Dr. Paul Wolff &amp; Trischler, Historisches Bildarchiv, Offenburg | Description: Paul Wolff (1887-1951), Bahnsteighalle des Frankfurter Hauptbahnhofs, Frankfurt vor 1925, HMF.C26961a, Foto: Dr. Paul Wolff &amp; Trischler, Historisches Bildarchiv, Offenburg*
 

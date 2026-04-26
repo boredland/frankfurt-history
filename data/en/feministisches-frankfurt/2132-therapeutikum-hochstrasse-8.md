@@ -23,6 +23,7 @@ Else Wüst (1892-1974) opened her own “Therapeutikum” at Hochstraße 8 in 19
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/C%2040024%2C%202_cb6b7a4735e45ea66252b62a2bb8471b_original.jpg)
 *Author: Carl Friedrich May | License: HMF/Gemeinfrei*
 

@@ -24,6 +24,7 @@ In 1912 at the latest, Frankfurt businessmen led by Josef Schloßmacher and Otto
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/isg_ffm_s7_5bd842a9b786147f458b81ff1b2ec5f0_original.jpg)
 
 

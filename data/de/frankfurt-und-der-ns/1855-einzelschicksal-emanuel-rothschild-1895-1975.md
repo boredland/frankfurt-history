@@ -27,6 +27,7 @@ Ab 1941 musste Emanuel den Judenstern tragen. Ab 1945 versteckte sich Emanuel in
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Devisenbericht von Emanuel Rothschild.](../../images/Devisenber_9adc50e2158980d9b4c166418ee98482_original.jpg)
 *o. D. — Author: Unbekannt | License: © Stadt Frankfurt am Main, Nachkriegsaufstellung Liste G, Devisenstelle Landeszentralbank Frankfurt a. M, 2.1.1.1 / 70364469 /in conformity with IST Digital Archive, Arolsen Archives | Description: Devisenbericht von Emanuel Rothschild.*
 

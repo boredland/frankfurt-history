@@ -27,6 +27,7 @@ Due to the lack of support in the town, the Frankfurt Senate refused to allow th
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of Haus Limpurg (House Limpurg) located on Römerberg](../../images/15%20Haus%20Li_5b3b73975bea60c108f67db938771492_original.jpg)
 *1864 — Author: Carl Friedrich Mylius | License: HMF C17720 | Description: Photo of Haus Limpurg (House Limpurg) located on Römerberg*
 

@@ -19,6 +19,7 @@ Here you will find different perspectives on the place.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the Römer City Hall with the raising of the swastika flag](../../images/Ph03224a_j_bdae36c341a3ed7d3683b2d62b12c23a_original.jpg)
 *Author: Hannah Reeck | License: HMF Ph03224a | Description: Photo of the Römer City Hall with the raising of the swastika flag*
 

@@ -23,5 +23,6 @@ The apartment building in Quinckestrasse 25 (now Königswarter Strasse) belonged
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/isg_ffm_s7_61996f18f903475a7fd5d3768a7c467a_original.jpg)
 

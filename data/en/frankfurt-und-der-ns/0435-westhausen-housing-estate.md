@@ -24,6 +24,7 @@ Those living in the Westhausen workers’ quarter largely supported Germany’s 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial photo of the Westhausen housing estate](../../images/9ac75c7230c92309ff54cf03483231d1_original.jpg)
 *n.D. — Author: unbekannt | Description: Aerial photo of the Westhausen housing estate*
 

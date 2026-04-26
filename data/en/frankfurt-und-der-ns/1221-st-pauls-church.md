@@ -19,6 +19,7 @@ Here you will find different perspectives on the place.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of Paulskirche (St. Paul's Church)](../../images/826adf6555b4d4644251267a987e6c3c_original.jpg)
 *n.D. — Author: unbekannt | License: HMF Ph04282 | Description: Photo of Paulskirche (St. Paul's Church)*
 

@@ -26,6 +26,7 @@ Das Gewerkschaftshaus in der Bürgerstraße 69-77 (heute Wilhelm-Leuschner-Stra�
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Sitzes der Deutschen Arbeitsfront (DAF)](../../images/2dbc6ae8b31383adee828cd1574dcf83_original.jpg)
 *1931 — Author: Wolff & Tritschler | License: HMF C35145 | Description: Foto des Sitzes der Deutschen Arbeitsfront (DAF)*
 

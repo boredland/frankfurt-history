@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Fahrgasse 85](../../images/Fahrgasse-_ebd083f8562071f0f11ba75eb2ce6566_original.jpg)
 *ca. 1930 — Author: unbekannt | License: ISG | Description: Fahrgasse 85*
 

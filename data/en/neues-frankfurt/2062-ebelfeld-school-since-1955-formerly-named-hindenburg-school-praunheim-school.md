@@ -31,6 +31,7 @@ Further reading: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. F
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lessons in the open-air classroom.](../../images/isg_ffm_s7_ce86734fbb85f6c42427aa7b0a4c2cc1_original.jpg)
 *around 1927 — Author: Institut für Stadtgeschichte, Frankfurt am Main | License: unbekannt / unknown | Description: Lessons in the open-air classroom.*
 

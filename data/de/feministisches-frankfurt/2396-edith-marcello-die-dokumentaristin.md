@@ -25,6 +25,7 @@ Edith Marcello (geb. Schmidt, *1937) ist Dokumentarfilmerin. Sie studierte Maler
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Edith Marcello und Kameramann bei den Dreharbeiten von DER KAMPF DER LIP ARBEITER (BRD, 1973-1975), Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Edith Marcello](../../images/Bildschirm_5eb50927b8edc2b5f7515f1d8e20a6a5_original.jpg)
 *ca. 1974 — Author: nicht feststellbar/not detectable | License: nicht feststellbar/not detectable | Description: Edith Marcello und Kameramann bei den Dreharbeiten von DER KAMPF DER LIP ARBEITER (BRD, 1973-1975), Quelle: Archiv der Kinothek Asta Nielsen, Sammlung Edith Marcello*
 

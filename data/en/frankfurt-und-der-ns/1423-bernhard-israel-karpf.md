@@ -24,6 +24,7 @@ After the departure, his traces were lost.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Sandweg 29 (today)](../../images/Foto_Sandw_2a2947b43f61da01a889afc08e6460c5_original.jpg)
 *2023 — Author: unbekannt | License: LK Geschichte, IGS Stierstadt | Description: Sandweg 29 (today)*
 

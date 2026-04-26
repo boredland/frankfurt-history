@@ -32,6 +32,7 @@ Further reading: Julius Reinsberg: Siedlung Römerstadt. In: Neuer Mensch, Neue 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Aerial view of the entire housing estate](../../images/Roemerstad_2d7d938609f499fbb1114d6e795d7900_original.jpg)
 *around 1928 — Author: Verlag W. Müller | License: ernst-may-gesellschaft e.V. | Description: Aerial view of the entire housing estate*
 

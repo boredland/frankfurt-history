@@ -25,6 +25,7 @@ Until 1933, this was the location of the Frankfurter Volksblatt’s editorial of
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the editorial office of the Frankfurter Volksblatt](../../images/d9e2578eef24719a8428060121225ff8_original.jpg)
 *before 1945 — Author: Otto Emmel | License: HMF Ph38327 | Description: Photo of the editorial office of the Frankfurter Volksblatt*
 

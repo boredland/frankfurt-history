@@ -25,6 +25,7 @@ Am Morgen des 3. März 1959 wurde der Waffenhändler Georg Puchert in der Guiole
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/isg_ffm_s7_8bed73e5c4da9c17b7ff6771ab2b85aa_original.jpg)
 *License: ISG*
 

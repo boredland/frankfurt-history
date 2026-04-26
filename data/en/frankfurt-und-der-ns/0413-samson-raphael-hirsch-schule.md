@@ -19,6 +19,7 @@ Here you will find different perspectives on the place.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the new building of the Heinrich-von-Gagern-Gymnasium](../../images/ffaba6401ddc08c70d39dd7714b8a144_original.jpg)
 *n.D. — Author: Alexander Paul Englert | License: Deutsche Nationalbibliothek | Description: Photo of the new building of the Heinrich-von-Gagern-Gymnasium*
 

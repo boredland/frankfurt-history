@@ -23,6 +23,7 @@ Irene Block (1915-1993), Juristin und Steuerberaterin, wurde dort mehrfach verh�
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Fotografie des Gebäudes der Lindenstraße 27, bis März 1945 Sitz der Geheimen Staatspolizei](../../images/NS0953_001_9580c35f1a6af652bc27726636617921_original.jpg)
 *um 1945 — Author: Unbekannt | License: Institut für Stadtgeschichte | Description: Fotografie des Gebäudes der Lindenstraße 27, bis März 1945 Sitz der Geheimen Staatspolizei*
 

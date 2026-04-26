@@ -33,6 +33,7 @@ Quelle: DW Dreysse: May-Siedlungen. Architekturführer durch zehn Siedlungen des
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Straßenansicht in der Heimatsiedlung](../../images/C35097_001_6237414aac869f51f526af77df169fa8_original.jpg)
 *Unbekannt — Author: Paul Wolff | License: Historisches Museum Frankfurt | Description: Straßenansicht in der Heimatsiedlung*
 

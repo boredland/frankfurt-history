@@ -24,6 +24,7 @@ Das Generatorenwerk A. von Kaick mit Sitz in der Friedberger Landstraße 298 pro
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitsbetrieb, Friedberger Landstraße 298](../../images/a98da970cec9326f1379f2c77a634ea8_original.jpg)
 *2000 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2014-759 | Description: Zwangsarbeitsbetrieb, Friedberger Landstraße 298*
 

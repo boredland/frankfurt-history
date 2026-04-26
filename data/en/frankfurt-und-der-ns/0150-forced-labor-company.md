@@ -24,6 +24,7 @@ The J. & C. A. Schneider shoe factories were based on premises that the Lindheim
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor company, Mainzer Landstraße 249-251](../../images/9f14e714ac554e2001fa539fbbb6dac7_original.jpg)
 *1910 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-13199 | Description: Forced labor company, Mainzer Landstraße 249-251*
 

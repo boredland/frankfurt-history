@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Weserstraße 46](../../images/Weserstras_3dc7fd255403c30ee2e88d5bcb378475_original.jpg)
 *vor 1926 — Author: Kurt Reich | License: ISG | Description: Weserstraße 46*
 

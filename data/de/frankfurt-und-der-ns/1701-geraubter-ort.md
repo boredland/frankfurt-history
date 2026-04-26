@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kleebergstraße 6](../../images/Kleebergst_dc1a74859938af911dab3f64987f06aa_original.jpg)
 *ca. 1914 — Author: Musch & May | License: ISG | Description: Kleebergstraße 6*
 

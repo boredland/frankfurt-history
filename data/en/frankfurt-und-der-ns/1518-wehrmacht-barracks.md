@@ -20,6 +20,7 @@ The Wehrmacht barracks of an intelligence unit, inaugurated in 1938, were locate
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Former barracks building](../../images/Kasernenge_f6883ecc726d61d0f0a36bd16d122bb4_original.jpg)
 *2023 — Description: Former barracks building*
 

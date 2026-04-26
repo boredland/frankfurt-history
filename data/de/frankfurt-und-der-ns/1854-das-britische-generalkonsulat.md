@@ -22,6 +22,7 @@ Nach den Novemberpogromen 1938 half das Konsulat den Jüdinnen und Juden. Auch 1
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die Gedenktafel in der Guiollettstraße 62 erinnert an das Wirken und die Hilfe des Britisches Generalkonsulat: Smallbones und Dowden retteten mehrere Tausende Juden und Jüdinnen vor der nazionalsozialistischen Verfolgung.](../../images/Gedenktafe_a2471bfc2598a818c944f9691cbaad7d_original.jpg)
 *2024 — Author: Aliah Habl Corona | License: gemeinfrei | Description: Die Gedenktafel in der Guiollettstraße 62 erinnert an das Wirken und die Hilfe des Britisches Generalkonsulat: Smallbones und Dowden retteten mehrere Tausende Juden und Jüdinnen vor der nazionalsozialistischen Verfolgung.*
 

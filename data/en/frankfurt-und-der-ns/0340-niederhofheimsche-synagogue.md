@@ -30,6 +30,7 @@ The first floor of Rechneigrabenstrasse 5 was home to the Niederhofheim Synagogu
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of the exterior façade of Rechneigrabenstraße 3-5; the building housed, among other things, a synagogue, which was also used as a forced labour camp at times.](../../images/isg_ffm_s7_8b4b1707cc660d2fdf1c43063b62be75_original.jpg)
 *1939 — Author: Fried Lübbecke | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2005-207 | Description: Photo of the exterior façade of Rechneigrabenstraße 3-5; the building housed, among other things, a synagogue, which was also used as a forced labour camp at times.*
 

@@ -22,6 +22,7 @@ Klostergasse 8 (now Kurt-Schumacher-Strasse) was the site of a forced labour cam
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Kurt-Schumacher-Straße 15-17](../../images/Ph06493_jp_71d707ec2322c5105412c41f0214393f_original.jpg)
 *ca. 1930 — Author: Rainer Emanuel | License: HMF, Ph06493 | Description: Forced labor camp, Kurt-Schumacher-Straße 15-17*
 

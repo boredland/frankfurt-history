@@ -33,6 +33,7 @@ In May 1943, neighbors complained about noise, stench and vermin – a sign of t
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Apartment building at Reuterweg 91 / Irrigation plan, site plan, floor plan, sectional vie, Nov. 11th, 1942.](../../images/49942cee1205fec78c6dbc00dc2bd5f5_original.jpg)
 *n.d. — Author: Unbekannt | License: ISG FFM, Best. A.63.03 Nr. 18484 | Description: Apartment building at Reuterweg 91 / Irrigation plan, site plan, floor plan, sectional vie, Nov. 11th, 1942.*
 
@@ -45,6 +46,7 @@ In May 1943, neighbors complained about noise, stench and vermin – a sign of t
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the house at Reuterweg 91.](../../images/Reuterweg%20_84bc8c6dd23abf03031ce2abcb2a0008_original.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: View of the house at Reuterweg 91.*
 

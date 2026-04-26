@@ -37,6 +37,7 @@ Klara Sichel, geboren am 05.08.1892 in Hochstadt, war die einzige Tochter von He
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Alte Gasse](../../images/1-Alte-Gas_c706b566828b08bf84c1b4db6d357741_original.jpg)
 *2024 — Author: Chiara Mascolo, Conrad Wiedemann | Description: Alte Gasse*
 
@@ -46,6 +47,7 @@ Klara Sichel, geboren am 05.08.1892 in Hochstadt, war die einzige Tochter von He
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Unterschrift von Henriette Sichel. Dies ist vermutlich das letzte Lebenszeichen, das dokumentiert wurde, bevor sie nach Buchenwald deportiert wurde.](../../images/4-Untersch_b0e501785d192d51926f0e7aa6863117_original.jpg)
 *License: HHStAW, 518/8808 | Description: Unterschrift von Henriette Sichel. Dies ist vermutlich das letzte Lebenszeichen, das dokumentiert wurde, bevor sie nach Buchenwald deportiert wurde.*
 

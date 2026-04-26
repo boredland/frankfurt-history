@@ -25,6 +25,7 @@ Ab Dezember 1938 war es als jüdisch Verfolgten verboten, Gegenstände aus Gold,
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Städtische Darlehensanstalt](../../images/7ca39895a3f35f502c99a84b93c60391_original.jpg)
 *vor 1941 — Author: Otto Emmel | License: HMF, Ph21687 | Description: Städtische Darlehensanstalt*
 

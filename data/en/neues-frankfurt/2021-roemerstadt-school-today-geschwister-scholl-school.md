@@ -31,6 +31,7 @@ Further reading: Christina Gräwe: Die Römerstadt-Schule. In: Elsaesser/Gräwe/
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![View of the school with schoolyard](../../images/Roemerstad_dcb3a7df37c90d46c580624eaa9a7d37_original.jpg)
 *around 1930 — Author: Unbekannt | License: ernst-may-gesellschaft e.V. | Description: View of the school with schoolyard*
 

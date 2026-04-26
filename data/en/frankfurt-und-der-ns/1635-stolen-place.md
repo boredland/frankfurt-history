@@ -25,6 +25,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Eysseneckstraße 3](../../images/Eyssenecks_43b628f8f64c7b4dec5ddc15df478868_original.jpg)
 *1983 — Author: Jutta Hofmann | License: ISG | Description: Eysseneckstraße 3*
 

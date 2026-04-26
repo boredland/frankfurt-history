@@ -23,6 +23,7 @@ Between 1943 and 1945, the Lurgi Werkstätten, an operation for coal refinement,
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Photo of a building belonging to Lurgi Werkstätten GmbH, which operated a forced labour camp on its factory premises](../../images/ddb3f71c2e1766b5d85109f1678c4686_original.jpg)
 *ca. 1930 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-30046 | Description: Photo of a building belonging to Lurgi Werkstätten GmbH, which operated a forced labour camp on its factory premises*
 

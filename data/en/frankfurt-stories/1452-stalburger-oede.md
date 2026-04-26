@@ -26,6 +26,7 @@ In 1873, during a period of 19th-century urban expansion, the area was developed
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Stalburger Oede, eastside with bridge and moat, 1859, watercolored pencil drawing, HMF RS0131](../../images/RS0131_png_80fab762820749e63b105124ffb4f891_original.jpg)
 *1859 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Stalburger Oede, eastside with bridge and moat, 1859, watercolored pencil drawing, HMF RS0131*
 

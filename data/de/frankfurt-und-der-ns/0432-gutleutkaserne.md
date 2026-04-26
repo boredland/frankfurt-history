@@ -24,6 +24,7 @@ In der Gutleutkaserne wurde im Sommer 1940 das Polizeibataillon 306 ausgebildet.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![DXR](../../images/29bbed895c86b6c37bc0e5308c3999d4_original.jpg)
 *o.D. — Author: DXR | License: CC BY-SA 4.0 | Description: DXR*
 

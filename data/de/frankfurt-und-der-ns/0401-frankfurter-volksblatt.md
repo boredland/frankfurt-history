@@ -19,6 +19,7 @@ Hier findest du verschiedene Perspektiven auf den Ort.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Redaktion des Frankfurter Volksblatt](../../images/Ph38327_jp_d9e2578eef24719a8428060121225ff8_original.jpg)
 *vor 1945 — Description: Redaktion des Frankfurter Volksblatt*
 

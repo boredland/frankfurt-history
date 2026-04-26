@@ -33,6 +33,7 @@ Quelle: Klaus Klemp: In: Moderne am Main 1919–1933. Frankfurt am Main 2019, S.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftaufnahme des Messegeländes mit der 1907 bis 1909 erbauten Festhalle und dem von Peter Behrens entworfenen „Haus der Moden“ von 1924.](../../images/isg_ffm_s7_7e93f22c7cb1233b985fdf45ee6b0f78_original.jpg)
 *1.9.1925 — Author: Südwestdeutsche Luftverkehrs-AG | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Luftaufnahme des Messegeländes mit der 1907 bis 1909 erbauten Festhalle und dem von Peter Behrens entworfenen „Haus der Moden“ von 1924.*
 

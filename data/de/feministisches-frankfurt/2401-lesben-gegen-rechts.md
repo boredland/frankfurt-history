@@ -20,6 +20,7 @@ Auf dem Klaus-Mann-Platz befindet sich das Mahnmal Homosexuellenverfolgung. An d
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Das Mahnmal für die Verfolgung und Kriminalisierung von Homosexuellen, entworfen von Rosemarie Trockel, steht seit 1994 auf dem Klaus-Mann-Platz in der Frankfurter Innenstadt](../../images/frankfurte_04e14809b96ace27f46307b777c45417_original.jpg)
 *Unbekannt — Author: Axel Schneider | License: IMH / Axel Schneider – www.frankfurter-engel.de | Description: Das Mahnmal für die Verfolgung und Kriminalisierung von Homosexuellen, entworfen von Rosemarie Trockel, steht seit 1994 auf dem Klaus-Mann-Platz in der Frankfurter Innenstadt*
 

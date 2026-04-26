@@ -25,6 +25,7 @@ Die in Kooperation mit der Jüdischen Wohlfahrtspflege tätige Beratungsstelle f
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto der Jüdischen Anlernwerkstätte](../../images/C27897_jpg_1700195052f811de780f0d25be6fb4a8_original.jpg)
 *1932 — Author: Leonhard Kleemann | License: HMF C27897 | Description: Foto der Jüdischen Anlernwerkstätte*
 

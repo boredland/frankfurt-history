@@ -28,6 +28,7 @@ The new Church of the Three Kings was consecrated in 1881. It survived the Secon
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, view of the old Dreikönigskirche (seen from the house at Löhergasse no. 49), 1874, watercolored pencil drawing, HMF RS0050](../../images/RS0050_png_fc72188f50c5925862b813716620fc2c_original.jpg)
 *1874 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, view of the old Dreikönigskirche (seen from the house at Löhergasse no. 49), 1874, watercolored pencil drawing, HMF RS0050*
 

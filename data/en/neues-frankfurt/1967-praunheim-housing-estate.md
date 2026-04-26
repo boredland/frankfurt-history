@@ -16,5 +16,9 @@ filters:
 
 ![](../../images/603fd5412206b6662fc24f57033ae021_original.jpg)
 
-## Interactive Before & After
+## Before & After
+
+<!-- gallery:before-after -->
+![Street view of the Praunheim housing estate.](../../images/isg_ffm_s7_2bc72befb78fd5c23500b252cce01231_original.jpg)
+*around 1930 — Author: unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Street view of the Praunheim housing estate.*
 

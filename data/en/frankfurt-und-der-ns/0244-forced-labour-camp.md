@@ -22,6 +22,7 @@ Josef Münstermann & Co., a foodstuffs and egg wholesale company based at Landgr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Landgrafenstraße 12](../../images/61c640dcb86cbedb24bec44f34247588_original.jpg)
 *1907 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-20090 | Description: Forced labor camp, Landgrafenstraße 12*
 

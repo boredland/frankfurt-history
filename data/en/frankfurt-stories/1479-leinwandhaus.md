@@ -28,6 +28,7 @@ The interior of the Leinwandhaus burnt out in the Second World War. The building
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Leinwandhaus, front view, 1837, pencil drawing, HMF R0387](../../images/R0387_png_5ea73cefa47f21ddce93eac5b74c683d_original.jpg)
 *1837 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Leinwandhaus, front view, 1837, pencil drawing, HMF R0387*
 

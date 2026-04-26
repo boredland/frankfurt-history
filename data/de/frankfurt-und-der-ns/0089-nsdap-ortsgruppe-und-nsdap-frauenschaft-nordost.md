@@ -24,6 +24,7 @@ Hier hatte die Ortsgruppe Bockenheim der Nationalsozialistischen Deutschen Arbei
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des ehemaligen Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Nordost](../../images/a539e7ec756388d67f9e591670880568_original.jpg)
 *2019 — Author: Martin Starl | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2019-693 | Description: Foto des ehemaligen Sitzes der NSDAP Ortsgruppe und NSDAP Frauenschaft Nordost*
 

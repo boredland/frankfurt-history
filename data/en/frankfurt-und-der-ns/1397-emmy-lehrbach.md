@@ -25,6 +25,7 @@ By 2021, 30 Stolpersteine have been laid for this group of victims in Frankfurt.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Mission trip with truck; L-000290](../../images/Lehrbach_E_db61df1613d202b457b6021403c8c430_original.jpg)
 *1932 — License: Jehovas Zeugen, Archiv Zentraleuropa | Description: Mission trip with truck; L-000290*
 

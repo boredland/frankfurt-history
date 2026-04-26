@@ -35,6 +35,7 @@ The municipal health authority staff worked closely together with the public hea
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The City Health Authority was located in this building in Braubachstraße 18-22.](../../images/Stadtgesun_92d7c370a8dba98f691669c1b1970e9d_original.jpg)
 *ca. 1936 — Author: Max Göllner | License: HMF, NS1366 | Description: The City Health Authority was located in this building in Braubachstraße 18-22.*
 

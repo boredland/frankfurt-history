@@ -22,6 +22,7 @@ Under National Socialism, the Georg Vicari & Co. furniture factory based at Alt-
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Hausener Obergasse 49](../../images/1b2486ae29e2353c0d0bd5a8a5837027_original.jpg)
 *1934 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-21742 | Description: Forced labor camp, Hausener Obergasse 49*
 

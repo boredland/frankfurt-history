@@ -28,6 +28,7 @@ Busses left the festival hall over and over again, taking groups of Jewish men t
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![South station](../../images/a9a92efabb3694a9bc680f28c1ab1a8e_original.jpg)
 *ca. 1925 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2012-149 | Description: South station*
 

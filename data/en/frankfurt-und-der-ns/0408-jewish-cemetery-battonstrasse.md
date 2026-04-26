@@ -19,6 +19,7 @@ Here you will find different perspectives on the place.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial site Börneplatz](../../images/e0b4f881ba21d35e11ce265fff830730_original.jpg)
 *Author: Norbert Miguletz | Description: Memorial site Börneplatz*
 

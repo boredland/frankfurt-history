@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kaiserstraße 70](../../images/Kaiserstra_aa009508452ba5535484e27df16d79f5_original.jpg)
 *1946 — Author: Postkartensammlung Church | License: HMF | Description: Kaiserstraße 70*
 

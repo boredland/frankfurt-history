@@ -25,6 +25,7 @@ Frauen blieb im 19. Jahrhundert die rechtliche Gleichstellung verwehrt. So fehlt
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Foto des Salon der Clotilde Koch-Gontard](../../images/04%20Am%20Salz_2225e20aa4d481a4b659b25eb3608eb6_original.jpg)
 *um 1908 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2348 | Description: Foto des Salon der Clotilde Koch-Gontard*
 

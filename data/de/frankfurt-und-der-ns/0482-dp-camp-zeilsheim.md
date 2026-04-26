@@ -24,6 +24,7 @@ Während des Krieges waren die Insassen des Lagers ausländische und verschleppt
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Der Eingang zum DP-Lagers Zeilsheim an der Kreuzung Pfaffenwiese und Hahnbergstraße.](../../images/2-Station-_04a4764722f373e476081837519c7abe_original.jpg)
 *o.D. — Author: Ephraim Mayer Robinson | License: Ghetto Fighters House Museum, Israel/ Photo Archive, photographer: Robinson, Foto, Zeilsheim, Catalog no. 1929. | Description: Der Eingang zum DP-Lagers Zeilsheim an der Kreuzung Pfaffenwiese und Hahnbergstraße.*
 

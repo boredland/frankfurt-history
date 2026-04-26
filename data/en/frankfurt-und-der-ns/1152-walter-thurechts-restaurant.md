@@ -22,6 +22,7 @@ The bar at Grosse Fischergasse 14 had been in existence since 1899. (The street 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Detail of the model of the historical city center by the Treuner brothers. View of the southern buildings on the western side of Große Fischergasse. The exact location of the restaurant cannot be determined, but the photograph gives an impression of Große Fischergasse. Photo: HMF, Uwe Dettmar](../../images/X281394400_d808585a5ec97e7b48efbb45087caf4f_original.jpg)
 *Author: Uwe Dettmar | Description: Detail of the model of the historical city center by the Treuner brothers. View of the southern buildings on the western side of Große Fischergasse. The exact location of the restaurant cannot be determined, but the photograph gives an impression of Große Fischergasse. Photo: HMF, Uwe Dettmar*
 

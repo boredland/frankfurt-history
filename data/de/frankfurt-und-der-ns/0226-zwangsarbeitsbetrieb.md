@@ -24,6 +24,7 @@ Die Werkzeugmaschinenfabrik Meuser & Co. setzte seit 1942 Zwangsarbeiter*innen e
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitsbetrieb, Hanauer Landstraße 475](../../images/de1a03c6eb2ab175cc94a133e62021d9_original.jpg)
 *1970 — Author: Hans Schleiss | License: Institut für Stadtgeschichte, Frankfurt Best. S7C Nr. 2012-247 | Description: Zwangsarbeitsbetrieb, Hanauer Landstraße 475*
 

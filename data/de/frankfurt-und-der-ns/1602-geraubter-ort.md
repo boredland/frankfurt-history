@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Alt Rödelheim 23](../../images/Alt-Roedel_91f10267a534377853b7e4ef3a39fd5e_original.jpg)
 *ca. 1920 — License: ISG | Description: Alt Rödelheim 23*
 

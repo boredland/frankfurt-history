@@ -23,6 +23,7 @@ Research: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Holbeinstraße 29](../../images/Holbeinstr_c73daa4764601d6c17a554b8cec61866_original.jpg)
 *ca. 1908 — Author: Gustav Günther | License: ISG | Description: Holbeinstraße 29*
 

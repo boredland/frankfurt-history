@@ -24,6 +24,7 @@ During the years of the Nazi regime, the Höchst Prison held people on remand, i
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Höchst Women's Prison](../../images/Frauenstra_daec936363814b5ac11acc0221488afe_original.jpg)
 *n. d. — Author: Unbekannt | License: ISG | Description: Höchst Women's Prison*
 

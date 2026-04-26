@@ -25,6 +25,7 @@ Die I.G. Farben-Industrie AG setzte in ihren drei Frankfurter Chemiewerken Höch
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Außenansicht des Turnvereins Schwanheim](../../images/11118bc2b3e06577663bc84e73151e25_original.jpg)
 *1939 — Author: unbekannt | License: HMF / Sammlung Church C80405 | Description: Bildpostkarte mit Außenansicht des Turnvereins Schwanheim*
 

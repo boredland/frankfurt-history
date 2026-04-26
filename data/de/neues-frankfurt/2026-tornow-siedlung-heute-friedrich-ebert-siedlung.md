@@ -37,6 +37,7 @@ Lutz Mohnhaupt: Die Friedrich-Ebert-Siedlung. In: Geschichtswerkstatt Gallus (Hg
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Luftaufnahme der Siedlung.](../../images/isg_ffm_s7_6328420e9aff31f3982f3d45395ff3aa_original.jpg)
 *um 1939 — Author: Unbekannt | License: Institut für Stadtgeschichte Frankfurt am Main | Description: Luftaufnahme der Siedlung.*
 

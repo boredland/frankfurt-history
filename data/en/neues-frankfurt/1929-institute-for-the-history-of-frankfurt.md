@@ -23,6 +23,7 @@ The Institute for the History of Frankfurt (ISG) is the municipal archive of the
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Exterior view of the Institute for the History of Frankfurt](../../images/Au%C3%9Fenansi_e460e0e6976397cdfb7e6b38af98070c_original.jpg)
 *2021 — Author: Uwe Dettmar | License: Institut für Stadtgeschichte | Description: Exterior view of the Institute for the History of Frankfurt*
 

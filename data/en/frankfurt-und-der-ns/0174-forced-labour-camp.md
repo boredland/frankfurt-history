@@ -24,6 +24,7 @@ The Körner School (now Michael Ende School) served as a lodging for prisoners o
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Assenheimer Straße 38-40](../../images/f88e51560dc0bd254adb39f5691e47b9_original.jpg)
 *unknown — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-24687 | Description: Forced labor camp, Assenheimer Straße 38-40*
 

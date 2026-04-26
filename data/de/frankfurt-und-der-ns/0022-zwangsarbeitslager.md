@@ -24,6 +24,7 @@ In der Uhlandstraße 4 wohnten 1943 und 1944 30 Zwangsarbeiter und 37 Zwangsarbe
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit Außen- und Innenansicht der Gaststätte Beck](../../images/de2bec38da67e5fd57f95cb54a592016_original.jpg)
 *1942 — Author: unbekannt | License: HMF / Sammlung Church C80392 | Description: Bildpostkarte mit Außen- und Innenansicht der Gaststätte Beck*
 

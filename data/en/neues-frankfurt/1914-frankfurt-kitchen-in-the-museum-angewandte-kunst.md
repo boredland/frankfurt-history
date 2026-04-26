@@ -25,6 +25,7 @@ Further reading: Klaus Klemp, Matthias Wagner K (eds.): Das Neue Frankfurt und d
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![The Frankfurt kitchen in the Museum Angewandte Kunst](../../images/frankfurte_757ac914b7e2d5609c996c74cb40a8e2_original.jpg)
 *2017 — Author: Anja Jahn | License: Museum Angewandte Kunst | Description: The Frankfurt kitchen in the Museum Angewandte Kunst*
 

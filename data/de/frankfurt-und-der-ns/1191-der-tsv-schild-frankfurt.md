@@ -23,6 +23,7 @@ Der TSV Schild Frankfurt wurde zum größten Verein im Schild-Verband. Viele bek
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die Handballerinnen des TSV Schild wurden sowohl 1936/37 wie 1937/38 Reichsmeisterinnen. Auf den Trikots haben die meisten das Emblem des Schild aufgenäht, das große S. Im Hintergrund ist der Aufruf „werdet Mitglied im Kulturbund“ zu sehen. Von links: Anny Freund, Trude Seligmann, Gretel Landau, Friedel Sommer, Betty Blumenfeld, Marga Markus, Helga Horn, Gretel Sichel, Lotte Sichel, Emmy Wertheimer, Alice Wohlfahrt. Bildrechte: Nachlass J. Bendorf](../../images/9e6560b43bbfdfd77d48ae75e5111d2e_original.jpg)
 *Author: Julius Bendorf | Description: Die Handballerinnen des TSV Schild wurden sowohl 1936/37 wie 1937/38 Reichsmeisterinnen. Auf den Trikots haben die meisten das Emblem des Schild aufgenäht, das große S. Im Hintergrund ist der Aufruf „werdet Mitglied im Kulturbund“ zu sehen. Von links: Anny Freund, Trude Seligmann, Gretel Landau, Friedel Sommer, Betty Blumenfeld, Marga Markus, Helga Horn, Gretel Sichel, Lotte Sichel, Emmy Wertheimer, Alice Wohlfahrt. Bildrechte: Nachlass J. Bendorf*
 

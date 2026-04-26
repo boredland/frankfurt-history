@@ -29,6 +29,7 @@ Today, these buildings house the Historical Museum. The collections include some
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Saalhof, wood-carved gable facing Saalgasse, 1863, watercolored pencil drawing, HMF R0669](../../images/R0669_png_31ac760ac8426ceff21a8ffd42015de0_original.jpg)
 *1863 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Saalhof, wood-carved gable facing Saalgasse, 1863, watercolored pencil drawing, HMF R0669*
 

@@ -34,12 +34,14 @@ Das Franzosen-Sammellager Rückertstraße 53 wurde ab dem 7. November 1943 von d
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Frontansicht der Rückertstraße 53.](../../images/db2105cf8330c9d7f849d1dbceb9d8d7_original.jpg)
 *2025 — Author: Christine Hartwig-Thürmer | License: Christine Hartwig-Thürmer | Description: Frontansicht der Rückertstraße 53.*
 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kaufvertrag für die Liegenschaft Rückertstraße 53 zwischen der Reichsvereinigung der Juden in Deutschland und der Stadt Frankfurt am Main vom 14. April 1943, S. 1.](../../images/isg_ffm_a__7ecf53ee98869008d463fcec5d512098_original.jpg)
 *o.D. — Author: Unbekannt | License: ISG FFM Best. A.62.02 Nr. 1022 | Description: Kaufvertrag für die Liegenschaft Rückertstraße 53 zwischen der Reichsvereinigung der Juden in Deutschland und der Stadt Frankfurt am Main vom 14. April 1943, S. 1.*
 

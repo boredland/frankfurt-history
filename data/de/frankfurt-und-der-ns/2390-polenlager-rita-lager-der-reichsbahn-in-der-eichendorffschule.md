@@ -25,6 +25,7 @@ Doch als die Bombenangriffe auf Frankfurt 1943 und 1944 zunahmen, wurde die Mehr
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Die Waldschule (späterer Name Eichendorffschule) im Eröffnungsjahr 1918](../../images/Waldschule_b46dbae54964f3905e5267ae4c9a3c04_original.jpg)
 *1918 — Author: Verlag Georg Emrich, Griesheim | License: Geschichtsverein Griesheim e.V. | Description: Die Waldschule (späterer Name Eichendorffschule) im Eröffnungsjahr 1918*
 

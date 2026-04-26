@@ -22,6 +22,7 @@ The first and second companies of the construction and labour battalion 42 were 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Luxemburger Allee 1-3](../../images/2a8a8c682a7ba33d5e5f2bcabc97395e_original.jpg)
 *ca. 1939 — Author: Unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-19131 | Description: Forced labor camp, Luxemburger Allee 1-3*
 

@@ -28,6 +28,7 @@ Nach dem Zweiten Weltkrieg wurde das Haus wiederaufgebaut. Seit 1962 beheimatet 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Carl Theodor Reiffenstein, Steinernes Haus, 1845, Aquarell, HMF C16226](../../images/C16226_png_dc2f16036b1f0592287739c084166ad9_original.jpg)
 *1845 — Author: Carl Theodor Reiffenstein | License: HMF | Description: Carl Theodor Reiffenstein, Steinernes Haus, 1845, Aquarell, HMF C16226*
 

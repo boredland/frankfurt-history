@@ -24,6 +24,7 @@ The resistance activist Anna Beyer had a suitcase especially primed to print the
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Resistance action by Anna Beyer, Eiserner Steg](../../images/c7915bf9ff03f02d4d715689bfa71171_original.jpg)
 *2022 — Author: Katharina Müller | License: VG Bild-Kunst, Bonn 2022 | Description: Resistance action by Anna Beyer, Eiserner Steg*
 

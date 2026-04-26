@@ -19,6 +19,7 @@ filters:
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![](../../images/isg_gt_sta_20c82a3309c77d703b56471dd3d4cb7e_original.jpg)
 *Author: © Institut für Stadtgeschichte*
 

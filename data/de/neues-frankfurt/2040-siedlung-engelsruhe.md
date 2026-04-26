@@ -34,6 +34,7 @@ Das Neue Frankfurt, 4. Jg., H. 4/5 (April/Mai 1930), S. 132.
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Plan der Siedlung Engelsruhe. Schwarz eingefärbt die Häuser, die 1929 gebaut wurden.](../../images/Engelsruhe_923228f62659e0e1c1dd52f952ef151d_original.jpg)
 *1930 — Author: Unbekannt | License: Das Neue Frankfurt, 1930, Heft 4/5, S. 132 (Sammlung der ernst-may-gesellschaft e.V.) | Description: Plan der Siedlung Engelsruhe. Schwarz eingefärbt die Häuser, die 1929 gebaut wurden.*
 

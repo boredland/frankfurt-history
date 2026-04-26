@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Kaiserstraße 66](../../images/Kaiserstra_e01e110f3bf19ab290ab34cf937fbd5f_original.jpg)
 *um 1900 — Author: Postkartensammlung Church | License: HMF | Description: Kaiserstraße 66*
 

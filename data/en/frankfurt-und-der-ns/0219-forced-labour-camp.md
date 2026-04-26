@@ -22,6 +22,7 @@ The dyestuffs manufacturer I.G. Farben-Industrie had its administrative headquar
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Norbert-Wollheim-Platz 1](../../images/6c3cd7858d4fbb52ae73dd9370ff1257_original.jpg)
 *1937 — Author: Unbekannt | License: HMF, C31431 | Description: Forced labor camp, Norbert-Wollheim-Platz 1*
 

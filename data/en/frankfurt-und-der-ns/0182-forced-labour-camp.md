@@ -24,6 +24,7 @@ W. Schmidt-Diehler & Co., which engaged in building construction, was based at A
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Forced labor camp, Mainzer Landstraße 27](../../images/9f4bce829042560b794655b95f360dcf_original.jpg)
 *1933 — Author: Hannah Reeck | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 1998-11192 | Description: Forced labor camp, Mainzer Landstraße 27*
 

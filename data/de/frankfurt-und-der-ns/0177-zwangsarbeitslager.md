@@ -24,6 +24,7 @@ Die Firma für Möbeltransporte Heinrich Herget mit Sitz in der Berger Straße 1
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Bildpostkarte mit dem Fuhrpark der Firma Heinrich Herget](../../images/c7086f7756e58f3a6e3832c1a79f5e88_original.jpg)
 *ca. 1900 — Author: unbekannt | License: HMF, Sammlung Church, C80364 | Description: Bildpostkarte mit dem Fuhrpark der Firma Heinrich Herget*
 

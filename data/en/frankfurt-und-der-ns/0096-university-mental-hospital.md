@@ -27,6 +27,7 @@ This was the location of the University Psychiatric Clinic, as it was called. He
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![University psychiatric hospital, Heinrich-Hoffmann-Straße 10](../../images/c628295604a7ff5c1292793470e364c9_original.jpg)
 *ca. 1931 — Author: Otto Emmel | License: HMF, Ph35169 | Description: University psychiatric hospital, Heinrich-Hoffmann-Straße 10*
 

@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Eschersheimer Landstraße 68](../../images/Eschershei_fb4bdc06b6c7e6116efcd55f2068ab2b_original.jpg)
 *2002 — Author: Martin Starl | License: ISG | Description: Eschersheimer Landstraße 68*
 

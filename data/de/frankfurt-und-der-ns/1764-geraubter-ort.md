@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Senckenberganlage](../../images/Senckenber_c8f72abbac0516fa9910148e99039e8f_original.jpg)
 *vor 1944 — Author: Südwestdeutsche Luftverkehrs AG | License: ISG | Description: Senckenberganlage*
 

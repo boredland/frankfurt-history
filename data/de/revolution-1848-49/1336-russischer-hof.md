@@ -25,6 +25,7 @@ Der Russische Hof diente 1848 auch dem Abgeordneten Eduard Martin Simson als Qua
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Lithografie des Russischen Hofs](../../images/09%20Russisc_95915dbf5076eebb9343b4b4bf65bbda_original.jpg)
 *um 1850 — Author: J. H. Martens | License: Institut für Stadtgeschichte, Frankfurt Best. S13 Nr. 283 | Description: Lithografie des Russischen Hofs*
 

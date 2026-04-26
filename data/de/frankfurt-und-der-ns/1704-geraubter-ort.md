@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Königswarterstraße 25](../../images/Koenigswar_664d773ae56e4e97b872db7a11e1a273_original.jpg)
 *2012 — Author: Martin Starl | License: ISG | Description: Königswarterstraße 25*
 

@@ -23,6 +23,7 @@ Recherche: Jutta Zwilling
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zeil 80-82](../../images/Zeil-80-82_506764ac161cbaac15a66596e970cc88_original.jpg)
 *ca. 1890 — Author: Rembrandt van Rijn | License: HMF | Description: Zeil 80-82*
 

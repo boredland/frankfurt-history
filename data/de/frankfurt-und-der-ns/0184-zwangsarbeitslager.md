@@ -24,6 +24,7 @@ Die Spezialfabrik für elektrische Starkstromapparate Voigt & Haeffner betrieb i
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Zwangsarbeitslager, Burglehen 7](../../images/35d0aefd6b061071af521137fc11e3c7_original.jpg)
 *1938 — Author: unbekannt | License: Institut für Stadtgeschichte, Frankfurt Best. S7A Nr. 2010-16 | Description: Zwangsarbeitslager, Burglehen 7*
 

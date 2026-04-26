@@ -25,6 +25,7 @@ In these works, she combined feminist discourses on labour, gender and justice w
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Tatjana Turanskyj at Remake. Frankfurt Women's Film FestivalSource: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection](../../images/R2_2_jpg_d52a61f52c65be670a4b66aadf2ceb49_original.jpg)
 *2018 — Author: Swenja Bergold | License: Swenja Bergold | Description: Tatjana Turanskyj at Remake. Frankfurt Women's Film FestivalSource: Kinothek Asta Nielsen Archive, Tatjana Turanskyj collection*
 

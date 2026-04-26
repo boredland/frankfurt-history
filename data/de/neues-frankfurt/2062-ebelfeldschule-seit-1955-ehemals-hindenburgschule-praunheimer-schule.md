@@ -31,6 +31,7 @@ Quelle: Heike Risse: Frühe Moderne in Frankfurt am Main 1920–1933. Frankfurt 
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Unterricht im Freiluft-Klassenzimmer.](../../images/isg_ffm_s7_ce86734fbb85f6c42427aa7b0a4c2cc1_original.jpg)
 *um 1927 — Author: Institut für Stadtgeschichte, Frankfurt am Main | License: unbekannt / unknown | Description: Unterricht im Freiluft-Klassenzimmer.*
 

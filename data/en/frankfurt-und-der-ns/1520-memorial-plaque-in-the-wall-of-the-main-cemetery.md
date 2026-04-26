@@ -20,6 +20,7 @@ There is a memorial plaque on the wall of the main cemetery. It commemorates the
 
 ## Gallery
 
+<!-- gallery:standard -->
 ![Memorial plaque on the wall of the main cemetery](../../images/Gedenktafe_41e70dc68f2d9cafc15cfd2e62818a58_original.jpg)
 *2023 — Description: Memorial plaque on the wall of the main cemetery*
 
