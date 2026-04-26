@@ -13,8 +13,7 @@ const PRESETS: Record<ImagePreset, string> = {
 
 export function imageUrl(src: string, preset: ImagePreset = "article"): string {
   if (!src.startsWith(R2_PUBLIC_URL)) return src;
-  const path = src.slice(R2_PUBLIC_URL.length);
-  return `${PROXY_BASE}/${PRESETS[preset]}${path}`;
+  return `${PROXY_BASE}/${PRESETS[preset]}/${src}`;
 }
 
 export function rewriteImgSrc(html: string, preset: ImagePreset): string {
