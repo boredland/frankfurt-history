@@ -8,6 +8,8 @@ import {
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { z } from "zod";
 import { MapView } from "~/components/MapView";
+import { NearbyPanel } from "~/components/NearbyPanel";
+import { SearchDialog } from "~/components/SearchDialog";
 import { NavigationProvider } from "~/lib/NavigationContext";
 import type { Theme } from "~/lib/themes";
 
@@ -92,6 +94,20 @@ function LangLayout() {
   });
   const activeSlug = articleMatch?.params?.slug;
 
+  const [searchOpen, setSearchOpen] = useState(false);
+  const [nearbyOpen, setNearbyOpen] = useState(false);
+
+  useEffect(() => {
+    function onKeyDown(e: KeyboardEvent) {
+      if ((e.metaKey || e.ctrlKey) && e.key === "k") {
+        e.preventDefault();
+        setSearchOpen((o) => !o);
+      }
+    }
+    document.addEventListener("keydown", onKeyDown);
+    return () => document.removeEventListener("keydown", onKeyDown);
+  }, []);
+
   const [allThemeIds, setAllThemeIds] = useState<number[]>([]);
   const layersFromUrl = useMemo(
     () => parseLayersParam(search.layers),
@@ -137,7 +153,53 @@ function LangLayout() {
           <h1 className="font-serif text-lg font-bold tracking-tight text-ink">
             Frankfurt History
           </h1>
-          <LanguageToggle lang={lang} />
+          <div className="flex items-center gap-1">
+            <button
+              type="button"
+              onClick={() => setSearchOpen(true)}
+              className="flex items-center gap-1.5 px-2 py-1 text-faded hover:text-ink rounded cursor-pointer transition-colors"
+              aria-label={lang === "de" ? "Suche" : "Search"}
+            >
+              <svg
+                width="15"
+                height="15"
+                viewBox="0 0 18 18"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="1.5"
+                role="img"
+                aria-label="Search"
+              >
+                <circle cx="7.5" cy="7.5" r="5.5" />
+                <path d="M11.5 11.5L16 16" />
+              </svg>
+              <kbd className="hidden sm:inline-block text-[10px] border border-sepia-light rounded px-1 py-0.5 text-faded/70">
+                /K
+              </kbd>
+            </button>
+            <button
+              type="button"
+              onClick={() => setNearbyOpen(true)}
+              className="p-1.5 text-faded hover:text-red-oxide rounded cursor-pointer transition-colors"
+              aria-label={lang === "de" ? "In der Nähe" : "Nearby"}
+              title={lang === "de" ? "In der Nähe" : "Nearby"}
+            >
+              <svg
+                width="16"
+                height="16"
+                viewBox="0 0 16 16"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="1.5"
+                role="img"
+                aria-label="Nearby"
+              >
+                <path d="M8 1C5.24 1 3 3.24 3 6c0 3.75 5 9 5 9s5-5.25 5-9c0-2.76-2.24-5-5-5z" />
+                <circle cx="8" cy="6" r="1.5" />
+              </svg>
+            </button>
+            <LanguageToggle lang={lang} />
+          </div>
         </header>
         <div className="flex-1 flex overflow-hidden relative">
           <MapView
@@ -152,6 +214,16 @@ function LangLayout() {
           <Outlet />
         </div>
       </div>
+      <SearchDialog
+        lang={lang}
+        open={searchOpen}
+        onClose={() => setSearchOpen(false)}
+      />
+      <NearbyPanel
+        lang={lang}
+        open={nearbyOpen}
+        onClose={() => setNearbyOpen(false)}
+      />
     </NavigationProvider>
   );
 }
