@@ -80,15 +80,37 @@ body,
   header,
   .maplibregl-map,
   .maplibregl-canvas,
-  [aria-label="Toggle layers"] {
+  .maplibregl-control-container,
+  [aria-label="Toggle layers"],
+  [aria-label="Share"],
+  [aria-label="Print"],
+  [aria-label="Close"] {
     display: none !important;
+  }
+  body,
+  #root,
+  #root > div,
+  #root > div > div {
+    height: auto !important;
+    overflow: visible !important;
+    position: static !important;
+    display: block !important;
+  }
+  .sm\:w-\[420px\] {
+    position: static !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    border: none !important;
+    box-shadow: none !important;
+    overflow: visible !important;
   }
   .article-body {
     max-width: 100% !important;
     padding: 0 !important;
   }
   .article-body img {
-    max-height: 300px;
+    max-height: 400px;
     object-fit: contain;
     page-break-inside: avoid;
   }
