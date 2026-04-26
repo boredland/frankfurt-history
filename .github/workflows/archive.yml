@@ -1,0 +1,32 @@
+name: Archive Frankfurt History
+
+on:
+  schedule:
+    - cron: "0 3 * * 1" # Weekly on Monday at 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Run archival
+        run: uv run archive.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "archive: update $(date -u +%Y-%m-%d)"
+            git push
+          fi
