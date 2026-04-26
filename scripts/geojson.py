@@ -2,6 +2,7 @@
 """Build GeoJSON feature collections and theme index from archived markdown."""
 
 import json
+import os
 import re
 import shutil
 import sys
@@ -10,6 +11,10 @@ from pathlib import Path
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 OUT_DIR = Path(__file__).resolve().parent.parent / "app" / "public" / "data"
 CONTENT_DIR = Path(__file__).resolve().parent.parent / "app" / "public" / "content"
+
+R2_PUBLIC_URL = os.environ.get(
+    "R2_PUBLIC_URL", "https://pub-d6ff75a2458a49e5b81457a2e7841032.r2.dev"
+)
 
 
 def parse_frontmatter(path: Path) -> dict:
@@ -176,7 +181,8 @@ def main():
         json.dumps(themes, indent=2, ensure_ascii=False) + "\n"
     )
 
-    # Copy markdown files to public/content/ for client-side fetching
+    # Copy markdown files to public/content/, rewriting image paths to R2 URLs
+    image_path_re = re.compile(r"(\.\./)+images/")
     if CONTENT_DIR.exists():
         shutil.rmtree(CONTENT_DIR)
     for theme_dir in sorted(DATA_DIR.iterdir()):
@@ -187,7 +193,9 @@ def main():
         for md in theme_dir.glob("*.md"):
             if md.name.startswith("_"):
                 continue
-            shutil.copy2(md, dest / md.name)
+            text = md.read_text()
+            text = image_path_re.sub(f"{R2_PUBLIC_URL}/images/", text)
+            (dest / md.name).write_text(text)
 
     print(f"\nTotal: {total} POIs across {len(themes)} themes")
     print(f"Output: {OUT_DIR}")
