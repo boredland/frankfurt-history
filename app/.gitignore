@@ -11,7 +11,6 @@ dist
 public/data/
 public/content/
 public/piper/
-public/*.pmtiles
 *.tgz
 
 # code coverage
