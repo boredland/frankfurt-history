@@ -15,7 +15,7 @@ A static web app for exploring the Frankfurt History archive on an interactive m
 | TTS | **Piper ONNX** via `onnxruntime-web` | Offline, runs in browser, good German voices (~20 MB model) |
 | Translation | **API-native** (Accept-Language header) | The API already serves English translations; archive both `de` and `en` at fetch time. Override system allows hand-correcting any translation. |
 | Styling | **Tailwind CSS** | Utility-first, small bundle |
-| Hosting | **Cloudflare Workers** (Pages) | Global edge, free tier generous (100k req/day), static assets on R2 |
+| Hosting | **Cloudflare Workers** (Pages) + **R2** | Global edge, free tier generous (100k req/day); R2 for images + PMTiles (10 GB free, zero egress) |
 
 ## Architecture
 
@@ -332,4 +332,26 @@ Each **theme** gets its own marker color from a restrained palette of muted eart
 
 - **PMTiles source**: Use [Protomaps](https://protomaps.com/) basemap extract for the Frankfurt area (~50–100 MB), or a full Germany extract (~1–2 GB)? Frankfurt-only keeps R2 storage minimal. Custom MapLibre style to match the warm archival color palette.
 - **Historical map overlays**: the original app has Mapbox tilesets for historical maps. We could add georeferenced historical map overlays if the tile data is accessible, or skip this for v1.
-- **Image hosting**: currently images are in Git LFS (~1 GB). For the web app, serve them directly from LFS or copy to the static build output?
+
+## R2 Asset Strategy
+
+All heavy static assets live on a single R2 bucket, served via a custom domain (e.g. `assets.frankfurthistory.pages.dev`):
+
+| Asset | Size | Upload strategy |
+|-------|------|-----------------|
+| PMTiles (Frankfurt area) | ~50–100 MB | One-time extract from Protomaps, re-generate occasionally |
+| POI images (medium) | ~1 GB | Synced by `archive.py` via `wrangler r2 object put`, only uploads new/changed files |
+| Piper TTS models | ~40 MB | Uploaded once per voice model update |
+| Pre-cached routes | ~10–20 MB | Rebuilt by `precache_routes.py`, uploaded in CI |
+
+The archive script keeps Git LFS as the durable backup, but the web app's markdown image references point to R2 URLs. The CI pipeline syncs images to R2 after each archive run:
+
+```
+archive.py → data/images/  (Git LFS, archival backup)
+                ↓
+CI step:  wrangler r2 object put  (sync to R2 bucket for web serving)
+                ↓
+merge.py rewrites image paths:  ../images/foo.jpg → https://assets.…/images/foo.jpg
+```
+
+This keeps the git repo lean for cloning (markdown only, ~8 MB without LFS checkout) while serving images at edge speed with zero egress cost.
