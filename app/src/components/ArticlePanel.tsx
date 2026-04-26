@@ -74,8 +74,13 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
 
   useEffect(() => {
     setLoading(true);
-    const basePath = `/content/${theme}/${slug}.md`;
-    fetch(basePath)
+    const langPath = `/content/${lang}/${theme}/${slug}.md`;
+    const fallbackPath = `/content/${theme}/${slug}.md`;
+    fetch(langPath)
+      .then((r) => {
+        if (r.ok) return r;
+        return fetch(fallbackPath);
+      })
       .then((r) => {
         if (!r.ok) throw new Error(`${r.status}`);
         return r.text();

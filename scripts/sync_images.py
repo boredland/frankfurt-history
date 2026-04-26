@@ -30,7 +30,7 @@ RETRY_DELAY = 2
 
 def find_image_refs() -> set[str]:
     refs = set()
-    ref_pattern = re.compile(r"\.\.\/images\/([^\s\)\]\"\x27]+)")
+    ref_pattern = re.compile(r"\.\.\/images\/([^\)\]\"\x27\n]+)")
     for md in DATA_DIR.rglob("*.md"):
         refs.update(ref_pattern.findall(md.read_text()))
     return refs

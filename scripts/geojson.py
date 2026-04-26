@@ -185,10 +185,9 @@ def main():
     image_path_re = re.compile(r"(\.\./)+images/")
     if CONTENT_DIR.exists():
         shutil.rmtree(CONTENT_DIR)
-    for theme_dir in sorted(DATA_DIR.iterdir()):
-        if not theme_dir.is_dir() or theme_dir.name in ("images", "de", "en"):
-            continue
-        dest = CONTENT_DIR / theme_dir.name
+
+    def copy_theme_content(theme_dir: Path, dest_prefix: Path):
+        dest = dest_prefix / theme_dir.name
         dest.mkdir(parents=True, exist_ok=True)
         for md in theme_dir.glob("*.md"):
             if md.name.startswith("_"):
@@ -196,6 +195,22 @@ def main():
             text = md.read_text()
             text = image_path_re.sub(f"{R2_PUBLIC_URL}/images/", text)
             (dest / md.name).write_text(text)
+
+    # Flat layout: data/<theme>/ → content/<theme>/
+    for theme_dir in sorted(DATA_DIR.iterdir()):
+        if not theme_dir.is_dir() or theme_dir.name in ("images", "de", "en"):
+            continue
+        copy_theme_content(theme_dir, CONTENT_DIR)
+
+    # Nested layout: data/<lang>/<theme>/ → content/<lang>/<theme>/
+    for lang in ("de", "en"):
+        lang_dir = DATA_DIR / lang
+        if not lang_dir.is_dir():
+            continue
+        for theme_dir in sorted(lang_dir.iterdir()):
+            if not theme_dir.is_dir():
+                continue
+            copy_theme_content(theme_dir, CONTENT_DIR / lang)
 
     print(f"\nTotal: {total} POIs across {len(themes)} themes")
     print(f"Output: {OUT_DIR}")
