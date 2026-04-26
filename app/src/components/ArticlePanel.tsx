@@ -7,6 +7,7 @@ import {
 } from "~/lib/parseArticle";
 import { BeforeAfterSlider } from "./BeforeAfterSlider";
 import { Lightbox } from "./Lightbox";
+import { TTSPlayer } from "./TTSPlayer";
 
 interface ArticlePanelProps {
   lang: string;
@@ -18,6 +19,7 @@ interface ArticleData {
   title: string;
   subtitle?: string;
   sections: ArticleSection[];
+  plainText: string;
 }
 
 interface ArticleJson {
@@ -211,10 +213,19 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
           setArticle(null);
           return;
         }
+        const plainText = json.body
+          .replace(/^#+\s.+$/gm, "")
+          .replace(/!\[[^\]]*\]\([^)]+\)/g, "")
+          .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+          .replace(/\*+([^*]+)\*+/g, "$1")
+          .replace(/<!--[^>]+-->/g, "")
+          .replace(/\n{2,}/g, "\n")
+          .trim();
         setArticle({
           title: json.frontmatter.title || slug,
           subtitle: json.frontmatter.subtitle,
           sections: parseArticleBody(json.body),
+          plainText,
         });
       })
       .catch(() => setArticle(null))
@@ -375,6 +386,7 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
           <div className="text-faded text-center py-8">Article not found.</div>
         )}
       </div>
+      {article?.plainText && <TTSPlayer text={article.plainText} lang={lang} />}
     </>
   );
 
