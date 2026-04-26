@@ -98,6 +98,7 @@ const archivalTheme = {
 export function createMapStyle(): StyleSpecification {
   return {
     version: 8,
+    sprite: "https://protomaps.github.io/basemaps-assets/sprites/v4/light",
     glyphs:
       "https://protomaps.github.io/basemaps-assets/fonts/{fontstack}/{range}.pbf",
     sources: {

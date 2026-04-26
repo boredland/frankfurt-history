@@ -301,6 +301,7 @@ function ThemeLayer({
         filter={["has", "point_count"]}
         layout={{
           "text-field": "{point_count_abbreviated}",
+          "text-font": ["Noto Sans Regular"],
           "text-size": 11,
         }}
         paint={{
