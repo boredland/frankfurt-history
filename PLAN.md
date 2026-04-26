@@ -8,8 +8,8 @@ A static web app for exploring the Frankfurt History archive on an interactive m
 
 | Concern | Choice | Why |
 |---------|--------|-----|
-| Framework | **Astro** + islands (Svelte) | Static-first, markdown-native via content collections, minimal JS by default |
-| Map | **MapLibre GL JS** | Free Mapbox GL fork, vector tiles, clustering, no API key needed |
+| Framework | **TanStack Start** (React) | SSG-capable, type-safe routing with first-class URL search param state — ideal for map/layer/filter state in the URL |
+| Map | **MapLibre GL JS** via `react-map-gl` | Free Mapbox GL fork, vector tiles, clustering; react-map-gl gives declarative React bindings |
 | Tiles | **MapTiler** free tier or self-hosted PMTiles | Vector basemap; PMTiles removes the tile server dependency entirely |
 | Routing | **OSRM** (demo server) or **Valhalla** | Walking directions between POIs |
 | TTS | **Piper ONNX** via `onnxruntime-web` | Offline, runs in browser, good German voices (~20 MB model) |
@@ -35,32 +35,38 @@ overrides/                         ← hand-edited, never touched by cron
         └── frankfurt-und-der-ns/
             └── 0017-hochbunker.md  ← hand-corrected English translation
 
-src/
-├── content/                       ← built by merge.py (data + overrides → merged)
-│   ├── de/
-│   │   └── ...
-│   └── en/
-│       └── ...
+content/                           ← built by merge.py (data + overrides → merged)
+├── de/
+│   └── ...
+└── en/
+    └── ...
+
+app/                               ← TanStack Start application
+├── routes/
+│   ├── __root.tsx                 ← root layout: map shell + panel container
+│   ├── $lang/
+│   │   ├── index.tsx              ← map view, reads layers/filters from search params
+│   │   └── $theme.$slug.tsx       ← article deep link, map centers on POI
+│   └── index.tsx                  ← redirect / → /de/
 ├── components/
-│   ├── Map.svelte
-│   ├── ArticlePanel.svelte
-│   ├── LayerPicker.svelte
-│   ├── Navigation.svelte
-│   ├── TTSPlayer.svelte
-│   └── LanguageToggle.svelte
-├── layouts/
-│   └── Layout.astro
-├── pages/
-│   ├── index.astro
-│   └── [lang]/[theme]/[slug].astro
+│   ├── MapView.tsx                ← react-map-gl with clustered markers
+│   ├── ArticlePanel.tsx           ← slide-over panel for reading a POI
+│   ├── LayerPicker.tsx            ← theme/filter toggles
+│   ├── Navigation.tsx             ← walking route overlay + instructions
+│   ├── TTSPlayer.tsx              ← play/pause/progress bar, Piper ONNX
+│   └── LanguageToggle.tsx
 ├── lib/
-│   ├── tts.ts
-│   ├── router.ts
-│   └── i18n.ts
-└── scripts/
-    ├── merge.py               ← deep-merge data/ + overrides/ → src/content/
-    ├── translate.py           ← batch-translate merged DE content via DeepL
-    └── geojson.py             ← build GeoJSON from merged content
+│   ├── tts.ts                     ← Piper ONNX wrapper (web worker)
+│   ├── router.ts                  ← OSRM fetch + GeoJSON route
+│   ├── content.ts                 ← load/parse merged markdown + frontmatter
+│   └── i18n.ts                    ← locale state, URL helpers
+└── data/
+    └── *.geojson                  ← generated per-theme feature collections
+
+scripts/
+├── merge.py                       ← deep-merge data/ + overrides/ → content/
+├── translate.py                   ← batch-translate merged DE content via DeepL
+└── geojson.py                     ← build GeoJSON from merged content → app/data/
 ```
 
 ## Data Pipeline (build time)
@@ -68,8 +74,8 @@ src/
 1. **`archive.py`** — fetches API data into `data/<theme>/<poi>.md` + images. Cron overwrites these freely.
 2. **`scripts/merge.py`** — deep-merges `data/` with `overrides/` into `src/content/de/`. See **Override System** below.
 3. **`scripts/translate.py`** — translates merged DE content via DeepL into `src/content/en/`. Skips any article that already has a hand-written override in `overrides/translations/en/`. Caches by content hash so re-runs only translate changed articles.
-4. **`scripts/geojson.py`** — reads merged content frontmatter, emits one `<theme>.geojson` per theme with POI id, title, coordinates, categories, filters, and a slug for linking.
-5. Astro content collections load both `de/` and `en/`, generating static pages for every `/:lang/:theme/:slug` route.
+4. **`scripts/geojson.py`** — reads merged content frontmatter, emits one `<theme>.geojson` per theme with POI id, title, coordinates, categories, filters, and a slug for linking into `app/data/`.
+5. TanStack Start pre-renders both `de/` and `en/` routes at build time. Article content is loaded from the merged `content/` directory and bundled as static JSON per route.
 
 ## Override System
 
@@ -134,14 +140,25 @@ This file is used as-is instead of running DeepL on the German source.
 - Full-screen MapLibre map centered on Frankfurt (50.11, 8.68), zoom ~13
 - POIs rendered as clustered circle markers, colored by theme
 - Click cluster → zoom in; click marker → open article panel
-- URL hash tracks map center/zoom so links preserve map state: `/#50.11,8.68,14z`
+- Map position tracked in search params (`lat`, `lng`, `z`) so every view is a shareable link
 
 ### 2. Layer Picker
 
 - Sidebar or bottom sheet listing themes (Frankfurt und der NS, Neues Frankfurt, …)
 - Each theme is a toggleable layer; toggling hides/shows its markers
 - Within a theme, filters (e.g. "Orte der Verfolgung", "Orte des Wohnens") are sub-toggles
-- State persisted in URL query params: `?layers=1,3&filters=2,5`
+- State managed via TanStack Router `searchParams` with validation:
+  ```ts
+  const searchSchema = z.object({
+    layers: z.array(z.number()).optional(),
+    filters: z.array(z.number()).optional(),
+    lat: z.number().optional(),
+    lng: z.number().optional(),
+    z: z.number().optional(),
+  })
+  ```
+- URL example: `/de/?layers=1,3&filters=2,5&lat=50.09&lng=8.67&z=15`
+- All map/filter state lives in the URL — every view is a shareable link
 
 ### 3. Article Panel
 
@@ -162,7 +179,7 @@ This file is used as-is instead of running DeepL on the German source.
 ### 5. Language Toggle
 
 - `de` / `en` toggle in header
-- Switches URL prefix (`/de/...` ↔ `/en/...`), Astro serves the pre-translated static page
+- Switches the `$lang` route param (`/de/...` ↔ `/en/...`), preserving all other search params and the current article
 - Map UI labels (buttons, placeholders) from a small i18n dict
 - Falls back to German if an English translation is missing
 
@@ -183,9 +200,10 @@ This file is used as-is instead of running DeepL on the German source.
 | `/` | Redirects to `/de/` |
 | `/de/` | Map with all layers, German UI |
 | `/en/` | Map with all layers, English UI |
-| `/de/frankfurt-und-der-ns/0017-hochbunker` | Article + map centered on POI |
+| `/de/frankfurt-und-der-ns.0017-hochbunker` | Article + map centered on POI |
 | `/de/?layers=1,3&filters=2,5` | Map with specific layers active |
-| `/de/#50.09,8.67,15z` | Map at specific position/zoom |
+| `/de/?lat=50.09&lng=8.67&z=15` | Map at specific position/zoom |
+| `/en/frankfurt-und-der-ns.0017-hochbunker?layers=1` | Article in English, only NS layer active |
 
 ## Build & Deploy
 
@@ -193,18 +211,18 @@ This file is used as-is instead of running DeepL on the German source.
 - `archive.py` fetches latest API data into `data/` (weekly cron, or manual trigger)
 - `scripts/merge.py` deep-merges `data/` + `overrides/` → `src/content/de/`
 - `scripts/translate.py` translates new/changed content, respecting `overrides/translations/en/`
-- `astro build` produces a static site in `dist/`
+- TanStack Start builds a static site into `dist/`
 - Deploy to GitHub Pages via `actions/deploy-pages`
 - Pushing changes to `overrides/` triggers a rebuild (no cron wait needed)
 
 ## Milestones
 
-1. **Map + articles** — Astro project, MapLibre map with POI markers from GeoJSON, click-to-open article panel, deep links
-2. **Layers + filters** — theme/filter toggle UI, URL state sync
-3. **Translation** — DeepL build-time translation script, EN content collection, language toggle
-4. **Navigation** — geolocation, OSRM route fetch, route overlay, turn instructions
-5. **TTS** — Piper ONNX integration, web worker, player UI, model caching
-6. **Polish** — mobile layout, lightbox gallery, offline PWA shell, loading states
+1. **Scaffold + map** — TanStack Start project, react-map-gl map with clustered POI markers from GeoJSON, click marker to open article panel, deep links. Build pipeline: `merge.py` + `geojson.py`.
+2. **Layers + filters** — theme/filter toggle UI, TanStack Router search param state, URL-driven map filtering
+3. **Translation** — DeepL build-time translation script, `content/en/` generation, language toggle preserving all URL state
+4. **Navigation** — geolocation, OSRM route fetch, route overlay on map, turn-by-turn instructions
+5. **TTS** — Piper ONNX integration in web worker, streaming sentence-by-sentence playback, model caching in IndexedDB
+6. **Polish** — mobile bottom sheet, image lightbox gallery, offline PWA shell, loading states
 
 ## Open Questions
 
