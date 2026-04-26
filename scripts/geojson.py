@@ -9,6 +9,7 @@ import sys
 from pathlib import Path
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+MERGED_DIR = Path(__file__).resolve().parent.parent / "content"
 OUT_DIR = Path(__file__).resolve().parent.parent / "app" / "public" / "data"
 CONTENT_DIR = Path(__file__).resolve().parent.parent / "app" / "public" / "data" / "content"
 
@@ -216,15 +217,21 @@ def main():
             json.dumps(id_index, ensure_ascii=False) + "\n"
         )
 
-    # Flat layout: data/<theme>/ → content/<theme>/
-    for theme_dir in sorted(DATA_DIR.iterdir()):
+    # Prefer merged content/ directory (from merge.py), fall back to data/
+    source = MERGED_DIR if MERGED_DIR.is_dir() else DATA_DIR
+
+    # Flat layout: source/<theme>/ → public content/<theme>/
+    for theme_dir in sorted(source.iterdir()):
         if not theme_dir.is_dir() or theme_dir.name in ("images", "de", "en"):
             continue
         copy_theme_content(theme_dir, CONTENT_DIR)
 
-    # Nested layout: data/<lang>/<theme>/ → content/<lang>/<theme>/
+    # Nested layout: source/<lang>/<theme>/ → public content/<lang>/<theme>/
     for lang in ("de", "en"):
-        lang_dir = DATA_DIR / lang
+        lang_dir = source / lang
+        if not lang_dir.is_dir():
+            # Fall back to data/<lang>/ if merged doesn't have it
+            lang_dir = DATA_DIR / lang
         if not lang_dir.is_dir():
             continue
         for theme_dir in sorted(lang_dir.iterdir()):

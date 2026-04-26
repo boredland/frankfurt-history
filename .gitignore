@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 .python-version
 data/images/
+content/
 .wrangler/
