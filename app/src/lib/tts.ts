@@ -51,7 +51,6 @@ export async function speak(text: string, lang: string, rate: number = 1) {
 
   const voices = await ensureVoices();
   const voice = pickVoice(voices, lang);
-
   for (let i = 0; i < sentences.length; i++) {
     const sentence = sentences[i];
     if (!sentence) continue;

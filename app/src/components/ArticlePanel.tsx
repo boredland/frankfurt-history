@@ -216,9 +216,12 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
         const plainText = json.body
           .replace(/^#+\s.+$/gm, "")
           .replace(/!\[[^\]]*\]\([^)]+\)/g, "")
-          .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
-          .replace(/\*+([^*]+)\*+/g, "$1")
+          .replace(/^\*[^*]+\*$/gm, "")
+          .replace(/^.*(?:Author|License|Description|Copyright):.*$/gm, "")
+          .replace(/^<!-- gallery:\S+ -->$/gm, "")
           .replace(/<!--[^>]+-->/g, "")
+          .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+          .replace(/\*\*([^*]+)\*\*/g, "$1")
           .replace(/\n{2,}/g, "\n")
           .trim();
         setArticle({
