@@ -340,18 +340,37 @@ All heavy static assets live on a single R2 bucket, served via a custom domain (
 | Asset | Size | Upload strategy |
 |-------|------|-----------------|
 | PMTiles (Frankfurt area) | ~50–100 MB | One-time extract from Protomaps, re-generate occasionally |
-| POI images (medium) | ~1 GB | Synced by `archive.py` via `wrangler r2 object put`, only uploads new/changed files |
+| POI images (originals) | ~3.5 GB | Synced by `archive.py` via `wrangler r2 object put`, only uploads new/changed files |
 | Piper TTS models | ~40 MB | Uploaded once per voice model update |
 | Pre-cached routes | ~10–20 MB | Rebuilt by `precache_routes.py`, uploaded in CI |
 
-The archive script keeps Git LFS as the durable backup, but the web app's markdown image references point to R2 URLs. The CI pipeline syncs images to R2 after each archive run:
+### Image Pipeline
+
+Store **originals** on R2, serve responsive sizes via **Cloudflare Image Resizing** at the edge:
 
 ```
-archive.py → data/images/  (Git LFS, archival backup)
+archive.py → data/images/ (originals, Git LFS archival backup)
                 ↓
-CI step:  wrangler r2 object put  (sync to R2 bucket for web serving)
+CI:  wrangler r2 object put (sync originals to R2)
                 ↓
-merge.py rewrites image paths:  ../images/foo.jpg → https://assets.…/images/foo.jpg
+merge.py rewrites image paths:
+  ../images/foo_original.jpg
+    → https://assets.…/cdn-cgi/image/w=800,f=auto/images/foo_original.jpg
 ```
+
+The `cdn-cgi/image/` prefix triggers Cloudflare's edge transform — no origin processing needed. Parameters:
+
+| Context | Transform params | Result |
+|---------|-----------------|--------|
+| Thumbnail in list | `w=400,h=300,fit=cover,f=auto` | Small crop, WebP/AVIF |
+| Article hero | `w=800,f=auto,q=85` | Medium, quality 85 |
+| Gallery lightbox | `w=1600,f=auto` | Large, best format |
+| OG/social share | `w=1200,h=630,fit=cover,f=jpg` | Fixed 1.91:1 crop |
+
+Benefits:
+- **Store once** — only originals on R2, no pre-generated sizes
+- **Format negotiation** — `f=auto` serves WebP to Chrome, AVIF to Safari 16+, JPEG fallback
+- **Lazy on-demand** — first request transforms and caches at edge, subsequent requests are instant
+- **archive.py stays simple** — always downloads originals, no `IMAGE_SIZE` env var needed
 
 This keeps the git repo lean for cloning (markdown only, ~8 MB without LFS checkout) while serving images at edge speed with zero egress cost.

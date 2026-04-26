@@ -21,7 +21,7 @@ AUTH_PARAMS = {
 }
 
 OUT_DIR = Path("data")
-IMAGE_SIZE = os.environ.get("IMAGE_SIZE", "medium")
+IMAGE_SIZE = os.environ.get("IMAGE_SIZE", "original")
 RETRY_ATTEMPTS = 3
 RETRY_DELAY = 2
 
