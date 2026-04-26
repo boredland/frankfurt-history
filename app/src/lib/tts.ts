@@ -91,7 +91,8 @@ async function speakWithPiper(text: string, lang: string): Promise<boolean> {
         })
         .catch(() => resolve(false));
     });
-  } catch {
+  } catch (e) {
+    console.warn("[TTS] Piper failed, falling back to Web Speech:", e);
     piperAvailable = false;
     return false;
   }
