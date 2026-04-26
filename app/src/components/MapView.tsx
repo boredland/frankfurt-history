@@ -1,4 +1,6 @@
 import { useNavigate } from "@tanstack/react-router";
+import maplibregl from "maplibre-gl";
+import { Protocol } from "pmtiles";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import MapGL, {
   GeolocateControl,
@@ -9,16 +11,21 @@ import MapGL, {
   Source,
   type ViewStateChangeEvent,
 } from "react-map-gl/maplibre";
+import { createMapStyle } from "~/lib/mapStyle";
 import { useNavigation } from "~/lib/NavigationContext";
 import { type Theme, themeColor } from "~/lib/themes";
 import { LayerPicker } from "./LayerPicker";
+
+if (typeof window !== "undefined") {
+  const protocol = new Protocol();
+  maplibregl.addProtocol("pmtiles", protocol.tile);
+}
 
 const FRANKFURT_CENTER = { lng: 8.68, lat: 50.11 };
 const DEFAULT_ZOOM = 13;
 const MAX_BOUNDS: [number, number, number, number] = [8.4, 50.0, 8.9, 50.25];
 
-const BASEMAP_STYLE =
-  "https://basemaps.cartocdn.com/gl/positron-gl-style/style.json";
+const MAP_STYLE = createMapStyle();
 
 interface MapViewProps {
   lat?: number;
@@ -172,7 +179,7 @@ export function MapView({
     <MapGL
       ref={mapRef}
       initialViewState={initialView}
-      mapStyle={BASEMAP_STYLE}
+      mapStyle={MAP_STYLE}
       onMoveEnd={handleMoveEnd}
       onClick={handleClick}
       onMouseEnter={handleMouseEnter}

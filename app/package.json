@@ -30,6 +30,8 @@
     "@tanstack/react-router": "^1.168.24",
     "@tanstack/react-start": "^1.167.49",
     "maplibre-gl": "^5.24.0",
+    "pmtiles": "^4.4.1",
+    "protomaps-themes-base": "^4.5.0",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
     "react-map-gl": "^8.1.1",
