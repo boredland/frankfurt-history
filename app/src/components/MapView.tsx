@@ -86,29 +86,34 @@ export function MapView({
     [],
   );
 
-  const coordToPois = useRef<
-    Map<
-      string,
-      { title: string; subtitle: string; theme: string; slug: string }[]
-    >
-  >(new Map());
+  const allPois = useRef<
+    {
+      lng: number;
+      lat: number;
+      title: string;
+      subtitle: string;
+      theme: string;
+      slug: string;
+    }[]
+  >([]);
+  const registeredSlugs = useRef<Set<string>>(new Set());
 
   const registerPois = useCallback((features: GeoJSON.Feature[]) => {
     for (const f of features) {
       const p = f.properties as Record<string, unknown>;
       const coords = (f.geometry as GeoJSON.Point).coordinates;
       if (!coords || !p?.slug) continue;
-      const key = `${coords[0]?.toFixed(6)},${coords[1]?.toFixed(6)}`;
-      const list = coordToPois.current.get(key) || [];
-      if (!list.some((x) => x.slug === p.slug)) {
-        list.push({
-          title: (p.title as string) || "",
-          subtitle: (p.subtitle as string) || "",
-          theme: (p.theme as string) || "",
-          slug: p.slug as string,
-        });
-        coordToPois.current.set(key, list);
-      }
+      const slug = p.slug as string;
+      if (registeredSlugs.current.has(slug)) continue;
+      registeredSlugs.current.add(slug);
+      allPois.current.push({
+        lng: coords[0] ?? 0,
+        lat: coords[1] ?? 0,
+        title: (p.title as string) || "",
+        subtitle: (p.subtitle as string) || "",
+        theme: (p.theme as string) || "",
+        slug,
+      });
     }
 
     setPoiIndex((prev) => {
@@ -139,6 +144,14 @@ export function MapView({
     });
   }, [activeSlug, activePoiCoords, poiIndex]);
 
+  const visibleThemeSlugs = useMemo(() => {
+    const slugs = new Set<string>();
+    for (const th of themes) {
+      if (activeLayers.has(th.id)) slugs.add(th.slug);
+    }
+    return slugs;
+  }, [themes, activeLayers]);
+
   const handleClick = useCallback(
     (e: MapLayerMouseEvent) => {
       const feature = e.features?.[0];
@@ -148,16 +161,23 @@ export function MapView({
       if (props.cluster) return;
 
       const coords = (feature.geometry as GeoJSON.Point).coordinates;
-      const key = `${coords[0]?.toFixed(6)},${coords[1]?.toFixed(6)}`;
-      const siblings = coordToPois.current.get(key);
+      const clickLng = coords[0] ?? 0;
+      const clickLat = coords[1] ?? 0;
 
-      if (siblings && siblings.length > 1) {
+      // ~15m tolerance: 0.000135° lat, 0.00021° lng at 50°N
+      const TOLERANCE_LAT = 0.000135;
+      const TOLERANCE_LNG = 0.00021;
+
+      const nearby = allPois.current.filter(
+        (p) =>
+          visibleThemeSlugs.has(p.theme) &&
+          Math.abs(p.lng - clickLng) < TOLERANCE_LNG &&
+          Math.abs(p.lat - clickLat) < TOLERANCE_LAT,
+      );
+
+      if (nearby.length > 1) {
         setHover(null);
-        setStackPopup({
-          lng: coords[0] ?? 0,
-          lat: coords[1] ?? 0,
-          pois: siblings,
-        });
+        setStackPopup({ lng: clickLng, lat: clickLat, pois: nearby });
         return;
       }
 
@@ -173,7 +193,7 @@ export function MapView({
         });
       }
     },
-    [navigate, lang],
+    [navigate, lang, visibleThemeSlugs],
   );
 
   const handleMouseEnter = useCallback((e: MapLayerMouseEvent) => {
