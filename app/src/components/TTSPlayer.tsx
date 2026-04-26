@@ -15,14 +15,23 @@ interface TTSPlayerProps {
 }
 
 export function TTSPlayer({ text, lang }: TTSPlayerProps) {
-  const [state, setState] = useState<
-    "idle" | "speaking" | "paused" | "loading"
-  >("idle");
+  const [state, setState] = useState<"idle" | "speaking" | "paused">("idle");
   const [rate, setRate] = useState(1);
+  const [ready, setReady] = useState(false);
 
   useEffect(() => {
     setState(getState());
-    return subscribe((s) => setState(s));
+    const unsub = subscribe((s) => setState(s));
+
+    const voices = speechSynthesis.getVoices();
+    if (voices.length > 0) {
+      setReady(true);
+    } else {
+      speechSynthesis.onvoiceschanged = () => setReady(true);
+      setTimeout(() => setReady(true), 2000);
+    }
+
+    return unsub;
   }, []);
 
   useEffect(() => {
@@ -53,55 +62,30 @@ export function TTSPlayer({ text, lang }: TTSPlayerProps) {
     [state, text, lang],
   );
 
-  if (!isSupported()) return null;
+  if (!isSupported() || !ready) return null;
 
   return (
     <div className="flex items-center gap-2 px-4 py-2 border-t border-sepia-light bg-paper/80 backdrop-blur-sm">
       <button
         type="button"
         onClick={handleToggle}
-        disabled={state === "loading"}
-        className="w-8 h-8 flex items-center justify-center rounded-full bg-sepia text-paper hover:bg-sepia/80 cursor-pointer disabled:opacity-50 disabled:cursor-wait"
+        className="w-8 h-8 flex items-center justify-center rounded-full bg-sepia text-paper hover:bg-sepia/80 cursor-pointer"
         aria-label={
-          state === "loading"
-            ? "Loading voice..."
-            : state === "speaking"
-              ? "Pause"
-              : state === "paused"
-                ? "Resume"
-                : "Read aloud"
+          state === "speaking"
+            ? "Pause"
+            : state === "paused"
+              ? "Resume"
+              : "Read aloud"
         }
         title={
-          state === "loading"
-            ? "Loading voice..."
-            : state === "speaking"
-              ? "Pause"
-              : state === "paused"
-                ? "Resume"
-                : "Read aloud"
+          state === "speaking"
+            ? "Pause"
+            : state === "paused"
+              ? "Resume"
+              : "Read aloud"
         }
       >
-        {state === "loading" ? (
-          <svg
-            width="14"
-            height="14"
-            viewBox="0 0 14 14"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="2"
-            className="animate-spin"
-            role="img"
-            aria-label="Loading"
-          >
-            <circle
-              cx="7"
-              cy="7"
-              r="5"
-              strokeDasharray="20"
-              strokeDashoffset="5"
-            />
-          </svg>
-        ) : state === "speaking" ? (
+        {state === "speaking" ? (
           <svg
             width="14"
             height="14"
@@ -149,13 +133,11 @@ export function TTSPlayer({ text, lang }: TTSPlayerProps) {
       )}
 
       <span className="text-xs text-faded flex-1">
-        {state === "loading"
-          ? "Loading voice..."
-          : state === "speaking"
-            ? "Reading..."
-            : state === "paused"
-              ? "Paused"
-              : "Read aloud"}
+        {state === "speaking"
+          ? "Reading..."
+          : state === "paused"
+            ? "Paused"
+            : "Read aloud"}
       </span>
 
       <div className="flex items-center gap-1">
