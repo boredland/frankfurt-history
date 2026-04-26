@@ -7,6 +7,10 @@ const translations = {
     en: "Type to search for places",
   },
   nearby: { de: "In der Nähe", en: "Nearby" },
+  alsoAtThisLocation: {
+    de: "Auch an diesem Ort",
+    en: "Also at this location",
+  },
   nearbyLocating: {
     de: "Standort wird ermittelt…",
     en: "Getting location…",

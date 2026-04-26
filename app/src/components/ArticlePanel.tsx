@@ -1,5 +1,6 @@
 import { useNavigate } from "@tanstack/react-router";
 import { useCallback, useEffect, useRef, useState } from "react";
+import { t } from "~/lib/i18n";
 import { imageUrl } from "~/lib/imageUrl";
 import { useNavigation } from "~/lib/NavigationContext";
 import {
@@ -7,6 +8,7 @@ import {
   type ImageRef,
   parseArticleBody,
 } from "~/lib/parseArticle";
+import { THEME_COLORS } from "~/lib/themes";
 import { BeforeAfterSlider } from "./BeforeAfterSlider";
 import { Lightbox } from "./Lightbox";
 import { Navigation } from "./Navigation";
@@ -84,6 +86,134 @@ function handleShare(lang: string, theme: string, slug: string, title: string) {
 
 function handlePrint() {
   window.print();
+}
+
+interface SiblingPoi {
+  title: string;
+  subtitle: string;
+  theme: string;
+  slug: string;
+}
+
+function SiblingsAtLocation({
+  lang,
+  theme,
+  slug,
+  lat,
+  lng,
+}: {
+  lang: string;
+  theme: string;
+  slug: string;
+  lat: number;
+  lng: number;
+}) {
+  const navigate = useNavigate();
+  const [siblings, setSiblings] = useState<SiblingPoi[]>([]);
+
+  useEffect(() => {
+    const TOLERANCE_LAT = 0.000063;
+    const TOLERANCE_LNG = 0.0001;
+
+    const themeFiles = [
+      "feministisches-frankfurt",
+      "frankfurt-stories",
+      "frankfurt-und-der-ns",
+      "leichte-sprache",
+      "neues-frankfurt",
+      "revolution-1848-49",
+    ];
+
+    Promise.all(
+      themeFiles.map((s) =>
+        fetch(`/data/${s}.geojson`)
+          .then((r) => r.json() as Promise<GeoJSON.FeatureCollection>)
+          .then((gj) => ({ themeSlug: s, features: gj.features }))
+          .catch(() => ({ themeSlug: s, features: [] as GeoJSON.Feature[] })),
+      ),
+    ).then((results) => {
+      const found: SiblingPoi[] = [];
+      for (const { themeSlug, features } of results) {
+        for (const f of features) {
+          const p = f.properties as Record<string, unknown>;
+          const coords = (f.geometry as GeoJSON.Point).coordinates;
+          const poiSlug = p.slug as string;
+          if (poiSlug === slug) continue;
+          if (
+            Math.abs((coords[0] ?? 0) - lng) < TOLERANCE_LNG &&
+            Math.abs((coords[1] ?? 0) - lat) < TOLERANCE_LAT
+          ) {
+            found.push({
+              title: (p.title as string) || "",
+              subtitle: (p.subtitle as string) || "",
+              theme: themeSlug,
+              slug: poiSlug,
+            });
+          }
+        }
+      }
+      setSiblings(found);
+    });
+  }, [slug, lat, lng]);
+
+  if (siblings.length === 0) return null;
+
+  return (
+    <div className="border-t border-sepia-light px-4 py-3">
+      <h3 className="text-xs uppercase tracking-wider text-faded mb-2">
+        {t("alsoAtThisLocation", lang)}
+      </h3>
+      <div className="space-y-1">
+        {siblings.map((poi) => (
+          <button
+            key={`${poi.theme}-${poi.slug}`}
+            type="button"
+            onClick={() =>
+              navigate({
+                to: "/$lang/$theme/$slug",
+                params: {
+                  lang: lang as "de" | "en",
+                  theme: poi.theme,
+                  slug: poi.slug,
+                },
+                search: (prev: Record<string, unknown>) => prev,
+              })
+            }
+            className="w-full flex items-stretch rounded-lg overflow-hidden bg-paper border border-sepia-light/60 hover:border-sepia hover:shadow-sm cursor-pointer transition-all text-left group"
+          >
+            <div
+              className="w-1 shrink-0"
+              style={{
+                backgroundColor: THEME_COLORS[poi.theme] || "#8B7355",
+              }}
+            />
+            <div className="min-w-0 px-2.5 py-2 flex-1">
+              <div className="text-sm text-ink leading-snug group-hover:text-sepia transition-colors">
+                {poi.title}
+              </div>
+              {poi.subtitle && poi.subtitle !== poi.title && (
+                <div className="text-xs text-faded mt-0.5">{poi.subtitle}</div>
+              )}
+            </div>
+            <div className="flex items-center pr-2 shrink-0 text-sepia-light group-hover:text-sepia transition-colors">
+              <svg
+                width="14"
+                height="14"
+                viewBox="0 0 14 14"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="1.5"
+                role="img"
+                aria-label="Open"
+              >
+                <path d="M5 3l4 4-4 4" />
+              </svg>
+            </div>
+          </button>
+        ))}
+      </div>
+    </div>
+  );
 }
 
 type SheetSnap = "peek" | "half" | "full";
@@ -440,30 +570,43 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
         </span>
         {toolbarButtons}
       </div>
-      <div className="flex-1 overflow-y-auto px-5 py-4">
-        {loading ? (
-          <div className="flex items-center justify-center h-32 text-faded">
-            Loading...
-          </div>
-        ) : article ? (
-          <ArticleContent
-            sections={article.sections}
-            allImages={article.allImages}
+      <div className="flex-1 overflow-y-auto">
+        <div className="px-5 py-4">
+          {loading ? (
+            <div className="flex items-center justify-center h-32 text-faded">
+              Loading...
+            </div>
+          ) : article ? (
+            <ArticleContent
+              sections={article.sections}
+              allImages={article.allImages}
+            />
+          ) : (
+            <div className="text-faded text-center py-8">
+              Article not found.
+            </div>
+          )}
+        </div>
+        {article?.coordinates && (
+          <SiblingsAtLocation
+            lang={lang}
+            theme={theme}
+            slug={slug}
+            lat={article.coordinates[0]}
+            lng={article.coordinates[1]}
           />
-        ) : (
-          <div className="text-faded text-center py-8">Article not found.</div>
+        )}
+        {article?.coordinates && (
+          <Navigation
+            lang={lang}
+            theme={theme}
+            slug={slug}
+            poiLng={article.coordinates[1]}
+            poiLat={article.coordinates[0]}
+            onRouteGeometry={setRouteGeometry}
+          />
         )}
       </div>
-      {article?.coordinates && (
-        <Navigation
-          lang={lang}
-          theme={theme}
-          slug={slug}
-          poiLng={article.coordinates[1]}
-          poiLat={article.coordinates[0]}
-          onRouteGeometry={setRouteGeometry}
-        />
-      )}
       {article?.plainText && <TTSPlayer text={article.plainText} lang={lang} />}
     </>
   );
