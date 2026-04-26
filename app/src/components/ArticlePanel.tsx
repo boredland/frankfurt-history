@@ -1,5 +1,6 @@
 import { useNavigate } from "@tanstack/react-router";
 import { useCallback, useEffect, useRef, useState } from "react";
+import { imageUrl } from "~/lib/imageUrl";
 import { useNavigation } from "~/lib/NavigationContext";
 import {
   type ArticleSection,
@@ -104,7 +105,7 @@ function GalleryThumbs({
             className="snap-start shrink-0 cursor-pointer rounded overflow-hidden border border-sepia-light hover:border-sepia transition-colors"
           >
             <img
-              src={img.src}
+              src={imageUrl(img.src, "thumbnail")}
               alt={img.alt}
               className="w-24 h-18 object-cover"
               loading="lazy"
@@ -156,8 +157,8 @@ function ArticleSections({ sections }: { sections: ArticleSection[] }) {
                   Before & After
                 </h2>
                 <BeforeAfterSlider
-                  beforeSrc={section.before.src}
-                  afterSrc={section.after.src}
+                  beforeSrc={imageUrl(section.before.src, "article")}
+                  afterSrc={imageUrl(section.after.src, "article")}
                   beforeAlt={section.before.alt}
                   afterAlt={section.after.alt}
                   beforeCaption={section.before.caption}
@@ -186,7 +187,7 @@ function ArticleSections({ sections }: { sections: ArticleSection[] }) {
       {lightbox && (
         <Lightbox
           images={lightbox.images.map((img) => ({
-            src: img.src,
+            src: imageUrl(img.src, "lightbox"),
             alt: img.alt,
             caption: img.caption,
           }))}

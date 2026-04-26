@@ -1,3 +1,5 @@
+import { imageUrl } from "./imageUrl";
+
 export interface ImageRef {
   src: string;
   alt: string;
@@ -15,10 +17,10 @@ function markdownBlockToHtml(md: string): string {
   html = html.replace(/^### (.+)$/gm, "<h3>$1</h3>");
   html = html.replace(/^## (.+)$/gm, "<h2>$1</h2>");
   html = html.replace(/^# (.+)$/gm, "<h1>$1</h1>");
-  html = html.replace(
-    /!\[([^\]]*)\]\(([^)]+)\)/g,
-    '<img alt="$1" src="$2" loading="lazy" />',
-  );
+  html = html.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (_, alt, src) => {
+    const resized = imageUrl(src, "article");
+    return `<img alt="${alt}" src="${resized}" loading="lazy" />`;
+  });
   html = html.replace(
     /\[([^\]]+)\]\(([^)]+)\)/g,
     '<a href="$2" target="_blank" rel="noopener">$1</a>',
