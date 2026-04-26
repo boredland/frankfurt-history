@@ -16,6 +16,9 @@ jobs:
 
       - uses: astral-sh/setup-uv@v6
 
+      - name: Install wrangler
+        run: npm install -g wrangler
+
       - name: Run archival
         run: uv run archive.py
 
