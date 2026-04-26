@@ -12,6 +12,8 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
+      { name: "theme-color", content: "#8B7355" },
+      { name: "apple-mobile-web-app-capable", content: "yes" },
       { title: "Frankfurt History" },
     ],
     links: [
@@ -19,6 +21,14 @@ export const Route = createRootRoute({
         rel: "icon",
         type: "image/svg+xml",
         href: "/favicon.svg",
+      },
+      {
+        rel: "manifest",
+        href: "/manifest.webmanifest",
+      },
+      {
+        rel: "apple-touch-icon",
+        href: "/icon-192.png",
       },
       {
         rel: "preconnect",
@@ -47,6 +57,11 @@ function RootDocument({ children }: { children: ReactNode }) {
       <body>
         {children}
         <Scripts />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `if("serviceWorker"in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("/sw.js"))`,
+          }}
+        />
       </body>
     </html>
   );
