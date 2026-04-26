@@ -385,27 +385,28 @@ export function MapView({
                   }}
                   className="w-full flex items-center gap-2.5 rounded-lg overflow-hidden bg-paper border border-sepia-light/60 hover:border-sepia hover:shadow-sm cursor-pointer transition-all text-left group p-1.5"
                 >
-                  {poi.thumb ? (
-                    <img
-                      src={imageUrl(poi.thumb, "thumbnail")}
-                      alt=""
-                      className="w-11 h-11 rounded object-cover shrink-0 bg-sepia-light/30"
-                    />
-                  ) : (
-                    <div
-                      className="w-11 h-11 rounded shrink-0 flex items-center justify-center"
-                      style={{
-                        backgroundColor: `${THEME_COLORS[poi.theme] || "#8B7355"}20`,
-                      }}
-                    >
-                      <span
-                        className="w-3 h-3 rounded-full"
+                  <div className="relative shrink-0">
+                    {poi.thumb ? (
+                      <img
+                        src={imageUrl(poi.thumb, "thumbnail")}
+                        alt=""
+                        className="w-11 h-11 rounded object-cover bg-sepia-light/30"
+                      />
+                    ) : (
+                      <div
+                        className="w-11 h-11 rounded flex items-center justify-center"
                         style={{
-                          backgroundColor: THEME_COLORS[poi.theme] || "#8B7355",
+                          backgroundColor: `${THEME_COLORS[poi.theme] || "#8B7355"}20`,
                         }}
                       />
-                    </div>
-                  )}
+                    )}
+                    <span
+                      className="absolute -bottom-0.5 -right-0.5 w-3 h-3 rounded-full border-2 border-paper"
+                      style={{
+                        backgroundColor: THEME_COLORS[poi.theme] || "#8B7355",
+                      }}
+                    />
+                  </div>
                   <div className="min-w-0 flex-1">
                     <div className="text-[13px] font-medium text-ink leading-snug group-hover:text-sepia transition-colors line-clamp-2">
                       {poi.title}
