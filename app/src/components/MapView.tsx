@@ -13,7 +13,7 @@ import MapGL, {
 } from "react-map-gl/maplibre";
 import { createMapStyle } from "~/lib/mapStyle";
 import { useNavigation } from "~/lib/NavigationContext";
-import { type Theme, themeColor } from "~/lib/themes";
+import { THEME_COLORS, type Theme, themeColor } from "~/lib/themes";
 import { LayerPicker } from "./LayerPicker";
 
 if (typeof window !== "undefined") {
@@ -63,6 +63,11 @@ export function MapView({
   const [poiIndex, setPoiIndex] = useState<Map<string, [number, number]>>(
     new Map(),
   );
+  const [stackPopup, setStackPopup] = useState<{
+    lng: number;
+    lat: number;
+    pois: { title: string; subtitle: string; theme: string; slug: string }[];
+  } | null>(null);
 
   useEffect(() => {
     fetch("/data/themes.json")
@@ -81,7 +86,31 @@ export function MapView({
     [],
   );
 
+  const coordToPois = useRef<
+    Map<
+      string,
+      { title: string; subtitle: string; theme: string; slug: string }[]
+    >
+  >(new Map());
+
   const registerPois = useCallback((features: GeoJSON.Feature[]) => {
+    for (const f of features) {
+      const p = f.properties as Record<string, unknown>;
+      const coords = (f.geometry as GeoJSON.Point).coordinates;
+      if (!coords || !p?.slug) continue;
+      const key = `${coords[0]?.toFixed(6)},${coords[1]?.toFixed(6)}`;
+      const list = coordToPois.current.get(key) || [];
+      if (!list.some((x) => x.slug === p.slug)) {
+        list.push({
+          title: (p.title as string) || "",
+          subtitle: (p.subtitle as string) || "",
+          theme: (p.theme as string) || "",
+          slug: p.slug as string,
+        });
+        coordToPois.current.set(key, list);
+      }
+    }
+
     setPoiIndex((prev) => {
       const next = new Map(prev);
       for (const f of features) {
@@ -118,10 +147,25 @@ export function MapView({
       const props = feature.properties;
       if (props.cluster) return;
 
+      const coords = (feature.geometry as GeoJSON.Point).coordinates;
+      const key = `${coords[0]?.toFixed(6)},${coords[1]?.toFixed(6)}`;
+      const siblings = coordToPois.current.get(key);
+
+      if (siblings && siblings.length > 1) {
+        setHover(null);
+        setStackPopup({
+          lng: coords[0] ?? 0,
+          lat: coords[1] ?? 0,
+          pois: siblings,
+        });
+        return;
+      }
+
       const theme = props.theme as string;
       const slug = props.slug as string;
       if (theme && slug) {
         setHover(null);
+        setStackPopup(null);
         navigate({
           to: "/$lang/$theme/$slug",
           params: { lang: lang as "de" | "en", theme, slug },
@@ -237,7 +281,7 @@ export function MapView({
         </Source>
       )}
       <GeolocateControl position="bottom-right" trackUserLocation />
-      {hover && (
+      {hover && !stackPopup && (
         <Popup
           longitude={hover.lng}
           latitude={hover.lat}
@@ -248,6 +292,58 @@ export function MapView({
           className="poi-tooltip"
         >
           <span className="text-xs font-medium text-ink">{hover.title}</span>
+        </Popup>
+      )}
+      {stackPopup && (
+        <Popup
+          longitude={stackPopup.lng}
+          latitude={stackPopup.lat}
+          closeButton
+          closeOnClick={false}
+          onClose={() => setStackPopup(null)}
+          anchor="bottom"
+          offset={16}
+          maxWidth="280px"
+          className="stack-popup"
+        >
+          <div className="max-h-48 overflow-y-auto -mx-2.5 -my-1.5">
+            {stackPopup.pois.map((poi) => (
+              <button
+                key={`${poi.theme}-${poi.slug}`}
+                type="button"
+                onClick={() => {
+                  setStackPopup(null);
+                  navigate({
+                    to: "/$lang/$theme/$slug",
+                    params: {
+                      lang: lang as "de" | "en",
+                      theme: poi.theme,
+                      slug: poi.slug,
+                    },
+                    search: (prev: Record<string, unknown>) => prev,
+                  });
+                }}
+                className="w-full flex items-start gap-2 px-2.5 py-1.5 text-left hover:bg-sepia-light/20 cursor-pointer transition-colors"
+              >
+                <span
+                  className="mt-1 w-2 h-2 rounded-full shrink-0"
+                  style={{
+                    backgroundColor: THEME_COLORS[poi.theme] || "#8B7355",
+                  }}
+                />
+                <div className="min-w-0">
+                  <div className="text-xs font-medium text-ink leading-tight truncate">
+                    {poi.title}
+                  </div>
+                  {poi.subtitle && (
+                    <div className="text-[10px] text-faded truncate">
+                      {poi.subtitle}
+                    </div>
+                  )}
+                </div>
+              </button>
+            ))}
+          </div>
         </Popup>
       )}
     </MapGL>
