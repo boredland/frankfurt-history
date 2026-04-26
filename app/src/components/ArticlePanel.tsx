@@ -1,4 +1,4 @@
-import { useNavigate } from "@tanstack/react-router";
+import { useNavigate, useSearch } from "@tanstack/react-router";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { t } from "~/lib/i18n";
 import { imageUrl } from "~/lib/imageUrl";
@@ -98,41 +98,65 @@ interface SiblingPoi {
 
 function SiblingsAtLocation({
   lang,
-  theme,
   slug,
   lat,
   lng,
 }: {
   lang: string;
-  theme: string;
   slug: string;
   lat: number;
   lng: number;
 }) {
   const navigate = useNavigate();
+  const search = useSearch({ strict: false }) as { layers?: string };
   const [siblings, setSiblings] = useState<SiblingPoi[]>([]);
 
   useEffect(() => {
     const TOLERANCE_LAT = 0.00009;
     const TOLERANCE_LNG = 0.00014;
 
-    const themeFiles = [
-      "feministisches-frankfurt",
-      "frankfurt-stories",
-      "frankfurt-und-der-ns",
-      "leichte-sprache",
-      "neues-frankfurt",
-      "revolution-1848-49",
-    ];
+    // Parse active layer IDs from URL; undefined = all active
+    const layersParam = search.layers;
+    const activeLayerIds =
+      layersParam === "none"
+        ? new Set<number>()
+        : layersParam
+          ? new Set(
+              layersParam
+                .split(",")
+                .map((s) => Number.parseInt(s, 10))
+                .filter((n) => !Number.isNaN(n)),
+            )
+          : null;
 
-    Promise.all(
-      themeFiles.map((s) =>
+    Promise.all([
+      fetch("/data/themes.json")
+        .then((r) => r.json() as Promise<{ id: number; slug: string }[]>)
+        .catch(() => [] as { id: number; slug: string }[]),
+      ...[
+        "feministisches-frankfurt",
+        "frankfurt-stories",
+        "frankfurt-und-der-ns",
+        "leichte-sprache",
+        "neues-frankfurt",
+        "revolution-1848-49",
+      ].map((s) =>
         fetch(`/data/${s}.geojson`)
           .then((r) => r.json() as Promise<GeoJSON.FeatureCollection>)
           .then((gj) => ({ themeSlug: s, features: gj.features }))
           .catch(() => ({ themeSlug: s, features: [] as GeoJSON.Feature[] })),
       ),
-    ).then((results) => {
+    ]).then(([themes, ...results]) => {
+      const themeIdBySlug = new Map(
+        (themes as { id: number; slug: string }[]).map((t) => [t.slug, t.id]),
+      );
+      const visibleSlugs = new Set(
+        activeLayerIds
+          ? [...themeIdBySlug.entries()]
+              .filter(([, id]) => activeLayerIds.has(id))
+              .map(([slug]) => slug)
+          : themeIdBySlug.keys(),
+      );
       // Find the clicked POI's address for address-based matching
       let myAddress = "";
       for (const { features } of results) {
@@ -147,7 +171,11 @@ function SiblingsAtLocation({
       }
 
       const found: SiblingPoi[] = [];
-      for (const { themeSlug, features } of results) {
+      for (const { themeSlug, features } of results as {
+        themeSlug: string;
+        features: GeoJSON.Feature[];
+      }[]) {
+        if (!visibleSlugs.has(themeSlug)) continue;
         for (const f of features) {
           const p = f.properties as Record<string, unknown>;
           const coords = (f.geometry as GeoJSON.Point).coordinates;
@@ -174,7 +202,7 @@ function SiblingsAtLocation({
       }
       setSiblings(found);
     });
-  }, [slug, lat, lng]);
+  }, [slug, lat, lng, search.layers]);
 
   if (siblings.length === 0) return null;
 
@@ -625,7 +653,6 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
         {article?.coordinates && (
           <SiblingsAtLocation
             lang={lang}
-            theme={theme}
             slug={slug}
             lat={article.coordinates[0]}
             lng={article.coordinates[1]}
