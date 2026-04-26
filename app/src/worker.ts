@@ -1,5 +1,6 @@
 interface Env {
-  R2_BUCKET: R2Bucket;
+  ASSETS: R2Bucket;
+  IMAGES: Fetcher;
 }
 
 export default {
@@ -11,10 +12,9 @@ export default {
     }
 
     if (url.pathname.startsWith("/img/")) {
-      return handleImage(request, url);
+      return handleImage(request, env, url);
     }
 
-    // Static assets and SPA fallback handled by Workers assets binding
     return new Response("Not Found", { status: 404 });
   },
 } satisfies ExportedHandler<Env>;
@@ -30,10 +30,8 @@ async function handleR2(
 
   const rangeHeader = request.headers.get("Range");
   const object = rangeHeader
-    ? await env.R2_BUCKET.get(key, {
-        range: parseRange(rangeHeader),
-      })
-    : await env.R2_BUCKET.get(key);
+    ? await env.ASSETS.get(key, { range: parseRange(rangeHeader) })
+    : await env.ASSETS.get(key);
 
   if (!object) {
     return new Response("Not Found", { status: 404 });
@@ -69,7 +67,8 @@ async function handleR2(
 function parseRange(header: string): R2Range {
   const match = header.match(/bytes=(\d+)-(\d*)/);
   if (!match) return { offset: 0 };
-  const offset = Number.parseInt(match[1]!, 10);
+  const start = match[1] ?? "0";
+  const offset = Number.parseInt(start, 10);
   const end = match[2] ? Number.parseInt(match[2], 10) : undefined;
   if (end !== undefined) {
     return { offset, length: end - offset + 1 };
@@ -77,48 +76,27 @@ function parseRange(header: string): R2Range {
   return { offset };
 }
 
-async function handleImage(request: Request, url: URL): Promise<Response> {
+async function handleImage(
+  _request: Request,
+  env: Env,
+  url: URL,
+): Promise<Response> {
   const rest = url.pathname.slice(5);
   const slashIdx = rest.indexOf("/");
   if (slashIdx < 0) return new Response("Bad Request", { status: 400 });
 
   const params = rest.slice(0, slashIdx);
-  const imageUrl = rest.slice(slashIdx + 1);
+  const originUrl = rest.slice(slashIdx + 1);
 
-  if (!imageUrl.startsWith("http")) {
+  if (!originUrl.startsWith("http")) {
     return new Response("Bad Request", { status: 400 });
   }
 
-  const cfOptions: Record<string, unknown> = {};
-  for (const pair of params.split(",")) {
-    const [k, v] = pair.split("=");
-    if (!k || !v) continue;
-    switch (k) {
-      case "w":
-        cfOptions.width = Number.parseInt(v, 10);
-        break;
-      case "h":
-        cfOptions.height = Number.parseInt(v, 10);
-        break;
-      case "f":
-        cfOptions.format = v === "auto" ? undefined : v;
-        break;
-      case "q":
-        cfOptions.quality = Number.parseInt(v, 10);
-        break;
-      case "fit":
-        cfOptions.fit = v;
-        break;
-    }
-  }
+  const transformUrl = new URL(
+    `https://images.local/cdn-cgi/image/${params}/${originUrl}`,
+  );
 
-  const imageRequest = new Request(imageUrl, {
-    headers: request.headers,
-  });
-
-  return fetch(imageRequest, {
-    cf: { image: cfOptions },
-  });
+  return env.IMAGES.fetch(transformUrl.toString());
 }
 
 function corsHeaders(): Headers {

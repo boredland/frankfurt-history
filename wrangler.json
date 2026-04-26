@@ -2,16 +2,33 @@
   "name": "frankfurt-history",
   "main": "app/src/worker.ts",
   "compatibility_date": "2026-04-26",
+  "workers_dev": false,
+  "preview_urls": false,
   "assets": {
     "directory": "app/dist/client",
     "not_found_handling": "single-page-application"
   },
+  "routes": [
+    {
+      "pattern": "history.jonas-strassel.de",
+      "zone_name": "jonas-strassel.de",
+      "custom_domain": true
+    }
+  ],
   "r2_buckets": [
     {
-      "binding": "R2_BUCKET",
+      "binding": "ASSETS",
       "bucket_name": "frankfurt-history-assets"
     }
   ],
+  "images": {
+    "binding": "IMAGES"
+  },
+  "observability": {
+    "logs": {
+      "enabled": true
+    }
+  },
   "build": {
     "command": "cd app && bun install && bun run build"
   }
