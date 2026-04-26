@@ -52,11 +52,17 @@ async function speakWithPiper(text: string, lang: string): Promise<boolean> {
     });
     piperAvailable = true;
 
+    if (!wav || wav.size < 1000) {
+      piperAvailable = false;
+      return false;
+    }
+
     const url = URL.createObjectURL(wav);
     const audio = new Audio(url);
     currentAudio = audio;
 
     return new Promise((resolve) => {
+      let started = false;
       audio.onended = () => {
         URL.revokeObjectURL(url);
         currentAudio = null;
@@ -68,7 +74,22 @@ async function speakWithPiper(text: string, lang: string): Promise<boolean> {
         currentAudio = null;
         resolve(false);
       };
-      audio.play().catch(() => resolve(false));
+      audio.ontimeupdate = () => {
+        started = true;
+      };
+      audio
+        .play()
+        .then(() => {
+          setTimeout(() => {
+            if (!started && audio.paused) {
+              URL.revokeObjectURL(url);
+              currentAudio = null;
+              piperAvailable = false;
+              resolve(false);
+            }
+          }, 2000);
+        })
+        .catch(() => resolve(false));
     });
   } catch {
     piperAvailable = false;
