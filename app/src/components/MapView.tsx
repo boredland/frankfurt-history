@@ -335,7 +335,8 @@ export function MapView({
           longitude={stackPopup.lng}
           latitude={stackPopup.lat}
           closeButton={false}
-          closeOnClick={false}
+          closeOnClick
+          onClose={() => setStackPopup(null)}
           anchor="bottom"
           offset={16}
           maxWidth="320px"
