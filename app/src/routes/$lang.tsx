@@ -1,5 +1,10 @@
+import {
+  createFileRoute,
+  Outlet,
+  useNavigate,
+  useRouter,
+} from "@tanstack/react-router";
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { Outlet, createFileRoute, useNavigate, useRouter } from "@tanstack/react-router";
 import { z } from "zod";
 import { MapView } from "~/components/MapView";
 import type { Theme } from "~/lib/themes";
@@ -31,11 +36,14 @@ function parseLayersParam(param: string | undefined): Set<number> | null {
   const ids = param
     .split(",")
     .map((s) => parseInt(s, 10))
-    .filter((n) => !isNaN(n));
+    .filter((n) => !Number.isNaN(n));
   return ids.length > 0 ? new Set(ids) : null;
 }
 
-function serializeLayers(active: Set<number>, allIds: number[]): string | undefined {
+function serializeLayers(
+  active: Set<number>,
+  allIds: number[],
+): string | undefined {
   if (active.size === allIds.length) return undefined;
   if (active.size === 0) return "none";
   return [...active].sort((a, b) => a - b).join(",");
@@ -55,12 +63,14 @@ function LanguageToggle({ lang }: { lang: string }) {
   return (
     <div className="flex items-center gap-2 text-sm">
       <button
+        type="button"
         onClick={() => switchLang("de")}
         className={`px-2 py-1 rounded cursor-pointer ${lang === "de" ? "bg-sepia text-paper" : "text-faded hover:text-ink"}`}
       >
         DE
       </button>
       <button
+        type="button"
         onClick={() => switchLang("en")}
         className={`px-2 py-1 rounded cursor-pointer ${lang === "en" ? "bg-sepia text-paper" : "text-faded hover:text-ink"}`}
       >
@@ -76,7 +86,10 @@ function LangLayout() {
   const navigate = useNavigate();
 
   const [allThemeIds, setAllThemeIds] = useState<number[]>([]);
-  const layersFromUrl = useMemo(() => parseLayersParam(search.layers), [search.layers]);
+  const layersFromUrl = useMemo(
+    () => parseLayersParam(search.layers),
+    [search.layers],
+  );
 
   useEffect(() => {
     fetch("/data/themes.json")
@@ -99,7 +112,8 @@ function LangLayout() {
         next.add(themeId);
       }
       navigate({
-        search: (prev) => ({
+        to: ".",
+        search: (prev: object) => ({
           ...prev,
           layers: serializeLayers(next, allThemeIds),
         }),

@@ -1,0 +1,9 @@
+pre-commit:
+  commands:
+    biome:
+      root: app/
+      glob: "*.{ts,tsx}"
+      run: bunx biome check --no-errors-on-unmatched {staged_files}
+    typecheck:
+      root: app/
+      run: bun run typecheck

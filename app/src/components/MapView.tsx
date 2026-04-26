@@ -1,12 +1,12 @@
+import { useNavigate } from "@tanstack/react-router";
 import { useCallback, useEffect, useMemo, useState } from "react";
-import Map, {
+import MapGL, {
   Layer,
   type MapLayerMouseEvent,
   Source,
   type ViewStateChangeEvent,
 } from "react-map-gl/maplibre";
-import { useNavigate } from "@tanstack/react-router";
-import { themeColor, type Theme } from "~/lib/themes";
+import { type Theme, themeColor } from "~/lib/themes";
 import { LayerPicker } from "./LayerPicker";
 
 const FRANKFURT_CENTER = { lng: 8.68, lat: 50.11 };
@@ -42,6 +42,7 @@ export function MapView({
       .catch(console.error);
   }, []);
 
+  // biome-ignore lint/correctness/useExhaustiveDependencies: initial view should only be set once from URL params
   const initialView = useMemo(
     () => ({
       longitude: lng ?? FRANKFURT_CENTER.lng,
@@ -64,8 +65,8 @@ export function MapView({
       if (theme && slug) {
         navigate({
           to: "/$lang/$theme/$slug",
-          params: { lang, theme, slug },
-          search: (prev) => prev,
+          params: { lang: lang as "de" | "en", theme, slug },
+          search: (prev: Record<string, unknown>) => prev,
         });
       }
     },
@@ -76,7 +77,8 @@ export function MapView({
     (e: ViewStateChangeEvent) => {
       const { longitude, latitude, zoom: z } = e.viewState;
       navigate({
-        search: (prev) => ({
+        to: ".",
+        search: (prev: object) => ({
           ...prev,
           lat: Math.round(latitude * 10000) / 10000,
           lng: Math.round(longitude * 10000) / 10000,
@@ -99,7 +101,7 @@ export function MapView({
   );
 
   return (
-    <Map
+    <MapGL
       initialViewState={initialView}
       mapStyle={BASEMAP_STYLE}
       onMoveEnd={handleMoveEnd}
@@ -116,7 +118,7 @@ export function MapView({
         activeLayers={activeLayers}
         onToggle={onToggleLayer}
       />
-    </Map>
+    </MapGL>
   );
 }
 
@@ -151,15 +153,7 @@ function ThemeLayer({ theme }: { theme: Theme }) {
         paint={{
           "circle-color": color,
           "circle-opacity": 0.6,
-          "circle-radius": [
-            "step",
-            ["get", "point_count"],
-            15,
-            10,
-            20,
-            50,
-            25,
-          ],
+          "circle-radius": ["step", ["get", "point_count"], 15, 10, 20, 50, 25],
         }}
       />
       <Layer

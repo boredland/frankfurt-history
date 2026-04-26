@@ -121,8 +121,8 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
   const handleClose = () => {
     navigate({
       to: "/$lang",
-      params: { lang },
-      search: (prev) => prev,
+      params: { lang: lang as "de" | "en" },
+      search: (prev: Record<string, unknown>) => prev,
     });
   };
 
@@ -133,6 +133,7 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
           {theme.replace(/-/g, " ")}
         </span>
         <button
+          type="button"
           onClick={handleClose}
           className="text-faded hover:text-ink text-xl leading-none cursor-pointer"
           aria-label="Close"

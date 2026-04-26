@@ -1,5 +1,5 @@
-import { Navigate, createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Navigate } from "@tanstack/react-router";
 
 export const Route = createFileRoute("/")({
-  component: () => <Navigate to="/de" />,
+  component: () => <Navigate to="/$lang" params={{ lang: "de" }} />,
 });
