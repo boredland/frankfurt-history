@@ -42,29 +42,30 @@ function serializeLayers(active: Set<number>, allIds: number[]): string | undefi
 }
 
 function LanguageToggle({ lang }: { lang: string }) {
+  const navigate = useNavigate();
   const router = useRouter();
-  const pathname = router.state.location.pathname;
-  const search = router.state.location.searchStr;
 
-  function langHref(target: string) {
+  function switchLang(target: "de" | "en") {
+    const pathname = router.state.location.pathname;
     const rest = pathname.replace(/^\/(de|en)/, "");
-    return `/${target}${rest}${search}`;
+    const search = router.state.location.search;
+    navigate({ to: `/${target}${rest}`, search });
   }
 
   return (
     <div className="flex items-center gap-2 text-sm">
-      <a
-        href={langHref("de")}
-        className={`px-2 py-1 rounded ${lang === "de" ? "bg-sepia text-paper" : "text-faded hover:text-ink"}`}
+      <button
+        onClick={() => switchLang("de")}
+        className={`px-2 py-1 rounded cursor-pointer ${lang === "de" ? "bg-sepia text-paper" : "text-faded hover:text-ink"}`}
       >
         DE
-      </a>
-      <a
-        href={langHref("en")}
-        className={`px-2 py-1 rounded ${lang === "en" ? "bg-sepia text-paper" : "text-faded hover:text-ink"}`}
+      </button>
+      <button
+        onClick={() => switchLang("en")}
+        className={`px-2 py-1 rounded cursor-pointer ${lang === "en" ? "bg-sepia text-paper" : "text-faded hover:text-ink"}`}
       >
         EN
-      </a>
+      </button>
     </div>
   );
 }
