@@ -1,5 +1,12 @@
 import { useNavigate } from "@tanstack/react-router";
 import { useCallback, useEffect, useRef, useState } from "react";
+import {
+  type ArticleSection,
+  type ImageRef,
+  parseArticleBody,
+} from "~/lib/parseArticle";
+import { BeforeAfterSlider } from "./BeforeAfterSlider";
+import { Lightbox } from "./Lightbox";
 
 interface ArticlePanelProps {
   lang: string;
@@ -10,47 +17,12 @@ interface ArticlePanelProps {
 interface ArticleData {
   title: string;
   subtitle?: string;
-  html: string;
+  sections: ArticleSection[];
 }
 
 interface ArticleJson {
   frontmatter: Record<string, string>;
   body: string;
-}
-
-function markdownToHtml(md: string): string {
-  let html = md;
-  html = html.replace(/^### (.+)$/gm, "<h3>$1</h3>");
-  html = html.replace(/^## (.+)$/gm, "<h2>$1</h2>");
-  html = html.replace(/^# (.+)$/gm, "<h1>$1</h1>");
-  html = html.replace(
-    /!\[([^\]]*)\]\(([^)]+)\)/g,
-    '<img alt="$1" src="$2" loading="lazy" />',
-  );
-  html = html.replace(
-    /\[([^\]]+)\]\(([^)]+)\)/g,
-    '<a href="$2" target="_blank" rel="noopener">$1</a>',
-  );
-  html = html.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
-  html = html.replace(/(?<![*])\*([^*\n]+)\*(?![*])/g, "<em>$1</em>");
-  html = html.replace(/^- (.+)$/gm, "<li>$1</li>");
-  html = html.replace(/(<li>.*<\/li>\n?)+/g, (match) => `<ul>${match}</ul>`);
-  const paragraphs = html
-    .split(/\n{2,}/)
-    .map((block) => {
-      block = block.trim();
-      if (!block) return "";
-      if (
-        block.startsWith("<h") ||
-        block.startsWith("<ul") ||
-        block.startsWith("<img") ||
-        block.startsWith("<a ")
-      )
-        return block;
-      return `<p>${block.replace(/\n/g, "<br/>")}</p>`;
-    })
-    .filter(Boolean);
-  return paragraphs.join("\n");
 }
 
 async function fetchJson(url: string): Promise<ArticleJson | null> {
@@ -109,6 +81,118 @@ function handlePrint() {
 
 type SheetSnap = "peek" | "half" | "full";
 
+function GalleryThumbs({
+  images,
+  onOpen,
+}: {
+  images: ImageRef[];
+  onOpen: (index: number) => void;
+}) {
+  return (
+    <div className="my-3">
+      <div className="flex gap-2 overflow-x-auto pb-2 snap-x">
+        {images.map((img, i) => (
+          <button
+            type="button"
+            key={img.src}
+            onClick={() => onOpen(i)}
+            className="snap-start shrink-0 cursor-pointer rounded overflow-hidden border border-sepia-light hover:border-sepia transition-colors"
+          >
+            <img
+              src={img.src}
+              alt={img.alt}
+              className="w-24 h-18 object-cover"
+              loading="lazy"
+            />
+          </button>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function ArticleSections({ sections }: { sections: ArticleSection[] }) {
+  const [lightbox, setLightbox] = useState<{
+    images: ImageRef[];
+    index: number;
+  } | null>(null);
+
+  return (
+    <>
+      {sections.map((section, i) => {
+        const key = `s-${i}`;
+        switch (section.type) {
+          case "html":
+            return (
+              <div
+                key={key}
+                className="article-body"
+                dangerouslySetInnerHTML={{ __html: section.content }}
+              />
+            );
+          case "gallery":
+            return (
+              <div key={key}>
+                <h2 className="font-serif text-lg text-sepia mt-6 mb-2">
+                  Gallery
+                </h2>
+                <GalleryThumbs
+                  images={section.images}
+                  onOpen={(idx) =>
+                    setLightbox({ images: section.images, index: idx })
+                  }
+                />
+              </div>
+            );
+          case "before-after":
+            return (
+              <div key={key}>
+                <h2 className="font-serif text-lg text-sepia mt-6 mb-2">
+                  Before & After
+                </h2>
+                <BeforeAfterSlider
+                  beforeSrc={section.before.src}
+                  afterSrc={section.after.src}
+                  beforeAlt={section.before.alt}
+                  afterAlt={section.after.alt}
+                  beforeCaption={section.before.caption}
+                  afterCaption={section.after.caption}
+                />
+              </div>
+            );
+          case "timeline":
+            return (
+              <div key={key}>
+                <h2 className="font-serif text-lg text-sepia mt-6 mb-2">
+                  Timeline
+                </h2>
+                <GalleryThumbs
+                  images={section.images}
+                  onOpen={(idx) =>
+                    setLightbox({ images: section.images, index: idx })
+                  }
+                />
+              </div>
+            );
+          default:
+            return null;
+        }
+      })}
+      {lightbox && (
+        <Lightbox
+          images={lightbox.images.map((img) => ({
+            src: img.src,
+            alt: img.alt,
+            caption: img.caption,
+          }))}
+          startIndex={lightbox.index}
+          onClose={() => setLightbox(null)}
+        />
+      )}
+    </>
+  );
+}
+
 export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
   const navigate = useNavigate();
   const [article, setArticle] = useState<ArticleData | null>(null);
@@ -130,7 +214,7 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
         setArticle({
           title: json.frontmatter.title || slug,
           subtitle: json.frontmatter.subtitle,
-          html: markdownToHtml(json.body),
+          sections: parseArticleBody(json.body),
         });
       })
       .catch(() => setArticle(null))
@@ -286,9 +370,7 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
             Loading...
           </div>
         ) : article ? (
-          <div className="article-body">
-            <div dangerouslySetInnerHTML={{ __html: article.html }} />
-          </div>
+          <ArticleSections sections={article.sections} />
         ) : (
           <div className="text-faded text-center py-8">Article not found.</div>
         )}
@@ -309,7 +391,6 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
         className="sm:hidden fixed left-0 right-0 bottom-0 z-20 bg-paper rounded-t-2xl shadow-[0_-4px_20px_rgba(0,0,0,0.15)] flex flex-col overflow-hidden transition-[height] duration-200 ease-out"
         style={{ height: snapHeights[snap] }}
       >
-        {/* Drag handle */}
         <div
           role="slider"
           tabIndex={0}
