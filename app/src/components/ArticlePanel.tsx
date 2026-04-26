@@ -200,7 +200,7 @@ function ArticleSections({ sections }: { sections: ArticleSection[] }) {
 
 export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
   const navigate = useNavigate();
-  const { setRouteGeometry } = useNavigation();
+  const { setRouteGeometry, setActivePoiCoords } = useNavigation();
   const [article, setArticle] = useState<ArticleData | null>(null);
   const [loading, setLoading] = useState(true);
   const [snap, setSnap] = useState<SheetSnap>("half");
@@ -241,6 +241,9 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
             ];
           }
         }
+        if (coordinates) {
+          setActivePoiCoords(coordinates);
+        }
         setArticle({
           title: json.frontmatter.title || slug,
           subtitle: json.frontmatter.subtitle,
@@ -251,16 +254,17 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
       })
       .catch(() => setArticle(null))
       .finally(() => setLoading(false));
-  }, [theme, slug, lang]);
+  }, [theme, slug, lang, setActivePoiCoords]);
 
   const handleClose = useCallback(() => {
     setRouteGeometry(null);
+    setActivePoiCoords(null);
     navigate({
       to: "/$lang",
       params: { lang: lang as "de" | "en" },
       search: (prev: Record<string, unknown>) => prev,
     });
-  }, [navigate, lang, setRouteGeometry]);
+  }, [navigate, lang, setRouteGeometry, setActivePoiCoords]);
 
   const snapHeights: Record<SheetSnap, string> = {
     peek: "120px",

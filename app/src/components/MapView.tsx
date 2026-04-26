@@ -47,7 +47,7 @@ export function MapView({
 }: MapViewProps) {
   const navigate = useNavigate();
   const mapRef = useRef<MapRef>(null);
-  const { routeGeometry } = useNavigation();
+  const { routeGeometry, activePoiCoords } = useNavigation();
   const [themes, setThemes] = useState<Theme[]>([]);
   const [hover, setHover] = useState<HoverInfo | null>(null);
   const [cursor, setCursor] = useState("auto");
@@ -88,7 +88,10 @@ export function MapView({
 
   useEffect(() => {
     if (!activeSlug || !mapRef.current) return;
-    const coords = poiIndex.get(activeSlug);
+    // Prefer coordinates from article frontmatter (available before GeoJSON loads)
+    const coords = activePoiCoords
+      ? [activePoiCoords[1], activePoiCoords[0]]
+      : poiIndex.get(activeSlug);
     if (!coords) return;
     mapRef.current.flyTo({
       center: [coords[0], coords[1]],
@@ -96,7 +99,7 @@ export function MapView({
       duration: 800,
       padding: { right: 220, top: 0, bottom: 0, left: 0 },
     });
-  }, [activeSlug, poiIndex]);
+  }, [activeSlug, activePoiCoords, poiIndex]);
 
   const handleClick = useCallback(
     (e: MapLayerMouseEvent) => {
