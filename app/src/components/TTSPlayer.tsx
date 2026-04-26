@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useState } from "react";
+import { t } from "~/lib/i18n";
 import { getState, isSupported, speak, stop, subscribe } from "~/lib/tts";
 
 interface TTSPlayerProps {
@@ -58,8 +59,8 @@ export function TTSPlayer({ text, lang }: TTSPlayerProps) {
         type="button"
         onClick={handleToggle}
         className="w-8 h-8 flex items-center justify-center rounded-full bg-sepia text-paper hover:bg-sepia/80 cursor-pointer"
-        aria-label={playing ? "Stop" : "Read aloud"}
-        title={playing ? "Stop" : "Read aloud"}
+        aria-label={playing ? t("ttsStop", lang) : t("ttsPlay", lang)}
+        title={playing ? t("ttsStop", lang) : t("ttsPlay", lang)}
       >
         {playing ? (
           <svg
@@ -87,13 +88,7 @@ export function TTSPlayer({ text, lang }: TTSPlayerProps) {
       </button>
 
       <span className="text-xs text-faded flex-1">
-        {playing
-          ? lang === "de"
-            ? "Wird vorgelesen..."
-            : "Reading..."
-          : lang === "de"
-            ? "Vorlesen"
-            : "Read aloud"}
+        {playing ? t("ttsSpeaking", lang) : t("ttsPlay", lang)}
       </span>
 
       <div className="flex items-center gap-1">

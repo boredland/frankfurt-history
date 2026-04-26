@@ -127,6 +127,7 @@ function ArticleContent({
 }) {
   const [lightboxIdx, setLightboxIdx] = useState<number | null>(null);
   const hero = allImages[0];
+  const galleryImages = allImages.slice(1);
 
   return (
     <>
@@ -134,7 +135,7 @@ function ArticleContent({
         <div className="-mx-5 -mt-4 mb-4">
           <button
             type="button"
-            onClick={() => setLightboxIdx(0)}
+            onClick={() => setLightboxIdx(galleryImages.length > 0 ? 0 : -1)}
             className="w-full cursor-pointer relative group"
           >
             <img
@@ -142,20 +143,20 @@ function ArticleContent({
               alt={hero.alt}
               className="w-full max-h-64 object-cover"
             />
-            {allImages.length > 1 && (
+            {galleryImages.length > 0 && (
               <span className="absolute bottom-2 right-2 bg-ink/60 text-paper text-xs px-2 py-0.5 rounded-full opacity-80 group-hover:opacity-100 transition-opacity print:hidden">
-                1/{allImages.length}
+                +{galleryImages.length}
               </span>
             )}
           </button>
           {hero.caption && (
             <p className="text-xs text-faded px-5 mt-1">{hero.caption}</p>
           )}
-          {allImages.length > 1 && (
+          {galleryImages.length > 0 && (
             <div className="print:hidden">
               <GalleryThumbs
-                images={allImages.slice(1)}
-                onOpen={(idx) => setLightboxIdx(idx + 1)}
+                images={galleryImages}
+                onOpen={(idx) => setLightboxIdx(idx)}
               />
             </div>
           )}
@@ -206,14 +207,27 @@ function ArticleContent({
         }
       })}
 
-      {lightboxIdx !== null && (
+      {lightboxIdx !== null && lightboxIdx >= 0 && (
         <Lightbox
-          images={allImages.map((img) => ({
+          images={galleryImages.map((img) => ({
             src: imageUrl(img.src, "lightbox"),
             alt: img.alt,
             caption: img.caption,
           }))}
           startIndex={lightboxIdx}
+          onClose={() => setLightboxIdx(null)}
+        />
+      )}
+      {lightboxIdx === -1 && hero && (
+        <Lightbox
+          images={[
+            {
+              src: imageUrl(hero.src, "lightbox"),
+              alt: hero.alt,
+              caption: hero.caption,
+            },
+          ]}
+          startIndex={0}
           onClose={() => setLightboxIdx(null)}
         />
       )}

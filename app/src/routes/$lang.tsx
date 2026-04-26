@@ -15,6 +15,8 @@ import {
 } from "react";
 import { z } from "zod";
 
+import { t } from "~/lib/i18n";
+
 const MapView = lazy(() =>
   import("~/components/MapView").then((m) => ({ default: m.MapView })),
 );
@@ -183,7 +185,7 @@ function LangLayout() {
               type="button"
               onClick={() => setSearchOpen(true)}
               className="flex items-center gap-1.5 px-2 py-1 text-faded hover:text-ink rounded cursor-pointer transition-colors"
-              aria-label={lang === "de" ? "Suche" : "Search"}
+              aria-label={t("search", lang)}
             >
               <svg
                 width="15"
@@ -206,8 +208,8 @@ function LangLayout() {
               type="button"
               onClick={() => setNearbyOpen(true)}
               className="p-1.5 text-faded hover:text-red-oxide rounded cursor-pointer transition-colors"
-              aria-label={lang === "de" ? "In der Nähe" : "Nearby"}
-              title={lang === "de" ? "In der Nähe" : "Nearby"}
+              aria-label={t("nearby", lang)}
+              title={t("nearby", lang)}
             >
               <svg
                 width="16"

@@ -1,5 +1,6 @@
 import { useNavigate } from "@tanstack/react-router";
 import { useCallback, useEffect, useState } from "react";
+import { t } from "~/lib/i18n";
 import { THEME_COLORS } from "~/lib/themes";
 
 interface NearbyPOI {
@@ -51,9 +52,7 @@ export function NearbyPanel({ lang, open, onClose }: NearbyPanelProps) {
     setError(null);
 
     if (!navigator.geolocation) {
-      setError(
-        lang === "de" ? "Standort nicht verfügbar" : "Location not available",
-      );
+      setError(t("nearbyUnavailable", lang));
       setLoading(false);
       return;
     }
@@ -104,11 +103,7 @@ export function NearbyPanel({ lang, open, onClose }: NearbyPanelProps) {
         setLoading(false);
       },
       () => {
-        setError(
-          lang === "de"
-            ? "Standortzugriff verweigert"
-            : "Location access denied",
-        );
+        setError(t("nearbyDenied", lang));
         setLoading(false);
       },
       { enableHighAccuracy: true, timeout: 10000 },
@@ -164,7 +159,7 @@ export function NearbyPanel({ lang, open, onClose }: NearbyPanelProps) {
               <circle cx="8" cy="6" r="1.5" />
             </svg>
             <h2 className="font-serif text-sm font-bold text-ink">
-              {lang === "de" ? "In der Nähe" : "Nearby"}
+              {t("nearby", lang)}
             </h2>
           </div>
           <button
@@ -213,7 +208,7 @@ export function NearbyPanel({ lang, open, onClose }: NearbyPanelProps) {
                   strokeLinecap="round"
                 />
               </svg>
-              {lang === "de" ? "Standort wird ermittelt…" : "Getting location…"}
+              {t("nearbyLocating", lang)}
             </div>
           )}
 

@@ -1,5 +1,6 @@
 import { useNavigate } from "@tanstack/react-router";
 import { useCallback, useEffect, useState } from "react";
+import { t } from "~/lib/i18n";
 import {
   type CachedRoute,
   fetchLiveRoute,
@@ -181,7 +182,7 @@ export function Navigation({
             >
               <path d="M3 13l5-10 5 10-5-3z" />
             </svg>
-            {locating ? "Locating..." : "Navigate here"}
+            {locating ? t("locating", lang) : t("navigateHere", lang)}
           </button>
         </div>
       )}

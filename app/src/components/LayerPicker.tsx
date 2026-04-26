@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { t } from "~/lib/i18n";
 import { type Theme, themeColor } from "~/lib/themes";
 
 interface LayerPickerProps {
@@ -6,6 +7,7 @@ interface LayerPickerProps {
   activeLayers: Set<number>;
   onToggle: (themeId: number) => void;
   onSetAll: (ids: Set<number>) => void;
+  lang: string;
 }
 
 export function LayerPicker({
@@ -13,6 +15,7 @@ export function LayerPicker({
   activeLayers,
   onToggle,
   onSetAll,
+  lang,
 }: LayerPickerProps) {
   const [open, setOpen] = useState(true);
 
@@ -31,7 +34,7 @@ export function LayerPicker({
           fill="none"
           className="text-sepia"
           role="img"
-          aria-label="Layers"
+          aria-label={t("layers", lang)}
         >
           <path
             d="M8 1L1 5l7 4 7-4-7-4z"
@@ -52,7 +55,7 @@ export function LayerPicker({
             strokeLinejoin="round"
           />
         </svg>
-        <span className="text-ink font-medium">Layers</span>
+        <span className="text-ink font-medium">{t("layers", lang)}</span>
         <span className="text-faded">
           {activeLayers.size}/{themes.length}
         </span>
@@ -62,7 +65,7 @@ export function LayerPicker({
         <div className="absolute top-14 left-3 z-20 bg-paper border border-sepia-light rounded-lg shadow-lg w-72 overflow-hidden">
           <div className="px-3 py-2 border-b border-sepia-light flex items-center justify-between">
             <span className="text-xs text-faded uppercase tracking-wider">
-              Themes
+              {t("themes", lang)}
             </span>
             <button
               type="button"
@@ -75,7 +78,9 @@ export function LayerPicker({
               }}
               className="text-xs text-sepia hover:text-ink cursor-pointer"
             >
-              {activeLayers.size === themes.length ? "Hide all" : "Show all"}
+              {activeLayers.size === themes.length
+                ? t("hideAll", lang)
+                : t("showAll", lang)}
             </button>
           </div>
           <div className="max-h-80 overflow-y-auto">

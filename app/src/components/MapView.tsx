@@ -204,6 +204,7 @@ export function MapView({
         activeLayers={activeLayers}
         onToggle={onToggleLayer}
         onSetAll={onSetLayers}
+        lang={lang}
       />
       {routeGeometry && (
         <Source

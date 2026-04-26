@@ -1,6 +1,7 @@
 import { useNavigate } from "@tanstack/react-router";
 import Fuse from "fuse.js";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { t } from "~/lib/i18n";
 import { THEME_COLORS, type Theme } from "~/lib/themes";
 
 interface POIEntry {
@@ -180,7 +181,7 @@ export function SearchDialog({ lang, open, onClose }: SearchDialogProps) {
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             onKeyDown={handleKeyDown}
-            placeholder={lang === "de" ? "Ort suchen…" : "Search places…"}
+            placeholder={t("searchPlaceholder", lang)}
             className="flex-1 bg-transparent text-ink placeholder:text-faded/60 outline-none text-sm"
           />
           <kbd className="hidden sm:inline-block text-[10px] text-faded border border-sepia-light rounded px-1.5 py-0.5">
@@ -195,7 +196,7 @@ export function SearchDialog({ lang, open, onClose }: SearchDialogProps) {
           >
             {results.length === 0 ? (
               <div className="px-4 py-8 text-center text-sm text-faded">
-                {lang === "de" ? "Keine Ergebnisse" : "No results"}
+                {t("searchEmpty", lang)}
               </div>
             ) : (
               results.map((poi, i) => (
@@ -234,9 +235,7 @@ export function SearchDialog({ lang, open, onClose }: SearchDialogProps) {
 
         {!query.trim() && (
           <div className="px-4 py-6 text-center text-xs text-faded">
-            {lang === "de"
-              ? "Tippe, um nach Orten zu suchen"
-              : "Type to search for places"}
+            {t("searchHint", lang)}
           </div>
         )}
       </div>
