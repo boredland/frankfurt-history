@@ -164,9 +164,9 @@ export function MapView({
       const clickLng = coords[0] ?? 0;
       const clickLat = coords[1] ?? 0;
 
-      // ~15m tolerance: 0.000135° lat, 0.00021° lng at 50°N
-      const TOLERANCE_LAT = 0.000135;
-      const TOLERANCE_LNG = 0.00021;
+      // ~7m tolerance: 0.000063° lat, 0.0001° lng at 50°N
+      const TOLERANCE_LAT = 0.000063;
+      const TOLERANCE_LNG = 0.0001;
 
       const nearby = allPois.current.filter(
         (p) =>

@@ -50,6 +50,7 @@ export const Route = createFileRoute("/$lang")({
 
 function parseLayersParam(param: string | undefined): Set<number> | null {
   if (!param) return null;
+  if (param === "none") return new Set();
   const ids = param
     .split(",")
     .map((s) => parseInt(s, 10))
