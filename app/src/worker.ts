@@ -1,8 +1,5 @@
-import tanstackHandler from "@tanstack/react-start/server-entry";
-
 interface Env {
   ASSETS: R2Bucket;
-  IMAGES: Fetcher;
 }
 
 export default {
@@ -14,10 +11,10 @@ export default {
     }
 
     if (url.pathname.startsWith("/img/")) {
-      return handleImage(env, url);
+      return handleImage(url);
     }
 
-    return tanstackHandler.fetch(request);
+    return new Response("Not Found", { status: 404 });
   },
 } satisfies ExportedHandler<Env>;
 
@@ -27,7 +24,7 @@ async function handleR2(
   key: string,
 ): Promise<Response> {
   if (request.method === "OPTIONS") {
-    return new Response(null, { status: 204, headers: corsHeaders() });
+    return corsResponse();
   }
 
   const rangeHeader = request.headers.get("Range");
@@ -78,7 +75,7 @@ function parseRange(header: string): R2Range {
   return { offset };
 }
 
-async function handleImage(_env: Env, url: URL): Promise<Response> {
+async function handleImage(url: URL): Promise<Response> {
   const rest = url.pathname.slice(5);
   const slashIdx = rest.indexOf("/");
   if (slashIdx < 0) return new Response("Bad Request", { status: 400 });
@@ -118,11 +115,14 @@ async function handleImage(_env: Env, url: URL): Promise<Response> {
   return fetch(originUrl, { cf: { image: cfImage } });
 }
 
-function corsHeaders(): Headers {
-  const h = new Headers();
-  h.set("Access-Control-Allow-Origin", "*");
-  h.set("Access-Control-Allow-Methods", "GET, HEAD, OPTIONS");
-  h.set("Access-Control-Allow-Headers", "Range");
-  h.set("Access-Control-Max-Age", "86400");
-  return h;
+function corsResponse(): Response {
+  return new Response(null, {
+    status: 204,
+    headers: {
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "GET, HEAD, OPTIONS",
+      "Access-Control-Allow-Headers": "Range",
+      "Access-Control-Max-Age": "86400",
+    },
+  });
 }
