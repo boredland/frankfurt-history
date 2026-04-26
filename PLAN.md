@@ -227,6 +227,107 @@ Two modes — **pre-cached** (instant) and **live** (GPS-based):
 5. **TTS** — Piper ONNX integration in web worker, streaming sentence-by-sentence playback, model caching in IndexedDB
 6. **Polish** — mobile bottom sheet, image lightbox gallery, offline PWA shell, loading states
 
+## Visual Design
+
+### Direction: "Archival Cartography"
+
+A visual language that feels like studying a well-curated museum map — not a tech product. The map is the hero; UI recedes until needed. Think: ink on cream paper, restrained typography, the quiet authority of a library catalog.
+
+### Color System
+
+| Role | Value | Usage |
+|------|-------|-------|
+| Paper | `#FAF8F5` | Background, panels, cards |
+| Ink | `#1A1A1A` | Primary text, map labels |
+| Faded Ink | `#6B6560` | Secondary text, metadata, captions |
+| Sepia | `#8B7355` | Accent, active states, links |
+| Sepia Light | `#D4C5AD` | Borders, dividers, inactive markers |
+| Red Oxide | `#A0522D` | Alert accent, current-location pin |
+| Map Tint | desaturated warm | Custom MapLibre style with muted tones to let markers pop |
+
+Each **theme** gets its own marker color from a restrained palette of muted earth tones — no neon, no primary colors. The original app's filter colors (turquoise, purple, pink, etc.) are translated into desaturated equivalents.
+
+### Typography
+
+- **Headings**: A serif like **Libre Baskerville** or **Playfair Display** — evokes print history, engraved maps
+- **Body**: A clean sans like **Inter** or **Source Sans 3** — readable at small sizes on mobile, pairs well with serif headings
+- **Metadata / captions**: Same sans, smaller, in `Faded Ink` color
+- **Map labels**: The sans at 11–13px, letter-spaced, uppercase for category labels
+
+### Layout
+
+**Desktop** — split view:
+```
+┌─────────────────────────────────────────────────────┐
+│ [≡ Layers]  Frankfurt History        [DE|EN] [🔍]   │
+├──────────────────────────────┬──────────────────────┤
+│                              │                      │
+│                              │   Article Panel      │
+│          Map                 │   ┌──────────────┐   │
+│    (full remaining space)    │   │  thumbnail   │   │
+│                              │   ├──────────────┤   │
+│                              │   │  Title       │   │
+│       ● ● ●                 │   │  Subtitle    │   │
+│     ●       ●               │   │              │   │
+│       ●  ●                  │   │  Body text   │   │
+│                              │   │              │   │
+│                              │   │  Gallery     │   │
+│                              │   │  [▶ Read]    │   │
+│                              │   │  [→ Navigate]│   │
+│                              │   └──────────────┘   │
+├──────────────────────────────┴──────────────────────┤
+│ route: 450m · 6 min walk                    [Close] │
+└─────────────────────────────────────────────────────┘
+```
+- Panel is ~400px wide, scrollable, with a subtle left border
+- Map takes remaining space, never hidden
+- Panel opens with a slide-in animation; closing it returns to full map
+
+**Mobile** — bottom sheet:
+```
+┌──────────────────┐
+│ [≡]  FFM   [DE|EN]│
+├──────────────────┤
+│                  │
+│      Map         │
+│                  │
+│    ● ● ●        │
+│                  │
+├──────────────────┤  ← drag handle
+│ ┌──────────────┐ │
+│ │ Hochbunker   │ │  ← collapsed: title + thumbnail peek
+│ │ Alt-Schwanheim│ │
+│ └──────────────┘ │
+└──────────────────┘
+```
+- Bottom sheet with three snap points: peek (title only), half, full
+- Full-screen sheet pushes map into a small strip at top (still visible for context)
+- Swipe down to dismiss
+
+### Component Details
+
+**Markers**: Small circles (8–10px) with a 2px sepia border. On hover: scale up to 14px. Active/selected marker: filled `Red Oxide` with a subtle pulse animation. Clusters show count in the serif font.
+
+**Layer Picker**: Collapsible sidebar on desktop, bottom drawer on mobile. Each theme is a row with a colored dot, title, and POI count. Tapping expands sub-filters as chips. A "show all / hide all" toggle at top.
+
+**Article Panel**: 
+- Thumbnail bleeds to panel edges, with a subtle gradient fade at bottom into the text
+- Author/copyright shown as a quiet caption below each image
+- Gallery as a horizontal scroll of thumbnails; tap opens a full-screen lightbox with swipe navigation
+- "Read aloud" button as a minimal play icon in the header area, expanding into a persistent mini-player bar when active
+
+**TTS Player**: When active, a thin bar sticks to the bottom of the article panel showing the current sentence highlighted in the text above. Play/pause, skip sentence, speed selector (0.75×, 1×, 1.25×, 1.5×). The currently-read sentence gets a warm background highlight (`Sepia Light`) that scrolls the panel to keep it in view.
+
+**Navigation overlay**: Route drawn as a dashed `Sepia` line on the map. Turn instructions appear in a minimal bottom bar over the map. Walking distance and time shown prominently. "Open in Maps" fallback link for native navigation.
+
+### Interactions
+
+- **Map idle → marker tap**: panel slides in, map pans to center marker with an offset (so marker isn't hidden behind panel)
+- **Article → "Navigate"**: panel shrinks to peek mode, route appears on map, turn instructions take the bottom bar
+- **Article → "Read aloud"**: mini-player appears, text highlights scroll in sync
+- **Layer toggle**: markers fade in/out with a 200ms opacity transition
+- **Language switch**: crossfade text content, URL updates, map state preserved
+
 ## Open Questions
 
 - **Tile source**: MapTiler free tier (100k loads/month) vs self-hosted PMTiles on GitHub Pages (free, no rate limit, ~50 MB file)?
