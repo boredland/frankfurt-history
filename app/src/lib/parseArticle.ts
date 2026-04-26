@@ -14,6 +14,8 @@ export type ArticleSection =
 
 function markdownBlockToHtml(md: string): string {
   let html = md;
+  // Bare URLs → markdown links (before any HTML is generated)
+  html = html.replace(/(?<![(["])(https?:\/\/[^\s<)\]]+)/g, "[$1]($1)");
   html = html.replace(/^### (.+)$/gm, "<h3>$1</h3>");
   html = html.replace(/^## (.+)$/gm, "<h2>$1</h2>");
   html = html.replace(/^# (.+)$/gm, "<h1>$1</h1>");
@@ -24,10 +26,6 @@ function markdownBlockToHtml(md: string): string {
   html = html.replace(
     /\[([^\]]+)\]\(([^)]+)\)/g,
     '<a href="$2" target="_blank" rel="noopener">$1</a>',
-  );
-  html = html.replace(
-    /(?<![("=])(https?:\/\/[^\s<)]+)/g,
-    '<a href="$1" target="_blank" rel="noopener">$1</a>',
   );
   html = html.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
   html = html.replace(/(?<![*])\*([^*\n]+)\*(?![*])/g, "<em>$1</em>");

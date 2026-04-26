@@ -45,7 +45,8 @@ export async function fetchLiveRoute(
       `https://api.openrouteservice.org/v2/directions/foot-walking?start=${startLng},${startLat}&end=${endLng},${endLat}`,
     );
     if (!r.ok) return null;
-    const data = await r.json();
+    // biome-ignore lint/suspicious/noExplicitAny: ORS API response shape
+    const data = (await r.json()) as any;
     const feat = data.features?.[0];
     if (!feat) return null;
     const summary = feat.properties?.summary;

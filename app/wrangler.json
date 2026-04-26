@@ -1,5 +1,15 @@
 {
   "name": "frankfurt-history",
-  "pages_build_output_dir": "dist/client",
-  "compatibility_date": "2026-04-26"
+  "main": "src/worker.ts",
+  "compatibility_date": "2026-04-26",
+  "assets": {
+    "directory": "dist/client",
+    "not_found_handling": "single-page-application"
+  },
+  "r2_buckets": [
+    {
+      "binding": "ASSETS",
+      "bucket_name": "frankfurt-history-assets"
+    }
+  ]
 }

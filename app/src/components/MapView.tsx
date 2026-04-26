@@ -66,7 +66,7 @@ export function MapView({
 
   useEffect(() => {
     fetch("/data/themes.json")
-      .then((r) => r.json())
+      .then((r) => r.json() as Promise<Theme[]>)
       .then(setThemes)
       .catch(console.error);
   }, []);
@@ -269,8 +269,8 @@ function ThemeLayer({
 
   useEffect(() => {
     fetch(`/data/${theme.slug}.geojson`)
-      .then((r) => r.json())
-      .then((data: GeoJSON.FeatureCollection) => {
+      .then((r) => r.json() as Promise<GeoJSON.FeatureCollection>)
+      .then((data) => {
         setGeojson(data);
         onFeaturesLoaded(data.features);
       })

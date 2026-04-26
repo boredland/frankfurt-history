@@ -43,8 +43,8 @@ export function SearchDialog({ lang, open, onClose }: SearchDialogProps) {
         "revolution-1848-49",
       ].map((slug) =>
         fetch(`/data/${slug}.geojson`)
-          .then((r) => r.json())
-          .then((gj: GeoJSON.FeatureCollection) => ({
+          .then((r) => r.json() as Promise<GeoJSON.FeatureCollection>)
+          .then((gj) => ({
             slug,
             features: gj.features,
           })),

@@ -127,8 +127,8 @@ function LangLayout() {
 
   useEffect(() => {
     fetch("/data/themes.json")
-      .then((r) => r.json())
-      .then((themes: Theme[]) => setAllThemeIds(themes.map((t) => t.id)))
+      .then((r) => r.json() as Promise<Theme[]>)
+      .then((themes) => setAllThemeIds(themes.map((t) => t.id)))
       .catch(console.error);
   }, []);
 

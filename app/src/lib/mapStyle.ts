@@ -4,7 +4,7 @@ import { layersWithPartialCustomTheme } from "protomaps-themes-base";
 const PMTILES_URL =
   typeof window !== "undefined" && window.location.hostname === "localhost"
     ? "/frankfurt.pmtiles"
-    : "https://pub-d6ff75a2458a49e5b81457a2e7841032.r2.dev/frankfurt.pmtiles";
+    : "/r2/frankfurt.pmtiles";
 
 const archivalTheme = {
   background: "#FAF8F5",

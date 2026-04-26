@@ -1,7 +1,5 @@
 const R2_PUBLIC_URL = "https://pub-d6ff75a2458a49e5b81457a2e7841032.r2.dev";
 
-const PROXY_BASE = "https://frankfurt-history.pages.dev/cdn-cgi/image";
-
 type ImagePreset = "article" | "thumbnail" | "lightbox" | "og";
 
 const PRESETS: Record<ImagePreset, string> = {
@@ -13,12 +11,5 @@ const PRESETS: Record<ImagePreset, string> = {
 
 export function imageUrl(src: string, preset: ImagePreset = "article"): string {
   if (!src.startsWith(R2_PUBLIC_URL)) return src;
-  return `${PROXY_BASE}/${PRESETS[preset]}/${src}`;
-}
-
-export function rewriteImgSrc(html: string, preset: ImagePreset): string {
-  return html.replace(
-    /src="(https:\/\/pub-d6ff75a2458a49e5b81457a2e7841032\.r2\.dev\/[^"]+)"/g,
-    (_, url) => `src="${imageUrl(url, preset)}"`,
-  );
+  return `/img/${PRESETS[preset]}/${src}`;
 }
