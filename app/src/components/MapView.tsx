@@ -3,6 +3,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import MapGL, {
   Layer,
   type MapLayerMouseEvent,
+  Popup,
   Source,
   type ViewStateChangeEvent,
 } from "react-map-gl/maplibre";
@@ -25,6 +26,12 @@ interface MapViewProps {
   activeSlug?: string;
 }
 
+interface HoverInfo {
+  lng: number;
+  lat: number;
+  title: string;
+}
+
 export function MapView({
   lat,
   lng,
@@ -36,6 +43,8 @@ export function MapView({
 }: MapViewProps) {
   const navigate = useNavigate();
   const [themes, setThemes] = useState<Theme[]>([]);
+  const [hover, setHover] = useState<HoverInfo | null>(null);
+  const [cursor, setCursor] = useState("auto");
 
   useEffect(() => {
     fetch("/data/themes.json")
@@ -65,6 +74,7 @@ export function MapView({
       const theme = props.theme as string;
       const slug = props.slug as string;
       if (theme && slug) {
+        setHover(null);
         navigate({
           to: "/$lang/$theme/$slug",
           params: { lang: lang as "de" | "en", theme, slug },
@@ -74,6 +84,23 @@ export function MapView({
     },
     [navigate, lang],
   );
+
+  const handleMouseEnter = useCallback((e: MapLayerMouseEvent) => {
+    setCursor("pointer");
+    const feature = e.features?.[0];
+    if (!feature?.properties || feature.properties.cluster) return;
+    const coords = (feature.geometry as GeoJSON.Point).coordinates;
+    setHover({
+      lng: coords[0] ?? 0,
+      lat: coords[1] ?? 0,
+      title: feature.properties.title as string,
+    });
+  }, []);
+
+  const handleMouseLeave = useCallback(() => {
+    setCursor("auto");
+    setHover(null);
+  }, []);
 
   const handleMoveEnd = useCallback(
     (e: ViewStateChangeEvent) => {
@@ -98,7 +125,8 @@ export function MapView({
   );
 
   const interactiveLayerIds = useMemo(
-    () => visibleThemes.map((t) => `poi-${t.slug}`),
+    () =>
+      visibleThemes.flatMap((t) => [`poi-${t.slug}`, `poi-active-${t.slug}`]),
     [visibleThemes],
   );
 
@@ -108,9 +136,11 @@ export function MapView({
       mapStyle={BASEMAP_STYLE}
       onMoveEnd={handleMoveEnd}
       onClick={handleClick}
+      onMouseEnter={handleMouseEnter}
+      onMouseLeave={handleMouseLeave}
       interactiveLayerIds={interactiveLayerIds}
       style={{ width: "100%", height: "100%" }}
-      cursor="auto"
+      cursor={cursor}
     >
       {visibleThemes.map((theme) => (
         <ThemeLayer key={theme.slug} theme={theme} activeSlug={activeSlug} />
@@ -120,6 +150,19 @@ export function MapView({
         activeLayers={activeLayers}
         onToggle={onToggleLayer}
       />
+      {hover && (
+        <Popup
+          longitude={hover.lng}
+          latitude={hover.lat}
+          closeButton={false}
+          closeOnClick={false}
+          anchor="bottom"
+          offset={12}
+          className="poi-tooltip"
+        >
+          <span className="text-xs font-medium text-ink">{hover.title}</span>
+        </Popup>
+      )}
     </MapGL>
   );
 }

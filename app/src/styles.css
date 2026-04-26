@@ -67,6 +67,19 @@ body,
   text-underline-offset: 2px;
 }
 
+.poi-tooltip .maplibregl-popup-content {
+  background: var(--color-paper);
+  border: 1px solid var(--color-sepia-light);
+  border-radius: 6px;
+  padding: 4px 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  font-family: var(--font-sans);
+}
+
+.poi-tooltip .maplibregl-popup-tip {
+  border-top-color: var(--color-sepia-light);
+}
+
 @keyframes slide-up {
   from {
     transform: translateY(100%);
