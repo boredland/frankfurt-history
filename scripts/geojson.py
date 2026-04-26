@@ -110,6 +110,9 @@ def build_theme(theme_dir: Path) -> tuple[dict | None, dict | None]:
         categories = parse_yaml_list(poi_path, "categories")
         filters = parse_yaml_list(poi_path, "filters")
 
+        if any(f.startswith("Orte mit mehreren") for f in filters):
+            continue
+
         slug = poi_path.stem
 
         feature = {
