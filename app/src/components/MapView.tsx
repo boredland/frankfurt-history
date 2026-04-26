@@ -251,7 +251,11 @@ export function MapView({
 
   const interactiveLayerIds = useMemo(
     () =>
-      visibleThemes.flatMap((t) => [`poi-${t.slug}`, `poi-active-${t.slug}`]),
+      visibleThemes.flatMap((t) => [
+        `poi-${t.slug}`,
+        `poi-active-${t.slug}`,
+        `poi-stacked-${t.slug}`,
+      ]),
     [visibleThemes],
   );
 
@@ -459,6 +463,25 @@ function ThemeLayer({
           "circle-stroke-width": 3,
           "circle-stroke-color": "#FAF8F5",
           "circle-opacity": 1,
+        }}
+      />
+      {/* Stacked POI outer ring indicator */}
+      <Layer
+        id={`poi-stacked-${theme.slug}`}
+        type="circle"
+        filter={[
+          "all",
+          ["!", ["has", "point_count"]],
+          ["==", ["get", "stacked"], true],
+          ["!=", ["get", "slug"], activeSlug ?? ""],
+        ]}
+        paint={{
+          "circle-color": color,
+          "circle-radius": 10,
+          "circle-opacity": 0.2,
+          "circle-stroke-width": 1.5,
+          "circle-stroke-color": color,
+          "circle-stroke-opacity": 0.4,
         }}
       />
       {/* Regular POIs */}

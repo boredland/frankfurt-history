@@ -214,6 +214,46 @@ def main():
         json.dumps(themes, indent=2, ensure_ascii=False) + "\n"
     )
 
+    # Post-process: mark stacked POIs (multiple articles at same location)
+    tolerance_lat = 0.00009
+    tolerance_lng = 0.00014
+    all_features = []
+    geojson_files = {}
+    for gj_path in sorted(OUT_DIR.glob("*.geojson")):
+        data = json.loads(gj_path.read_text())
+        geojson_files[gj_path.name] = data
+        for f in data["features"]:
+            coords = f["geometry"]["coordinates"]
+            all_features.append({
+                "lng": coords[0], "lat": coords[1],
+                "address": f["properties"].get("address", ""),
+                "slug": f["properties"]["slug"],
+            })
+
+    stacked_slugs = set()
+    for i, a in enumerate(all_features):
+        for j, b in enumerate(all_features):
+            if i >= j:
+                continue
+            address_match = a["address"] and b["address"] and a["address"] == b["address"]
+            coord_match = (
+                abs(a["lng"] - b["lng"]) < tolerance_lng and
+                abs(a["lat"] - b["lat"]) < tolerance_lat
+            )
+            if address_match or coord_match:
+                stacked_slugs.add(a["slug"])
+                stacked_slugs.add(b["slug"])
+
+    stacked_count = 0
+    for name, data in geojson_files.items():
+        for f in data["features"]:
+            if f["properties"]["slug"] in stacked_slugs:
+                f["properties"]["stacked"] = True
+                stacked_count += 1
+        (OUT_DIR / name).write_text(json.dumps(data, ensure_ascii=False) + "\n")
+
+    print(f"  {stacked_count} POIs marked as stacked")
+
     # Copy markdown files to public/content/, rewriting image paths to R2 URLs
     image_path_re = re.compile(r"(\.\./)+images/")
     if CONTENT_DIR.exists():
