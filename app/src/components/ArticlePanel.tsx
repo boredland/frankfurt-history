@@ -93,6 +93,7 @@ interface SiblingPoi {
   subtitle: string;
   theme: string;
   slug: string;
+  thumb: string;
 }
 
 function SiblingsAtLocation({
@@ -112,8 +113,8 @@ function SiblingsAtLocation({
   const [siblings, setSiblings] = useState<SiblingPoi[]>([]);
 
   useEffect(() => {
-    const TOLERANCE_LAT = 0.000063;
-    const TOLERANCE_LNG = 0.0001;
+    const TOLERANCE_LAT = 0.00009;
+    const TOLERANCE_LNG = 0.00014;
 
     const themeFiles = [
       "feministisches-frankfurt",
@@ -132,6 +133,19 @@ function SiblingsAtLocation({
           .catch(() => ({ themeSlug: s, features: [] as GeoJSON.Feature[] })),
       ),
     ).then((results) => {
+      // Find the clicked POI's address for address-based matching
+      let myAddress = "";
+      for (const { features } of results) {
+        for (const f of features) {
+          const p = f.properties as Record<string, unknown>;
+          if (p.slug === slug) {
+            myAddress = (p.address as string) || "";
+            break;
+          }
+        }
+        if (myAddress) break;
+      }
+
       const found: SiblingPoi[] = [];
       for (const { themeSlug, features } of results) {
         for (const f of features) {
@@ -139,15 +153,21 @@ function SiblingsAtLocation({
           const coords = (f.geometry as GeoJSON.Point).coordinates;
           const poiSlug = p.slug as string;
           if (poiSlug === slug) continue;
-          if (
+
+          const poiAddress = (p.address as string) || "";
+          const addressMatch =
+            myAddress && poiAddress && myAddress === poiAddress;
+          const coordMatch =
             Math.abs((coords[0] ?? 0) - lng) < TOLERANCE_LNG &&
-            Math.abs((coords[1] ?? 0) - lat) < TOLERANCE_LAT
-          ) {
+            Math.abs((coords[1] ?? 0) - lat) < TOLERANCE_LAT;
+
+          if (addressMatch || coordMatch) {
             found.push({
               title: (p.title as string) || "",
               subtitle: (p.subtitle as string) || "",
               theme: themeSlug,
               slug: poiSlug,
+              thumb: (p.thumb as string) || "",
             });
           }
         }
@@ -179,15 +199,30 @@ function SiblingsAtLocation({
                 search: (prev: Record<string, unknown>) => prev,
               })
             }
-            className="w-full flex items-stretch rounded-lg overflow-hidden bg-paper border border-sepia-light/60 hover:border-sepia hover:shadow-sm cursor-pointer transition-all text-left group"
+            className="w-full flex items-center gap-2.5 rounded-lg overflow-hidden bg-paper border border-sepia-light/60 hover:border-sepia hover:shadow-sm cursor-pointer transition-all text-left group p-1.5"
           >
-            <div
-              className="w-1 shrink-0"
-              style={{
-                backgroundColor: THEME_COLORS[poi.theme] || "#8B7355",
-              }}
-            />
-            <div className="min-w-0 px-2.5 py-2 flex-1">
+            {poi.thumb ? (
+              <img
+                src={imageUrl(poi.thumb, "thumbnail")}
+                alt=""
+                className="w-11 h-11 rounded object-cover shrink-0 bg-sepia-light/30"
+              />
+            ) : (
+              <div
+                className="w-11 h-11 rounded shrink-0 flex items-center justify-center"
+                style={{
+                  backgroundColor: `${THEME_COLORS[poi.theme] || "#8B7355"}20`,
+                }}
+              >
+                <span
+                  className="w-3 h-3 rounded-full"
+                  style={{
+                    backgroundColor: THEME_COLORS[poi.theme] || "#8B7355",
+                  }}
+                />
+              </div>
+            )}
+            <div className="min-w-0 flex-1">
               <div className="text-sm text-ink leading-snug group-hover:text-sepia transition-colors">
                 {poi.title}
               </div>
@@ -195,7 +230,7 @@ function SiblingsAtLocation({
                 <div className="text-xs text-faded mt-0.5">{poi.subtitle}</div>
               )}
             </div>
-            <div className="flex items-center pr-2 shrink-0 text-sepia-light group-hover:text-sepia transition-colors">
+            <div className="flex items-center pr-1 shrink-0 text-sepia-light group-hover:text-sepia transition-colors">
               <svg
                 width="14"
                 height="14"

@@ -19,6 +19,9 @@ jobs:
       - name: Run archival
         run: uv run archive.py
 
+      - name: Reverse geocode addresses
+        run: uv run scripts/geocode_addresses.py
+
       - name: Commit and push data changes
         run: |
           git config user.name "github-actions[bot]"

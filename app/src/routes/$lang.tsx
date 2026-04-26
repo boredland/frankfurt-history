@@ -137,7 +137,8 @@ function LangLayout() {
 
   const activeLayers = useMemo(() => {
     if (layersFromUrl) return layersFromUrl;
-    return new Set(allThemeIds);
+    // Exclude "Leichte Sprache" (id 5) from default selection
+    return new Set(allThemeIds.filter((id) => id !== 5));
   }, [layersFromUrl, allThemeIds]);
 
   const handleToggleLayer = useCallback(

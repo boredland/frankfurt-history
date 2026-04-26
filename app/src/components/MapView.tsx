@@ -73,6 +73,7 @@ export function MapView({
       theme: string;
       slug: string;
       thumb: string;
+      address: string;
     }[];
   } | null>(null);
 
@@ -102,6 +103,7 @@ export function MapView({
       theme: string;
       slug: string;
       thumb: string;
+      address: string;
     }[]
   >([]);
   const registeredSlugs = useRef<Set<string>>(new Set());
@@ -122,6 +124,7 @@ export function MapView({
         theme: (p.theme as string) || "",
         slug,
         thumb: (p.thumb as string) || "",
+        address: (p.address as string) || "",
       });
     }
 
@@ -172,17 +175,21 @@ export function MapView({
       const coords = (feature.geometry as GeoJSON.Point).coordinates;
       const clickLng = coords[0] ?? 0;
       const clickLat = coords[1] ?? 0;
+      const clickAddress = (props.address as string) || "";
 
-      // ~7m tolerance: 0.000063° lat, 0.0001° lng at 50°N
-      const TOLERANCE_LAT = 0.000063;
-      const TOLERANCE_LNG = 0.0001;
+      // Snap by address match first, fall back to ~10m radius
+      const TOLERANCE_LAT = 0.00009;
+      const TOLERANCE_LNG = 0.00014;
 
-      const nearby = allPois.current.filter(
-        (p) =>
-          visibleThemeSlugs.has(p.theme) &&
+      const nearby = allPois.current.filter((p) => {
+        if (!visibleThemeSlugs.has(p.theme)) return false;
+        if (clickAddress && p.address && clickAddress === p.address)
+          return true;
+        return (
           Math.abs(p.lng - clickLng) < TOLERANCE_LNG &&
-          Math.abs(p.lat - clickLat) < TOLERANCE_LAT,
-      );
+          Math.abs(p.lat - clickLat) < TOLERANCE_LAT
+        );
+      });
 
       if (nearby.length > 1) {
         setHover(null);

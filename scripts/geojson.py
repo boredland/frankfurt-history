@@ -16,6 +16,7 @@ CONTENT_DIR = Path(__file__).resolve().parent.parent / "app" / "public" / "data"
 R2_PUBLIC_URL = os.environ.get(
     "R2_PUBLIC_URL", "https://pub-d6ff75a2458a49e5b81457a2e7841032.r2.dev"
 )
+ADDRESS_CACHE = DATA_DIR / "addresses.json"
 
 
 def parse_frontmatter(path: Path) -> dict:
@@ -80,7 +81,7 @@ def parse_yaml_list(path: Path, field: str) -> list[str]:
     return items
 
 
-def build_theme(theme_dir: Path) -> tuple[dict | None, dict | None]:
+def build_theme(theme_dir: Path, addresses: dict[str, str] | None = None) -> tuple[dict | None, dict | None]:
     index_path = theme_dir / "_index.md"
     if not index_path.exists():
         return None, None
@@ -136,6 +137,11 @@ def build_theme(theme_dir: Path) -> tuple[dict | None, dict | None]:
         }
         if thumb:
             feature["properties"]["thumb"] = thumb
+        if addresses:
+            addr_key = f"{lat:.6f},{lng:.6f}"
+            addr = addresses.get(addr_key, "")
+            if addr:
+                feature["properties"]["address"] = addr
         if categories:
             feature["properties"]["categories"] = categories
         if filters:
@@ -159,6 +165,12 @@ def build_theme(theme_dir: Path) -> tuple[dict | None, dict | None]:
 def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
+    # Load address cache if available
+    addresses = None
+    if ADDRESS_CACHE.exists():
+        addresses = json.loads(ADDRESS_CACHE.read_text())
+        print(f"Loaded {len(addresses)} cached addresses")
+
     # Prefer merged content/ (includes overrides) over raw data/
     geojson_source = MERGED_DIR if MERGED_DIR.is_dir() else DATA_DIR
 
@@ -168,7 +180,7 @@ def main():
     for theme_dir in sorted(geojson_source.iterdir()):
         if not theme_dir.is_dir() or theme_dir.name in ("images", "de", "en"):
             continue
-        theme_meta, geojson = build_theme(theme_dir)
+        theme_meta, geojson = build_theme(theme_dir, addresses)
         if not theme_meta:
             continue
 
@@ -188,7 +200,7 @@ def main():
                 continue
             if any(t["slug"] == theme_dir.name for t in themes):
                 continue
-            theme_meta, geojson = build_theme(theme_dir)
+            theme_meta, geojson = build_theme(theme_dir, addresses)
             if not theme_meta:
                 continue
             out_path = OUT_DIR / f"{theme_dir.name}.geojson"
