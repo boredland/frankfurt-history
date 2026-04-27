@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """Reverse geocode POI coordinates to street addresses via Photon (Komoot).
 
-Reads coordinates from data/de/<theme>/*.md frontmatter, reverse geocodes
-each unique coordinate pair, and caches results in data/addresses.json.
-Only calls the API for coordinates not already cached.
+Strategy:
+1. Reverse geocode via Photon — best precision for coordinates
+2. If no house number returned, forward geocode the POI's subtitle
+   (which often contains the real street address) near the coordinates
+3. Cache results permanently in data/addresses.json
 
-Uses Photon (https://photon.komoot.io) — better precision than Nominatim,
-no API key required, same OSM data source.
-The cache file is committed to git and persists across runs.
+Uses Photon (https://photon.komoot.io) — no API key required.
 """
 
 import json
@@ -20,7 +20,13 @@ import httpx
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 CACHE_PATH = DATA_DIR / "addresses.json"
-PHOTON_URL = "https://photon.komoot.io/reverse"
+PHOTON_REVERSE = "https://photon.komoot.io/reverse"
+PHOTON_FORWARD = "https://photon.komoot.io/api"
+
+STREET_RE = re.compile(
+    r"(?:straße|strasse|weg|platz|allee|gasse|ring|anlage|pfad|ufer|damm|chaussee)",
+    re.IGNORECASE,
+)
 
 
 def load_cache() -> dict[str, str]:
@@ -37,7 +43,7 @@ def coord_key(lat: float, lng: float) -> str:
     return f"{lat:.6f},{lng:.6f}"
 
 
-def parse_coordinates(path: Path) -> tuple[float, float] | None:
+def parse_poi(path: Path) -> tuple[float, float, str] | None:
     text = path.read_text()
     if not text.startswith("---"):
         return None
@@ -49,23 +55,51 @@ def parse_coordinates(path: Path) -> tuple[float, float] | None:
     lat, lng = float(m.group(1)), float(m.group(2))
     if not (49.5 < lat < 50.5 and 8.0 < lng < 9.5):
         return None
-    return lat, lng
+    sub_m = re.search(r'subtitle:\s*"?([^"\n]+)', fm)
+    subtitle = sub_m.group(1).strip() if sub_m else ""
+    return lat, lng, subtitle
 
 
-def reverse_geocode(client: httpx.Client, lat: float, lng: float) -> str:
+def format_addr(props: dict) -> str:
+    street = props.get("street", "")
+    house = props.get("housenumber", "")
+    if street and house:
+        return f"{street} {house}"
+    return ""
+
+
+def reverse_geocode(client: httpx.Client, lat: float, lng: float, subtitle: str) -> str:
     try:
-        r = client.get(PHOTON_URL, params={"lat": lat, "lon": lng})
+        r = client.get(PHOTON_REVERSE, params={"lat": lat, "lon": lng})
         r.raise_for_status()
         data = r.json()
         features = data.get("features", [])
-        if not features:
-            return ""
-        props = features[0].get("properties", {})
-        street = props.get("street", "")
-        house = props.get("housenumber", "")
-        if street and house:
-            return f"{street} {house}"
-        return street or ""
+        if features:
+            addr = format_addr(features[0].get("properties", {}))
+            if addr:
+                return addr
+
+        # Fallback: forward geocode the subtitle if it looks like an address
+        if subtitle and STREET_RE.search(subtitle):
+            time.sleep(0.15)
+            r2 = client.get(
+                PHOTON_FORWARD,
+                params={
+                    "q": f"{subtitle}, Frankfurt am Main",
+                    "lat": lat,
+                    "lon": lng,
+                    "limit": 1,
+                },
+            )
+            r2.raise_for_status()
+            data2 = r2.json()
+            features2 = data2.get("features", [])
+            if features2:
+                addr2 = format_addr(features2[0].get("properties", {}))
+                if addr2:
+                    return addr2
+
+        return ""
     except Exception as e:
         print(f"  Error geocoding {lat},{lng}: {e}", flush=True)
         return ""
@@ -74,30 +108,22 @@ def reverse_geocode(client: httpx.Client, lat: float, lng: float) -> str:
 def main():
     cache = load_cache()
 
-    unique_coords: dict[str, tuple[float, float]] = {}
-    for theme_dir in sorted(DATA_DIR.iterdir()):
-        if not theme_dir.is_dir() or theme_dir.name in ("images", "de", "en"):
-            continue
-        for poi_path in sorted(theme_dir.glob("*.md")):
-            if poi_path.name.startswith("_"):
-                continue
-            coords = parse_coordinates(poi_path)
-            if coords:
-                key = coord_key(coords[0], coords[1])
-                unique_coords[key] = coords
-
-    de_dir = DATA_DIR / "de"
-    if de_dir.is_dir():
-        for theme_dir in sorted(de_dir.iterdir()):
-            if not theme_dir.is_dir():
+    unique_coords: dict[str, tuple[float, float, str]] = {}
+    for source_dir in [DATA_DIR] + (
+        [DATA_DIR / "de"] if (DATA_DIR / "de").is_dir() else []
+    ):
+        for theme_dir in sorted(source_dir.iterdir()):
+            if not theme_dir.is_dir() or theme_dir.name in ("images", "de", "en"):
                 continue
             for poi_path in sorted(theme_dir.glob("*.md")):
                 if poi_path.name.startswith("_"):
                     continue
-                coords = parse_coordinates(poi_path)
-                if coords:
-                    key = coord_key(coords[0], coords[1])
-                    unique_coords[key] = coords
+                result = parse_poi(poi_path)
+                if result:
+                    lat, lng, subtitle = result
+                    key = coord_key(lat, lng)
+                    if key not in unique_coords:
+                        unique_coords[key] = (lat, lng, subtitle)
 
     uncached = {k: v for k, v in unique_coords.items() if k not in cache}
 
@@ -113,8 +139,8 @@ def main():
     print(f"Estimated time: {eta_min:.0f} minutes", flush=True)
 
     client = httpx.Client(timeout=15)
-    for i, (key, (lat, lng)) in enumerate(uncached.items()):
-        addr = reverse_geocode(client, lat, lng)
+    for i, (key, (lat, lng, subtitle)) in enumerate(uncached.items()):
+        addr = reverse_geocode(client, lat, lng, subtitle)
         cache[key] = addr
         if (i + 1) % 25 == 0:
             print(f"  {i + 1}/{len(uncached)} geocoded", flush=True)
