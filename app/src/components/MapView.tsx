@@ -221,17 +221,49 @@ export function MapView({
     [navigate, lang, visibleThemeSlugs],
   );
 
-  const handleMouseEnter = useCallback((e: MapLayerMouseEvent) => {
-    setCursor("pointer");
-    const feature = e.features?.[0];
-    if (!feature?.properties || feature.properties.cluster) return;
-    const coords = (feature.geometry as GeoJSON.Point).coordinates;
-    setHover({
-      lng: coords[0] ?? 0,
-      lat: coords[1] ?? 0,
-      title: feature.properties.title as string,
-    });
-  }, []);
+  const handleMouseEnter = useCallback(
+    (e: MapLayerMouseEvent) => {
+      setCursor("pointer");
+      const feature = e.features?.[0];
+      if (!feature?.properties || feature.properties.cluster) return;
+      const coords = (feature.geometry as GeoJSON.Point).coordinates;
+      const clickLng = coords[0] ?? 0;
+      const clickLat = coords[1] ?? 0;
+      const addr = (feature.properties.address as string) || "";
+      const { lat: TOL_LAT, lng: TOL_LNG } = SNAP_TOLERANCE;
+      const hasNum = (a: string) => /\d/.test(a);
+
+      const nearby = allPois.current.filter((p) => {
+        if (!visibleThemeSlugs.has(p.theme)) return false;
+        if (
+          addr &&
+          p.address &&
+          hasNum(addr) &&
+          hasNum(p.address) &&
+          addr === p.address
+        )
+          return true;
+        return (
+          Math.abs(p.lng - clickLng) < TOL_LNG &&
+          Math.abs(p.lat - clickLat) < TOL_LAT
+        );
+      });
+
+      let title: string;
+      if (nearby.length > 1) {
+        const unique = [...new Set(nearby.map((p) => p.title))];
+        title =
+          unique.length > 3
+            ? `${unique.slice(0, 3).join(", ")} +${unique.length - 3}`
+            : unique.join(", ");
+      } else {
+        title = feature.properties.title as string;
+      }
+
+      setHover({ lng: clickLng, lat: clickLat, title });
+    },
+    [visibleThemeSlugs],
+  );
 
   const handleMouseLeave = useCallback(() => {
     setCursor("auto");
