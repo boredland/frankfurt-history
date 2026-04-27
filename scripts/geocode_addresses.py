@@ -22,6 +22,8 @@ DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 CACHE_PATH = DATA_DIR / "addresses.json"
 PHOTON_REVERSE = "https://photon.komoot.io/reverse"
 PHOTON_FORWARD = "https://photon.komoot.io/api"
+NOMINATIM_REVERSE = "https://nominatim.openstreetmap.org/reverse"
+USER_AGENT = "FrankfurtHistoryApp/1.0 (https://history.jonas-strassel.de)"
 
 STREET_RE = re.compile(
     r"(?:straße|strasse|weg|platz|allee|gasse|ring|anlage|pfad|ufer|damm|chaussee)",
@@ -81,8 +83,30 @@ def photon_get(client: httpx.Client, url: str, params: dict) -> dict:
     return {}
 
 
+def nominatim_reverse(client: httpx.Client, lat: float, lng: float) -> str:
+    try:
+        r = client.get(
+            NOMINATIM_REVERSE,
+            params={"lat": lat, "lon": lng, "format": "jsonv2", "addressdetails": 1, "zoom": 18},
+            headers={"User-Agent": USER_AGENT},
+        )
+        if r.status_code == 429:
+            time.sleep(5)
+            return ""
+        r.raise_for_status()
+        addr = r.json().get("address", {})
+        road = addr.get("road", addr.get("pedestrian", ""))
+        house = addr.get("house_number", "")
+        if road and house:
+            return f"{road} {house}"
+        return ""
+    except Exception:
+        return ""
+
+
 def reverse_geocode(client: httpx.Client, lat: float, lng: float, subtitle: str) -> str:
     try:
+        # 1. Photon reverse
         data = photon_get(client, PHOTON_REVERSE, {"lat": lat, "lon": lng})
         features = data.get("features", [])
         if features:
@@ -90,7 +114,13 @@ def reverse_geocode(client: httpx.Client, lat: float, lng: float, subtitle: str)
             if addr:
                 return addr
 
-        # Fallback: forward geocode the subtitle if it looks like an address
+        # 2. Nominatim reverse (fallback)
+        time.sleep(1.5)
+        addr = nominatim_reverse(client, lat, lng)
+        if addr:
+            return addr
+
+        # 3. Photon forward geocode the subtitle
         if subtitle and STREET_RE.search(subtitle):
             time.sleep(1.5)
             data2 = photon_get(
@@ -111,7 +141,7 @@ def reverse_geocode(client: httpx.Client, lat: float, lng: float, subtitle: str)
 
         return ""
     except Exception as e:
-        print(f"  Error geocoding {lat},{lng}: {e}", flush=True)
+        print(f"    Error: {e}", flush=True)
         return ""
 
 
