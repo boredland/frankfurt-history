@@ -249,7 +249,10 @@ def main():
         for j, b in enumerate(all_features):
             if i >= j:
                 continue
-            address_match = a["address"] and b["address"] and a["address"] == b["address"]
+            # Only snap by address if it includes a house number (contains a digit)
+            a_has_number = a["address"] and any(c.isdigit() for c in a["address"])
+            b_has_number = b["address"] and any(c.isdigit() for c in b["address"])
+            address_match = a_has_number and b_has_number and a["address"] == b["address"]
             coord_match = (
                 abs(a["lng"] - b["lng"]) < tolerance_lng and
                 abs(a["lat"] - b["lat"]) < tolerance_lat

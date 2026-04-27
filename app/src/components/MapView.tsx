@@ -181,7 +181,14 @@ export function MapView({
 
       const nearby = allPois.current.filter((p) => {
         if (!visibleThemeSlugs.has(p.theme)) return false;
-        if (clickAddress && p.address && clickAddress === p.address)
+        const hasNumber = (a: string) => /\d/.test(a);
+        if (
+          clickAddress &&
+          p.address &&
+          hasNumber(clickAddress) &&
+          hasNumber(p.address) &&
+          clickAddress === p.address
+        )
           return true;
         return (
           Math.abs(p.lng - clickLng) < TOLERANCE_LNG &&

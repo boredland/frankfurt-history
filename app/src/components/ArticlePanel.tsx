@@ -175,8 +175,13 @@ function SiblingsAtLocation({
           if (poiSlug === slug) continue;
 
           const poiAddress = (p.address as string) || "";
+          const hasNum = (a: string) => /\d/.test(a);
           const addressMatch =
-            myAddress && poiAddress && myAddress === poiAddress;
+            myAddress &&
+            poiAddress &&
+            hasNum(myAddress) &&
+            hasNum(poiAddress) &&
+            myAddress === poiAddress;
           const coordMatch =
             Math.abs((coords[0] ?? 0) - lng) < TOLERANCE_LNG &&
             Math.abs((coords[1] ?? 0) - lat) < TOLERANCE_LAT;
