@@ -24,7 +24,8 @@ function markdownBlockToHtml(md: string): string {
     '<a href="$2" target="_blank" rel="noopener">$1</a>',
   );
   html = html.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
-  html = html.replace(/(?<![*])\*([^*\n]+)\*(?![*])/g, "<em>$1</em>");
+  // Require space/start before opening * to avoid matching Gendersternchen (Bürger*innen)
+  html = html.replace(/(?<=^|[\s(])\*([^*\n]+)\*(?![*\w])/gm, "<em>$1</em>");
   html = html.replace(/^- (.+)$/gm, "<li>$1</li>");
   html = html.replace(/(<li>.*<\/li>\n?)+/g, (match) => `<ul>${match}</ul>`);
   const paragraphs = html
