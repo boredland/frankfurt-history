@@ -109,7 +109,7 @@ export function createMapStyle(): StyleSpecification {
         type: "vector",
         url: `pmtiles://${PMTILES_URL}`,
         attribution:
-          '<a href="https://protomaps.com">Protomaps</a> &copy; <a href="https://openstreetmap.org">OpenStreetMap</a>',
+          'Content &copy; <a href="https://frankfurthistory.app">Frankfurt History</a> | Map &copy; <a href="https://protomaps.com">Protomaps</a> &copy; <a href="https://openstreetmap.org">OpenStreetMap</a>',
       },
     },
     layers: layersWithPartialCustomTheme(
