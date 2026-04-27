@@ -1,9 +1,33 @@
 interface Env {
   ASSETS: R2Bucket;
+  AUTH_PASSWORD?: string;
+}
+
+function checkAuth(request: Request, password: string): Response | null {
+  const auth = request.headers.get("Authorization");
+  if (auth) {
+    const [scheme, encoded] = auth.split(" ");
+    if (scheme === "Basic" && encoded) {
+      const decoded = atob(encoded);
+      const [, pwd] = decoded.split(":");
+      if (pwd === password) return null;
+    }
+  }
+  return new Response("Unauthorized", {
+    status: 401,
+    headers: {
+      "WWW-Authenticate": 'Basic realm="Frankfurt History"',
+    },
+  });
 }
 
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
+    if (env.AUTH_PASSWORD) {
+      const authResp = checkAuth(request, env.AUTH_PASSWORD);
+      if (authResp) return authResp;
+    }
+
     const url = new URL(request.url);
 
     if (url.pathname.startsWith("/r2/")) {
