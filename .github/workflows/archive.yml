@@ -20,6 +20,9 @@ jobs:
         run: uv run archive.py
 
       - name: Reverse geocode addresses
+        env:
+          GEOCODE_PROXY_URL: ${{ secrets.GEOCODE_PROXY_URL }}
+          GEOCODE_PROXY_TOKEN: ${{ secrets.GEOCODE_PROXY_TOKEN }}
         run: uv run scripts/geocode_addresses.py
 
       - name: Commit and push data changes

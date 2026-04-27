@@ -11,10 +11,13 @@ Uses Photon (https://photon.komoot.io) — no API key required.
 """
 
 import json
+import os
 import re
 import sys
 import time
 from pathlib import Path
+
+import urllib.parse
 
 import httpx
 
@@ -25,6 +28,8 @@ PHOTON_FORWARD = "https://photon.komoot.io/api"
 NOMINATIM_REVERSE = "https://nominatim.openstreetmap.org/reverse"
 NOMINATIM_SEARCH = "https://nominatim.openstreetmap.org/search"
 USER_AGENT = "FrankfurtHistoryApp/1.0 (https://history.jonas-strassel.de)"
+PROXY_URL = os.environ.get("GEOCODE_PROXY_URL", "")
+PROXY_TOKEN = os.environ.get("GEOCODE_PROXY_TOKEN", "")
 
 STREET_RE = re.compile(
     r"(?:straße|strasse|weg|platz|allee|gasse|ring|anlage|pfad|ufer|damm|chaussee)",
@@ -71,12 +76,24 @@ def format_addr(props: dict) -> str:
     return ""
 
 
-def photon_get(client: httpx.Client, url: str, params: dict) -> dict:
+def proxied_get(client: httpx.Client, url: str, params: dict, headers: dict | None = None) -> dict:
+    """Fetch JSON, routing through proxy if configured."""
+    # Build the full target URL
+    target = httpx.URL(url, params=params)
+
     for attempt in range(3):
-        r = client.get(url, params=params)
-        if r.status_code == 403:
+        if PROXY_URL and PROXY_TOKEN:
+            r = client.get(
+                PROXY_URL,
+                params={"url": str(target)},
+                headers={"Authorization": f"Bearer {PROXY_TOKEN}"},
+            )
+        else:
+            r = client.get(url, params=params, headers=headers or {})
+
+        if r.status_code in (403, 429):
             wait = 5 * (attempt + 1)
-            print(f"    Rate limited, waiting {wait}s...", flush=True)
+            print(f"    Rate limited ({r.status_code}), waiting {wait}s...", flush=True)
             time.sleep(wait)
             continue
         r.raise_for_status()
@@ -86,16 +103,13 @@ def photon_get(client: httpx.Client, url: str, params: dict) -> dict:
 
 def nominatim_reverse(client: httpx.Client, lat: float, lng: float) -> str:
     try:
-        r = client.get(
+        data = proxied_get(
+            client,
             NOMINATIM_REVERSE,
-            params={"lat": lat, "lon": lng, "format": "jsonv2", "addressdetails": 1, "zoom": 18},
+            {"lat": lat, "lon": lng, "format": "jsonv2", "addressdetails": 1, "zoom": 18},
             headers={"User-Agent": USER_AGENT},
         )
-        if r.status_code == 429:
-            time.sleep(5)
-            return ""
-        r.raise_for_status()
-        addr = r.json().get("address", {})
+        addr = data.get("address", {})
         road = addr.get("road", addr.get("pedestrian", ""))
         house = addr.get("house_number", "")
         if road and house:
@@ -108,7 +122,7 @@ def nominatim_reverse(client: httpx.Client, lat: float, lng: float) -> str:
 def reverse_geocode(client: httpx.Client, lat: float, lng: float, subtitle: str) -> str:
     try:
         # 1. Photon reverse
-        data = photon_get(client, PHOTON_REVERSE, {"lat": lat, "lon": lng})
+        data = proxied_get(client, PHOTON_REVERSE, {"lat": lat, "lon": lng})
         features = data.get("features", [])
         if features:
             addr = format_addr(features[0].get("properties", {}))
@@ -127,7 +141,7 @@ def reverse_geocode(client: httpx.Client, lat: float, lng: float, subtitle: str)
 
             # 3a. Photon forward
             time.sleep(1.5)
-            data2 = photon_get(
+            data2 = proxied_get(
                 client,
                 PHOTON_FORWARD,
                 {"q": query, "lat": lat, "lon": lng, "limit": 1},
@@ -141,19 +155,18 @@ def reverse_geocode(client: httpx.Client, lat: float, lng: float, subtitle: str)
             # 3b. Nominatim forward (fallback)
             time.sleep(1.5)
             try:
-                r = client.get(
+                results = proxied_get(
+                    client,
                     NOMINATIM_SEARCH,
-                    params={"q": query, "format": "jsonv2", "addressdetails": 1, "limit": 1},
+                    {"q": query, "format": "jsonv2", "addressdetails": 1, "limit": 1},
                     headers={"User-Agent": USER_AGENT},
                 )
-                if r.status_code == 200:
-                    results = r.json()
-                    if results:
-                        a = results[0].get("address", {})
-                        road = a.get("road", a.get("pedestrian", ""))
-                        house = a.get("house_number", "")
-                        if road and house:
-                            return f"{road} {house}"
+                if isinstance(results, list) and results:
+                    a = results[0].get("address", {})
+                    road = a.get("road", a.get("pedestrian", ""))
+                    house = a.get("house_number", "")
+                    if road and house:
+                        return f"{road} {house}"
             except Exception:
                 pass
 
@@ -185,7 +198,7 @@ def main():
 
     uncached = {k: v for k, v in unique_coords.items() if k not in cache}
 
-    BATCH_SIZE = 100
+    BATCH_SIZE = 500
 
     print(f"Unique coordinates: {len(unique_coords)}", flush=True)
     print(f"Already cached: {len(unique_coords) - len(uncached)}", flush=True)
@@ -207,7 +220,7 @@ def main():
             success += 1
         print(f"  {i + 1}/{len(batch)}: {addr or '(empty)'}", flush=True)
         save_cache(cache)
-        time.sleep(2)
+        time.sleep(0.5 if PROXY_URL else 2)
     client.close()
     save_cache(cache)
     remaining = len(uncached) - len(batch)
