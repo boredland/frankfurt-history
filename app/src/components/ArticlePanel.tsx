@@ -1,5 +1,5 @@
 import { useNavigate, useSearch } from "@tanstack/react-router";
-import { useCallback, useEffect, useState } from "react";
+import { useCallback, useEffect, useState, useSyncExternalStore } from "react";
 import { Drawer } from "vaul";
 import { t } from "~/lib/i18n";
 import { imageUrl } from "~/lib/imageUrl";
@@ -227,6 +227,19 @@ function SiblingsAtLocation({
   );
 }
 
+const SM_QUERY = "(max-width: 639px)";
+function useMobile() {
+  return useSyncExternalStore(
+    (cb) => {
+      const mql = window.matchMedia(SM_QUERY);
+      mql.addEventListener("change", cb);
+      return () => mql.removeEventListener("change", cb);
+    },
+    () => window.matchMedia(SM_QUERY).matches,
+    () => false,
+  );
+}
+
 const MOBILE_SNAP_POINTS = ["148px", 0.5, 0.94] as const;
 
 function GalleryThumbs({
@@ -383,6 +396,7 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
   const [loading, setLoading] = useState(true);
   const [activeSnap, setActiveSnap] = useState<number | string | null>(0.5);
   const [drawerOpen, setDrawerOpen] = useState(true);
+  const isMobile = useMobile();
 
   useEffect(() => {
     setLoading(true);
@@ -574,40 +588,40 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
   );
 
   return (
-    <>
-      {/* Desktop: side panel */}
-      <div className="print-article hidden sm:flex absolute right-0 top-0 bottom-0 w-[420px] bg-paper border-l border-sepia-light shadow-lg z-20 flex-col overflow-hidden animate-slide-in">
-        {content}
-      </div>
-
-      {/* Mobile: bottom sheet */}
-      <Drawer.Root
-        open={drawerOpen}
-        snapPoints={[...MOBILE_SNAP_POINTS]}
-        activeSnapPoint={activeSnap}
-        setActiveSnapPoint={setActiveSnap}
-        modal={false}
-        onOpenChange={(open) => {
-          if (!open) {
-            setDrawerOpen(false);
-            handleClose();
+    <Drawer.Root
+      open={isMobile ? drawerOpen : true}
+      direction={isMobile ? "bottom" : "right"}
+      snapPoints={isMobile ? [...MOBILE_SNAP_POINTS] : undefined}
+      activeSnapPoint={isMobile ? activeSnap : undefined}
+      setActiveSnapPoint={isMobile ? setActiveSnap : undefined}
+      dismissible={isMobile}
+      modal={false}
+      onOpenChange={(open) => {
+        if (!open) {
+          setDrawerOpen(false);
+          handleClose();
+        }
+      }}
+      noBodyStyles
+    >
+      <Drawer.Portal>
+        <Drawer.Content
+          className={
+            isMobile
+              ? "print-article fixed inset-x-0 bottom-0 z-20 bg-paper rounded-t-2xl shadow-[0_-4px_20px_rgba(0,0,0,0.15)] flex flex-col outline-none max-h-dvh"
+              : "print-article fixed right-0 top-0 bottom-0 w-[420px] bg-paper border-l border-sepia-light shadow-lg z-20 flex flex-col overflow-hidden outline-none"
           }
-        }}
-        noBodyStyles
-      >
-        <Drawer.Portal>
-          <Drawer.Content
-            className="sm:hidden fixed inset-x-0 bottom-0 z-20 bg-paper rounded-t-2xl shadow-[0_-4px_20px_rgba(0,0,0,0.15)] flex flex-col outline-none max-h-dvh"
-            aria-describedby={undefined}
-          >
-            <Drawer.Title className="sr-only">
-              {article?.title ?? "Article"}
-            </Drawer.Title>
+          aria-describedby={undefined}
+        >
+          <Drawer.Title className="sr-only">
+            {article?.title ?? "Article"}
+          </Drawer.Title>
+          {isMobile && (
             <Drawer.Handle className="shrink-0 [&>span]:!bg-sepia-light" />
-            {content}
-          </Drawer.Content>
-        </Drawer.Portal>
-      </Drawer.Root>
-    </>
+          )}
+          {content}
+        </Drawer.Content>
+      </Drawer.Portal>
+    </Drawer.Root>
   );
 }
