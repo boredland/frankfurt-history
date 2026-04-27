@@ -60,9 +60,8 @@ function parseLayersParam(param: string | undefined): Set<number> | null {
 
 function serializeLayers(
   active: Set<number>,
-  allIds: number[],
+  _allIds: number[],
 ): string | undefined {
-  if (active.size === allIds.length) return undefined;
   if (active.size === 0) return "none";
   return [...active].sort((a, b) => a - b).join(",");
 }
