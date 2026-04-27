@@ -135,7 +135,7 @@ def main():
         print("Cache is up to date", flush=True)
         return
 
-    eta_min = len(uncached) * 0.3 / 60
+    eta_min = len(uncached) * 1.0 / 60
     print(f"Estimated time: {eta_min:.0f} minutes", flush=True)
 
     client = httpx.Client(timeout=15)
@@ -145,7 +145,7 @@ def main():
         if (i + 1) % 25 == 0:
             print(f"  {i + 1}/{len(uncached)} geocoded", flush=True)
             save_cache(cache)
-        time.sleep(0.25)
+        time.sleep(0.75)
     client.close()
     save_cache(cache)
     print(f"Geocoded {len(uncached)} new coordinates", flush=True)
