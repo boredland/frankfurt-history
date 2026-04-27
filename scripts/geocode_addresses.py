@@ -68,11 +68,22 @@ def format_addr(props: dict) -> str:
     return ""
 
 
+def photon_get(client: httpx.Client, url: str, params: dict) -> dict:
+    for attempt in range(3):
+        r = client.get(url, params=params)
+        if r.status_code == 403:
+            wait = 5 * (attempt + 1)
+            print(f"    Rate limited, waiting {wait}s...", flush=True)
+            time.sleep(wait)
+            continue
+        r.raise_for_status()
+        return r.json()
+    return {}
+
+
 def reverse_geocode(client: httpx.Client, lat: float, lng: float, subtitle: str) -> str:
     try:
-        r = client.get(PHOTON_REVERSE, params={"lat": lat, "lon": lng})
-        r.raise_for_status()
-        data = r.json()
+        data = photon_get(client, PHOTON_REVERSE, {"lat": lat, "lon": lng})
         features = data.get("features", [])
         if features:
             addr = format_addr(features[0].get("properties", {}))
@@ -81,18 +92,17 @@ def reverse_geocode(client: httpx.Client, lat: float, lng: float, subtitle: str)
 
         # Fallback: forward geocode the subtitle if it looks like an address
         if subtitle and STREET_RE.search(subtitle):
-            time.sleep(0.15)
-            r2 = client.get(
+            time.sleep(1.5)
+            data2 = photon_get(
+                client,
                 PHOTON_FORWARD,
-                params={
+                {
                     "q": f"{subtitle}, Frankfurt am Main",
                     "lat": lat,
                     "lon": lng,
                     "limit": 1,
                 },
             )
-            r2.raise_for_status()
-            data2 = r2.json()
             features2 = data2.get("features", [])
             if features2:
                 addr2 = format_addr(features2[0].get("properties", {}))
@@ -135,7 +145,7 @@ def main():
         print("Cache is up to date", flush=True)
         return
 
-    eta_min = len(uncached) * 1.0 / 60
+    eta_min = len(uncached) * 1.5 / 60
     print(f"Estimated time: {eta_min:.0f} minutes", flush=True)
 
     client = httpx.Client(timeout=15)
@@ -145,7 +155,7 @@ def main():
         if (i + 1) % 25 == 0:
             print(f"  {i + 1}/{len(uncached)} geocoded", flush=True)
             save_cache(cache)
-        time.sleep(0.75)
+        time.sleep(1.5)
     client.close()
     save_cache(cache)
     print(f"Geocoded {len(uncached)} new coordinates", flush=True)
