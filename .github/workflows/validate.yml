@@ -1,0 +1,56 @@
+name: Validate Data
+
+on:
+  push:
+    branches: [main]
+    paths: [data/**, overrides/**, content/**]
+  pull_request:
+    paths: [data/**, overrides/**, content/**]
+
+jobs:
+  check-coordinates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Merge data + overrides
+        run: uv run scripts/merge.py
+
+      - name: Check POI coordinates
+        run: |
+          uv run python3 -c "
+          import re, sys
+          from pathlib import Path
+
+          BBOX = {'lat_min': 49.9, 'lat_max': 50.3, 'lng_min': 8.3, 'lng_max': 9.0}
+          content = Path('content')
+          errors = []
+
+          for md in sorted(content.rglob('*.md')):
+              if md.name.startswith('_'):
+                  continue
+              text = md.read_text()
+              if not text.startswith('---'):
+                  continue
+              end = text.index('---', 3)
+              fm = text[3:end]
+              m = re.search(r'coordinates:\s*\[([\d.]+),\s*([\d.]+)\]', fm)
+              if not m:
+                  continue
+              lat, lng = float(m.group(1)), float(m.group(2))
+              if lat == 0 and lng == 0:
+                  continue
+              if not (BBOX['lat_min'] < lat < BBOX['lat_max'] and BBOX['lng_min'] < lng < BBOX['lng_max']):
+                  rel = md.relative_to(content)
+                  errors.append(f'  {rel}: [{lat}, {lng}]')
+
+          if errors:
+              print(f'ERROR: {len(errors)} POIs outside Frankfurt bounding box:')
+              for e in errors:
+                  print(e)
+              sys.exit(1)
+          else:
+              print(f'All POI coordinates within bounding box.')
+          "
