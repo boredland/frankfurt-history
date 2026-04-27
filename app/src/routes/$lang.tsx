@@ -121,19 +121,30 @@ function LangLayout() {
     return () => document.removeEventListener("keydown", onKeyDown);
   }, []);
 
-  const [activeFilters, setActiveFilters] = useState<Set<string>>(new Set());
+  const activeFilters = useMemo(() => {
+    if (!search.filters) return new Set<string>();
+    return new Set(search.filters.split(",").filter(Boolean));
+  }, [search.filters]);
 
-  const handleToggleFilter = useCallback((filter: string) => {
-    setActiveFilters((prev) => {
-      const next = new Set(prev);
+  const handleToggleFilter = useCallback(
+    (filter: string) => {
+      const next = new Set(activeFilters);
       if (next.has(filter)) {
         next.delete(filter);
       } else {
         next.add(filter);
       }
-      return next;
-    });
-  }, []);
+      navigate({
+        to: ".",
+        search: (prev: object) => ({
+          ...prev,
+          filters: next.size > 0 ? [...next].join(",") : undefined,
+        }),
+        replace: true,
+      });
+    },
+    [activeFilters, navigate],
+  );
 
   const [allThemeIds, setAllThemeIds] = useState<number[]>([]);
   const layersFromUrl = useMemo(
