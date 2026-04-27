@@ -114,7 +114,7 @@ body,
   [aria-label="Share"],
   [aria-label="Print"],
   [aria-label="Close"],
-  [aria-label="Resize panel"],
+  [data-vaul-handle],
   .gallery-section {
     display: none !important;
   }

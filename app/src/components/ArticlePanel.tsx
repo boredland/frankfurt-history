@@ -1,5 +1,6 @@
 import { useNavigate, useSearch } from "@tanstack/react-router";
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
+import { Drawer } from "vaul";
 import { t } from "~/lib/i18n";
 import { imageUrl } from "~/lib/imageUrl";
 import { useNavigation } from "~/lib/NavigationContext";
@@ -226,7 +227,7 @@ function SiblingsAtLocation({
   );
 }
 
-type SheetSnap = "peek" | "half" | "full";
+const MOBILE_SNAP_POINTS = ["148px", 0.5, 0.94] as const;
 
 function GalleryThumbs({
   images,
@@ -380,14 +381,13 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
   const { setRouteGeometry, setActivePoiCoords } = useNavigation();
   const [article, setArticle] = useState<ArticleData | null>(null);
   const [loading, setLoading] = useState(true);
-  const [snap, setSnap] = useState<SheetSnap>("half");
-  const sheetRef = useRef<HTMLDivElement>(null);
-  const dragStartY = useRef(0);
-  const dragStartSnap = useRef<SheetSnap>("half");
+  const [activeSnap, setActiveSnap] = useState<number | string | null>(0.5);
+  const [drawerOpen, setDrawerOpen] = useState(true);
 
   useEffect(() => {
     setLoading(true);
-    setSnap("half");
+    setActiveSnap(0.5);
+    setDrawerOpen(true);
     fetchArticle(lang, theme, slug)
       .then((json) => {
         if (!json) {
@@ -451,60 +451,6 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
       search: (prev: Record<string, unknown>) => prev,
     });
   }, [navigate, lang, setRouteGeometry, setActivePoiCoords]);
-
-  const snapHeights: Record<SheetSnap, string> = {
-    peek: "120px",
-    half: "50vh",
-    full: "calc(100vh - 48px)",
-  };
-
-  const onDragStart = useCallback(
-    (clientY: number) => {
-      dragStartY.current = clientY;
-      dragStartSnap.current = snap;
-    },
-    [snap],
-  );
-
-  const onDragEnd = useCallback(
-    (clientY: number) => {
-      const delta = clientY - dragStartY.current;
-      const threshold = 60;
-      const snaps: SheetSnap[] = ["full", "half", "peek"];
-      const currentIdx = snaps.indexOf(dragStartSnap.current);
-
-      if (delta > threshold && currentIdx < snaps.length - 1) {
-        const next = snaps[currentIdx + 1];
-        if (next === "peek" && delta > 150) {
-          handleClose();
-        } else if (next) {
-          setSnap(next);
-        }
-      } else if (delta < -threshold && currentIdx > 0) {
-        const next = snaps[currentIdx - 1];
-        if (next) {
-          setSnap(next);
-        }
-      }
-    },
-    [handleClose],
-  );
-
-  const onTouchStart = useCallback(
-    (e: React.TouchEvent) => {
-      const touch = e.touches[0];
-      if (touch) onDragStart(touch.clientY);
-    },
-    [onDragStart],
-  );
-
-  const onTouchEnd = useCallback(
-    (e: React.TouchEvent) => {
-      const touch = e.changedTouches[0];
-      if (touch) onDragEnd(touch.clientY);
-    },
-    [onDragEnd],
-  );
 
   const toolbarButtons = article ? (
     <div className="flex items-center gap-1">
@@ -635,29 +581,33 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
       </div>
 
       {/* Mobile: bottom sheet */}
-      <div
-        ref={sheetRef}
-        className="sm:hidden fixed left-0 right-0 bottom-0 z-20 bg-paper rounded-t-2xl shadow-[0_-4px_20px_rgba(0,0,0,0.15)] flex flex-col overflow-hidden transition-[height] duration-200 ease-out"
-        style={{ height: snapHeights[snap] }}
+      <Drawer.Root
+        open={drawerOpen}
+        snapPoints={[...MOBILE_SNAP_POINTS]}
+        activeSnapPoint={activeSnap}
+        setActiveSnapPoint={setActiveSnap}
+        modal={false}
+        onOpenChange={(open) => {
+          if (!open) {
+            setDrawerOpen(false);
+            handleClose();
+          }
+        }}
+        noBodyStyles
       >
-        <div
-          role="slider"
-          tabIndex={0}
-          aria-label="Resize panel"
-          aria-valuenow={snap === "peek" ? 0 : snap === "half" ? 50 : 100}
-          aria-valuemin={0}
-          aria-valuemax={100}
-          aria-valuetext={snap}
-          className="flex justify-center py-2 cursor-grab active:cursor-grabbing shrink-0"
-          onTouchStart={onTouchStart}
-          onTouchEnd={onTouchEnd}
-          onMouseDown={(e) => onDragStart(e.clientY)}
-          onMouseUp={(e) => onDragEnd(e.clientY)}
-        >
-          <div className="w-10 h-1 rounded-full bg-sepia-light" />
-        </div>
-        {content}
-      </div>
+        <Drawer.Portal>
+          <Drawer.Content
+            className="sm:hidden fixed inset-x-0 bottom-0 z-20 bg-paper rounded-t-2xl shadow-[0_-4px_20px_rgba(0,0,0,0.15)] flex flex-col outline-none max-h-dvh"
+            aria-describedby={undefined}
+          >
+            <Drawer.Title className="sr-only">
+              {article?.title ?? "Article"}
+            </Drawer.Title>
+            <Drawer.Handle className="shrink-0 [&>span]:!bg-sepia-light" />
+            {content}
+          </Drawer.Content>
+        </Drawer.Portal>
+      </Drawer.Root>
     </>
   );
 }
