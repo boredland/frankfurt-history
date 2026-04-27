@@ -137,7 +137,16 @@ def build_theme(theme_dir: Path, addresses: dict[str, str] | None = None) -> tup
         }
         if thumb:
             feature["properties"]["thumb"] = thumb
-        if addresses:
+
+        # Address: prefer subtitle if it looks like a street address, else Nominatim
+        subtitle = fm.get("subtitle", "")
+        subtitle_is_addr = bool(re.search(
+            r"(?:straße|strasse|weg|platz|allee|gasse|ring|anlage|pfad|ufer|damm|chaussee)\s*\d",
+            subtitle, re.IGNORECASE,
+        ))
+        if subtitle_is_addr:
+            feature["properties"]["address"] = subtitle
+        elif addresses:
             addr_key = f"{lat:.6f},{lng:.6f}"
             addr = addresses.get(addr_key, "")
             if addr:
@@ -245,14 +254,40 @@ def main():
         if ra != rb:
             parent[ra] = rb
 
+    def addresses_match(addr_a: str, addr_b: str) -> bool:
+        """Match addresses including house number ranges (e.g. 31 matches 29-33)."""
+        if not addr_a or not addr_b:
+            return False
+        if addr_a == addr_b:
+            return True
+        # Extract street + numbers
+        m_a = re.match(r"^(.+?)\s+([\d]+(?:\s*[-–]\s*\d+)?[a-zA-Z]?)$", addr_a)
+        m_b = re.match(r"^(.+?)\s+([\d]+(?:\s*[-–]\s*\d+)?[a-zA-Z]?)$", addr_b)
+        if not m_a or not m_b:
+            return False
+        if m_a.group(1).strip().lower() != m_b.group(1).strip().lower():
+            return False
+        # Parse number/range for each
+        def parse_range(s):
+            s = re.sub(r"[a-zA-Z]$", "", s.strip())
+            parts = re.split(r"\s*[-–]\s*", s)
+            try:
+                nums = [int(p) for p in parts]
+                return (min(nums), max(nums))
+            except ValueError:
+                return None
+        r_a = parse_range(m_a.group(2))
+        r_b = parse_range(m_b.group(2))
+        if not r_a or not r_b:
+            return False
+        # Check if ranges overlap
+        return r_a[0] <= r_b[1] and r_b[0] <= r_a[1]
+
     for i, a in enumerate(all_features):
         for j, b in enumerate(all_features):
             if i >= j:
                 continue
-            # Only snap by address if it includes a house number (contains a digit)
-            a_has_number = a["address"] and any(c.isdigit() for c in a["address"])
-            b_has_number = b["address"] and any(c.isdigit() for c in b["address"])
-            address_match = a_has_number and b_has_number and a["address"] == b["address"]
+            address_match = addresses_match(a["address"], b["address"])
             coord_match = (
                 abs(a["lng"] - b["lng"]) < tolerance_lng and
                 abs(a["lat"] - b["lat"]) < tolerance_lat
