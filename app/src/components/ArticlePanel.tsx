@@ -8,6 +8,7 @@ import {
   type ImageRef,
   parseArticleBody,
 } from "~/lib/parseArticle";
+import { prefetchNearbyContent } from "~/lib/prefetch";
 import { SNAP_TOLERANCE, THEME_SLUGS } from "~/lib/themes";
 import { BeforeAfterSlider } from "./BeforeAfterSlider";
 import { Lightbox } from "./Lightbox";
@@ -419,6 +420,13 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
         }
         if (coordinates) {
           setActivePoiCoords(coordinates);
+          prefetchNearbyContent(
+            lang,
+            theme,
+            slug,
+            coordinates[0],
+            coordinates[1],
+          );
         }
         const parsed = parseArticleBody(json.body);
         setArticle({
