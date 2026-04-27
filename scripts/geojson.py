@@ -230,7 +230,21 @@ def main():
                 "slug": f["properties"]["slug"],
             })
 
-    stacked_slugs = set()
+    # Build adjacency: group POIs that share a location
+    from collections import defaultdict
+    parent = {f["slug"]: f["slug"] for f in all_features}
+
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    def union(a, b):
+        ra, rb = find(a), find(b)
+        if ra != rb:
+            parent[ra] = rb
+
     for i, a in enumerate(all_features):
         for j, b in enumerate(all_features):
             if i >= j:
@@ -241,18 +255,37 @@ def main():
                 abs(a["lat"] - b["lat"]) < tolerance_lat
             )
             if address_match or coord_match:
-                stacked_slugs.add(a["slug"])
-                stacked_slugs.add(b["slug"])
+                union(a["slug"], b["slug"])
+
+    # Group by root and pick one primary per group
+    groups = defaultdict(list)
+    for f in all_features:
+        root = find(f["slug"])
+        groups[root].append(f["slug"])
+
+    primary_slugs = set()
+    stacked_slugs = set()
+    for members in groups.values():
+        if len(members) < 2:
+            continue
+        for s in members:
+            stacked_slugs.add(s)
+        primary_slugs.add(members[0])
 
     stacked_count = 0
+    hidden_count = 0
     for name, data in geojson_files.items():
         for f in data["features"]:
-            if f["properties"]["slug"] in stacked_slugs:
+            slug = f["properties"]["slug"]
+            if slug in stacked_slugs:
                 f["properties"]["stacked"] = True
                 stacked_count += 1
+                if slug not in primary_slugs:
+                    f["properties"]["stackHidden"] = True
+                    hidden_count += 1
         (OUT_DIR / name).write_text(json.dumps(data, ensure_ascii=False) + "\n")
 
-    print(f"  {stacked_count} POIs marked as stacked")
+    print(f"  {stacked_count} POIs stacked, {hidden_count} hidden (1 marker per group)")
 
     # Copy markdown files to public/content/, rewriting image paths to R2 URLs
     image_path_re = re.compile(r"(\.\./)+images/")

@@ -465,7 +465,7 @@ function ThemeLayer({
           "circle-opacity": 1,
         }}
       />
-      {/* Stacked POI outer ring indicator */}
+      {/* Stacked POI outer ring indicator (primary only) */}
       <Layer
         id={`poi-stacked-${theme.slug}`}
         type="circle"
@@ -473,6 +473,7 @@ function ThemeLayer({
           "all",
           ["!", ["has", "point_count"]],
           ["==", ["get", "stacked"], true],
+          ["!=", ["get", "stackHidden"], true],
           ["!=", ["get", "slug"], activeSlug ?? ""],
         ]}
         paint={{
@@ -484,13 +485,14 @@ function ThemeLayer({
           "circle-stroke-opacity": 0.4,
         }}
       />
-      {/* Regular POIs */}
+      {/* Regular POIs (hide secondary stacked markers) */}
       <Layer
         id={`poi-${theme.slug}`}
         type="circle"
         filter={[
           "all",
           ["!", ["has", "point_count"]],
+          ["!=", ["get", "stackHidden"], true],
           ["!=", ["get", "slug"], activeSlug ?? ""],
         ]}
         paint={{
