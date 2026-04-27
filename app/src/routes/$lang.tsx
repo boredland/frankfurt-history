@@ -121,6 +121,20 @@ function LangLayout() {
     return () => document.removeEventListener("keydown", onKeyDown);
   }, []);
 
+  const [activeFilters, setActiveFilters] = useState<Set<string>>(new Set());
+
+  const handleToggleFilter = useCallback((filter: string) => {
+    setActiveFilters((prev) => {
+      const next = new Set(prev);
+      if (next.has(filter)) {
+        next.delete(filter);
+      } else {
+        next.add(filter);
+      }
+      return next;
+    });
+  }, []);
+
   const [allThemeIds, setAllThemeIds] = useState<number[]>([]);
   const layersFromUrl = useMemo(
     () => parseLayersParam(search.layers),
@@ -266,6 +280,8 @@ function LangLayout() {
               activeLayers={activeLayers}
               onToggleLayer={handleToggleLayer}
               onSetLayers={handleSetLayers}
+              activeFilters={activeFilters}
+              onToggleFilter={handleToggleFilter}
               activeSlug={activeSlug}
             />
           </Suspense>

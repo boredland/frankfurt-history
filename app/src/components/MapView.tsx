@@ -36,6 +36,8 @@ interface MapViewProps {
   activeLayers: Set<number>;
   onToggleLayer: (themeId: number) => void;
   onSetLayers: (ids: Set<number>) => void;
+  activeFilters: Set<string>;
+  onToggleFilter: (filter: string) => void;
   activeSlug?: string;
 }
 
@@ -53,6 +55,8 @@ export function MapView({
   activeLayers,
   onToggleLayer,
   onSetLayers,
+  activeFilters,
+  onToggleFilter,
   activeSlug,
 }: MapViewProps) {
   const navigate = useNavigate();
@@ -285,6 +289,7 @@ export function MapView({
           key={theme.slug}
           theme={theme}
           activeSlug={activeSlug}
+          activeFilters={activeFilters}
           onFeaturesLoaded={registerPois}
         />
       ))}
@@ -293,6 +298,8 @@ export function MapView({
         activeLayers={activeLayers}
         onToggle={onToggleLayer}
         onSetAll={onSetLayers}
+        activeFilters={activeFilters}
+        onToggleFilter={onToggleFilter}
         lang={lang}
       />
       {routeGeometry && (
@@ -400,26 +407,42 @@ export function MapView({
 function ThemeLayer({
   theme,
   activeSlug,
+  activeFilters,
   onFeaturesLoaded,
 }: {
   theme: Theme;
   activeSlug?: string;
+  activeFilters: Set<string>;
   onFeaturesLoaded: (features: GeoJSON.Feature[]) => void;
 }) {
-  const [geojson, setGeojson] = useState<GeoJSON.FeatureCollection | null>(
-    null,
-  );
+  const [allFeatures, setAllFeatures] =
+    useState<GeoJSON.FeatureCollection | null>(null);
   const color = themeColor(theme.slug);
 
   useEffect(() => {
     fetch(`/data/${theme.slug}.geojson`)
       .then((r) => r.json() as Promise<GeoJSON.FeatureCollection>)
       .then((data) => {
-        setGeojson(data);
+        setAllFeatures(data);
         onFeaturesLoaded(data.features);
       })
       .catch(console.error);
   }, [theme.slug, onFeaturesLoaded]);
+
+  const geojson = useMemo(() => {
+    if (!allFeatures) return null;
+    if (activeFilters.size === 0) return allFeatures;
+    return {
+      ...allFeatures,
+      features: allFeatures.features.filter((f) => {
+        const filters = (f.properties as Record<string, unknown>).filters as
+          | string[]
+          | undefined;
+        if (!filters || filters.length === 0) return true;
+        return filters.some((filt) => activeFilters.has(filt));
+      }),
+    };
+  }, [allFeatures, activeFilters]);
 
   if (!geojson) return null;
 
