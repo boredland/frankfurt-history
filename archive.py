@@ -377,17 +377,27 @@ short_title: {yaml_escape(theme.get('shortTitle', ''))}
         tours_resp = api_get(client, f"themes/{tid}/tours")
         raw_tours = tours_resp["data"]
         if raw_tours:
+            # Save raw JSON for full tour data (POI sequences, IDs, etc.)
+            (theme_dir / "_tours.json").write_text(
+                json.dumps(raw_tours, ensure_ascii=False, indent=2) + "\n"
+            )
+
             tours_lines = ["---", f"theme_id: {tid}", "---", "", "# Tours", ""]
             for tour in raw_tours:
+                t_id = tour.get("id", "")
                 t_title = (tour.get("title") or "").strip()
                 t_sub = (tour.get("subtitle") or "").strip()
                 t_desc = (tour.get("description") or "").strip()
                 t_dur = tour.get("duration")
+                poi_ids = [p.get("id") for p in tour.get("pois", [])]
                 tours_lines.append(f"## {t_title}")
+                tours_lines.append(f"ID: {t_id}")
                 if t_sub:
                     tours_lines.append(f"*{t_sub}*")
                 if t_dur:
-                    tours_lines.append(f"Duration: {t_dur} min")
+                    tours_lines.append(f"Duration: {t_dur}s")
+                if poi_ids:
+                    tours_lines.append(f"POIs: {', '.join(str(p) for p in poi_ids)}")
                 if t_desc:
                     tours_lines.append(f"\n{t_desc}")
                 tours_lines.append("")
