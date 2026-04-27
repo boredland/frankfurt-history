@@ -1,0 +1,879 @@
+[
+  {
+    "id": 21,
+    "title": "Sites of the Revolution",
+    "type": "classic",
+    "subtitle": "Frankfurt’s sites of the 1848-1849 Revolution",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 131,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.6821765,
+            50.1103835
+          ]
+        },
+        "title": "Intro",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 1,
+        "textContents": [
+          {
+            "pos": 2,
+            "template": "plain",
+            "body": "<p>This tour begins at the Römerberg, the square at the heart of Frankfurt. From the Foun­tain of Jus­tice (Jus­titiabrun­nen), you can look across to the Römer, Frankfurt’s his­to­ric town hall. If no muni­ci­pal events are taking place in the town hall, you can visit the building’s impressive Imperial Hall – the Kai­ser­saal.</p>\n<p>In 1848 to 1849, a wave of revo­lu­ti­ons swept the German sta­tes. When people think of Frankfurt at that time, they usually asso­ciate it with St Paul’s Church – the Pauls­kir­che – , the site of the Natio­nal Assembly, Germany’s first fre­ely elected par­liament. Yet alt­hough St Paul’s Church eclip­ses many other sites where the future of the Free City of Frankfurt was debated and dis­pu­ted in those revo­lu­tionary years, it is well worth discover­ing (or rediscover­ing) the other sites too!</p>\n<p>Take a tour of revo­lu­tionary Frankfurt in 1848 and explore the city’s role, as the loca­tion of the Natio­nal Assembly, in the suc­cessful outcome of these deba­tes.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Markus Häfner",
+              "copyright": "ISG",
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/eJymFYuCM70yuPU079ysT6Tty.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Erfahre mehr",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": true,
+            "initialPlayer": true,
+            "updatedAt": "2023-12-20 13:51:56"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 7,
+            "title": "Theatres",
+            "subtitle": "of the Revolution",
+            "colour": "orange",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "1fdccd1d519a8de3fa0a7abd038aeb15_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/03c0b704048987ce62b6bba92e641bb3_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/03c0b704048987ce62b6bba92e641bb3_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 5400,
+    "filters": [
+      {
+        "id": 7,
+        "title": "Theatres",
+        "subtitle": "of the Revolution",
+        "colour": "orange",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2026-03-12 14:53:51"
+  },
+  {
+    "id": 22,
+    "title": "Where the parliamentary groups met ",
+    "type": "classic",
+    "subtitle": "Frankfurt’s Sites of the 1848-1849 Revolution",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 164,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.682242873810395,
+            50.11036305527645
+          ]
+        },
+        "title": "Introduction",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 1,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p>Gree­tings, este­emed travel­ler! Per­mit me to briefly intro­duce mys­elf. My name is Ludwig Uhland, poet, literary scho­lar, and lawyer – and between 1848 and 1849 elected by the con­sti­tuency of Rot­tenburg am Neckar to sit in the Natio­nal Assembly. From 18 May 1848, a total of 809 delega­tes gathe­red in Frankfurt’s St Paul’s Church from all parts of the German Con­fede­ra­tion. While today you may well take political par­ties for granted, they were just in the pro­cess of evolving in Germany 175 years ago.</p>\n<p>At that time, people sharing simi­lar political views certainly coope­r­ated loo­sely. But par­ties with perma­nent members, fully formu­la­ted political pro­gram­mes and set statu­tes only first became establis­hed after 1848. In the Natio­nal Assembly, political kind­red spi­rits joi­ned together to form par­liamen­tary groups: democ­rats, libe­rals and con­serva­tives. Yet a large number of delega­tes did not belong to any of these groups. More­over, since the par­liamen­tary groups were cal­led after the Frankfurt hotels, salons, cafés and taverns where they met, their names said not­hing about their political ori­enta­tion.</p>\n<p>By early June 1848, the pro­cess of forming par­liamen­tary groups was lar­gely comple­ted and so these can be regarded as the precur­sors of political par­ties. In a new phase, the cri­sis of the Sep­tember uprising in 1848 saw spl­in­ter groups forming. Finally, in Febru­ary 1849, a coali­tion of par­liamen­tary groups above party lines attemp­ted to find agree­ment on a ‘grea­ter’ or ‘les­ser’ solu­tion to German natio­nal unity – essenti­ally, the ques­tion of whe­ther Aus­tria should be included in a German nation-state or not.</p>\n<p>I came to Frankfurt in May 1848 as an inde­pendent. So which party should I sup­port? Come with me on a political jour­ney of discovery to the hostelries and mee­ting points, pla­ces where the par­liamen­ta­rians not only enjoyed food and drink, but also hotly debated Germany’s political future.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Markus Häfner",
+              "copyright": "ISG",
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/DwExfXaIFXOTLvh1cqAh6BBse.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Erfahre mehr",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": true,
+            "initialPlayer": true,
+            "updatedAt": "2023-12-20 14:15:45"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 21625,
+            "pos": 2,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "00 Uhland ISG_S7P_03153 um 1850 verlegt von F. Brandseph.jpg",
+                "date": null,
+                "dateString": "um 1850",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 849,
+                    "height": 1387,
+                    "url": "https://api.frankfurthistory.app/storage/images/00%20Uhland%20_fd675edfe4c58b404d8f533bf303edcc_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 490,
+                    "height": 800,
+                    "url": "https://api.frankfurthistory.app/storage/images/00%20Uhland%20_fd675edfe4c58b404d8f533bf303edcc_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Ludwig Uhland, ISG_S7P_03153 um 1850 verlegt von F. Brandseph</p>",
+                  "accessibleDescription": "",
+                  "author": "verlegt von F. Brandseph",
+                  "copyright": "ISG",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2023-04-16 14:57:33"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 8,
+            "title": "Meeting points",
+            "subtitle": "of the political groups",
+            "colour": "purple",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "f5ce38588f15978db77b4a80b1d5965b_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1012,
+          "height": 569,
+          "url": "https://api.frankfurthistory.app/storage/images/1aea0c76f1bbf3f1ac1a6b36a037ea59_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/1aea0c76f1bbf3f1ac1a6b36a037ea59_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 5400,
+    "filters": [
+      {
+        "id": 8,
+        "title": "Meeting points",
+        "subtitle": "of the political groups",
+        "colour": "purple",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2026-03-11 10:37:39"
+  },
+  {
+    "id": 23,
+    "title": "Site of the September uprising 1848",
+    "type": "classic",
+    "subtitle": "Frankfurt’s Sites of the 1848-1849 Revolution",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 198,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.677911,
+            50.112355
+          ]
+        },
+        "title": "„Katzenmusik“ vor dem Englischen Hof",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 1,
+        "textContents": [
+          {
+            "pos": 4,
+            "template": "plain",
+            "body": "<p>After the Natio­nal Assembly narrowly voted to accept the Truce of Malmö on Saturday, 16 Sep­tember 1848, the first riots in Frankfurt began that same eve­ning. In front of the Eng­li­scher Hof Grand Hotel on Rossmarkt, an angry mob gave a cacophonous mock sere­nade, hooting and how­ling, lea­ding to violent scuffles and damage to pro­perty. Thinking Johann Gus­tav Heckscher, the Natio­nal Assembly’s for­eign minis­ter, was staying in the hotel, the mob threa­te­ned to kill him. The situa­tion only calmed down when the citizens’ militia cleared the square.</p>\n<p>The unrest was sparked by the Schles­wig-Hol­stein ques­tion. The duchies of Schles­wig and Hol­stein both belonged in per­so­nal union to the Danish kings. Hol­stein, though, was part of the German Con­fede­ra­tion while Schles­wig, whose popula­tion was both German and Danish, legally remai­ned a Danish fief. The move­ment for German natio­nal unifica­tion was calling for the duchy of Schles­wig to join the Con­fede­ra­tion. When Schles­wig-Hol­stein’s German majority declared its inde­pendence from Denmark with a self-appointed gover­nment in Kiel, the con­flict tur­ned into an open uprising against Denmark. In April 1848, the Con­fede­ra­tion asked Prussia to intervene and send tro­ops to sup­port the rebels.</p>\n<p>Under inter­na­tio­nal pressure, Prussia withdrew its tro­ops. On 26 August 1848, making considerable conces­si­ons, it signed the Truce of Malmö with Denmark – much to the displeasure of the Natio­nal Assembly’s Pro­vi­sio­nal Cen­tral Power in Frankfurt. The con­cluding negotia­ti­ons in St Paul’s Church on the Truce openly showed par­liament’s frus­t­ra­tion at not having the same military force at its dis­po­sal as Prussia. On 16 Sep­tember 1848, after an excep­tio­nally controver­sial debate, a narrow majority of delega­tes voted to accept the ceasefire – the spark that fuel­led the riots in Frankfurt.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Thomas Bauer",
+              "copyright": "ISG",
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p>The con­flict with Denmark over whe­ther the duchies of Schles­wig and Hol­stein belonged to Germany threw the Natio­nal Assembly into cri­sis. With a narrow majority of delega­tes voting to accept the Truce of Malmö, the par­liament was bowing to the will of Prussia, the old Great Power. On 18 Sep­tember 1848, the non-par­liamen­tary oppo­si­tion orga­nised in the workers’ and gym­nas­tic asso­cia­ti­ons, tried in vain to storm St Paul’s Church. Afterwards, the call ‘to the barricades!’ echoed through the city. The ensuing fierce street fight­ing in Frankfurt left over 50 dead and many wounded. As the gover­nment under the imperial con­sti­tu­tion, the par­liament cal­led on Prussia, Aus­tria and Hesse for assis­tance. After the deployment of a total of around 10,000 soldiers, the uprising was crus­hed. The city tur­ned into an army camp and the Natio­nal Assembly’s reac­tionary oppo­si­tion sen­sed that its chances were drama­tically improving.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Thomas Bauer",
+              "copyright": "ISG",
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 2,
+            "url": "https://api.frankfurthistory.app/storage/audio/2TVHcXQpghhTeFlOaIH5iqffp.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Erfahre mehr",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": true,
+            "initialPlayer": true,
+            "updatedAt": "2023-12-20 13:44:06"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 21624,
+            "pos": 1,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": {
+              "type": null,
+              "originalName": "Frankfurt_Englischer_Hof_1878.jpg",
+              "date": null,
+              "dateString": "1878 (or 1890)",
+              "weight": 1,
+              "urls": [
+                {
+                  "type": "original",
+                  "width": 2656,
+                  "height": 1656,
+                  "url": "https://api.frankfurthistory.app/storage/images/Frankfurt__09497e330b518f36f129372ba5500d56_original.jpg"
+                },
+                {
+                  "type": "medium",
+                  "width": 1600,
+                  "height": 998,
+                  "url": "https://api.frankfurthistory.app/storage/images/Frankfurt__09497e330b518f36f129372ba5500d56_medium.jpg"
+                },
+                {
+                  "type": "small",
+                  "width": 800,
+                  "height": 499,
+                  "url": "https://api.frankfurthistory.app/storage/images/Frankfurt__09497e330b518f36f129372ba5500d56_small.jpg"
+                }
+              ],
+              "metadata": {
+                "title": " ",
+                "description": "Photo: \"Englischer Hof\" (The English Court) at Roßmarkt,",
+                "accessibleDescription": "Photograph: Façade of the Englischer Hof Grand Hotel on Rossmarkt, 1878",
+                "author": "Karl Hertel",
+                "copyright": "gemeinfrei",
+                "ticketLink": null,
+                "contentType": "App\\Models\\Image",
+                "expires": null
+              },
+              "filters": [
+                {
+                  "id": 9,
+                  "title": "Scenes from",
+                  "subtitle": "the September Riots",
+                  "colour": "winered",
+                  "icon": null
+                }
+              ]
+            },
+            "filters": [
+              {
+                "id": 9,
+                "title": "Scenes from",
+                "subtitle": "the September Riots",
+                "colour": "winered",
+                "icon": null
+              }
+            ],
+            "categories": [],
+            "excludeFromRegister": false,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": " ",
+              "description": " ",
+              "accessibleDescription": "",
+              "author": "Karl Hertel",
+              "copyright": "gemeinfrei",
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "Frankfurt_Englischer_Hof_1878.jpg",
+                "date": null,
+                "dateString": "1878 (or 1890)",
+                "weight": 1,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 2656,
+                    "height": 1656,
+                    "url": "https://api.frankfurthistory.app/storage/images/Frankfurt__09497e330b518f36f129372ba5500d56_original.jpg"
+                  },
+                  {
+                    "type": "medium",
+                    "width": 1600,
+                    "height": 998,
+                    "url": "https://api.frankfurthistory.app/storage/images/Frankfurt__09497e330b518f36f129372ba5500d56_medium.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 499,
+                    "url": "https://api.frankfurthistory.app/storage/images/Frankfurt__09497e330b518f36f129372ba5500d56_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": " ",
+                  "description": "Photo: \"Englischer Hof\" (The English Court) at Roßmarkt,",
+                  "accessibleDescription": "Photograph: Façade of the Englischer Hof Grand Hotel on Rossmarkt, 1878",
+                  "author": "Karl Hertel",
+                  "copyright": "gemeinfrei",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [
+                  {
+                    "id": 9,
+                    "title": "Scenes from",
+                    "subtitle": "the September Riots",
+                    "colour": "winered",
+                    "icon": null
+                  }
+                ]
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2026-01-08 11:06:02"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 9,
+            "title": "Scenes from",
+            "subtitle": "the September Riots",
+            "colour": "winered",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "78b528111d43ee3180e8e6268092f34e_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 709,
+          "height": 399,
+          "url": "https://api.frankfurthistory.app/storage/images/53153bb7f43af825eaceaa90d2dd55ec_original.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 7200,
+    "filters": [
+      {
+        "id": 9,
+        "title": "Scenes from",
+        "subtitle": "the September Riots",
+        "colour": "winered",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2026-01-08 11:06:02"
+  },
+  {
+    "id": 26,
+    "title": "Schauplätze der Revolution (Einfache Sprache)",
+    "type": "classic",
+    "subtitle": "Routen der Revolution 1848/49",
+    "description": "Ein Rundgang in einfacher Sprache",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 271,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.6821765,
+            50.1103835
+          ]
+        },
+        "title": "Einleitung",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 1,
+        "textContents": [
+          {
+            "pos": 1,
+            "template": "plain",
+            "body": "<p>Die Jahre 1848 und 1849 sind eine wich­tige Zeit in der deut­schen Geschichte: es waren die Jahre der <strong>Deut­schen Revo­lu­tion</strong>. Viele Men­schen waren damals sehr unzu­frieden. Denn das Volk durfte bei poli­ti­schen Ent­scheidun­gen nicht mit­be­stimmen. Die ganze Macht war bei König, Fürs­ten und ande­ren Ade­ligen. Die ein­fa­chen Men­schen dage­gen hat­ten wenige Rechte und kaum Frei­hei­ten und viele von ihnen waren sehr arm.</p>\n<p>Man muss wis­sen: Zu dieser Zeit war Deutsch­land noch nicht <strong>ein</strong> Land mit <strong>einer</strong> Regierung, sondern eine Ansamm­lung von Staa­ten: kleine Fürs­ten­tü­mer, Herzog­tü­mer und größere König­rei­che wie Preußen und Bayern. Und alle mach­ten ihre eigene Poli­tik. Nur bei der Ver­teidigung und bei Angriffen auf Feinde halfen sie sich gegen­sei­tig. Dafür hat­ten sich diese Staa­ten als <strong>Deut­scher Bund</strong> zusammen­ge­schlos­sen.</p>\n<p>Der Deut­sche Bund hatte eine <strong>Bundes­ver­samm­lung</strong> gegründet: Hier ver­handel­ten Ver­tre­ter von Mit­glieds­staa­ten im Deut­schen Bund über alles, was ihnen wich­tig war. Die Bundes-ver­samm­lung traf sich regelmäßig in Frankfurt, genauer gesagt: im frü­he­ren Palais Thurn und Taxis in der Nähe der Hauptwa­che.</p>\n<p>Irgendwann aber hatte das Volk genug von den Regierun­gen in den einzel­nen Staa­ten und vom Deut­schen Bund: In vie­len Städ­ten trafen sich Men­schen zu Demons­t­ra­tio­nen und im Frühjahr 1848 brach die Revo­lu­tion aus. Die Auf­ständi­schen forder­ten mehr Frei­heit, außer­dem woll­ten sie ihre Regierung selbst wäh­len dürfen. Und: Sie wünsch­ten sich eine Regierung, die eine gute Poli­tik auch für ein­fa­che Men­schen macht – und nicht für den Adel und andere Rei­che.</p>\n<p>Die Pro­teste hat­ten Erfolg: Der Deut­sche Bund löste die Bundes­ver­samm­lung auf. Das Volk durfte das erste Mal ein eige­nes Par­lament wäh­len: Die­ses Par­lament war die <strong>Natio­nalver­samm­lung</strong>, die sich immer in der Pauls­kir­che traf.</p>\n<p>Kein Wunder, dass die meis­ten Leute heute an die Pauls­kir­che denken, wenn von der Revo­lu­tion in den Jah­ren 1848 und 1849 die Rede ist. Aber: In Frankfurt gibt es noch viel mehr Orte, die wäh­rend der Revo­lu­tion eine wich­tige Rolle spiel­ten. Dieser Rundgang führt Sie an diese Orte. Ent­de­cken Sie die Schau­plätze der Revo­lu­tion!</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Eva Keller",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 7,
+            "title": "Theatres",
+            "subtitle": "of the Revolution",
+            "colour": "orange",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "ae3da7867fb1320b0cedf0591f228251_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/fee9e1f0dc33923ad95a34741bd5d168_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/fee9e1f0dc33923ad95a34741bd5d168_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 5400,
+    "filters": [
+      {
+        "id": 7,
+        "title": "Theatres",
+        "subtitle": "of the Revolution",
+        "colour": "orange",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2026-03-12 14:53:51"
+  },
+  {
+    "id": 25,
+    "title": "Treffpunkte der Fraktionen (Einfache Sprache)",
+    "type": "classic",
+    "subtitle": "Routen der Revolution 1848/49",
+    "description": "Ein Rundgang in einfacher Sprache",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 238,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.682242873810395,
+            50.11036305527645
+          ]
+        },
+        "title": "Einleitung",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 1,
+        "textContents": [
+          {
+            "pos": 2,
+            "template": "plain",
+            "body": "<p><strong>Seien Sie gegrüßt, werte Reisende!</strong><br /> <br /> Mein Name ist <strong>Ludwig Uhland</strong>. Ich bin Dich­ter und Jurist – und ich war Abge­ordne­ter in der Natio­nalver­samm­lung. Dort habe ich den Wahlkreis Rot­tenburg am Neckar ver­tre­ten. Das ist ein kleiner Ort in der Nähe von Tübin­gen im heu­tigen Baden-Württemberg.</p>\n<p>Ich war einer von 809 Abge­ordne­ten, die aus allen Teilen des Deut­schen Bundes in die Pauls­kir­che kamen, um eine Ver­fassung zu schrei­ben. Das Besondere war: Keiner von uns gehörte einer Par­tei an, denn Par­teien gab es im Mai 1848 noch nicht. Erst nach der Revo­lu­tion ent­standen Par­teien, die ein poli­ti­sches Pro­gramm und Mit­glieder hat­ten.</p>\n<p>Aber natür­lich gab es bei so vie­len Men­schen ganz unterschiedli­che poli­ti­sche Ideen und Ziele! Zum Bei­spiel hat­ten die Frak­tio­nen unterschiedli­che Ansich­ten dazu, wer künf­tig die <strong>Macht</strong> im Land haben sollte: das Par­lament und eine gewählte Regierung – oder der König und der Adel?</p>\n<p>Umstrit­ten war auch, ob der König und die Einzel­staa­ten der <strong>Ver­fassung zustimmen</strong> durf­ten oder ob sie akzep­tie­ren muss­ten, was die Natio­nalver­samm­lung beschloss.</p>\n<p>Ein großer Streitpunkt war die Frage: Wel­che Gebiete soll­ten zum künf­tigen Deutsch­land gehören und wer sollte das neue Reich anfüh­ren? Viel­leicht Öster­reich? Öster­reich aber war damals ein Vielvölker­staat, der bis ans Mit­telmeer und nach Süd­ost­eu­ropa reichte. Es gehör­ten also auch Gebiete dazu, in denen nicht Deutsch gespro­chen wurde. Das passte nicht zu der Idee, dass das künf­tige Deutsch­land ein Natio­nal­staat wer­den sollte, zu dem nur die deutschspra­chigen Gebiete gehören. Man nannte das die <strong>großdeut­sche Lösung</strong>.</p>\n<p>Oder sollte Preußen das künf­tige Deutsch­land anfüh­ren und Öster­reich aus­ge­schlos­sen blei­ben? Das war die kleindeut­sche Lösung.</p>\n<p>Abge­ordnete, die ähnli­che Ideen und Ziele hat­ten, arbei­te­ten in Grup­pen zusammen. Man nannte diese Grup­pen: <strong>Frak­tio­nen</strong>. Zwi­schen Mai 1848 und Mai 1849 gab es 15 Frak­tio­nen in der Natio­nalver­samm­lung. So wie heute bei den Par­teien gab es Frak­tio­nen, die poli­tisch links oder rechts oder eher in der Mitte waren.</p>\n<p>Aber auch in den Frak­tio­nen waren nicht immer alle einer Mei­nung, es gab oft Diskus­sio­nen und Unstim­migkei­ten. Dann konnte es pas­sie­ren, dass ein Teil der Abge­ordne­ten die Frak­tion ver­ließ, eine neue Frak­tion gründete oder sich einer ande­ren Frak­tion anschloss. Glau­ben Sie mir: Es war nicht immer leicht, den Über­blick zu behal­ten, wel­che Frak­tion sich für wel­che Ideen und Ziele ein­setzte!</p>\n<p>Übrigens: Am Namen konnte man die poli­ti­sche Posi­tion einer Frak­tion nicht able­sen, anders als bei den Par­teien heute. Denn die Frak­tio­nen benann­ten sich nach den Orten, an denen sie sich trafen: in Gast­stät­ten, Cafés und Hotels. Dort aßen und tranken die Abge­ordne­ten nicht nur, sondern sie disku­tier­ten hier auch lei­denschaft­lich über die poli­ti­sche Zukunft des Landes.</p>\n<p>Als ich im Mai 1848 nach Frankfurt kam, habe ich lange über­legt: Wel­cher Frak­tion schließe ich mich an? Oder bleibe ich lieber frak­ti­ons­los? Das gab es nämlich auch: Eine große Gruppe von Abge­ordne­ten gehörte gar keiner Frak­tion an! Ich ent­schied damals, die Frak­tio­nen näher ken­nenzuler­nen und besuchte daher viele Sitzun­gen. Man­che Treffpunkte von damals gibt es noch. Von ande­ren kann ich Ihnen erzäh­len. Kommen Sie mit mir auf eine poli­ti­sche Ent­de­ckungsreise! Am Ende werde ich Ihnen auch ver­ra­ten, für wel­che Frak­tion ich mich damals ent­schieden habe…</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Eva Keller",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 21627,
+            "pos": 1,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "00 Uhland ISG_S7P_03153 um 1850 verlegt von F. Brandseph.jpg",
+                "date": null,
+                "dateString": "um 1850",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 849,
+                    "height": 1387,
+                    "url": "https://api.frankfurthistory.app/storage/images/00%20Uhland%20_4dd29e37ae7afc2093f84be37be58e15_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 490,
+                    "height": 800,
+                    "url": "https://api.frankfurthistory.app/storage/images/00%20Uhland%20_4dd29e37ae7afc2093f84be37be58e15_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Ludwig Uhland, ISG_S7P_03153 um 1850 verlegt von F. Brandseph</p>",
+                  "accessibleDescription": "",
+                  "author": "verlegt von F. Brandseph",
+                  "copyright": "ISG",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2023-06-28 11:26:01"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 8,
+            "title": "Meeting points",
+            "subtitle": "of the political groups",
+            "colour": "purple",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "f60a1c8ee8ef570e2ed8cb4de49349cc_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 995,
+          "height": 560,
+          "url": "https://api.frankfurthistory.app/storage/images/65cc6e443effa6d09cd0c1aaa981dd00_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/65cc6e443effa6d09cd0c1aaa981dd00_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 5400,
+    "filters": [
+      {
+        "id": 8,
+        "title": "Meeting points",
+        "subtitle": "of the political groups",
+        "colour": "purple",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2026-03-11 10:37:39"
+  },
+  {
+    "id": 27,
+    "title": "Drei Tage im September 1848 (Einfache Sprache)",
+    "type": "classic",
+    "subtitle": "Routen der Revolution 1848/49",
+    "description": "Ein Rundgang in einfacher Sprache",
+    "prologue": "",
+    "steps": [],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "20480b2c199bd225d1f8c0678fdba94c_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 709,
+          "height": 399,
+          "url": "https://api.frankfurthistory.app/storage/images/65eb17e5a848a1d98c85f064045e3c25_original.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 7200,
+    "filters": [
+      {
+        "id": 9,
+        "title": "Scenes from",
+        "subtitle": "the September Riots",
+        "colour": "winered",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2026-01-08 11:06:02"
+  }
+]

@@ -1,0 +1,656 @@
+[
+  {
+    "id": 67,
+    "title": "Schauplätze der Revolution",
+    "type": "classic",
+    "subtitle": "Die Revolution in den Jahren 1848 und 1849",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 616,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.6821765,
+            50.1103835
+          ]
+        },
+        "title": "Erklärung",
+        "type": "start",
+        "splitPosition": "full",
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 2,
+            "template": "plain",
+            "body": "<p><strong>Anhören und Anhal­ten</strong></p>\n<p>Kli­cke auf die­ses Symbol, um dir den Spaziergang anzuhören oder ihn anzuhal­ten.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 4,
+            "template": "plain",
+            "body": "<p><strong>Zeitleiste</strong></p>\n<p>Hier siehst du, wie lange gespro­chen wird.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 6,
+            "template": "plain",
+            "body": "<p><strong>Vor und Zurück</strong></p>\n<p>Mit die­sen Symbolen kannst du zum nächs­ten Ort wechseln.<br />Du kannst auch einen Ort zurück gehen.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 1,
+            "template": "plain",
+            "body": "<p>Hier findest du  Erklärun­gen für:</p>\n<p>- wie funk­tio­niert der Spaziergang?<br />- wie kann ich den Spaziergang anhören?</p>\n<p> </p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 23019,
+            "pos": 3,
+            "type": "gallery",
+            "isPortrait": true,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "play.png",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 847,
+                    "height": 214,
+                    "url": "https://api.frankfurthistory.app/storage/images/play_png_6aeb95e715942c7f2f1947b79bfdc357_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 202,
+                    "url": "https://api.frankfurthistory.app/storage/images/play_png_6aeb95e715942c7f2f1947b79bfdc357_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": null,
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-04-25 08:03:21"
+          },
+          {
+            "id": 23020,
+            "pos": 5,
+            "type": "gallery",
+            "isPortrait": true,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "bar.png",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 847,
+                    "height": 138,
+                    "url": "https://api.frankfurthistory.app/storage/images/bar_png_49f849bf459d89aa1236efc272b04861_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 130,
+                    "url": "https://api.frankfurthistory.app/storage/images/bar_png_49f849bf459d89aa1236efc272b04861_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": null,
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-04-25 08:03:18"
+          },
+          {
+            "id": 23021,
+            "pos": 7,
+            "type": "gallery",
+            "isPortrait": true,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "rew-ffw.png",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 847,
+                    "height": 188,
+                    "url": "https://api.frankfurthistory.app/storage/images/rew-ffw_pn_5f5e6d610d515e62790c62b9fbdeed5a_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 178,
+                    "url": "https://api.frankfurthistory.app/storage/images/rew-ffw_pn_5f5e6d610d515e62790c62b9fbdeed5a_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": null,
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-04-25 08:03:14"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 21,
+            "title": "Frankfurt",
+            "subtitle": "and the revolution",
+            "colour": "olive",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "0871b101f6cb0401b3afcfcb13ca07ea_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/adbd3ebc000551065b1b125bd479ad27_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/adbd3ebc000551065b1b125bd479ad27_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 5400,
+    "filters": [
+      {
+        "id": 21,
+        "title": "Frankfurt",
+        "subtitle": "and the revolution",
+        "colour": "olive",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2025-04-25 08:03:21"
+  },
+  {
+    "id": 71,
+    "title": "Nicht ohne uns über uns!",
+    "type": "classic",
+    "subtitle": "Erinnern an die NS-Morde am Gräberfeld Hauptfriedhof",
+    "description": "Die NS-Morde in den Jahren 1933 bis 1945",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 617,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.68486,
+            50.136026
+          ]
+        },
+        "title": "Erklärung",
+        "type": "start",
+        "splitPosition": "full",
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 6,
+            "template": "plain",
+            "body": "<p><strong>Vor und Zurück</strong></p>\n<p>Mit die­sen Symbolen kannst du zum nächs­ten Ort wechseln.<br />Du kannst auch einen Ort zurück gehen.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 4,
+            "template": "plain",
+            "body": "<p><strong>Zeitleiste</strong></p>\n<p>Hier siehst du, wie lange gespro­chen wird.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 2,
+            "template": "plain",
+            "body": "<p><strong>Anhören und Anhal­ten</strong></p>\n<p>Kli­cke auf die­ses Symbol, um dir den Spaziergang anzuhören oder ihn anzuhal­ten.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 1,
+            "template": "plain",
+            "body": "<p>Hier findest du  Erklärun­gen für:</p>\n<p>- wie funk­tio­niert der Spaziergang?<br />- wie kann ich den Spaziergang anhören?</p>\n<p> </p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 23022,
+            "pos": 7,
+            "type": "gallery",
+            "isPortrait": true,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "rew-ffw_pn_5f5e6d610d515e62790c62b9fbdeed5a_original.jpg",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 847,
+                    "height": 188,
+                    "url": "https://api.frankfurthistory.app/storage/images/rew-ffw_pn_375914a035d7792299f5f5d0b4a418af_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 178,
+                    "url": "https://api.frankfurthistory.app/storage/images/rew-ffw_pn_375914a035d7792299f5f5d0b4a418af_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": null,
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-11-27 18:26:18"
+          },
+          {
+            "id": 23023,
+            "pos": 5,
+            "type": "gallery",
+            "isPortrait": true,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "bar_png_49f849bf459d89aa1236efc272b04861_original.jpg",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 847,
+                    "height": 138,
+                    "url": "https://api.frankfurthistory.app/storage/images/bar_png_49_4f07b7d899ea138ff694d7c8affee19c_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 130,
+                    "url": "https://api.frankfurthistory.app/storage/images/bar_png_49_4f07b7d899ea138ff694d7c8affee19c_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": null,
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-11-27 18:06:07"
+          },
+          {
+            "id": 23024,
+            "pos": 3,
+            "type": "gallery",
+            "isPortrait": true,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "play_png_6_ff76025380ca148b66bb840a2dcabb71_original.jpg",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 847,
+                    "height": 214,
+                    "url": "https://api.frankfurthistory.app/storage/images/play_png_6_8c693b5ef48b96c2942730bc629a437c_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 202,
+                    "url": "https://api.frankfurthistory.app/storage/images/play_png_6_8c693b5ef48b96c2942730bc629a437c_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": null,
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-11-27 17:32:12"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 1,
+            "title": "Places with multiple",
+            "subtitle": "perspectives",
+            "colour": "colored",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "99dc7390a23c1464c6c3a62c8585d34d_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/9f8238de071f2d147b370c25bfe6f136_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/9f8238de071f2d147b370c25bfe6f136_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 25,
+        "title": "Frankfurt",
+        "subtitle": "and the NS",
+        "colour": "red",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 15,
+    "hasToken": false,
+    "updatedAt": "2025-11-27 18:27:13"
+  }
+]

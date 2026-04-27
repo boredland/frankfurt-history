@@ -1,0 +1,3262 @@
+[
+  {
+    "id": 68,
+    "title": "Rundgang über den Italienischen Ehrenfriedhof Frankfurt Westhausen",
+    "type": "classic",
+    "subtitle": "",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 536,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.6078548443428,
+            50.13780956108
+          ]
+        },
+        "title": "Friedhof Westhausen",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 4,
+            "template": "plain",
+            "body": "<p>Guten Tag, und herzlich will­kommen zu unse­rem Rundgang auf dem italie­ni­schen Ehren­friedhof in Frankfurt.</p>\n<p>Wir befinden uns am Ein­gang des Friedhofs Frankfurt-West­hau­sen. West­hau­sen ist ein Frankfur­ter Stadt­teil, der selbst vie­len Bürge­rin­nen und Bürgern dieser Stadt unbekannt ist. Das Vier­tel ent­stand zwi­schen 1929 und 1931 als ein spä­tes Sied­lungs­projekt des „Neuen Frankfurt“, das dar­auf abzielte, bezahlbare und zweckmäßige Woh­nun­gen zu schaffen. Der Friedhof wurde erst um 1950 ange­legt. Auf einem Teil­stück befindet sich der italie­ni­sche Ehren­friedhof, den wir jetzt vor­stel­len möch­ten.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/5g0GIPPA928nMLtmtPAlvo96T.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Einleitung",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-01-09 09:08:13"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 22950,
+            "pos": 3,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "1.1 - Cimitero militare Westhausen - Inaugurazione 1959 - dettaglio (1).jpg",
+                "date": null,
+                "dateString": "1959",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 571,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_1%20-%20Cimi_44a65af89b4ea0a1900e00a280e3df1f_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 286,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_1%20-%20Cimi_44a65af89b4ea0a1900e00a280e3df1f_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Einweihung des Italienischen Ehrenfriedhofs, Frankfurt 1959. Foto: unbekannt, Italienisches Verteidigungsministerium</p>",
+                  "accessibleDescription": "",
+                  "author": "Commissariato generale per le onoranze ai caduti in guerra",
+                  "copyright": "Italienisches Verteidigungsministerium",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "1.3 isg_ffm_s14frie_nr_1053_0001.jpg",
+                "date": null,
+                "dateString": "1958",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1044,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_3%20isg_ff_9f265915b446dbebf26cdeb545d52cb9_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 522,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_3%20isg_ff_9f265915b446dbebf26cdeb545d52cb9_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Italienisches Kriegsgräberfeld 2. WK nach der Fertigstellung, Farbdia 1958. Foto: Wilhelm Pfau, ISG FFM S14Frie, 700</p>",
+                  "accessibleDescription": "",
+                  "author": "Wilhelm Pfau",
+                  "copyright": "Institut für Stadtgeschichte (ISG) Frankfurt am Main",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "1.2 isg_ffm_s14frie_nr_700_0001 (1).jpg",
+                "date": null,
+                "dateString": "1958",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1039,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_2%20isg_ff_f864d24683d1377077829b04f4f48929_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 520,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_2%20isg_ff_f864d24683d1377077829b04f4f48929_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>\"Hochkreuz über der italienischen Kriegsgräberanlage\". Farbdia, aufgenommen nach der Fertigstellung des Friedhofs 1958. Foto: Wilhelm Pfau, ISG FFM S14Frie, 700</p>",
+                  "accessibleDescription": "",
+                  "author": "Wilhelm Pfau",
+                  "copyright": "Institut für Stadtgeschichte (ISG) Frankfurt am Main",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "1.4 isg_ffm_s14frie_nr_1050_0001.jpg",
+                "date": null,
+                "dateString": "1958",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1047,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_4%20isg_ff_8e24dfb214da8fe3632fa616b4d23373_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 524,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_4%20isg_ff_8e24dfb214da8fe3632fa616b4d23373_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Blick auf einige Gräberfelder, aufgenommen nach der Fertigstellung, Farbdia 1958. Foto: Albert Eckert, ISG FFM, S14Frie, 1050</p>",
+                  "accessibleDescription": "",
+                  "author": "Albert Eckert",
+                  "copyright": "Institut für Stadtgeschichte (ISG) Frankfurt am Main",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-01-20 10:14:24"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Orte des Erinnerns &",
+            "subtitle": "Auseinandersetzens",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "4dadc6ec96febd4c6cd62cd08a7c8bf3_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1015,
+          "height": 571,
+          "url": "https://api.frankfurthistory.app/storage/images/963c08b037e8bd39be11ee009f6d1b33_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/963c08b037e8bd39be11ee009f6d1b33_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 4500,
+    "filters": [
+      {
+        "id": 6,
+        "title": "Orte des Erinnerns &",
+        "subtitle": "Auseinandersetzens",
+        "colour": "blue",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2025-09-09 10:18:22"
+  },
+  {
+    "id": 69,
+    "title": "Tour del cimitero militare d'onore di Francoforte",
+    "type": "classic",
+    "subtitle": "Rundgang auf Italienisch",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 558,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.6078548443428,
+            50.13780956108
+          ]
+        },
+        "title": "Il cimitero di Westhausen",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p><strong>Il cimitero di West­hau­sen</strong></p>\n<p>Buongiorno e benve­n­uti in visita al cimitero milit­are ita­liano d’onore di Francoforte.</p>\n<p>Ci troviamo all’ingresso del cimitero di West­hau­sen. West­hau­sen è un quar­tiere di Francoforte che anche per gli stessi abitanti della città è poco cono­sciuto. Il quar­tiere, costruito tra il 1929 e il 1931, fu parte del pro­gramma di espan­sione urba­nis­tica chiamato “Nuova Francoforte”, pro­getto che pun­tava a realiz­zare su larga scala alloggi econo­mici, moderni e funzio­nali. Il cimitero è più recente. È ent­rato in funzione solo a par­tire dal giu­gno 1950. Una parte ospita anche il cimitero milit­are ita­liano d’onore che è l’oggetto della nos­tra visita.</p>\n<p> </p>\n<p> </p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/JLFk0TeBA4OwQf5aZTQK3ua4v.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Introduzione",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-01-17 08:03:14"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 22962,
+            "pos": 2,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "1.1 - Cimitero militare Westhausen - Inaugurazione 1959 - dettaglio (1).jpg",
+                "date": null,
+                "dateString": "1959",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 571,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_1%20-%20Cimi_44a65af89b4ea0a1900e00a280e3df1f_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 286,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_1%20-%20Cimi_44a65af89b4ea0a1900e00a280e3df1f_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Inaugurazione del Cimitero militare d'onore, Francoforte 1959. Foto: ignoto, Ufficio per la tutela della cultura e della memoria della difesa</p>",
+                  "accessibleDescription": "",
+                  "author": "Commissariato generale per le onoranze ai caduti in guerra",
+                  "copyright": "Ministero della Difesa, Ufficio per la tutela della cultura e della memoria della difesa",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "1.2 isg_ffm_s14frie_nr_700_0001 (1).jpg",
+                "date": null,
+                "dateString": "1958",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1039,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_2%20isg_ff_f864d24683d1377077829b04f4f48929_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 520,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_2%20isg_ff_f864d24683d1377077829b04f4f48929_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Veduta della croce e altare nel cimitero militare italiano, diapositiva 1958. Foto: Wilhelm Pfau, ISG FFM S14Frie, 700</p>",
+                  "accessibleDescription": "",
+                  "author": "Wilhelm Pfau",
+                  "copyright": "Institut für Stadtgeschichte (ISG) Frankfurt am Main",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "1.3 isg_ffm_s14frie_nr_1053_0001.jpg",
+                "date": null,
+                "dateString": "1958",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1044,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_3%20isg_ff_9f265915b446dbebf26cdeb545d52cb9_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 522,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_3%20isg_ff_9f265915b446dbebf26cdeb545d52cb9_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Veduta del cimitero militare italiano dopo il completamento, diapositiva 1958. Foto: Wilhelm Pfau, ISG FFM, S14Frie, 1053</p>",
+                  "accessibleDescription": "",
+                  "author": "Wilhelm Pfau",
+                  "copyright": "Institut für Stadtgeschichte (ISG) Frankfurt am Main",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "1.4 isg_ffm_s14frie_nr_1050_0001.jpg",
+                "date": null,
+                "dateString": "1958",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1047,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_4%20isg_ff_8e24dfb214da8fe3632fa616b4d23373_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 524,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_4%20isg_ff_8e24dfb214da8fe3632fa616b4d23373_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Particolare di alcune tombe poco dopo il completamento, diapositiva 1958. Foto: Albert Eckert, ISG FFM, S14Frie, 1050</p>",
+                  "accessibleDescription": "",
+                  "author": "Albert Eckert",
+                  "copyright": "Institut für Stadtgeschichte (ISG) Frankfurt am Main",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-01-17 07:39:43"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Orte des Erinnerns &",
+            "subtitle": "Auseinandersetzens",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "4dadc6ec96febd4c6cd62cd08a7c8bf3_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1015,
+          "height": 571,
+          "url": "https://api.frankfurthistory.app/storage/images/963c08b037e8bd39be11ee009f6d1b33_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/963c08b037e8bd39be11ee009f6d1b33_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 4500,
+    "filters": [
+      {
+        "id": 6,
+        "title": "Orte des Erinnerns &",
+        "subtitle": "Auseinandersetzens",
+        "colour": "blue",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2025-01-27 08:49:34"
+  },
+  {
+    "id": 70,
+    "title": "Spuren aus der Vergangenheit",
+    "type": "classic",
+    "subtitle": "Ein Stadtrundgang zu den Novemberpogromen 1938",
+    "description": "Ein Projekt der Messe Frankfurt und Studentinnen der Frankfurt University of Applied Science",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 580,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.65071,
+            50.112332
+          ]
+        },
+        "title": "Station 1: Festhalle Frankfurt",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 4,
+            "template": "plain",
+            "body": "<p>Die Festhalle in Frankfurt am Main ist ein zen­tra­ler Ver­anstal­tungs­ort mit über 100 Jah­ren Geschichte. Sie wurde 1909 ein­geweiht und war Schau­platz zahlrei­cher kulturel­ler, sport­li­cher und poli­ti­scher Ereig­nisse. Wäh­rend der November­pogrome 1938 diente sie als Sammel­stelle für männli­che Juden, die spä­ter depor­tiert wur­den. Im Zwei­ten Welt­krieg wurde die Festhalle stark beschädigt, jedoch nach Kriegsende wieder auf­gebaut. Heute ist sie ein Ort für inter­na­tio­nale Kon­zerte, Mes­sen und Sportver­anstal­tun­gen. Die Festhalle steht für kulturelle Vielfalt, his­tori­sche Refle­xion und Fortschritt in Frankfurt.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Aliah Habl Corona",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p>Wir, vier Studierende der Frankfurt Uni­ver­sity of App­lied Sci­ences haben gemein­sam mit der Messe Frankfurt einen besonde­ren Stadt­rundgang ent­wi­ckelt. Dieser beginnt an der Festhalle Frankfurt und führt bis zur ehema­ligen Haupt­syn­agoge nahe der Kon­stablerwa­che. </p>\n<p>Unser Ziel ist es, Einzelschicksale von Ver­folg­ten der November­pogrome 1938 sichtbar zu machen und einen Bei­trag zur Auf­klärung und Auf­arbei­tung dieser Zeit zu leis­ten. <br /><br /></p>\n<p>Mit­hilfe der Naviga­tion oder der Karte kön­nen Besu­cher*innen die Sta­tio­nen selbst­ständig erkunden und Geschichte haut­nah erle­ben. Es gibt auch die Mög­lichkeit den Rundgang nach Belie­ben zu pau­sie­ren und an einem ande­ren Zeitpunkt am glei­chen Ort fort­zu­set­zen. Einzelne Stre­cken kön­nen natür­lich auch mit öffent­li­chen Ver­kehrs­mit­teln über­wunden und Sta­tio­nen über­sprun­gen oder aus­schließlich digi­tal besucht wer­den. </p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 2,
+            "url": "https://api.frankfurthistory.app/storage/audio/MS2f64jSuNtKdkLtyRwY46qaX.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Über die Festhalle Frankfurt",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [
+              {
+                "id": 6,
+                "title": "Orte des Erinnerns &",
+                "subtitle": "Auseinandersetzens",
+                "colour": "blue",
+                "icon": null
+              }
+            ],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-01-10 12:04:29"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 22974,
+            "pos": 1,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": {
+              "type": null,
+              "originalName": "Festhalle.jpg",
+              "date": null,
+              "dateString": "2024",
+              "weight": 1,
+              "urls": [
+                {
+                  "type": "original",
+                  "width": 800,
+                  "height": 534,
+                  "url": "https://api.frankfurthistory.app/storage/images/Festhalle__96771b6fbfef6cc066417688b48404b3_original.jpg"
+                }
+              ],
+              "metadata": {
+                "title": "",
+                "description": "Die Frankfurter Festhalle, ein historisches Bauwerk auf dem Messegelände. Sie war während der Novemberpogrome 1938 Sammelstelle für über 3.000 männliche jüdische Bürger aus Frankfurt und der Region genutzt wurde.",
+                "accessibleDescription": "Farbfotografie: Außenansicht der Frankfurter Festhalle.",
+                "author": "Aliah Habl Corona",
+                "copyright": "gemeinfrei",
+                "ticketLink": null,
+                "contentType": "App\\Models\\Image",
+                "expires": null
+              },
+              "filters": [
+                {
+                  "id": 6,
+                  "title": "Orte des Erinnerns &",
+                  "subtitle": "Auseinandersetzens",
+                  "colour": "blue",
+                  "icon": null
+                }
+              ]
+            },
+            "filters": [
+              {
+                "id": 6,
+                "title": "Orte des Erinnerns &",
+                "subtitle": "Auseinandersetzens",
+                "colour": "blue",
+                "icon": null
+              }
+            ],
+            "categories": [],
+            "excludeFromRegister": false,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "Festhalle.jpg",
+                "date": null,
+                "dateString": "2024",
+                "weight": 1,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 800,
+                    "height": 534,
+                    "url": "https://api.frankfurthistory.app/storage/images/Festhalle__96771b6fbfef6cc066417688b48404b3_original.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "Die Frankfurter Festhalle, ein historisches Bauwerk auf dem Messegelände. Sie war während der Novemberpogrome 1938 Sammelstelle für über 3.000 männliche jüdische Bürger aus Frankfurt und der Region genutzt wurde.",
+                  "accessibleDescription": "Farbfotografie: Außenansicht der Frankfurter Festhalle.",
+                  "author": "Aliah Habl Corona",
+                  "copyright": "gemeinfrei",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [
+                  {
+                    "id": 6,
+                    "title": "Orte des Erinnerns &",
+                    "subtitle": "Auseinandersetzens",
+                    "colour": "blue",
+                    "icon": null
+                  }
+                ]
+              },
+              {
+                "type": null,
+                "originalName": "Vorraum_Festhalle.jpg",
+                "date": null,
+                "dateString": "1935",
+                "weight": 1,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1767,
+                    "height": 1274,
+                    "url": "https://api.frankfurthistory.app/storage/images/Vorraum_Fe_778df69aec038d876628825ce718c2d0_original.jpg"
+                  },
+                  {
+                    "type": "medium",
+                    "width": 1600,
+                    "height": 1154,
+                    "url": "https://api.frankfurthistory.app/storage/images/Vorraum_Fe_778df69aec038d876628825ce718c2d0_medium.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 577,
+                    "url": "https://api.frankfurthistory.app/storage/images/Vorraum_Fe_778df69aec038d876628825ce718c2d0_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "Innenansicht einer NS-Veranstaltung in einem Vorraum der Frankfurter Festhalle, dekoriert mit nationalsozialistischen Symbolen und Propaganda, ausgerichtet auf die Rhein-Mainische Wirtschaft, 1935.",
+                  "accessibleDescription": "Schwarz-Weiß-Fotografie: Vorraum einer NS-Veranstaltung in der Frankfurter Festhalle mit Hakenkreuz-Symbolen, Propaganda-Zitaten und einem Porträt, dekoriert für die Rhein-Mainische Wirtschaft, 1935.",
+                  "author": "Unbekannt",
+                  "copyright": "<span class=\"tab2\">gemeinfrei</span>",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [
+                  {
+                    "id": 6,
+                    "title": "Orte des Erinnerns &",
+                    "subtitle": "Auseinandersetzens",
+                    "colour": "blue",
+                    "icon": null
+                  }
+                ]
+              },
+              {
+                "type": null,
+                "originalName": "Innenraum_Festhalle.jpg",
+                "date": null,
+                "dateString": "2008",
+                "weight": 1,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1382,
+                    "height": 973,
+                    "url": "https://api.frankfurthistory.app/storage/images/Innenraum__45d8e5a08666a3dcc67b62c2f40bdd95_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 563,
+                    "url": "https://api.frankfurthistory.app/storage/images/Innenraum__45d8e5a08666a3dcc67b62c2f40bdd95_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "Das Innere der Frankfurter Festhalle während eines Konzerts, beeindruckt durch die markante Kuppelkonstruktion und das festliche Ambiente.",
+                  "accessibleDescription": "Farbfotografie: Das Innere der Frankfurter Festhalle bei einem Konzert, beleuchtet mit einem vollen Publikum und der markanten Kuppelstruktur.",
+                  "author": "Unbekannt",
+                  "copyright": "gemeinfrei",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [
+                  {
+                    "id": 6,
+                    "title": "Orte des Erinnerns &",
+                    "subtitle": "Auseinandersetzens",
+                    "colour": "blue",
+                    "icon": null
+                  }
+                ]
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-03-11 10:00:03"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Orte des Erinnerns &",
+            "subtitle": "Auseinandersetzens",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "2ae4feb1ee94e562c683ecbb81034632_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/be9d7851f4b04f1efdfd2da600bdbb15_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/be9d7851f4b04f1efdfd2da600bdbb15_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 7200,
+    "filters": [
+      {
+        "id": 6,
+        "title": "Orte des Erinnerns &",
+        "subtitle": "Auseinandersetzens",
+        "colour": "blue",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 15,
+    "hasToken": false,
+    "updatedAt": "2026-04-14 14:16:13"
+  },
+  {
+    "id": 2,
+    "title": "Frankfurt und der Nationalsozialismus",
+    "type": "classic",
+    "subtitle": "Überblickstour vom Historischen Museum zum Börneplatz",
+    "description": "Überblickstour vom Historischen Museum zum Börneplatz",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 5,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.682471,
+            50.109563
+          ]
+        },
+        "title": "Willkommen!",
+        "type": "start",
+        "splitPosition": "none",
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": null,
+            "body": "<p><strong>Herzlich Will­kommen zur Tour „Frankfurt und der Natio­nal­so­zialismus“</strong></p>\n<p>Der Rundgang wird ca. 60 Min­u­ten dau­ern. Sie kön­nen sich von Ort zu Ort navigie­ren. An jeder Sta­tion finden Sie außer­dem Ansich­ten in der Bildergale­rie. Der Rundgang führt Sie durch die Alt­stadt bis zum Bör­ne­platz, zu acht ver­schiede­nen Orten, an denen Sie erfah­ren, wie die Frankfur­ter*innen das natio­nal­so­zialis­ti­sche Welt­bild annah­men und wel­che Folgen das für diejenigen hatte, die nicht in das NS-Welt­bild pass­ten.</p>\n<p>Sie wer­den über die Rolle der Stadt­ver­wal­tung im Natio­nal­so­zialismus informiert und ler­nen auch die Per­spek­tiven von Ver­folg­ten und Wider­ständigen ken­nen. Ein wei­te­res Thema wird die Geschichte der Auf­arbei­tung von NS-Unrecht sein und die Frage, wie wir uns heute damit aus­ein­ander­set­zen kön­nen.</p>\n<p>&nbsp;</p>\n<p>Auch das His­tori­sche Museum Frankfurt befasst sich kri­tisch mit der eige­nen Geschichte, denn es hat auch wäh­rend des Natio­nal­so­zialismus von der Ver­folgung von Jüdin­nen und Juden pro­fi­tiert. Es hat seine Samm­lung um Stü­cke berei­chert, die sich zuvor in Frankfur­ter Syn­agogen oder dem Museum für Jüdi­sche Alter­tü­mer befanden. <br> Die Objekte wur­den unter dem Vor­wand der „Ret­tung vor Zer­störung“ in die Muse­ums­samm­lung auf­genommen.</p>\n<p>Heute forscht in vie­len Museen die „Pro­ve­ni­en­zfor­schung“ dazu, die Geschichte der Samm­lungs­objekte zu erkunden und zu ermit­teln, ob sich unrechtmäßig erworbene Gegen­stände darin befinden. Das His­tori­sche Museum hat die meis­ten Objekte aus der räuberi­schen „Ret­tungs­ak­tion“ bereits Ende der 1940er Jahre an die Orga­ni­sa­tion „Jewish Cultu­ral Recon­struc­tion“ resti­tu­iert - aber nicht voll­ständig. Denn als das Museum 2010 mit der sys­tema­ti­schen Pro­ve­ni­en­zfor­schung begann, tauchte wei­te­res Raubgut auf, das 2018 an das Jüdi­sche Museum und die Jüdi­sche Gemeinde über­ge­ben wurde.</p>\n<p>&nbsp;</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 2,
+            "url": "https://api.frankfurthistory.app/storage/audio/XqbialEm7NI56eehYjUxfVi2T.mp3",
+            "thumbnail": {
+              "type": null,
+              "originalName": "KaMue Museum.JPG",
+              "date": null,
+              "dateString": "",
+              "weight": null,
+              "urls": [
+                {
+                  "type": "original",
+                  "width": 1434,
+                  "height": 1007,
+                  "url": "https://api.frankfurthistory.app/storage/images/b1b2b15e3e2a9cc30f668262a3e1af22_original.jpg"
+                },
+                {
+                  "type": "small",
+                  "width": 800,
+                  "height": 562,
+                  "url": "https://api.frankfurthistory.app/storage/images/b1b2b15e3e2a9cc30f668262a3e1af22_small.jpg"
+                }
+              ],
+              "metadata": null,
+              "filters": []
+            },
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "HMF, ST",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2022-11-07 12:27:00"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 5819,
+            "pos": 1,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": {
+              "type": null,
+              "originalName": "KaMue Museum.JPG",
+              "date": null,
+              "dateString": "",
+              "weight": null,
+              "urls": [
+                {
+                  "type": "original",
+                  "width": 1434,
+                  "height": 1007,
+                  "url": "https://api.frankfurthistory.app/storage/images/b1b2b15e3e2a9cc30f668262a3e1af22_original.jpg"
+                },
+                {
+                  "type": "small",
+                  "width": 800,
+                  "height": 562,
+                  "url": "https://api.frankfurthistory.app/storage/images/b1b2b15e3e2a9cc30f668262a3e1af22_small.jpg"
+                }
+              ],
+              "metadata": null,
+              "filters": []
+            },
+            "filters": [
+              {
+                "id": 6,
+                "title": "Orte des Erinnerns &",
+                "subtitle": "Auseinandersetzens",
+                "colour": "blue",
+                "icon": null
+              }
+            ],
+            "categories": [],
+            "excludeFromRegister": false,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Historical Museum Frankfurt",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Katharina Müller",
+              "copyright": "© Katharina Müller, VG Bild-Kunst, Bonn 2022",
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "KaMue Museum.JPG",
+                "date": null,
+                "dateString": "",
+                "weight": 1,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1434,
+                    "height": 1007,
+                    "url": "https://api.frankfurthistory.app/storage/images/KaMue%20Muse_b1b2b15e3e2a9cc30f668262a3e1af22_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 562,
+                    "url": "https://api.frankfurthistory.app/storage/images/KaMue%20Muse_b1b2b15e3e2a9cc30f668262a3e1af22_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": "© Katharina Müller, VG Bild-Kunst, Bonn 2022",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [
+                  {
+                    "id": 6,
+                    "title": "Orte des Erinnerns &",
+                    "subtitle": "Auseinandersetzens",
+                    "colour": "blue",
+                    "icon": null
+                  }
+                ]
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2022-11-08 10:27:12"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 1,
+            "title": "Orte mit mehreren",
+            "subtitle": "Perspektiven",
+            "colour": "colored",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [],
+    "thumbnail": {
+      "type": null,
+      "originalName": "C28545_001.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 3543,
+          "height": 2693,
+          "url": "https://api.frankfurthistory.app/storage/images/18d9b450910b3541125b196922151de3_original.jpg"
+        },
+        {
+          "type": "large",
+          "width": 3200,
+          "height": 2432,
+          "url": "https://api.frankfurthistory.app/storage/images/18d9b450910b3541125b196922151de3_large.jpg"
+        },
+        {
+          "type": "medium",
+          "width": 1600,
+          "height": 1216,
+          "url": "https://api.frankfurthistory.app/storage/images/18d9b450910b3541125b196922151de3_medium.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 608,
+          "url": "https://api.frankfurthistory.app/storage/images/18d9b450910b3541125b196922151de3_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Orte mit mehreren",
+        "subtitle": "Perspektiven",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2025-11-28 18:45:20"
+  },
+  {
+    "id": 5,
+    "title": "Nicht ohne uns über uns!",
+    "type": "classic",
+    "subtitle": "Erinnern an die NS-Euthanasie am Gräberfeld Hauptfriedhof",
+    "description": "Erinnern an die NS-Euthanasie am Gräberfeld Hauptfriedhof",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 28,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.68486,
+            50.136026
+          ]
+        },
+        "title": "Einleitung Portal Hauptfriedhof",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": null,
+            "body": "<p>Das ist der Hauptfriedhof Frankfurt.<br> Wir befinden uns am Haupt­ein­gang.<br> Auf diesem Friedhof gibt es eine Gedenk­stätte.<br> Die Gedenk­stätte erinnert an die Opfer des Natio­nal­so­zialismus.<br> Besonders an Men­schen mit Behinde­rung.<br> Wir zeigen ihnen den Weg zur Gedenk­stätte.<br> Dort bekommen sie mehr Informa­tio­nen von uns.</p>\n<p>Bevor wir zur Gedenk­stätte gehen, erklären wir was die NS-“Eutha­na­sie”-Morde sind.<br> Die Nazis haben viele Men­schen umgebracht.<br> Auch Men­schen mit Behinde­rung wur­den von den Nazis getö­tet.<br> Auch Men­schen mit psy­chi­scher Erkrankung wur­den von den Nazis getö­tet.</p>\n<p>Die Morde an die­sen Men­schen haben einen schwe­ren Namen.<br> Heute nennt man sie NS-”Eutha­na­sie”-Ver­bre­chen.<br> Jeder und jede soll wis­sen:<br> Es waren Morde.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Selbstvertreterrat Lebenshilfe Frankfurt am Main e. V.",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 2,
+            "url": "https://api.frankfurthistory.app/storage/audio/0Eu64dSn1zMOByxoTP3n6DDHV.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Einleitung Portal Hauptfriedhof",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Selbstvertreterrat Lebenshilfe Frankfurt am Main e.V.",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [
+              {
+                "id": 1,
+                "title": "Orte mit mehreren",
+                "subtitle": "Perspektiven",
+                "colour": "colored",
+                "icon": null
+              }
+            ],
+            "excludeFromRegister": true,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2022-11-02 13:20:51"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 21628,
+            "pos": 1,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "Portal_Hauptfriedhof.jpg",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1200,
+                    "url": "https://api.frankfurthistory.app/storage/images/Portal_Hau_86399e56882f3512bd63903b24d95f56_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 600,
+                    "url": "https://api.frankfurthistory.app/storage/images/Portal_Hau_86399e56882f3512bd63903b24d95f56_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Portal Hauptfriedhof</p>",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": "Lebenshilfe Frankfurt am Main e.V.",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2023-08-03 06:42:53"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Orte des Erinnerns &",
+            "subtitle": "Auseinandersetzens",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [],
+    "thumbnail": {
+      "type": null,
+      "originalName": "Thema 1_Gr+ñberfeld.JPG",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 4032,
+          "height": 3024,
+          "url": "https://api.frankfurthistory.app/storage/images/3a1918c033df619ccf3d1c37629e2239_original.jpg"
+        },
+        {
+          "type": "large",
+          "width": 3200,
+          "height": 2400,
+          "url": "https://api.frankfurthistory.app/storage/images/3a1918c033df619ccf3d1c37629e2239_large.jpg"
+        },
+        {
+          "type": "medium",
+          "width": 1600,
+          "height": 1200,
+          "url": "https://api.frankfurthistory.app/storage/images/3a1918c033df619ccf3d1c37629e2239_medium.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 600,
+          "url": "https://api.frankfurthistory.app/storage/images/3a1918c033df619ccf3d1c37629e2239_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Orte mit mehreren",
+        "subtitle": "Perspektiven",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 15,
+    "hasToken": false,
+    "updatedAt": "2023-08-03 06:49:22"
+  },
+  {
+    "id": 6,
+    "title": "Spurensuche mit dem Stift",
+    "type": "classic",
+    "subtitle": "Ein Zeichen-Rundgang mit Künstlerin Katharina Müller",
+    "description": "Ein Zeichen-Rundgang mit Künstlerin Katharina Müller",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 64,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.676791184023884,
+            50.102257861764755
+          ]
+        },
+        "title": "Willkommen",
+        "type": "start",
+        "splitPosition": "none",
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 2,
+            "template": null,
+            "body": "<p>Herzlich Will­kommen zur&nbsp;zeich­neri­schen Spuren­su­che.<br>Mach dich mit mir auf den Weg zu zwei Orten des Erinnerns. Ich möchte diese gemein­sam mit dir auf eine neue Art&nbsp;­wahr­neh­men, durch das Zeich­nen.<br>Pack Stifte und Papier ein, dann kann es losge­hen.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Katharina Müller",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [
+          {
+            "pos": 1,
+            "url": "https://www.youtube.com/watch?v=O3yUvnnpngU",
+            "vimeoId": "",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Eine Zeichnung entsteht",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\VideoContent",
+              "expires": null
+            },
+            "filters": [
+              {
+                "id": 6,
+                "title": "Orte des Erinnerns &",
+                "subtitle": "Auseinandersetzens",
+                "colour": "blue",
+                "icon": null
+              }
+            ],
+            "excludeFromRegister": false,
+            "updatedAt": "2022-11-10 08:22:19"
+          }
+        ],
+        "galleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Orte des Erinnerns &",
+            "subtitle": "Auseinandersetzens",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.676791184023884,
+            50.102257861764755
+          ]
+        },
+        "title": "Einleitung Dreidel",
+        "type": "start",
+        "splitPosition": "none",
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 2,
+            "template": null,
+            "body": "<p>Wow, ganz schön laut hier. Ich stehe an der Ampel an der Schil­ler­schule, die Straßen­bahn bimmelt, Autos hupen, eine Kranken­wa­gensirene rauscht vor­bei…</p>\n<p>Auf der ande­ren Straßen­seite an der Kreuzung Hans-Thoma-Straße Ecke Gar­ten­straße befindet sich der noch rela­tiv neue, 2017 ein­geweihte „Platz der ver­ge­s­se­nen Kinder“.</p>\n<p>Zwi­schen zwei Bäumen steht die Bron­ze­skulp­tur von Filippa Petter­son „der Drei­del“. Er erinnert an ein jüdi­sches Kinder­heim und an die Kinder, die wäh­rend des Natio­nal­so­zialismus hier leben muss­ten. Und auch an die Men­schen, die sich um sie gekümmert haben. Das und alle Informa­tio­nen erfahre ich über eine Info­tafel. Noch wei­tere Hin­ter­gründe kön­nen dort über QR-Codes abge­ru­fen wer­den.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Katharina Müller",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/QnknXi2Wb0gkc3G6qgBTEVb7y.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Einleitung Dreidel",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2022-11-08 09:01:30"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Orte des Erinnerns &",
+            "subtitle": "Auseinandersetzens",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "5148087fb580e10ff2b0d253a90cfc4c_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/c1321ac5bc212d2600637ec7334f2474_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/c1321ac5bc212d2600637ec7334f2474_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Orte mit mehreren",
+        "subtitle": "Perspektiven",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2022-11-15 07:50:21"
+  },
+  {
+    "id": 20,
+    "title": "Was hat der Nationalsozialismus mit mir zu tun?",
+    "type": "classic",
+    "subtitle": "Ein Rundgang für Jugendliche und Familien",
+    "description": "Ein Rundgang für Jugendliche und Familien",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 119,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.682527549681174,
+            50.10961769489321
+          ]
+        },
+        "title": "Einleitung",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 1,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p>Wie konnte es zum Natio­nal­so­zialismus und den Ver­bre­chen kommen, die wäh­rend dieser Zeit began­gen wur­den? Diese Frage beschäf­tigt heute viele Men­schen. Dazu gehören zum Bei­spiel Geschichtsfor­scher*innen, aber auch Men­schen, die sich generell für Geschichte inter­es­sie­ren. Viel­leicht, weil in ihrer Fami­lie Men­schen waren, die in der Zeit gelebt haben oder sogar ver­folgt wur­den. Besonders viele Men­schen beschäf­tigen sich mit der NS-Zeit, weil sie nicht möch­ten, dass sol­che Ver­bre­chen wieder gesche­hen oder weil sie Unge­rech­tigkeit nicht hin­neh­men möch­ten und gegen Benach­tei­ligung kämp­fen. Daher finden viele Frankfur­ter*innen es auch sehr wich­tig, sich mit der Geschichte der eige­nen Stadt aus­ein­anderzu­set­zen.</p>\n<p>Das wol­len wir gemein­sam tun: Wir möch­ten jetzt gerne an drei Orten in der Frankfur­ter Alt­stadt einen Über­blick geben, was der Natio­nal­so­zialismus für Frankfurt bedeu­tet hat.</p>\n<p>Such dir gerne einen Erwachse­nen, den du kennst und dem du ver­traust, dann könnt ihr euch gemein­sam auf Spuren­su­che bege­ben und euch aus­tauschen. Gerne kannst du noch Freund*innen und Mit­schüler*innen ein­laden, mit zu kommen.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 2,
+            "url": "https://api.frankfurthistory.app/storage/audio/gExkzC2IOnv5CdDwUR1P3k9PQ.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Einleitung",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2023-04-17 08:26:16"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 20434,
+            "pos": 1,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "KaMue Museum.JPG",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1434,
+                    "height": 1007,
+                    "url": "https://api.frankfurthistory.app/storage/images/KaMue%20Muse_7aafe9198b7ae98393c100c48fcf0154_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 562,
+                    "url": "https://api.frankfurthistory.app/storage/images/KaMue%20Muse_7aafe9198b7ae98393c100c48fcf0154_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": "© Katharina Müller, VG Bild-Kunst, Bonn 2022",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2023-04-13 11:10:23"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 1,
+            "title": "Orte mit mehreren",
+            "subtitle": "Perspektiven",
+            "colour": "colored",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "7ec70cc1b75c32241d28fa8cb696d6e8_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1434,
+          "height": 807,
+          "url": "https://api.frankfurthistory.app/storage/images/ae334ba567c4817f97f039afb0a9fe69_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/ae334ba567c4817f97f039afb0a9fe69_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 1500,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Orte mit mehreren",
+        "subtitle": "Perspektiven",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2025-01-22 12:35:43"
+  },
+  {
+    "id": 66,
+    "title": "Reise in die Vergangenheit: Jüdisches Leben im Westend vor 100 Jahren",
+    "type": "classic",
+    "subtitle": "Ein Projekt der Evangelisch reformierten Gemeinde",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 503,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.668118,
+            50.118273
+          ]
+        },
+        "title": "Einführung",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 2,
+            "template": "plain",
+            "body": "<p>Herzlich will­kommen zu unse­rem Rundgang durch eine besondere Zeit jüdi­schen Lebens hier im Wes­tend. An ver­schiede­nen Sta­tio­nen wirst du sehen, wie jüdi­sches Leben frü­her hier aus­sah. Vieles davon ist bei Vie­len in Ver­ge­s­sen­heit gera­ten. Dar­un­ter auch die Syn­agoge, die hier damals in der Unter­lindau 23 stand. Die Kon­fis der evangelisch-reformier­ten Gemeinde haben sich lange mit einer Rekon­struk­tion der Syn­agoge beschäf­tigt. Mit ihr wol­len wir nun den Rundgang star­ten.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 22892,
+            "pos": 1,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "Collage.png",
+                "date": null,
+                "dateString": "2024",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1280,
+                    "url": "https://api.frankfurthistory.app/storage/images/Collage_pn_a78f282fd97c8487afed0d5fc6225cf9_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 640,
+                    "url": "https://api.frankfurthistory.app/storage/images/Collage_pn_a78f282fd97c8487afed0d5fc6225cf9_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Bildcollage des Synagogenprojekts</p>",
+                  "accessibleDescription": "",
+                  "author": "Angelina Fiehl",
+                  "copyright": "Evangelisch-reformierte Gemeinde",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2024-11-06 11:31:52"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Orte des Erinnerns &",
+            "subtitle": "Auseinandersetzens",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "5e57b140eda479f888c00201588e9487_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1147,
+          "height": 645,
+          "url": "https://api.frankfurthistory.app/storage/images/92071e5f9d43b7f95d27f6eed2d6015e_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/92071e5f9d43b7f95d27f6eed2d6015e_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 6,
+        "title": "Orte des Erinnerns &",
+        "subtitle": "Auseinandersetzens",
+        "colour": "blue",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2026-04-09 15:17:56"
+  },
+  {
+    "id": 72,
+    "title": "„Kriegsgräber“ – die Gräber der Opfer von Krieg und Gewaltherrschaft",
+    "type": "classic",
+    "subtitle": "Rundgang auf dem Hauptfriedhof",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 625,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.684753,
+            50.13598
+          ]
+        },
+        "title": "„Kriegsgräber“ auf dem Hauptfriedhof",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p><strong>„Kriegsgräber“ auf dem Hauptfriedhof</strong></p>\n<p>Guten Tag und herzlich will­kommen zum Rundgang auf dem Frankfur­ter Hauptfriedhof. Mit über 60.000 Gräbern ist der Hauptfriedhof der größte Friedhof in Frankfurt. Er ist 70 Hektar groß und wurde 1828 eröffnet.<br /><br />Im öst­li­chen Teil des Hauptfriedhofs befinden sich weit­läufige Gräberfel­der mit ein­heit­lich gestal­te­ten Grabkennzei­chen. Hier, in den „Kriegsgräbern“, sind annä­hernd 6.700 Men­schen bestat­tet: Män­ner, Frauen und Kinder aus Deutsch­land und ande­ren Län­dern, die ihr Leben durch die Welt­kriege des 20. Jahrhunderts oder als Opfer der natio­nal­so­zialis­ti­schen Gewaltherrschaft ver­lo­ren haben.<br /><br />Wir, der Landes­ver­band Hes­sen im Volks­bund Deut­sche Kriegsgräberfür­sorge, haben die Geschichte dieser Gräberfel­der erforscht. Dabei sind wir den exem­plari­schen Schicksalen von 32 Men­schen nach­gegan­gen, die hier begr­a­ben sind. Wir laden Sie ein, auf unse­rem Rundgang die Gräber einiger dieser Toten zu besu­chen und unsere For­schungs­er­geb­nisse ken­nen zu ler­nen.<br /><br />Der Rundgang dau­ert insge­samt etwa 90 Min­u­ten. Die Wegweiser in der App sol­len Ihnen dabei hel­fen, selbst­ständig von einer Sta­tion zur nächs­ten zu gelan­gen. Sie kön­nen den Rundgang jederzeit unter­bre­chen und spä­ter an der­sel­ben oder einer ande­ren Sta­tion fort­set­zen.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 2,
+            "url": "https://api.frankfurthistory.app/storage/audio/XRJPQffNMgpeKHamfsSNNnoRQ.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Start",
+              "description": " ",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-11-01 18:21:16"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 23332,
+            "pos": 1,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "B-2.JPG",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 899,
+                    "url": "https://api.frankfurthistory.app/storage/images/B-2_JPG_0f5c08aed45ca7dbf854e43e1bbcaaa4_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 450,
+                    "url": "https://api.frankfurthistory.app/storage/images/B-2_JPG_0f5c08aed45ca7dbf854e43e1bbcaaa4_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Kriegsgräber auf dem Frankfurter Hauptfriedhof</p>",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": "Volksbund Hessen",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-11-01 18:21:40"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Orte des Erinnerns &",
+            "subtitle": "Auseinandersetzens",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "0600f00c38ca1cb445be37b861d7129b_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/f1f90e5e462bbe9e5feec2596a71187b_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/f1f90e5e462bbe9e5feec2596a71187b_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 5400,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Orte mit mehreren",
+        "subtitle": "Perspektiven",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 20,
+    "hasToken": false,
+    "updatedAt": "2026-03-24 15:42:23"
+  },
+  {
+    "id": 74,
+    "title": "Frankfurt und der Nationalsozialismus",
+    "type": "classic",
+    "subtitle": "Spaziergang in Leichter Sprache",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 748,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.68246,
+            50.109608
+          ]
+        },
+        "title": "Erklärung",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 1,
+            "template": "plain",
+            "body": "<p>Hier findest du  Erklärun­gen für:</p>\n<p>- wie funk­tio­niert der Spaziergang?<br />- wie kann ich den Spaziergang anhören?</p>\n<p> </p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 2,
+            "template": "plain",
+            "body": "<p><strong>Anhören und Anhal­ten</strong></p>\n<p>Kli­cke auf die­ses Symbol, um dir den Spaziergang anzuhören oder ihn anzuhal­ten.</p>\n<p> </p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 4,
+            "template": "plain",
+            "body": "<p> </p>\n<p><strong>Zeitleiste</strong></p>\n<p>Hier siehst du, wie lange gespro­chen wird.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 6,
+            "template": "plain",
+            "body": "<p><strong>Vor und Zurück</strong></p>\n<p>Mit die­sen Symbolen kannst du zum nächs­ten Ort wechseln.<br />Du kannst auch einen Ort zurück gehen.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 8,
+            "template": "plain",
+            "body": "<p> </p>\n<p><strong>Mein Stand­ort</strong></p>\n<p>Kli­cke auf die­ses Symbol, um dei­nen eige­nen Stand­ort auf der Karte zu sehen. </p>\n<p>Dafür muss das GPS auf deinem Gerät an sein.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 23538,
+            "pos": 3,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "without_Screenshot_20251127_192546_Frankfurt History beta.jpg",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 385,
+                    "url": "https://api.frankfurthistory.app/storage/images/without_Sc_9c48a551d2cfb85c84824b9986d96587_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 193,
+                    "url": "https://api.frankfurthistory.app/storage/images/without_Sc_9c48a551d2cfb85c84824b9986d96587_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": null,
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-11-27 18:36:00"
+          },
+          {
+            "id": 23539,
+            "pos": 5,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "Screenshot 2025-11-27 195226.jpg",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 675,
+                    "height": 491,
+                    "url": "https://api.frankfurthistory.app/storage/images/Screenshot_ab3f50c6e46b78b3d11c54c0a8edb558_original.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": null,
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-11-27 18:58:05"
+          },
+          {
+            "id": 23540,
+            "pos": 7,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "without_Screenshot_20251127_192849_Frankfurt History beta.jpg",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 343,
+                    "url": "https://api.frankfurthistory.app/storage/images/without_Sc_070500616c2bbfbc49dfb646ef38e249_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 172,
+                    "url": "https://api.frankfurthistory.app/storage/images/without_Sc_070500616c2bbfbc49dfb646ef38e249_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": null,
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-11-27 18:36:27"
+          },
+          {
+            "id": 23541,
+            "pos": 9,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "Playfinal.jpg",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1068,
+                    "height": 342,
+                    "url": "https://api.frankfurthistory.app/storage/images/Playfinal__f57b11d1d410bb93c1a996773a4ad168_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 256,
+                    "url": "https://api.frankfurthistory.app/storage/images/Playfinal__f57b11d1d410bb93c1a996773a4ad168_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": null,
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-11-27 18:36:43"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 1,
+            "title": "Orte mit mehreren",
+            "subtitle": "Perspektiven",
+            "colour": "colored",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "902dc0ca9e35f4d01e03abdcfd7ea61f_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 608,
+          "height": 342,
+          "url": "https://api.frankfurthistory.app/storage/images/c45bb115957e7fddc6a8be01727a6fd2_original.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 7200,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Orte mit mehreren",
+        "subtitle": "Perspektiven",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2026-04-07 11:28:02"
+  },
+  {
+    "id": 76,
+    "title": "DP-Lager Zeilsheim",
+    "type": "classic",
+    "subtitle": "Das Displaced Persons Lager für Überlebende der Schoah",
+    "description": "Rundgang durch den Frankfurter Stadtteil Zeilsheim",
+    "prologue": " ",
+    "steps": [
+      {
+        "id": 726,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.5002,
+            50.09784
+          ]
+        },
+        "title": "Willkommen!",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 2,
+            "template": "plain",
+            "body": "<p><strong>Will­kommen!</strong></p>\n<p>Guten Tag und herzlich will­kommen zum digi­talen Stadt­rundgang zur Geschichte des DP-Lagers Zeils­heim. Der Rundgang beginnt am Saalbau Zeils­heim an der Kreuzung von Bech­ten­wald­straße und Hahnberg­weg.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/Rz5CLw6n6twsyEjVhb8wgMBgI.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Start",
+              "description": " ",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-11-09 17:59:02"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 1,
+            "title": "Orte mit mehreren",
+            "subtitle": "Perspektiven",
+            "colour": "colored",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "f8fb40adc58cd9c23499648ccfa13fc5_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1024,
+          "height": 1024,
+          "url": "https://api.frankfurthistory.app/storage/images/79e00c475649b80be00948816fee2825_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 800,
+          "url": "https://api.frankfurthistory.app/storage/images/79e00c475649b80be00948816fee2825_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Orte mit mehreren",
+        "subtitle": "Perspektiven",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2025-12-17 16:32:17"
+  },
+  {
+    "id": 77,
+    "title": "Aus dem Ring tanzen",
+    "type": "classic",
+    "subtitle": "Ein Rundgang am Ring der Statuen",
+    "description": "Schönheitsideale im NS und Heute",
+    "prologue": " ",
+    "steps": [
+      {
+        "id": 727,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.670327174245436,
+            50.11787560967761
+          ]
+        },
+        "title": "Einführung",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 1,
+            "template": "plain",
+            "body": "<p>Will­kommen zum Rundgang <strong>„Aus dem Ring tanzen“</strong> an der Skulp­turen­gruppe Ring der Sta­tuen im Rothschild­park.</p>\n<p>Dieser inter­ak­tive Audio­walk lädt euch dazu ein, die Spuren der NS-Zeit im öffent­li­chen Raum zu ent­de­cken und kri­tisch zu hin­terfra­gen, wie Schön­heits­ideale, Macht­bil­der und gesellschaft­li­che Normen bis heute fort­wirken.</p>\n<p>Im Mit­tel­punkt steht die Figuren­gruppe „Ring der Sta­tuen“ von Bildhauer Georg Kolbe, deren Ent­ste­hung in die Zeit des Natio­nal­so­zialismus fällt. Anhand dieser Skulp­turen eröffnet der Rundgang neue Per­spek­tiven auf Geschichte, Körper­bil­der und Erinnerungskultur. Durch Klang, Bewegung und Refle­xi­ons­aufga­ben wer­den Fra­gen nach Schön­heit, Iden­ti­tät und Ver­antwor­tung lebendig und persönlich erfahrbar.</p>\n<p>Der Startpunkt die­ses Walks ist der neu­go­ti­sche Turm im Rothschild­park. Stellt euch so vor den Turm, dass hin­ter ihm das Hoch­haus mit dem roten UBS-Logo zu sehen ist.</p>\n<p>Setzt eure Kopf­hö­rer auf, wählt eine Per­son, die von drei run­ter­zählt, damit ihr gleichzei­tig wei­ter zur nächs­ten Sta­tion klickt – und es geht direkt los: <strong>Drei, zwei, eins … los!</strong> </p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Orte des Erinnerns &",
+            "subtitle": "Auseinandersetzens",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "6512e3b29890f75ebc035a5276163c0f_original.png",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 997,
+          "height": 997,
+          "url": "https://api.frankfurthistory.app/storage/images/03eaa5c993f033d18345ef621fdeb1f6_original.png"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 800,
+          "url": "https://api.frankfurthistory.app/storage/images/03eaa5c993f033d18345ef621fdeb1f6_small.png"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 1800,
+    "filters": [
+      {
+        "id": 6,
+        "title": "Orte des Erinnerns &",
+        "subtitle": "Auseinandersetzens",
+        "colour": "blue",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2025-12-17 08:19:45"
+  },
+  {
+    "id": 78,
+    "title": "Zwangsarbeit im Gallus und das KZ Katzbach",
+    "type": "classic",
+    "subtitle": "Ein Rundgang im Gallus",
+    "description": "Ein Rundgang im Gallus",
+    "prologue": " ",
+    "steps": [
+      {
+        "id": 749,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.644619,
+            50.103159
+          ]
+        },
+        "title": "Willkommen!",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p>Hallo und herzlich will­kommen zum Rundgang zu Zwangs­arbeit und dem Kon­zent­ra­ti­ons­lager ‚Katzbach‘ im Frankfur­ter Gallus.</p>\n<p>In dieser Tour erfah­ren Sie von natio­nal­so­zialis­ti­schen Ver­bre­chen, die nicht im Ver­borge­nen stattfanden, sondern mit­ten im All­tag der Stadt. Dazu gehört die Zwangs­arbeit von Zivil­per­so­nen und Kriegsgefan­ge­nen in den Fabriken und Betrie­ben des Vier­tels, die Ent­eig­nung von jüdi­schen Unter­neh­men und das Kon­zent­ra­ti­ons­lager, das hier 1944 in dem Rüs­tungs­un­ter­neh­men Adler­werke ein­ge­rich­tet wurde.</p>\n<p>Neun Sta­tio­nen füh­ren Sie von der Gallus­warte zum Geschichts­ort Adler­werke – einer Gedenk- und Bildungs­stätte. Wenn Sie den Rundgang ver­tiefen möch­ten, kön­nen Sie den Geschichts­ort im Anschluss, zu den Öff­nungs­zei­ten, besu­chen.</p>\n<p>___</p>\n<p>Das Gallus liegt west­lich der Frankfur­ter Innen­stadt. Es ent­stand Ende des 19. Jahrhunderts als Ergeb­nis von zwei großen Bau­projek­ten: dem Frankfur­ter Haupt­bahnhof im Süden und dem Güter­bahnhof im Nord­os­ten. Mit der Ansied­lung von Fabriken auf dem dazwi­schenlie­genden Acker­land ent­wi­ckelte sich ein gut ange­bunde­ner, neuer Stadt­teil: ein Indus­trie- und Arbei­tervier­tel.</p>\n<p>Die Gallus­warte war das wirt­schaft­li­che Klein­zentrum – mit Geschäf­ten, Arzt­praxen und einer Apo­theke. Wei­ter im Wes­ten ent­standen Wohn­sied­lun­gen wie die Hel­ler­hof­sied­lung.</p>\n<p>Wegen sei­ner poli­tisch aktiven Arbei­terschaft wurde das Vier­tel auch “ro­tes Gallus” genannt. Viele Men­schen waren gewerkschaft­lich orga­ni­siert und das Leben war gestal­tet mit Einrich­tun­gen der Arbei­ter­be­wegung: es gab Kinder­betreuung, Spiel- und Freizeitorte für Jugend­li­che und einen Arbei­ter­chor.</p>\n<p>1932 wählte hier über die Hälfte der Bevölkerung sozial­demok­ra­tisch und links. Aber es gab auch starke natio­nal­so­zialis­ti­sche Kräfte. Das polari­sierte Vier­tel wurde zum Ort von Straßen­kämp­fen. Seit 1933 die Natio­nal­so­zialis­ten an der Macht waren, wur­den Arbei­ter*innen, die ver­such­ten, Wider­stand zu leis­ten, ver­folgt, ver­haf­tet und inter­niert.</p>\n<p>Den Stadt­teil präg­ten große Fabriken. Dazu gehör­ten der Haus­schuhher­stel­ler J. &amp; C.A. Schnei­der, genannt „Schlappeschnei­der“, ein wich­tiger Spon­sor der Ein­tracht Frankfurt, die Brem­sen­fabrik Alfred Teves oder die Firma Max Braun, die heute für Rasier­ap­pa­rate und das Design von Arm­band­uh­ren bekannt ist.</p>\n<p>Viele der Unter­neh­men im Gallus stell­ten für den Eroberungskrieg auf Rüs­tungs­indus­trie um; ein Radio­her­stel­ler pro­duzierte jetzt bei­spiels­weise Funkge­räte für das Militär. Der Krieg sicherte den Unter­neh­men eine gute Auf­tragslage. Und noch etwas änderte sich: In der gan­zen Stadt ent­standen Lager, für Zwangs­arbei­ter*innen aus den besetz­ten Gebie­ten.</p>\n<p>Eines der größ­ten Unter­neh­men im Gallus war die Maschi­nen- und Fahrzeugfabrik Adler­werke. Auch sie pro­duzierte im Zwei­ten Welt­krieg Rüs­tungs­gü­ter. Bei den Adler­werken kamen ver­schiedene Formen von Zwangs­arbeit zusammen: Der Betrieb beschäf­tigte nicht nur jah­re­lang Zwangs­arbei­te­rin­nen und Zwangs­arbei­ter aus den besetz­ten Gebie­ten in Europa. Im Som­mer 1944 wurde zusätzlich ein Kon­zent­ra­ti­ons­lager auf dem Werksge­lände ein­ge­rich­tet – das KZ-Außenlager „Katzbach“.</p>\n<p>Die Adler­werke ste­hen im Zentrum des Rundgangs. Unsere erste Sta­tion führt uns zu den Gebäuden der ehema­ligen Fabrik.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Luise Besier",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/TKBxhhjpN74nef2IDNPzX9tvo.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Willkommen!",
+              "description": " ",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-11-28 12:39:32"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 23542,
+            "pos": 2,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "Station 1_Gallus Topografische Karte 1904_Hessisches Institut für Landesgeschichte(HIL).png",
+                "date": null,
+                "dateString": "1904",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 990,
+                    "height": 567,
+                    "url": "https://api.frankfurthistory.app/storage/images/Station%201__44a21841f8b08449dfa735a665cde54e_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 458,
+                    "url": "https://api.frankfurthistory.app/storage/images/Station%201__44a21841f8b08449dfa735a665cde54e_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Historische Topografische Karte des Gallus von 1904: Das Gallusviertel entsteht in Form eines Dreiecks zwischen den Gleisanlagen des Personen-Hauptbahnhofs (rechts) und denen des heute nicht mehr bestehenden Hauptgüterbahnhofs (oben). Hessisches Institut für Landesgeschichte.</p>",
+                  "accessibleDescription": "",
+                  "author": "Königl. Preuss. Landesaufnahme",
+                  "copyright": "Georeferenzierung und Bereitstellung: Hessisches Institut für Landesgeschichte (HIL)",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "Station 1_Bild 2_isg_ffm_s7a_nr_1998-12156_0001.jpg",
+                "date": null,
+                "dateString": "unbekannt",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1035,
+                    "height": 1600,
+                    "url": "https://api.frankfurthistory.app/storage/images/Station%201__c06ebfa35bd37d04ee0f82640d14117e_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 518,
+                    "height": 800,
+                    "url": "https://api.frankfurthistory.app/storage/images/Station%201__c06ebfa35bd37d04ee0f82640d14117e_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Der Konsum-Verein in der Lahnstraße 5 war ein Ort der Selbstorganisationen von Arbeiter*innen im Gallusviertel: Wer Mitglied war, zahlte weniger auf den einzelnen Einkauf, sodass Kosten gesenkt werden konnten. Institut für Stadtgeschichte, S7A 1998-12156.</p>",
+                  "accessibleDescription": "",
+                  "author": "unbekannt",
+                  "copyright": "Institut für Stadtgeschichte",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-11-28 12:34:39"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 1,
+            "title": "Orte mit mehreren",
+            "subtitle": "Perspektiven",
+            "colour": "colored",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "680f0bf09fca1f54bd7691f987a0b7f3_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 1600,
+          "url": "https://api.frankfurthistory.app/storage/images/7c47b464e9109eceb93000142376df45_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 800,
+          "url": "https://api.frankfurthistory.app/storage/images/7c47b464e9109eceb93000142376df45_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 36,
+        "title": "Orte der",
+        "subtitle": "Zwangsarbeit",
+        "colour": "darkgray",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2026-04-16 13:19:36"
+  },
+  {
+    "id": 79,
+    "title": "Frankfurt und der Nationalsozialismus",
+    "type": "classic",
+    "subtitle": "Überblicksrundgang in Deutscher Gebärdensprache",
+    "description": "Überblicksrundgang in Deutscher Gebärdensprache",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 760,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.68216108568808,
+            50.109491975681976
+          ]
+        },
+        "title": "Willkommen!",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 2,
+            "template": "plain",
+            "body": "<p><strong>Herzlich Will­kommen zur Tour „Frankfurt und der Natio­nal­so­zialismus“</strong></p>\n<p>Der Rundgang wird ca. 60 Min­u­ten dau­ern. Sie kön­nen sich von Ort zu Ort navigie­ren. An jeder Sta­tion finden Sie außer­dem Ansich­ten in der Bildergale­rie. Der Rundgang führt Sie durch die Alt­stadt bis zum Bör­ne­platz, zu acht ver­schiede­nen Orten, an denen Sie erfah­ren, wie die Frankfur­ter*innen das natio­nal­so­zialis­ti­sche Welt­bild annah­men und wel­che Folgen das für diejenigen hatte, die nicht in das NS-Welt­bild pass­ten.</p>\n<p>Sie wer­den über die Rolle der Stadt­ver­wal­tung im Natio­nal­so­zialismus informiert und ler­nen auch die Per­spek­tiven von Ver­folg­ten und Wider­ständigen ken­nen. Ein wei­te­res Thema wird die Geschichte der Auf­arbei­tung von NS-Unrecht sein und die Frage, wie wir uns heute damit aus­ein­ander­set­zen kön­nen.</p>\n<p>Auch das His­tori­sche Museum Frankfurt befasst sich kri­tisch mit der eige­nen Geschichte, denn es hat auch wäh­rend des Natio­nal­so­zialismus von der Ver­folgung von Jüdin­nen und Juden pro­fi­tiert. Es hat seine Samm­lung um Stü­cke berei­chert, die sich zuvor in Frankfur­ter Syn­agogen oder dem Museum für Jüdi­sche Alter­tü­mer befanden.<br />Die Objekte wur­den unter dem Vor­wand der „Ret­tung vor Zer­störung“ in die Muse­ums­samm­lung auf­genommen.</p>\n<p>Heute forscht in vie­len Museen die „Pro­ve­ni­en­zfor­schung“ dazu, die Geschichte der Samm­lungs­objekte zu erkunden und zu ermit­teln, ob sich unrechtmäßig erworbene Gegen­stände darin befinden. Das His­tori­sche Museum hat die meis­ten Objekte aus der räuberi­schen „Ret­tungs­ak­tion“ bereits Ende der 1940er Jahre an die Orga­ni­sa­tion „Jewish Cultu­ral Recon­struc­tion“ resti­tu­iert - aber nicht voll­ständig. Denn als das Museum 2010 mit der sys­tema­ti­schen Pro­ve­ni­en­zfor­schung begann, tauchte wei­te­res Raubgut auf, das 2018 an das Jüdi­sche Museum und die Jüdi­sche Gemeinde über­ge­ben wurde.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [
+          {
+            "pos": 1,
+            "url": "https://www.youtube.com/watch?v=AFDbpqfpeEw",
+            "vimeoId": "",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Willkommen!",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\VideoContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "updatedAt": "2025-12-01 14:30:07"
+          }
+        ],
+        "galleryContents": [
+          {
+            "id": 23551,
+            "pos": 3,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "KaMue Museum.JPG",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1434,
+                    "height": 1007,
+                    "url": "https://api.frankfurthistory.app/storage/images/KaMue%20Muse_7be72c7b8e93cdf417775155a944dac1_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 562,
+                    "url": "https://api.frankfurthistory.app/storage/images/KaMue%20Muse_7be72c7b8e93cdf417775155a944dac1_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": "© Katharina Müller, VG Bild-Kunst, Bonn 2022",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-12-01 14:31:38"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 1,
+            "title": "Orte mit mehreren",
+            "subtitle": "Perspektiven",
+            "colour": "colored",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "1bec2d0b0d8ed5b9200fe81ddfa384bd_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/eacd9f5d368cd5e7e22cbdaf1b6d317c_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/eacd9f5d368cd5e7e22cbdaf1b6d317c_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Orte mit mehreren",
+        "subtitle": "Perspektiven",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2026-03-24 15:32:18"
+  },
+  {
+    "id": 81,
+    "title": "Griesheim im Nationalsozialismus",
+    "type": "classic",
+    "subtitle": "Ein Rundgang durch Frankfurt-Griesheim",
+    "description": "Ein Rundgang durch Frankfurt-Griesheim",
+    "prologue": " ",
+    "steps": [
+      {
+        "id": 786,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.606147437789279,
+            50.093900001650944
+          ]
+        },
+        "title": "Prolog",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p><strong>Herzlich will­kommen zu einem Rundgang durch Gries­heims Geschichte in der Zeit des Natio­nal­so­zialismus. </strong></p>\n<p>Gries­heim war bis 1928 eine unabhängige Landgemeinde mit etwa 12.500 Ein­wohnern. Erst 5 Jahre vor der Machtüber­nahme durch die Natio­nal­so­zialis­ten wurde Gries­heim ein­gemeindet und dadurch zu einem Stadt­teil Frankfurts. Unser Rundgang führt uns durch den his­tori­schen Ortskern, der heute auch Alt-Gries­heim genannt wird. Damals gab es hier zahlrei­che Geschäfte, Gast­stät­ten, kleine Unter­neh­men und ein lebendiges Ver­eins­le­ben. Dadurch kannte bei­nahe jeder jeden.</p>\n<p>Die Ver­folgung derer, die den Natio­nal­so­zialis­ten im Weg standen, war ab 1933 im Stadt­teil deut­lich zu spüren. Kom­mu­nist*innen, Sozial­demok­rat*innen und Gewerkschaf­ter*innen wur­den ver­haf­tet. Der langjäh­rige Lei­ter der Gries­hei­mer Bibliothek wurde ent­las­sen, weil er als poli­tisch unzuver­läs­sig galt. Mehre­ren Leh­rern an Gries­hei­mer Schulen erging es genauso. Jüdin­nen und Juden wur­den unter Druck gesetzt und zur Auf­gabe ihrer Geschäfte und Woh­nun­gen gedrängt. Zeugen Jehovas und Homo­sexuelle aus der Nach­barschaft wur­den in Gefäng­nisse und Kon­zent­ra­ti­ons­lager ver­schleppt.</p>\n<p>Mit Beginn des Zwei­ten Welt­kriegs wur­den immer mehr Män­ner aus Gries­heim zum Militär ein­gezogen. Zur sel­ben Zeit trafen hier zuneh­mend Zwangs­arbei­ter*innen aus ver­schiede­nen Län­dern ein. Man­che wur­den in Privat­häu­sern unter­gebracht und arbei­te­ten in famili­en­geführ­ten Unter­neh­men wie Bäckereien und Gärtnereien. Tausende andere muss­ten in umzäun­ten Bara­ckenlagern, leer­ste­henden Indus­trie­gebäuden und stillge­leg­ten Gast­stät­ten woh­nen. Zwangs­arbeit und das damit ver­bundene Leid war in Gries­heim allge­genwär­tig.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Sascha Mahl",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/UuWtCRvCv0KLlx3UgKhHKntnu.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Prolog",
+              "description": " ",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-12-03 17:42:33"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 23612,
+            "pos": 2,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "0_Gemeindegarten_Verlag Emil Conrad_Griesheim.jpg",
+                "date": null,
+                "dateString": "ca. 1900",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 959,
+                    "url": "https://api.frankfurthistory.app/storage/images/0_Gemeinde_2b1084438d656065e29a8283cfb90f60_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 480,
+                    "url": "https://api.frankfurthistory.app/storage/images/0_Gemeinde_2b1084438d656065e29a8283cfb90f60_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Park „Marienanlage“ mit dem Bürgermeisterhaus, das später das „Braune Haus Griesheims“ wurde</p>",
+                  "accessibleDescription": "",
+                  "author": "Verlag Georg Emrich, Griesheim",
+                  "copyright": "Sammlung Sascha Mahl",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-12-03 17:39:51"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 1,
+            "title": "Orte mit mehreren",
+            "subtitle": "Perspektiven",
+            "colour": "colored",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "02f7256b49bb98b3565f6c741b42b56b_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1340,
+          "height": 1340,
+          "url": "https://api.frankfurthistory.app/storage/images/6e1480b14f1fbee1b36f684065ef5b50_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 800,
+          "url": "https://api.frankfurthistory.app/storage/images/6e1480b14f1fbee1b36f684065ef5b50_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 2700,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Orte mit mehreren",
+        "subtitle": "Perspektiven",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2026-04-13 14:01:46"
+  }
+]

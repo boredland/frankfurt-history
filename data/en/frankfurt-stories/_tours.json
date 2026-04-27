@@ -1,0 +1,560 @@
+[
+  {
+    "id": 65,
+    "title": "FSV Frankfurt club and pub history",
+    "type": "classic",
+    "subtitle": "125 years of FSV (1899-2024)",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 624,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.707217,
+            50.12591
+          ]
+        },
+        "title": "Start: Richard-Hermann-Kiosk",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 1,
+            "template": "plain",
+            "body": "<p>Welcome to the city tour about the his­tory of the FSV Frankfurt and Born­hei­mer bars.</p>\n<p>The city tour was created by the his­tory group of the FSV Frankfurt fan and sup­port department (deutsch: Fan- und Förder­ab­tei­lung). We wish you a good time.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 2,
+            "url": "https://api.frankfurthistory.app/storage/audio/Joih8g3Fgaagl3hFqNAVreAVf.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Intro",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-04-15 05:50:25"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 14,
+            "title": "125 years FSV",
+            "subtitle": "(1899-2024)",
+            "colour": "darkgray",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "239feea05ca8f96e80558847e3fdde84_original.png",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 601,
+          "height": 338,
+          "url": "https://api.frankfurthistory.app/storage/images/7fd7113d82504e855fd9672079db5175_original.png"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 7200,
+    "filters": [
+      {
+        "id": 14,
+        "title": "125 years FSV",
+        "subtitle": "(1899-2024)",
+        "colour": "darkgray",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2026-03-11 11:12:42"
+  },
+  {
+    "id": 51,
+    "title": "Carl Theodor Reiffenstein",
+    "type": "classic",
+    "subtitle": "A Frankfurt artist explores the old town",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 387,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.682594070786337,
+            50.10959403062543
+          ]
+        },
+        "title": "A Frankfurt artist explores the old town",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 1,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p>Explore Frankfurt’s 19th-cen­tury Old Town with local landscape artist Carl Theodor Reiffenstein (1820-1893)!</p>\n<p>Born in Grau­ben­gasse lane (today the Kleinmarkthalle), Reiffenstein grew up in the heart of the Old Town. Every free hour he had, he spent sketching sce­nes in his home town and surroundings. He found his main motifs not just in the Old Town’s buildings, streets and squa­res, but also in the city walls, courtyards and gar­dens.</p>\n<p>In 2,000 water­co­lours and drawings and over 2,400 manu­script pages, he captured his impres­si­ons of 19th-cen­tury Frankfurt. Usually he drew the sce­nes on site in pencil, later turning his drawings into water­co­lour sket­ches. His extensive wri­tings describe pla­ces and details of architectu­ral his­tory, as well as recor­ding his­to­rical events and anec­do­tes.</p>\n<p>Many pla­ces Reiffenstein documented no lon­ger exist; just a few have survived unch­anged or were recon­structed.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Carina Koch",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/t1YqWms6RBOk8jvyhCxSasJa5.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "A Frankfurt artist explores the old town",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": true,
+            "initialPlayer": true,
+            "updatedAt": "2024-09-04 19:05:47"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 21778,
+            "pos": 2,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "B0874.png",
+                "date": null,
+                "dateString": "1845",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1137,
+                    "height": 1444,
+                    "url": "https://api.frankfurthistory.app/storage/images/B0874_png_b690a03051ecff44e8a016a569a2a2e5_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 630,
+                    "height": 800,
+                    "url": "https://api.frankfurthistory.app/storage/images/B0874_png_b690a03051ecff44e8a016a569a2a2e5_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Georg Wittemann, portrait of painter Carl Theodor Reiffenstein, 1845, oil painting, HMF B0874, Historisches Museum Frankfurt, CC-BY-SA 4.0, photo: Horst Ziegenfusz</p>",
+                  "accessibleDescription": "",
+                  "author": "Georg Wittemann",
+                  "copyright": "HMF",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "Inv. Bibl.2009.5142,01-12.jpg",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 944,
+                    "url": "https://api.frankfurthistory.app/storage/images/Inv_%20Bibl__d08b800b1e5454655347a0dc36b04471_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 472,
+                    "url": "https://api.frankfurthistory.app/storage/images/Inv_%20Bibl__d08b800b1e5454655347a0dc36b04471_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Carl Theodor Reiffenstein, Text for the Frankfurt Views Collection (11 volumes manuscript and a folder with individual sheets), Inv.Bibl.2009.5142,01-12</p>",
+                  "accessibleDescription": "",
+                  "author": "HMF",
+                  "copyright": "HMF",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "G1366.png",
+                "date": null,
+                "dateString": "1881",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1273,
+                    "height": 1600,
+                    "url": "https://api.frankfurthistory.app/storage/images/G1366_png_2abcd4e5de400cf8b9d1d4049731dd6b_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 637,
+                    "height": 800,
+                    "url": "https://api.frankfurthistory.app/storage/images/G1366_png_2abcd4e5de400cf8b9d1d4049731dd6b_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Carl Theodor Reiffenstein, The Frankfurt Forest, 1881, oil painting, HMF G1366 / permanent loan Städel Museum, Historisches Museum Frankfurt, CC-BY-SA 4.0, photo: Horst Ziegenfusz</p>",
+                  "accessibleDescription": "",
+                  "author": "Carl Theodor Reiffenstein",
+                  "copyright": "HMF",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "B0834.png",
+                "date": null,
+                "dateString": "1879",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1333,
+                    "height": 1600,
+                    "url": "https://api.frankfurthistory.app/storage/images/B0834_png_45e7fc4e509476cbb132d0d234145f1f_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 667,
+                    "height": 800,
+                    "url": "https://api.frankfurthistory.app/storage/images/B0834_png_45e7fc4e509476cbb132d0d234145f1f_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Carl Theodor Reiffenstein, Rocky area, 1879, Oil painting, HMF B0834, Historisches Museum Frankfurt, CC-BY-SA 4.0, photo: Horst Ziegenfusz</p>",
+                  "accessibleDescription": "",
+                  "author": "Carl Theodor Reiffenstein",
+                  "copyright": "HMF",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2024-02-29 11:03:44"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 11,
+            "title": "Reiffensteins Frankfurt",
+            "subtitle": "(1820-1893)",
+            "colour": "lightblue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "7550dbffe7531115d35f46c9fd0a2f5e_original.png",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1166,
+          "height": 656,
+          "url": "https://api.frankfurthistory.app/storage/images/fd5131aea8478abfddbe76be15b4a47c_original.png"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/fd5131aea8478abfddbe76be15b4a47c_small.png"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 11,
+        "title": "Reiffensteins Frankfurt",
+        "subtitle": "(1820-1893)",
+        "colour": "lightblue",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2026-03-11 11:38:40"
+  },
+  {
+    "id": 73,
+    "title": " ",
+    "type": "classic",
+    "subtitle": " ",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 668,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.68434,
+            50.13647
+          ]
+        },
+        "title": "Begrüßung - \"Wart g’schwind“",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 1,
+            "template": "plain",
+            "body": "<p>Ein Spaziergang von Jürgen Schwab für das Kultur­amt der Stadt Frankfurt im Jahr 2025 aus Anlass des 20. Todes­tages von Albert Mangelsdorff.</p>\n<p>Herzlich will­kommen bei diesem Spaziergang, der in 9 Sta­tio­nen vom Hauptfriedhof bis zum Dialogmuseum führt. Er ist als Audio-Walk kon­zi­piert. Sie genießen ihn am bes­ten mit Kopf­hörern. Ralph Mangelsdorff, Chris­tof Lauer, Wolfgang Haffner, Wolfgang Sandner u.a. erzäh­len von ihren Begeg­nun­gen mit dem Posau­nis­ten, der außer­dem selbst zu Wort kommt, vor allem natür­lich musikalisch! Jede Sta­tion ist übrigens nach einer Kompo­si­tion von ihm benannt. </p>\n<p>Die Wege zwi­schen den Sta­tio­nen kön­nen Sie mit einer Naviga­ti­ons­app zurück­le­gen. Um den jeweils ruhigs­ten, grüns­ten Weg zur nächs­ten Sta­tion zu neh­men, wie es auch unser Prot­ago­nist getan hätte, folgen Sie am bes­ten den Weg­be­schreibun­gen. Dort wird auch erklärt, wie Sie den rela­tiv lan­gen Weg vom Hes­si­schen Rundfunk zur Musikhoch­schule mit der U-Bahn abkür­zen kön­nen.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 23409,
+            "pos": 2,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "0-a Albert Mangelsdorff 2004 (Uwe Dettmar, ISG FFM S7Z Nr. 2014-25)(2).JPG",
+                "date": null,
+                "dateString": "02.09.2004",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1066,
+                    "url": "https://api.frankfurthistory.app/storage/images/0-a%20Albert_dc5978330e0c63ae842c7630b3de36ee_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 533,
+                    "url": "https://api.frankfurthistory.app/storage/images/0-a%20Albert_dc5978330e0c63ae842c7630b3de36ee_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Albert Mangelsdorff 2004</p>",
+                  "accessibleDescription": "",
+                  "author": "Uwe Dettmar",
+                  "copyright": "Uwe Dettmar",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-10-24 11:17:07"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 23,
+            "title": "Short Stories",
+            "subtitle": "",
+            "colour": "firered",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "8879660b83ccc9f92fb4c9b79c620848_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/5663193906e4edcedb07b41606a10dcb_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/5663193906e4edcedb07b41606a10dcb_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 7200,
+    "filters": [
+      {
+        "id": 23,
+        "title": "Short Stories",
+        "subtitle": "",
+        "colour": "firered",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2026-02-06 14:06:19"
+  }
+]

@@ -1,0 +1,3262 @@
+[
+  {
+    "id": 68,
+    "title": "Tour of the Italian Military Cemetery of Honour in Frankfurt ",
+    "type": "classic",
+    "subtitle": "",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 536,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.6078548443428,
+            50.13780956108
+          ]
+        },
+        "title": "Westhausen cemetery",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 4,
+            "template": "plain",
+            "body": "<p>Welcome to our tour to the Ita­lian Military Ceme­tery of Honour in Frankfurt.</p>\n<p>You are now entering West­hau­sen Ceme­tery. West­hau­sen is a district of Frankfurt am Main that is unk­nown even to many of the city’s citizens. It sprang up between 1929 and 1931 as a con­struc­tion pro­ject in the late phase of so cal­led “New Frankfurt”, a pro­ject aimed at pro­viding func­tio­nal, affor­dable hou­sing. The ceme­tery was an even later deve­lopment: It was not until June 1950 that the first burials took place here. It also hou­ses the Ita­lian War Ceme­tery, which we are now going to explore together.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/B45dMvhcKIoedFdKLIsEUJb8C.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Introduction",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-01-09 09:08:13"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 22950,
+            "pos": 3,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "1.1 - Cimitero militare Westhausen - Inaugurazione 1959 - dettaglio (1).jpg",
+                "date": null,
+                "dateString": "1959",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 571,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_1%20-%20Cimi_44a65af89b4ea0a1900e00a280e3df1f_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 286,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_1%20-%20Cimi_44a65af89b4ea0a1900e00a280e3df1f_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Inauguration of the Italian Military Cemetery of Honour, Frankfurt 1959. Photograph: unknown, Italian Ministry of Defence</p>",
+                  "accessibleDescription": "",
+                  "author": "Commissariato generale per le onoranze ai caduti in guerra",
+                  "copyright": "Italienisches Verteidigungsministerium",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "1.3 isg_ffm_s14frie_nr_1053_0001.jpg",
+                "date": null,
+                "dateString": "1958",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1044,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_3%20isg_ff_9f265915b446dbebf26cdeb545d52cb9_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 522,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_3%20isg_ff_9f265915b446dbebf26cdeb545d52cb9_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>View of the Italian war cemetery after completion, colour slide 1958. Photograph: Wilhelm Pfau, ISG FFM S14Frie, 700</p>",
+                  "accessibleDescription": "",
+                  "author": "Wilhelm Pfau",
+                  "copyright": "Institut für Stadtgeschichte (ISG) Frankfurt am Main",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "1.2 isg_ffm_s14frie_nr_700_0001 (1).jpg",
+                "date": null,
+                "dateString": "1958",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1039,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_2%20isg_ff_f864d24683d1377077829b04f4f48929_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 520,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_2%20isg_ff_f864d24683d1377077829b04f4f48929_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>View of cross and altar in the Italian war cemetery. Colour slide 1958. Photograph: Wilhelm Pfau, ISG FFM S14Frie, 700</p>",
+                  "accessibleDescription": "",
+                  "author": "Wilhelm Pfau",
+                  "copyright": "Institut für Stadtgeschichte (ISG) Frankfurt am Main",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "1.4 isg_ffm_s14frie_nr_1050_0001.jpg",
+                "date": null,
+                "dateString": "1958",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1047,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_4%20isg_ff_8e24dfb214da8fe3632fa616b4d23373_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 524,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_4%20isg_ff_8e24dfb214da8fe3632fa616b4d23373_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Detail of some graves shortly after completion, slide 1958. Photo: Albert Eckert, ISG FFM, S14Frie, 1050</p>",
+                  "accessibleDescription": "",
+                  "author": "Albert Eckert",
+                  "copyright": "Institut für Stadtgeschichte (ISG) Frankfurt am Main",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-01-20 10:14:24"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Places of debate",
+            "subtitle": "& remembrance",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "4dadc6ec96febd4c6cd62cd08a7c8bf3_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1015,
+          "height": 571,
+          "url": "https://api.frankfurthistory.app/storage/images/963c08b037e8bd39be11ee009f6d1b33_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/963c08b037e8bd39be11ee009f6d1b33_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 4500,
+    "filters": [
+      {
+        "id": 6,
+        "title": "Places of debate",
+        "subtitle": "& remembrance",
+        "colour": "blue",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2025-09-09 10:18:22"
+  },
+  {
+    "id": 69,
+    "title": "Tour del cimitero militare d'onore di Francoforte",
+    "type": "classic",
+    "subtitle": "Rundgang auf Italienisch",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 558,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.6078548443428,
+            50.13780956108
+          ]
+        },
+        "title": "Westhausen cemetery",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p><strong>Il cimitero di West­hau­sen</strong></p>\n<p>Buongiorno e benve­n­uti in visita al cimitero milit­are ita­liano d’onore di Francoforte.</p>\n<p>Ci troviamo all’ingresso del cimitero di West­hau­sen. West­hau­sen è un quar­tiere di Francoforte che anche per gli stessi abitanti della città è poco cono­sciuto. Il quar­tiere, costruito tra il 1929 e il 1931, fu parte del pro­gramma di espan­sione urba­nis­tica chiamato “Nuova Francoforte”, pro­getto che pun­tava a realiz­zare su larga scala alloggi econo­mici, moderni e funzio­nali. Il cimitero è più recente. È ent­rato in funzione solo a par­tire dal giu­gno 1950. Una parte ospita anche il cimitero milit­are ita­liano d’onore che è l’oggetto della nos­tra visita.</p>\n<p> </p>\n<p> </p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/JLFk0TeBA4OwQf5aZTQK3ua4v.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Introduzione",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-01-17 08:03:14"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 22962,
+            "pos": 2,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "1.1 - Cimitero militare Westhausen - Inaugurazione 1959 - dettaglio (1).jpg",
+                "date": null,
+                "dateString": "1959",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 571,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_1%20-%20Cimi_44a65af89b4ea0a1900e00a280e3df1f_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 286,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_1%20-%20Cimi_44a65af89b4ea0a1900e00a280e3df1f_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Inaugurazione del Cimitero militare d'onore, Francoforte 1959. Foto: ignoto, Ufficio per la tutela della cultura e della memoria della difesa</p>",
+                  "accessibleDescription": "",
+                  "author": "Commissariato generale per le onoranze ai caduti in guerra",
+                  "copyright": "Ministero della Difesa, Ufficio per la tutela della cultura e della memoria della difesa",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "1.2 isg_ffm_s14frie_nr_700_0001 (1).jpg",
+                "date": null,
+                "dateString": "1958",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1039,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_2%20isg_ff_f864d24683d1377077829b04f4f48929_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 520,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_2%20isg_ff_f864d24683d1377077829b04f4f48929_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Veduta della croce e altare nel cimitero militare italiano, diapositiva 1958. Foto: Wilhelm Pfau, ISG FFM S14Frie, 700</p>",
+                  "accessibleDescription": "",
+                  "author": "Wilhelm Pfau",
+                  "copyright": "Institut für Stadtgeschichte (ISG) Frankfurt am Main",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "1.3 isg_ffm_s14frie_nr_1053_0001.jpg",
+                "date": null,
+                "dateString": "1958",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1044,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_3%20isg_ff_9f265915b446dbebf26cdeb545d52cb9_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 522,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_3%20isg_ff_9f265915b446dbebf26cdeb545d52cb9_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Veduta del cimitero militare italiano dopo il completamento, diapositiva 1958. Foto: Wilhelm Pfau, ISG FFM, S14Frie, 1053</p>",
+                  "accessibleDescription": "",
+                  "author": "Wilhelm Pfau",
+                  "copyright": "Institut für Stadtgeschichte (ISG) Frankfurt am Main",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "1.4 isg_ffm_s14frie_nr_1050_0001.jpg",
+                "date": null,
+                "dateString": "1958",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1047,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_4%20isg_ff_8e24dfb214da8fe3632fa616b4d23373_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 524,
+                    "url": "https://api.frankfurthistory.app/storage/images/1_4%20isg_ff_8e24dfb214da8fe3632fa616b4d23373_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Particolare di alcune tombe poco dopo il completamento, diapositiva 1958. Foto: Albert Eckert, ISG FFM, S14Frie, 1050</p>",
+                  "accessibleDescription": "",
+                  "author": "Albert Eckert",
+                  "copyright": "Institut für Stadtgeschichte (ISG) Frankfurt am Main",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-01-17 07:39:43"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Places of debate",
+            "subtitle": "& remembrance",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "4dadc6ec96febd4c6cd62cd08a7c8bf3_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1015,
+          "height": 571,
+          "url": "https://api.frankfurthistory.app/storage/images/963c08b037e8bd39be11ee009f6d1b33_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/963c08b037e8bd39be11ee009f6d1b33_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 4500,
+    "filters": [
+      {
+        "id": 6,
+        "title": "Places of debate",
+        "subtitle": "& remembrance",
+        "colour": "blue",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2025-01-27 08:49:34"
+  },
+  {
+    "id": 70,
+    "title": "Route of remembrance: Frankfurt Messe and the NS",
+    "type": "classic",
+    "subtitle": "A city tour about the November pogroms of 1938",
+    "description": "A project by Messe Frankfurt and students of the Frankfurt University of Applied Science",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 580,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.65071,
+            50.112332
+          ]
+        },
+        "title": "Station 1: Festhalle Frankfurt",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 4,
+            "template": "plain",
+            "body": "<p>The Festhalle in Frankfurt is a cen­tral event loca­tion stee­ped in over one hund­red years of his­tory. Offi­ci­ally opened in 1909, it has played host to countless cultu­ral, sporting and political events. During the November pogroms of 1938, the Festhalle served as a collec­tion point for Jewish men before they were sent to con­cen­t­ra­tion camps. The Festhalle suffered severe damage during the Second World War but was rebuilt afterwards. Today, it is a venue for inter­na­tio­nal con­certs, trade fairs and sporting events. The Festhalle repres­ents cultu­ral diver­sity, his­to­rical reflec­tion and pro­gress in the city of Frankfurt.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Aliah Habl Corona",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p>We, four students from the Frankfurt Uni­ver­sity of App­lied Sci­ences, have deve­l­o­ped a spe­cial city tour together with Messe Frankfurt. It starts at the Festhalle Frankfurt and leads to the for­mer main syn­agogue near the Kon­stablerwa­che.</p>\n<p>Our aim is to make the indi­vidual fates of those per­secu­ted during the November pogroms of 1938 visi­ble and to cont­ribute to clarifying and com­ing to terms with this period.</p>\n<p><br />Visi­tors can use the naviga­tion sys­tem or the map to explore the sta­ti­ons inde­pendently and expe­ri­ence his­tory at first hand. It is also possi­ble to pause the tour at will and conti­nue at the same place at ano­ther time. Of course, indi­vidual rou­tes can also be travel­led by public transport and sta­ti­ons can be skip­ped or visited exclusively digi­tally.</p>\n<p>Transla­ted with DeepL.com (free ver­sion)</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 2,
+            "url": "https://api.frankfurthistory.app/storage/audio/MS2f64jSuNtKdkLtyRwY46qaX.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "About the Festhalle Frankfurt",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [
+              {
+                "id": 6,
+                "title": "Places of debate",
+                "subtitle": "& remembrance",
+                "colour": "blue",
+                "icon": null
+              }
+            ],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-01-10 12:04:29"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 22974,
+            "pos": 1,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": {
+              "type": null,
+              "originalName": "Festhalle.jpg",
+              "date": null,
+              "dateString": "2024",
+              "weight": 1,
+              "urls": [
+                {
+                  "type": "original",
+                  "width": 800,
+                  "height": 534,
+                  "url": "https://api.frankfurthistory.app/storage/images/Festhalle__96771b6fbfef6cc066417688b48404b3_original.jpg"
+                }
+              ],
+              "metadata": {
+                "title": "",
+                "description": "Frankfurt Festhalle, a historic building on the exhibition grounds. During the November pogroms in 1938, it was used as a collection point for more than 3,000 male Jewish citizens from Frankfurt and the surrounding region.",
+                "accessibleDescription": "Color Photo: External view of the Frankfurt Festhalle.",
+                "author": "Aliah Habl Corona",
+                "copyright": "gemeinfrei",
+                "ticketLink": null,
+                "contentType": "App\\Models\\Image",
+                "expires": null
+              },
+              "filters": [
+                {
+                  "id": 6,
+                  "title": "Places of debate",
+                  "subtitle": "& remembrance",
+                  "colour": "blue",
+                  "icon": null
+                }
+              ]
+            },
+            "filters": [
+              {
+                "id": 6,
+                "title": "Places of debate",
+                "subtitle": "& remembrance",
+                "colour": "blue",
+                "icon": null
+              }
+            ],
+            "categories": [],
+            "excludeFromRegister": false,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "Festhalle.jpg",
+                "date": null,
+                "dateString": "2024",
+                "weight": 1,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 800,
+                    "height": 534,
+                    "url": "https://api.frankfurthistory.app/storage/images/Festhalle__96771b6fbfef6cc066417688b48404b3_original.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "Frankfurt Festhalle, a historic building on the exhibition grounds. During the November pogroms in 1938, it was used as a collection point for more than 3,000 male Jewish citizens from Frankfurt and the surrounding region.",
+                  "accessibleDescription": "Color Photo: External view of the Frankfurt Festhalle.",
+                  "author": "Aliah Habl Corona",
+                  "copyright": "gemeinfrei",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [
+                  {
+                    "id": 6,
+                    "title": "Places of debate",
+                    "subtitle": "& remembrance",
+                    "colour": "blue",
+                    "icon": null
+                  }
+                ]
+              },
+              {
+                "type": null,
+                "originalName": "Vorraum_Festhalle.jpg",
+                "date": null,
+                "dateString": "1935",
+                "weight": 1,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1767,
+                    "height": 1274,
+                    "url": "https://api.frankfurthistory.app/storage/images/Vorraum_Fe_778df69aec038d876628825ce718c2d0_original.jpg"
+                  },
+                  {
+                    "type": "medium",
+                    "width": 1600,
+                    "height": 1154,
+                    "url": "https://api.frankfurthistory.app/storage/images/Vorraum_Fe_778df69aec038d876628825ce718c2d0_medium.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 577,
+                    "url": "https://api.frankfurthistory.app/storage/images/Vorraum_Fe_778df69aec038d876628825ce718c2d0_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "Internal view of a Nazi event in a foyer of the Frankfurt Festhalle that has been decorated with National Socialist symbols and propaganda. The event was organised by the Rhein-Mainische Wirtschaft economic organisation in 1935.",
+                  "accessibleDescription": "Black-and-white photo: Foyer at a Nazi event in the Frankfurt Festhalle decorated with swastikas, propaganda slogans and a portrait for the Rhein-Mainische Wirtschaft economic organisation in 1935.",
+                  "author": "Unbekannt",
+                  "copyright": "<span class=\"tab2\">gemeinfrei</span>",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [
+                  {
+                    "id": 6,
+                    "title": "Places of debate",
+                    "subtitle": "& remembrance",
+                    "colour": "blue",
+                    "icon": null
+                  }
+                ]
+              },
+              {
+                "type": null,
+                "originalName": "Innenraum_Festhalle.jpg",
+                "date": null,
+                "dateString": "2008",
+                "weight": 1,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1382,
+                    "height": 973,
+                    "url": "https://api.frankfurthistory.app/storage/images/Innenraum__45d8e5a08666a3dcc67b62c2f40bdd95_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 563,
+                    "url": "https://api.frankfurthistory.app/storage/images/Innenraum__45d8e5a08666a3dcc67b62c2f40bdd95_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "The interior of the Frankfurt Festhalle during a concert – note the striking domed construction and festive atmosphere.",
+                  "accessibleDescription": "Colour photo: The illuminated interior of the Frankfurt Festhalle with its striking domed construction; the venue is full of people attending a concert.",
+                  "author": "Unbekannt",
+                  "copyright": "gemeinfrei",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [
+                  {
+                    "id": 6,
+                    "title": "Places of debate",
+                    "subtitle": "& remembrance",
+                    "colour": "blue",
+                    "icon": null
+                  }
+                ]
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-03-11 10:00:03"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Places of debate",
+            "subtitle": "& remembrance",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "2ae4feb1ee94e562c683ecbb81034632_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/be9d7851f4b04f1efdfd2da600bdbb15_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/be9d7851f4b04f1efdfd2da600bdbb15_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 7200,
+    "filters": [
+      {
+        "id": 6,
+        "title": "Places of debate",
+        "subtitle": "& remembrance",
+        "colour": "blue",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 15,
+    "hasToken": false,
+    "updatedAt": "2026-04-14 14:16:13"
+  },
+  {
+    "id": 2,
+    "title": "Frankfurt and National Socialism",
+    "type": "classic",
+    "subtitle": "Overview tour from the Historical Museum Frankfurt to Börneplatz",
+    "description": "Overview tour from the Historical Museum to Börneplatz",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 5,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.682471,
+            50.109563
+          ]
+        },
+        "title": "Welcome!",
+        "type": "start",
+        "splitPosition": "none",
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": null,
+            "body": "<p><strong>Welcome to the “Frankfurt and Natio­nal Socialism” tour</strong></p>\n<p>The tour lasts about 60 min­u­tes. It will take you through the old town to Bör­ne­platz Square, stopping at eight different sites. On the way, you will learn about how the people of Frankfurt adop­ted the Natio­nal Socialist worldview and what con­sequen­ces that had for those who were excluded from it. You will also gain insights into the role played by the city gover­nment under Natio­nal Socialism and get to know the per­spec­tives of victims of per­secu­tion and of people who resis­ted the regime. Ano­ther topic will be the his­tory of the post-war efforts to address the Nazi injus­ti­ces and the ques­tion of how to come to terms with them today.</p>\n<p>The His­to­rical Museum also cri­tically exami­nes its own his­tory as an insti­tu­tion that pro­fited from the per­secu­tion of Jews under Natio­nal Socialism. In those years it enri­ched its collec­tion with obje­cts previously in Frankfurt’s syn­agogues and the Museum of Jewish Antiquities. The obje­cts were acquired for the collec­tion under the pre­text of “rescuing them from destruc­tion”.</p>\n<p>In many muse­ums, a “proven­ance rese­arch” department has been establis­hed to inves­tigate and recon­struct the his­tory of the obje­cts to determine to whe­ther or not they were acquired by unlawful means. As far back as the late 1940s, the His­to­rical Museum tur­ned over most of the pro­perty from the so-cal­led “rescue ope­ra­tion” to the Jewish Cultu­ral Recon­struc­tion orga­niza­t­ion—but not all of it. When the museum embarked on its sys­tema­tic pro­ven­ance rese­arch efforts in 2010, more stolen obje­cts tur­ned up. These obje­cts were given to the Jewish Museum and the Jewish com­mu­nity in 2018.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 2,
+            "url": "https://api.frankfurthistory.app/storage/audio/0zhRacRMwZkbdPqR2X6hKj0px.mp3",
+            "thumbnail": {
+              "type": null,
+              "originalName": "KaMue Museum.JPG",
+              "date": null,
+              "dateString": "",
+              "weight": null,
+              "urls": [
+                {
+                  "type": "original",
+                  "width": 1434,
+                  "height": 1007,
+                  "url": "https://api.frankfurthistory.app/storage/images/b1b2b15e3e2a9cc30f668262a3e1af22_original.jpg"
+                },
+                {
+                  "type": "small",
+                  "width": 800,
+                  "height": 562,
+                  "url": "https://api.frankfurthistory.app/storage/images/b1b2b15e3e2a9cc30f668262a3e1af22_small.jpg"
+                }
+              ],
+              "metadata": null,
+              "filters": []
+            },
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "HMF, ST",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2022-11-07 12:27:00"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 5819,
+            "pos": 1,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": {
+              "type": null,
+              "originalName": "KaMue Museum.JPG",
+              "date": null,
+              "dateString": "",
+              "weight": null,
+              "urls": [
+                {
+                  "type": "original",
+                  "width": 1434,
+                  "height": 1007,
+                  "url": "https://api.frankfurthistory.app/storage/images/b1b2b15e3e2a9cc30f668262a3e1af22_original.jpg"
+                },
+                {
+                  "type": "small",
+                  "width": 800,
+                  "height": 562,
+                  "url": "https://api.frankfurthistory.app/storage/images/b1b2b15e3e2a9cc30f668262a3e1af22_small.jpg"
+                }
+              ],
+              "metadata": null,
+              "filters": []
+            },
+            "filters": [
+              {
+                "id": 6,
+                "title": "Places of debate",
+                "subtitle": "& remembrance",
+                "colour": "blue",
+                "icon": null
+              }
+            ],
+            "categories": [],
+            "excludeFromRegister": false,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Historical Museum Frankfurt",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Katharina Müller",
+              "copyright": "© Katharina Müller, VG Bild-Kunst, Bonn 2022",
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "KaMue Museum.JPG",
+                "date": null,
+                "dateString": "",
+                "weight": 1,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1434,
+                    "height": 1007,
+                    "url": "https://api.frankfurthistory.app/storage/images/KaMue%20Muse_b1b2b15e3e2a9cc30f668262a3e1af22_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 562,
+                    "url": "https://api.frankfurthistory.app/storage/images/KaMue%20Muse_b1b2b15e3e2a9cc30f668262a3e1af22_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": "© Katharina Müller, VG Bild-Kunst, Bonn 2022",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [
+                  {
+                    "id": 6,
+                    "title": "Places of debate",
+                    "subtitle": "& remembrance",
+                    "colour": "blue",
+                    "icon": null
+                  }
+                ]
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2022-11-08 10:27:12"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 1,
+            "title": "Places with multiple",
+            "subtitle": "perspectives",
+            "colour": "colored",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [],
+    "thumbnail": {
+      "type": null,
+      "originalName": "C28545_001.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 3543,
+          "height": 2693,
+          "url": "https://api.frankfurthistory.app/storage/images/18d9b450910b3541125b196922151de3_original.jpg"
+        },
+        {
+          "type": "large",
+          "width": 3200,
+          "height": 2432,
+          "url": "https://api.frankfurthistory.app/storage/images/18d9b450910b3541125b196922151de3_large.jpg"
+        },
+        {
+          "type": "medium",
+          "width": 1600,
+          "height": 1216,
+          "url": "https://api.frankfurthistory.app/storage/images/18d9b450910b3541125b196922151de3_medium.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 608,
+          "url": "https://api.frankfurthistory.app/storage/images/18d9b450910b3541125b196922151de3_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Places with multiple",
+        "subtitle": "perspectives",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2025-11-28 18:45:20"
+  },
+  {
+    "id": 5,
+    "title": "Not without us about us!",
+    "type": "classic",
+    "subtitle": "Remembering Nazi-Euthanasia at the Main Cemetery Burial Site",
+    "description": "Remembering Nazi Euthanasia at the Main Cemetery Burial Site",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 28,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.68486,
+            50.136026
+          ]
+        },
+        "title": "Introduction: Main entrance of Main Cemetery",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": null,
+            "body": "<p>This is the Main Ceme­tery of Frankfurt.<br> We are at the main entrance to the ceme­tery.<br> At this ceme­tery there is a memorial.<br> The memorial is for remembering victims of Natio­nal Socialism.<br> It remembers espe­cially people with disa­bilities.<br> We will show you the way to the memorial.<br> There you will rece­ive further informa­tion from us.</p>\n<p>Before we go to the memorial, we want to explain what Nazi ‘eutha­na­sia’ murders were.<br> The Nazis kil­led a lot of people.<br> The Nazis also kil­led people with disa­bilities.<br> The Nazis also kil­led people with men­tal ill­nes­ses.</p>\n<p>The murder of these people has a difficult name.<br> Today we call it Nazi ‘eutha­na­sia’ cri­mes.<br> Ever­yone should know:<br> They were murders.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Selbstvertreterrat Lebenshilfe Frankfurt am Main e. V.",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 2,
+            "url": "https://api.frankfurthistory.app/storage/audio/i0BmolmoOEAHB2rpOyBYcfQ6Q.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Einleitung Portal Hauptfriedhof",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Selbstvertreterrat Lebenshilfe Frankfurt am Main e.V.",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [
+              {
+                "id": 1,
+                "title": "Places with multiple",
+                "subtitle": "perspectives",
+                "colour": "colored",
+                "icon": null
+              }
+            ],
+            "excludeFromRegister": true,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2022-11-02 13:20:51"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 21628,
+            "pos": 1,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "Portal_Hauptfriedhof.jpg",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1200,
+                    "url": "https://api.frankfurthistory.app/storage/images/Portal_Hau_86399e56882f3512bd63903b24d95f56_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 600,
+                    "url": "https://api.frankfurthistory.app/storage/images/Portal_Hau_86399e56882f3512bd63903b24d95f56_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Portal Hauptfriedhof</p>",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": "Lebenshilfe Frankfurt am Main e.V.",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2023-08-03 06:42:53"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Places of debate",
+            "subtitle": "& remembrance",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [],
+    "thumbnail": {
+      "type": null,
+      "originalName": "Thema 1_Gr+ñberfeld.JPG",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 4032,
+          "height": 3024,
+          "url": "https://api.frankfurthistory.app/storage/images/3a1918c033df619ccf3d1c37629e2239_original.jpg"
+        },
+        {
+          "type": "large",
+          "width": 3200,
+          "height": 2400,
+          "url": "https://api.frankfurthistory.app/storage/images/3a1918c033df619ccf3d1c37629e2239_large.jpg"
+        },
+        {
+          "type": "medium",
+          "width": 1600,
+          "height": 1200,
+          "url": "https://api.frankfurthistory.app/storage/images/3a1918c033df619ccf3d1c37629e2239_medium.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 600,
+          "url": "https://api.frankfurthistory.app/storage/images/3a1918c033df619ccf3d1c37629e2239_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Places with multiple",
+        "subtitle": "perspectives",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 15,
+    "hasToken": false,
+    "updatedAt": "2023-08-03 06:49:22"
+  },
+  {
+    "id": 6,
+    "title": "Spurensuche mit dem Stift",
+    "type": "classic",
+    "subtitle": "Ein Zeichen-Rundgang mit Künstlerin Katharina Müller",
+    "description": "Ein Zeichen-Rundgang mit Künstlerin Katharina Müller",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 64,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.676791184023884,
+            50.102257861764755
+          ]
+        },
+        "title": "Willkommen",
+        "type": "start",
+        "splitPosition": "none",
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 2,
+            "template": null,
+            "body": "<p>Herzlich Will­kommen zur&nbsp;zeich­neri­schen Spuren­su­che.<br>Mach dich mit mir auf den Weg zu zwei Orten des Erinnerns. Ich möchte diese gemein­sam mit dir auf eine neue Art&nbsp;­wahr­neh­men, durch das Zeich­nen.<br>Pack Stifte und Papier ein, dann kann es losge­hen.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Katharina Müller",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [
+          {
+            "pos": 1,
+            "url": "https://www.youtube.com/watch?v=O3yUvnnpngU",
+            "vimeoId": "",
+            "thumbnail": null,
+            "metadata": {
+              "title": "A drawing is created",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\VideoContent",
+              "expires": null
+            },
+            "filters": [
+              {
+                "id": 6,
+                "title": "Places of debate",
+                "subtitle": "& remembrance",
+                "colour": "blue",
+                "icon": null
+              }
+            ],
+            "excludeFromRegister": false,
+            "updatedAt": "2022-11-10 08:22:19"
+          }
+        ],
+        "galleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Places of debate",
+            "subtitle": "& remembrance",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.676791184023884,
+            50.102257861764755
+          ]
+        },
+        "title": "Einleitung Dreidel",
+        "type": "start",
+        "splitPosition": "none",
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 2,
+            "template": null,
+            "body": "<p>Wow, ganz schön laut hier. Ich stehe an der Ampel an der Schil­ler­schule, die Straßen­bahn bimmelt, Autos hupen, eine Kranken­wa­gensirene rauscht vor­bei…</p>\n<p>Auf der ande­ren Straßen­seite an der Kreuzung Hans-Thoma-Straße Ecke Gar­ten­straße befindet sich der noch rela­tiv neue, 2017 ein­geweihte „Platz der ver­ge­s­se­nen Kinder“.</p>\n<p>Zwi­schen zwei Bäumen steht die Bron­ze­skulp­tur von Filippa Petter­son „der Drei­del“. Er erinnert an ein jüdi­sches Kinder­heim und an die Kinder, die wäh­rend des Natio­nal­so­zialismus hier leben muss­ten. Und auch an die Men­schen, die sich um sie gekümmert haben. Das und alle Informa­tio­nen erfahre ich über eine Info­tafel. Noch wei­tere Hin­ter­gründe kön­nen dort über QR-Codes abge­ru­fen wer­den.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Katharina Müller",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/QnknXi2Wb0gkc3G6qgBTEVb7y.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Einleitung Dreidel",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2022-11-08 09:01:30"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Places of debate",
+            "subtitle": "& remembrance",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "5148087fb580e10ff2b0d253a90cfc4c_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/c1321ac5bc212d2600637ec7334f2474_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/c1321ac5bc212d2600637ec7334f2474_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Places with multiple",
+        "subtitle": "perspectives",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2022-11-15 07:50:21"
+  },
+  {
+    "id": 20,
+    "title": "Was hat der Nationalsozialismus mit mir zu tun?",
+    "type": "classic",
+    "subtitle": "Ein Rundgang für Jugendliche und Familien",
+    "description": "Ein Rundgang für Jugendliche und Familien",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 119,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.682527549681174,
+            50.10961769489321
+          ]
+        },
+        "title": "Einleitung",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 1,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p>Wie konnte es zum Natio­nal­so­zialismus und den Ver­bre­chen kommen, die wäh­rend dieser Zeit began­gen wur­den? Diese Frage beschäf­tigt heute viele Men­schen. Dazu gehören zum Bei­spiel Geschichtsfor­scher*innen, aber auch Men­schen, die sich generell für Geschichte inter­es­sie­ren. Viel­leicht, weil in ihrer Fami­lie Men­schen waren, die in der Zeit gelebt haben oder sogar ver­folgt wur­den. Besonders viele Men­schen beschäf­tigen sich mit der NS-Zeit, weil sie nicht möch­ten, dass sol­che Ver­bre­chen wieder gesche­hen oder weil sie Unge­rech­tigkeit nicht hin­neh­men möch­ten und gegen Benach­tei­ligung kämp­fen. Daher finden viele Frankfur­ter*innen es auch sehr wich­tig, sich mit der Geschichte der eige­nen Stadt aus­ein­anderzu­set­zen.</p>\n<p>Das wol­len wir gemein­sam tun: Wir möch­ten jetzt gerne an drei Orten in der Frankfur­ter Alt­stadt einen Über­blick geben, was der Natio­nal­so­zialismus für Frankfurt bedeu­tet hat.</p>\n<p>Such dir gerne einen Erwachse­nen, den du kennst und dem du ver­traust, dann könnt ihr euch gemein­sam auf Spuren­su­che bege­ben und euch aus­tauschen. Gerne kannst du noch Freund*innen und Mit­schüler*innen ein­laden, mit zu kommen.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 2,
+            "url": "https://api.frankfurthistory.app/storage/audio/gExkzC2IOnv5CdDwUR1P3k9PQ.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Einleitung",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2023-04-17 08:26:16"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 20434,
+            "pos": 1,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "KaMue Museum.JPG",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1434,
+                    "height": 1007,
+                    "url": "https://api.frankfurthistory.app/storage/images/KaMue%20Muse_7aafe9198b7ae98393c100c48fcf0154_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 562,
+                    "url": "https://api.frankfurthistory.app/storage/images/KaMue%20Muse_7aafe9198b7ae98393c100c48fcf0154_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": "© Katharina Müller, VG Bild-Kunst, Bonn 2022",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2023-04-13 11:10:23"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 1,
+            "title": "Places with multiple",
+            "subtitle": "perspectives",
+            "colour": "colored",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "7ec70cc1b75c32241d28fa8cb696d6e8_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1434,
+          "height": 807,
+          "url": "https://api.frankfurthistory.app/storage/images/ae334ba567c4817f97f039afb0a9fe69_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/ae334ba567c4817f97f039afb0a9fe69_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 1500,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Places with multiple",
+        "subtitle": "perspectives",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2025-01-22 12:35:43"
+  },
+  {
+    "id": 66,
+    "title": "Journey to the past: Jewish life in Westend 100 years ago",
+    "type": "classic",
+    "subtitle": "A project of the Protestant Reformed Church",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 503,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.668118,
+            50.118273
+          ]
+        },
+        "title": "Einführung",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 2,
+            "template": "plain",
+            "body": "<p>Welcome to our tour through a spe­cial period of Jewish life here in the Wes­tend. At various sta­ti­ons you will see what Jewish life used to be like here. Many things have been forgot­ten by many people.This includes the syn­agogue that once stood here at Unter­lindau 23. The con­fes­sio­nals of the Pro­tes­tant Reformed congrega­tion have spent a long time recon­structing the syn­agogue. We now want to start the tour with them.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 22892,
+            "pos": 1,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "Collage.png",
+                "date": null,
+                "dateString": "2024",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1280,
+                    "url": "https://api.frankfurthistory.app/storage/images/Collage_pn_a78f282fd97c8487afed0d5fc6225cf9_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 640,
+                    "url": "https://api.frankfurthistory.app/storage/images/Collage_pn_a78f282fd97c8487afed0d5fc6225cf9_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Picture collage of the synagogue project</p>",
+                  "accessibleDescription": "",
+                  "author": "Angelina Fiehl",
+                  "copyright": "Evangelisch-reformierte Gemeinde",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2024-11-06 11:31:52"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Places of debate",
+            "subtitle": "& remembrance",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "5e57b140eda479f888c00201588e9487_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1147,
+          "height": 645,
+          "url": "https://api.frankfurthistory.app/storage/images/92071e5f9d43b7f95d27f6eed2d6015e_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/92071e5f9d43b7f95d27f6eed2d6015e_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 6,
+        "title": "Places of debate",
+        "subtitle": "& remembrance",
+        "colour": "blue",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "updatedAt": "2026-04-09 15:17:56"
+  },
+  {
+    "id": 72,
+    "title": " “War Graves” – The Graves of Victims of War and Tyranny",
+    "type": "classic",
+    "subtitle": " Tour on Frankfurt’s Main Cemetery",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 625,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.684753,
+            50.13598
+          ]
+        },
+        "title": "“War Graves” on the Main Cemetery",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p><strong>“War Graves” on the Main Ceme­tery</strong></p>\n<p>Hallo – and a very warm welcome to our tour on Frankfurt’s Main Ceme­tery. With over 60,000 graves, this is the city’s lar­gest ceme­tery. Opened in 1828, it now covers 70 hecta­res – the equivalent of around 105 soc­cer pit­ches.<br /><br /> In the Main Ceme­tery’s eas­tern sec­tion, there are large burial grounds with grave markers in a unified design. Close to 6,700 people are buried here in the “War Graves” sec­tion. The dead are men, women, and child­ren from Germany and other coun­tries who lost their lives in the World Wars of the twenti­eth cen­tury or were victims of the reign of violence under the Nazi regime. <br /><br />We – the Hesse State Asso­cia­tion in the German War Graves Commis­sion – have rese­ar­ched the his­tory of the graves in these sec­tions of the burial grounds. In this pro­cess, we took the fate of 32 indi­vidu­als buried here as exem­plary – and now on this tour we invite you to visit the graves of some of these dead and learn more about our rese­arch findings. <br /><br />The tour takes approximately 90 min­u­tes in total. The direc­tions in the app are designed to help you move inde­pendently from one stop to the next. You can inter­rupt your tour at any time and conti­nue later at the same or a different audio point.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 2,
+            "url": "https://api.frankfurthistory.app/storage/audio/pqn8wu3MBw2ZWHgoFo5J30fNO.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Start",
+              "description": " ",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-11-01 18:21:16"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 23332,
+            "pos": 1,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "B-2.JPG",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 899,
+                    "url": "https://api.frankfurthistory.app/storage/images/B-2_JPG_0f5c08aed45ca7dbf854e43e1bbcaaa4_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 450,
+                    "url": "https://api.frankfurthistory.app/storage/images/B-2_JPG_0f5c08aed45ca7dbf854e43e1bbcaaa4_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>“War Graves” on the Main Cemetery</p>",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": "Volksbund Hessen",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-11-01 18:21:40"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Places of debate",
+            "subtitle": "& remembrance",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "0600f00c38ca1cb445be37b861d7129b_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/f1f90e5e462bbe9e5feec2596a71187b_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/f1f90e5e462bbe9e5feec2596a71187b_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 5400,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Places with multiple",
+        "subtitle": "perspectives",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 20,
+    "hasToken": false,
+    "updatedAt": "2026-03-24 15:42:23"
+  },
+  {
+    "id": 74,
+    "title": "Frankfurt und der Nationalsozialismus",
+    "type": "classic",
+    "subtitle": "Spaziergang in Leichter Sprache",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 748,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.68246,
+            50.109608
+          ]
+        },
+        "title": "Erklärung",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 1,
+            "template": "plain",
+            "body": "<p>Hier findest du  Erklärun­gen für:</p>\n<p>- wie funk­tio­niert der Spaziergang?<br />- wie kann ich den Spaziergang anhören?</p>\n<p> </p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 2,
+            "template": "plain",
+            "body": "<p><strong>Anhören und Anhal­ten</strong></p>\n<p>Kli­cke auf die­ses Symbol, um dir den Spaziergang anzuhören oder ihn anzuhal­ten.</p>\n<p> </p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 4,
+            "template": "plain",
+            "body": "<p> </p>\n<p><strong>Zeitleiste</strong></p>\n<p>Hier siehst du, wie lange gespro­chen wird.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 6,
+            "template": "plain",
+            "body": "<p><strong>Vor und Zurück</strong></p>\n<p>Mit die­sen Symbolen kannst du zum nächs­ten Ort wechseln.<br />Du kannst auch einen Ort zurück gehen.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 8,
+            "template": "plain",
+            "body": "<p> </p>\n<p><strong>Mein Stand­ort</strong></p>\n<p>Kli­cke auf die­ses Symbol, um dei­nen eige­nen Stand­ort auf der Karte zu sehen. </p>\n<p>Dafür muss das GPS auf deinem Gerät an sein.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 23538,
+            "pos": 3,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "without_Screenshot_20251127_192546_Frankfurt History beta.jpg",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 385,
+                    "url": "https://api.frankfurthistory.app/storage/images/without_Sc_9c48a551d2cfb85c84824b9986d96587_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 193,
+                    "url": "https://api.frankfurthistory.app/storage/images/without_Sc_9c48a551d2cfb85c84824b9986d96587_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": null,
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-11-27 18:36:00"
+          },
+          {
+            "id": 23539,
+            "pos": 5,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "Screenshot 2025-11-27 195226.jpg",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 675,
+                    "height": 491,
+                    "url": "https://api.frankfurthistory.app/storage/images/Screenshot_ab3f50c6e46b78b3d11c54c0a8edb558_original.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": null,
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-11-27 18:58:05"
+          },
+          {
+            "id": 23540,
+            "pos": 7,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "without_Screenshot_20251127_192849_Frankfurt History beta.jpg",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 343,
+                    "url": "https://api.frankfurthistory.app/storage/images/without_Sc_070500616c2bbfbc49dfb646ef38e249_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 172,
+                    "url": "https://api.frankfurthistory.app/storage/images/without_Sc_070500616c2bbfbc49dfb646ef38e249_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": null,
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-11-27 18:36:27"
+          },
+          {
+            "id": 23541,
+            "pos": 9,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "Playfinal.jpg",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1068,
+                    "height": 342,
+                    "url": "https://api.frankfurthistory.app/storage/images/Playfinal__f57b11d1d410bb93c1a996773a4ad168_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 256,
+                    "url": "https://api.frankfurthistory.app/storage/images/Playfinal__f57b11d1d410bb93c1a996773a4ad168_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": null,
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-11-27 18:36:43"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 1,
+            "title": "Places with multiple",
+            "subtitle": "perspectives",
+            "colour": "colored",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "902dc0ca9e35f4d01e03abdcfd7ea61f_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 608,
+          "height": 342,
+          "url": "https://api.frankfurthistory.app/storage/images/c45bb115957e7fddc6a8be01727a6fd2_original.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 7200,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Places with multiple",
+        "subtitle": "perspectives",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2026-04-07 11:28:02"
+  },
+  {
+    "id": 76,
+    "title": "DP-Camp Zeilsheim",
+    "type": "classic",
+    "subtitle": "The Displaced Persons Camp for Holocaust Survivors",
+    "description": "A Tour of Frankfurt’s Zeilsheim District",
+    "prologue": " ",
+    "steps": [
+      {
+        "id": 726,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.5002,
+            50.09784
+          ]
+        },
+        "title": "Welcome!",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 2,
+            "template": "plain",
+            "body": "<p><strong>Welcome!</strong></p>\n<p>Hello and welcome to the digi­tal guided tour on the his­tory of the Zeils­heim DP Camp. The tour begins at the Saalbau Stadt­halle Zeils­heim on the cor­ner of Bech­ten­wald­strasse and Hahnberg­weg.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/TRwSEQpXFOzmMV1EwklKdtVTL.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Start",
+              "description": " ",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-11-09 17:59:02"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 1,
+            "title": "Places with multiple",
+            "subtitle": "perspectives",
+            "colour": "colored",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "f8fb40adc58cd9c23499648ccfa13fc5_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1024,
+          "height": 1024,
+          "url": "https://api.frankfurthistory.app/storage/images/79e00c475649b80be00948816fee2825_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 800,
+          "url": "https://api.frankfurthistory.app/storage/images/79e00c475649b80be00948816fee2825_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Places with multiple",
+        "subtitle": "perspectives",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2025-12-17 16:32:17"
+  },
+  {
+    "id": 77,
+    "title": "Dancing out of the line",
+    "type": "classic",
+    "subtitle": "A tour around the Ring of Statues",
+    "description": "Beauty ideals in the Nazi era and today",
+    "prologue": " ",
+    "steps": [
+      {
+        "id": 727,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.670327174245436,
+            50.11787560967761
+          ]
+        },
+        "title": "Introduction",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 1,
+            "template": "plain",
+            "body": "<p>Welcome to the tour “Dancing Out of line” at the sculp­ture group Ring of Sta­tues in Rothschild Park.</p>\n<p>This inter­ac­tive audio walk invi­tes you to discover tra­ces of the Nazi era in public spaces and cri­tically examine how ideals of beauty, images of power, and social norms conti­nue to have an impact today.</p>\n<p>The focus is on the group of figu­res “Ring of Sta­tues” by sculp­tor Georg Kolbe, which was created during the Natio­nal Socialist era. Based on these sculp­tu­res, the tour opens up new per­spec­tives on his­tory, body images, and the culture of remem­brance. Through sound, move­ment, and reflec­tive ques­ti­ons, issues of beauty, iden­tity, and responsi­bility come to life and can be expe­ri­en­ced per­so­nally.</p>\n<p>The star­ting point for this walk is the neo-Got­hic tower in Rothschild Park. Stand in front of the tower so that the high-rise building with the red UBS logo is visi­ble behind it.</p>\n<p>Put on your headpho­nes, choose someone to count down from three so that you can all click on to the next sta­tion at the same time – and off you go: <strong>Three, two, one... go!</strong></p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 6,
+            "title": "Places of debate",
+            "subtitle": "& remembrance",
+            "colour": "blue",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "6512e3b29890f75ebc035a5276163c0f_original.png",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 997,
+          "height": 997,
+          "url": "https://api.frankfurthistory.app/storage/images/03eaa5c993f033d18345ef621fdeb1f6_original.png"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 800,
+          "url": "https://api.frankfurthistory.app/storage/images/03eaa5c993f033d18345ef621fdeb1f6_small.png"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 1800,
+    "filters": [
+      {
+        "id": 6,
+        "title": "Places of debate",
+        "subtitle": "& remembrance",
+        "colour": "blue",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2025-12-17 08:19:45"
+  },
+  {
+    "id": 78,
+    "title": "Forced Labor in Gallus and the Katzbach Concentration Camp",
+    "type": "classic",
+    "subtitle": "A tour of Frankfurt's Gallus district",
+    "description": "A tour of Frankfurt's Gallus district",
+    "prologue": " ",
+    "steps": [
+      {
+        "id": 749,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.644619,
+            50.103159
+          ]
+        },
+        "title": "Welcome!",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p>Hello a warm welcome to our audio tour on forced labor and the Katzbach sub­camp, a con­cen­t­ra­tion camp in Frankfurt’s Gallus district.</p>\n<p>On this tour, you’ll hear about Nazi cri­mes that were not com­mitted in secret, but amidst the city’s daily life. These cri­mes included the forced labor of civi­lians and pri­so­ners-of-war in this district’s factories and compa­nies, the expro­pria­tion of Jewish busi­nes­ses, as well as the con­cen­t­ra­tion camp set up in 1944 here in the Adler­werke – the Adler Works – a large armaments pro­du­cer.</p>\n<p>The nine stops on this tour take you from the Gallus­warte tower to the Adler­werke His­to­rical Site, a commemo­ra­tive and educa­tio­nal cen­ter. If you want to find out more about the topics on the tour and you’re here during the cen­ter’s opening hours, it’s well worth a visit after our tour.</p>\n<p>___</p>\n<p>The Gallus district lies to the west of Frankfurt’s inner city. It deve­l­o­ped in the late 19th cen­tury as the result of two major con­struc­tion pro­je­cts – Frankfurt Main Sta­tion to the south and the freight sta­tion to the nor­theast. When factories were built on the farm­land between these two sta­ti­ons, a new well-con­nected urban district was created – an indus­trial and workers’ quar­ter.</p>\n<p>With its shops, a medi­cal practice and a pharmacy, the square around the Gallus­warte tower became the district’s econo­mic cen­ter. Hou­sing esta­tes, such as the Hel­ler­hof­sied­lung, were con­structed further to the west.</p>\n<p>Since the district became renow­ned for its politically active workforce, it was also dub­bed the “red Gallus.” Many here were orga­nized in uni­ons and life was arranged with the help of labor move­ment insti­tu­ti­ons, from child­care to ven­ues for sports and leisure activities for young people, and a workers’ choir.</p>\n<p>In 1932, alt­hough over half the Gallus residents voted for the Social Democ­rats and left-wing par­ties, there was also strong sup­port for the Nazi Party. This polarized district became the site of street fights. From 1933, when the Nazi Party came to power, workers attempt­ing to resist were per­secu­ted, arrested and inter­ned.</p>\n<p>The Gallus city­scape was domi­nated by large factories. These included slipper manu­factu­rer J. &amp; C.A. Schnei­der, nick­named “Schlappeschnei­der,” a major spon­sor of the Ein­tracht Frankfurt soc­cer club. Other large compa­nies here were Alfred Teves, a bra­king sys­tem manu­factu­rer, and Max Braun, known today for razors and watch design.</p>\n<p>Many busi­nes­ses in Gallus swit­ched to pro­du­cing armaments for the Nazi regime’s war of conquest; for instance, a radio manu­factu­rer began pro­du­cing radio equipment for the military. The war ensured these compa­nies had well-fil­led order books. And some­thing else changed as well: Across the ent­ire city, camps were set up for forced labo­rers from the occu­p­ied territories.</p>\n<p>One of the lar­gest compa­nies in Gallus was the Adler­werke, an engi­nee­ring works pro­du­cing machi­nes and vehi­cles. In the Second World War, it too pro­du­ced armaments. The Adler­werke used different types of forced labor. It not only used forced labo­rers for years from the occu­p­ied territories in Europe, but also had a con­cen­t­ra­tion camp set up on the works site in sum­mer 1944 – the Katzbach sub­camp, part of the Natz­weiler-Strut­hof con­cen­t­ra­tion camp complex.</p>\n<p>Our tour focu­ses spe­cifically on the Adler­werke engi­nee­ring works. The first stop takes us to the for­mer factory buildings.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Luise Besier",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/vSDnGds5Ayx4HDdkKB56c9yOn.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Welcome!",
+              "description": " ",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-11-28 12:39:32"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 23542,
+            "pos": 2,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "Station 1_Gallus Topografische Karte 1904_Hessisches Institut für Landesgeschichte(HIL).png",
+                "date": null,
+                "dateString": "1904",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 990,
+                    "height": 567,
+                    "url": "https://api.frankfurthistory.app/storage/images/Station%201__44a21841f8b08449dfa735a665cde54e_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 458,
+                    "url": "https://api.frankfurthistory.app/storage/images/Station%201__44a21841f8b08449dfa735a665cde54e_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Historical topographical map of Gallus from 1904: The Gallus district is formed in the shape of a triangle between the tracks of the main passenger station (right) and those of the main freight station (top), which no longer exists today. Hessisches Institut für Landesgeschichte.</p>",
+                  "accessibleDescription": "",
+                  "author": "Königl. Preuss. Landesaufnahme",
+                  "copyright": "Georeferenzierung und Bereitstellung: Hessisches Institut für Landesgeschichte (HIL)",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              },
+              {
+                "type": null,
+                "originalName": "Station 1_Bild 2_isg_ffm_s7a_nr_1998-12156_0001.jpg",
+                "date": null,
+                "dateString": "unknown",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1035,
+                    "height": 1600,
+                    "url": "https://api.frankfurthistory.app/storage/images/Station%201__c06ebfa35bd37d04ee0f82640d14117e_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 518,
+                    "height": 800,
+                    "url": "https://api.frankfurthistory.app/storage/images/Station%201__c06ebfa35bd37d04ee0f82640d14117e_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>The consumer cooperative at Lahnstraße 5 was a place where workers in the Gallus district could organize themselves: members paid less for individual purchases, which helped to reduce costs. Institut für Stadtgeschichte, S7A 1998-12156.</p>",
+                  "accessibleDescription": "",
+                  "author": "unbekannt",
+                  "copyright": "Institut für Stadtgeschichte",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-11-28 12:34:39"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 1,
+            "title": "Places with multiple",
+            "subtitle": "perspectives",
+            "colour": "colored",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "680f0bf09fca1f54bd7691f987a0b7f3_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 1600,
+          "url": "https://api.frankfurthistory.app/storage/images/7c47b464e9109eceb93000142376df45_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 800,
+          "url": "https://api.frankfurthistory.app/storage/images/7c47b464e9109eceb93000142376df45_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 36,
+        "title": "PubPlaces of",
+        "subtitle": "forced labours",
+        "colour": "darkgray",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2026-04-16 13:19:36"
+  },
+  {
+    "id": 79,
+    "title": "Frankfurt und der Nationalsozialismus",
+    "type": "classic",
+    "subtitle": "Überblicksrundgang in Deutscher Gebärdensprache",
+    "description": "Überblicksrundgang in Deutscher Gebärdensprache",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 760,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.68216108568808,
+            50.109491975681976
+          ]
+        },
+        "title": "Willkommen!",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 2,
+            "template": "plain",
+            "body": "<p><strong>Herzlich Will­kommen zur Tour „Frankfurt und der Natio­nal­so­zialismus“</strong></p>\n<p>Der Rundgang wird ca. 60 Min­u­ten dau­ern. Sie kön­nen sich von Ort zu Ort navigie­ren. An jeder Sta­tion finden Sie außer­dem Ansich­ten in der Bildergale­rie. Der Rundgang führt Sie durch die Alt­stadt bis zum Bör­ne­platz, zu acht ver­schiede­nen Orten, an denen Sie erfah­ren, wie die Frankfur­ter*innen das natio­nal­so­zialis­ti­sche Welt­bild annah­men und wel­che Folgen das für diejenigen hatte, die nicht in das NS-Welt­bild pass­ten.</p>\n<p>Sie wer­den über die Rolle der Stadt­ver­wal­tung im Natio­nal­so­zialismus informiert und ler­nen auch die Per­spek­tiven von Ver­folg­ten und Wider­ständigen ken­nen. Ein wei­te­res Thema wird die Geschichte der Auf­arbei­tung von NS-Unrecht sein und die Frage, wie wir uns heute damit aus­ein­ander­set­zen kön­nen.</p>\n<p>Auch das His­tori­sche Museum Frankfurt befasst sich kri­tisch mit der eige­nen Geschichte, denn es hat auch wäh­rend des Natio­nal­so­zialismus von der Ver­folgung von Jüdin­nen und Juden pro­fi­tiert. Es hat seine Samm­lung um Stü­cke berei­chert, die sich zuvor in Frankfur­ter Syn­agogen oder dem Museum für Jüdi­sche Alter­tü­mer befanden.<br />Die Objekte wur­den unter dem Vor­wand der „Ret­tung vor Zer­störung“ in die Muse­ums­samm­lung auf­genommen.</p>\n<p>Heute forscht in vie­len Museen die „Pro­ve­ni­en­zfor­schung“ dazu, die Geschichte der Samm­lungs­objekte zu erkunden und zu ermit­teln, ob sich unrechtmäßig erworbene Gegen­stände darin befinden. Das His­tori­sche Museum hat die meis­ten Objekte aus der räuberi­schen „Ret­tungs­ak­tion“ bereits Ende der 1940er Jahre an die Orga­ni­sa­tion „Jewish Cultu­ral Recon­struc­tion“ resti­tu­iert - aber nicht voll­ständig. Denn als das Museum 2010 mit der sys­tema­ti­schen Pro­ve­ni­en­zfor­schung begann, tauchte wei­te­res Raubgut auf, das 2018 an das Jüdi­sche Museum und die Jüdi­sche Gemeinde über­ge­ben wurde.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [
+          {
+            "pos": 1,
+            "url": "https://www.youtube.com/watch?v=AFDbpqfpeEw",
+            "vimeoId": "",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Willkommen!",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\VideoContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "updatedAt": "2025-12-01 14:30:07"
+          }
+        ],
+        "galleryContents": [
+          {
+            "id": 23551,
+            "pos": 3,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "KaMue Museum.JPG",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1434,
+                    "height": 1007,
+                    "url": "https://api.frankfurthistory.app/storage/images/KaMue%20Muse_7be72c7b8e93cdf417775155a944dac1_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 562,
+                    "url": "https://api.frankfurthistory.app/storage/images/KaMue%20Muse_7be72c7b8e93cdf417775155a944dac1_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "",
+                  "accessibleDescription": "",
+                  "author": null,
+                  "copyright": "© Katharina Müller, VG Bild-Kunst, Bonn 2022",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-12-01 14:31:38"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 1,
+            "title": "Places with multiple",
+            "subtitle": "perspectives",
+            "colour": "colored",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "1bec2d0b0d8ed5b9200fe81ddfa384bd_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/eacd9f5d368cd5e7e22cbdaf1b6d317c_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/eacd9f5d368cd5e7e22cbdaf1b6d317c_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Places with multiple",
+        "subtitle": "perspectives",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2026-03-24 15:32:18"
+  },
+  {
+    "id": 81,
+    "title": "Griesheim during National Socialism",
+    "type": "classic",
+    "subtitle": "A tour of Frankfurt-Griesheim",
+    "description": "A tour of Frankfurt-Griesheim",
+    "prologue": " ",
+    "steps": [
+      {
+        "id": 786,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.606147437789279,
+            50.093900001650944
+          ]
+        },
+        "title": "Prologue",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p><strong>Welcome to a tour of Gries­heim’s his­tory in the Natio­nal Socialist period. </strong></p>\n<p>Until 1928, Gries­heim was an inde­pendent rural muni­ci­pa­lity with a popula­tion of approximately 12,500. It was not incor­po­r­ated—that is, it did not become a district of Frankfurt—­until five years before the Nazi acces­sion to power. Our tour takes us through the his­to­rical town cen­ter, today cal­led Old Gries­heim. In the period we are revi­sit­ing, there were numerous shops, restau­rants, small busi­nes­ses, and a vibrant network of various clubs and asso­cia­ti­ons here. Accor­dingly, nearly ever­yone knew ever­yone else.</p>\n<p>From 1933 onward, the per­secu­tion of those who stood in the way of Natio­nal Socialism took place in plain sight here. Com­mu­nists, Social Democ­rats, and labor union members were arrested. The long­standing head of the Gries­heim library was dismissed because the Nazis considered him politically unre­liable. A number of Gries­heim’s school teachers suffered the same fate. Jews were under pressure to give up their shops and homes. Jehovah’s Wit­nes­ses and homo­sexu­als in the com­mu­nity were put in pri­sons and con­cen­t­ra­tion camps.</p>\n<p>After World War II began, Gries­heim’s men were incre­asin­gly drafted for military service. At the same time, ever more forced labo­rers from various coun­tries arrived in the town. Many were given lodgings in private homes and worked in family-ope­rated busi­nes­ses such as bake­ries and gar­de­ning shops. Thousands of others were com­pel­led to reside in fenced-in barrack camps, vacant indus­trial buildings, and shut­tered restau­rants. Forced labor—and the suffering asso­ciated with it—were present ever­ywhere in Gries­heim.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Sascha Mahl",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/p5k38jT1GOePzVPVZlMrwl5LC.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Prologue",
+              "description": " ",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-12-03 17:42:33"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 23612,
+            "pos": 2,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "0_Gemeindegarten_Verlag Emil Conrad_Griesheim.jpg",
+                "date": null,
+                "dateString": "ca. 1900",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 959,
+                    "url": "https://api.frankfurthistory.app/storage/images/0_Gemeinde_2b1084438d656065e29a8283cfb90f60_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 480,
+                    "url": "https://api.frankfurthistory.app/storage/images/0_Gemeinde_2b1084438d656065e29a8283cfb90f60_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Marienanlage Park with the mayor's house, which later became the “Brown House of Griesheim”</p>",
+                  "accessibleDescription": "",
+                  "author": "Verlag Georg Emrich, Griesheim",
+                  "copyright": "Sammlung Sascha Mahl",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-12-03 17:39:51"
+          }
+        ],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 1,
+            "title": "Places with multiple",
+            "subtitle": "perspectives",
+            "colour": "colored",
+            "icon": null
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "02f7256b49bb98b3565f6c741b42b56b_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1340,
+          "height": 1340,
+          "url": "https://api.frankfurthistory.app/storage/images/6e1480b14f1fbee1b36f684065ef5b50_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 800,
+          "url": "https://api.frankfurthistory.app/storage/images/6e1480b14f1fbee1b36f684065ef5b50_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 2700,
+    "filters": [
+      {
+        "id": 1,
+        "title": "Places with multiple",
+        "subtitle": "perspectives",
+        "colour": "colored",
+        "icon": null
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "updatedAt": "2026-04-13 14:01:46"
+  }
+]
