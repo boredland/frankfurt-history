@@ -138,19 +138,20 @@ def build_theme(theme_dir: Path, addresses: dict[str, str] | None = None) -> tup
         if thumb:
             feature["properties"]["thumb"] = thumb
 
-        # Address: prefer subtitle if it looks like a street address, else Nominatim
-        subtitle = fm.get("subtitle", "")
-        subtitle_is_addr = bool(re.search(
-            r"(?:straße|strasse|weg|platz|allee|gasse|ring|anlage|pfad|ufer|damm|chaussee)\s*\d",
-            subtitle, re.IGNORECASE,
-        ))
-        if subtitle_is_addr:
-            feature["properties"]["address"] = subtitle
-        elif addresses:
+        # Address: prefer Photon geocode (precise), fall back to subtitle
+        addr = ""
+        if addresses:
             addr_key = f"{lat:.6f},{lng:.6f}"
             addr = addresses.get(addr_key, "")
-            if addr:
-                feature["properties"]["address"] = addr
+        if not addr:
+            subtitle = fm.get("subtitle", "")
+            if re.search(
+                r"(?:straße|strasse|weg|platz|allee|gasse|ring|anlage|pfad|ufer|damm|chaussee)\s*\d",
+                subtitle, re.IGNORECASE,
+            ):
+                addr = subtitle
+        if addr:
+            feature["properties"]["address"] = addr
         if categories:
             feature["properties"]["categories"] = categories
         if filters:
