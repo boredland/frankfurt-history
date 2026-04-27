@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
-"""Reverse geocode POI coordinates to street addresses via Nominatim.
+"""Reverse geocode POI coordinates to street addresses via Photon (Komoot).
 
 Reads coordinates from data/de/<theme>/*.md frontmatter, reverse geocodes
 each unique coordinate pair, and caches results in data/addresses.json.
 Only calls the API for coordinates not already cached.
 
-Rate-limited to 1 req/sec per Nominatim usage policy.
+Uses Photon (https://photon.komoot.io) — better precision than Nominatim,
+no API key required, same OSM data source.
 The cache file is committed to git and persists across runs.
 """
 
@@ -19,8 +20,7 @@ import httpx
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 CACHE_PATH = DATA_DIR / "addresses.json"
-NOMINATIM_URL = "https://nominatim.openstreetmap.org/reverse"
-USER_AGENT = "FrankfurtHistoryApp/1.0 (https://history.jonas-strassel.de)"
+PHOTON_URL = "https://photon.komoot.io/reverse"
 
 
 def load_cache() -> dict[str, str]:
@@ -54,26 +54,20 @@ def parse_coordinates(path: Path) -> tuple[float, float] | None:
 
 def reverse_geocode(client: httpx.Client, lat: float, lng: float) -> str:
     try:
-        r = client.get(
-            NOMINATIM_URL,
-            params={
-                "lat": lat,
-                "lon": lng,
-                "format": "jsonv2",
-                "addressdetails": 1,
-                "zoom": 18,
-            },
-        )
+        r = client.get(PHOTON_URL, params={"lat": lat, "lon": lng})
         r.raise_for_status()
         data = r.json()
-        addr = data.get("address", {})
-        road = addr.get("road", addr.get("pedestrian", addr.get("footway", "")))
-        house = addr.get("house_number", "")
-        if road and house:
-            return f"{road} {house}"
-        return road or ""
+        features = data.get("features", [])
+        if not features:
+            return ""
+        props = features[0].get("properties", {})
+        street = props.get("street", "")
+        house = props.get("housenumber", "")
+        if street and house:
+            return f"{street} {house}"
+        return street or ""
     except Exception as e:
-        print(f"  Error geocoding {lat},{lng}: {e}")
+        print(f"  Error geocoding {lat},{lng}: {e}", flush=True)
         return ""
 
 
@@ -115,20 +109,17 @@ def main():
         print("Cache is up to date", flush=True)
         return
 
-    eta_min = len(uncached) * 1.1 / 60
+    eta_min = len(uncached) * 0.3 / 60
     print(f"Estimated time: {eta_min:.0f} minutes", flush=True)
 
-    client = httpx.Client(
-        headers={"User-Agent": USER_AGENT},
-        timeout=15,
-    )
+    client = httpx.Client(timeout=15)
     for i, (key, (lat, lng)) in enumerate(uncached.items()):
         addr = reverse_geocode(client, lat, lng)
         cache[key] = addr
         if (i + 1) % 25 == 0:
             print(f"  {i + 1}/{len(uncached)} geocoded", flush=True)
             save_cache(cache)
-        time.sleep(1.1)
+        time.sleep(0.25)
     client.close()
     save_cache(cache)
     print(f"Geocoded {len(uncached)} new coordinates", flush=True)
