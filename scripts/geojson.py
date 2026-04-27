@@ -225,8 +225,10 @@ def main():
     )
 
     # Post-process: mark stacked POIs (address match + 5m radius fallback)
-    tolerance_lat = 0.000045
-    tolerance_lng = 0.00007
+    # Use wider tolerance for grouping (15m) so visually overlapping markers
+    # from different themes merge into one group with a single primary
+    tolerance_lat = 0.000135
+    tolerance_lng = 0.00021
     all_features = []
     geojson_files = {}
     for gj_path in sorted(OUT_DIR.glob("*.geojson")):
