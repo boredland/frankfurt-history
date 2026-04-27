@@ -214,10 +214,9 @@ def main():
         json.dumps(themes, indent=2, ensure_ascii=False) + "\n"
     )
 
-    # Post-process: mark stacked POIs (slightly wider than runtime snap
-    # so the visual indicator catches borderline cases)
-    tolerance_lat = 0.000135
-    tolerance_lng = 0.00021
+    # Post-process: mark stacked POIs (address match + 5m radius fallback)
+    tolerance_lat = 0.000045
+    tolerance_lng = 0.00007
     all_features = []
     geojson_files = {}
     for gj_path in sorted(OUT_DIR.glob("*.geojson")):

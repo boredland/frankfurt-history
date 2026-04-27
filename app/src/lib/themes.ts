@@ -26,8 +26,8 @@ export const THEME_SLUGS = [
 ] as const;
 
 export const SNAP_TOLERANCE = {
-  lat: 0.00009,
-  lng: 0.00014,
+  lat: 0.000045,
+  lng: 0.00007,
 } as const;
 
 export const THEME_COLORS: Record<string, string> = {
