@@ -137,28 +137,33 @@ def main():
 
     uncached = {k: v for k, v in unique_coords.items() if k not in cache}
 
+    BATCH_SIZE = 100
+
     print(f"Unique coordinates: {len(unique_coords)}", flush=True)
     print(f"Already cached: {len(unique_coords) - len(uncached)}", flush=True)
-    print(f"Need to geocode: {len(uncached)}", flush=True)
+    print(f"Need to geocode: {len(uncached)} (processing max {BATCH_SIZE} per run)", flush=True)
 
     if not uncached:
         print("Cache is up to date", flush=True)
         return
 
-    eta_min = len(uncached) * 1.5 / 60
-    print(f"Estimated time: {eta_min:.0f} minutes", flush=True)
+    batch = dict(list(uncached.items())[:BATCH_SIZE])
+    print(f"Geocoding batch of {len(batch)}...", flush=True)
 
     client = httpx.Client(timeout=15)
-    for i, (key, (lat, lng, subtitle)) in enumerate(uncached.items()):
+    success = 0
+    for i, (key, (lat, lng, subtitle)) in enumerate(batch.items()):
         addr = reverse_geocode(client, lat, lng, subtitle)
         cache[key] = addr
-        if (i + 1) % 25 == 0:
-            print(f"  {i + 1}/{len(uncached)} geocoded", flush=True)
-            save_cache(cache)
-        time.sleep(1.5)
+        if addr:
+            success += 1
+        print(f"  {i + 1}/{len(batch)}: {addr or '(empty)'}", flush=True)
+        save_cache(cache)
+        time.sleep(2)
     client.close()
     save_cache(cache)
-    print(f"Geocoded {len(uncached)} new coordinates", flush=True)
+    remaining = len(uncached) - len(batch)
+    print(f"Batch done: {success}/{len(batch)} with addresses, {remaining} remaining", flush=True)
 
 
 if __name__ == "__main__":
