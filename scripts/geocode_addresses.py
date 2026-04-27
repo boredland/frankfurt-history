@@ -23,6 +23,7 @@ CACHE_PATH = DATA_DIR / "addresses.json"
 PHOTON_REVERSE = "https://photon.komoot.io/reverse"
 PHOTON_FORWARD = "https://photon.komoot.io/api"
 NOMINATIM_REVERSE = "https://nominatim.openstreetmap.org/reverse"
+NOMINATIM_SEARCH = "https://nominatim.openstreetmap.org/search"
 USER_AGENT = "FrankfurtHistoryApp/1.0 (https://history.jonas-strassel.de)"
 
 STREET_RE = re.compile(
@@ -120,24 +121,41 @@ def reverse_geocode(client: httpx.Client, lat: float, lng: float, subtitle: str)
         if addr:
             return addr
 
-        # 3. Photon forward geocode the subtitle
+        # 3. Forward geocode the subtitle
         if subtitle and STREET_RE.search(subtitle):
+            query = f"{subtitle}, Frankfurt am Main"
+
+            # 3a. Photon forward
             time.sleep(1.5)
             data2 = photon_get(
                 client,
                 PHOTON_FORWARD,
-                {
-                    "q": f"{subtitle}, Frankfurt am Main",
-                    "lat": lat,
-                    "lon": lng,
-                    "limit": 1,
-                },
+                {"q": query, "lat": lat, "lon": lng, "limit": 1},
             )
             features2 = data2.get("features", [])
             if features2:
                 addr2 = format_addr(features2[0].get("properties", {}))
                 if addr2:
                     return addr2
+
+            # 3b. Nominatim forward (fallback)
+            time.sleep(1.5)
+            try:
+                r = client.get(
+                    NOMINATIM_SEARCH,
+                    params={"q": query, "format": "jsonv2", "addressdetails": 1, "limit": 1},
+                    headers={"User-Agent": USER_AGENT},
+                )
+                if r.status_code == 200:
+                    results = r.json()
+                    if results:
+                        a = results[0].get("address", {})
+                        road = a.get("road", a.get("pedestrian", ""))
+                        house = a.get("house_number", "")
+                        if road and house:
+                            return f"{road} {house}"
+            except Exception:
+                pass
 
         return ""
     except Exception as e:
