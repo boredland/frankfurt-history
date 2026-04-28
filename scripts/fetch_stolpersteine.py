@@ -15,6 +15,7 @@ Usage:
 import html as html_mod
 import json
 import os
+import random
 import re
 import sys
 import time
@@ -349,6 +350,8 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
         s for s in items
         if not (SCRAPED_DIR / f"{s['url'].split('/')[-1]}.json").exists()
     ]
+
+    random.shuffle(to_scrape)
 
     log(f"Scraping detail pages via Wayback Machine ({PARALLEL_WORKERS} workers)…")
     log(f"  {len(items)} total, {len(items) - len(to_scrape)} cached, {len(to_scrape)} to fetch")
