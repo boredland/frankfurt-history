@@ -50,7 +50,7 @@ SCRAPED_DIR = DATA_DIR / "stolpersteine-scraped"
 DEEPL_API_KEY = os.environ.get("DEEPL_API_KEY", "")
 DEEPL_URL = "https://api-free.deepl.com/v2/translate"
 
-PARALLEL_WORKERS = 15
+PARALLEL_WORKERS = 8
 
 NS = {
     "wfs": "http://www.opengis.net/wfs",
@@ -149,18 +149,26 @@ def submit_to_wayback(urls: list[str]) -> int:
     return submitted
 
 
-def fetch_wayback(url: str) -> str | None:
+def fetch_wayback(url: str, retries: int = 3) -> str | None:
     wb_url = WAYBACK_WEB + url
-    req = urllib.request.Request(wb_url, headers={"User-Agent": UA})
-    try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            data = resp.read()
-        html = data.decode("utf-8", errors="replace")
-        if "Just a moment" in html[:1000]:
-            return None
-        return html
-    except Exception:
-        return None
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(wb_url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=45) as resp:
+                data = resp.read()
+            html = data.decode("utf-8", errors="replace")
+            if "Just a moment" in html[:1000]:
+                return None
+            if len(html) < 500:
+                return None
+            return html
+        except Exception as e:
+            if attempt < retries - 1:
+                time.sleep(2 * (attempt + 1))
+            else:
+                slug = url.split("/")[-1] if "/" in url else url[:50]
+                log(f"    Wayback fetch failed for {slug}: {e}")
+                return None
 
 
 # ---------- Content extraction ----------
