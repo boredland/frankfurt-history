@@ -1,0 +1,451 @@
+---
+id: 12399
+title: "Stolperstein — Hirschmann, Rosa"
+subtitle: "Schumannstraße 22"
+coordinates: [50.1146351, 8.6547514]
+filters:
+  - "Stolpersteine"
+---
+
+# Stolperstein — Hirschmann, Rosa
+
+*Schumannstraße 22*
+
+![Stolperstein Hirschmann, Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/schumannstrasse-22_1.jpg)
+
+Rosa Hirschmann kam in Würzburg als Tochter des Weinhändlers Bernhard Ambach und Ida (Jette) Ambach, geb. Schubart, zur Welt. Der Vater war seit 1880 in Würzburg ansässig. Sie heiratete den Kaufmann und Hanauer Fabrikanten Emil Hirschmann, der 1934 in Frankfurt starb. Sie lebte seit 1920 in Frankfurt. Ihr Grundstück Schumannstraße 22 musste sie 1938 für 72.500 Reichsmark an Franz Josef Abtmeyer vom Gut Hange bei Hannover verkaufen. Über den Erlös konnte sie nicht verfügen, er ging auf ein Sperrkonto. Nach der Vertreibung aus der Schumannstraße wohnte sie bis zuletzt in der Joseph-Haydn-Straße 55. Die zwei Brüder von Rosa Hirschmann konnten dem Holocaust entkommen. Hermann Ambach, geb. am 21. August 1880 in Würzburg, entkam nach Palästina. Theodor Ambach, geb. am 10. September 1881 in Würzburg, gelang die Flucht über Havanna in die USA.
+
+Der Stolperstein wurde initiiert von Bewohnern der Schumannstraße.
+
+Rosa Hirschmann, geb. Ambach
+
+Geburtsdatum:
+
+Deportation:
+
+Todesdatum:
+
+13.12.1883
+
+11.11.1941 Minsk
+
+01.12.1941
+
+Stolperstein Schumannstraße 22 Rosa Hirschmann
+
+teilen
+
+tweet
+
+mitteilen
+
+teilen
+
+mail
+
+Adam, Zilla Kathinka und Heribert
+
+Adler, Alfred
+
+Adler, Johanna
+
+Adler, Margarete Adelheid
+
+Alken, Else
+
+Allerhand, Rosa
+
+Altenheim der Budge-Stiftung
+
+Altschüler, Hermann, Frieda und Ernst
+
+Ascher, Ludwig
+
+Badmann, Julius, Max und Minnie
+
+Bauer, Ella
+
+Baum, Andreas, Dorothea, Siegfried F. sowie Hirsch, Johanne, Mayer, Frida, Mosesmann, Viktoria, Simon, Rosette und Strauß, Adele
+
+Baum, Julie und Norbert Nathan
+
+Beran, Lilli und Marx, Clothide
+
+Berberich, Helene Josefine
+
+Bienes, Johanna und Hermann, Alice Grosser und Edmund Mansbach
+
+Bing, Helga, Rosa und Siegfried
+
+Bing, Johanna und Hedwig Kohn
+
+Binswanger, Elisabeth, Ernst und Fritz
+
+Bloch, Alice und Louis
+
+Bloch, Arthur, Else und Peter
+
+Bloch, Sigmund und Mathilde
+
+Bodenheimer, Bertha, Gabriele und Heinrich
+
+Bohn, Helene
+
+Bolzt, Johann
+
+Breitenfeld, Richard und Olga
+
+Breslau, Martha, Alfred und Walter
+
+Busek, Alice
+
+Bütschli, Otto
+
+Butterweck, Lina Friederike Helene
+
+Cahn, Leopold
+
+Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max
+
+Cohen, Sophie
+
+Cohnstädt, Ruth
+
+Cohnstädt, Wilhelm
+
+David, Dagobert, Ernst und Klara sowie Brumlik, Therese
+
+Doernberg, Henny, Siegfried und Edith
+
+Dondorf, Clara Louise
+
+Dreher, Albert Anton, Anton Gustav und Minnie
+
+Dreifuss, Julius, Anna, Adolf und Hedwig
+
+Edelmuth, Adele
+
+Edinger, Fritz
+
+Ehrenfeld, Sophie
+
+Ehrlich, Hedwig
+
+Eisenstein, Ilse, Inge und Ruth
+
+Elkan, Benno, Hedwig und Wolf
+
+Elsass, Irma
+
+Emanuel, Carl
+
+Epstein, Fritz, Margarethe, Werner und Alfred
+
+Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig
+
+Ettling, Maria und Robert
+
+Falkenstein, Karl und Lea
+
+Feist-Belmont, Alfred
+
+Flesch, Max und Hella
+
+Floersheimer, Elli und Jakob
+
+Fröhlich, Max
+
+Fuld, Otto und Frieda
+
+Fulda, Heinrich Zacharias und Amalie
+
+Fürst, Sally, Ida und Lily
+
+Gärtner, Henriette und Ludwig und Wolff, Martha und Friedrich
+
+Goldmann, Vera und Trude
+
+Goldschmidt, Adolf (Aron), Lilly, Lotte und Hans
+
+Goldschmidt, Max und Ruth
+
+Gotthelf, Getrud und Siegmund
+
+Gottschalk, Agnes T.
+
+Gräf, Dora und Hans Berthold
+
+Gross, Paul und Elsa
+
+Grosser, Alfred, Lily, Margarete und Paul
+
+Grossmann, Laura
+
+Grünewald, Hermann, Nelly und Amalie
+
+Gumbel, Karl
+
+Haas, Benno, Johanna und Lore Amalie sowie Natt, Susanne Elise
+
+Haas, Bernhard
+
+Hamerslag, Daniel
+
+Hanauer, Wilhelm
+
+Hausmann, Hedwig Flora
+
+Hepner, Walther, Käthe und Emil
+
+Hertz, Helene und Fanny
+
+Herxheimer, Karl
+
+Hichberger Paula und Bernhard
+
+Hirsch, Julius und Blanka
+
+Hirsch, Lotty und Ludwig
+
+Hirsch, Sigmund, Betty und Gerhard sowie Oppenheimer, Elli und Kurt
+
+Hirschberg, Hugo, Fannie und Eva Margarete
+
+Hirschfeld, David, Lilly und Hildegard
+
+Hirschmann, Rosa
+
+Hoffa, Anna
+
+Hofmann, Elise
+
+Hohenemser, Emil W.
+
+Hohenemser, Moritz W.
+
+Isaac, Hermann
+
+Isenburger, Ludwig und Bella
+
+Jacobius, Hans Manfred
+
+Joseph, Hedwig, Arthur und Lucie
+
+Kahn, Johanna und Leopold
+
+Kahn, Paula
+
+Katz, Adolf, Elsa, Erich und Richard
+
+Katz, Ludwig, Hedwig Jenny und Walter Leo
+
+Kauenhagen, Frieda und Hermann
+
+Klein, Ludwig
+
+Klibansky, Joseph
+
+Knoblauch, Hedwig
+
+Koref, Recha und Leo
+
+Korndörfer, Adolf
+
+Kracauer, Hedwig und Rosette
+
+Laengsdorff, Julia Virginia und Richard
+
+Landauer, Karl, Karoline, Eva, Suse und Paul
+
+Laven, Alice
+
+Lennig, Biska
+
+Levy, Aenne
+
+Levy, Elisabeth, Grete, Robert und Rudolf
+
+Lewin, Lippmann und Selma und Emma Heppenheimer
+
+Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen
+
+Lipstein, Alfred und Hilde
+
+Lismann, Ludwig
+
+Löb, Gabriel
+
+Loewe, Otto und Mathilde
+
+Lorenz, Rosa
+
+Lotichius, Annie
+
+Maas, Adolf
+
+Maas, Alice und Gertrud Auguste
+
+Marcus, Marcus, Bertha, Ernestine, Simon und Michaelis
+
+Marx, Alfred, Irmgard und Irene
+
+Mayer, Fritz
+
+Mayer, Hermine
+
+Mentzel, Charlotte, Albert und Ruth
+
+Meyer, Isaac
+
+Michel, Hedwig
+
+Moser, Alfred und Ruth
+
+Muth, Anna und Ernst
+
+Nachmann, Alice und Frieda sowie Adler, Anna
+
+Netter, Alfred und Rosette
+
+Neuberger, Fritz, Hedwig und Johann Ludwig
+
+Neumann, Helene und Richard
+
+Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard
+
+Neustadt, Ernst und Gertrud
+
+Nussbaum, Erna, Moses und Heinz Walter
+
+Oppenheimer, David und Rosalie
+
+Oppenheimer, Elias
+
+Oppenheimer, Moritz James
+
+Oswalt, Wilhelm Ernst und Ludwig, und Irene Hilb
+
+Pfungst, Marie Eleonore
+
+Präger, Fritz und Martha sowie Levi, Amalie
+
+Rosenbaum, Alice und Paula
+
+Rosenbaum, David, Frieda und Hans
+
+Rosenberg, Bernhard und Hedwig sowie Speyer, Julius
+
+Rosenburg, Robert und Lilly Rosa
+
+Rosenbusch, Eduard und Gertrud
+
+Rosenfeld, Gottlieb
+
+Rosenthal, Henriette
+
+Rosskamm, Johanna
+
+Rothschild, Anna und Theodor, und Maria Voehl
+
+Rothschild, Otto und Johanna
+
+Salomon, Hedwig
+
+Salomon, Max, Elsbeth, Judith, Ulrich und Agnes
+
+Salomon, Meta Luise
+
+Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth
+
+Schaefer, Elisabeth
+
+Schafranek, Olga, Herbert, Heinrich und Friedrich
+
+Schättle, Marie
+
+Schatzmann, Lilly
+
+Schiel, Erna und Gerald sowie Levi, Arnold und Lina
+
+Schild, Anna
+
+Scholem, Emil und Fritz
+
+Schönhof, Berta
+
+Schurr, Paul Georg
+
+Schwarz-Neumaier, Leonore
+
+Seligmann, Else, Jakob und Sophie
+
+Sichel, Hermine und Stavenhagen, Sophie
+
+Steigerwald, Minna
+
+Steigerwald, Theodor und Hertha
+
+Steinhardt, Luise und Alfred
+
+Stern, Heinz und Jakob
+
+Stern, Ernst und Hetty
+
+Stern, Josef sowie Blaut, Moses und Ida
+
+Stern, Julius, Alice und Ruth
+
+Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp
+
+Strauss, Auguste
+
+Strauss, Isidor
+
+Strauß, Jakob und Stefanie
+
+Strauss, Siegmund und Anne
+
+Ullmann, Ferdinand
+
+Ullmann, Franz
+
+Veith, Julius und Marie Johanna
+
+Vollmer, Camille, Melanie und Anneliese
+
+von Beauvais, Johanna
+
+von Wedekind, Arnd
+
+Wagner, Betty und Albert
+
+Werner, Moritz
+
+Westenburger, Nelly
+
+Winter, Luise
+
+Wolf, Otto Isidor
+
+Wreschner, Friederike
+
+Würzburger, Gertrude, Hans und Siegfried
+
+Erl Sofie und Hans
+
+Merzbach, Rudolf, Paula, Ilse und Wilhelm
+
+Initiative Stolpersteine
+
+Stolperstein Standort
+
+Schumannstraße 22
+
+## Gallery
+
+<!-- gallery:standard -->
+![Hirschmann, Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstr_22_hirschmann_rosa.jpg)
+
+## Links
+
+- [frankfurt.de](https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-westend/familien/hirschmann-rosa)
