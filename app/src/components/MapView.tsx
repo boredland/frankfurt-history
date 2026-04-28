@@ -3,10 +3,12 @@ import maplibregl from "maplibre-gl";
 import { Protocol } from "pmtiles";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import MapGL, {
+  FullscreenControl,
   GeolocateControl,
   Layer,
   type MapLayerMouseEvent,
   type MapRef,
+  NavigationControl,
   Popup,
   Source,
   type ViewStateChangeEvent,
@@ -348,7 +350,9 @@ export function MapView({
           />
         </Source>
       )}
+      <NavigationControl position="bottom-right" showZoom={false} />
       <GeolocateControl position="bottom-right" trackUserLocation />
+      <FullscreenControl position="bottom-right" />
       {hover && !stackPopup && (
         <Popup
           longitude={hover.lng}

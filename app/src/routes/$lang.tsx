@@ -23,7 +23,6 @@ const MapView = lazy(() =>
 
 import { FilterPanel } from "~/components/FilterPanel";
 import { LandingPage } from "~/components/LandingPage";
-import { NearbyPanel } from "~/components/NearbyPanel";
 import { SearchDialog } from "~/components/SearchDialog";
 import { NavigationProvider } from "~/lib/NavigationContext";
 import type { Theme } from "~/lib/themes";
@@ -102,7 +101,6 @@ function LangLayout() {
   const activeSlug = articleMatch?.params?.slug;
 
   const [searchOpen, setSearchOpen] = useState(false);
-  const [nearbyOpen, setNearbyOpen] = useState(false);
 
   useEffect(() => {
     function onKeyDown(e: KeyboardEvent) {
@@ -174,11 +172,11 @@ function LangLayout() {
     <NavigationProvider>
       <div className="h-full flex flex-col">
         <header className="flex items-center justify-between px-4 py-2 border-b border-sepia-light bg-paper z-10">
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-2 shrink-0">
             <button
               type="button"
               onClick={handleBackToLanding}
-              className="font-serif text-lg font-bold tracking-tight text-ink hover:text-sepia transition-colors cursor-pointer"
+              className="font-serif text-lg font-bold tracking-tight text-ink hover:text-sepia transition-colors cursor-pointer whitespace-nowrap"
             >
               Frankfurt History
             </button>
@@ -225,29 +223,6 @@ function LangLayout() {
                 /K
               </kbd>
             </button>
-            {!showLanding && (
-              <button
-                type="button"
-                onClick={() => setNearbyOpen(true)}
-                className="p-1.5 text-faded hover:text-red-oxide rounded cursor-pointer transition-colors"
-                aria-label={t("nearby", lang)}
-                title={t("nearby", lang)}
-              >
-                <svg
-                  width="16"
-                  height="16"
-                  viewBox="0 0 16 16"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth="1.5"
-                  role="img"
-                  aria-label="Nearby"
-                >
-                  <path d="M8 1C5.24 1 3 3.24 3 6c0 3.75 5 9 5 9s5-5.25 5-9c0-2.76-2.24-5-5-5z" />
-                  <circle cx="8" cy="6" r="1.5" />
-                </svg>
-              </button>
-            )}
             <LanguageToggle lang={lang} />
           </div>
         </header>
@@ -314,11 +289,6 @@ function LangLayout() {
         lang={lang}
         open={searchOpen}
         onClose={() => setSearchOpen(false)}
-      />
-      <NearbyPanel
-        lang={lang}
-        open={nearbyOpen}
-        onClose={() => setNearbyOpen(false)}
       />
     </NavigationProvider>
   );
