@@ -119,18 +119,20 @@ def normalize(features: list[dict]) -> list[dict]:
 
 # ---------- Wayback Machine ----------
 
+import threading
+
 def _submit_to_wayback(url: str):
-    """Request Wayback Machine to save a new snapshot of a URL."""
-    slug = url.split("/")[-1] if "/" in url else url[:40]
-    try:
-        req = urllib.request.Request(
-            f"https://web.archive.org/save/{url}",
-            headers={"User-Agent": UA},
-        )
-        resp = urllib.request.urlopen(req, timeout=15)
-        log(f"    Wayback save requested: {slug} ({resp.status})")
-    except Exception as e:
-        log(f"    Wayback save failed: {slug} ({e})")
+    """Fire-and-forget request to Wayback Machine to save a new snapshot."""
+    def _do():
+        try:
+            req = urllib.request.Request(
+                f"https://web.archive.org/save/{url}",
+                headers={"User-Agent": UA},
+            )
+            urllib.request.urlopen(req, timeout=30)
+        except Exception:
+            pass
+    threading.Thread(target=_do, daemon=True).start()
 
 
 def resolve_wayback_url(url: str) -> str | None:
