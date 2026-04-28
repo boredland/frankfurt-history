@@ -65,9 +65,18 @@ UA = "Mozilla/5.0 (compatible; FrankfurtHistoryBot/1.0)"
 # ---------- WFS ----------
 
 def fetch_wfs() -> bytes:
-    req = urllib.request.Request(WFS_URL, headers={"Referer": REFERER})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return resp.read()
+    req = urllib.request.Request(WFS_URL, headers={
+        "Referer": REFERER,
+        "Accept-Encoding": "identity",
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            data = resp.read()
+            log(f"  WFS response: {resp.status}, {len(data)} bytes")
+            return data
+    except Exception as e:
+        log(f"  WFS fetch failed: {e}")
+        return b""
 
 
 def parse_features(xml_bytes: bytes) -> list[dict]:
