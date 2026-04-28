@@ -48,6 +48,7 @@ export const THEME_COLORS: Record<string, string> = {
   "neues-frankfurt": "#5B6B7A",
   "feministisches-frankfurt": "#8B6B7A",
   "leichte-sprache": "#7A7B5E",
+  stolpersteine: "#B8860B",
 };
 
 export function themeColor(slug: string): string {
