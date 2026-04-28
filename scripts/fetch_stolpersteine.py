@@ -153,71 +153,50 @@ def submit_to_wayback(urls: list[str]) -> int:
     return submitted
 
 
-def resolve_wayback_urls(url: str) -> list[str]:
-    """Get snapshot URLs for a page, newest first. Uses Availability API + CDX fallback."""
-    urls = []
+def resolve_wayback_url(url: str) -> str | None:
+    """Use the Availability API to get the exact snapshot URL."""
     api_url = f"{WAYBACK_AVAIL}?url={urllib.parse.quote(url, safe='')}"
     req = urllib.request.Request(api_url, headers={"User-Agent": UA})
     try:
-        with urllib.request.urlopen(req, timeout=15) as resp:
+        with urllib.request.urlopen(req, timeout=10) as resp:
             data = json.loads(resp.read())
         snap = data.get("archived_snapshots", {}).get("closest", {})
         if snap.get("available") and snap.get("status") == "200":
-            urls.append(snap["url"])
+            return snap["url"]
     except Exception:
         pass
+    return None
 
-    cdx_url = (
-        f"{WAYBACK_CDX}?url={urllib.parse.quote(url, safe='')}"
-        "&output=json&fl=timestamp,statuscode&filter=statuscode:200&limit=5"
-    )
-    req = urllib.request.Request(cdx_url, headers={"User-Agent": UA})
+
+def _fetch_html(url: str) -> str | None:
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
     try:
         with urllib.request.urlopen(req, timeout=15) as resp:
-            rows = json.loads(resp.read())
-        for row in reversed(rows[1:]):
-            ts = row[0]
-            candidate = f"https://web.archive.org/web/{ts}/{url}"
-            if candidate not in urls:
-                urls.append(candidate)
+            data = resp.read()
+        html = data.decode("utf-8", errors="replace")
+        if "Just a moment" in html[:1000] or len(html) < 500:
+            return None
+        return html
     except Exception:
-        pass
-
-    return urls
-
-
-def _fetch_html(wb_url: str, retries: int = 3) -> str | None:
-    for attempt in range(retries):
-        try:
-            req = urllib.request.Request(wb_url, headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=45) as resp:
-                data = resp.read()
-            html = data.decode("utf-8", errors="replace")
-            if "Just a moment" in html[:1000]:
-                return None
-            if len(html) < 500:
-                return None
-            return html
-        except Exception as e:
-            if attempt < retries - 1:
-                time.sleep(2 * (attempt + 1))
-            else:
-                log(f"    Wayback fetch failed: {e}")
-                return None
+        return None
 
 
 def fetch_wayback(url: str) -> str | None:
-    for wb_url in resolve_wayback_urls(url):
-        html = _fetch_html(wb_url, retries=1)
-        if html:
-            return html
-    return None
+    wb_url = resolve_wayback_url(url)
+    if not wb_url:
+        return None
+    return _fetch_html(wb_url)
+
+
+_scraperapi_exhausted: set[str] = set()
 
 
 def fetch_scraperapi(url: str) -> str | None:
     if not SCRAPERAPI_KEYS:
         return None
     for key in reversed(SCRAPERAPI_KEYS):
+        if key in _scraperapi_exhausted:
+            continue
         params = urllib.parse.urlencode({
             "api_key": key,
             "url": url,
@@ -228,17 +207,23 @@ def fetch_scraperapi(url: str) -> str | None:
             headers={"User-Agent": UA},
         )
         try:
-            with urllib.request.urlopen(req, timeout=90) as resp:
+            with urllib.request.urlopen(req, timeout=60) as resp:
                 html = resp.read().decode("utf-8", errors="replace")
             if "Just a moment" in html[:1000] or len(html) < 500:
-                continue
+                return None
             return html
         except urllib.error.HTTPError as e:
-            if e.code in (403, 500, 502, 503, 429):
-                continue
-            log(f"    ScraperAPI error (key …{key[-4:]}): {e}")
+            if e.code == 429:
+                _scraperapi_exhausted.add(key)
+                log(f"    ScraperAPI key …{key[-4:]} exhausted")
+            elif e.code in (403, 500, 502, 503):
+                return None
+            else:
+                log(f"    ScraperAPI error (key …{key[-4:]}): {e}")
+                return None
         except Exception as e:
             log(f"    ScraperAPI error (key …{key[-4:]}): {e}")
+            return None
     return None
 
 
