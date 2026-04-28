@@ -149,8 +149,9 @@ def submit_to_wayback(urls: list[str]) -> int:
     return submitted
 
 
-def resolve_wayback_url(url: str) -> str | None:
-    """Use the Availability API to get the exact snapshot URL."""
+def resolve_wayback_urls(url: str) -> list[str]:
+    """Get snapshot URLs for a page, newest first. Uses Availability API + CDX fallback."""
+    urls = []
     api_url = f"{WAYBACK_AVAIL}?url={urllib.parse.quote(url, safe='')}"
     req = urllib.request.Request(api_url, headers={"User-Agent": UA})
     try:
@@ -158,10 +159,27 @@ def resolve_wayback_url(url: str) -> str | None:
             data = json.loads(resp.read())
         snap = data.get("archived_snapshots", {}).get("closest", {})
         if snap.get("available") and snap.get("status") == "200":
-            return snap["url"]
+            urls.append(snap["url"])
     except Exception:
         pass
-    return None
+
+    cdx_url = (
+        f"{WAYBACK_CDX}?url={urllib.parse.quote(url, safe='')}"
+        "&output=json&fl=timestamp,statuscode&filter=statuscode:200&limit=5"
+    )
+    req = urllib.request.Request(cdx_url, headers={"User-Agent": UA})
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            rows = json.loads(resp.read())
+        for row in reversed(rows[1:]):
+            ts = row[0]
+            candidate = f"https://web.archive.org/web/{ts}/{url}"
+            if candidate not in urls:
+                urls.append(candidate)
+    except Exception:
+        pass
+
+    return urls
 
 
 def _fetch_html(wb_url: str, retries: int = 3) -> str | None:
@@ -185,10 +203,11 @@ def _fetch_html(wb_url: str, retries: int = 3) -> str | None:
 
 
 def fetch_wayback(url: str) -> str | None:
-    wb_url = resolve_wayback_url(url)
-    if not wb_url:
-        return None
-    return _fetch_html(wb_url)
+    for wb_url in resolve_wayback_urls(url):
+        html = _fetch_html(wb_url, retries=1)
+        if html:
+            return html
+    return None
 
 
 # ---------- Content extraction ----------
@@ -301,11 +320,15 @@ def scrape_one(item: dict) -> dict | str:
     if out_file.exists():
         return SKIP
 
-    wb_url = resolve_wayback_url(item["url"])
-    if not wb_url:
+    wb_urls = resolve_wayback_urls(item["url"])
+    if not wb_urls:
         return NOT_ARCHIVED
 
-    html = _fetch_html(wb_url)
+    html = None
+    for wb_url in wb_urls:
+        html = _fetch_html(wb_url, retries=1)
+        if html:
+            break
     if not html:
         return FETCH_FAILED
 
