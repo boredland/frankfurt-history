@@ -42,9 +42,9 @@ def parse_frontmatter(path: Path) -> dict:
             else:
                 fm[key] = []
         elif val.startswith('"') and val.endswith('"'):
-            fm[key] = val[1:-1]
+            fm[key] = val[1:-1].replace('\\"', '"')
         elif val.startswith("'") and val.endswith("'"):
-            fm[key] = val[1:-1]
+            fm[key] = val[1:-1].replace("\\'", "'")
         else:
             try:
                 fm[key] = int(val)
@@ -415,7 +415,12 @@ def main():
                     if ":" not in line:
                         continue
                     k, _, v = line.partition(":")
-                    fm[k.strip()] = v.strip().strip('"').strip("'")
+                    val = v.strip()
+                    if val.startswith('"') and val.endswith('"'):
+                        val = val[1:-1].replace('\\"', '"')
+                    elif val.startswith("'") and val.endswith("'"):
+                        val = val[1:-1].replace("\\'", "'")
+                    fm[k.strip()] = val
             (dest / json_name).write_text(
                 json.dumps({"frontmatter": fm, "body": body}, ensure_ascii=False) + "\n"
             )
