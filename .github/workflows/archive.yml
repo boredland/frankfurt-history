@@ -31,7 +31,6 @@ jobs:
       - name: Fetch Stolpersteine from frankfurt.de
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
-          SCRAPERAPI_KEYS: ${{ secrets.SCRAPERAPI_KEYS }}
         run: uv run scripts/fetch_stolpersteine.py --scrape --translate
 
       - name: Reverse geocode addresses

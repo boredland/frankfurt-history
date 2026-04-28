@@ -2,12 +2,12 @@
 """Fetch authoritative Stolpersteine data from Frankfurt's WFS + scrape detail pages.
 
 1. Fetches the full Stolperstein dataset from Frankfurt's WFS endpoint
-2. Scrapes location + biography pages (ScraperAPI → Wayback Machine fallback)
+2. Scrapes location + biography pages from the Wayback Machine
 3. Translates German biographies to English via DeepL API
 4. Writes normalized JSON + per-location scraped content
 
 Usage:
-    uv run scripts/fetch_stolpersteine.py                       # WFS + Wayback check
+    uv run scripts/fetch_stolpersteine.py                       # WFS only
     uv run scripts/fetch_stolpersteine.py --scrape              # + scrape from Wayback
     uv run scripts/fetch_stolpersteine.py --scrape --translate  # + translate via DeepL
 """
@@ -38,12 +38,7 @@ WFS_URL = (
 )
 REFERER = "https://geoportal.frankfurt.de/"
 
-WAYBACK_AVAIL = "https://archive.org/wayback/available"
-
-SCRAPERAPI_KEYS = [
-    k.strip() for k in os.environ.get("SCRAPERAPI_KEYS", "").split(",") if k.strip()
-]
-
+WAYBACK_CDX = "https://web.archive.org/cdx/search/cdx"
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 OUT_PATH = DATA_DIR / "stolpersteine-ffm.json"
@@ -52,7 +47,7 @@ SCRAPED_DIR = DATA_DIR / "stolpersteine-scraped"
 DEEPL_API_KEY = os.environ.get("DEEPL_API_KEY", "")
 DEEPL_URL = "https://api-free.deepl.com/v2/translate"
 
-PARALLEL_WORKERS = 2
+PARALLEL_WORKERS = 4
 
 NS = {
     "wfs": "http://www.opengis.net/wfs",
@@ -61,6 +56,8 @@ NS = {
 }
 
 UA = "Mozilla/5.0 (compatible; FrankfurtHistoryBot/1.0)"
+
+MIN_PAGE_SIZE = 10000
 
 
 # ---------- WFS ----------
@@ -122,17 +119,20 @@ def normalize(features: list[dict]) -> list[dict]:
 
 # ---------- Wayback Machine ----------
 
-
 def resolve_wayback_url(url: str) -> str | None:
-    """Use the Availability API to get the exact snapshot URL."""
-    api_url = f"{WAYBACK_AVAIL}?url={urllib.parse.quote(url, safe='')}"
-    req = urllib.request.Request(api_url, headers={"User-Agent": UA})
+    """Get the best snapshot URL via CDX, filtering by size to skip CF challenge pages."""
+    cdx_url = (
+        f"{WAYBACK_CDX}?url={urllib.parse.quote(url, safe='')}"
+        f"&output=json&fl=timestamp,statuscode,length&filter=statuscode:200&limit=10"
+    )
+    req = urllib.request.Request(cdx_url, headers={"User-Agent": UA})
     try:
         with urllib.request.urlopen(req, timeout=10) as resp:
-            data = json.loads(resp.read())
-        snap = data.get("archived_snapshots", {}).get("closest", {})
-        if snap.get("available") and snap.get("status") == "200":
-            return snap["url"]
+            rows = json.loads(resp.read())
+        for row in reversed(rows[1:]):
+            ts, _status, length = row
+            if int(length) >= MIN_PAGE_SIZE:
+                return f"https://web.archive.org/web/{ts}/{url}"
     except Exception:
         pass
     return None
@@ -151,61 +151,15 @@ def _fetch_html(url: str) -> str | None:
         return None
 
 
-def fetch_wayback(url: str) -> str | None:
+def fetch_page(url: str) -> tuple[str | None, str]:
+    """Fetch a page from the Wayback Machine. Returns (html, source)."""
     wb_url = resolve_wayback_url(url)
     if not wb_url:
-        return None
-    return _fetch_html(wb_url)
-
-
-_scraperapi_exhausted: set[str] = set()
-
-
-def fetch_scraperapi(url: str) -> str | None:
-    if not SCRAPERAPI_KEYS:
-        return None
-    for key in reversed(SCRAPERAPI_KEYS):
-        if key in _scraperapi_exhausted:
-            continue
-        params = urllib.parse.urlencode({
-            "api_key": key,
-            "url": url,
-            "render": "true",
-        })
-        req = urllib.request.Request(
-            f"https://api.scraperapi.com/?{params}",
-            headers={"User-Agent": UA},
-        )
-        try:
-            with urllib.request.urlopen(req, timeout=60) as resp:
-                html = resp.read().decode("utf-8", errors="replace")
-            if "Just a moment" in html[:1000] or len(html) < 500:
-                return None
-            return html
-        except urllib.error.HTTPError as e:
-            if e.code == 429:
-                _scraperapi_exhausted.add(key)
-                log(f"    ScraperAPI key …{key[-4:]} exhausted")
-            elif e.code in (403, 500, 502, 503):
-                return None
-            else:
-                log(f"    ScraperAPI error (key …{key[-4:]}): {e}")
-                return None
-        except Exception as e:
-            log(f"    ScraperAPI error (key …{key[-4:]}): {e}")
-            return None
-    return None
-
-
-def fetch_page(url: str) -> tuple[str | None, str]:
-    """Fetch a page: try ScraperAPI first, fall back to Wayback. Returns (html, source)."""
-    html = fetch_scraperapi(url)
-    if html:
-        return html, "scraperapi"
-    html = fetch_wayback(url)
+        return None, "no snapshot"
+    html = _fetch_html(wb_url)
     if html:
         return html, "wayback"
-    return None, "none"
+    return None, "fetch failed"
 
 
 # ---------- Content extraction ----------
@@ -307,9 +261,6 @@ def translate_deepl(text: str, target_lang: str = "EN") -> str | None:
 
 SKIP = "skip"
 NOT_FOUND = "not_found"
-FETCH_FAILED = "fetch_failed"
-
-
 
 
 def scrape_one(item: dict) -> dict | str:
@@ -322,7 +273,7 @@ def scrape_one(item: dict) -> dict | str:
 
     html, source = fetch_page(item["url"])
     if not html:
-        log(f"    MISS {slug} — not found via scraperapi or wayback")
+        log(f"    MISS {slug} — {source}")
         return NOT_FOUND
 
     location = extract_location_page(html)
@@ -382,18 +333,16 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
         if not (SCRAPED_DIR / f"{s['url'].split('/')[-1]}.json").exists()
     ]
 
-    log(f"Scraping detail pages (ScraperAPI → Wayback fallback, {PARALLEL_WORKERS} workers)…")
+    log(f"Scraping detail pages via Wayback Machine ({PARALLEL_WORKERS} workers)…")
     log(f"  {len(items)} total, {len(items) - len(to_scrape)} cached, {len(to_scrape)} to fetch")
 
     not_found_urls: list[str] = []
-    fetch_failed_urls: list[str] = []
     BATCH_SIZE = 25
 
     if to_scrape:
         done = 0
         ok = 0
         not_found = 0
-        fetch_failed = 0
         errors = 0
         total = len(to_scrape)
 
@@ -414,9 +363,6 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
                         elif result == NOT_FOUND:
                             not_found += 1
                             not_found_urls.append(item["url"])
-                        elif result == FETCH_FAILED:
-                            fetch_failed += 1
-                            fetch_failed_urls.append(item["url"])
                         elif isinstance(result, dict):
                             ok += 1
                         else:
@@ -425,18 +371,14 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
                         errors += 1
                         log(f"  ERROR {item['url'].split('/')[-1]}: {e}")
 
-            log(f"  Batch {batch_start // BATCH_SIZE + 1}: {done}/{total} — {ok} ok, {not_found} not found, {fetch_failed} fetch failed, {errors} errors")
+            log(f"  Batch {batch_start // BATCH_SIZE + 1}: {done}/{total} — {ok} ok, {not_found} not found, {errors} errors")
 
     total_scraped = len(list(SCRAPED_DIR.glob("*.json")))
     log(f"Scraping complete: {total_scraped} total files")
 
     if not_found_urls:
-        log(f"\n--- {len(not_found_urls)} URLs not found (ScraperAPI + Wayback both failed) ---")
+        log(f"\n--- {len(not_found_urls)} URLs not found in Wayback Machine ---")
         for url in sorted(not_found_urls):
-            log(f"  {url}")
-    if fetch_failed_urls:
-        log(f"\n--- {len(fetch_failed_urls)} URLs fetch failed ---")
-        for url in sorted(fetch_failed_urls):
             log(f"  {url}")
 
     if do_translate and DEEPL_API_KEY:
@@ -475,8 +417,6 @@ def main():
                 log(f"  +{delta} new since last run")
             elif delta < 0:
                 log(f"  {delta} removed since last run")
-        else:
-            log("  No change in count")
 
     if do_scrape:
         if do_translate and not DEEPL_API_KEY:
