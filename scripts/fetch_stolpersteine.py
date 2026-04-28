@@ -44,8 +44,9 @@ WAYBACK_CDX = "https://web.archive.org/cdx/search/cdx"
 WAYBACK_SAVE = "https://web.archive.org/save/"
 WAYBACK_AVAIL = "https://archive.org/wayback/available"
 
-SCRAPFLY_API_KEY = os.environ.get("SCRAPFLY_API_KEY", "")
-SCRAPFLY_URL = "https://api.scrapfly.io/scrape"
+SCRAPERAPI_KEYS = [
+    k.strip() for k in os.environ.get("SCRAPERAPI_KEYS", "").split(",") if k.strip()
+]
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 OUT_PATH = DATA_DIR / "stolpersteine-ffm.json"
@@ -214,38 +215,40 @@ def fetch_wayback(url: str) -> str | None:
     return None
 
 
-def fetch_scrapfly(url: str) -> str | None:
-    if not SCRAPFLY_API_KEY:
+def fetch_scraperapi(url: str) -> str | None:
+    if not SCRAPERAPI_KEYS:
         return None
-    params = urllib.parse.urlencode({
-        "key": SCRAPFLY_API_KEY,
-        "url": url,
-        "asp": "true",
-        "render_js": "true",
-        "country": "de",
-    })
-    req = urllib.request.Request(
-        f"{SCRAPFLY_URL}?{params}",
-        headers={"User-Agent": UA, "Accept-Encoding": "identity"},
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            data = json.loads(resp.read())
-        content = data.get("result", {}).get("content", "")
-        status = data.get("result", {}).get("status_code", 0)
-        if status == 200 and len(content) > 500:
-            return content
-    except Exception as e:
-        log(f"    Scrapfly error: {e}")
+    for key in reversed(SCRAPERAPI_KEYS):
+        params = urllib.parse.urlencode({
+            "api_key": key,
+            "url": url,
+            "render": "true",
+        })
+        req = urllib.request.Request(
+            f"https://api.scraperapi.com/?{params}",
+            headers={"User-Agent": UA},
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=90) as resp:
+                html = resp.read().decode("utf-8", errors="replace")
+            if "Just a moment" in html[:1000] or len(html) < 500:
+                continue
+            return html
+        except urllib.error.HTTPError as e:
+            if e.code == 403:
+                continue
+            log(f"    ScraperAPI error (key …{key[-4:]}): {e}")
+        except Exception as e:
+            log(f"    ScraperAPI error (key …{key[-4:]}): {e}")
     return None
 
 
 def fetch_page(url: str) -> str | None:
-    """Fetch a page: try Wayback first, fall back to Scrapfly."""
+    """Fetch a page: try Wayback first, fall back to ScraperAPI."""
     html = fetch_wayback(url)
     if html:
         return html
-    html = fetch_scrapfly(url)
+    html = fetch_scraperapi(url)
     if html:
         return html
     return None
