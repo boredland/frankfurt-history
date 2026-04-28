@@ -33,6 +33,9 @@ jobs:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: uv run scripts/fetch_stolpersteine.py --scrape --translate
 
+      - name: Build Stolpersteine articles
+        run: uv run scripts/build_stolpersteine.py
+
       - name: Reverse geocode addresses
         env:
           GEOCODE_PROXY_URL: ${{ secrets.GEOCODE_PROXY_URL }}
