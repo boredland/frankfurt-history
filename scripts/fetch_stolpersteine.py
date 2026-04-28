@@ -41,7 +41,7 @@ REFERER = "https://geoportal.frankfurt.de/"
 
 WAYBACK_CDX = "https://web.archive.org/cdx/search/cdx"
 WAYBACK_SAVE = "https://web.archive.org/save/"
-WAYBACK_WEB = "http://web.archive.org/web/2025/"
+WAYBACK_WEB = "https://web.archive.org/web/"
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 OUT_PATH = DATA_DIR / "stolpersteine-ffm.json"
