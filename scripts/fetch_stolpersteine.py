@@ -415,9 +415,11 @@ def translate_scraped():
         log("All biographies already translated")
         return
 
-    log(f"Translating {len(to_translate)} biographies via DeepL…")
+    total_chars = sum(len(t) for _, _, t in to_translate)
+    log(f"Translating {len(to_translate)} biographies via DeepL (~{total_chars // 1000}k chars)…")
     done = 0
     errors = 0
+    chars_sent = 0
     for path, bio_idx, text in to_translate:
         en = translate_deepl(text)
         if en:
@@ -425,11 +427,16 @@ def translate_scraped():
             data["biographies"][bio_idx]["text_en"] = en
             path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n")
             done += 1
+            chars_sent += len(text)
+        elif en is None and errors > 3:
+            log(f"  DeepL: too many errors, stopping (quota likely exhausted)")
+            break
         else:
             errors += 1
         if (done + errors) % 25 == 0:
-            log(f"  DeepL progress: {done} translated, {errors} errors / {len(to_translate)} total")
-    log(f"DeepL done: {done} translated, {errors} errors")
+            log(f"  DeepL progress: {done} translated, {errors} errors / {len(to_translate)} ({chars_sent // 1000}k chars)")
+        time.sleep(1)
+    log(f"DeepL done: {done} translated, {errors} errors, {chars_sent // 1000}k chars sent")
 
 
 def translate_deepl(text: str, target_lang: str = "EN") -> str | None:
@@ -447,6 +454,15 @@ def translate_deepl(text: str, target_lang: str = "EN") -> str | None:
         with urllib.request.urlopen(req, timeout=30) as resp:
             result = json.loads(resp.read())
         return result["translations"][0]["text"]
+    except urllib.error.HTTPError as e:
+        if e.code == 456:
+            log("    DeepL: quota exhausted (456)")
+        elif e.code == 429:
+            log("    DeepL: rate limited (429), waiting 5s")
+            time.sleep(5)
+        else:
+            log(f"    DeepL error: {e}")
+        return None
     except Exception as e:
         log(f"    DeepL error: {e}")
         return None
