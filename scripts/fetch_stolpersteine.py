@@ -123,7 +123,7 @@ def resolve_wayback_url(url: str) -> str | None:
     """Get the best snapshot URL via CDX, filtering by size to skip CF challenge pages."""
     cdx_url = (
         f"{WAYBACK_CDX}?url={urllib.parse.quote(url, safe='')}"
-        f"&output=json&fl=timestamp,statuscode,length&filter=statuscode:200&limit=10"
+        f"&output=json&fl=timestamp,statuscode,length&filter=statuscode:200&limit=50"
     )
     req = urllib.request.Request(cdx_url, headers={"User-Agent": UA})
     try:
