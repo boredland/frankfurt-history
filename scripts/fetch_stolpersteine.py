@@ -50,7 +50,9 @@ DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 OUT_PATH = DATA_DIR / "stolpersteine-ffm.json"
 SCRAPED_DIR = DATA_DIR / "stolpersteine-scraped"
 
-DEEPL_API_KEY = os.environ.get("DEEPL_API_KEY", "")
+DEEPL_API_KEYS = [
+    k.strip() for k in os.environ.get("DEEPL_API_KEYS", os.environ.get("DEEPL_API_KEY", "")).split(",") if k.strip()
+]
 DEEPL_URL = "https://api-free.deepl.com/v2/translate"
 
 WORKERS = 4
@@ -439,22 +441,20 @@ def translate_scraped():
     log(f"DeepL done: {done} translated, {errors} errors, {chars_sent // 1000}k chars sent")
 
 
-DEEPLX_URL = os.environ.get("DEEPLX_URL", "")
-_deepl_api_exhausted = False
+_deepl_exhausted_keys: set[str] = set()
 
 
 def translate_deepl(text: str, target_lang: str = "EN") -> str | None:
-    global _deepl_api_exhausted
-
-    # Try official API first (if key available and not exhausted)
-    if DEEPL_API_KEY and not _deepl_api_exhausted:
+    for key in DEEPL_API_KEYS:
+        if key in _deepl_exhausted_keys:
+            continue
         data = urllib.parse.urlencode({
             "text": text,
             "source_lang": "DE",
             "target_lang": target_lang,
         }).encode()
         req = urllib.request.Request(DEEPL_URL, data=data, headers={
-            "Authorization": f"DeepL-Auth-Key {DEEPL_API_KEY}",
+            "Authorization": f"DeepL-Auth-Key {key}",
         })
         try:
             with urllib.request.urlopen(req, timeout=30) as resp:
@@ -462,34 +462,19 @@ def translate_deepl(text: str, target_lang: str = "EN") -> str | None:
             return result["translations"][0]["text"]
         except urllib.error.HTTPError as e:
             if e.code == 456:
-                log("    DeepL API: quota exhausted, switching to DeepLX")
-                _deepl_api_exhausted = True
+                _deepl_exhausted_keys.add(key)
+                log(f"    DeepL key …{key[-8:]}: quota exhausted, trying next")
             elif e.code == 429:
                 time.sleep(5)
+            elif e.code == 403:
+                _deepl_exhausted_keys.add(key)
+                log(f"    DeepL key …{key[-8:]}: forbidden, trying next")
             else:
                 log(f"    DeepL API error: {e}")
+                return None
         except Exception as e:
             log(f"    DeepL API error: {e}")
-
-    # Fall back to DeepLX (self-hosted, no quota)
-    if DEEPLX_URL:
-        body = json.dumps({
-            "text": text,
-            "source_lang": "DE",
-            "target_lang": target_lang,
-        }).encode()
-        req = urllib.request.Request(
-            f"{DEEPLX_URL}/translate",
-            data=body,
-            headers={"Content-Type": "application/json"},
-        )
-        try:
-            with urllib.request.urlopen(req, timeout=30) as resp:
-                result = json.loads(resp.read())
-            if result.get("code") == 200:
-                return result.get("data", "")
-        except Exception as e:
-            log(f"    DeepLX error: {e}")
+            return None
 
     return None
 
