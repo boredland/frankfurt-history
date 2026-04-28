@@ -32,8 +32,6 @@ jobs:
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
           SCRAPERAPI_KEYS: ${{ secrets.SCRAPERAPI_KEYS }}
-          GEOCODE_PROXY_URL: ${{ secrets.GEOCODE_PROXY_URL }}
-          GEOCODE_PROXY_TOKEN: ${{ secrets.GEOCODE_PROXY_TOKEN }}
         run: uv run scripts/fetch_stolpersteine.py --scrape --translate
 
       - name: Reverse geocode addresses
