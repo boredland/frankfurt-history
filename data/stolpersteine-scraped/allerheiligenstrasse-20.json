@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Allerheiligenstraße 20",
+  "address": "Allerheiligenstraße 20",
+  "street": "Allerheiligenstraße",
+  "house_number": "20",
+  "zip": "60313",
+  "lat": 50.1134179,
+  "lng": 8.6919072,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-der-innenstadt/standorte/allerheiligenstrasse-20",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/allerheiligenstr_20__300x400.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperstein_allerheiligenstr_20__400x300.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-der-innenstadt/familien/levi-erwin"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}
