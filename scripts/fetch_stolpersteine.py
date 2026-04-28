@@ -164,10 +164,7 @@ def resolve_wayback_url(url: str) -> str | None:
     return None
 
 
-def fetch_wayback(url: str, retries: int = 3) -> str | None:
-    wb_url = resolve_wayback_url(url)
-    if not wb_url:
-        return None
+def _fetch_html(wb_url: str, retries: int = 3) -> str | None:
     for attempt in range(retries):
         try:
             req = urllib.request.Request(wb_url, headers={"User-Agent": UA})
@@ -183,9 +180,15 @@ def fetch_wayback(url: str, retries: int = 3) -> str | None:
             if attempt < retries - 1:
                 time.sleep(2 * (attempt + 1))
             else:
-                slug = url.split("/")[-1] if "/" in url else url[:50]
-                log(f"    Wayback fetch failed for {slug}: {e}")
+                log(f"    Wayback fetch failed: {e}")
                 return None
+
+
+def fetch_wayback(url: str) -> str | None:
+    wb_url = resolve_wayback_url(url)
+    if not wb_url:
+        return None
+    return _fetch_html(wb_url)
 
 
 # ---------- Content extraction ----------
@@ -285,17 +288,26 @@ def translate_deepl(text: str, target_lang: str = "EN") -> str | None:
 
 # ---------- Scraping pipeline ----------
 
-def scrape_one(item: dict) -> dict | None:
-    """Scrape one Stolperstein location + its biographies from Wayback."""
+SKIP = "skip"
+NOT_ARCHIVED = "not_archived"
+FETCH_FAILED = "fetch_failed"
+
+
+def scrape_one(item: dict) -> dict | str:
+    """Returns scraped dict, or a status string explaining the miss."""
     slug = item["url"].split("/")[-1]
     out_file = SCRAPED_DIR / f"{slug}.json"
 
     if out_file.exists():
-        return None
+        return SKIP
 
-    html = fetch_wayback(item["url"])
+    wb_url = resolve_wayback_url(item["url"])
+    if not wb_url:
+        return NOT_ARCHIVED
+
+    html = _fetch_html(wb_url)
     if not html:
-        return None
+        return FETCH_FAILED
 
     location = extract_location_page(html)
 
@@ -356,11 +368,13 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
     log(f"Scraping from Wayback Machine ({PARALLEL_WORKERS} workers)…")
     log(f"  {len(items)} total, {len(items) - len(to_scrape)} cached, {len(to_scrape)} to fetch")
 
-    missed_urls: list[str] = []
+    not_archived_urls: list[str] = []
+    fetch_failed_urls: list[str] = []
     if to_scrape:
         done = 0
         ok = 0
-        missed = 0
+        not_archived = 0
+        fetch_failed = 0
         errors = 0
         total = len(to_scrape)
         with ThreadPoolExecutor(max_workers=PARALLEL_WORKERS) as pool:
@@ -373,26 +387,35 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
                 item = futures[future]
                 try:
                     result = future.result()
-                    if result:
+                    if result == SKIP:
+                        ok += 1
+                    elif result == NOT_ARCHIVED:
+                        not_archived += 1
+                        not_archived_urls.append(item["url"])
+                    elif result == FETCH_FAILED:
+                        fetch_failed += 1
+                        fetch_failed_urls.append(item["url"])
+                    elif isinstance(result, dict):
                         ok += 1
                     else:
-                        missed += 1
-                        missed_urls.append(item["url"])
+                        errors += 1
                 except Exception as e:
                     errors += 1
                     log(f"  ERROR {item['url'].split('/')[-1]}: {e}")
-                    missed_urls.append(item["url"])
                 if done % 25 == 0 or done == total:
-                    log(f"  Wayback progress: {done}/{total} ({ok} ok, {missed} missed, {errors} errors)")
+                    log(f"  Wayback progress: {done}/{total} — {ok} ok, {not_archived} not archived, {fetch_failed} fetch failed, {errors} errors")
 
     total_scraped = len(list(SCRAPED_DIR.glob("*.json")))
     log(f"Scraping complete: {total_scraped} total files")
 
-    if missed_urls:
-        log(f"\n--- {len(missed_urls)} URLs not found in Wayback Machine ---")
-        for url in sorted(missed_urls):
+    if not_archived_urls:
+        log(f"\n--- {len(not_archived_urls)} URLs not archived (no Wayback snapshot exists) ---")
+        for url in sorted(not_archived_urls):
             log(f"  {url}")
-        log("---")
+    if fetch_failed_urls:
+        log(f"\n--- {len(fetch_failed_urls)} URLs archived but fetch failed ---")
+        for url in sorted(fetch_failed_urls):
+            log(f"  {url}")
 
     if do_translate and DEEPL_API_KEY:
         translate_scraped()
