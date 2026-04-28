@@ -41,7 +41,7 @@ REFERER = "https://geoportal.frankfurt.de/"
 
 WAYBACK_CDX = "https://web.archive.org/cdx/search/cdx"
 WAYBACK_SAVE = "https://web.archive.org/save/"
-WAYBACK_WEB = "https://web.archive.org/web/"
+WAYBACK_AVAIL = "https://archive.org/wayback/available"
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 OUT_PATH = DATA_DIR / "stolpersteine-ffm.json"
@@ -149,8 +149,25 @@ def submit_to_wayback(urls: list[str]) -> int:
     return submitted
 
 
+def resolve_wayback_url(url: str) -> str | None:
+    """Use the Availability API to get the exact snapshot URL."""
+    api_url = f"{WAYBACK_AVAIL}?url={urllib.parse.quote(url, safe='')}"
+    req = urllib.request.Request(api_url, headers={"User-Agent": UA})
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            data = json.loads(resp.read())
+        snap = data.get("archived_snapshots", {}).get("closest", {})
+        if snap.get("available") and snap.get("status") == "200":
+            return snap["url"]
+    except Exception:
+        pass
+    return None
+
+
 def fetch_wayback(url: str, retries: int = 3) -> str | None:
-    wb_url = WAYBACK_WEB + url
+    wb_url = resolve_wayback_url(url)
+    if not wb_url:
+        return None
     for attempt in range(retries):
         try:
             req = urllib.request.Request(wb_url, headers={"User-Agent": UA})
