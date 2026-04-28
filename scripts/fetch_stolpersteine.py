@@ -189,11 +189,11 @@ def fetch_scraperapi(url: str) -> str | None:
 
 
 def fetch_page(url: str) -> str | None:
-    """Fetch a page: try Wayback first, fall back to ScraperAPI."""
-    html = fetch_wayback(url)
+    """Fetch a page: try ScraperAPI first (fresh content), fall back to Wayback."""
+    html = fetch_scraperapi(url)
     if html:
         return html
-    html = fetch_scraperapi(url)
+    html = fetch_wayback(url)
     if html:
         return html
     return None
