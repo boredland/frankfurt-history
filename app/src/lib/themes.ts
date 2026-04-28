@@ -1,9 +1,20 @@
 export interface Theme {
   id: number;
   title: string;
+  title_en?: string;
   short_title: string;
+  short_title_en?: string;
   slug: string;
   poi_count: number;
+}
+
+export function themeTitle(theme: Theme, lang: string): string {
+  return (lang === "en" && theme.title_en) || theme.title;
+}
+
+export function themeShortTitle(theme: Theme, lang: string): string {
+  if (lang === "en" && theme.short_title_en) return theme.short_title_en;
+  return theme.short_title || theme.title;
 }
 
 export interface POIProperties {

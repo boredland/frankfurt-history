@@ -98,6 +98,7 @@ export function MapView({
       lng: number;
       lat: number;
       title: string;
+      titleEn: string;
       subtitle: string;
       theme: string;
       slug: string;
@@ -119,6 +120,7 @@ export function MapView({
         lng: coords[0] ?? 0,
         lat: coords[1] ?? 0,
         title: (p.title as string) || "",
+        titleEn: (p.title_en as string) || "",
         subtitle: (p.subtitle as string) || "",
         theme: (p.theme as string) || "",
         slug,
@@ -246,18 +248,28 @@ export function MapView({
 
       let title: string;
       if (nearby.length > 1) {
-        const unique = [...new Set(nearby.map((p) => p.title))];
+        const unique = [
+          ...new Set(
+            nearby.map((p) =>
+              lang === "en" && p.titleEn ? p.titleEn : p.title,
+            ),
+          ),
+        ];
         title =
           unique.length > 3
             ? `${unique.slice(0, 3).join(", ")} +${unique.length - 3}`
             : unique.join(", ");
       } else {
-        title = feature.properties.title as string;
+        const titleEn = feature.properties.title_en as string | undefined;
+        title =
+          lang === "en" && titleEn
+            ? titleEn
+            : (feature.properties.title as string);
       }
 
       setHover({ lng: clickLng, lat: clickLat, title });
     },
-    [visibleThemeSlugs],
+    [visibleThemeSlugs, lang],
   );
 
   const handleMouseLeave = useCallback(() => {

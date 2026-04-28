@@ -81,7 +81,47 @@ def parse_yaml_list(path: Path, field: str) -> list[str]:
     return items
 
 
-def build_theme(theme_dir: Path, addresses: dict[str, str] | None = None) -> tuple[dict | None, dict | None]:
+def _build_en_lookup(en_dir: Path) -> dict[str, dict]:
+    """Build {poi_id: {title, subtitle, filters}} from the English theme directory."""
+    lookup = {}
+    if not en_dir or not en_dir.is_dir():
+        return lookup
+    for md in en_dir.glob("*.md"):
+        if md.name.startswith("_"):
+            continue
+        fm = parse_frontmatter(md)
+        poi_id = fm.get("id")
+        if not poi_id:
+            m = re.match(r"(\d+)", md.stem)
+            if m:
+                poi_id = int(m.group(1))
+        if not poi_id:
+            continue
+        entry = {}
+        if fm.get("title"):
+            entry["title"] = fm["title"]
+        if fm.get("subtitle"):
+            entry["subtitle"] = fm["subtitle"]
+        filters_en = parse_yaml_list(md, "filters")
+        if filters_en:
+            entry["filters"] = filters_en
+        lookup[int(poi_id)] = entry
+    # English theme-level metadata
+    idx = en_dir / "_index.md"
+    if idx.exists():
+        fm = parse_frontmatter(idx)
+        if fm.get("title"):
+            lookup["_theme_title"] = fm["title"]
+        if fm.get("short_title"):
+            lookup["_theme_short_title"] = fm["short_title"]
+    return lookup
+
+
+def build_theme(
+    theme_dir: Path,
+    addresses: dict[str, str] | None = None,
+    en_dir: Path | None = None,
+) -> tuple[dict | None, dict | None]:
     index_path = theme_dir / "_index.md"
     if not index_path.exists():
         return None, None
@@ -91,6 +131,8 @@ def build_theme(theme_dir: Path, addresses: dict[str, str] | None = None) -> tup
     theme_id = theme_fm.get("id")
     theme_title = theme_fm.get("title", theme_slug)
     short_title = theme_fm.get("short_title", "")
+
+    en_lookup = _build_en_lookup(en_dir)
 
     features = []
     for poi_path in sorted(theme_dir.glob("*.md")):
@@ -116,7 +158,6 @@ def build_theme(theme_dir: Path, addresses: dict[str, str] | None = None) -> tup
 
         slug = poi_path.stem
 
-        # Extract first image URL for thumbnail
         thumb = ""
         body = poi_path.read_text()
         img_match = re.search(r"!\[[^\]]*\]\(([^)]+)\)", body)
@@ -138,7 +179,16 @@ def build_theme(theme_dir: Path, addresses: dict[str, str] | None = None) -> tup
         if thumb:
             feature["properties"]["thumb"] = thumb
 
-        # Address: prefer Photon geocode (precise), fall back to subtitle
+        # English translations
+        poi_id = fm.get("id", 0)
+        en = en_lookup.get(int(poi_id), {}) if poi_id else {}
+        if en.get("title"):
+            feature["properties"]["title_en"] = en["title"]
+        if en.get("subtitle"):
+            feature["properties"]["subtitle_en"] = en["subtitle"]
+        if en.get("filters"):
+            feature["properties"]["filters_en"] = en["filters"]
+
         addr = ""
         if addresses:
             addr_key = f"{lat:.6f},{lng:.6f}"
@@ -168,6 +218,12 @@ def build_theme(theme_dir: Path, addresses: dict[str, str] | None = None) -> tup
         "slug": theme_slug,
         "poi_count": len(features),
     }
+    en_theme_title = en_lookup.get("_theme_title")
+    en_short = en_lookup.get("_theme_short_title")
+    if en_theme_title:
+        theme_meta["title_en"] = en_theme_title
+    if en_short:
+        theme_meta["short_title_en"] = en_short
 
     return theme_meta, geojson
 
@@ -187,10 +243,16 @@ def main():
     themes = []
     total = 0
 
+    # Resolve English directories for translations
+    en_base = geojson_source / "en"
+    if not en_base.is_dir():
+        en_base = DATA_DIR / "en"
+
     for theme_dir in sorted(geojson_source.iterdir()):
         if not theme_dir.is_dir() or theme_dir.name in ("images", "de", "en"):
             continue
-        theme_meta, geojson = build_theme(theme_dir, addresses)
+        en_dir = en_base / theme_dir.name if en_base.is_dir() else None
+        theme_meta, geojson = build_theme(theme_dir, addresses, en_dir)
         if not theme_meta:
             continue
 
@@ -210,7 +272,8 @@ def main():
                 continue
             if any(t["slug"] == theme_dir.name for t in themes):
                 continue
-            theme_meta, geojson = build_theme(theme_dir, addresses)
+            en_dir = en_base / theme_dir.name if en_base.is_dir() else None
+            theme_meta, geojson = build_theme(theme_dir, addresses, en_dir)
             if not theme_meta:
                 continue
             out_path = OUT_DIR / f"{theme_dir.name}.geojson"

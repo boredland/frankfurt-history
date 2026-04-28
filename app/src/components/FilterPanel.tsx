@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { t } from "~/lib/i18n";
 import type { Theme } from "~/lib/themes";
-import { themeColor } from "~/lib/themes";
+import { themeColor, themeTitle } from "~/lib/themes";
 
 interface FilterPanelProps {
   theme: Theme;
@@ -32,6 +32,7 @@ export function FilterPanel({
   lang,
 }: FilterPanelProps) {
   const [filters, setFilters] = useState<string[]>([]);
+  const [filterLabels, setFilterLabels] = useState<Record<string, string>>({});
   const [open, setOpen] = useState(true);
   const panelRef = useRef<HTMLDivElement>(null);
 
@@ -40,13 +41,18 @@ export function FilterPanel({
       .then((r) => r.json() as Promise<GeoJSON.FeatureCollection>)
       .then((gj) => {
         const set = new Set<string>();
+        const labels: Record<string, string> = {};
         for (const f of gj.features) {
-          const fArr = (f.properties as Record<string, unknown>).filters as
-            | string[]
-            | undefined;
-          if (fArr) for (const filt of fArr) set.add(filt);
+          const p = f.properties as Record<string, unknown>;
+          const de = (p.filters as string[] | undefined) ?? [];
+          const en = (p.filters_en as string[] | undefined) ?? [];
+          for (let i = 0; i < de.length; i++) {
+            set.add(de[i]);
+            if (en[i] && !labels[de[i]]) labels[de[i]] = en[i];
+          }
         }
         setFilters([...set].sort());
+        setFilterLabels(labels);
       })
       .catch(console.error);
   }, [theme.slug]);
@@ -91,7 +97,9 @@ export function FilterPanel({
             className="w-3 h-3 rounded-full shrink-0"
             style={{ backgroundColor: themeColor(theme.slug) }}
           />
-          <span className="text-ink font-medium">{theme.title}</span>
+          <span className="text-ink font-medium">
+            {themeTitle(theme, lang)}
+          </span>
         </button>
       </div>
     );
@@ -103,31 +111,54 @@ export function FilterPanel({
       className="absolute top-3 left-3 z-20 bg-paper border border-sepia-light rounded-lg shadow-lg w-72 overflow-hidden"
     >
       <div className="px-3 py-2.5 border-b border-sepia-light">
-        <button
-          type="button"
-          onClick={onBack}
-          className="text-xs text-sepia hover:text-ink flex items-center gap-1 cursor-pointer mb-1.5 transition-colors"
-        >
-          <svg
-            width="12"
-            height="12"
-            viewBox="0 0 12 12"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="1.5"
-            role="img"
-            aria-label="Back"
+        <div className="flex items-center justify-between mb-1.5">
+          <button
+            type="button"
+            onClick={onBack}
+            className="text-xs text-sepia hover:text-ink flex items-center gap-1 cursor-pointer transition-colors"
           >
-            <path d="M8 2L4 6l4 4" />
-          </svg>
-          {t("themes", lang)}
-        </button>
+            <svg
+              width="12"
+              height="12"
+              viewBox="0 0 12 12"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="1.5"
+              role="img"
+              aria-label="Back"
+            >
+              <path d="M8 2L4 6l4 4" />
+            </svg>
+            {t("themes", lang)}
+          </button>
+          <button
+            type="button"
+            onClick={() => setOpen(false)}
+            className="w-5 h-5 flex items-center justify-center rounded-full text-faded hover:text-ink hover:bg-sepia-light/30 cursor-pointer transition-colors"
+            aria-label={t("close", lang)}
+          >
+            <svg
+              width="10"
+              height="10"
+              viewBox="0 0 10 10"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="1.5"
+              role="img"
+              aria-label="Close"
+            >
+              <path d="M2 2l6 6M8 2l-6 6" />
+            </svg>
+          </button>
+        </div>
         <div className="flex items-center gap-2">
           <span
             className="w-3 h-3 rounded-full shrink-0"
             style={{ backgroundColor: themeColor(theme.slug) }}
           />
-          <span className="font-serif font-bold text-ink">{theme.title}</span>
+          <span className="font-serif font-bold text-ink">
+            {themeTitle(theme, lang)}
+          </span>
         </div>
       </div>
 
@@ -152,6 +183,10 @@ export function FilterPanel({
               const isActive =
                 activeFilters.size === 0 || activeFilters.has(filter);
               const pinColor = PIN_COLORS[i % PIN_COLORS.length];
+              const label =
+                lang === "en" && filterLabels[filter]
+                  ? filterLabels[filter]
+                  : filter;
 
               return (
                 <button
@@ -187,7 +222,7 @@ export function FilterPanel({
                   <span
                     className={`text-sm flex-1 ${isActive ? "text-ink" : "text-faded"}`}
                   >
-                    {filter}
+                    {label}
                   </span>
                   {isActive && (
                     <svg

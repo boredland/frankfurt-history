@@ -2,7 +2,7 @@ import { useNavigate } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
 import { t } from "~/lib/i18n";
 import type { Theme } from "~/lib/themes";
-import { themeColor } from "~/lib/themes";
+import { themeColor, themeShortTitle, themeTitle } from "~/lib/themes";
 
 interface LandingPageProps {
   lang: string;
@@ -45,11 +45,11 @@ export function LandingPage({ lang }: LandingPageProps) {
                 style={{ backgroundColor: themeColor(theme.slug) }}
               >
                 <span className="text-white/90 font-serif text-sm sm:text-base font-bold text-center leading-tight drop-shadow-sm">
-                  {theme.short_title || theme.title}
+                  {themeShortTitle(theme, lang)}
                 </span>
               </div>
               <p className="mt-2 text-sm text-ink text-center font-medium leading-tight">
-                {theme.title}
+                {themeTitle(theme, lang)}
               </p>
               <p className="text-xs text-faded text-center mt-0.5">
                 {theme.poi_count} {t("places", lang)}
