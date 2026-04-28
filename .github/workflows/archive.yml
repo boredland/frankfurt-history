@@ -20,7 +20,9 @@ jobs:
         run: uv run archive.py
 
       - name: Fetch Stolpersteine from frankfurt.de
-        run: uv run scripts/fetch_stolpersteine.py
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+        run: uv run scripts/fetch_stolpersteine.py --scrape --translate
 
       - name: Reverse geocode addresses
         env:
