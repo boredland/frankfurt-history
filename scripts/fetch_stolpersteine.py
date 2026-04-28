@@ -1,23 +1,23 @@
 #!/usr/bin/env python3
-"""Fetch authoritative Stolpersteine data from Frankfurt's WFS + scrape detail pages.
+"""Fetch Stolpersteine data: WFS for coordinates, Wayback crawler for content.
 
-1. Fetches the full Stolperstein dataset from Frankfurt's WFS endpoint
-2. Scrapes location + biography pages from the Wayback Machine
+1. Fetches coordinates from Frankfurt's WFS endpoint
+2. Crawls Stolperstein pages from Wayback Machine starting from the landing page,
+   following links matching /standorte/* and /familien/* patterns
 3. Translates German biographies to English via DeepL API
-4. Writes normalized JSON + per-location scraped content
 
 Usage:
     uv run scripts/fetch_stolpersteine.py                       # WFS only
-    uv run scripts/fetch_stolpersteine.py --scrape              # + scrape from Wayback
+    uv run scripts/fetch_stolpersteine.py --scrape              # + crawl from Wayback
     uv run scripts/fetch_stolpersteine.py --scrape --translate  # + translate via DeepL
 """
 
 import html as html_mod
 import json
 import os
-import random
 import re
 import sys
+import threading
 import time
 import urllib.parse
 import urllib.request
@@ -27,10 +27,14 @@ from pathlib import Path
 
 _start_time = time.monotonic()
 
+
 def log(msg: str):
     elapsed = time.monotonic() - _start_time
     m, s = divmod(int(elapsed), 60)
     print(f"[{m:02d}:{s:02d}] {msg}", flush=True)
+
+
+# ---------- Config ----------
 
 WFS_URL = (
     "https://geowebdienste.frankfurt.de/POI"
@@ -40,6 +44,7 @@ WFS_URL = (
 REFERER = "https://geoportal.frankfurt.de/"
 
 WAYBACK_CDX = "https://web.archive.org/cdx/search/cdx"
+STOLPERSTEINE_ROOT = "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine"
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 OUT_PATH = DATA_DIR / "stolpersteine-ffm.json"
@@ -48,7 +53,9 @@ SCRAPED_DIR = DATA_DIR / "stolpersteine-scraped"
 DEEPL_API_KEY = os.environ.get("DEEPL_API_KEY", "")
 DEEPL_URL = "https://api-free.deepl.com/v2/translate"
 
-PARALLEL_WORKERS = 4
+WORKERS = 4
+MIN_PAGE_SIZE = 10000
+UA = "Mozilla/5.0 (compatible; FrankfurtHistoryBot/1.0)"
 
 NS = {
     "wfs": "http://www.opengis.net/wfs",
@@ -56,9 +63,8 @@ NS = {
     "POI": "https://geowebdienste.frankfurt.de/POI",
 }
 
-UA = "Mozilla/5.0 (compatible; FrankfurtHistoryBot/1.0)"
-
-MIN_PAGE_SIZE = 10000
+LOCATION_RE = re.compile(r"/stolpersteine/[^/]+/standorte?/[^/]+$")
+BIO_RE = re.compile(r"/stolpersteine/[^/]+/familien/[^/]+$")
 
 
 # ---------- WFS ----------
@@ -78,7 +84,7 @@ def fetch_wfs() -> bytes:
         return b""
 
 
-def parse_features(xml_bytes: bytes) -> list[dict]:
+def parse_wfs(xml_bytes: bytes) -> list[dict]:
     root = ET.fromstring(xml_bytes)
     results = []
     for feat in root.findall(".//POI:Stolperstein", NS):
@@ -99,7 +105,7 @@ def parse_features(xml_bytes: bytes) -> list[dict]:
     return results
 
 
-def normalize(features: list[dict]) -> list[dict]:
+def normalize_wfs(features: list[dict]) -> list[dict]:
     out = []
     for f in features:
         item = {
@@ -120,10 +126,7 @@ def normalize(features: list[dict]) -> list[dict]:
 
 # ---------- Wayback Machine ----------
 
-import threading
-
 def _submit_to_wayback(url: str):
-    """Fire-and-forget request to Wayback Machine to save a new snapshot."""
     def _do():
         try:
             req = urllib.request.Request(
@@ -137,7 +140,6 @@ def _submit_to_wayback(url: str):
 
 
 def resolve_wayback_url(url: str) -> str | None:
-    """Get the best snapshot URL via CDX, filtering by size to skip CF challenge pages."""
     cdx_url = (
         f"{WAYBACK_CDX}?url={urllib.parse.quote(url, safe='')}"
         f"&output=json&fl=timestamp,statuscode,length&filter=statuscode:200&limit=50"
@@ -156,8 +158,11 @@ def resolve_wayback_url(url: str) -> str | None:
     return None
 
 
-def _fetch_html(url: str) -> str | None:
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
+def fetch_wayback(url: str) -> str | None:
+    wb_url = resolve_wayback_url(url)
+    if not wb_url:
+        return None
+    req = urllib.request.Request(wb_url, headers={"User-Agent": UA})
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
             data = resp.read()
@@ -169,45 +174,54 @@ def _fetch_html(url: str) -> str | None:
         return None
 
 
-def fetch_page(url: str) -> tuple[str | None, str]:
-    """Fetch a page from the Wayback Machine. Returns (html, source)."""
-    wb_url = resolve_wayback_url(url)
-    if not wb_url:
-        return None, "no snapshot"
-    html = _fetch_html(wb_url)
-    if html:
-        return html, "wayback"
-    return None, "fetch failed"
+# ---------- Link discovery ----------
+
+def normalize_url(raw: str) -> str | None:
+    """Normalize a URL found in HTML (may be Wayback-wrapped or relative)."""
+    m = re.search(r"/web/\d+/(https?://[^\"]+)", raw)
+    url = m.group(1).replace(":443", "") if m else raw
+    if url.startswith("/"):
+        url = "https://frankfurt.de" + url
+    if not url.startswith("https://frankfurt.de"):
+        return None
+    return url.split("?")[0].split("#")[0].rstrip("/")
+
+
+def discover_links(html: str) -> tuple[set[str], set[str]]:
+    """Extract location and biography URLs from an HTML page."""
+    locations = set()
+    bios = set()
+    for raw in re.findall(r'href="([^"]*stolpersteine[^"]*)"', html):
+        url = normalize_url(raw)
+        if not url:
+            continue
+        if BIO_RE.search(url):
+            bios.add(url)
+        elif LOCATION_RE.search(url):
+            locations.add(url)
+    return locations, bios
 
 
 # ---------- Content extraction ----------
 
-def extract_location_page(html_content: str) -> dict:
+def extract_location(html: str) -> dict:
     result: dict = {"residents": [], "images": [], "bio_links": [], "laying_date": ""}
 
     article = re.search(
         r'class="contentBox _article[^"]*">(.*?)<div[^>]*class="contentBox(?! _article)',
-        html_content, re.DOTALL,
+        html, re.DOTALL,
     )
     if not article:
         return result
-
     content = article.group(1)
 
-    residents_match = re.search(r"wohnten?(.*?)Steinverlegung", content, re.DOTALL)
-    if residents_match:
-        names = re.findall(r">([^<]+)</a>", residents_match.group(1))
+    match = re.search(r"wohnten?(.*?)Steinverlegung", content, re.DOTALL)
+    if match:
+        names = re.findall(r">([^<]+)</a>", match.group(1))
         result["residents"] = [html_mod.unescape(n.strip()) for n in names if n.strip()]
 
-    seen = set()
-    for bl in re.findall(r'href="([^"]*stolpersteine[^"]*/familien/[^"]*)"', html_content):
-        m = re.search(r"/web/\d+/(https?://[^\"]+)", bl)
-        url = m.group(1).replace(":443", "") if m else bl
-        if url.startswith("/"):
-            url = "https://frankfurt.de" + url
-        if url.startswith("https://") and url not in seen:
-            seen.add(url)
-            result["bio_links"].append(url)
+    _, bios = discover_links(html)
+    result["bio_links"] = sorted(bios)
 
     date_match = re.search(r"Steinverlegung am:\s*</?\w+[^>]*>\s*(\d[\d.]+)", content, re.DOTALL)
     if date_match:
@@ -221,16 +235,15 @@ def extract_location_page(html_content: str) -> dict:
     return result
 
 
-def extract_biography(html_content: str) -> dict:
+def extract_biography(html: str) -> dict:
     result: dict = {"text": "", "images": []}
 
     article = re.search(
         r'class="contentBox _article[^"]*">(.*?)<div[^>]*class="contentBox(?! _article)',
-        html_content, re.DOTALL,
+        html, re.DOTALL,
     )
     if not article:
         return result
-
     content = article.group(1)
 
     text = re.sub(r"<[^>]+>", "\n", content)
@@ -238,16 +251,10 @@ def extract_biography(html_content: str) -> dict:
     text = re.sub(r"\n[ \t]*\n", "\n\n", text).strip()
     lines = [l.strip() for l in text.split("\n") if l.strip()]
 
-    bio_lines = []
-    skip_patterns = ["inhalte teilen", "Internal Link", "Stadtplan", "Biographien", "Kontakt"]
-    for line in lines:
-        if any(p in line for p in skip_patterns):
-            continue
-        if line.startswith("©"):
-            continue
-        bio_lines.append(line)
-
-    result["text"] = "\n\n".join(bio_lines)
+    skip = ["inhalte teilen", "Internal Link", "Stadtplan", "Biographien", "Kontakt"]
+    result["text"] = "\n\n".join(
+        l for l in lines if not any(p in l for p in skip) and not l.startswith("©")
+    )
 
     for m in re.finditer(r'src="([^"]*stolpersteine[^"]*\.(?:jpg|png))', content, re.IGNORECASE):
         img_url = re.sub(r".*/web/\d+(?:im_)?/", "", m.group(1))
@@ -257,66 +264,131 @@ def extract_biography(html_content: str) -> dict:
     return result
 
 
+# ---------- Crawler ----------
+
+def crawl(wfs_entries: list[dict], do_translate: bool = False):
+    SCRAPED_DIR.mkdir(exist_ok=True)
+
+    wfs_by_slug = {}
+    for s in wfs_entries:
+        if "url" in s:
+            wfs_by_slug[s["url"].split("/")[-1]] = s
+
+    already_scraped = {f.stem for f in SCRAPED_DIR.glob("*.json")}
+
+    # Seed: WFS URLs + district index pages
+    queue: list[str] = []
+    visited: set[str] = set()
+
+    # Add WFS location URLs we haven't scraped yet
+    for s in wfs_entries:
+        if "url" in s and s["url"].split("/")[-1] not in already_scraped:
+            queue.append(s["url"])
+            visited.add(s["url"])
+
+    # Add district index pages for link discovery
+    district_url = STOLPERSTEINE_ROOT
+    log(f"Crawling from {len(queue)} seed URLs + district discovery…")
+
+    # Discover district pages from Wayback
+    district_html = fetch_wayback(district_url)
+    if district_html:
+        for raw in re.findall(r'href="([^"]*stolpersteine-(?:in|im|an)[^"]*)"', district_html):
+            url = normalize_url(raw)
+            if url and url not in visited:
+                visited.add(url)
+                queue.append(url)
+        log(f"  Discovered {len(queue)} pages from landing + WFS")
+
+    ok = 0
+    not_found = 0
+    discovered = 0
+    not_found_urls: list[str] = []
+    processed = 0
+
+    while queue:
+        batch = []
+        while queue and len(batch) < WORKERS:
+            batch.append(queue.pop(0))
+
+        def process_url(url: str) -> tuple[str, str | None, set[str], set[str]]:
+            """Fetch a URL, return (url, html, new_locations, new_bios)."""
+            html = fetch_wayback(url)
+            if not html:
+                return url, None, set(), set()
+            locs, bios = discover_links(html)
+            return url, html, locs, bios
+
+        with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+            futures = {pool.submit(process_url, url): url for url in batch}
+            for future in as_completed(futures):
+                url = futures[future]
+                processed += 1
+                try:
+                    url, html, new_locs, new_bios = future.result()
+                except Exception as e:
+                    log(f"    ERROR {url.split('/')[-1]}: {e}")
+                    continue
+
+                if not html:
+                    slug = url.split("/")[-1]
+                    if LOCATION_RE.search(url):
+                        not_found += 1
+                        not_found_urls.append(url)
+                        log(f"    MISS {slug}")
+                    continue
+
+                slug = url.split("/")[-1]
+
+                # Enqueue newly discovered URLs
+                for new_url in new_locs | new_bios:
+                    if new_url not in visited:
+                        visited.add(new_url)
+                        queue.append(new_url)
+                        discovered += 1
+
+                # Process location pages
+                if LOCATION_RE.search(url) and slug not in already_scraped:
+                    wfs = wfs_by_slug.get(slug, {})
+                    location = extract_location(html)
+
+                    bios = []
+                    for bio_url in location.get("bio_links", []):
+                        bio_slug = bio_url.split("/")[-1]
+                        # Check if we already fetched this bio in the queue
+                        bio_html = fetch_wayback(bio_url)
+                        if bio_html:
+                            bio = extract_biography(bio_html)
+                            bio["source_url"] = bio_url
+                            if bio["text"]:
+                                bios.append(bio)
+
+                    result = {**wfs, "url": url, "location": location, "biographies": bios}
+                    out_file = SCRAPED_DIR / f"{slug}.json"
+                    out_file.write_text(json.dumps(result, indent=2, ensure_ascii=False) + "\n")
+                    already_scraped.add(slug)
+                    ok += 1
+                    log(f"    OK {slug} — {len(bios)} bio(s)")
+
+        if processed % 25 < WORKERS or not queue:
+            total_scraped = len(list(SCRAPED_DIR.glob("*.json")))
+            log(f"  Progress: {processed} processed, {ok} new, {not_found} missed, {discovered} discovered, {len(queue)} queued, {total_scraped} total files")
+
+    total_scraped = len(list(SCRAPED_DIR.glob("*.json")))
+    log(f"Crawl complete: {total_scraped} total files, {ok} new, {not_found} missed, {discovered} discovered")
+
+    if not_found_urls:
+        log(f"\n--- {len(not_found_urls)} location URLs not found ---")
+        for url in sorted(not_found_urls):
+            log(f"  {url}")
+
+    if do_translate and DEEPL_API_KEY:
+        translate_scraped()
+
+
 # ---------- DeepL ----------
 
-def translate_deepl(text: str, target_lang: str = "EN") -> str | None:
-    if not DEEPL_API_KEY:
-        return None
-    data = urllib.parse.urlencode({
-        "text": text,
-        "source_lang": "DE",
-        "target_lang": target_lang,
-    }).encode()
-    req = urllib.request.Request(DEEPL_URL, data=data, headers={
-        "Authorization": f"DeepL-Auth-Key {DEEPL_API_KEY}",
-    })
-    try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            result = json.loads(resp.read())
-        return result["translations"][0]["text"]
-    except Exception as e:
-        log(f"    DeepL error: {e}")
-        return None
-
-
-# ---------- Scraping pipeline ----------
-
-SKIP = "skip"
-NOT_FOUND = "not_found"
-
-
-def scrape_one(item: dict) -> dict | str:
-    """Returns scraped dict, or a status string explaining the miss."""
-    slug = item["url"].split("/")[-1]
-    out_file = SCRAPED_DIR / f"{slug}.json"
-
-    if out_file.exists():
-        return SKIP
-
-    html, source = fetch_page(item["url"])
-    if not html:
-        log(f"    MISS {slug} — {source}")
-        return NOT_FOUND
-
-    location = extract_location_page(html)
-
-    bios = []
-    for bio_link in location.get("bio_links", []):
-        bio_html, _ = fetch_page(bio_link)
-        if not bio_html:
-            continue
-        bio = extract_biography(bio_html)
-        bio["source_url"] = bio_link
-        bios.append(bio)
-
-    result = {**item, "location": location, "biographies": bios}
-    out_file.write_text(json.dumps(result, indent=2, ensure_ascii=False) + "\n")
-    log(f"    OK {slug} via {source} — {len(bios)} bio(s), {len(location.get('residents', []))} residents")
-    return result
-
-
 def translate_scraped():
-    """Batch-translate all scraped biographies that lack English text."""
     files = sorted(SCRAPED_DIR.glob("*.json"))
     to_translate = []
     for f in files:
@@ -346,67 +418,24 @@ def translate_scraped():
     log(f"DeepL done: {done} translated, {errors} errors")
 
 
-def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
-    SCRAPED_DIR.mkdir(exist_ok=True)
-
-    items = [s for s in stolpersteine if "url" in s]
-    to_scrape = [
-        s for s in items
-        if not (SCRAPED_DIR / f"{s['url'].split('/')[-1]}.json").exists()
-    ]
-
-    random.shuffle(to_scrape)
-
-    log(f"Scraping detail pages via Wayback Machine ({PARALLEL_WORKERS} workers)…")
-    log(f"  {len(items)} total, {len(items) - len(to_scrape)} cached, {len(to_scrape)} to fetch")
-
-    not_found_urls: list[str] = []
-    BATCH_SIZE = 25
-
-    if to_scrape:
-        done = 0
-        ok = 0
-        not_found = 0
-        errors = 0
-        total = len(to_scrape)
-
-        for batch_start in range(0, total, BATCH_SIZE):
-            batch = to_scrape[batch_start : batch_start + BATCH_SIZE]
-            with ThreadPoolExecutor(max_workers=PARALLEL_WORKERS) as pool:
-                futures = {
-                    pool.submit(scrape_one, item): item
-                    for item in batch
-                }
-                for future in as_completed(futures):
-                    done += 1
-                    item = futures[future]
-                    try:
-                        result = future.result()
-                        if result == SKIP:
-                            ok += 1
-                        elif result == NOT_FOUND:
-                            not_found += 1
-                            not_found_urls.append(item["url"])
-                        elif isinstance(result, dict):
-                            ok += 1
-                        else:
-                            errors += 1
-                    except Exception as e:
-                        errors += 1
-                        log(f"  ERROR {item['url'].split('/')[-1]}: {e}")
-
-            log(f"  Batch {batch_start // BATCH_SIZE + 1}: {done}/{total} — {ok} ok, {not_found} not found, {errors} errors")
-
-    total_scraped = len(list(SCRAPED_DIR.glob("*.json")))
-    log(f"Scraping complete: {total_scraped} total files")
-
-    if not_found_urls:
-        log(f"\n--- {len(not_found_urls)} URLs not found in Wayback Machine ---")
-        for url in sorted(not_found_urls):
-            log(f"  {url}")
-
-    if do_translate and DEEPL_API_KEY:
-        translate_scraped()
+def translate_deepl(text: str, target_lang: str = "EN") -> str | None:
+    if not DEEPL_API_KEY:
+        return None
+    data = urllib.parse.urlencode({
+        "text": text,
+        "source_lang": "DE",
+        "target_lang": target_lang,
+    }).encode()
+    req = urllib.request.Request(DEEPL_URL, data=data, headers={
+        "Authorization": f"DeepL-Auth-Key {DEEPL_API_KEY}",
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            result = json.loads(resp.read())
+        return result["translations"][0]["text"]
+    except Exception as e:
+        log(f"    DeepL error: {e}")
+        return None
 
 
 # ---------- Main ----------
@@ -417,10 +446,10 @@ def main():
 
     log("Fetching Stolpersteine from frankfurt.de WFS…")
     xml_bytes = fetch_wfs()
-    features = parse_features(xml_bytes)
+    features = parse_wfs(xml_bytes)
     log(f"  Parsed {len(features)} Stolpersteine")
 
-    normalized = normalize(features)
+    normalized = normalize_wfs(features)
     with_url = sum(1 for s in normalized if "url" in s)
     log(f"  {with_url} with detail page URL")
 
@@ -430,7 +459,7 @@ def main():
         existing_count = len(existing)
 
     if len(normalized) == 0 and existing_count > 0:
-        log("  WFS returned 0 results — keeping existing data, skipping write")
+        log("  WFS returned 0 results — keeping existing data")
         normalized = existing
     else:
         OUT_PATH.write_text(json.dumps(normalized, indent=2, ensure_ascii=False) + "\n")
@@ -445,7 +474,7 @@ def main():
     if do_scrape:
         if do_translate and not DEEPL_API_KEY:
             log("Warning: --translate requested but DEEPL_API_KEY not set")
-        scrape_content(normalized, do_translate)
+        crawl(normalized, do_translate)
 
     log("Done.")
 
