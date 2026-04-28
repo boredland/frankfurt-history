@@ -21,14 +21,16 @@ const MapView = lazy(() =>
   import("~/components/MapView").then((m) => ({ default: m.MapView })),
 );
 
+import { FilterPanel } from "~/components/FilterPanel";
+import { LandingPage } from "~/components/LandingPage";
 import { NearbyPanel } from "~/components/NearbyPanel";
 import { SearchDialog } from "~/components/SearchDialog";
 import { NavigationProvider } from "~/lib/NavigationContext";
 import type { Theme } from "~/lib/themes";
 
 const mapSearchSchema = z.object({
-  layers: z.string().optional(),
-  filters: z.string().optional(),
+  layers: z.coerce.string().optional(),
+  filters: z.coerce.string().optional(),
   lat: z.coerce.number().optional(),
   lng: z.coerce.number().optional(),
   z: z.coerce.number().optional(),
@@ -56,14 +58,6 @@ function parseLayersParam(param: string | undefined): Set<number> | null {
     .map((s) => parseInt(s, 10))
     .filter((n) => !Number.isNaN(n));
   return ids.length > 0 ? new Set(ids) : null;
-}
-
-function serializeLayers(
-  active: Set<number>,
-  _allIds: number[],
-): string | undefined {
-  if (active.size === 0) return "none";
-  return [...active].sort((a, b) => a - b).join(",");
 }
 
 function LanguageToggle({ lang }: { lang: string }) {
@@ -121,92 +115,73 @@ function LangLayout() {
     return () => document.removeEventListener("keydown", onKeyDown);
   }, []);
 
-  const activeFilters = useMemo(() => {
-    if (!search.filters) return new Set<string>();
-    return new Set(search.filters.split(",").filter(Boolean));
-  }, [search.filters]);
+  const [themes, setThemes] = useState<Theme[]>([]);
+  useEffect(() => {
+    fetch("/data/themes.json")
+      .then((r) => r.json() as Promise<Theme[]>)
+      .then(setThemes)
+      .catch(console.error);
+  }, []);
 
-  const handleToggleFilter = useCallback(
-    (filter: string) => {
-      const next = new Set(activeFilters);
-      if (next.has(filter)) {
-        next.delete(filter);
-      } else {
-        next.add(filter);
-      }
-      navigate({
-        to: ".",
-        search: (prev: object) => ({
-          ...prev,
-          filters: next.size > 0 ? [...next].join(",") : undefined,
-        }),
-        replace: true,
-      });
-    },
-    [activeFilters, navigate],
-  );
+  const allThemeIds = useMemo(() => themes.map((th) => th.id), [themes]);
 
-  const [allThemeIds, setAllThemeIds] = useState<number[]>([]);
   const layersFromUrl = useMemo(
     () => parseLayersParam(search.layers),
     [search.layers],
   );
 
-  useEffect(() => {
-    fetch("/data/themes.json")
-      .then((r) => r.json() as Promise<Theme[]>)
-      .then((themes) => setAllThemeIds(themes.map((t) => t.id)))
-      .catch(console.error);
-  }, []);
+  const showLanding = !search.layers && !articleMatch;
 
   const activeLayers = useMemo(() => {
     if (layersFromUrl) return layersFromUrl;
-    // Exclude "Leichte Sprache" (id 5) from default selection
     return new Set(allThemeIds.filter((id) => id !== 5));
   }, [layersFromUrl, allThemeIds]);
 
-  const handleToggleLayer = useCallback(
-    (themeId: number) => {
-      const next = new Set(activeLayers);
-      if (next.has(themeId)) {
-        next.delete(themeId);
-      } else {
-        next.add(themeId);
-      }
+  const activeFilters = useMemo(() => {
+    if (!search.filters) return new Set<string>();
+    return new Set(search.filters.split(",").filter(Boolean));
+  }, [search.filters]);
+
+  const handleSetFilters = useCallback(
+    (filters: Set<string>) => {
       navigate({
         to: ".",
         search: (prev: object) => ({
           ...prev,
-          layers: serializeLayers(next, allThemeIds),
+          filters: filters.size > 0 ? [...filters].join(",") : undefined,
         }),
         replace: true,
       });
     },
-    [activeLayers, allThemeIds, navigate],
+    [navigate],
   );
 
-  const handleSetLayers = useCallback(
-    (ids: Set<number>) => {
-      navigate({
-        to: ".",
-        search: (prev: object) => ({
-          ...prev,
-          layers: serializeLayers(ids, allThemeIds),
-        }),
-        replace: true,
-      });
-    },
-    [allThemeIds, navigate],
-  );
+  const handleBackToLanding = useCallback(() => {
+    navigate({
+      to: "/$lang",
+      params: { lang: lang as "de" | "en" },
+      search: {},
+    });
+  }, [navigate, lang]);
+
+  const activeTheme = useMemo(() => {
+    if (activeLayers.size !== 1) return null;
+    const id = [...activeLayers][0];
+    return themes.find((th) => th.id === id) ?? null;
+  }, [activeLayers, themes]);
 
   return (
     <NavigationProvider>
       <div className="h-full flex flex-col">
         <header className="flex items-center justify-between px-4 py-2 border-b border-sepia-light bg-paper z-10">
           <div className="flex items-center gap-2">
-            <h1 className="font-serif text-lg font-bold tracking-tight text-ink">
+            <button
+              type="button"
+              onClick={handleBackToLanding}
+              className="font-serif text-lg font-bold tracking-tight text-ink hover:text-sepia transition-colors cursor-pointer"
+            >
               Frankfurt History
-            </h1>
+            </button>
             <a
               href="https://github.com/boredland/frankfurt-history"
               target="_blank"
@@ -250,54 +225,90 @@ function LangLayout() {
                 /K
               </kbd>
             </button>
-            <button
-              type="button"
-              onClick={() => setNearbyOpen(true)}
-              className="p-1.5 text-faded hover:text-red-oxide rounded cursor-pointer transition-colors"
-              aria-label={t("nearby", lang)}
-              title={t("nearby", lang)}
-            >
-              <svg
-                width="16"
-                height="16"
-                viewBox="0 0 16 16"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="1.5"
-                role="img"
-                aria-label="Nearby"
+            {!showLanding && (
+              <button
+                type="button"
+                onClick={() => setNearbyOpen(true)}
+                className="p-1.5 text-faded hover:text-red-oxide rounded cursor-pointer transition-colors"
+                aria-label={t("nearby", lang)}
+                title={t("nearby", lang)}
               >
-                <path d="M8 1C5.24 1 3 3.24 3 6c0 3.75 5 9 5 9s5-5.25 5-9c0-2.76-2.24-5-5-5z" />
-                <circle cx="8" cy="6" r="1.5" />
-              </svg>
-            </button>
+                <svg
+                  width="16"
+                  height="16"
+                  viewBox="0 0 16 16"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="1.5"
+                  role="img"
+                  aria-label="Nearby"
+                >
+                  <path d="M8 1C5.24 1 3 3.24 3 6c0 3.75 5 9 5 9s5-5.25 5-9c0-2.76-2.24-5-5-5z" />
+                  <circle cx="8" cy="6" r="1.5" />
+                </svg>
+              </button>
+            )}
             <LanguageToggle lang={lang} />
           </div>
         </header>
-        <div className="flex-1 flex overflow-hidden relative">
-          <Suspense
-            fallback={
-              <div
-                className="w-full h-full"
-                style={{ background: "#FAF8F5" }}
+        {showLanding ? (
+          <LandingPage lang={lang} />
+        ) : (
+          <div className="flex-1 flex overflow-hidden relative">
+            <Suspense
+              fallback={
+                <div
+                  className="w-full h-full"
+                  style={{ background: "#FAF8F5" }}
+                />
+              }
+            >
+              <MapView
+                lat={search.lat}
+                lng={search.lng}
+                zoom={search.z}
+                lang={lang}
+                activeLayers={activeLayers}
+                activeFilters={activeFilters}
+                activeSlug={activeSlug}
               />
-            }
-          >
-            <MapView
-              lat={search.lat}
-              lng={search.lng}
-              zoom={search.z}
-              lang={lang}
-              activeLayers={activeLayers}
-              onToggleLayer={handleToggleLayer}
-              onSetLayers={handleSetLayers}
-              activeFilters={activeFilters}
-              onToggleFilter={handleToggleFilter}
-              activeSlug={activeSlug}
-            />
-          </Suspense>
-          <Outlet />
-        </div>
+            </Suspense>
+            {activeTheme ? (
+              <FilterPanel
+                theme={activeTheme}
+                activeFilters={activeFilters}
+                onSetFilters={handleSetFilters}
+                onBack={handleBackToLanding}
+                lang={lang}
+              />
+            ) : (
+              <div className="absolute top-3 left-3 z-20">
+                <button
+                  type="button"
+                  onClick={handleBackToLanding}
+                  className="bg-paper border border-sepia-light rounded-lg px-3 py-2 shadow-md hover:shadow-lg transition-shadow cursor-pointer flex items-center gap-2 text-sm"
+                >
+                  <svg
+                    width="14"
+                    height="14"
+                    viewBox="0 0 14 14"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="1.5"
+                    role="img"
+                    aria-label="Back"
+                  >
+                    <path d="M9 3L5 7l4 4" />
+                  </svg>
+                  <span className="text-ink font-medium">
+                    {t("themes", lang)}
+                  </span>
+                </button>
+              </div>
+            )}
+            <Outlet />
+          </div>
+        )}
       </div>
       <SearchDialog
         lang={lang}

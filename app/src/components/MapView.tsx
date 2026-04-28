@@ -14,7 +14,6 @@ import MapGL, {
 import { createMapStyle } from "~/lib/mapStyle";
 import { useNavigation } from "~/lib/NavigationContext";
 import { SNAP_TOLERANCE, type Theme, themeColor } from "~/lib/themes";
-import { LayerPicker } from "./LayerPicker";
 import { PoiCard } from "./PoiCard";
 
 if (typeof window !== "undefined") {
@@ -34,10 +33,7 @@ interface MapViewProps {
   zoom?: number;
   lang: string;
   activeLayers: Set<number>;
-  onToggleLayer: (themeId: number) => void;
-  onSetLayers: (ids: Set<number>) => void;
   activeFilters: Set<string>;
-  onToggleFilter: (filter: string) => void;
   activeSlug?: string;
 }
 
@@ -53,10 +49,7 @@ export function MapView({
   zoom,
   lang,
   activeLayers,
-  onToggleLayer,
-  onSetLayers,
   activeFilters,
-  onToggleFilter,
   activeSlug,
 }: MapViewProps) {
   const navigate = useNavigate();
@@ -325,15 +318,6 @@ export function MapView({
           onFeaturesLoaded={registerPois}
         />
       ))}
-      <LayerPicker
-        themes={themes}
-        activeLayers={activeLayers}
-        onToggle={onToggleLayer}
-        onSetAll={onSetLayers}
-        activeFilters={activeFilters}
-        onToggleFilter={onToggleFilter}
-        lang={lang}
-      />
       {routeGeometry && (
         <Source
           id="route-line"
