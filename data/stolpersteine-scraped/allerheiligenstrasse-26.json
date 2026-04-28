@@ -1,0 +1,23 @@
+{
+  "name": "Stolpersteine Allerheiligenstraße 26",
+  "address": "Allerheiligenstraße 26",
+  "street": "Allerheiligenstraße",
+  "house_number": "26",
+  "zip": "60313",
+  "lat": 50.1134798,
+  "lng": 8.6915433,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-der-innenstadt/standorte/allerheiligenstrasse-26",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/allerheiligenstrasse_26_haus.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolpersteine_allerheiligenstr_26.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-der-innenstadt/familien/sauer-balthasar",
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-der-innenstadt/familien/kahn-jakob"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Am Erlenbruch 10",
+  "address": "Am Erlenbruch 10",
+  "street": "Am Erlenbruch",
+  "house_number": "10",
+  "zip": "60386",
+  "lat": 50.128495,
+  "lng": 8.7281302,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-riederwald/standorte/am-erlenbruch-10",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/standorte/am-erlenbruch-10_1.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/standorte/am-erlenbruch-10_2.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-riederwald/familien/wassmann-karl"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}

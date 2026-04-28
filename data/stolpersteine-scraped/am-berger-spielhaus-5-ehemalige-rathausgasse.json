@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Am Berger Spielhaus 5",
+  "address": "Am Berger Spielhaus 5",
+  "street": "Am Berger Spielhaus",
+  "house_number": "5",
+  "zip": "60388",
+  "lat": 50.1556307,
+  "lng": 8.753724,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-bergen-enkheim/standorte/am-berger-spielhaus-5-ehemalige-rathausgasse",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/am_berger_spielhaus_5_haus_.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/am_berger_spielhaus_5_steina.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-bergen-enkheim/familien/hahn-emma-und-hermann"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}
