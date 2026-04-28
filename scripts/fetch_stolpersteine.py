@@ -140,37 +140,42 @@ def _submit_to_wayback(url: str):
 
 
 def resolve_wayback_url(url: str) -> str | None:
+    slug = url.split("/")[-1]
     cdx_url = (
         f"{WAYBACK_CDX}?url={urllib.parse.quote(url, safe='')}"
         f"&output=json&fl=timestamp,statuscode,length&filter=statuscode:200&limit=50"
     )
     req = urllib.request.Request(cdx_url, headers={"User-Agent": UA})
     try:
-        with urllib.request.urlopen(req, timeout=10) as resp:
+        with urllib.request.urlopen(req, timeout=5) as resp:
             rows = json.loads(resp.read())
         for row in reversed(rows[1:]):
             ts, _status, length = row
             if int(length) >= MIN_PAGE_SIZE:
                 return f"https://web.archive.org/web/{ts}/{url}"
-    except Exception:
-        pass
+        log(f"    CDX: {slug} — no snapshot >= {MIN_PAGE_SIZE}b")
+    except Exception as e:
+        log(f"    CDX: {slug} — {e}")
     _submit_to_wayback(url)
     return None
 
 
 def fetch_wayback(url: str) -> str | None:
+    slug = url.split("/")[-1]
     wb_url = resolve_wayback_url(url)
     if not wb_url:
         return None
     req = urllib.request.Request(wb_url, headers={"User-Agent": UA})
     try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
+        with urllib.request.urlopen(req, timeout=10) as resp:
             data = resp.read()
         html = data.decode("utf-8", errors="replace")
         if "Just a moment" in html[:1000] or len(html) < 500:
+            log(f"    Wayback: {slug} — CF challenge or too small")
             return None
         return html
-    except Exception:
+    except Exception as e:
+        log(f"    Wayback: {slug} — fetch failed: {e}")
         return None
 
 
