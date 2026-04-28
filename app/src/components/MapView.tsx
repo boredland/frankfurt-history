@@ -464,14 +464,24 @@ function ThemeLayer({
         const colored = {
           ...data,
           features: data.features.map((f) => {
-            const filters = (f.properties as Record<string, unknown>).filters as
-              | string[]
-              | undefined;
+            const p = f.properties as Record<string, unknown>;
+            const filters = p.filters as string[] | undefined;
             const fc = filters?.[0] ? colorMap[filters[0]] : undefined;
-            if (!fc) return f;
+            const extra: Record<string, string> = {};
+            if (fc) extra.filterColor = fc;
+            const sf = p.stackFilters as string[] | undefined;
+            if (sf && sf.length > 1) {
+              const colors = [
+                ...new Set(sf.map((s) => colorMap[s]).filter(Boolean)),
+              ];
+              if (colors.length > 1) {
+                extra.filterColor2 = colors.find((c) => c !== fc) ?? colors[0];
+              }
+            }
+            if (Object.keys(extra).length === 0) return f;
             return {
               ...f,
-              properties: { ...f.properties, filterColor: fc },
+              properties: { ...f.properties, ...extra },
             };
           }),
         };
@@ -547,7 +557,7 @@ function ThemeLayer({
           "circle-opacity": 1,
         }}
       />
-      {/* Stacked POI outer ring indicator (primary only) */}
+      {/* Stacked POI outer ring — uses secondary filter color when available */}
       <Layer
         id={`poi-stacked-${theme.slug}`}
         type="circle"
@@ -561,14 +571,20 @@ function ThemeLayer({
         paint={{
           "circle-color": [
             "coalesce",
+            ["get", "filterColor2"],
             ["get", "filterColor"],
             color,
           ] as unknown as string,
           "circle-radius": 10,
-          "circle-opacity": 0.2,
-          "circle-stroke-width": 1.5,
-          "circle-stroke-color": color,
-          "circle-stroke-opacity": 0.4,
+          "circle-opacity": 0.25,
+          "circle-stroke-width": 2,
+          "circle-stroke-color": [
+            "coalesce",
+            ["get", "filterColor2"],
+            ["get", "filterColor"],
+            color,
+          ] as unknown as string,
+          "circle-stroke-opacity": 0.5,
         }}
       />
       <Layer

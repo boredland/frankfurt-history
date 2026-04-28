@@ -383,19 +383,35 @@ def main():
 
     # Pick one primary per theme per group so each theme has a visible marker
     primary_slugs = set()
-    for members in groups.values():
+    slug_to_group = {}
+    for root, members in groups.items():
         if len(members) < 2:
             continue
         seen_themes = set()
         for s in members:
+            slug_to_group[s] = root
             t = slug_to_theme.get(s)
             if t and t not in seen_themes:
                 seen_themes.add(t)
                 primary_slugs.add(s)
 
+    # Collect all filters per group per theme for multicolor stacked indicators
+    group_theme_filters: dict[str, dict[str, list[str]]] = defaultdict(lambda: defaultdict(list))
+    for name, data in geojson_files.items():
+        theme_slug = name.replace(".geojson", "")
+        for f in data["features"]:
+            slug = f["properties"]["slug"]
+            grp = slug_to_group.get(slug)
+            if grp is None:
+                continue
+            for filt in f["properties"].get("filters", []):
+                if filt not in group_theme_filters[grp][theme_slug]:
+                    group_theme_filters[grp][theme_slug].append(filt)
+
     stacked_count = 0
     hidden_count = 0
     for name, data in geojson_files.items():
+        theme_slug = name.replace(".geojson", "")
         for f in data["features"]:
             slug = f["properties"]["slug"]
             if slug in stacked_slugs:
@@ -404,6 +420,12 @@ def main():
                 if slug not in primary_slugs:
                     f["properties"]["stackHidden"] = True
                     hidden_count += 1
+                else:
+                    grp = slug_to_group.get(slug)
+                    if grp:
+                        all_filters = group_theme_filters[grp].get(theme_slug, [])
+                        if len(all_filters) > 1:
+                            f["properties"]["stackFilters"] = all_filters
         (OUT_DIR / name).write_text(json.dumps(data, ensure_ascii=False) + "\n")
 
     print(f"  {stacked_count} POIs stacked, {hidden_count} hidden (1 primary per theme per group)")
