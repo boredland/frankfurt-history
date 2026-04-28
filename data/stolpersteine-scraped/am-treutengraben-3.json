@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Am Treutengraben 3",
+  "address": "Am Treutengraben 3",
+  "street": "Am Treutengraben",
+  "house_number": "3",
+  "zip": "60488",
+  "lat": 50.1409489,
+  "lng": 8.6226538,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-praunheim/standorte/am-treutengraben-3",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/praunheim/am-treutengraben-3_1.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/praunheim/am-treutengraben-3_2.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-praunheim/familien/ege-albrecht"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}
