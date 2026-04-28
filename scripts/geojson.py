@@ -367,14 +367,31 @@ def main():
         root = find(f["slug"])
         groups[root].append(f["slug"])
 
-    primary_slugs = set()
+    # Build slug→theme mapping from the geojson files
+    slug_to_theme = {}
+    for name, data in geojson_files.items():
+        theme_slug = name.replace(".geojson", "")
+        for f in data["features"]:
+            slug_to_theme[f["properties"]["slug"]] = theme_slug
+
     stacked_slugs = set()
     for members in groups.values():
         if len(members) < 2:
             continue
         for s in members:
             stacked_slugs.add(s)
-        primary_slugs.add(members[0])
+
+    # Pick one primary per theme per group so each theme has a visible marker
+    primary_slugs = set()
+    for members in groups.values():
+        if len(members) < 2:
+            continue
+        seen_themes = set()
+        for s in members:
+            t = slug_to_theme.get(s)
+            if t and t not in seen_themes:
+                seen_themes.add(t)
+                primary_slugs.add(s)
 
     stacked_count = 0
     hidden_count = 0
@@ -389,7 +406,7 @@ def main():
                     hidden_count += 1
         (OUT_DIR / name).write_text(json.dumps(data, ensure_ascii=False) + "\n")
 
-    print(f"  {stacked_count} POIs stacked, {hidden_count} hidden (1 marker per group)")
+    print(f"  {stacked_count} POIs stacked, {hidden_count} hidden (1 primary per theme per group)")
 
     # Copy markdown files to public/content/, rewriting image paths to R2 URLs
     image_path_re = re.compile(r"(\.\./)+images/")
