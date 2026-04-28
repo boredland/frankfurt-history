@@ -54,7 +54,7 @@ SCRAPED_DIR = DATA_DIR / "stolpersteine-scraped"
 DEEPL_API_KEY = os.environ.get("DEEPL_API_KEY", "")
 DEEPL_URL = "https://api-free.deepl.com/v2/translate"
 
-PARALLEL_WORKERS = 8
+PARALLEL_WORKERS = 2
 
 NS = {
     "wfs": "http://www.opengis.net/wfs",
