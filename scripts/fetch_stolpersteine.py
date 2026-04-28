@@ -356,6 +356,7 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
     log(f"Scraping from Wayback Machine ({PARALLEL_WORKERS} workers)…")
     log(f"  {len(items)} total, {len(items) - len(to_scrape)} cached, {len(to_scrape)} to fetch")
 
+    missed_urls: list[str] = []
     if to_scrape:
         done = 0
         ok = 0
@@ -370,21 +371,28 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
             for future in as_completed(futures):
                 done += 1
                 item = futures[future]
-                slug = item["url"].split("/")[-1]
                 try:
                     result = future.result()
                     if result:
                         ok += 1
                     else:
                         missed += 1
+                        missed_urls.append(item["url"])
                 except Exception as e:
                     errors += 1
-                    log(f"  ERROR {slug}: {e}")
+                    log(f"  ERROR {item['url'].split('/')[-1]}: {e}")
+                    missed_urls.append(item["url"])
                 if done % 25 == 0 or done == total:
                     log(f"  Wayback progress: {done}/{total} ({ok} ok, {missed} missed, {errors} errors)")
 
     total_scraped = len(list(SCRAPED_DIR.glob("*.json")))
     log(f"Scraping complete: {total_scraped} total files")
+
+    if missed_urls:
+        log(f"\n--- {len(missed_urls)} URLs not found in Wayback Machine ---")
+        for url in sorted(missed_urls):
+            log(f"  {url}")
+        log("---")
 
     if do_translate and DEEPL_API_KEY:
         translate_scraped()
