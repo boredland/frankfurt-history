@@ -17,6 +17,7 @@ import html as html_mod
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 import urllib.parse
@@ -352,6 +353,29 @@ NOT_FOUND = "not_found"
 FETCH_FAILED = "fetch_failed"
 
 
+def _git_commit_progress(batch_ok: int, done: int, total: int):
+    """Commit scraped files so progress survives workflow cancellation."""
+    if not os.environ.get("CI"):
+        return
+    try:
+        subprocess.run(
+            ["git", "add", str(SCRAPED_DIR)],
+            cwd=DATA_DIR.parent, capture_output=True, timeout=10,
+        )
+        result = subprocess.run(
+            ["git", "diff", "--cached", "--quiet"],
+            cwd=DATA_DIR.parent, capture_output=True, timeout=10,
+        )
+        if result.returncode != 0:
+            subprocess.run(
+                ["git", "commit", "-m", f"stolpersteine: scrape progress {done}/{total}"],
+                cwd=DATA_DIR.parent, capture_output=True, timeout=10,
+            )
+            log(f"  Committed {batch_ok} new files ({done}/{total})")
+    except Exception as e:
+        log(f"  Git commit failed: {e}")
+
+
 def scrape_one(item: dict) -> dict | str:
     """Returns scraped dict, or a status string explaining the miss."""
     slug = item["url"].split("/")[-1]
@@ -423,52 +447,62 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
     log(f"Scraping from Wayback Machine ({PARALLEL_WORKERS} workers)…")
     log(f"  {len(items)} total, {len(items) - len(to_scrape)} cached, {len(to_scrape)} to fetch")
 
-    not_archived_urls: list[str] = []
+    not_found_urls: list[str] = []
     fetch_failed_urls: list[str] = []
+    BATCH_SIZE = 25
+
     if to_scrape:
         done = 0
         ok = 0
-        not_archived = 0
+        not_found = 0
         fetch_failed = 0
         errors = 0
         total = len(to_scrape)
-        with ThreadPoolExecutor(max_workers=PARALLEL_WORKERS) as pool:
-            futures = {
-                pool.submit(scrape_one, item): item
-                for item in to_scrape
-            }
-            for future in as_completed(futures):
-                done += 1
-                item = futures[future]
-                try:
-                    result = future.result()
-                    if result == SKIP:
-                        ok += 1
-                    elif result == NOT_FOUND:
-                        not_archived += 1
-                        not_archived_urls.append(item["url"])
-                    elif result == FETCH_FAILED:
-                        fetch_failed += 1
-                        fetch_failed_urls.append(item["url"])
-                    elif isinstance(result, dict):
-                        ok += 1
-                    else:
+        batch_ok = 0
+
+        for batch_start in range(0, total, BATCH_SIZE):
+            batch = to_scrape[batch_start : batch_start + BATCH_SIZE]
+            with ThreadPoolExecutor(max_workers=PARALLEL_WORKERS) as pool:
+                futures = {
+                    pool.submit(scrape_one, item): item
+                    for item in batch
+                }
+                for future in as_completed(futures):
+                    done += 1
+                    item = futures[future]
+                    try:
+                        result = future.result()
+                        if result == SKIP:
+                            ok += 1
+                        elif result == NOT_FOUND:
+                            not_found += 1
+                            not_found_urls.append(item["url"])
+                        elif result == FETCH_FAILED:
+                            fetch_failed += 1
+                            fetch_failed_urls.append(item["url"])
+                        elif isinstance(result, dict):
+                            ok += 1
+                            batch_ok += 1
+                        else:
+                            errors += 1
+                    except Exception as e:
                         errors += 1
-                except Exception as e:
-                    errors += 1
-                    log(f"  ERROR {item['url'].split('/')[-1]}: {e}")
-                if done % 25 == 0 or done == total:
-                    log(f"  Wayback progress: {done}/{total} — {ok} ok, {not_archived} not archived, {fetch_failed} fetch failed, {errors} errors")
+                        log(f"  ERROR {item['url'].split('/')[-1]}: {e}")
+
+            log(f"  Batch {batch_start // BATCH_SIZE + 1}: {done}/{total} — {ok} ok, {not_found} not found, {fetch_failed} fetch failed, {errors} errors")
+            if batch_ok > 0:
+                _git_commit_progress(batch_ok, done, total)
+                batch_ok = 0
 
     total_scraped = len(list(SCRAPED_DIR.glob("*.json")))
     log(f"Scraping complete: {total_scraped} total files")
 
-    if not_archived_urls:
-        log(f"\n--- {len(not_archived_urls)} URLs not archived (no Wayback snapshot exists) ---")
-        for url in sorted(not_archived_urls):
+    if not_found_urls:
+        log(f"\n--- {len(not_found_urls)} URLs not found (no Wayback snapshot, Scrapfly failed) ---")
+        for url in sorted(not_found_urls):
             log(f"  {url}")
     if fetch_failed_urls:
-        log(f"\n--- {len(fetch_failed_urls)} URLs archived but fetch failed ---")
+        log(f"\n--- {len(fetch_failed_urls)} URLs fetch failed ---")
         for url in sorted(fetch_failed_urls):
             log(f"  {url}")
 
