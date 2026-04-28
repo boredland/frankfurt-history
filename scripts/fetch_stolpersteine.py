@@ -242,12 +242,13 @@ def translate_deepl(text: str, target_lang: str = "EN") -> str | None:
     if not DEEPL_API_KEY:
         return None
     data = urllib.parse.urlencode({
-        "auth_key": DEEPL_API_KEY,
         "text": text,
         "source_lang": "DE",
         "target_lang": target_lang,
     }).encode()
-    req = urllib.request.Request(DEEPL_URL, data=data, headers={"User-Agent": UA})
+    req = urllib.request.Request(DEEPL_URL, data=data, headers={
+        "Authorization": f"DeepL-Auth-Key {DEEPL_API_KEY}",
+    })
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
             result = json.loads(resp.read())
