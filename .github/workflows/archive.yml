@@ -19,6 +19,9 @@ jobs:
       - name: Run archival
         run: uv run archive.py
 
+      - name: Fetch Stolpersteine from frankfurt.de
+        run: uv run scripts/fetch_stolpersteine.py
+
       - name: Reverse geocode addresses
         env:
           GEOCODE_PROXY_URL: ${{ secrets.GEOCODE_PROXY_URL }}
