@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Am Lindenbaum 4",
+  "address": "Am Lindenbaum 4",
+  "street": "Am Lindenbaum",
+  "house_number": "4",
+  "zip": "60433",
+  "lat": 50.1531519,
+  "lng": 8.6616807,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-eschersheim/standorte/am-lindenbaum-4",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/am_lindenbaum_4__400x300.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/stolperst_am_lindenbaum_4_henle_franz__400x400.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-eschersheim/familien/henle-franz"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}

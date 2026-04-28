@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Berger Straße 200",
+  "address": "Berger Straße 200",
+  "street": "Berger Straße",
+  "house_number": "200",
+  "zip": "60385",
+  "lat": 50.1259191,
+  "lng": 8.7076575,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-bornheim/standorte/berger-strasse-200",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/bergerstr_200.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolpersteine_bergerstr_200.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-bornheim/familien/steigerwald-abraham-und-hannchen"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}
