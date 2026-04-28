@@ -617,7 +617,9 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
             {article?.title ?? "Article"}
           </Drawer.Title>
           {isMobile && (
-            <Drawer.Handle className="shrink-0 [&>span]:!bg-sepia-light" />
+            <div className="flex justify-center py-2.5 shrink-0">
+              <div className="w-8 h-1 rounded-full bg-sepia-light" />
+            </div>
           )}
           {content}
         </Drawer.Content>
