@@ -439,33 +439,59 @@ def translate_scraped():
     log(f"DeepL done: {done} translated, {errors} errors, {chars_sent // 1000}k chars sent")
 
 
+DEEPLX_URL = os.environ.get("DEEPLX_URL", "")
+_deepl_api_exhausted = False
+
+
 def translate_deepl(text: str, target_lang: str = "EN") -> str | None:
-    if not DEEPL_API_KEY:
-        return None
-    data = urllib.parse.urlencode({
-        "text": text,
-        "source_lang": "DE",
-        "target_lang": target_lang,
-    }).encode()
-    req = urllib.request.Request(DEEPL_URL, data=data, headers={
-        "Authorization": f"DeepL-Auth-Key {DEEPL_API_KEY}",
-    })
-    try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            result = json.loads(resp.read())
-        return result["translations"][0]["text"]
-    except urllib.error.HTTPError as e:
-        if e.code == 456:
-            log("    DeepL: quota exhausted (456)")
-        elif e.code == 429:
-            log("    DeepL: rate limited (429), waiting 5s")
-            time.sleep(5)
-        else:
-            log(f"    DeepL error: {e}")
-        return None
-    except Exception as e:
-        log(f"    DeepL error: {e}")
-        return None
+    global _deepl_api_exhausted
+
+    # Try official API first (if key available and not exhausted)
+    if DEEPL_API_KEY and not _deepl_api_exhausted:
+        data = urllib.parse.urlencode({
+            "text": text,
+            "source_lang": "DE",
+            "target_lang": target_lang,
+        }).encode()
+        req = urllib.request.Request(DEEPL_URL, data=data, headers={
+            "Authorization": f"DeepL-Auth-Key {DEEPL_API_KEY}",
+        })
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                result = json.loads(resp.read())
+            return result["translations"][0]["text"]
+        except urllib.error.HTTPError as e:
+            if e.code == 456:
+                log("    DeepL API: quota exhausted, switching to DeepLX")
+                _deepl_api_exhausted = True
+            elif e.code == 429:
+                time.sleep(5)
+            else:
+                log(f"    DeepL API error: {e}")
+        except Exception as e:
+            log(f"    DeepL API error: {e}")
+
+    # Fall back to DeepLX (self-hosted, no quota)
+    if DEEPLX_URL:
+        body = json.dumps({
+            "text": text,
+            "source_lang": "DE",
+            "target_lang": target_lang,
+        }).encode()
+        req = urllib.request.Request(
+            f"{DEEPLX_URL}/translate",
+            data=body,
+            headers={"Content-Type": "application/json"},
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                result = json.loads(resp.read())
+            if result.get("code") == 200:
+                return result.get("data", "")
+        except Exception as e:
+            log(f"    DeepLX error: {e}")
+
+    return None
 
 
 # ---------- Main ----------
