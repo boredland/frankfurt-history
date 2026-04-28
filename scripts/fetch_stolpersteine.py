@@ -17,7 +17,6 @@ import html as html_mod
 import json
 import os
 import re
-import subprocess
 import sys
 import time
 import urllib.parse
@@ -356,27 +355,6 @@ NOT_FOUND = "not_found"
 FETCH_FAILED = "fetch_failed"
 
 
-def _git_commit_progress(batch_ok: int, done: int, total: int):
-    """Commit scraped files so progress survives workflow cancellation."""
-    if not os.environ.get("CI"):
-        return
-    try:
-        subprocess.run(
-            ["git", "add", str(SCRAPED_DIR)],
-            cwd=DATA_DIR.parent, capture_output=True, timeout=10,
-        )
-        result = subprocess.run(
-            ["git", "diff", "--cached", "--quiet"],
-            cwd=DATA_DIR.parent, capture_output=True, timeout=10,
-        )
-        if result.returncode != 0:
-            subprocess.run(
-                ["git", "commit", "-m", f"stolpersteine: scrape progress {done}/{total}"],
-                cwd=DATA_DIR.parent, capture_output=True, timeout=10,
-            )
-            log(f"  Committed {batch_ok} new files ({done}/{total})")
-    except Exception as e:
-        log(f"  Git commit failed: {e}")
 
 
 def scrape_one(item: dict) -> dict | str:
@@ -461,7 +439,6 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
         fetch_failed = 0
         errors = 0
         total = len(to_scrape)
-        batch_ok = 0
 
         for batch_start in range(0, total, BATCH_SIZE):
             batch = to_scrape[batch_start : batch_start + BATCH_SIZE]
@@ -485,7 +462,6 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
                             fetch_failed_urls.append(item["url"])
                         elif isinstance(result, dict):
                             ok += 1
-                            batch_ok += 1
                         else:
                             errors += 1
                     except Exception as e:
@@ -493,9 +469,6 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
                         log(f"  ERROR {item['url'].split('/')[-1]}: {e}")
 
             log(f"  Batch {batch_start // BATCH_SIZE + 1}: {done}/{total} — {ok} ok, {not_found} not found, {fetch_failed} fetch failed, {errors} errors")
-            if batch_ok > 0:
-                _git_commit_progress(batch_ok, done, total)
-                batch_ok = 0
 
     total_scraped = len(list(SCRAPED_DIR.glob("*.json")))
     log(f"Scraping complete: {total_scraped} total files")

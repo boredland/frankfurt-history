@@ -51,6 +51,16 @@ jobs:
           git pull --rebase
           git push
 
+      - name: Push progress on failure
+        if: cancelled() || failure()
+        run: |
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "archive: partial progress $(date -u +%Y-%m-%d)"
+          fi
+          git pull --rebase
+          git push
+
       - name: Sync images to R2
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
