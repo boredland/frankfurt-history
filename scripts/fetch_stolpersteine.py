@@ -25,6 +25,13 @@ import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
+_start_time = time.monotonic()
+
+def log(msg: str):
+    elapsed = time.monotonic() - _start_time
+    m, s = divmod(int(elapsed), 60)
+    print(f"[{m:02d}:{s:02d}] {msg}", flush=True)
+
 WFS_URL = (
     "https://geowebdienste.frankfurt.de/POI"
     "?service=WFS&version=1.1.0&request=GetFeature"
@@ -122,7 +129,7 @@ def get_archived_urls() -> set[str]:
                 urls.add(url)
         return urls
     except Exception as e:
-        print(f"  Warning: CDX query failed: {e}")
+        log(f"  Warning: CDX query failed: {e}")
         return set()
 
 
@@ -246,7 +253,7 @@ def translate_deepl(text: str, target_lang: str = "EN") -> str | None:
             result = json.loads(resp.read())
         return result["translations"][0]["text"]
     except Exception as e:
-        print(f"    DeepL error: {e}")
+        log(f"    DeepL error: {e}")
         return None
 
 
@@ -291,11 +298,12 @@ def translate_scraped():
                 to_translate.append((f, i, bio["text"]))
 
     if not to_translate:
-        print("  All biographies already translated")
+        log("All biographies already translated")
         return
 
-    print(f"  Translating {len(to_translate)} biographies via DeepL…")
+    log(f"Translating {len(to_translate)} biographies via DeepL…")
     done = 0
+    errors = 0
     for path, bio_idx, text in to_translate:
         en = translate_deepl(text)
         if en:
@@ -303,9 +311,11 @@ def translate_scraped():
             data["biographies"][bio_idx]["text_en"] = en
             path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n")
             done += 1
-        if done % 10 == 0 and done > 0:
-            print(f"    {done}/{len(to_translate)} translated")
-    print(f"  {done}/{len(to_translate)} translated")
+        else:
+            errors += 1
+        if (done + errors) % 25 == 0:
+            log(f"  DeepL progress: {done} translated, {errors} errors / {len(to_translate)} total")
+    log(f"DeepL done: {done} translated, {errors} errors")
 
 
 def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
@@ -317,11 +327,15 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
         if not (SCRAPED_DIR / f"{s['url'].split('/')[-1]}.json").exists()
     ]
 
-    print(f"\nScraping from Wayback Machine ({PARALLEL_WORKERS} workers)…")
-    print(f"  {len(items)} total, {len(items) - len(to_scrape)} cached, {len(to_scrape)} to fetch")
+    log(f"Scraping from Wayback Machine ({PARALLEL_WORKERS} workers)…")
+    log(f"  {len(items)} total, {len(items) - len(to_scrape)} cached, {len(to_scrape)} to fetch")
 
     if to_scrape:
         done = 0
+        ok = 0
+        missed = 0
+        errors = 0
+        total = len(to_scrape)
         with ThreadPoolExecutor(max_workers=PARALLEL_WORKERS) as pool:
             futures = {
                 pool.submit(scrape_one, item): item
@@ -334,15 +348,17 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
                 try:
                     result = future.result()
                     if result:
-                        n_bios = len(result.get("biographies", []))
-                        print(f"  [{done}/{len(to_scrape)}] {slug} — {n_bios} bio(s)")
+                        ok += 1
                     else:
-                        print(f"  [{done}/{len(to_scrape)}] {slug} — not in archive")
+                        missed += 1
                 except Exception as e:
-                    print(f"  [{done}/{len(to_scrape)}] {slug} — error: {e}")
+                    errors += 1
+                    log(f"  ERROR {slug}: {e}")
+                if done % 25 == 0 or done == total:
+                    log(f"  Wayback progress: {done}/{total} ({ok} ok, {missed} missed, {errors} errors)")
 
     total_scraped = len(list(SCRAPED_DIR.glob("*.json")))
-    print(f"  {total_scraped} total scraped files")
+    log(f"Scraping complete: {total_scraped} total files")
 
     if do_translate and DEEPL_API_KEY:
         translate_scraped()
@@ -354,14 +370,14 @@ def main():
     do_scrape = "--scrape" in sys.argv
     do_translate = "--translate" in sys.argv
 
-    print("Fetching Stolpersteine from frankfurt.de WFS…")
+    log("Fetching Stolpersteine from frankfurt.de WFS…")
     xml_bytes = fetch_wfs()
     features = parse_features(xml_bytes)
-    print(f"  Parsed {len(features)} Stolpersteine")
+    log(f"  Parsed {len(features)} Stolpersteine")
 
     normalized = normalize(features)
     with_url = sum(1 for s in normalized if "url" in s)
-    print(f"  {with_url} with detail page URL")
+    log(f"  {with_url} with detail page URL")
 
     our_urls = {
         s["url"].replace("http://", "https://").rstrip("/")
@@ -369,17 +385,17 @@ def main():
         if "url" in s
     }
 
-    print("Checking Wayback Machine coverage…")
+    log("Checking Wayback Machine coverage…")
     archived = get_archived_urls()
     if archived:
         missing = sorted(our_urls - archived)
-        print(f"  {len(archived)} archived, {len(missing)} missing")
+        log(f"  {len(archived)} archived, {len(missing)} missing")
         if missing:
-            print(f"  Submitting {len(missing)} pages to Wayback Machine…")
+            log(f"  Submitting {len(missing)} pages to Wayback Machine…")
             ok = submit_to_wayback(missing)
-            print(f"  Submitted {ok}/{len(missing)}")
+            log(f"  Submitted {ok}/{len(missing)}")
     else:
-        print("  Could not check coverage (CDX unavailable)")
+        log("  Could not check coverage (CDX unavailable)")
 
     existing_count = 0
     if OUT_PATH.exists():
@@ -387,21 +403,23 @@ def main():
         existing_count = len(existing)
 
     OUT_PATH.write_text(json.dumps(normalized, indent=2, ensure_ascii=False) + "\n")
-    print(f"  Written to {OUT_PATH}")
+    log(f"  Written to {OUT_PATH}")
 
     if existing_count:
         delta = len(normalized) - existing_count
         if delta > 0:
-            print(f"  +{delta} new since last run")
+            log(f"  +{delta} new since last run")
         elif delta < 0:
-            print(f"  {delta} removed since last run")
+            log(f"  {delta} removed since last run")
         else:
-            print("  No change in count")
+            log("  No change in count")
 
     if do_scrape:
         if do_translate and not DEEPL_API_KEY:
-            print("Warning: --translate requested but DEEPL_API_KEY not set")
+            log("Warning: --translate requested but DEEPL_API_KEY not set")
         scrape_content(normalized, do_translate)
+
+    log("Done.")
 
 
 if __name__ == "__main__":
