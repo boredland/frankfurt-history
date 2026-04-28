@@ -453,15 +453,18 @@ def main():
         existing = json.loads(OUT_PATH.read_text())
         existing_count = len(existing)
 
-    OUT_PATH.write_text(json.dumps(normalized, indent=2, ensure_ascii=False) + "\n")
-    log(f"  Written to {OUT_PATH}")
-
-    if existing_count:
-        delta = len(normalized) - existing_count
-        if delta > 0:
-            log(f"  +{delta} new since last run")
-        elif delta < 0:
-            log(f"  {delta} removed since last run")
+    if len(normalized) == 0 and existing_count > 0:
+        log("  WFS returned 0 results — keeping existing data, skipping write")
+        normalized = existing
+    else:
+        OUT_PATH.write_text(json.dumps(normalized, indent=2, ensure_ascii=False) + "\n")
+        log(f"  Written to {OUT_PATH}")
+        if existing_count:
+            delta = len(normalized) - existing_count
+            if delta > 0:
+                log(f"  +{delta} new since last run")
+            elif delta < 0:
+                log(f"  {delta} removed since last run")
         else:
             log("  No change in count")
 
