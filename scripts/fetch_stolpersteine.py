@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
-"""Fetch authoritative Stolpersteine data from Frankfurt's WFS + Wayback Machine.
+"""Fetch authoritative Stolpersteine data from Frankfurt's WFS + scrape detail pages.
 
 1. Fetches the full Stolperstein dataset from Frankfurt's WFS endpoint
-2. Checks Wayback Machine coverage, submits missing pages for archival
-3. Fetches location + biography pages from Wayback (parallel) for content extraction
-4. Translates German biographies to English via DeepL API
-5. Writes normalized JSON + per-location scraped content
+2. Scrapes location + biography pages (ScraperAPI → Wayback Machine fallback)
+3. Translates German biographies to English via DeepL API
+4. Writes normalized JSON + per-location scraped content
 
 Usage:
     uv run scripts/fetch_stolpersteine.py                       # WFS + Wayback check
@@ -372,7 +371,7 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
         if not (SCRAPED_DIR / f"{s['url'].split('/')[-1]}.json").exists()
     ]
 
-    log(f"Scraping from Wayback Machine ({PARALLEL_WORKERS} workers)…")
+    log(f"Scraping detail pages (ScraperAPI → Wayback fallback, {PARALLEL_WORKERS} workers)…")
     log(f"  {len(items)} total, {len(items) - len(to_scrape)} cached, {len(to_scrape)} to fetch")
 
     not_found_urls: list[str] = []
@@ -421,7 +420,7 @@ def scrape_content(stolpersteine: list[dict], do_translate: bool = False):
     log(f"Scraping complete: {total_scraped} total files")
 
     if not_found_urls:
-        log(f"\n--- {len(not_found_urls)} URLs not found (no Wayback snapshot, Scrapfly failed) ---")
+        log(f"\n--- {len(not_found_urls)} URLs not found (ScraperAPI + Wayback both failed) ---")
         for url in sorted(not_found_urls):
             log(f"  {url}")
     if fetch_failed_urls:
