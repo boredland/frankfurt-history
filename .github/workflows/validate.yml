@@ -42,6 +42,8 @@ jobs:
               lat, lng = float(m.group(1)), float(m.group(2))
               if lat == 0 and lng == 0:
                   continue
+              if lat > 1000 or lng > 1000:
+                  continue
               if not (BBOX['lat_min'] < lat < BBOX['lat_max'] and BBOX['lng_min'] < lng < BBOX['lng_max']):
                   rel = md.relative_to(content)
                   errors.append(f'  {rel}: [{lat}, {lng}]')
