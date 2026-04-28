@@ -119,6 +119,18 @@ def normalize(features: list[dict]) -> list[dict]:
 
 # ---------- Wayback Machine ----------
 
+def _submit_to_wayback(url: str):
+    """Request Wayback Machine to save a new snapshot of a URL."""
+    try:
+        req = urllib.request.Request(
+            f"https://web.archive.org/save/{url}",
+            headers={"User-Agent": UA},
+        )
+        urllib.request.urlopen(req, timeout=10)
+    except Exception:
+        pass
+
+
 def resolve_wayback_url(url: str) -> str | None:
     """Get the best snapshot URL via CDX, filtering by size to skip CF challenge pages."""
     cdx_url = (
@@ -135,6 +147,7 @@ def resolve_wayback_url(url: str) -> str | None:
                 return f"https://web.archive.org/web/{ts}/{url}"
     except Exception:
         pass
+    _submit_to_wayback(url)
     return None
 
 
