@@ -276,29 +276,38 @@ def crawl(wfs_entries: list[dict], do_translate: bool = False):
 
     already_scraped = {f.stem for f in SCRAPED_DIR.glob("*.json")}
 
-    # Seed: WFS URLs + district index pages
-    queue: list[str] = []
-    visited: set[str] = set()
+    # Mark all known URLs as visited so we don't re-fetch them,
+    # but collect all URLs they reference so we can find genuinely new ones
+    known_urls: set[str] = set()
+    for s in wfs_entries:
+        if "url" in s:
+            known_urls.add(s["url"])
+    for f in SCRAPED_DIR.glob("*.json"):
+        data = json.loads(f.read_text())
+        if "url" in data:
+            known_urls.add(data["url"])
+        for bio_url in data.get("location", {}).get("bio_links", []):
+            known_urls.add(bio_url)
 
-    # Add WFS location URLs we haven't scraped yet
+    queue: list[str] = []
+    visited: set[str] = set(known_urls)
+
+    # Seed queue with un-scraped WFS URLs
     for s in wfs_entries:
         if "url" in s and s["url"].split("/")[-1] not in already_scraped:
             queue.append(s["url"])
-            visited.add(s["url"])
 
-    # Add district index pages for link discovery
-    district_url = STOLPERSTEINE_ROOT
-    log(f"Crawling from {len(queue)} seed URLs + district discovery…")
-
-    # Discover district pages from Wayback
-    district_html = fetch_wayback(district_url)
+    # Discover district index pages from the landing page
+    log("Discovering pages from Stolpersteine landing page…")
+    district_html = fetch_wayback(STOLPERSTEINE_ROOT)
     if district_html:
-        for raw in re.findall(r'href="([^"]*stolpersteine-(?:in|im|an)[^"]*)"', district_html):
+        for raw in re.findall(r'href="([^"]*stolpersteine-(?:in|im|an|am)[^"]*)"', district_html):
             url = normalize_url(raw)
             if url and url not in visited:
                 visited.add(url)
                 queue.append(url)
-        log(f"  Discovered {len(queue)} pages from landing + WFS")
+
+    log(f"  {len(already_scraped)} already scraped, {len(known_urls)} known URLs, {len(queue)} to crawl")
 
     ok = 0
     not_found = 0
