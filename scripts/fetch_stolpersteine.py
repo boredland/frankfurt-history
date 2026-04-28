@@ -234,7 +234,7 @@ def fetch_scraperapi(url: str) -> str | None:
                 continue
             return html
         except urllib.error.HTTPError as e:
-            if e.code == 403:
+            if e.code in (403, 500, 502, 503, 429):
                 continue
             log(f"    ScraperAPI error (key …{key[-4:]}): {e}")
         except Exception as e:
