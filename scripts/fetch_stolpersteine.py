@@ -44,6 +44,9 @@ SCRAPERAPI_KEYS = [
     k.strip() for k in os.environ.get("SCRAPERAPI_KEYS", "").split(",") if k.strip()
 ]
 
+GEOCODE_PROXY_URL = os.environ.get("GEOCODE_PROXY_URL", "")
+GEOCODE_PROXY_TOKEN = os.environ.get("GEOCODE_PROXY_TOKEN", "")
+
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 OUT_PATH = DATA_DIR / "stolpersteine-ffm.json"
 SCRAPED_DIR = DATA_DIR / "stolpersteine-scraped"
@@ -65,10 +68,21 @@ UA = "Mozilla/5.0 (compatible; FrankfurtHistoryBot/1.0)"
 # ---------- WFS ----------
 
 def fetch_wfs() -> bytes:
-    req = urllib.request.Request(WFS_URL, headers={
-        "Referer": REFERER,
-        "Accept-Encoding": "identity",
-    })
+    if GEOCODE_PROXY_URL and GEOCODE_PROXY_TOKEN:
+        proxy_params = urllib.parse.urlencode({"url": WFS_URL})
+        req = urllib.request.Request(
+            f"{GEOCODE_PROXY_URL}?{proxy_params}",
+            headers={
+                "Authorization": f"Bearer {GEOCODE_PROXY_TOKEN}",
+                "X-Forward-Referer": REFERER,
+            },
+        )
+        log("  Using proxy for WFS request")
+    else:
+        req = urllib.request.Request(WFS_URL, headers={
+            "Referer": REFERER,
+            "Accept-Encoding": "identity",
+        })
     try:
         with urllib.request.urlopen(req, timeout=60) as resp:
             data = resp.read()
@@ -76,6 +90,20 @@ def fetch_wfs() -> bytes:
             return data
     except Exception as e:
         log(f"  WFS fetch failed: {e}")
+        # Fall back to direct request if proxy fails
+        if GEOCODE_PROXY_URL:
+            log("  Retrying WFS without proxy…")
+            req = urllib.request.Request(WFS_URL, headers={
+                "Referer": REFERER,
+                "Accept-Encoding": "identity",
+            })
+            try:
+                with urllib.request.urlopen(req, timeout=60) as resp:
+                    data = resp.read()
+                    log(f"  WFS direct response: {resp.status}, {len(data)} bytes")
+                    return data
+            except Exception as e2:
+                log(f"  WFS direct also failed: {e2}")
         return b""
 
 
