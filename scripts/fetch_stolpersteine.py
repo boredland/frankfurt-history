@@ -398,7 +398,7 @@ def crawl(wfs_entries: list[dict], do_translate: bool = False):
         for url in sorted(not_found_urls):
             log(f"  {url}")
 
-    if do_translate and DEEPL_API_KEY:
+    if do_translate and DEEPL_API_KEYS:
         translate_scraped()
 
 
@@ -513,8 +513,8 @@ def main():
                 log(f"  {delta} removed since last run")
 
     if do_scrape:
-        if do_translate and not DEEPL_API_KEY:
-            log("Warning: --translate requested but DEEPL_API_KEY not set")
+        if do_translate and not DEEPL_API_KEYS:
+            log("Warning: --translate requested but DEEPL_API_KEYS not set")
         crawl(normalized, do_translate)
 
     log("Done.")
