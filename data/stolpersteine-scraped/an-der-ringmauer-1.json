@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine An der Ringmauer 1",
+  "address": "An der Ringmauer 1",
+  "street": "An der Ringmauer",
+  "house_number": "1",
+  "zip": "60439",
+  "lat": 50.155983,
+  "lng": 8.6433296,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-heddernheim/standorte/an-der-ringmauer-1",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/an_der_ringmauer_134.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/stolpersteine_an_der_ringmauer_1.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-heddernheim/familien/berentzen-lore-und-karl"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}

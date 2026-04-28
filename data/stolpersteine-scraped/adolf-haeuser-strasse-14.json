@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Adolf-Haeuser-Straße 14",
+  "address": "Adolf-Haeuser-Straße 14",
+  "street": "Adolf-Haeuser-Straße",
+  "house_number": "14",
+  "zip": "65929",
+  "lat": 50.1014822,
+  "lng": 8.5404411,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-hoechst/standorte/adolf-haeuser-strasse-14",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/adolf_haeuser_strasse_14_haus.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/adolf_haeuser_strasse_14.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-hoechst/familien/blumenthal-meta-und-fritz-guenther"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}

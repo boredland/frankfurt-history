@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Alfred-Brehm-Platz 13",
+  "address": "Alfred-Brehm-Platz 13",
+  "street": "Alfred-Brehm-Platz",
+  "house_number": "13",
+  "zip": "60316",
+  "lat": 50.1164271,
+  "lng": 8.6978022,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-ostend/standorte/alfred-brehm-platz-13",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/alfred-brehm-platz-13_1.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/alfred-brehm-platz-13_2.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-ostend/familien/griesheimer-joseph-harry-und-thekla"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}

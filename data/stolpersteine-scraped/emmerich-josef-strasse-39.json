@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Emmerich-Josef-Straße 39",
+  "address": "Emmerich-Josef-Straße 39",
+  "street": "Emmerich-Josef-Straße",
+  "house_number": "39",
+  "zip": "65929",
+  "lat": 50.1004162,
+  "lng": 8.5460002,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-hoechst/standorte/emmerich-josef-strasse-39",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/emmerich_josef_str_39_400x300.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_emmjosefstr39_ettinghausen_berta_400x400.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-hoechst/familien/ettinghausen-berta"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Alt-Fechenheim 89",
+  "address": "Alt-Fechenheim 89",
+  "street": "Alt-Fechenheim",
+  "house_number": "89",
+  "zip": "60386",
+  "lat": 50.1243228,
+  "lng": 8.7694205,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-fechenheim/standorte/alt-fechenheim-89",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/alt_fechenheim_89__300x400.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/stolperstein_alt_fechenheim_89__400x300.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-fechenheim/familien/stern-heinrich"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}

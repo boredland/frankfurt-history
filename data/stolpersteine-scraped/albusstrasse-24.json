@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Albusstr. 24",
+  "address": "Albusstraße 24",
+  "street": "Albusstraße",
+  "house_number": "24",
+  "zip": "60313",
+  "lat": 50.1143716,
+  "lng": 8.689931,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-der-innenstadt/standorte/albusstrasse-24",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/albusstr_24.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolpersteine_albusstr_24.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-der-innenstadt/familien/girgulski-maria-max-und-salomon-eichberg-berta-sowie-hagel-josef"
+    ],
+    "laying_date": "19.5.2016"
+  },
+  "biographies": []
+}

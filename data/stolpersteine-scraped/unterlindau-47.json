@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Unterlindau 47",
+  "address": "Unterlindau 47",
+  "street": "Unterlindau",
+  "house_number": "47",
+  "zip": "60323",
+  "lat": 50.1196256,
+  "lng": 8.6677733,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-westend/standorte/unterlindau-47",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/unterlindau-47_1.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/unterlindau-47_2.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-westend/familien/stern-heinz-und-jakob"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}
