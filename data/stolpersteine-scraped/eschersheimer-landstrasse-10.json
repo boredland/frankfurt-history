@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Eschersheimer Landstraße 10",
+  "address": "Eschersheimer Landstraße 10",
+  "street": "Eschersheimer Landstraße",
+  "house_number": "10",
+  "zip": "60322",
+  "lat": 50.1192161,
+  "lng": 8.6784329,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-nordend/standorte/eschersheimer-landstrasse-10",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/eschersheimer_landstr_10__300x400.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/stolpersteine_eschersheimer_landstr_10__400x300.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-nordend/familien/cahn-benedikt-margarete-und-irmgard"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}

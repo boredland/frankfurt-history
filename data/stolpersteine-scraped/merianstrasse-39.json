@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Merianstraße 39",
+  "address": "Merianstraße 39",
+  "street": "Merianstraße",
+  "house_number": "39",
+  "zip": "60316",
+  "lat": 50.1216726,
+  "lng": 8.6924976,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-nordend/standorte/merianstrasse-39",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/merianstr_39.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/stolpersteine_merianstr_39.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-nordend/familien/brueck-blanka"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}

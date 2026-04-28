@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Schumannstraße 43",
+  "address": "Schumannstraße 43",
+  "street": "Schumannstraße",
+  "house_number": "43",
+  "zip": "60325",
+  "lat": 50.1163877,
+  "lng": 8.6545851,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-westend/standorte/schumannstrasse-43",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/schumannstrasse-43_1.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/schumannstrasse-43_2.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-westend/familien/schild-anna"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}
