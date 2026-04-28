@@ -194,16 +194,27 @@ def extract_location_page(html_content: str) -> dict:
 
     content = article.group(1)
 
-    residents_match = re.search(r"Hier wohnten?(.*?)Steinverlegung", content, re.DOTALL)
+    residents_match = re.search(r"wohnten?(.*?)Steinverlegung", content, re.DOTALL)
     if residents_match:
         chunk = residents_match.group(1)
         names = re.findall(r">([^<]+)</a>", chunk)
         result["residents"] = [html_mod.unescape(n.strip()) for n in names if n.strip()]
-        bio_links = re.findall(r'href="([^"]+)"', chunk)
-        for bl in bio_links:
+        for bl in re.findall(r'href="([^"]*(?:/familien/|/biograph)[^"]*)"', chunk):
             m = re.search(r"/web/\d+/(https?://[^\"]+)", bl)
-            if m:
-                result["bio_links"].append(m.group(1).replace(":443", ""))
+            url = m.group(1).replace(":443", "") if m else bl
+            if url.startswith("/"):
+                url = "https://frankfurt.de" + url
+            if url.startswith("https://"):
+                result["bio_links"].append(url)
+
+    if not result["bio_links"]:
+        for bl in re.findall(r'href="([^"]*(?:/familien/|/biograph)[^"]*)"', content):
+            m = re.search(r"/web/\d+/(https?://[^\"]+)", bl)
+            url = m.group(1).replace(":443", "") if m else bl
+            if url.startswith("/"):
+                url = "https://frankfurt.de" + url
+            if url.startswith("https://"):
+                result["bio_links"].append(url)
 
     date_match = re.search(r"Steinverlegung am:\s*</?\w+[^>]*>\s*(\d[\d.]+)", content, re.DOTALL)
     if date_match:
