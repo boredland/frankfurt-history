@@ -1,0 +1,20 @@
+{
+  "name": "Stolpersteine Herderstraße 11",
+  "address": "Herderstraße 11",
+  "street": "Herderstraße",
+  "house_number": "11",
+  "zip": "60316",
+  "lat": 50.119179,
+  "lng": 8.6946668,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-nordend/standorte/herderstrasse-11",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/herderstr_11.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/stolpersteine_herderstr_11.jpg"
+    ],
+    "bio_links": [],
+    "laying_date": ""
+  },
+  "biographies": []
+}

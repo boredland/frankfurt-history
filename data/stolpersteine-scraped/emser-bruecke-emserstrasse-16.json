@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Emser Brücke (Emser Str. 16)",
+  "address": "Emser Straße 16",
+  "street": "Emser Straße",
+  "house_number": "16",
+  "zip": "60486",
+  "lat": 50.1115363,
+  "lng": 8.6436897,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-westend/standorte/emser-bruecke-emserstrasse-16",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/emser_bruecke.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolpersteine_emser_bruecke.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-westend/familien/muth-anna-und-ernst"
+    ],
+    "laying_date": "21.5.2016"
+  },
+  "biographies": []
+}

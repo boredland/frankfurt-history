@@ -1,0 +1,20 @@
+{
+  "name": "Stolpersteine Eppsteiner Straße 2",
+  "address": "Eppsteiner Straße 2",
+  "street": "Eppsteiner Straße",
+  "house_number": "2",
+  "zip": "60323",
+  "lat": 50.1209837,
+  "lng": 8.6702487,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-westend/standorte/eppsteiner-strasse-2",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/eppsteiner_str_2.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/stolpersteine_eppsteiner_str_2.jpg"
+    ],
+    "bio_links": [],
+    "laying_date": ""
+  },
+  "biographies": []
+}

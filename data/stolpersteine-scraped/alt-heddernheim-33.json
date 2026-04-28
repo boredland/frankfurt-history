@@ -1,0 +1,25 @@
+{
+  "name": "Stolpersteine Alt-Heddernheim 33",
+  "address": "Alt-Heddernheim 33",
+  "street": "Alt-Heddernheim",
+  "house_number": "33",
+  "zip": "60439",
+  "lat": 50.1576009,
+  "lng": 8.64861,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-heddernheim/standorte/alt-heddernheim-33",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/alt_heddernheim_33_haus.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/stolpersteine_alt_heddernheim_33.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/alt_heddernheim_33.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-heddernheim/familien/schwelm-berta-max-und-hildegard-ilse",
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-heddernheim/familien/stern-helene-und-siegfried",
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-heddernheim/familien/stern-isidor-und-martha"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}

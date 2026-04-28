@@ -1,0 +1,22 @@
+{
+  "name": "Stolpersteine Bäckerweg 30",
+  "address": "Bäckerweg 30",
+  "street": "Bäckerweg",
+  "house_number": "30",
+  "zip": "60316",
+  "lat": 50.1214193,
+  "lng": 8.6919259,
+  "url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-nordend/standorte/baeckerweg-30",
+  "location": {
+    "residents": [],
+    "images": [
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/baeckerweg_30_300x400.jpg",
+      "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/stolpersteine_baeckerweg_30__400x300.jpg"
+    ],
+    "bio_links": [
+      "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-nordend/familien/strauss-robert-und-babette"
+    ],
+    "laying_date": ""
+  },
+  "biographies": []
+}
