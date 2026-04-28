@@ -149,7 +149,7 @@ export function FilterPanel({
         </div>
       </div>
 
-      {filters.length > 0 && (
+      {filters.length > 1 && (
         <>
           <div className="px-3 py-2 border-b border-sepia-light flex items-center justify-between">
             <span className="text-xs text-faded uppercase tracking-wider">
