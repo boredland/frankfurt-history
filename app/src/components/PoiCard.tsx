@@ -34,9 +34,13 @@ export function PoiCard({
           search: (prev: Record<string, unknown>) => prev,
         });
       }}
-      className="w-full flex items-center gap-2.5 rounded-lg overflow-hidden bg-paper border border-sepia-light/60 hover:border-sepia hover:shadow-sm cursor-pointer transition-all text-left group p-1.5"
+      className="w-full flex items-center gap-0 rounded-lg overflow-hidden bg-paper border border-sepia-light/60 hover:border-sepia hover:shadow-sm cursor-pointer transition-all text-left group"
     >
-      <div className="relative shrink-0">
+      <div
+        className="self-stretch w-1 shrink-0 rounded-l-lg"
+        style={{ backgroundColor: THEME_COLORS[theme] || "#8B7355" }}
+      />
+      <div className="relative shrink-0 ml-1.5 my-1.5">
         {thumb ? (
           <img
             src={imageUrl(thumb, "thumbnail")}
@@ -49,14 +53,26 @@ export function PoiCard({
             style={{
               backgroundColor: `${THEME_COLORS[theme] || "#8B7355"}20`,
             }}
-          />
+          >
+            <svg
+              width="16"
+              height="20"
+              viewBox="0 0 18 26"
+              fill="none"
+              role="img"
+              aria-label={theme}
+            >
+              <path
+                d="M9 0C4.03 0 0 4.03 0 9c0 6.75 9 16.5 9 16.5s9-9.75 9-16.5C18 4.03 13.97 0 9 0z"
+                fill={THEME_COLORS[theme] || "#8B7355"}
+                opacity={0.6}
+              />
+              <circle cx="9" cy="9" r="3.5" fill="white" opacity={0.5} />
+            </svg>
+          </div>
         )}
-        <span
-          className="absolute -bottom-0.5 -right-0.5 w-3 h-3 rounded-full border-2 border-paper"
-          style={{ backgroundColor: THEME_COLORS[theme] || "#8B7355" }}
-        />
       </div>
-      <div className="min-w-0 flex-1">
+      <div className="min-w-0 flex-1 ml-2.5 py-1.5">
         <div className="text-[13px] font-medium text-ink leading-snug group-hover:text-sepia transition-colors line-clamp-2">
           {title}
         </div>
@@ -73,7 +89,7 @@ export function PoiCard({
         fill="none"
         stroke="currentColor"
         strokeWidth="1.5"
-        className="shrink-0 text-sepia-light group-hover:text-sepia transition-colors"
+        className="shrink-0 text-sepia-light group-hover:text-sepia transition-colors mr-1.5"
         role="img"
         aria-label="Open"
       >
