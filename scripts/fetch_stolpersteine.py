@@ -141,7 +141,7 @@ def resolve_wayback_url(url: str) -> str | None:
 def _fetch_html(url: str) -> str | None:
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     try:
-        with urllib.request.urlopen(req, timeout=15) as resp:
+        with urllib.request.urlopen(req, timeout=30) as resp:
             data = resp.read()
         html = data.decode("utf-8", errors="replace")
         if "Just a moment" in html[:1000] or len(html) < 500:
