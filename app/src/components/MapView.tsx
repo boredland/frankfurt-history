@@ -15,7 +15,12 @@ import MapGL, {
 } from "react-map-gl/maplibre";
 import { createMapStyle } from "~/lib/mapStyle";
 import { useNavigation } from "~/lib/NavigationContext";
-import { SNAP_TOLERANCE, type Theme, themeColor } from "~/lib/themes";
+import {
+  buildFilterColorMap,
+  SNAP_TOLERANCE,
+  type Theme,
+  themeColor,
+} from "~/lib/themes";
 import { PoiCard } from "./PoiCard";
 
 if (typeof window !== "undefined") {
@@ -455,8 +460,23 @@ function ThemeLayer({
     fetch(`/data/${theme.slug}.geojson`)
       .then((r) => r.json() as Promise<GeoJSON.FeatureCollection>)
       .then((data) => {
-        setAllFeatures(data);
-        onFeaturesLoaded(data.features);
+        const colorMap = buildFilterColorMap(data.features);
+        const colored = {
+          ...data,
+          features: data.features.map((f) => {
+            const filters = (f.properties as Record<string, unknown>).filters as
+              | string[]
+              | undefined;
+            const fc = filters?.[0] ? colorMap[filters[0]] : undefined;
+            if (!fc) return f;
+            return {
+              ...f,
+              properties: { ...f.properties, filterColor: fc },
+            };
+          }),
+        };
+        setAllFeatures(colored);
+        onFeaturesLoaded(colored.features);
       })
       .catch(console.error);
   }, [theme.slug, onFeaturesLoaded]);
@@ -539,7 +559,11 @@ function ThemeLayer({
           ["!=", ["get", "slug"], activeSlug ?? ""],
         ]}
         paint={{
-          "circle-color": color,
+          "circle-color": [
+            "coalesce",
+            ["get", "filterColor"],
+            color,
+          ] as unknown as string,
           "circle-radius": 10,
           "circle-opacity": 0.2,
           "circle-stroke-width": 1.5,
@@ -547,7 +571,6 @@ function ThemeLayer({
           "circle-stroke-opacity": 0.4,
         }}
       />
-      {/* Regular POIs (hide secondary stacked markers) */}
       <Layer
         id={`poi-${theme.slug}`}
         type="circle"
@@ -558,10 +581,14 @@ function ThemeLayer({
           ["!=", ["get", "slug"], activeSlug ?? ""],
         ]}
         paint={{
-          "circle-color": color,
+          "circle-color": [
+            "coalesce",
+            ["get", "filterColor"],
+            color,
+          ] as unknown as string,
           "circle-radius": 6,
           "circle-stroke-width": 2,
-          "circle-stroke-color": "#FAF8F5",
+          "circle-stroke-color": color,
         }}
       />
     </Source>

@@ -53,3 +53,34 @@ export const THEME_COLORS: Record<string, string> = {
 export function themeColor(slug: string): string {
   return THEME_COLORS[slug] ?? "#8B7355";
 }
+
+export const FILTER_COLORS = [
+  "#7B68AE",
+  "#C1666B",
+  "#D4A373",
+  "#E07A3E",
+  "#5B8266",
+  "#D4AF37",
+  "#8B6CAB",
+  "#4A7C8F",
+  "#9B7653",
+  "#6B8F71",
+];
+
+export function buildFilterColorMap(
+  features: GeoJSON.Feature[],
+): Record<string, string> {
+  const set = new Set<string>();
+  for (const f of features) {
+    const filters = (f.properties as Record<string, unknown>).filters as
+      | string[]
+      | undefined;
+    if (filters) for (const filt of filters) set.add(filt);
+  }
+  const sorted = [...set].sort();
+  const map: Record<string, string> = {};
+  for (let i = 0; i < sorted.length; i++) {
+    map[sorted[i]] = FILTER_COLORS[i % FILTER_COLORS.length];
+  }
+  return map;
+}

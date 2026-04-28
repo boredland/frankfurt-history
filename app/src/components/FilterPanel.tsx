@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { t } from "~/lib/i18n";
 import type { Theme } from "~/lib/themes";
-import { themeColor, themeTitle } from "~/lib/themes";
+import { FILTER_COLORS, themeColor, themeTitle } from "~/lib/themes";
 
 interface FilterPanelProps {
   theme: Theme;
@@ -10,19 +10,6 @@ interface FilterPanelProps {
   onBack: () => void;
   lang: string;
 }
-
-const PIN_COLORS = [
-  "#7B68AE",
-  "#C1666B",
-  "#D4A373",
-  "#E07A3E",
-  "#5B8266",
-  "#D4AF37",
-  "#8B6CAB",
-  "#4A7C8F",
-  "#9B7653",
-  "#6B8F71",
-];
 
 export function FilterPanel({
   theme,
@@ -182,7 +169,7 @@ export function FilterPanel({
             {filters.map((filter, i) => {
               const isActive =
                 activeFilters.size === 0 || activeFilters.has(filter);
-              const pinColor = PIN_COLORS[i % PIN_COLORS.length];
+              const pinColor = FILTER_COLORS[i % FILTER_COLORS.length];
               const label =
                 lang === "en" && filterLabels[filter]
                   ? filterLabels[filter]
