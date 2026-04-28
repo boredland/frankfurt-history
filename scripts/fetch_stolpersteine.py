@@ -187,15 +187,15 @@ def fetch_scraperapi(url: str) -> str | None:
     return None
 
 
-def fetch_page(url: str) -> str | None:
-    """Fetch a page: try ScraperAPI first (fresh content), fall back to Wayback."""
+def fetch_page(url: str) -> tuple[str | None, str]:
+    """Fetch a page: try ScraperAPI first, fall back to Wayback. Returns (html, source)."""
     html = fetch_scraperapi(url)
     if html:
-        return html
+        return html, "scraperapi"
     html = fetch_wayback(url)
     if html:
-        return html
-    return None
+        return html, "wayback"
+    return None, "none"
 
 
 # ---------- Content extraction ----------
@@ -310,15 +310,16 @@ def scrape_one(item: dict) -> dict | str:
     if out_file.exists():
         return SKIP
 
-    html = fetch_page(item["url"])
+    html, source = fetch_page(item["url"])
     if not html:
+        log(f"    MISS {slug} — not found via scraperapi or wayback")
         return NOT_FOUND
 
     location = extract_location_page(html)
 
     bios = []
     for bio_link in location.get("bio_links", []):
-        bio_html = fetch_page(bio_link)
+        bio_html, _ = fetch_page(bio_link)
         if not bio_html:
             continue
         bio = extract_biography(bio_html)
@@ -327,7 +328,7 @@ def scrape_one(item: dict) -> dict | str:
 
     result = {**item, "location": location, "biographies": bios}
     out_file.write_text(json.dumps(result, indent=2, ensure_ascii=False) + "\n")
-    log(f"    OK {slug} — {len(bios)} bio(s), {len(location.get('residents', []))} residents")
+    log(f"    OK {slug} via {source} — {len(bios)} bio(s), {len(location.get('residents', []))} residents")
     return result
 
 
