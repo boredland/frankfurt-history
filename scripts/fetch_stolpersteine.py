@@ -39,8 +39,6 @@ WFS_URL = (
 )
 REFERER = "https://geoportal.frankfurt.de/"
 
-WAYBACK_CDX = "https://web.archive.org/cdx/search/cdx"
-WAYBACK_SAVE = "https://web.archive.org/save/"
 WAYBACK_AVAIL = "https://archive.org/wayback/available"
 
 SCRAPERAPI_KEYS = [
@@ -114,43 +112,6 @@ def normalize(features: list[dict]) -> list[dict]:
 
 
 # ---------- Wayback Machine ----------
-
-def get_archived_urls() -> set[str]:
-    params = (
-        "?url=frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/"
-        "stadtgeschichte/stolpersteine/"
-        "&matchType=prefix&collapse=urlkey&output=text&fl=original"
-        "&filter=statuscode:200"
-    )
-    req = urllib.request.Request(WAYBACK_CDX + params, headers={"User-Agent": UA})
-    try:
-        with urllib.request.urlopen(req, timeout=120) as resp:
-            text = resp.read().decode()
-        urls = set()
-        for line in text.strip().splitlines():
-            url = line.strip().replace("http://", "https://").rstrip("/")
-            if "/standorte/" in url or "/standort/" in url:
-                urls.add(url)
-        return urls
-    except Exception as e:
-        log(f"  Warning: CDX query failed: {e}")
-        return set()
-
-
-def submit_to_wayback(urls: list[str]) -> int:
-    submitted = 0
-    for url in urls:
-        try:
-            req = urllib.request.Request(
-                WAYBACK_SAVE + url, headers={"User-Agent": UA}
-            )
-            with urllib.request.urlopen(req, timeout=30) as resp:
-                if resp.status in (200, 302):
-                    submitted += 1
-            time.sleep(2)
-        except Exception:
-            pass
-    return submitted
 
 
 def resolve_wayback_url(url: str) -> str | None:
@@ -367,6 +328,7 @@ def scrape_one(item: dict) -> dict | str:
 
     result = {**item, "location": location, "biographies": bios}
     out_file.write_text(json.dumps(result, indent=2, ensure_ascii=False) + "\n")
+    log(f"    OK {slug} — {len(bios)} bio(s), {len(location.get('residents', []))} residents")
     return result
 
 
@@ -485,24 +447,6 @@ def main():
     normalized = normalize(features)
     with_url = sum(1 for s in normalized if "url" in s)
     log(f"  {with_url} with detail page URL")
-
-    our_urls = {
-        s["url"].replace("http://", "https://").rstrip("/")
-        for s in normalized
-        if "url" in s
-    }
-
-    log("Checking Wayback Machine coverage…")
-    archived = get_archived_urls()
-    if archived:
-        missing = sorted(our_urls - archived)
-        log(f"  {len(archived)} archived, {len(missing)} missing")
-        if missing:
-            log(f"  Submitting {len(missing)} pages to Wayback Machine…")
-            ok = submit_to_wayback(missing)
-            log(f"  Submitted {ok}/{len(missing)}")
-    else:
-        log("  Could not check coverage (CDX unavailable)")
 
     existing_count = 0
     if OUT_PATH.exists():
