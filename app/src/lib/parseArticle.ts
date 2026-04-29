@@ -110,18 +110,26 @@ function extractImagesFromLines(
           const titleWords = cleanTitle
             .split(/[\s,.;:—–-]+/)
             .filter((w) => w.length > 1);
-          const captionWords = rawCleaned.split(/\s+/);
+          const captionWords = rawCleaned
+            .split(/\s+/)
+            .filter((w) => !/^\d+$/.test(w));
 
-          const refinedWords = captionWords.map((cWord) => {
-            const match = titleWords.find(
-              (tWord) => tWord.toLowerCase() === cWord.toLowerCase(),
-            );
-            if (match) return match;
-            // Basic capitalization
-            return cWord.charAt(0).toUpperCase() + cWord.slice(1).toLowerCase();
-          });
+          if (captionWords.length > 0) {
+            const refinedWords = captionWords.map((cWord) => {
+              const match = titleWords.find(
+                (tWord) => tWord.toLowerCase() === cWord.toLowerCase(),
+              );
+              if (match) return match;
+              // Basic capitalization
+              return (
+                cWord.charAt(0).toUpperCase() + cWord.slice(1).toLowerCase()
+              );
+            });
 
-          img.caption = refinedWords.join(" ");
+            img.caption = refinedWords.join(" ");
+          } else if (cleanTitle) {
+            img.caption = cleanTitle;
+          }
         } else if (cleanTitle) {
           img.caption = cleanTitle;
         }
