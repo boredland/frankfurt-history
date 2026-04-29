@@ -28,11 +28,40 @@ function markdownBlockToHtml(md: string): string {
   html = html.replace(/(?<=^|[\s(])\*([^*\n]+)\*(?![*\w])/gm, "<em>$1</em>");
   html = html.replace(/^- (.+)$/gm, "<li>$1</li>");
   html = html.replace(/(<li>.*<\/li>\n?)+/g, (match) => `<ul>${match}</ul>`);
-  const paragraphs = html
+
+  const blocks = html
     .split(/\n{2,}/)
+    .map((block) => block.trim())
+    .filter(Boolean);
+
+  const joinedBlocks: string[] = [];
+  for (let i = 0; i < blocks.length; i++) {
+    const current = blocks[i];
+    if (joinedBlocks.length > 0) {
+      const prev = joinedBlocks[joinedBlocks.length - 1];
+      // Only join if neither is an HTML block (heading, list, etc)
+      if (!prev.startsWith("<") && !current.startsWith("<")) {
+        const prevText = prev.replace(/<[^>]+>/g, "").trim();
+        const lastChar = prevText.slice(-1);
+        const firstChar = current.charAt(0);
+
+        const isSentenceEnd = /[.!?:]/.test(lastChar);
+        const startsWithLowercase =
+          firstChar === firstChar.toLowerCase() &&
+          firstChar !== firstChar.toUpperCase();
+        const endsWithComma = lastChar === ",";
+
+        if (endsWithComma || !isSentenceEnd || startsWithLowercase) {
+          joinedBlocks[joinedBlocks.length - 1] = `${prev} ${current}`;
+          continue;
+        }
+      }
+    }
+    joinedBlocks.push(current);
+  }
+
+  const paragraphs = joinedBlocks
     .map((block) => {
-      block = block.trim();
-      if (!block) return "";
       if (
         block.startsWith("<h") ||
         block.startsWith("<ul") ||
@@ -40,7 +69,8 @@ function markdownBlockToHtml(md: string): string {
         block.startsWith("<a ")
       )
         return block;
-      return `<p>${block.replace(/\n/g, "<br/>")}</p>`;
+      // Replace single newlines within a block with spaces
+      return `<p>${block.replace(/\n/g, " ")}</p>`;
     })
     .filter(Boolean);
   return paragraphs.join("\n");
