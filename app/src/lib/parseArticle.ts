@@ -46,12 +46,24 @@ function markdownBlockToHtml(md: string): string {
         const firstChar = current.charAt(0);
 
         const isSentenceEnd = /[.!?:]/.test(lastChar);
+        const isAbbreviation =
+          /\b(?:Jg|geb|ca|u|v|Dr|Chr|Nr|Bd|S|orig)\.$/i.test(prevText);
+
         const startsWithLowercase =
           firstChar === firstChar.toLowerCase() &&
           firstChar !== firstChar.toUpperCase();
+        const startsWithDigit = /^\d/.test(current);
         const endsWithComma = lastChar === ",";
+        const isBraceJoin = lastChar === "(" || firstChar === ")";
 
-        if (endsWithComma || !isSentenceEnd || startsWithLowercase) {
+        if (
+          endsWithComma ||
+          !isSentenceEnd ||
+          isAbbreviation ||
+          startsWithLowercase ||
+          startsWithDigit ||
+          isBraceJoin
+        ) {
           joinedBlocks[joinedBlocks.length - 1] = `${prev} ${current}`;
           continue;
         }
