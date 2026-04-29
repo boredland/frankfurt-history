@@ -247,16 +247,16 @@ function GalleryThumbs({
   onOpen,
 }: {
   images: ImageRef[];
-  onOpen: (index: number) => void;
+  onOpen: (index: number, img: ImageRef) => void;
 }) {
   return (
     <div className="my-3">
-      <div className="flex gap-2 overflow-x-auto pb-2 snap-x">
+      <div className="flex gap-2 overflow-x-auto pb-2 snap-x px-5">
         {images.map((img, i) => (
           <button
             type="button"
             key={img.src}
-            onClick={() => onOpen(i)}
+            onClick={() => onOpen(i, img)}
             className="snap-start shrink-0 cursor-pointer rounded overflow-hidden border border-sepia-light hover:border-sepia transition-colors"
           >
             <img
@@ -275,13 +275,18 @@ function GalleryThumbs({
 function ArticleContent({
   sections,
   allImages,
+  onOpenLightbox,
 }: {
   sections: ArticleSection[];
   allImages: ImageRef[];
+  onOpenLightbox: (index: number) => void;
 }) {
-  const [lightboxIdx, setLightboxIdx] = useState<number | null>(null);
   const hero = allImages[0];
-  const galleryImages = allImages.slice(1);
+
+  const openLightboxByImg = (img: ImageRef) => {
+    const idx = allImages.findIndex((i) => i.src === img.src);
+    if (idx !== -1) onOpenLightbox(idx);
+  };
 
   return (
     <>
@@ -289,7 +294,7 @@ function ArticleContent({
         <div className="-mx-5 -mt-4 mb-4">
           <button
             type="button"
-            onClick={() => setLightboxIdx(galleryImages.length > 0 ? 0 : -1)}
+            onClick={() => onOpenLightbox(0)}
             className="w-full cursor-pointer relative group"
           >
             <img
@@ -297,22 +302,9 @@ function ArticleContent({
               alt={hero.alt}
               className="w-full max-h-64 object-cover"
             />
-            {galleryImages.length > 1 && (
-              <span className="absolute bottom-2 right-2 bg-ink/60 text-paper text-xs px-2 py-0.5 rounded-full opacity-80 group-hover:opacity-100 transition-opacity print:hidden">
-                +{galleryImages.length}
-              </span>
-            )}
           </button>
           {hero.caption && (
             <p className="text-xs text-faded px-5 mt-1">{hero.caption}</p>
-          )}
-          {galleryImages.length > 1 && (
-            <div className="print:hidden">
-              <GalleryThumbs
-                images={galleryImages}
-                onOpen={(idx) => setLightboxIdx(idx)}
-              />
-            </div>
           )}
         </div>
       )}
@@ -327,6 +319,15 @@ function ArticleContent({
                 className="article-body"
                 dangerouslySetInnerHTML={{ __html: section.content }}
               />
+            );
+          case "gallery":
+            return (
+              <div key={key} className="gallery-section -mx-5">
+                <GalleryThumbs
+                  images={section.images}
+                  onOpen={(_, img) => openLightboxByImg(img)}
+                />
+              </div>
             );
           case "before-after":
             return (
@@ -350,41 +351,18 @@ function ArticleContent({
                 <h2 className="font-serif text-lg text-sepia mt-6 mb-2">
                   Timeline
                 </h2>
-                <GalleryThumbs
-                  images={section.images}
-                  onOpen={(idx) => setLightboxIdx(idx)}
-                />
+                <div className="-mx-5">
+                  <GalleryThumbs
+                    images={section.images}
+                    onOpen={(_, img) => openLightboxByImg(img)}
+                  />
+                </div>
               </div>
             );
           default:
             return null;
         }
       })}
-
-      {lightboxIdx !== null && lightboxIdx >= 0 && (
-        <Lightbox
-          images={galleryImages.map((img) => ({
-            src: imageUrl(img.src, "lightbox"),
-            alt: img.alt,
-            caption: img.caption,
-          }))}
-          startIndex={lightboxIdx}
-          onClose={() => setLightboxIdx(null)}
-        />
-      )}
-      {lightboxIdx === -1 && hero && (
-        <Lightbox
-          images={[
-            {
-              src: imageUrl(hero.src, "lightbox"),
-              alt: hero.alt,
-              caption: hero.caption,
-            },
-          ]}
-          startIndex={0}
-          onClose={() => setLightboxIdx(null)}
-        />
-      )}
     </>
   );
 }
@@ -396,6 +374,7 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
   const [loading, setLoading] = useState(true);
   const [activeSnap, setActiveSnap] = useState<number | string | null>(0.5);
   const [drawerOpen, setDrawerOpen] = useState(true);
+  const [lightboxIdx, setLightboxIdx] = useState<number | null>(null);
   const isMobile = useMobile();
 
   useEffect(() => {
@@ -557,6 +536,7 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
             <ArticleContent
               sections={article.sections}
               allImages={article.allImages}
+              onOpenLightbox={setLightboxIdx}
             />
           ) : (
             <div className="text-faded text-center py-8">
@@ -588,42 +568,56 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
   );
 
   return (
-    <Drawer.Root
-      open={isMobile ? drawerOpen : true}
-      direction={isMobile ? "bottom" : "right"}
-      snapPoints={isMobile ? [...MOBILE_SNAP_POINTS] : undefined}
-      activeSnapPoint={isMobile ? activeSnap : undefined}
-      setActiveSnapPoint={isMobile ? setActiveSnap : undefined}
-      dismissible={isMobile}
-      modal={false}
-      onOpenChange={(open) => {
-        if (!open) {
-          setDrawerOpen(false);
-          handleClose();
-        }
-      }}
-      noBodyStyles
-    >
-      <Drawer.Portal>
-        <Drawer.Content
-          className={
-            isMobile
-              ? "print-article fixed inset-x-0 bottom-0 z-20 bg-paper rounded-t-2xl shadow-[0_-4px_20px_rgba(0,0,0,0.15)] flex flex-col outline-none max-h-dvh"
-              : "print-article fixed right-0 top-0 bottom-0 w-[420px] bg-paper border-l border-sepia-light shadow-lg z-20 flex flex-col overflow-hidden outline-none"
+    <>
+      <Drawer.Root
+        open={isMobile ? drawerOpen : true}
+        direction={isMobile ? "bottom" : "right"}
+        snapPoints={isMobile ? [...MOBILE_SNAP_POINTS] : undefined}
+        activeSnapPoint={isMobile ? activeSnap : undefined}
+        setActiveSnapPoint={isMobile ? setActiveSnap : undefined}
+        dismissible={isMobile}
+        modal={false}
+        onOpenChange={(open) => {
+          if (!open) {
+            setDrawerOpen(false);
+            handleClose();
           }
-          aria-describedby={undefined}
-        >
-          <Drawer.Title className="sr-only">
-            {article?.title ?? "Article"}
-          </Drawer.Title>
-          {isMobile && (
-            <div className="flex justify-center py-2.5 shrink-0">
-              <div className="w-8 h-1 rounded-full bg-sepia-light" />
-            </div>
-          )}
-          {content}
-        </Drawer.Content>
-      </Drawer.Portal>
-    </Drawer.Root>
+        }}
+        noBodyStyles
+      >
+        <Drawer.Portal>
+          <Drawer.Content
+            className={
+              isMobile
+                ? "print-article fixed inset-x-0 bottom-0 z-20 bg-paper rounded-t-2xl shadow-[0_-4px_20px_rgba(0,0,0,0.15)] flex flex-col outline-none max-h-dvh"
+                : "print-article fixed right-0 top-0 bottom-0 w-[420px] bg-paper border-l border-sepia-light shadow-lg z-20 flex flex-col overflow-hidden outline-none"
+            }
+            aria-describedby={undefined}
+          >
+            <Drawer.Title className="sr-only">
+              {article?.title ?? "Article"}
+            </Drawer.Title>
+            {isMobile && (
+              <div className="flex justify-center py-2.5 shrink-0">
+                <div className="w-8 h-1 rounded-full bg-sepia-light" />
+              </div>
+            )}
+            {content}
+          </Drawer.Content>
+        </Drawer.Portal>
+      </Drawer.Root>
+
+      {lightboxIdx !== null && article && (
+        <Lightbox
+          images={article.allImages.map((img) => ({
+            src: imageUrl(img.src, "lightbox"),
+            alt: img.alt,
+            caption: img.caption,
+          }))}
+          startIndex={lightboxIdx}
+          onClose={() => setLightboxIdx(null)}
+        />
+      )}
+    </>
   );
 }

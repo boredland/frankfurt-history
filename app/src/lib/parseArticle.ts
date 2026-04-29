@@ -112,7 +112,6 @@ export function parseArticleBody(body: string): ParsedArticle {
   function flushText() {
     const raw = currentTextLines.join("\n").trim();
     if (raw) {
-      addImages(extractImagesFromLines(currentTextLines));
       const html = markdownBlockToHtml(raw);
       if (html.trim()) {
         sections.push({ type: "html", content: html });
@@ -131,7 +130,9 @@ export function parseArticleBody(body: string): ParsedArticle {
 
     addImages(images);
 
-    if (
+    if (galleryType === "standard") {
+      sections.push({ type: "gallery", images });
+    } else if (
       galleryType === "before-after" &&
       images.length >= 2 &&
       images[0] &&
@@ -145,7 +146,6 @@ export function parseArticleBody(body: string): ParsedArticle {
     } else if (galleryType === "timeline") {
       sections.push({ type: "timeline", images });
     }
-    // Standard galleries are now handled by the hero image + thumbnail strip
     inGallery = false;
     galleryLines = [];
   }
