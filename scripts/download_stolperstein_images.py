@@ -20,9 +20,9 @@ from pathlib import Path
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 THEME_DIR = DATA_DIR / "stolpersteine"
 IMG_DIR = DATA_DIR / "images" / "stolpersteine"
-WAYBACK = "https://web.archive.org/web/"
+IMG_PROXY = os.environ.get("IMG_PROXY_URL", "https://history.jonas-strassel.de/img")
 UA = "Mozilla/5.0 (compatible; FrankfurtHistoryBot/1.0)"
-WORKERS = 4
+WORKERS = 8
 
 _start = time.monotonic()
 
@@ -46,16 +46,16 @@ def url_to_filename(url: str) -> str:
 
 
 def download_image(url: str) -> str | None:
-    """Download an image via Wayback. Returns local filename or None."""
+    """Download an image via the CF image proxy. Returns local filename or None."""
     filename = url_to_filename(url)
     out_path = IMG_DIR / filename
     if out_path.exists() and out_path.stat().st_size > 100:
         return filename
 
-    wb_url = WAYBACK + url
-    req = urllib.request.Request(wb_url, headers={"User-Agent": UA})
+    proxy_url = f"{IMG_PROXY}/w=800,f=auto/{url}"
+    req = urllib.request.Request(proxy_url, headers={"User-Agent": UA})
     try:
-        with urllib.request.urlopen(req, timeout=15) as resp:
+        with urllib.request.urlopen(req, timeout=10) as resp:
             data = resp.read()
         if len(data) < 100:
             return None
