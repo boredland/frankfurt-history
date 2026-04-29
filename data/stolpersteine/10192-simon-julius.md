@@ -23,7 +23,7 @@ Auch Julius Simon versuchte mit Frau und den beiden anderen Kindern in der Illeg
 
 <!-- gallery:standard -->
 ![Simon, Julius](../../images/stolpersteine/a8c90f8c0ba6_julius-simon-im-juni-1942.jpg)
-![Simon, Julius](../../images/stolpersteine/aa0e39f35f97_julius-simon-mit-tochter-aviva-und-frau-caroline-in-venedig..jpg)
+![Simon, Julius](../../images/stolpersteine/aa0e39f35f97_julius-simon-mit-tochter-aviva-und-frau-caroline-in-venedig.jpg)
 ![Simon, Julius](../../images/stolpersteine/3c23061b5c76_simon-aviva.jpg)
 ![Simon, Julius](../../images/stolpersteine/91f2392b613d_julius-simon-in-jungen-jahren.jpg)
 ![Simon, Julius](../../images/stolpersteine/727002732b6b_julius-simon-mit-familie.jpg)

@@ -116,7 +116,7 @@ Feldarbeit in Naharia Palästina, 1938
 ![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/9864975142bb_scheffelstrasse_22_leo_goldschmidt_-frankfurt.jpg)
 ![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/ac856a81e2ca_scheffelstr_22_-elisa_goldschmidt_als_junge_frau_in_frankfur.jpg)
 ![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/5ee8de24347e_scheffelstrasse_22_hanna_und_max_goldschmidt_1920er_jahre.jp.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/cf99286360c7_scheffelstrasse_22_hanna_und_max_goldschmidt_frankfurt_1933..jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/cf99286360c7_scheffelstrasse_22_hanna_und_max_goldschmidt_frankfurt_1933.jpg)
 ![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/ca4f781dd983_scheffelstrasse_22_familie_goldschmidt_an_bord_der_esperia_n.jpg)
 ![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/90f1c0b1569a_scheffelstrasse_22_goldschmidt_feldarbeit_in_naharia_palaest.jpg)
 ![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/a11fedac234e_scheffelstrasse_22_hanna_und_max_uri_goldschmidt_in_naharia_.jpg)

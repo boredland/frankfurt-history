@@ -42,7 +42,7 @@ Cary Caroline Simon
 ## Gallery
 
 <!-- gallery:standard -->
-![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](../../images/stolpersteine/49195c7d01de_falkensteiner_str_1_simon_hans_ingeborg_ruth_frank_dietrich..jpg)
+![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](../../images/stolpersteine/49195c7d01de_falkensteiner_str_1_simon_hans_ingeborg_ruth_frank_dietrich.jpg)
 ![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](../../images/stolpersteine/6c8cfe112d16_falkensteiner_str_1_simon_die_kinder.jpg)
 ![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](../../images/stolpersteine/53b06c4d6efb_falkensteiner_str_1_simon_postkarte.jpg)
 ![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](../../images/stolpersteine/b7d2e0f443ad_stolperst_falkensteinerstr_1_simon_cary_caroline.jpg)

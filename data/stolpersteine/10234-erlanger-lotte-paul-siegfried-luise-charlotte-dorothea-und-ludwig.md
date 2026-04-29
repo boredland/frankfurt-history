@@ -62,7 +62,7 @@ Lotte Erlanger war, und finanziert von Leon Fryszer.
 ![Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](../../images/stolpersteine/973467d9608c_stolperst_fuerstenbergerstrasse_167_erlanger_lotte.jpg)
 ![Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](../../images/stolpersteine/5d08f3534d49_stolperst_fuerstenbergerstrasse_167_erlanger_ludwig.jpg)
 ![Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](../../images/stolpersteine/887f6effcd9c_stolperst_fuerstenbergerstrasse_167_erlanger_luise_charlotte.jpg)
-![Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](../../images/stolpersteine/17801c992ab5_stolperst_fuerstenbergerstrasse_167_erlanger_paul_siegfried..jpg)
+![Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](../../images/stolpersteine/17801c992ab5_stolperst_fuerstenbergerstrasse_167_erlanger_paul_siegfried.jpg)
 
 ## Links
 

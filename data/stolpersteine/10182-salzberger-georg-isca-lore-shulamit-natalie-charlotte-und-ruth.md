@@ -138,7 +138,7 @@ vom Hausbesitzer Martin Koffler.
 ![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/d87a76a6e01f_eschersheimer_landstr_67_salzberger_rabbi_jonathan_wittenber.jpg)
 ![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/3e798fb84698_stolperst_eschersheimer_landstr_67_salzberger_georg.jpg)
 ![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/28c94e2172d3_stolperst_eschersheimer_landstr_67_salzberger_natalie_charlo.jpg)
-![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/d59daa75b6ab_stolperst_eschersheimer_landstr_67_salzberger_lore_shulamit..jpg)
+![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/d59daa75b6ab_stolperst_eschersheimer_landstr_67_salzberger_lore_shulamit.jpg)
 ![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/54a8e29a6697_stolperst_eschersheimer_landstr_67_salzberger_isca.jpg)
 ![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/1fa82a0e2eb7_stolperst_eschersheimer_landstr_67_salzberger_ruth.jpg)
 

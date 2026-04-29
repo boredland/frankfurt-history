@@ -94,7 +94,7 @@ Hedwig Joseph
 ## Gallery
 
 <!-- gallery:standard -->
-![Joseph, Hedwig, Arthur und Lucie](../../images/stolpersteine/51a5e546cc16_parkstr_15_hedwig_otto_joseph_und_ehefrau_von_rudolf_joseph..jpg)
+![Joseph, Hedwig, Arthur und Lucie](../../images/stolpersteine/51a5e546cc16_parkstr_15_hedwig_otto_joseph_und_ehefrau_von_rudolf_joseph.jpg)
 ![Joseph, Hedwig, Arthur und Lucie](../../images/stolpersteine/ca56a81cbc7b_parkstr_15_otto_joseph_hinten_lucie.jpg)
 ![Joseph, Hedwig, Arthur und Lucie](../../images/stolpersteine/300b8a403842_stolperst_parkstr_15_joseph_hedwig.jpg)
 ![Joseph, Hedwig, Arthur und Lucie](../../images/stolpersteine/598ff44b1fe7_stolperst_parkstr_15_joseph_arthur.jpg)

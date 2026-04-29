@@ -111,7 +111,7 @@ Heinrich
 
 <!-- gallery:standard -->
 ![Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/55831bf80d0a_cronstettenstr_1_heinrich_kosel.jpg)
-![Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/90aae843bc78_cronstettenstr_1_margarete_und_heinrich_kosel_hochzeit_1920..jpg)
+![Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/90aae843bc78_cronstettenstr_1_margarete_und_heinrich_kosel_hochzeit_1920.jpg)
 ![Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/7a77f7485d7a_cronstettenstr_1_guenter_kosel_mit_familie_konfirmation_1938.jpg)
 ![Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/468ae77940b7_cronstettenstr_1_margarete_und_heinrich_kosel.jpg)
 ![Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/533c91b00b88_cronstettenst_1_kosel_rudolf_margarete_und_guenther_nach_dem.jpg)

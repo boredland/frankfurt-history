@@ -42,6 +42,7 @@ def url_to_filename(url: str) -> str:
     name = re.sub(r"[^a-zA-Z0-9_.-]", "_", name)
     if len(name) > 60:
         name = name[:60]
+    name = name.rstrip(".")
     return f"{h}_{name}{'' if name.endswith(ext) else ext}"
 
 

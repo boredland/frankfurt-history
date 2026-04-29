@@ -259,7 +259,7 @@ Grabstein für Alfred Oswalt, Hauptfiedhof Frankfurt, Gewann F 2036
 ![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/7023d181efc7_holzhecke_27_simon_lotte_und_fritz_mit_anderer_person_1930er.jpg)
 ![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/c0127880d28b_holzhecke_27_simon_lotte_und_fritz_auf_deutschlandbesuch_195.jpg)
 ![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/f69f27ac4bba_holzhecke_27_grabstaette_holzmann_hauptfriedhof_gewann_f_203.jpg)
-![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/4302faaad717_holzhecke_27_grab_oswalt_alfred_hauptfriedhof_gewann_f_2036..jpg)
+![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/4302faaad717_holzhecke_27_grab_oswalt_alfred_hauptfriedhof_gewann_f_2036.jpg)
 ![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/45391116bd92_holzhecke_27_grab_simon_lore_hauptfriedhof_gewann_f_2036.jpg)
 ![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/84b62ca7e5bc_stolperst_holzhecke_27_simon_fritz.jpg)
 ![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/65817234cade_stolperst_holzhecke_27_simon_lore.jpg)

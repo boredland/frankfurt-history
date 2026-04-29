@@ -43,7 +43,7 @@ Gebäude der Mitteldeutschen Creditbank
 ![Katzenellenbogen, Albert und Cornelia](../../images/stolpersteine/38e1c4e8f3e8_albert-und-cornelia-katzenellenbogen-mit-tochter.jpg)
 ![Katzenellenbogen, Albert und Cornelia](../../images/stolpersteine/c4dc93bae697_gebaeude-der-mitteldeutschen-creditbank.jpg)
 ![Katzenellenbogen, Albert und Cornelia](../../images/stolpersteine/1f2db09e933b_stolperstein_neue_mainzer_str_32_katzenellenbogen_cornelia.j.jpg)
-![Katzenellenbogen, Albert und Cornelia](../../images/stolpersteine/afe02c334a3a_stolperstein_neue_mainzer_str_32_katzenellenbogen_dr_albert..jpg)
+![Katzenellenbogen, Albert und Cornelia](../../images/stolpersteine/afe02c334a3a_stolperstein_neue_mainzer_str_32_katzenellenbogen_dr_albert.jpg)
 
 ## Links
 

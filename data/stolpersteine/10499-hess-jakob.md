@@ -40,7 +40,7 @@ Im Rahmen der Frankfurter "Neuen Altstadt" wurde die originale Adresse von Jakob
 ## Gallery
 
 <!-- gallery:standard -->
-![Hess, Jakob](../../images/stolpersteine/df2460e41ba0_hinter_den_laemmchen_hess_jakob_gebaeude4_etwa1940__300x400..jpg)
+![Hess, Jakob](../../images/stolpersteine/df2460e41ba0_hinter_den_laemmchen_hess_jakob_gebaeude4_etwa1940__300x400.jpg)
 ![Hess, Jakob](../../images/stolpersteine/73ca59c73804_gedenktafel_hess_jakob_kalmemhof__400x300.jpg)
 ![Hess, Jakob](../../images/stolpersteine/38a983667502_stolperst_markt_44_hess_jakob__400x400.jpg)
 

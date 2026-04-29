@@ -140,7 +140,7 @@ Lotty Hirsch
 ## Gallery
 
 <!-- gallery:standard -->
-![Hirsch, Lotty und Ludwig](../../images/stolpersteine/835956654535_brentanostrasse_6_hirsch_ludwig_und_lotty_in_rotterdam_1937..jpg)
+![Hirsch, Lotty und Ludwig](../../images/stolpersteine/835956654535_brentanostrasse_6_hirsch_ludwig_und_lotty_in_rotterdam_1937.jpg)
 ![Hirsch, Lotty und Ludwig](../../images/stolpersteine/5f5f963374cb_stolperst_brentanostrasse_6_hirsch_lotty.jpg)
 ![Hirsch, Lotty und Ludwig](../../images/stolpersteine/a22d706d7798_stolperst_brentanostrasse_6_hirsch_ludwig.jpg)
 
