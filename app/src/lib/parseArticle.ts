@@ -112,6 +112,11 @@ export function parseArticleBody(body: string): ParsedArticle {
   function flushText() {
     const raw = currentTextLines.join("\n").trim();
     if (raw) {
+      const images = extractImagesFromLines(currentTextLines);
+      if (images.length > 0) {
+        addImages(images);
+        sections.push({ type: "gallery", images });
+      }
       const html = markdownBlockToHtml(raw);
       if (html.trim()) {
         sections.push({ type: "html", content: html });
