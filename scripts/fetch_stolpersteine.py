@@ -423,23 +423,41 @@ def translate_scraped():
     log(f"Translating {len(to_translate)} biographies via DeepL (~{total_chars // 1000}k chars)…")
     done = 0
     errors = 0
+    consecutive_errors = 0
     chars_sent = 0
-    for path, bio_idx, text in to_translate:
-        en = translate_deepl(text)
-        if en:
-            data = json.loads(path.read_text())
-            data["biographies"][bio_idx]["text_en"] = en
-            path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n")
-            done += 1
-            chars_sent += len(text)
-        elif en is None and errors > 3:
-            log(f"  DeepL: too many errors, stopping (quota likely exhausted)")
+    stop = False
+
+    for batch_start in range(0, len(to_translate), 5):
+        if stop:
             break
-        else:
-            errors += 1
-        if (done + errors) % 25 == 0:
+        batch = to_translate[batch_start : batch_start + 5]
+        with ThreadPoolExecutor(max_workers=5) as pool:
+            futures = {
+                pool.submit(translate_deepl, text): (path, bio_idx, text)
+                for path, bio_idx, text in batch
+            }
+            for future in as_completed(futures):
+                path, bio_idx, text = futures[future]
+                en = future.result()
+                if en:
+                    data = json.loads(path.read_text())
+                    data["biographies"][bio_idx]["text_en"] = en
+                    path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n")
+                    done += 1
+                    chars_sent += len(text)
+                    consecutive_errors = 0
+                else:
+                    errors += 1
+                    consecutive_errors += 1
+                    if consecutive_errors >= 5:
+                        log("  DeepL: 5 consecutive errors, stopping (all keys likely exhausted)")
+                        stop = True
+                        break
+
+        processed = batch_start + len(batch)
+        if processed % 25 < 5 or processed >= len(to_translate):
             log(f"  DeepL progress: {done} translated, {errors} errors / {len(to_translate)} ({chars_sent // 1000}k chars)")
-        time.sleep(1)
+
     log(f"DeepL done: {done} translated, {errors} errors, {chars_sent // 1000}k chars sent")
 
 
