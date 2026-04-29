@@ -15,6 +15,7 @@ Usage:
 import html as html_mod
 import json
 import os
+import random
 import re
 import sys
 import threading
