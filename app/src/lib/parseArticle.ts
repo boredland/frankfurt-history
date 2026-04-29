@@ -100,12 +100,18 @@ function extractImagesFromLines(
           .trim();
 
         const housePattern =
-          /\b(haus|ansicht|gebaeude|fassade|strasse|straße|str|platz|allee|alle|weg)\b/i;
+          /\b(haus|ansicht|gebaeude|fassade|strasse|straße|str|platz|allee|alle|weg|stein|hof|tor|anlage|ufer|garten|berg|markt|wall|kai|damm)\b/i;
         const streetSuffixPattern =
-          /(str|strasse|straße|gasse|damm|weg|allee|alle|platz|wall|markt)$/i;
+          /(str|strasse|straße|gasse|damm|weg|allee|alle|platz|wall|markt|stein|hof|tor|anlage|ufer|garten|berg|kai)$/i;
         const isHouse =
           housePattern.test(rawCleaned) ||
-          rawCleaned.split(" ").some((w) => streetSuffixPattern.test(w));
+          rawCleaned.split(" ").some((w) => streetSuffixPattern.test(w)) ||
+          (fallbackSubtitle &&
+            rawCleaned
+              .toLowerCase()
+              .includes(
+                fallbackSubtitle.replace(/\d+$/, "").trim().toLowerCase(),
+              ));
 
         const genericWords = [
           "stolperstein",
