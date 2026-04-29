@@ -306,6 +306,14 @@ function ArticleContent({
           {hero.caption && (
             <p className="text-xs text-faded px-5 mt-1">{hero.caption}</p>
           )}
+          {allImages.length > 1 && (
+            <div className="mt-2">
+              <GalleryThumbs
+                images={allImages}
+                onOpen={(idx) => onOpenLightbox(idx)}
+              />
+            </div>
+          )}
         </div>
       )}
 
@@ -321,14 +329,7 @@ function ArticleContent({
               />
             );
           case "gallery":
-            return (
-              <div key={key} className="gallery-section -mx-5">
-                <GalleryThumbs
-                  images={section.images}
-                  onOpen={(_, img) => openLightboxByImg(img)}
-                />
-              </div>
-            );
+            return null;
           case "before-after":
             return (
               <div key={key} className="gallery-section">
