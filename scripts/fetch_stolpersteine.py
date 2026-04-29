@@ -53,6 +53,7 @@ SCRAPED_DIR = DATA_DIR / "stolpersteine-scraped"
 DEEPL_API_KEYS = [
     k.strip() for k in os.environ.get("DEEPL_API_KEYS", os.environ.get("DEEPL_API_KEY", "")).split(",") if k.strip()
 ]
+random.shuffle(DEEPL_API_KEYS)
 DEEPL_URL = "https://api-free.deepl.com/v2/translate"
 
 WORKERS = 4
