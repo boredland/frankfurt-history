@@ -422,9 +422,10 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
             coordinates[1],
           );
         }
-        const parsed = parseArticleBody(json.body);
+        const title = json.frontmatter.title || slug;
+        const parsed = parseArticleBody(json.body, title);
         setArticle({
-          title: json.frontmatter.title || slug,
+          title,
           subtitle: json.frontmatter.subtitle,
           sections: parsed.sections,
           allImages: parsed.allImages,

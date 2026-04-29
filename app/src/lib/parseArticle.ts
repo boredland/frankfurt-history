@@ -57,7 +57,10 @@ function parseCaptionLine(line: string): string | undefined {
   return match ? match[1] : undefined;
 }
 
-function extractImagesFromLines(lines: string[]): ImageRef[] {
+function extractImagesFromLines(
+  lines: string[],
+  fallbackCaption?: string,
+): ImageRef[] {
   const images: ImageRef[] = [];
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
@@ -72,6 +75,24 @@ function extractImagesFromLines(lines: string[]): ImageRef[] {
           i++;
         }
       }
+
+      if (!img.caption) {
+        // Fallback 1: Extract from filename
+        const filename = img.src.split("/").pop()?.split(".")[0] || "";
+        const cleaned = filename
+          .replace(/^[a-f0-9]{8,12}_/, "")
+          .replace(/_[a-f0-9]{32}/, "")
+          .replace(/_original|_medium|_small|_thumbnail/, "")
+          .replace(/_/g, " ")
+          .trim();
+
+        if (cleaned && cleaned.length > 3 && !/^[a-f0-9]+$/.test(cleaned)) {
+          img.caption = cleaned;
+        } else if (fallbackCaption) {
+          // Fallback 2: Article Title
+          img.caption = fallbackCaption;
+        }
+      }
       images.push(img);
     }
   }
@@ -83,7 +104,10 @@ export interface ParsedArticle {
   allImages: ImageRef[];
 }
 
-export function parseArticleBody(body: string): ParsedArticle {
+export function parseArticleBody(
+  body: string,
+  fallbackCaption?: string,
+): ParsedArticle {
   const sections: ArticleSection[] = [];
   const allImages: ImageRef[] = [];
   const seenSrcs = new Set<string>();
@@ -112,7 +136,7 @@ export function parseArticleBody(body: string): ParsedArticle {
   function flushText() {
     const raw = currentTextLines.join("\n").trim();
     if (raw) {
-      const images = extractImagesFromLines(currentTextLines);
+      const images = extractImagesFromLines(currentTextLines, fallbackCaption);
       if (images.length > 0) {
         addImages(images);
         sections.push({ type: "gallery", images });
@@ -126,7 +150,7 @@ export function parseArticleBody(body: string): ParsedArticle {
   }
 
   function flushGallery() {
-    const images = extractImagesFromLines(galleryLines);
+    const images = extractImagesFromLines(galleryLines, fallbackCaption);
     if (images.length === 0) {
       inGallery = false;
       galleryLines = [];
