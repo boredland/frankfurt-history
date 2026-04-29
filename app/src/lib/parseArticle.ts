@@ -84,7 +84,14 @@ function parseImageRef(line: string): ImageRef | null {
 
 function parseCaptionLine(line: string): string | undefined {
   const match = line.match(/^\*(.+)\*$/);
-  return match ? match[1] : undefined;
+  if (!match) return undefined;
+  let caption = match[1].trim();
+  if (caption.length > 120) return undefined; // Likely not a caption
+  // Strip trailing period
+  if (caption.endsWith(".") && !caption.endsWith("..")) {
+    caption = caption.slice(0, -1);
+  }
+  return caption;
 }
 
 function extractImagesFromLines(
@@ -121,29 +128,23 @@ function extractImagesFromLines(
           .replace(/_/g, " ")
           .trim();
 
-        const houseWords = [
-          "haus",
-          "ansicht",
-          "gebaeude",
-          "fassade",
-          "strasse",
-          "straße",
-          "str",
-        ];
+        const housePattern =
+          /\b(haus|ansicht|gebaeude|fassade|strasse|straße|str|platz|allee|weg)\b/i;
+        const streetSuffixPattern = /(str|strasse|straße|gasse|damm)$/i;
+        const isHouse =
+          housePattern.test(rawCleaned) ||
+          rawCleaned.split(" ").some((w) => streetSuffixPattern.test(w));
+
         const genericWords = [
-          ...houseWords,
           "stolperstein",
           "portrait",
           "bild",
           "foto",
+          "aufnahme",
         ];
         const isGeneric =
           rawCleaned.length < 3 ||
           genericWords.some((w) => rawCleaned.toLowerCase().includes(w));
-
-        const isHouse = houseWords.some((w) =>
-          rawCleaned.toLowerCase().includes(w),
-        );
 
         if (isHouse && fallbackSubtitle) {
           img.caption = fallbackSubtitle;
@@ -170,7 +171,11 @@ function extractImagesFromLines(
               );
             });
 
-            img.caption = refinedWords.join(" ");
+            let caption = refinedWords.join(" ");
+            if (caption.length > 80) {
+              caption = cleanTitle || caption;
+            }
+            img.caption = caption;
           } else if (fallbackSubtitle) {
             img.caption = fallbackSubtitle;
           } else if (cleanTitle) {
