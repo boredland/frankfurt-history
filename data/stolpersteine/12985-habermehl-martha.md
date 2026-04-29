@@ -1,0 +1,165 @@
+---
+id: 12985
+title: "Stolperstein — Habermehl, Martha"
+subtitle: "Laubestraße 6"
+coordinates: [50.1044882, 8.6843463]
+filters:
+  - "Stolpersteine"
+---
+
+# Stolperstein — Habermehl, Martha
+
+*Laubestraße 6*
+
+![Stolperstein Habermehl, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/laubestrasse-6_1.jpg)
+
+Martha Habermehl, geb. Levy, wurde am 16.5.1900 in Bochum geboren. Sie war Schauspielerin in Bochum und trug dort den Künstlernamen Magda Lenz.
+
+Sie stammte aus einer jüdischen Familie und heiratete Oswald Habermehl (1900-1969), der evangelisch war, aus einem Dorf bei Pirmasens stammte und Handelsvertreter für Schuhwaren war. Die beiden hatten zwei Söhne und bildeten nach nationalsozialistischer Definition eine „privilegierte Mischehe". Martha Habermehl wurde am 16.10.1938 in der Lukaskirche Frankfurt evangelisch getauft. Die Familie wohnte in der Laubestraße 6.
+
+Martha und Oswald Habermehl
+
+Martha Habermehl musste vom 2.1.1943 an als Buchbinderei-Hilfskraft bei der Firma „August Osterrieth" Zwangsarbeit leisten. Für den 19.2.1943 wurde sie von der Geheimen Staatspolizei in die Lindenstraße 27 bestellt und verhaftet. Von dort wurde sie in das Untersuchungsgefängnis Hammelsgasse gebracht.
+
+Habermehl, Martha 2
+
+Der Ehemann, der gemeinsam mit den Kindern versuchte, Martha Habermehl von Weitem zu sehen, wurde von einem Polizeibeamten gefasst und zur Geheimen Staatspolizei bestellt. Dort misshandelte ihn der Sachbearbeiter Heinrich Baab und beschimpfte ihn mit den Worten „Judenknecht" und „Judenlümmei".
+
+Gestapo-Vorladung Habermehl
+
+Martha Habermehl wurde am 14.6.1943 nach Auschwitz verschleppt. Dort war sie unter der Häftlingsnummer 26262 registriert. Sie kam am 23..7.19'43 ums Leben.
+
+Der Stolperstein wurde initiiert von der Evangelischen Maria-Magdalena-Gemeinde Frankfurt-Sachsen-hausen. An der Verlegung nahmen die Söhne Peter und Lothar Habermehl/Offenbach, Ruth Habermehl (Enkelin)/Frankfurt mit Tochter Marion Morawek (Enkelin)/Offenbach teil.
+
+Martha Habermehl, geb. Levy
+
+Geburtsdatum:
+
+Deportation:
+
+Todesdatum:
+
+16.05.1900
+
+14.06.1943 nach Auschwitz
+
+23.07.1943
+
+Stolperstein Laubestraße 6 Martha Habermehl
+
+teilen
+
+tweet
+
+mitteilen
+
+teilen
+
+mail
+
+Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula
+
+Amram, Frida und Julie, und Goldine und Seligmann Hirschberg
+
+Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß
+
+Berberich, Erna und Moses
+
+Berndt, Gretel
+
+Blüthenthal, Paul
+
+Dessauer, Friedrich, Elisabeth, Maria und Christoph
+
+Embden, Gustav
+
+Fiege, Caroline
+
+Haase, Josef
+
+Habermehl, Martha
+
+Halle, Isidor von
+
+Häuslein, Otto
+
+Heinemann, Julius
+
+Herpe, Selma und Gisela
+
+Hess, Carry, Lina und Nini
+
+Hesse, Kurt Josef, Meta und Käthe
+
+Jacobi, Margit, Erwin und Dora
+
+Jakobi, Oswald Herbert und Ermann, Isaac und Sara
+
+Kalischer, Georg
+
+Kramer, Ferdinand und Beate
+
+Krieg, Oscar
+
+Leiffmann, Else, Kurt Joachim und Rolf Herbert
+
+Liebmann, Alma, Ernst und Marianne
+
+Löbenstein, Siegmund, Mally, Luise und Helmut
+
+Margulies, Cilly, Jenny, Moritz und Wolf B.
+
+Marx, Selma, Kurt und Walter
+
+Mayer, Martha
+
+Meister, Elisabeth
+
+Nees, Julius
+
+Neumann, Walter
+
+Neumann, Walter und Charlotte
+
+Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold
+
+Oppenheimer, Kurt
+
+Perlhefter, Günther
+
+Sass, Georg und Laura sowie Tuch, Charlotte
+
+Schmid, Katharina
+
+Stadel, Frieda
+
+Stern, Alfred Siegfried, Antonie und Ilse
+
+Ullmann, Heinrich
+
+Wahl, Otto
+
+Weis, Hedwig
+
+Weiss, Ludwig und Helene
+
+Wertheimer, Lydia und Martha
+
+Initiative Stolpersteine
+
+Stolperstein Standort
+
+Laubestraße 6
+
+## Gallery
+
+<!-- gallery:standard -->
+![Habermehl, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/habermehl-martha.jpg)
+![Habermehl, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/martha-und-oswald-habermehl.jpg)
+![Habermehl, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/habermehl-martha-2.jpg)
+![Habermehl, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/gestapo-vorladung-habermehl.jpg)
+![Habermehl, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_laubestrasse_6_habermehl_martha__400x400.jpg)
+
+## Links
+
+- [frankfurt.de](https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-sachsenhausen/familien/habermehl-martha)
