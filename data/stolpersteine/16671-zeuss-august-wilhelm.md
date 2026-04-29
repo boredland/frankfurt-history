@@ -11,7 +11,7 @@ filters:
 
 *Spohrstraße 34*
 
-![Stolperstein Zeuss, August Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/spohrstr_34.jpg)
+![Stolperstein Zeuss, August Wilhelm](../../images/stolpersteine/46b3c679d608_spohrstr_34.jpg)
 
 August Wilhelm Zeuss wurde in Frankfurt als zehntes von elf Kindern geboren. Die Familie Zeuss besaß einen Reinigungsbetrieb für Schankanlagen. Zeuss lebte in der Spohrstraße 34 von 1933 bis 1936, zumindest teilweise zusammen mit seiner Ehefrau Paula, geb. Bollmann, wohl in der Wohnung der Schwiegereltern. Von Beruf war er Klavierstimmer.
 
@@ -406,7 +406,7 @@ Spohrstraße 34
 ## Gallery
 
 <!-- gallery:standard -->
-![Zeuss, August Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-zeuss-august-wilhelm.jpg)
+![Zeuss, August Wilhelm](../../images/stolpersteine/9885cead1c93_stolperstein-zeuss-august-wilhelm.jpg)
 
 ## Links
 

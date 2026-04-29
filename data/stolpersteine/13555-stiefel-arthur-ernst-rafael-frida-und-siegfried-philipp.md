@@ -11,7 +11,7 @@ filters:
 
 *Eppsteiner Straße 2*
 
-![Stolperstein Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/eppsteiner_str_2.jpg)
+![Stolperstein Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](../../images/stolpersteine/6c9aea983b82_eppsteiner_str_2.jpg)
 
 Arthur Stiefel wurde in Frankfurt am Main als Sohn des
 
@@ -798,18 +798,18 @@ Eppsteiner Straße 2
 ## Gallery
 
 <!-- gallery:standard -->
-![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/eppsteiner_str_2_stiefel_frieda.jpg)
-![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/eppsteiner_str_2_stiefel_arthur.jpg)
-![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/eppsteiner_str_2_stiefel_siegfried.jpg)
-![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/eppsteiner_str_2_stiefel_ernst.jpg)
-![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/eppsteiner_str_2_stiefel_haus_reuterweg_59_vor_dem_krieg.jpg)
-![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/eppsteiner_str_2_stiefel_haus_reuterweg_59_nach-der-kriegszerstoerung.jpg)
-![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/eppsteiner_str_2_stiefel_ernst_reisepass_1.jpg)
-![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/eppsteiner_str_2_stiefel_ernst_reisepass_2.jpg)
-![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eppsteiner_str_2_stiefel_frida.jpg)
-![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eppsteiner_str_2_stiefel_arthur.jpg)
-![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eppsteiner_str_2_stiefel_siegfried_philipp.jpg)
-![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eppsteiner_str_2_stiefel_ernst_rafael.jpg)
+![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](../../images/stolpersteine/32fa21628b94_eppsteiner_str_2_stiefel_frieda.jpg)
+![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](../../images/stolpersteine/340328b19331_eppsteiner_str_2_stiefel_arthur.jpg)
+![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](../../images/stolpersteine/b008388f5331_eppsteiner_str_2_stiefel_siegfried.jpg)
+![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](../../images/stolpersteine/f228b7e00907_eppsteiner_str_2_stiefel_ernst.jpg)
+![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](../../images/stolpersteine/d7b8a8c10b8b_eppsteiner_str_2_stiefel_haus_reuterweg_59_vor_dem_krieg.jpg)
+![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](../../images/stolpersteine/902d2c5ba6d2_eppsteiner_str_2_stiefel_haus_reuterweg_59_nach-der-kriegsze.jpg)
+![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](../../images/stolpersteine/4c89ee5ade33_eppsteiner_str_2_stiefel_ernst_reisepass_1.jpg)
+![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](../../images/stolpersteine/b2783287aa90_eppsteiner_str_2_stiefel_ernst_reisepass_2.jpg)
+![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](../../images/stolpersteine/ca0b2bf67db6_stolperst_eppsteiner_str_2_stiefel_frida.jpg)
+![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](../../images/stolpersteine/1f02c5cc1b70_stolperst_eppsteiner_str_2_stiefel_arthur.jpg)
+![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](../../images/stolpersteine/1d27df90c34d_stolperst_eppsteiner_str_2_stiefel_siegfried_philipp.jpg)
+![Stiefel, Arthur, Ernst Rafael, Frida und Siegfried Philipp](../../images/stolpersteine/88fa9ff6c780_stolperst_eppsteiner_str_2_stiefel_ernst_rafael.jpg)
 
 ## Links
 

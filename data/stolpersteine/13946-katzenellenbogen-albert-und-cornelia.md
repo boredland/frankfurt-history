@@ -11,7 +11,7 @@ filters:
 
 *Neue Mainzer Straße 32*
 
-![Stolperstein Katzenellenbogen, Albert und Cornelia](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/neue_mainzer_str_32.jpg)
+![Stolperstein Katzenellenbogen, Albert und Cornelia](../../images/stolpersteine/146ee4a4f7b1_neue_mainzer_str_32.jpg)
 
 Katzenellenbogen, Albert
 
@@ -186,12 +186,12 @@ Neue Mainzer Straße 32
 ## Gallery
 
 <!-- gallery:standard -->
-![Katzenellenbogen, Albert und Cornelia](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/katzenellenbogen-albert.jpg)
-![Katzenellenbogen, Albert und Cornelia](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/cornelia-katzenellenbogen-mit-sohn.jpg)
-![Katzenellenbogen, Albert und Cornelia](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/albert-und-cornelia-katzenellenbogen-mit-tochter.jpg)
-![Katzenellenbogen, Albert und Cornelia](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/gebaeude-der-mitteldeutschen-creditbank.jpg)
-![Katzenellenbogen, Albert und Cornelia](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperstein_neue_mainzer_str_32_katzenellenbogen_cornelia.jpg)
-![Katzenellenbogen, Albert und Cornelia](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperstein_neue_mainzer_str_32_katzenellenbogen_dr_albert.jpg)
+![Katzenellenbogen, Albert und Cornelia](../../images/stolpersteine/3f478693ebfd_katzenellenbogen-albert.jpg)
+![Katzenellenbogen, Albert und Cornelia](../../images/stolpersteine/96c86cf3fec1_cornelia-katzenellenbogen-mit-sohn.jpg)
+![Katzenellenbogen, Albert und Cornelia](../../images/stolpersteine/38e1c4e8f3e8_albert-und-cornelia-katzenellenbogen-mit-tochter.jpg)
+![Katzenellenbogen, Albert und Cornelia](../../images/stolpersteine/c4dc93bae697_gebaeude-der-mitteldeutschen-creditbank.jpg)
+![Katzenellenbogen, Albert und Cornelia](../../images/stolpersteine/1f2db09e933b_stolperstein_neue_mainzer_str_32_katzenellenbogen_cornelia.j.jpg)
+![Katzenellenbogen, Albert und Cornelia](../../images/stolpersteine/afe02c334a3a_stolperstein_neue_mainzer_str_32_katzenellenbogen_dr_albert..jpg)
 
 ## Links
 

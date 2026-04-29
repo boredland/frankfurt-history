@@ -11,7 +11,7 @@ filters:
 
 *Hansaallee 12*
 
-![Stolperstein Altschüler, Hermann, Frieda und Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/hansaallee-12_1.jpg)
+![Stolperstein Altschüler, Hermann, Frieda und Ernst](../../images/stolpersteine/b6c310dc04a5_hansaallee-12_1.jpg)
 
 Hermann Altschüler wurde in Neustadt an der Haardt geboren, Frieda Altschüler in Bonn. Sie hatten einen Sohn, Ernst. Sie wohnten bis 1932 in der Bruchfeldstraße 112, anschließend in der Hansaallee 12/Erdgeschoß und zuletzt 1941 in der Hansaallee 7.
 
@@ -478,9 +478,9 @@ Hansaallee 12
 ## Gallery
 
 <!-- gallery:standard -->
-![Altschüler, Hermann, Frieda und Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_hansaallee_12_altschueler_hermann.jpg)
-![Altschüler, Hermann, Frieda und Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_hansaallee_12_altschueler_frieda.jpg)
-![Altschüler, Hermann, Frieda und Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_hansaallee_12_altschueler_ernst.jpg)
+![Altschüler, Hermann, Frieda und Ernst](../../images/stolpersteine/892e38816204_stolperst_hansaallee_12_altschueler_hermann.jpg)
+![Altschüler, Hermann, Frieda und Ernst](../../images/stolpersteine/7f1d5336b5dc_stolperst_hansaallee_12_altschueler_frieda.jpg)
+![Altschüler, Hermann, Frieda und Ernst](../../images/stolpersteine/3086278cb2e6_stolperst_hansaallee_12_altschueler_ernst.jpg)
 
 ## Links
 

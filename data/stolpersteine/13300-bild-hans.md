@@ -11,7 +11,7 @@ filters:
 
 *Tevesstraße 27*
 
-![Stolperstein Bild, Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/tevestr_27.jpg)
+![Stolperstein Bild, Hans](../../images/stolpersteine/c4e73cedc0bd_tevestr_27.jpg)
 
 Am 13.7.1933 wurde Hans Bild  wegen des „Verdachts, kommunistische Flugblätter zu verteilen“, vorübergehend  festgenommen. Eine erneute Festnahme erfolgte am 14.8.1933. Der Grund: „Verdacht Flugschriften zu verteilen. Durchsuchung war ohne Erfolg“. Am 4.12.1936 fand Hans Bild eine Anstellung als Packer, Bote und Ausfahrer bei der Universitätsbuchhandlung Blazek & Bergmann. Fünf Tage später, am 9.12.1936 wurde er in der Buchhandlung „wegen illegaler Tätigkeit für die KPD“ festgenommen. Die Gestapo beschlagnahmte die Bibliothek von Hans Bild, über 700 Bücher, darunter circa 200 Bücher, die ihm die Schriftstellerin Hermynia zur Mühlen vor ihrer Emigration 1933 nach Wien geschenkt hatte. Ein Großteil der Bücher musste auf Anordnung der Gestapo an Ort und Stelle in der Waschküche der Tevesstraße 27 verbrannt werden.
 
@@ -88,7 +88,7 @@ Tevesstraße 27
 ## Gallery
 
 <!-- gallery:standard -->
-![Bild, Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_tevestr_27_bild_johannes.jpg)
+![Bild, Hans](../../images/stolpersteine/a10fefc2970f_stolperst_tevestr_27_bild_johannes.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Grüne Straße 30*
 
-![Stolperstein Abt, Roeschen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/gruene-strasse-30_1.jpg)
+![Stolperstein Abt, Roeschen](../../images/stolpersteine/a82d86007573_gruene-strasse-30_1.jpg)
 
 Roeschen Abt wurde in Posen geboren: Sie war verheiratet mit Lassar Abt, der 1867 in Roehrenfurth geboren wurde und 1922 in Leer/Ostfriesland starb. Sie hatten drei Söhne, die alle fliehen konnten: Harry Abt (1900-1977) und Alfred Abt (1902–1981) flohen 1935 bzw. 1939 nach Kapstadt/Südafrika, Erich Abt (1906-1989) floh 1933 nach Ramat Gan in Palästina. Der Sohn Eli wurde 1929 geboren und konnte 1939 mit einem Kindertransport nach England fliehen. Er lebt in London.
 
@@ -198,8 +198,8 @@ Grüne Straße 30
 ## Gallery
 
 <!-- gallery:standard -->
-![Abt, Roeschen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/gruene_str_30_abt_todesanzeige.jpg)
-![Abt, Roeschen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_gruene_str_30_abt_roeschen.jpg)
+![Abt, Roeschen](../../images/stolpersteine/ac11b1623f65_gruene_str_30_abt_todesanzeige.jpg)
+![Abt, Roeschen](../../images/stolpersteine/5b87fcabb0bb_stolperst_gruene_str_30_abt_roeschen.jpg)
 
 ## Links
 

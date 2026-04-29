@@ -11,7 +11,7 @@ filters:
 
 *Eppsteiner Straße 35*
 
-![Stolperstein Schönhof, Berta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/eppsteiner_str_35.jpg)
+![Stolperstein Schönhof, Berta](../../images/stolpersteine/ba742966cebf_eppsteiner_str_35.jpg)
 
 Ernst und Bertha Schönhof, etwa 1910
 
@@ -498,9 +498,9 @@ Eppsteiner Straße 35
 ## Gallery
 
 <!-- gallery:standard -->
-![Schönhof, Berta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/eppsteiner_str_35_ernst_und_bertha_schoenhof_etwa_1910.jpg)
-![Schönhof, Berta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/eppsteiner_str_35_berta_schoenhof_ellen_kastellan_amalie_oestreicher_anna_kastellan.jpg)
-![Schönhof, Berta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eppsteiner_str_35_schoenhof_berta.jpg)
+![Schönhof, Berta](../../images/stolpersteine/6b6a16757cec_eppsteiner_str_35_ernst_und_bertha_schoenhof_etwa_1910.jpg)
+![Schönhof, Berta](../../images/stolpersteine/ba4454078551_eppsteiner_str_35_berta_schoenhof_ellen_kastellan_amalie_oes.jpg)
+![Schönhof, Berta](../../images/stolpersteine/8c859c3456aa_stolperst_eppsteiner_str_35_schoenhof_berta.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Stoltzestraße 20*
 
-![Stolperstein Meyer, Friedrich und Margarete](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stoltzestr_20.jpg)
+![Stolperstein Meyer, Friedrich und Margarete](../../images/stolpersteine/f510bb442514_stoltzestr_20.jpg)
 
 Georg Friedrich Meyer wurde in Vorderbreitenthann, heute
 
@@ -432,10 +432,10 @@ Stoltzestraße 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Meyer, Friedrich und Margarete](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/stoltzestr_20_meyer_friedrich_gruppenfoto_1950er_jahre.jpg)
-![Meyer, Friedrich und Margarete](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/stoltzestr_20_meyer_margarethe_verfolgtenausweis_ca_1945.jpg)
-![Meyer, Friedrich und Margarete](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_stoltzestr_20_meyer_margarethe.jpg)
-![Meyer, Friedrich und Margarete](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_stoltzestr_20_meyer_friedrich.jpg)
+![Meyer, Friedrich und Margarete](../../images/stolpersteine/b32a1c39dfa2_stoltzestr_20_meyer_friedrich_gruppenfoto_1950er_jahre.jpg)
+![Meyer, Friedrich und Margarete](../../images/stolpersteine/7f2fe4831e6d_stoltzestr_20_meyer_margarethe_verfolgtenausweis_ca_1945.jpg)
+![Meyer, Friedrich und Margarete](../../images/stolpersteine/5fe1d5d5edb6_stolperst_stoltzestr_20_meyer_margarethe.jpg)
+![Meyer, Friedrich und Margarete](../../images/stolpersteine/41e39ee28b50_stolperst_stoltzestr_20_meyer_friedrich.jpg)
 
 ## Links
 

@@ -12,7 +12,7 @@ filters:
 
 *Nistergasse 5*
 
-![Stolperstein Richard, Louis und Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/nistergasse_5.jpg)
+![Stolperstein Richard, Louis und Johanna](../../images/stolpersteine/cf77f2b73368_nistergasse_5.jpg)
 
 Louis Richard wurde in Altenmühr bei Gunzenhausen in
 
@@ -157,8 +157,8 @@ Nistergasse 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Richard, Louis und Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/stolperst_nistergasse_5_richard_louis.jpg)
-![Richard, Louis und Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/stolperst_nistergasse_5_richard_johanna.jpg)
+![Richard, Louis und Johanna](../../images/stolpersteine/becb6dfc85d8_stolperst_nistergasse_5_richard_louis.jpg)
+![Richard, Louis und Johanna](../../images/stolpersteine/3805f3c8c441_stolperst_nistergasse_5_richard_johanna.jpg)
 
 ## Links
 

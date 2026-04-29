@@ -11,7 +11,7 @@ filters:
 
 *Niederräder Landstraße 46-48*
 
-![Stolperstein Bechhold, Heinrich Jakob](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/niederraeder_landstr_46_48.jpg)
+![Stolperstein Bechhold, Heinrich Jakob](../../images/stolpersteine/369761d50543_niederraeder_landstr_46_48.jpg)
 
 Heinrich J. Bechhold wurde in Frankfurt geboren. Sein Vater war Heinrich Hirsch Bechhold, Buchhändler, Verleger und Mitbegründer des „Freien Deutschen Hochstifts“. Heinrich J. Bechhold war mit Marie Bechhold, der Tochter des Sanitätsrats Theodor Neubürger, verheiratet, und wohnte in der Niederräder Landstraße 26-28 (heute 46-48).
 
@@ -120,7 +120,7 @@ Niederräder Landstraße 46-48
 ## Gallery
 
 <!-- gallery:standard -->
-![Bechhold, Heinrich Jakob](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/bechhold_heinrich_jakob.jpg)
+![Bechhold, Heinrich Jakob](../../images/stolpersteine/a8fdeb5a9f12_bechhold_heinrich_jakob.jpg)
 
 ## Links
 

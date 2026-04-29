@@ -11,7 +11,7 @@ filters:
 
 *Oberlindau 108*
 
-![Stolperstein Stern, Josef und Blaut, Moses und Ida](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/oberlindau-108_1.jpg)
+![Stolperstein Stern, Josef und Blaut, Moses und Ida](../../images/stolpersteine/6447c70b76d2_oberlindau-108_1.jpg)
 
 Josef Stern und seine Schwester Ida Blaut wurden in Bebra geboren. Ihre Eltern waren Jacob und Rosalie Stern. Nach dem frühen Tod des Vaters zog die Mutter mit Ida und ihren drei Brüdern von Bebra nach Hersfeld. Dort besuchte Ida Stern das Gymnasium. Um 1895 folgte der Umzug der Familie nach Frankfurt, wo die Brüder Josef und Theodor Mitinhaber der Firma „Hermann Stern & Co." in der Moselstraße 39 wurden.
 
@@ -482,9 +482,9 @@ Oberlindau 108
 ## Gallery
 
 <!-- gallery:standard -->
-![Stern, Josef und Blaut, Moses und Ida](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_oberlindau_108_blaut_ida__400x400.jpg)
-![Stern, Josef und Blaut, Moses und Ida](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_oberlindau_108_blaut_moses__400x400.jpg)
-![Stern, Josef und Blaut, Moses und Ida](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_oberlindau_108_stern_josef__400x400.jpg)
+![Stern, Josef und Blaut, Moses und Ida](../../images/stolpersteine/c84862d5477e_stolperst_oberlindau_108_blaut_ida__400x400.jpg)
+![Stern, Josef und Blaut, Moses und Ida](../../images/stolpersteine/b6d39567cf52_stolperst_oberlindau_108_blaut_moses__400x400.jpg)
+![Stern, Josef und Blaut, Moses und Ida](../../images/stolpersteine/31d9776f394a_stolperst_oberlindau_108_stern_josef__400x400.jpg)
 
 ## Links
 

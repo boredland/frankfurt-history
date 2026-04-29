@@ -11,7 +11,7 @@ filters:
 
 *Neuhofstraße 33*
 
-![Stolperstein Stern, Siegfried (Fried)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/neuhofstr_33.jpg)
+![Stolperstein Stern, Siegfried (Fried)](../../images/stolpersteine/1f8507b6cbb1_neuhofstr_33.jpg)
 
 Siegfried Stern wurde in der Herderstraße 12 in Frankfurt am Main
 
@@ -476,8 +476,8 @@ Neuhofstraße 33
 ## Gallery
 
 <!-- gallery:standard -->
-![Stern, Siegfried (Fried)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/neuhofstr_33_fried_stern_selbstportrait_auf_buchumschlag.jpg)
-![Stern, Siegfried (Fried)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_neuhofstr_33_stern_siegfried.jpg)
+![Stern, Siegfried (Fried)](../../images/stolpersteine/cad6ee75a946_neuhofstr_33_fried_stern_selbstportrait_auf_buchumschlag.jpg)
+![Stern, Siegfried (Fried)](../../images/stolpersteine/187dbebef89c_stolperst_neuhofstr_33_stern_siegfried.jpg)
 
 ## Links
 

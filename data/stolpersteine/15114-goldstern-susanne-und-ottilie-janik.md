@@ -12,7 +12,7 @@ filters:
 
 *Am Dornbusch 3*
 
-![Stolperstein Goldstern, Susanne und Ottilie Janik](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/am_dornbusch_3.jpg)
+![Stolperstein Goldstern, Susanne und Ottilie Janik](../../images/stolpersteine/a05fd4958b99_am_dornbusch_3.jpg)
 
 Susanna Goldstern wurde in Bad Kreuznach geboren.
 
@@ -179,7 +179,7 @@ Am Dornbusch 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Goldstern, Susanne und Ottilie Janik](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperst_am_dornbusch_3_goldstern_susanne.jpg)
+![Goldstern, Susanne und Ottilie Janik](../../images/stolpersteine/fbda0131633c_stolperst_am_dornbusch_3_goldstern_susanne.jpg)
 
 ## Links
 

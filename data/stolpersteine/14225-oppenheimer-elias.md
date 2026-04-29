@@ -11,7 +11,7 @@ filters:
 
 *Wöhlerstraße 6*
 
-![Stolperstein Oppenheimer, Elias](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/woehlerstr_6.jpg)
+![Stolperstein Oppenheimer, Elias](../../images/stolpersteine/40456632a300_woehlerstr_6.jpg)
 
 Elias Ludwig Oppenheimer wurde in Kirchheim (Rheinpfalz) als einziges Kind seiner Eltern geboren. Da der Vater schon früh verstorben war, lebte Elias allein mit der Mutter, die als Händlerin ihren Lebensunterhalt verdiente. Er war jüdischen Glaubens. Elias Oppenheimer war von Kind an körperlich gebrechlich, er hatte keinen Beruf erlernt und betätigte sich zunächst auch als Händler. Er versorgte zudem die kranke Mutter, die nach einem Schlaganfall 1912 starb. Von 1918 bis 1933 hatte er Arbeit beim Posthilfsdienst in Kirchheim und später wieder als Händler. Dann erkrankte er und wurde arbeitsunfähig. Auf Vermittlung des Vorstandes der jüdischen Gemeinde wurde er 1937 in das jüdische Altersheim in der Wöhlerstraße 6 in Frankfurt aufgenommen.
 
@@ -458,8 +458,8 @@ Wöhlerstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Oppenheimer, Elias](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/woehlerstr_6_oppenheimer_elias_gefaengnisakte_preungesheim.jpg)
-![Oppenheimer, Elias](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_woehlerstr_6_oppenheimer_elias.jpg)
+![Oppenheimer, Elias](../../images/stolpersteine/7dd322ffde75_woehlerstr_6_oppenheimer_elias_gefaengnisakte_preungesheim.j.jpg)
+![Oppenheimer, Elias](../../images/stolpersteine/ff731edf764a_stolperst_woehlerstr_6_oppenheimer_elias.jpg)
 
 ## Links
 

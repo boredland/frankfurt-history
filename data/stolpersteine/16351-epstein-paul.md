@@ -11,7 +11,7 @@ filters:
 
 *Körberstraße 16*
 
-![Stolperstein Epstein, Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/koerberstrasse_16.jpg)
+![Stolperstein Epstein, Paul](../../images/stolpersteine/8919d863cfce_koerberstrasse_16.jpg)
 
 Paul Epstein wurde in Frankfurt am Main als Sohn von Prof. Dr. Theobald Epstein (1836-1928) und von Mathilde Perels (gestorben 1875) geboren. Der Vater war 40 Jahre lang Lehrer für Mathematik und Physik am Philantrophin; die Schwester leitete die Schule nach dem November-Pogrom 1938 kurzzeitig. Seit 1897 war Paul Epstein mit Alice, geb. Wiesengrund, geb. am 2. September 1873 in Frankfurt, der Tante von Theodor W. Adorno, verheiratet. Sie hatten zwei Söhne, Fritz (geb. 1898) und Peter (geb. 1901). Die Familie wohnte 1919/20 in der Staufenstraße 6, dann in der Schönen Aussicht 7 und ab 1930 in der Körberstraße 16. In Untermiete wohnten hier auch seine Halbschwester Dr. Mathilde, genannt Tilly, Epstein, geb. 24.11.1881, sowie die Sozialbeamtin Cäcilie Epstein, geb. 7.11.1869. 1937 zogen in das Haus die in Breslau geborene Eva Epstein, geb. Honigmann  (31.7.1904-28.9.1999), Ehefrau von Paul Epsteins Sohn Peter (eigentlich Paul Ernst Theobald) und deren Tochter Anneliese Käthe, genannt "Anne", geb. 30.10.1930.
 
@@ -98,8 +98,8 @@ Körberstraße 16
 ## Gallery
 
 <!-- gallery:standard -->
-![Epstein, Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/epstein-paul.jpg)
-![Epstein, Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperst_koerberstrasse_16_epstein_dr_paul.jpg)
+![Epstein, Paul](../../images/stolpersteine/c8ce1f9f2ec6_epstein-paul.jpg)
+![Epstein, Paul](../../images/stolpersteine/90328b006da4_stolperst_koerberstrasse_16_epstein_dr_paul.jpg)
 
 ## Links
 

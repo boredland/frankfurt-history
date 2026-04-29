@@ -11,7 +11,7 @@ filters:
 
 *Neumannstraße 20*
 
-![Stolperstein Gerlach, Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/neumannstr_20__300x400.jpg)
+![Stolperstein Gerlach, Margarethe](../../images/stolpersteine/09dd6fc2d3d4_neumannstr_20__300x400.jpg)
 
 Das Vater von Margarethe Gerlach, Paul Tamm, war Postbeamter, später befördert zum Kaiserlichen Rechnungsrat, in Magdeburg. Er kam aus einer bürgerlichen Familie - zwei Brüder waren im Postdienst und als Buchhändler tätig, zwei Schwestern waren Lehrerinnen. Die Mutter, Therese, geb. Brodmeier, stammte aus einer thüringischen Kaufmannsfamilie - ein Bruder war Unternehmer in Manchester geworden. Gemeinsam mit der jüngeren Schwester Martha wuchs Margarethe, kurz „Grete“ genannt, in einer glücklichen Kindheit auf. Wegen des Berufes siedelte die Familie nach Bocholt und später nach Koblenz über.
 
@@ -104,10 +104,10 @@ Neumannstraße 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Gerlach, Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/opferbilder/gerlach-margarethe.jpg)
-![Gerlach, Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/opferbilder/margarethe-und-alfred-gerlach.jpg)
-![Gerlach, Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/opferbilder/franz-und-erna-gerlach.jpg)
-![Gerlach, Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/stolperst_neumannstr_20_gerlach_margarethe__400x400.jpg)
+![Gerlach, Margarethe](../../images/stolpersteine/c19470b029cf_gerlach-margarethe.jpg)
+![Gerlach, Margarethe](../../images/stolpersteine/40d69ac0c003_margarethe-und-alfred-gerlach.jpg)
+![Gerlach, Margarethe](../../images/stolpersteine/ce186d727cac_franz-und-erna-gerlach.jpg)
+![Gerlach, Margarethe](../../images/stolpersteine/ac02fe7268e9_stolperst_neumannstr_20_gerlach_margarethe__400x400.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Eschersheimer Landstraße 107*
 
-![Stolperstein Butterweck, Lina Friederike Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/eschersheimer-landstrasse-107-1.jpg)
+![Stolperstein Butterweck, Lina Friederike Helene](../../images/stolpersteine/2b1a097ee627_eschersheimer-landstrasse-107-1.jpg)
 
 Butterweck, Line Frederike Helene
 
@@ -446,8 +446,8 @@ Eschersheimer Landstraße 107
 ## Gallery
 
 <!-- gallery:standard -->
-![Butterweck, Lina Friederike Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/butterweck-line-frederike-helene.jpg)
-![Butterweck, Lina Friederike Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/butterweck_lina__400x400.jpg)
+![Butterweck, Lina Friederike Helene](../../images/stolpersteine/ba45adbec3ab_butterweck-line-frederike-helene.jpg)
+![Butterweck, Lina Friederike Helene](../../images/stolpersteine/57033f1a374a_butterweck_lina__400x400.jpg)
 
 ## Links
 

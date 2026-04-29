@@ -11,7 +11,7 @@ filters:
 
 *Mendelssohnstraße 45*
 
-![Stolperstein Oppenheimer, David und Rosalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/mendelssohnstrasse-45_1.jpg)
+![Stolperstein Oppenheimer, David und Rosalie](../../images/stolpersteine/049aff43e751_mendelssohnstrasse-45_1.jpg)
 
 David Oppenheimer wurde in Usenborn geboren. Seine Frau Rosalie war eine geborene Pappenheimer und wurde am 13.5.1894 in Dornheim geboren. Mindestens bis 1935 lebte die Familie in Frankfurt am Main. Im Adressbuch 1935 ist David Oppenheimer als Fabrikant in der Mendelssohnstraße 45 gemeldet. Warum sie aus Frankfurt nach Düsseldorf umzogen, ist nicht bekannt. Dort wohnten sie zunächst in der Cecilienallee 33 direkt am Rhein. In der Pogromnacht 1938 wurde ihre Wohnung zerstört. Die Oppenheimers zogen zu dem Verwandten Hermann Flörsheim nach Düsseldorf-Oberkassel auf die andere Rheinseite. Später zog das Ehepaar Oppenheimer für die Wartezeit auf das erhoffte Einreisevisum für Amerika in eine kleine Wohnung in die Gartenstraße 64. Am 7.3.1939 konnte ihre Tochter nach Großbritannien emigrieren.
 
@@ -462,7 +462,7 @@ Mendelssohnstraße 45
 ## Gallery
 
 <!-- gallery:standard -->
-![Oppenheimer, David und Rosalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_mendelssohnstr_45_oppenheimer_david__400x400.jpg)
+![Oppenheimer, David und Rosalie](../../images/stolpersteine/aea10ff3f8ef_stolperst_mendelssohnstr_45_oppenheimer_david__400x400.jpg)
 
 ## Links
 

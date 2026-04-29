@@ -11,7 +11,7 @@ filters:
 
 *Heiligkreuzgasse 22*
 
-![Stolperstein Roman, Emanuel, Helene, David, Wilhelm und Hermann sowie Berger, Betti](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/heiligkreuzgasse_22.jpg)
+![Stolperstein Roman, Emanuel, Helene, David, Wilhelm und Hermann sowie Berger, Betti](../../images/stolpersteine/0b651d797206_heiligkreuzgasse_22.jpg)
 
 Emanuel Roman wurde in Rüsselsheim geboren und war
 
@@ -376,12 +376,12 @@ Heiligkreuzgasse 22
 ## Gallery
 
 <!-- gallery:standard -->
-![Roman, Emanuel, Helene, David, Wilhelm und Hermann sowie Berger, Betti](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/roman-emanuel.jpg)
-![Roman, Emanuel, Helene, David, Wilhelm und Hermann sowie Berger, Betti](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/roman-helene.jpg)
-![Roman, Emanuel, Helene, David, Wilhelm und Hermann sowie Berger, Betti](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/roman-david-adolf.jpg)
-![Roman, Emanuel, Helene, David, Wilhelm und Hermann sowie Berger, Betti](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/betti-berger.jpg)
-![Roman, Emanuel, Helene, David, Wilhelm und Hermann sowie Berger, Betti](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/wilhelm-roman.jpg)
-![Roman, Emanuel, Helene, David, Wilhelm und Hermann sowie Berger, Betti](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/roman-hermann.jpg)
+![Roman, Emanuel, Helene, David, Wilhelm und Hermann sowie Berger, Betti](../../images/stolpersteine/941450c784b6_roman-emanuel.jpg)
+![Roman, Emanuel, Helene, David, Wilhelm und Hermann sowie Berger, Betti](../../images/stolpersteine/a7926685bdcc_roman-helene.jpg)
+![Roman, Emanuel, Helene, David, Wilhelm und Hermann sowie Berger, Betti](../../images/stolpersteine/31ceef7f3ea9_roman-david-adolf.jpg)
+![Roman, Emanuel, Helene, David, Wilhelm und Hermann sowie Berger, Betti](../../images/stolpersteine/70cb7e92228e_betti-berger.jpg)
+![Roman, Emanuel, Helene, David, Wilhelm und Hermann sowie Berger, Betti](../../images/stolpersteine/217686d8c983_wilhelm-roman.jpg)
+![Roman, Emanuel, Helene, David, Wilhelm und Hermann sowie Berger, Betti](../../images/stolpersteine/250f4406d48d_roman-hermann.jpg)
 
 ## Links
 

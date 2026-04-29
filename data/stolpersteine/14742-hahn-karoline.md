@@ -11,7 +11,7 @@ filters:
 
 *Marktstraße 40*
 
-![Stolperstein Hahn, Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/marktstrasse_40__300x400.jpg)
+![Stolperstein Hahn, Karoline](../../images/stolpersteine/0d7eb4f74b33_marktstrasse_40__300x400.jpg)
 
 Karoline Grünebaum wurde als Tochter des Handelsmanns Feist Grünebaum und dessen Ehefrau Bettchen, geb. Schott, in Großkarben geboren. Sie heiratete am 24.02.1891 den in in Bergen in der damaligen Hauptstraße (heute Marktstraße) 124 geborenen Metzger Gustav Hahn, Sohn des Gustav Hahn und dessen Ehefrau Regina, geb. Reuss. Die Familie Hahn hatte zwei Töchter, Henny, geboren am 22.02.1893, und Mina, geboren am 08.10.1895 in Bergen.
 
@@ -88,7 +88,7 @@ Marktstraße 40
 ## Gallery
 
 <!-- gallery:standard -->
-![Hahn, Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolperstein-hahn-karoline.jpg)
+![Hahn, Karoline](../../images/stolpersteine/684bcf648ac9_stolperstein-hahn-karoline.jpg)
 
 ## Links
 

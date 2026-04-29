@@ -11,7 +11,7 @@ filters:
 
 *Hebelstraße 13*
 
-![Stolperstein Viktor, Irma, Isidor, Kurt und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/hebelstrasse_13_haus.jpg)
+![Stolperstein Viktor, Irma, Isidor, Kurt und Moritz](../../images/stolpersteine/74755b251c7b_hebelstrasse_13_haus.jpg)
 
 Die Brüder Moritz und Isidor Viktor aus Rhina bei Hersfeld waren die Söhne von Samuel Victor und Mathilde, geb. Tannenwald. Die beiden Kaufleute betrieben seit 1919 gemeinsam ein Kolonial- und Eisenwarengeschäft in Rhina und waren Mitglied der Industrie- und Handelskammer Fulda. Moritz Viktor heiratete Irma Rosenthal aus Fischborn/Gelnhausen, ihr Sohn Kurt wurde in Rhina geboren.
 
@@ -448,9 +448,9 @@ Hebelstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Viktor, Irma, Isidor, Kurt und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-viktor-isidor.jpg)
-![Viktor, Irma, Isidor, Kurt und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-viktor-moritz.jpg)
-![Viktor, Irma, Isidor, Kurt und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-viktor-kurt.jpg)
+![Viktor, Irma, Isidor, Kurt und Moritz](../../images/stolpersteine/ec3d6e1b1b69_stolperstein-viktor-isidor.jpg)
+![Viktor, Irma, Isidor, Kurt und Moritz](../../images/stolpersteine/9e80b641c0d4_stolperstein-viktor-moritz.jpg)
+![Viktor, Irma, Isidor, Kurt und Moritz](../../images/stolpersteine/6587ecdba11a_stolperstein-viktor-kurt.jpg)
 
 ## Links
 

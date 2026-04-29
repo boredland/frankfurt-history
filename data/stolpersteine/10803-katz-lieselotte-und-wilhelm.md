@@ -11,7 +11,7 @@ filters:
 
 *Waldschmidtstraße 13*
 
-![Stolperstein Katz, Lieselotte und Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/waldschmidtstrasse_13.jpg)
+![Stolperstein Katz, Lieselotte und Wilhelm](../../images/stolpersteine/59dd69a594bc_waldschmidtstrasse_13.jpg)
 
 Lieselotte
 
@@ -256,8 +256,8 @@ Waldschmidtstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Katz, Lieselotte und Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_waldschmidtstrasse_13_katz_lieselotte.jpg)
-![Katz, Lieselotte und Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_waldschmidtstrasse_13_katz_wilhelm.jpg)
+![Katz, Lieselotte und Wilhelm](../../images/stolpersteine/78d4b5a9a963_stolperst_waldschmidtstrasse_13_katz_lieselotte.jpg)
+![Katz, Lieselotte und Wilhelm](../../images/stolpersteine/1f798a3ef761_stolperst_waldschmidtstrasse_13_katz_wilhelm.jpg)
 
 ## Links
 

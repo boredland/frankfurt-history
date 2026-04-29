@@ -12,7 +12,7 @@ filters:
 
 *Freiherr-vom-Stein-Straße 53*
 
-![Stolperstein Schiel, Erna und Gerald sowie Levi, Arnold und Lena](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/freiherr-vom-stein-str_53.jpg)
+![Stolperstein Schiel, Erna und Gerald sowie Levi, Arnold und Lena](../../images/stolpersteine/994cfae6d76e_freiherr-vom-stein-str_53.jpg)
 
 Erna Schiel wurde in Hildesheim geboren.
 
@@ -585,11 +585,11 @@ Freiherr-vom-Stein-Straße 53
 ## Gallery
 
 <!-- gallery:standard -->
-![Schiel, Erna und Gerald sowie Levi, Arnold und Lena](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/freiherr-vom-stein-str_53_schiel_gerald_-gerson_3.jpg)
-![Schiel, Erna und Gerald sowie Levi, Arnold und Lena](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/freiherr-vom-stein-str_53_schiel_gerald_-gerson_1.jpg)
-![Schiel, Erna und Gerald sowie Levi, Arnold und Lena](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/freiherr-vom-stein-str_53_schiel_gerald_-gerson_2.jpg)
-![Schiel, Erna und Gerald sowie Levi, Arnold und Lena](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/freiherr-vom-stein-str_53_schiel_gerald_-gerson_4.jpg)
-![Schiel, Erna und Gerald sowie Levi, Arnold und Lena](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_freiherr-vom-stein-str_53_schiel_erna.jpg)
+![Schiel, Erna und Gerald sowie Levi, Arnold und Lena](../../images/stolpersteine/b9871a00f3f6_freiherr-vom-stein-str_53_schiel_gerald_-gerson_3.jpg)
+![Schiel, Erna und Gerald sowie Levi, Arnold und Lena](../../images/stolpersteine/efa7e7fcc553_freiherr-vom-stein-str_53_schiel_gerald_-gerson_1.jpg)
+![Schiel, Erna und Gerald sowie Levi, Arnold und Lena](../../images/stolpersteine/88ff16b346dd_freiherr-vom-stein-str_53_schiel_gerald_-gerson_2.jpg)
+![Schiel, Erna und Gerald sowie Levi, Arnold und Lena](../../images/stolpersteine/7261af0222b7_freiherr-vom-stein-str_53_schiel_gerald_-gerson_4.jpg)
+![Schiel, Erna und Gerald sowie Levi, Arnold und Lena](../../images/stolpersteine/27422452ea6b_stolperst_freiherr-vom-stein-str_53_schiel_erna.jpg)
 
 ## Links
 

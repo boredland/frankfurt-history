@@ -12,7 +12,7 @@ filters:
 
 *Grüne Straße 42*
 
-![Stolperstein Rosenbaum, Lina und Sally](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/gruene_str_42.jpg)
+![Stolperstein Rosenbaum, Lina und Sally](../../images/stolpersteine/113730030b3e_gruene_str_42.jpg)
 
 Lina und Sally Rosenbaum wurden in Frankfurt geboren. Sie heirateten am
 
@@ -301,8 +301,8 @@ Grüne Straße 42
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenbaum, Lina und Sally](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/stolperst_gruene_str_42_rosenbaum_sally.jpg)
-![Rosenbaum, Lina und Sally](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_gruene_str_42_rosenbaum_lina.jpg)
+![Rosenbaum, Lina und Sally](../../images/stolpersteine/cacdfd84c334_stolperst_gruene_str_42_rosenbaum_sally.jpg)
+![Rosenbaum, Lina und Sally](../../images/stolpersteine/6a917f1f571f_stolperst_gruene_str_42_rosenbaum_lina.jpg)
 
 ## Links
 

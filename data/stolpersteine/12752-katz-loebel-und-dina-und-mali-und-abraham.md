@@ -11,7 +11,7 @@ filters:
 
 *Fischerfeldstraße 16*
 
-![Stolperstein Katz, Loebel und Dina und Mali und Abraham](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/fischerfeldstr_16__400x300.jpg)
+![Stolperstein Katz, Loebel und Dina und Mali und Abraham](../../images/stolpersteine/7ce34f5d179b_fischerfeldstr_16__400x300.jpg)
 
 Der polnische Staatsbürger und Kaufmann Loebel Katz wurde in Oswiecim/Auschwitz geboren und war seit 1928 vermutlich in zweiter Ehe mit Dina Katz, geb. Bernknopf (auch Goldfinger genannt) verheiratet. Sie hatten zahlreiche Kinder. Neben Abraham und Mali zwei 1901 und 1903 geborene Töchter, 1904 und 1906 wurden zwei Söhne geboren, 1909 eine Tochter in Offenbach, 1910 und 1913 zwei weiterer Söhne und 1923 eine weitere Tochter in Frankfurt, die nach dem Zweiten Weltkrieg in den USA, Frankreich, der Bundesrepublik Deutschland beziehungsweise Palästina lebten.
 
@@ -204,10 +204,10 @@ Fischerfeldstraße 16 (eigentlich Kämmereistr. 10)
 ## Gallery
 
 <!-- gallery:standard -->
-![Katz, Loebel und Dina und Mali und Abraham](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_fischerfeldstr_16_katz_loebel__400x400.jpg)
-![Katz, Loebel und Dina und Mali und Abraham](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_fischerfeldstr_16_katz_dina__400x400.jpg)
-![Katz, Loebel und Dina und Mali und Abraham](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_fischerfeldstr_16_katz_mali__400x400.jpg)
-![Katz, Loebel und Dina und Mali und Abraham](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_fischerfeldstr_16_katz_abraham__400x400.jpg)
+![Katz, Loebel und Dina und Mali und Abraham](../../images/stolpersteine/89d483d4aea6_stolperst_fischerfeldstr_16_katz_loebel__400x400.jpg)
+![Katz, Loebel und Dina und Mali und Abraham](../../images/stolpersteine/43cc99c49516_stolperst_fischerfeldstr_16_katz_dina__400x400.jpg)
+![Katz, Loebel und Dina und Mali und Abraham](../../images/stolpersteine/a36a174ce155_stolperst_fischerfeldstr_16_katz_mali__400x400.jpg)
+![Katz, Loebel und Dina und Mali und Abraham](../../images/stolpersteine/a67f16b3b68f_stolperst_fischerfeldstr_16_katz_abraham__400x400.jpg)
 
 ## Links
 

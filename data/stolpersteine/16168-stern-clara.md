@@ -11,7 +11,7 @@ filters:
 
 *Gagernstraße 17*
 
-![Stolperstein Stern, Clara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/fuerstenberger_strasse_139_haus.jpg)
+![Stolperstein Stern, Clara](../../images/stolpersteine/b609c52a5b1d_fuerstenberger_strasse_139_haus.jpg)
 
 Klara Stern stammte aus Weilburg (Lahn). Ihre letzte Frankfurter Adresse war Fürstenbergerstraße 139.
 

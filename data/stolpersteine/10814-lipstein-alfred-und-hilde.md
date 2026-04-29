@@ -11,7 +11,7 @@ filters:
 
 *Westendstraße 23*
 
-![Stolperstein Lipstein, Alfred und Hilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/westendstrasse-23_1.jpg)
+![Stolperstein Lipstein, Alfred und Hilde](../../images/stolpersteine/6a2861b17281_westendstrasse-23_1.jpg)
 
 Alfred Lipstein wurde in Königsberg (Ostpreußen) geboren, seine Ehefrau Hilde Lipstein, geb. Sulzbach, stammte aus Frankfurt. Sie heirateten am 4. Juni 1907 und hatten zwei Töchter, Beate und Margot, und zwei Söhne, Kurt und Walter. Alle vier Kinder wurden getauft. Beate wurde 1927, Walter 1933 von Pfarrer Urspruch in der Dreikönigsgemeinde getauft und konfirmiert.
 
@@ -480,9 +480,9 @@ Westendstraße 23
 ## Gallery
 
 <!-- gallery:standard -->
-![Lipstein, Alfred und Hilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/in-der-mitte-stehend-hilde-lipstein-vorne-beate-heute-beate-abramoff-gavidson.jpg)
-![Lipstein, Alfred und Hilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_westendstr_23_lipstein_alfred.jpg)
-![Lipstein, Alfred und Hilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_westendstr_23_lipstein_hilde.jpg)
+![Lipstein, Alfred und Hilde](../../images/stolpersteine/8d00d4e3eb68_in-der-mitte-stehend-hilde-lipstein-vorne-beate-heute-beate-.jpg)
+![Lipstein, Alfred und Hilde](../../images/stolpersteine/3e8c09408334_stolperst_westendstr_23_lipstein_alfred.jpg)
+![Lipstein, Alfred und Hilde](../../images/stolpersteine/80830d66265d_stolperst_westendstr_23_lipstein_hilde.jpg)
 
 ## Links
 

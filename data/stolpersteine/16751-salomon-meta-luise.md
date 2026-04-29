@@ -11,7 +11,7 @@ filters:
 
 *Westendstraße 25*
 
-![Stolperstein Salomon, Meta Luise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/westendstrasse-25_1.jpg)
+![Stolperstein Salomon, Meta Luise](../../images/stolpersteine/4af1f96e57b6_westendstrasse-25_1.jpg)
 
 Meta Luise Salomon, geb. Eichengrün, wurde in Aachen geboren. Meta Salomon gehörte keiner Religionsgemeinschaft an und war in erster Ehe mit Wilhelm Rocholl verheiratet, der 1900 starb. Ihre 1898 in Bonn zur Welt gekommene Tochter flüchtete 1942 über Rom nach Portugal. In zweiter Ehe war Meta Salomon mit Professor Dr. Bernhard Salomon verheiratet. Ein Sohn aus dieser Ehe wurde nach Theresienstadt deportiert und überlebte. Bernhard Salomon lehrte als Professor an der Technischen Hochschule Aachen und war ab 1897 Generaldirektor bei der „Elektrizitäts AG vormals W. Lahmeyer & Co.", wo er ein monatliches Gehalt von 5.000 Goldmark sowie eine Gewinnbeteiligung von 4,5 Prozent erhielt.
 
@@ -448,7 +448,7 @@ Westendstraße 25
 ## Gallery
 
 <!-- gallery:standard -->
-![Salomon, Meta Luise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_westendstrasse_25_salomon_meta__400x400.jpg)
+![Salomon, Meta Luise](../../images/stolpersteine/b21844b6660f_stolperst_westendstrasse_25_salomon_meta__400x400.jpg)
 
 ## Links
 

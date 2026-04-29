@@ -11,7 +11,7 @@ filters:
 
 *Stalburgstraße 34*
 
-![Stolperstein Mardner, Franz Maria](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/stalburgstr_34.jpg)
+![Stolperstein Mardner, Franz Maria](../../images/stolpersteine/35e5d33d71cf_stalburgstr_34.jpg)
 
 Franz
 
@@ -420,7 +420,7 @@ Stalburgstraße 34
 ## Gallery
 
 <!-- gallery:standard -->
-![Mardner, Franz Maria](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_stalburgstr_34_mardner_franz_maria.jpg)
+![Mardner, Franz Maria](../../images/stolpersteine/0d5614b2f83b_stolperst_stalburgstr_34_mardner_franz_maria.jpg)
 
 ## Links
 

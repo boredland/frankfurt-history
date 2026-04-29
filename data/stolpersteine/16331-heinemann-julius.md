@@ -11,7 +11,7 @@ filters:
 
 *Kleine Brückenstraße 3*
 
-![Stolperstein Heinemann, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/kleine-brueckenstrasse-3_1.jpg)
+![Stolperstein Heinemann, Julius](../../images/stolpersteine/1c80b8d5c207_kleine-brueckenstrasse-3_1.jpg)
 
 Julius Heinemann, von Beruf Kaufmann, wurde in Nieder-Weisel, Kreis Friedberg geboren.1931 heiratete er Paula Chrastek, die 1893 in Wien geboren wurde. Sie trat mit der Heirat zum jüdischen Glauben über. Seit 1939 hatte sie die deutsche Staatsbürgerschaft inne. Paula Heinemann war von Beruf Federnschmückerin und arbeitete seit der Heirat als Verkäuferin im Lebensmittelgeschäft ihres Mannes. Das Ehepaar Heinemann hatte keine Kinder.
 
@@ -144,7 +144,7 @@ Kleine Brückenstraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Heinemann, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperstein_kleine_brueckenstrasse_3_heinemann_julius.jpg)
+![Heinemann, Julius](../../images/stolpersteine/ded4a2641161_stolperstein_kleine_brueckenstrasse_3_heinemann_julius.jpg)
 
 ## Links
 

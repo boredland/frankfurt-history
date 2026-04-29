@@ -12,7 +12,7 @@ filters:
 
 *Mousonstraße 20*
 
-![Stolperstein Levi, Bernhard und Greta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/mousonstrasse-20_1.jpg)
+![Stolperstein Levi, Bernhard und Greta](../../images/stolpersteine/4c7e49551970_mousonstrasse-20_1.jpg)
 
 Bernhard Levi
 
@@ -257,8 +257,8 @@ Mousonstraße 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Levi, Bernhard und Greta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_mousonstr_20_levi_bernhard.jpg)
-![Levi, Bernhard und Greta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_mousonstr_20_levi_greta.jpg)
+![Levi, Bernhard und Greta](../../images/stolpersteine/f2bcf18208b9_stolperst_mousonstr_20_levi_bernhard.jpg)
+![Levi, Bernhard und Greta](../../images/stolpersteine/b4f2eddc8e2b_stolperst_mousonstr_20_levi_greta.jpg)
 
 ## Links
 

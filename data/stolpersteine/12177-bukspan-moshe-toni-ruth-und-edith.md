@@ -12,7 +12,7 @@ filters:
 
 *Mainstraße 16*
 
-![Stolperstein Bukspan, Moshe, Toni, Ruth und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/mainstr_16.jpg)
+![Stolperstein Bukspan, Moshe, Toni, Ruth und Edith](../../images/stolpersteine/3c2ff648b8c3_mainstr_16.jpg)
 
 Moshe
 
@@ -257,15 +257,15 @@ Mainstraße 16
 ## Gallery
 
 <!-- gallery:standard -->
-![Bukspan, Moshe, Toni, Ruth und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/mainstr_16_buckspan_moshe_1.jpg)
-![Bukspan, Moshe, Toni, Ruth und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/mainstr_16_buckspan_moshe_2.jpg)
-![Bukspan, Moshe, Toni, Ruth und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/mainstr_16_buckspan_ruth_1.jpg)
-![Bukspan, Moshe, Toni, Ruth und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/mainstr_16_buckspan_ruth_2.jpg)
-![Bukspan, Moshe, Toni, Ruth und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/mainstr_16_buckspan_ruth_3.jpg)
-![Bukspan, Moshe, Toni, Ruth und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_mainstr_16_bukspan_moshe.jpg)
-![Bukspan, Moshe, Toni, Ruth und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_mainstr_16_bukspan_toni.jpg)
-![Bukspan, Moshe, Toni, Ruth und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_mainstr_16_bukspan_ruth.jpg)
-![Bukspan, Moshe, Toni, Ruth und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_mainstr_16_bukspan_edith.jpg)
+![Bukspan, Moshe, Toni, Ruth und Edith](../../images/stolpersteine/f2a59dff2ca1_mainstr_16_buckspan_moshe_1.jpg)
+![Bukspan, Moshe, Toni, Ruth und Edith](../../images/stolpersteine/7826fdc82ace_mainstr_16_buckspan_moshe_2.jpg)
+![Bukspan, Moshe, Toni, Ruth und Edith](../../images/stolpersteine/b79cf7af1695_mainstr_16_buckspan_ruth_1.jpg)
+![Bukspan, Moshe, Toni, Ruth und Edith](../../images/stolpersteine/f08bec124e44_mainstr_16_buckspan_ruth_2.jpg)
+![Bukspan, Moshe, Toni, Ruth und Edith](../../images/stolpersteine/14f9e8f9917b_mainstr_16_buckspan_ruth_3.jpg)
+![Bukspan, Moshe, Toni, Ruth und Edith](../../images/stolpersteine/c6474687ceb3_stolperst_mainstr_16_bukspan_moshe.jpg)
+![Bukspan, Moshe, Toni, Ruth und Edith](../../images/stolpersteine/3d929ab2cd1d_stolperst_mainstr_16_bukspan_toni.jpg)
+![Bukspan, Moshe, Toni, Ruth und Edith](../../images/stolpersteine/c041faeb4b39_stolperst_mainstr_16_bukspan_ruth.jpg)
+![Bukspan, Moshe, Toni, Ruth und Edith](../../images/stolpersteine/cd875b6794b1_stolperst_mainstr_16_bukspan_edith.jpg)
 
 ## Links
 

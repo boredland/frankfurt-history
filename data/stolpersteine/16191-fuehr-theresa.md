@@ -11,7 +11,7 @@ filters:
 
 *Ginnheimer Straße 33*
 
-![Stolperstein Führ, Theresa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/ginnheimer_str_33.jpg)
+![Stolperstein Führ, Theresa](../../images/stolpersteine/106947b0149d_ginnheimer_str_33.jpg)
 
 Theresa Führ wurde in Frankfurt-Rödelheim als Tochter von Heinrich
 
@@ -174,7 +174,7 @@ Ginnheimer Straße 33
 ## Gallery
 
 <!-- gallery:standard -->
-![Führ, Theresa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/fuehr-theresa.jpg)
+![Führ, Theresa](../../images/stolpersteine/fd1cfb3d4b36_fuehr-theresa.jpg)
 
 ## Links
 

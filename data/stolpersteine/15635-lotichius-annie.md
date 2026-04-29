@@ -11,7 +11,7 @@ filters:
 
 *Myliusstraße 41*
 
-![Stolperstein Lotichius, Annie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/myliusstr_41.jpg)
+![Stolperstein Lotichius, Annie](../../images/stolpersteine/bf873a495b73_myliusstr_41.jpg)
 
 Annie Lotichius, geb.
 
@@ -528,10 +528,10 @@ Myliusstraße 41
 ## Gallery
 
 <!-- gallery:standard -->
-![Lotichius, Annie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/myliusstr_41_lotichius_annie_1939.jpg)
-![Lotichius, Annie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/myliusstr_41_lotichius_annie_1942.jpg)
-![Lotichius, Annie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/myliusstr_41_lotichius_alfred_1942.jpg)
-![Lotichius, Annie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_myliusstr_41_lotichius_annie.jpg)
+![Lotichius, Annie](../../images/stolpersteine/698a3cbd9c63_myliusstr_41_lotichius_annie_1939.jpg)
+![Lotichius, Annie](../../images/stolpersteine/374039703541_myliusstr_41_lotichius_annie_1942.jpg)
+![Lotichius, Annie](../../images/stolpersteine/ce606d1712f9_myliusstr_41_lotichius_alfred_1942.jpg)
+![Lotichius, Annie](../../images/stolpersteine/9c8eee4ba89b_stolperst_myliusstr_41_lotichius_annie.jpg)
 
 ## Links
 

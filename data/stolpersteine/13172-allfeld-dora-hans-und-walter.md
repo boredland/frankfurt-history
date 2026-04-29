@@ -11,7 +11,7 @@ filters:
 
 *Renneroder Straße 23*
 
-![Stolperstein Allfeld, Dora Hans und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sossenheim/standorte/renneroder_str_23.jpg)
+![Stolperstein Allfeld, Dora Hans und Walter](../../images/stolpersteine/1102feffdf79_renneroder_str_23.jpg)
 
 Walter Allfeld wurde in Sossenheim
 
@@ -160,11 +160,11 @@ Renneroder Straße 23
 ## Gallery
 
 <!-- gallery:standard -->
-![Allfeld, Dora Hans und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sossenheim/opferbilder/renneroder_-str_23_allfeld_karteikarte_ghetto_theresienstadt.jpg)
-![Allfeld, Dora Hans und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sossenheim/opferbilder/renneroder_str_23_allfeld_sossenheimer_zeitung_26_04_1924_wahlvorschlag_kpd.jpg)
-![Allfeld, Dora Hans und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sossenheim/stolperst_renneroder_str_23_allfeld_walter.jpg)
-![Allfeld, Dora Hans und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sossenheim/stolperst_renneroder_str_23_allfeld_dora.jpg)
-![Allfeld, Dora Hans und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sossenheim/stolperst_renneroder_str_23_allfeld_hans.jpg)
+![Allfeld, Dora Hans und Walter](../../images/stolpersteine/5b9a2f4cce6c_renneroder_-str_23_allfeld_karteikarte_ghetto_theresienstadt.jpg)
+![Allfeld, Dora Hans und Walter](../../images/stolpersteine/d9f464ce7f8c_renneroder_str_23_allfeld_sossenheimer_zeitung_26_04_1924_wa.jpg)
+![Allfeld, Dora Hans und Walter](../../images/stolpersteine/0f72bd81a85c_stolperst_renneroder_str_23_allfeld_walter.jpg)
+![Allfeld, Dora Hans und Walter](../../images/stolpersteine/3dcf538c3d75_stolperst_renneroder_str_23_allfeld_dora.jpg)
+![Allfeld, Dora Hans und Walter](../../images/stolpersteine/a0575c7be065_stolperst_renneroder_str_23_allfeld_hans.jpg)
 
 ## Links
 

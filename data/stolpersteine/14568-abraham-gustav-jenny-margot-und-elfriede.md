@@ -11,7 +11,7 @@ filters:
 
 *Herderstraße 11*
 
-![Stolperstein Abraham, Gustav, Jenny, Margot und Elfriede](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/herderstr_11.jpg)
+![Stolperstein Abraham, Gustav, Jenny, Margot und Elfriede](../../images/stolpersteine/5c29d54d9b12_herderstr_11.jpg)
 
 Jenny und Gustav Abraham
 
@@ -466,12 +466,12 @@ Herderstraße 11
 ## Gallery
 
 <!-- gallery:standard -->
-![Abraham, Gustav, Jenny, Margot und Elfriede](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/jenny-und-gustav-abraham.jpg)
-![Abraham, Gustav, Jenny, Margot und Elfriede](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/familie-abraham.jpg)
-![Abraham, Gustav, Jenny, Margot und Elfriede](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/erna-abraham-mit-schwestern.jpg)
-![Abraham, Gustav, Jenny, Margot und Elfriede](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/erna-und-israel-wintraub.jpg)
-![Abraham, Gustav, Jenny, Margot und Elfriede](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/abrahams-werkstatt.jpg)
-![Abraham, Gustav, Jenny, Margot und Elfriede](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-abraham-gustav.jpg)
+![Abraham, Gustav, Jenny, Margot und Elfriede](../../images/stolpersteine/41736e3faec7_jenny-und-gustav-abraham.jpg)
+![Abraham, Gustav, Jenny, Margot und Elfriede](../../images/stolpersteine/63c5b7fc42c3_familie-abraham.jpg)
+![Abraham, Gustav, Jenny, Margot und Elfriede](../../images/stolpersteine/0edebee47edd_erna-abraham-mit-schwestern.jpg)
+![Abraham, Gustav, Jenny, Margot und Elfriede](../../images/stolpersteine/3760b7d03be0_erna-und-israel-wintraub.jpg)
+![Abraham, Gustav, Jenny, Margot und Elfriede](../../images/stolpersteine/93086d9fcecb_abrahams-werkstatt.jpg)
+![Abraham, Gustav, Jenny, Margot und Elfriede](../../images/stolpersteine/3846483faa77_stolperstein-abraham-gustav.jpg)
 
 ## Links
 

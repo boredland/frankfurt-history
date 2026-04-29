@@ -11,7 +11,7 @@ filters:
 
 *Querstraße 6*
 
-![Stolperstein Stark, Robert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/querstrasse_6.jpg)
+![Stolperstein Stark, Robert](../../images/stolpersteine/0c2935143724_querstrasse_6.jpg)
 
 Robert Stark wurde in Frankfurt geboren. Seine Eltern
 
@@ -488,9 +488,9 @@ Querstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Stark, Robert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/querstr_6_stark_robert_mit_seiner_ersten_frau.jpg)
-![Stark, Robert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/querstr_6_stark_robert_als_soldat.jpg)
-![Stark, Robert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_querstr_6_stark_robert.jpg)
+![Stark, Robert](../../images/stolpersteine/0d209f4e93e6_querstr_6_stark_robert_mit_seiner_ersten_frau.jpg)
+![Stark, Robert](../../images/stolpersteine/d199a3e44e11_querstr_6_stark_robert_als_soldat.jpg)
+![Stark, Robert](../../images/stolpersteine/74434a4dec98_stolperst_querstr_6_stark_robert.jpg)
 
 ## Links
 

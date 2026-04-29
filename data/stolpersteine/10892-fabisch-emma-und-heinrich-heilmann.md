@@ -11,7 +11,7 @@ filters:
 
 *An der Ringmauer 134*
 
-![Stolperstein Fabisch, Emma und Heinrich Heilmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/an_der_ringmauer_1.jpg)
+![Stolperstein Fabisch, Emma und Heinrich Heilmann](../../images/stolpersteine/48a3e8db2712_an_der_ringmauer_1.jpg)
 
 Emma Ester Fabisch geb. Sürth, verw. Baer wurde in Düsseldorf geboren. In erster Ehe verheiratet mit Siegfried Baer, der im 1.Weltkrieg als Frontsoldat gefallen ist. Aus dieser Ehe stammt ein am 18. Juli1910 in Mannheim geborener Sohn, Chaim (Heinz) Baer, der nach dem Krieg in Israel (Kibbuz Kfar Szold) lebte. Heinrich Heilmann Fabisch wurde in Liegnitz geboren. Die Heirat fand am 2. März 1924 in Düsseldorf statt. Er war Lehrer und Kantor, zuletzt bis zu seinem Ruhestand 1928 in Göttingen.
 
@@ -120,7 +120,7 @@ An der Ringmauer 134
 ## Gallery
 
 <!-- gallery:standard -->
-![Fabisch, Emma und Heinrich Heilmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/fabisch-heinrich-heilmann.jpg)
+![Fabisch, Emma und Heinrich Heilmann](../../images/stolpersteine/5854e12e642a_fabisch-heinrich-heilmann.jpg)
 
 ## Links
 

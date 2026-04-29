@@ -11,7 +11,7 @@ filters:
 
 *Sandweg 14*
 
-![Stolperstein Ries, Alice und Bella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/sandweg-14_1.jpg)
+![Stolperstein Ries, Alice und Bella](../../images/stolpersteine/5fbfa5a011b5_sandweg-14_1.jpg)
 
 Bella Ries wurde in Frankfurt am Main geboren und war seit September 1897 mit dem Kaufmann Max Ries verheiratet. Ihre Tochter Alice Ries wurde ebenfalls in Frankfurt geboren. Bella Ries war Eigentümerin der Liegenschaft Günthersburgallee 42. Das Grundstück musste verfolgungsbedingt verkauft werden. Der Ehemann starb 1932.
 
@@ -222,7 +222,7 @@ Sandweg 14
 ## Gallery
 
 <!-- gallery:standard -->
-![Ries, Alice und Bella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-ries-alice.jpg)
+![Ries, Alice und Bella](../../images/stolpersteine/9e6e8103a25f_stolperstein-ries-alice.jpg)
 
 ## Links
 

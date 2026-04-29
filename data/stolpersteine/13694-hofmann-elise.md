@@ -11,7 +11,7 @@ filters:
 
 *Hansaallee 146a*
 
-![Stolperstein Hofmann, Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/hansaallee_146a.jpg)
+![Stolperstein Hofmann, Elise](../../images/stolpersteine/ffef5bd4557b_hansaallee_146a.jpg)
 
 Elise Hofmann wurde in Bühl (Baden) als Tochter von August Bloch und Rosalie Bloch, geb. Hirschhorn, geboren. Sie war seit 1916 verwitwet, ihrer 1896 geborenen Tochter Gertrude, die 1927 Alfons Levi geheiratet hatte, gelang die Flucht in die USA. Am 12. September 1930 zog Elise Hofmann aus der Parkstraße 59 als eine der ersten Bewohnerinnen in das 1928 errichtete Altenheim der Henry und Emma-Budge-Stiftung ein. Im März 1939 wurden die letzten jüdischen Bewohner aus dem Heim vertrieben. Elise Hofmann zog am 22. Dezember 1938 in die Telemannstraße 12, wohnte dann im Altenheim Zeil 92 und zuletzt im Israelitischen Krankenhaus in der Gagernstraße 36. Von dort wurde sie deportiert.
 
@@ -464,15 +464,15 @@ Hansaallee 146a
 ## Gallery
 
 <!-- gallery:standard -->
-![Hofmann, Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hansaallee_146a_hofmann_elise.jpg)
-![Hofmann, Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hansaallee_146a_hofmann_elise_1920.jpg)
-![Hofmann, Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hansaallee_146a_hofmann_elise_1930.jpg)
-![Hofmann, Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hansaallee_146a_hofmann_elise_alfons_und_gertrude_levi_hochzeit_1926.jpg)
-![Hofmann, Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hansaallee_146a_hofmann_alfons_levi_im_1_-weltkrieg.jpg)
-![Hofmann, Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hansaallee_146a_hofmann_elise_und_gertrude_1906.jpg)
-![Hofmann, Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hansaallee_146a_hofmann_gertrude_um_1899.jpg)
-![Hofmann, Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hansaallee_146a_hofmann_gertrude_und_alfons_levi_1940_san_francisco.jpg)
-![Hofmann, Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_hansaallee_146a_hofmann_elise.jpg)
+![Hofmann, Elise](../../images/stolpersteine/cc2821db35e1_hansaallee_146a_hofmann_elise.jpg)
+![Hofmann, Elise](../../images/stolpersteine/34a477fa50e2_hansaallee_146a_hofmann_elise_1920.jpg)
+![Hofmann, Elise](../../images/stolpersteine/b6a2a8c8bd17_hansaallee_146a_hofmann_elise_1930.jpg)
+![Hofmann, Elise](../../images/stolpersteine/4e2e6e42dc09_hansaallee_146a_hofmann_elise_alfons_und_gertrude_levi_hochz.jpg)
+![Hofmann, Elise](../../images/stolpersteine/304b3f389eb9_hansaallee_146a_hofmann_alfons_levi_im_1_-weltkrieg.jpg)
+![Hofmann, Elise](../../images/stolpersteine/a1080763671b_hansaallee_146a_hofmann_elise_und_gertrude_1906.jpg)
+![Hofmann, Elise](../../images/stolpersteine/891c2f74baae_hansaallee_146a_hofmann_gertrude_um_1899.jpg)
+![Hofmann, Elise](../../images/stolpersteine/56335ddea48a_hansaallee_146a_hofmann_gertrude_und_alfons_levi_1940_san_fr.jpg)
+![Hofmann, Elise](../../images/stolpersteine/422c8f6e2309_stolperst_hansaallee_146a_hofmann_elise.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Schumannstraße 71*
 
-![Stolperstein Kahn, Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/schumannstrasse-71_1.jpg)
+![Stolperstein Kahn, Paula](../../images/stolpersteine/053b5ff56491_schumannstrasse-71_1.jpg)
 
 Paula Kahn wurde in Osthofen geboren als Tochter von Heinrich Mayer
 
@@ -490,7 +490,7 @@ Schumannstraße 69-71
 ## Gallery
 
 <!-- gallery:standard -->
-![Kahn, Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstr_69_kahn_paula.jpg)
+![Kahn, Paula](../../images/stolpersteine/70fce6887728_stolperst_schumannstr_69_kahn_paula.jpg)
 
 ## Links
 

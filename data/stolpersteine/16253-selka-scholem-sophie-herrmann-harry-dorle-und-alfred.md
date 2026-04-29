@@ -11,7 +11,7 @@ filters:
 
 *Hebelstraße 13*
 
-![Stolperstein Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/hebelstrasse_13_haus.jpg)
+![Stolperstein Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](../../images/stolpersteine/74755b251c7b_hebelstrasse_13_haus.jpg)
 
 Die Hebelstraße 13 wurde 1905 erstmalig im Frankfurter Adressbuch erwähnt, Eigentümer war der Architekt W. Prößler aus dem Mauerweg 34. Das benachbarte Philantropin wurde erst später erbaut und 1908 bezogen. 1919 kaufte der jüdische Kaufmann Fritz Selka das Gebäude und zog mit seiner Frau Sofia, geb. Kochmann, im April in den ersten Stock ein. Die vier Kinder Hermann, Harry, Dorothea und Alfred wurden zwischen 1919 und 1927 geboren. Später zog die Familie des Schwagers Isak Ellberger und seine Frau Anna, geb. Selka, mit den Söhnen Max und Jakob Leo in die Wohnung im zweiten Stock. Die Wohnung im Erdgeschoss wurde vermietet. Im Dachgeschoss lebte die Großmutter der Familie Selka bis zu ihrem Tod. Die Mansarden boten Raum für Hauspersonal, später auch für einzelne Untermieter/innen.
 
@@ -474,16 +474,16 @@ Hebelstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/hebelstr_13_selka_fritz.jpg)
-![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/hebelstr_13_selka_sophie.jpg)
-![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/hebelstr_13_selka_alfred_und_dorle.jpg)
-![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/hebelstr_13_selka_frau_erb_alfred_dorle_und_harry.jpg)
-![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_hebelstr_13_selka_scholem.jpg)
-![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_hebelstr_13_selka_sophie.jpg)
-![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_hebelstr_13_selka_hermann.jpg)
-![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_hebelstr_13_selka_harry.jpg)
-![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_hebelstr_13_selka_dorle.jpg)
-![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_hebelstr_13_selka_alfred.jpg)
+![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](../../images/stolpersteine/821c781cae57_hebelstr_13_selka_fritz.jpg)
+![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](../../images/stolpersteine/a316221e78a2_hebelstr_13_selka_sophie.jpg)
+![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](../../images/stolpersteine/d1a9d92f3c40_hebelstr_13_selka_alfred_und_dorle.jpg)
+![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](../../images/stolpersteine/4e44236e1fd8_hebelstr_13_selka_frau_erb_alfred_dorle_und_harry.jpg)
+![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](../../images/stolpersteine/8fa24bf2cb67_stolperst_hebelstr_13_selka_scholem.jpg)
+![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](../../images/stolpersteine/4235b87082a5_stolperst_hebelstr_13_selka_sophie.jpg)
+![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](../../images/stolpersteine/7468ae1e212c_stolperst_hebelstr_13_selka_hermann.jpg)
+![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](../../images/stolpersteine/e8fee495ccc8_stolperst_hebelstr_13_selka_harry.jpg)
+![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](../../images/stolpersteine/7109a65d9fe1_stolperst_hebelstr_13_selka_dorle.jpg)
+![Selka, Scholem, Sophie, Herrmann, Harry, Dorle und Alfred](../../images/stolpersteine/ad8babd01f43_stolperst_hebelstr_13_selka_alfred.jpg)
 
 ## Links
 

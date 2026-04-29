@@ -12,7 +12,7 @@ filters:
 
 *Im Heidenfeld 18*
 
-![Stolperstein Saalfeld, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/im_heidenfeld_18.jpg)
+![Stolperstein Saalfeld, Elisabeth](../../images/stolpersteine/b10a198cc8fb_im_heidenfeld_18.jpg)
 
 Elisabeth Saalfeld wurde in Dessau geboren und lebte
 
@@ -129,7 +129,7 @@ Im Heidenfeld 18
 ## Gallery
 
 <!-- gallery:standard -->
-![Saalfeld, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/stolpersteine_im_heidenfeld_18.jpg)
+![Saalfeld, Elisabeth](../../images/stolpersteine/3ce78e35842a_stolpersteine_im_heidenfeld_18.jpg)
 
 ## Links
 

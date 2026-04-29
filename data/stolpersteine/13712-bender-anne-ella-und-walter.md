@@ -12,7 +12,7 @@ filters:
 
 *Hegelstraße 16*
 
-![Stolperstein Bender, Anne, Ella und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/hegelstr_16.jpg)
+![Stolperstein Bender, Anne, Ella und Walter](../../images/stolpersteine/e660fa84de01_hegelstr_16.jpg)
 
 Walter Hermann Bender wurde
 
@@ -549,10 +549,10 @@ Hegelstraße 16
 ## Gallery
 
 <!-- gallery:standard -->
-![Bender, Anne, Ella und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/hegelstr_16_bender_anne.jpg)
-![Bender, Anne, Ella und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_hegelstr_16_bender_walter.jpg)
-![Bender, Anne, Ella und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_hegelstr_16_bender_ella.jpg)
-![Bender, Anne, Ella und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_hegelstr_16_bender_anne.jpg)
+![Bender, Anne, Ella und Walter](../../images/stolpersteine/27749894d613_hegelstr_16_bender_anne.jpg)
+![Bender, Anne, Ella und Walter](../../images/stolpersteine/100518493588_stolperst_hegelstr_16_bender_walter.jpg)
+![Bender, Anne, Ella und Walter](../../images/stolpersteine/5167c7aaee40_stolperst_hegelstr_16_bender_ella.jpg)
+![Bender, Anne, Ella und Walter](../../images/stolpersteine/07c26dc78a74_stolperst_hegelstr_16_bender_anne.jpg)
 
 ## Links
 

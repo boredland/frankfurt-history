@@ -11,7 +11,7 @@ filters:
 
 *Holbeinstraße 40*
 
-![Stolperstein Weiss, Ludwig und Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/holbeinstrasse-40_1.jpg)
+![Stolperstein Weiss, Ludwig und Helene](../../images/stolpersteine/e3be20361f97_holbeinstrasse-40_1.jpg)
 
 Ludwig Weiss wurde in Langenlonsheim, Helene Weiss in Mainz geboren. Das Ehepaar hatte keine Kinder. Ludwig Weiss hatte mehrere Geschwister: Moritz und Lina Weiss sowie Antonia Marx, geb. Weiss, sowie einen weiteren 1882 in Langenlonsheim zur Welt gekommenen Bruder. Die Eltern von Helene Weiss waren der Mainzer Weinhändler Theodor Scheuer und Lina, geb. Kahn.
 
@@ -160,8 +160,8 @@ Holbeinstraße 40
 ## Gallery
 
 <!-- gallery:standard -->
-![Weiss, Ludwig und Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperstein_holbeinstr_40_weiss_helene.jpg)
-![Weiss, Ludwig und Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperstein_holbeinstr_40_weiss_ludwig.jpg)
+![Weiss, Ludwig und Helene](../../images/stolpersteine/e5ebd3be09c0_stolperstein_holbeinstr_40_weiss_helene.jpg)
+![Weiss, Ludwig und Helene](../../images/stolpersteine/b5068c36a6c3_stolperstein_holbeinstr_40_weiss_ludwig.jpg)
 
 ## Links
 

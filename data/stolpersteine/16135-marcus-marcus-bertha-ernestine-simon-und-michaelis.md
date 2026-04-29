@@ -12,7 +12,7 @@ filters:
 
 *Fellnerstraße 5-7*
 
-![Stolperstein Marcus, Marcus, Bertha, Ernestine, Simon und Michaelis](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/fellnerstr_5-7.jpg)
+![Stolperstein Marcus, Marcus, Bertha, Ernestine, Simon und Michaelis](../../images/stolpersteine/0a28ac4f2c4f_fellnerstr_5-7.jpg)
 
 Marcus Marcus
 
@@ -569,10 +569,10 @@ Fellnerstraße 5-7
 ## Gallery
 
 <!-- gallery:standard -->
-![Marcus, Marcus, Bertha, Ernestine, Simon und Michaelis](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fellnerstr_5-7_marcus_1.jpg)
-![Marcus, Marcus, Bertha, Ernestine, Simon und Michaelis](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fellnerstr_5-7_marcus_marcus_2.jpg)
-![Marcus, Marcus, Bertha, Ernestine, Simon und Michaelis](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_fellnerstr_5-7_marcus_marcus.jpg)
-![Marcus, Marcus, Bertha, Ernestine, Simon und Michaelis](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_fellnerstr_5-7_marcus_bertha.jpg)
+![Marcus, Marcus, Bertha, Ernestine, Simon und Michaelis](../../images/stolpersteine/c587c1466f78_fellnerstr_5-7_marcus_1.jpg)
+![Marcus, Marcus, Bertha, Ernestine, Simon und Michaelis](../../images/stolpersteine/dc9b81bde61c_fellnerstr_5-7_marcus_marcus_2.jpg)
+![Marcus, Marcus, Bertha, Ernestine, Simon und Michaelis](../../images/stolpersteine/a9578180e8ab_stolperst_fellnerstr_5-7_marcus_marcus.jpg)
+![Marcus, Marcus, Bertha, Ernestine, Simon und Michaelis](../../images/stolpersteine/ca070e21141a_stolperst_fellnerstr_5-7_marcus_bertha.jpg)
 
 ## Links
 

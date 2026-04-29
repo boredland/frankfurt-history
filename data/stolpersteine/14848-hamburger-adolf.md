@@ -11,7 +11,7 @@ filters:
 
 *Palmstraße 13*
 
-![Stolperstein Hamburger, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/palmstr_13.jpg)
+![Stolperstein Hamburger, Adolf](../../images/stolpersteine/46bc5469d2d3_palmstr_13.jpg)
 
 Adolf Hamburger wurde  in Aschaffenburg geboren. Seit 1924 war er geschieden, er hatte einen Sohn, dem 1938 die Flucht in das US-amerikanische Exil gelang. Adolf Hamburger arbeitete ab 1925 als Vertreter für Herrenkonfektion, zuletzt als Makler und Versicherungsagent. Seine letzte Frankfurter Adresse war die Friedberger Landstraße 125.
 
@@ -398,7 +398,7 @@ Palmstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Hamburger, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-hamburger-adolf.jpg)
+![Hamburger, Adolf](../../images/stolpersteine/8137ab2e97ee_stolperstein-hamburger-adolf.jpg)
 
 ## Links
 

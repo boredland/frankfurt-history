@@ -12,7 +12,7 @@ filters:
 
 *Röderbergweg 65*
 
-![Stolperstein Ledermann, Bernhard, Ilse, Max, Minna und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/roederbergweg_65.jpg)
+![Stolperstein Ledermann, Bernhard, Ilse, Max, Minna und Moritz](../../images/stolpersteine/19a84fd871f6_roederbergweg_65.jpg)
 
 Moritz Ledermann wurde in Neckarsteinach
 
@@ -273,11 +273,11 @@ Röderbergweg 65
 ## Gallery
 
 <!-- gallery:standard -->
-![Ledermann, Bernhard, Ilse, Max, Minna und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/roederbergweg_65_ledermann_bernhard.jpg)
-![Ledermann, Bernhard, Ilse, Max, Minna und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_roederbergweg_65_ledermann_moritz.jpg)
-![Ledermann, Bernhard, Ilse, Max, Minna und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_roederbergweg_65_ledermann_minna.jpg)
-![Ledermann, Bernhard, Ilse, Max, Minna und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_roederbergweg_65_ledermann_bernhard.jpg)
-![Ledermann, Bernhard, Ilse, Max, Minna und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_roederbergweg_65_ledermann_max.jpg)
+![Ledermann, Bernhard, Ilse, Max, Minna und Moritz](../../images/stolpersteine/329f3808ceb0_roederbergweg_65_ledermann_bernhard.jpg)
+![Ledermann, Bernhard, Ilse, Max, Minna und Moritz](../../images/stolpersteine/176820f8e0e7_stolperst_roederbergweg_65_ledermann_moritz.jpg)
+![Ledermann, Bernhard, Ilse, Max, Minna und Moritz](../../images/stolpersteine/08be4f570016_stolperst_roederbergweg_65_ledermann_minna.jpg)
+![Ledermann, Bernhard, Ilse, Max, Minna und Moritz](../../images/stolpersteine/cca77e183f03_stolperst_roederbergweg_65_ledermann_bernhard.jpg)
+![Ledermann, Bernhard, Ilse, Max, Minna und Moritz](../../images/stolpersteine/8069479f0864_stolperst_roederbergweg_65_ledermann_max.jpg)
 
 ## Links
 

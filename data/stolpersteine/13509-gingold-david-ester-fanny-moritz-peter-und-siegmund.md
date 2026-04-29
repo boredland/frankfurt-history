@@ -11,7 +11,7 @@ filters:
 
 *Breite Gasse 23*
 
-![Stolperstein Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/breite_gasse_23_400x300.jpg)
+![Stolperstein Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/260042885a04_breite_gasse_23_400x300.jpg)
 
 Moszek/Moritz
 
@@ -476,28 +476,28 @@ Breite Gasse 23
 ## Gallery
 
 <!-- gallery:standard -->
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_gingold_peter_links_aschaffenburg_1933_pahl_rugenstein.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_dora_gingold_frankfurt_1932.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_gingold_peter_paris_1935.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_etti_gingold_paris_1935.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_gingold_fanny_und_peter_ferienlager_d_freien_deutschen_jugend_treport_normandie_1937.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_gingold_peter_und_ettie_im_ferienlager_treport_ende_1930er_jahre.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_gingold_hochzeit_dora_gingold_henry_buchband_paris_1937_leo_und_peter.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_gingold_fanny_und_peter_prestateur-lagelanglade_sept_1940_prv.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_gingold_peter_und_ettie_falsche_personalausweise.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_peter_gingold_ausweis_der_brigade_garibaldi.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_gingold_mitgliedskarte_kfdw.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_gingold_helene_gilbert_alice.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_gingold_hochzeit_1954_siegmund_esther_helene_und-fanny_gingold.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse23_moritz_gingold_um_1960.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_gingold_peter_2000er_jahre.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_david_gingold_2007.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/breite_gasse_23_siegmund_gingold_2021.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_breite_gasse_23_gingold_moritz.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_breite_gasse_23_gingold_esther.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_breite_gasse_23_gingold_david.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_breite_gasse_23_gingold_peter.jpg)
-![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_breite_gasse_23_gingold_siegmund.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/e9940590e2b9_breite_gasse_23_gingold_peter_links_aschaffenburg_1933_pahl_.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/5fa117748515_breite_gasse_23_dora_gingold_frankfurt_1932.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/d94123d057bf_breite_gasse_23_gingold_peter_paris_1935.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/e291be360a99_breite_gasse_23_etti_gingold_paris_1935.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/fbdc1c8d92cc_breite_gasse_23_gingold_fanny_und_peter_ferienlager_d_freien.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/90faff10c333_breite_gasse_23_gingold_peter_und_ettie_im_ferienlager_trepo.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/08de6845fda4_breite_gasse_23_gingold_hochzeit_dora_gingold_henry_buchband.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/80c527628ba7_breite_gasse_23_gingold_fanny_und_peter_prestateur-lagelangl.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/64466d53eec9_breite_gasse_23_gingold_peter_und_ettie_falsche_personalausw.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/61417d397706_breite_gasse_23_peter_gingold_ausweis_der_brigade_garibaldi..jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/58198fd83b5d_breite_gasse_23_gingold_mitgliedskarte_kfdw.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/9f551ccdfad4_breite_gasse_23_gingold_helene_gilbert_alice.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/e3536821587a_breite_gasse_23_gingold_hochzeit_1954_siegmund_esther_helene.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/9795d55ba643_breite_gasse23_moritz_gingold_um_1960.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/6bea624ce663_breite_gasse_23_gingold_peter_2000er_jahre.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/f8d5a91bd409_breite_gasse_23_david_gingold_2007.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/55a00cf39690_breite_gasse_23_siegmund_gingold_2021.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/bb29c8d60a69_stolperst_breite_gasse_23_gingold_moritz.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/585c1f17674b_stolperst_breite_gasse_23_gingold_esther.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/58082311621c_stolperst_breite_gasse_23_gingold_david.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/78ac83b9a97b_stolperst_breite_gasse_23_gingold_peter.jpg)
+![Gingold, David, Ester, Fanny, Moritz, Peter und Siegmund](../../images/stolpersteine/4e5f7a50f354_stolperst_breite_gasse_23_gingold_siegmund.jpg)
 
 ## Links
 

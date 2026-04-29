@@ -11,7 +11,7 @@ filters:
 
 *Zeil 43*
 
-![Stolperstein Nussbaum, Josef und Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/zeil_43.jpg)
+![Stolperstein Nussbaum, Josef und Karoline](../../images/stolpersteine/1e7540634ac4_zeil_43.jpg)
 
 Nussbaum, Josef
 
@@ -180,9 +180,9 @@ Zeil 43
 ## Gallery
 
 <!-- gallery:standard -->
-![Nussbaum, Josef und Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/nussbaum-josef.jpg)
-![Nussbaum, Josef und Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/hedwig-nussbaum-rolf-nussbaum-rosa-wetzlar-und-caroline-nussbaum.jpg)
-![Nussbaum, Josef und Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_zeil_43_nussbaum_josef.jpg)
+![Nussbaum, Josef und Karoline](../../images/stolpersteine/a41d4da6688e_nussbaum-josef.jpg)
+![Nussbaum, Josef und Karoline](../../images/stolpersteine/311b450a0710_hedwig-nussbaum-rolf-nussbaum-rosa-wetzlar-und-caroline-nuss.jpg)
+![Nussbaum, Josef und Karoline](../../images/stolpersteine/3c757193e801_stolperst_zeil_43_nussbaum_josef.jpg)
 
 ## Links
 

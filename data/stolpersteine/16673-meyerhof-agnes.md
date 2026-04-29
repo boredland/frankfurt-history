@@ -11,7 +11,7 @@ filters:
 
 *Stalburgstraße 17*
 
-![Stolperstein Meyerhof, Agnes](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/stalburgstr_17.jpg)
+![Stolperstein Meyerhof, Agnes](../../images/stolpersteine/e8787e30c630_stalburgstr_17.jpg)
 
 Die Malerin, Bildhauerin, Grafikerin und Kunstgewerblerin Agnes Meyerhof wurde in Hildesheim als Tochter des Kaufmanns Magnus Meyerhof und seiner Frau Carolina, geb. Schwabe, geboren. Sie hatte vier Geschwister. Die Familie war seit 250 Jahren in Hildesheim ansässig war und hatte ihr Stammhaus im Friesenstieg. Agnes Meyerhof absolvierte mit dem Jahrgang 1871/72 die Töchterschule. Schon sehr früh wurde ihr Talent für Musik und Zeichnen erkannt. Unmittelbar nach ihrer Schulzeit nahm sie Zeichenunterricht bei dem bekannten Hildesheimer Bildhauer und Künstler Küsthardt (1830-1900).
 
@@ -422,11 +422,11 @@ Stalburgstraße 17
 ## Gallery
 
 <!-- gallery:standard -->
-![Meyerhof, Agnes](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/stalburgstr_17_meyerhof_selbstportrait_staedel-museum_frankfurt.jpg)
-![Meyerhof, Agnes](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/stalburgstr_17_meyerhof_schwanenteich.jpg)
-![Meyerhof, Agnes](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/stalburgstr_17_meyerhof_marabu.jpg)
-![Meyerhof, Agnes](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/stalburgstr_17_meyerhof_stolpersteine_vor_dem_goethegymnasium_in_hildesheim.jpg)
-![Meyerhof, Agnes](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_stalburgstr_17_meyerhof_agnes.jpg)
+![Meyerhof, Agnes](../../images/stolpersteine/36b562aff243_stalburgstr_17_meyerhof_selbstportrait_staedel-museum_frankf.jpg)
+![Meyerhof, Agnes](../../images/stolpersteine/afd5d7d505a9_stalburgstr_17_meyerhof_schwanenteich.jpg)
+![Meyerhof, Agnes](../../images/stolpersteine/021ccf1b621b_stalburgstr_17_meyerhof_marabu.jpg)
+![Meyerhof, Agnes](../../images/stolpersteine/fd4ccdfc13fb_stalburgstr_17_meyerhof_stolpersteine_vor_dem_goethegymnasiu.jpg)
+![Meyerhof, Agnes](../../images/stolpersteine/357e73677d5a_stolperst_stalburgstr_17_meyerhof_agnes.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Berger Straße 204*
 
-![Stolperstein Durlacher, Dina, Julius, Leo und Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/bergerstrasse_204.jpg)
+![Stolperstein Durlacher, Dina, Julius, Leo und Hermine](../../images/stolpersteine/543ff84e0572_bergerstrasse_204.jpg)
 
 Dina und Julius Durlacher
 
@@ -150,15 +150,15 @@ Berger Straße 204
 ## Gallery
 
 <!-- gallery:standard -->
-![Durlacher, Dina, Julius, Leo und Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/dina-und-julius-durlacher.jpg)
-![Durlacher, Dina, Julius, Leo und Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/durlacher-albert.jpg)
-![Durlacher, Dina, Julius, Leo und Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/durlacher-julius.jpg)
-![Durlacher, Dina, Julius, Leo und Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/meta-und-lina-durlacher.jpg)
-![Durlacher, Dina, Julius, Leo und Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/heinz-georg-karoline-und-alfred-daum.jpg)
-![Durlacher, Dina, Julius, Leo und Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/durlacher-julius-2.jpg)
-![Durlacher, Dina, Julius, Leo und Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/meta-und-alfred-eichengr.jpg)
-![Durlacher, Dina, Julius, Leo und Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_bergerstr_204_durlacher_julius.jpg)
-![Durlacher, Dina, Julius, Leo und Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_bergerstr_204_durlacher_leo.jpg)
+![Durlacher, Dina, Julius, Leo und Hermine](../../images/stolpersteine/a085fa9cf3dd_dina-und-julius-durlacher.jpg)
+![Durlacher, Dina, Julius, Leo und Hermine](../../images/stolpersteine/6ab64cb9fc11_durlacher-albert.jpg)
+![Durlacher, Dina, Julius, Leo und Hermine](../../images/stolpersteine/c9c12f9637a1_durlacher-julius.jpg)
+![Durlacher, Dina, Julius, Leo und Hermine](../../images/stolpersteine/ba3df9fdc5be_meta-und-lina-durlacher.jpg)
+![Durlacher, Dina, Julius, Leo und Hermine](../../images/stolpersteine/6afe613af732_heinz-georg-karoline-und-alfred-daum.jpg)
+![Durlacher, Dina, Julius, Leo und Hermine](../../images/stolpersteine/11364189fd6c_durlacher-julius-2.jpg)
+![Durlacher, Dina, Julius, Leo und Hermine](../../images/stolpersteine/7e538699bb53_meta-und-alfred-eichengr.jpg)
+![Durlacher, Dina, Julius, Leo und Hermine](../../images/stolpersteine/e2894aab5b4e_stolperst_bergerstr_204_durlacher_julius.jpg)
+![Durlacher, Dina, Julius, Leo und Hermine](../../images/stolpersteine/232ccb2af311_stolperst_bergerstr_204_durlacher_leo.jpg)
 
 ## Links
 

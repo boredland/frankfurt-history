@@ -11,7 +11,7 @@ filters:
 
 *Schwanheimer Straße 65*
 
-![Stolperstein Gumbmann, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/schwanheimer_strasse_65.jpg)
+![Stolperstein Gumbmann, Wilhelm](../../images/stolpersteine/fef862b3a938_schwanheimer_strasse_65.jpg)
 
 Wilhelm Gumbmann wurde am 20.Januar 1899 als Sohn des
 
@@ -208,8 +208,8 @@ Schwanheimer Strasse 65
 ## Gallery
 
 <!-- gallery:standard -->
-![Gumbmann, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/schwanheimer_strasse_65_gumbmann_wilhelm_pressebericht_niederraeder_kommunistenprozess_1935.jpg)
-![Gumbmann, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_schwanheimer_strasse_65_gumbmann_wilhelm.jpg)
+![Gumbmann, Wilhelm](../../images/stolpersteine/49a777732cee_schwanheimer_strasse_65_gumbmann_wilhelm_pressebericht_niede.jpg)
+![Gumbmann, Wilhelm](../../images/stolpersteine/661b75f5a9b6_stolperst_schwanheimer_strasse_65_gumbmann_wilhelm.jpg)
 
 ## Links
 

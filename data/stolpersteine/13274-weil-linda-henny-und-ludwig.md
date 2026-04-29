@@ -11,7 +11,7 @@ filters:
 
 *Sophienstraße 12*
 
-![Stolperstein Weil, Linda, Henny und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/sophienstr_12.jpg)
+![Stolperstein Weil, Linda, Henny und Ludwig](../../images/stolpersteine/3f9af320a6b2_sophienstr_12.jpg)
 
 Linda und Ludwig Weil mit Tochter Henny bei einem Aufenthalt in Norderney
 
@@ -144,7 +144,7 @@ Sophienstraße 12
 ## Gallery
 
 <!-- gallery:standard -->
-![Weil, Linda, Henny und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/linda-und-ludwig-weil-mit-tochter-henny.jpg)
+![Weil, Linda, Henny und Ludwig](../../images/stolpersteine/26d2cc612e3b_linda-und-ludwig-weil-mit-tochter-henny.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Goldsteinstraße 149*
 
-![Stolperstein Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/goldsteinstr_145.jpg)
+![Stolperstein Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek](../../images/stolpersteine/136e9e09952e_goldsteinstr_145.jpg)
 
 Alexandr Dymkawez wurde als Sohn von Wladimir Dymkawez (Name der Mutter ist unbekannt) in Peresady bei Borisov im Verwaltungsbezirk Minsk in Weißrussland geboren. Er war orthodoxer Christ. Er wurde wahrscheinlich Ende 1941 zur Zwangsarbeit für die Deutsche Reichsbahn nach Frankfurt verschleppt.
 
@@ -176,11 +176,11 @@ Goldsteinstraße 145-149
 ## Gallery
 
 <!-- gallery:standard -->
-![Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_goldsteinstr_145_dymkawez_alexandr.jpg)
-![Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_goldsteinstr_145_schelakin_alexander.jpg)
-![Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_goldsteinstr_145_swiridenko_michail.jpg)
-![Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_goldsteinstr_145_switek_zdenek.jpg)
-![Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_goldsteinstr_145_kopfstein.jpg)
+![Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek](../../images/stolpersteine/0467e0ab2876_stolperst_goldsteinstr_145_dymkawez_alexandr.jpg)
+![Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek](../../images/stolpersteine/6924a642c8a0_stolperst_goldsteinstr_145_schelakin_alexander.jpg)
+![Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek](../../images/stolpersteine/ca2359ed0a52_stolperst_goldsteinstr_145_swiridenko_michail.jpg)
+![Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek](../../images/stolpersteine/0fa3c2f28c30_stolperst_goldsteinstr_145_switek_zdenek.jpg)
+![Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek](../../images/stolpersteine/6ffbc9ddea06_stolperst_goldsteinstr_145_kopfstein.jpg)
 
 ## Links
 

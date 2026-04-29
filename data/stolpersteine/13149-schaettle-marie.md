@@ -12,7 +12,7 @@ filters:
 
 *Palmengartenstraße 3*
 
-![Stolperstein Schättle, Marie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/palmengartenstr_3.jpg)
+![Stolperstein Schättle, Marie](../../images/stolpersteine/0e489da5e0af_palmengartenstr_3.jpg)
 
 Marie Schättle
 
@@ -517,8 +517,8 @@ Palmengartenstraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Schättle, Marie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/palmengartenstr_3_schaettle_marie_1.jpg)
-![Schättle, Marie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_palmengartenstr_3_schaettle_marie.jpg)
+![Schättle, Marie](../../images/stolpersteine/b200375cbcc7_palmengartenstr_3_schaettle_marie_1.jpg)
+![Schättle, Marie](../../images/stolpersteine/32c57f0e93ea_stolperst_palmengartenstr_3_schaettle_marie.jpg)
 
 ## Links
 

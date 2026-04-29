@@ -11,7 +11,7 @@ filters:
 
 *Eppsteiner Straße 5*
 
-![Stolperstein Rosenfeld, Gottlieb](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/eppsteiner-strasse-5_1.jpg)
+![Stolperstein Rosenfeld, Gottlieb](../../images/stolpersteine/a0a66536279b_eppsteiner-strasse-5_1.jpg)
 
 Der Kaufmann Gottlieb Rosenfeld wurde in Hengstfeld bei Crailsheim in Württemberg als elftes von zwölf Kindern des Handelsmannes Isaak Rosenfeld und von Jette Rosenfeld, geb. Feldheimer, geboren.
 
@@ -458,7 +458,7 @@ Eppsteiner Straße 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenfeld, Gottlieb](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eppsteinerstr_5_rosenfeld_gottlieb__400x400.jpg)
+![Rosenfeld, Gottlieb](../../images/stolpersteine/1af161cb7ade_stolperst_eppsteinerstr_5_rosenfeld_gottlieb__400x400.jpg)
 
 ## Links
 

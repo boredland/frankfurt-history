@@ -11,7 +11,7 @@ filters:
 
 *Schwedenpfad 21*
 
-![Stolperstein Bender, Helene und Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/schwedenpfad_21.jpg)
+![Stolperstein Bender, Helene und Georg](../../images/stolpersteine/7b50bcf60876_schwedenpfad_21.jpg)
 
 Bender, Helene (links)
 
@@ -102,11 +102,11 @@ Schwedenpfad 21
 ## Gallery
 
 <!-- gallery:standard -->
-![Bender, Helene und Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/bender-helene.jpg)
-![Bender, Helene und Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/bender-georg.jpg)
-![Bender, Helene und Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/naturfreunde-und-junge-sozialisten-helene-bender-2-v-r.jpg)
-![Bender, Helene und Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/helene-bender-sitzend-1-vl-und-georg-bender-stehend-5-vl.jpg)
-![Bender, Helene und Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/stolperstein-bender-helene.jpg)
+![Bender, Helene und Georg](../../images/stolpersteine/70da90718cf0_bender-helene.jpg)
+![Bender, Helene und Georg](../../images/stolpersteine/b1921f7b5277_bender-georg.jpg)
+![Bender, Helene und Georg](../../images/stolpersteine/028e162288e7_naturfreunde-und-junge-sozialisten-helene-bender-2-v-r.jpg)
+![Bender, Helene und Georg](../../images/stolpersteine/5026a38007c1_helene-bender-sitzend-1-vl-und-georg-bender-stehend-5-vl.jpg)
+![Bender, Helene und Georg](../../images/stolpersteine/b1640643bc5d_stolperstein-bender-helene.jpg)
 
 ## Links
 

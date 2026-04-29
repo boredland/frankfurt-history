@@ -11,7 +11,7 @@ filters:
 
 *Roseggerstraße 17*
 
-![Stolperstein Cahn, Mathilde und Robert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/roseggerstrasse_17_haus.jpg)
+![Stolperstein Cahn, Mathilde und Robert](../../images/stolpersteine/3b05b2c980e0_roseggerstrasse_17_haus.jpg)
 
 Cahn, Dr. Robert Maximilian
 
@@ -120,8 +120,8 @@ Roseggerstraße 17
 ## Gallery
 
 <!-- gallery:standard -->
-![Cahn, Mathilde und Robert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/cahn-dr-robert-maximilian.jpg)
-![Cahn, Mathilde und Robert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/cahn-mathilde-rosa.jpg)
+![Cahn, Mathilde und Robert](../../images/stolpersteine/caad50c72bb7_cahn-dr-robert-maximilian.jpg)
+![Cahn, Mathilde und Robert](../../images/stolpersteine/04121e468e54_cahn-mathilde-rosa.jpg)
 
 ## Links
 

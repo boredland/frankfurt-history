@@ -12,7 +12,7 @@ filters:
 
 *Löhnunggasse 19*
 
-![Stolperstein Weisenseel, Eugen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/loenungsgasse_19.jpg)
+![Stolperstein Weisenseel, Eugen](../../images/stolpersteine/fdf75e4a5ebe_loenungsgasse_19.jpg)
 
 Eugen Weisenseel, Ausweis
 
@@ -175,16 +175,16 @@ Löhnunggasse 19
 ## Gallery
 
 <!-- gallery:standard -->
-![Weisenseel, Eugen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/loehnungsgasse_19_weisenseel_eugen_2.jpg)
-![Weisenseel, Eugen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/loehnungsgasse_19_weisenseel_eugen_1.jpg)
-![Weisenseel, Eugen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/loehnungsgasse_19_weisenseel_eugen_3.jpg)
-![Weisenseel, Eugen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/loehnungsgasse_19_weisenseel_eugen_4.jpg)
-![Weisenseel, Eugen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/loehnungsgasse_19_weisenseel_eugen_5.jpg)
-![Weisenseel, Eugen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/loehnungsgasse_19_weisenseel_eugen_6.jpg)
-![Weisenseel, Eugen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/loehnungsgasse_19_weisenseel_eugen_7.jpg)
-![Weisenseel, Eugen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/loehnungsgasse_19_weisenseel_eugen_8.jpg)
-![Weisenseel, Eugen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/loehnungsgasse_19_weisenseel_eugen_9.jpg)
-![Weisenseel, Eugen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/stolperst_loenungsgasse_19_weisenseel_eugen.jpg)
+![Weisenseel, Eugen](../../images/stolpersteine/fd4dbcffd61a_loehnungsgasse_19_weisenseel_eugen_2.jpg)
+![Weisenseel, Eugen](../../images/stolpersteine/e5e06f31a890_loehnungsgasse_19_weisenseel_eugen_1.jpg)
+![Weisenseel, Eugen](../../images/stolpersteine/6f2059adab97_loehnungsgasse_19_weisenseel_eugen_3.jpg)
+![Weisenseel, Eugen](../../images/stolpersteine/233c0298981f_loehnungsgasse_19_weisenseel_eugen_4.jpg)
+![Weisenseel, Eugen](../../images/stolpersteine/bbd09c9d76af_loehnungsgasse_19_weisenseel_eugen_5.jpg)
+![Weisenseel, Eugen](../../images/stolpersteine/d479ca55cd51_loehnungsgasse_19_weisenseel_eugen_6.jpg)
+![Weisenseel, Eugen](../../images/stolpersteine/819e87bc5572_loehnungsgasse_19_weisenseel_eugen_7.jpg)
+![Weisenseel, Eugen](../../images/stolpersteine/50ae25b83d72_loehnungsgasse_19_weisenseel_eugen_8.jpg)
+![Weisenseel, Eugen](../../images/stolpersteine/6c93bb6421b9_loehnungsgasse_19_weisenseel_eugen_9.jpg)
+![Weisenseel, Eugen](../../images/stolpersteine/1e504b29463d_stolperst_loenungsgasse_19_weisenseel_eugen.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Mainzer Landstraße 121*
 
-![Stolperstein Begemann, August](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/standorte/mainzer_landstr_121.jpg)
+![Stolperstein Begemann, August](../../images/stolpersteine/9fc318193251_mainzer_landstr_121.jpg)
 
 Konrad
 
@@ -272,8 +272,8 @@ Stolpersteine im Gallus
 ## Gallery
 
 <!-- gallery:standard -->
-![Begemann, August](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/opferbilder/mainzer_landstr_121_begemann_august.jpg)
-![Begemann, August](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_mainzer_landstr_121_begemann_august.jpg)
+![Begemann, August](../../images/stolpersteine/bcbb0774942d_mainzer_landstr_121_begemann_august.jpg)
+![Begemann, August](../../images/stolpersteine/e07bbfb6fe07_stolperst_mainzer_landstr_121_begemann_august.jpg)
 
 ## Links
 

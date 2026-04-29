@@ -12,7 +12,7 @@ filters:
 
 *Oskar-von-Miller-Straße 10*
 
-![Stolperstein Friedmann, Ernestine, Judith und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/oskar-von-miller-str_4.jpg)
+![Stolperstein Friedmann, Ernestine, Judith und Moritz](../../images/stolpersteine/c784c9245c13_oskar-von-miller-str_4.jpg)
 
 Ernestine Friedmann
 
@@ -277,13 +277,13 @@ Oskar-von-Miller-Straße 10 (4)
 ## Gallery
 
 <!-- gallery:standard -->
-![Friedmann, Ernestine, Judith und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/oskar-von-miller-str_4_friedmann_ernestine_1.jpg)
-![Friedmann, Ernestine, Judith und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/oskar-von-miller-str_4_friedmann_ernestine_2.jpg)
-![Friedmann, Ernestine, Judith und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/oskar-von-miller-str_4_friedmann_moritz.jpg)
-![Friedmann, Ernestine, Judith und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/oskar-von-miller-str_4_friedmann_judith.jpg)
-![Friedmann, Ernestine, Judith und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_oskar-von-miller-str_4_friedmann_ernestine.jpg)
-![Friedmann, Ernestine, Judith und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_oskar-von-miller-str_4_friedmann_judith.jpg)
-![Friedmann, Ernestine, Judith und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_oskar-von-miller-str_4_friedmann_moritz.jpg)
+![Friedmann, Ernestine, Judith und Moritz](../../images/stolpersteine/22ae6ca07ae3_oskar-von-miller-str_4_friedmann_ernestine_1.jpg)
+![Friedmann, Ernestine, Judith und Moritz](../../images/stolpersteine/a18f06914b83_oskar-von-miller-str_4_friedmann_ernestine_2.jpg)
+![Friedmann, Ernestine, Judith und Moritz](../../images/stolpersteine/1e7e17e52d60_oskar-von-miller-str_4_friedmann_moritz.jpg)
+![Friedmann, Ernestine, Judith und Moritz](../../images/stolpersteine/8e5e524cc174_oskar-von-miller-str_4_friedmann_judith.jpg)
+![Friedmann, Ernestine, Judith und Moritz](../../images/stolpersteine/681da0e01c64_stolperst_oskar-von-miller-str_4_friedmann_ernestine.jpg)
+![Friedmann, Ernestine, Judith und Moritz](../../images/stolpersteine/36ba5e97d4a6_stolperst_oskar-von-miller-str_4_friedmann_judith.jpg)
+![Friedmann, Ernestine, Judith und Moritz](../../images/stolpersteine/0d6768f2c709_stolperst_oskar-von-miller-str_4_friedmann_moritz.jpg)
 
 ## Links
 

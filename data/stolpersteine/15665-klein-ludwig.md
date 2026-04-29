@@ -12,7 +12,7 @@ filters:
 
 *Oberlindau 11*
 
-![Stolperstein Klein, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/oberlindau_11.jpg)
+![Stolperstein Klein, Ludwig](../../images/stolpersteine/075ab4fb8719_oberlindau_11.jpg)
 
 Ludwig Klein war der Sohn von Samuel Klein und Peppi
 
@@ -503,7 +503,7 @@ Oberlindau 11
 ## Gallery
 
 <!-- gallery:standard -->
-![Klein, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_oberlindau_11_klein_ludwig.jpg)
+![Klein, Ludwig](../../images/stolpersteine/94267774549d_stolperst_oberlindau_11_klein_ludwig.jpg)
 
 ## Links
 

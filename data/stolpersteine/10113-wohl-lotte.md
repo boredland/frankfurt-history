@@ -11,7 +11,7 @@ filters:
 
 *Bornheimer Landwehr 85*
 
-![Stolperstein Wohl, Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/bornheimer_landwehr_85.jpg)
+![Stolperstein Wohl, Lotte](../../images/stolpersteine/730606713da2_bornheimer_landwehr_85.jpg)
 
 Lotte
 
@@ -144,7 +144,7 @@ Bornheimer Landwehr 85
 ## Gallery
 
 <!-- gallery:standard -->
-![Wohl, Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_bornheimer_landwehr_85_wohl_lotte.jpg)
+![Wohl, Lotte](../../images/stolpersteine/f57e6eeea0d3_stolperst_bornheimer_landwehr_85_wohl_lotte.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Denzerstraße 14*
 
-![Stolperstein Salomon, Walter, Amalie, Hannelore und Lutz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/denzerstr_14.jpg)
+![Stolperstein Salomon, Walter, Amalie, Hannelore und Lutz](../../images/stolpersteine/a66906a41d9e_denzerstr_14.jpg)
 
 Walter Salomon wurde in Altenkirchen (Westerwald) als erstes Kind des Viehhändlers William Salomon und seiner Frau Helena geb. Callmann geboren. 1899 kam die Tochter Metha zur Welt. Im März 1921 zog er nach Hachenburg (Westerwald). Hier lernte er wahrscheinlich seine spätere Ehefrau Amalie Rosenthal kennen, die aus Ernsbach bei Heilbronn stammte. Sie war die Tochter des Handelsmannes Lazarus Rosenthal und seiner Frau Karoline, geb. Furchheimer.
 
@@ -122,9 +122,9 @@ Denzerstraße 14
 ## Gallery
 
 <!-- gallery:standard -->
-![Salomon, Walter, Amalie, Hannelore und Lutz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/kaufhaus-walter-salomon.jpg)
-![Salomon, Walter, Amalie, Hannelore und Lutz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/totalausverkauf-im-kaufhaus-salomon.jpg)
-![Salomon, Walter, Amalie, Hannelore und Lutz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/stolperstein-salomon-amalie.jpg)
+![Salomon, Walter, Amalie, Hannelore und Lutz](../../images/stolpersteine/7f0f0207f68c_kaufhaus-walter-salomon.jpg)
+![Salomon, Walter, Amalie, Hannelore und Lutz](../../images/stolpersteine/dd47c009fdbe_totalausverkauf-im-kaufhaus-salomon.jpg)
+![Salomon, Walter, Amalie, Hannelore und Lutz](../../images/stolpersteine/3b21b34e4746_stolperstein-salomon-amalie.jpg)
 
 ## Links
 

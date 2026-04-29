@@ -11,7 +11,7 @@ filters:
 
 *Güntherstraße 4*
 
-![Stolperstein Schneider, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/guentherstr_42.jpg)
+![Stolperstein Schneider, Karl](../../images/stolpersteine/5e8bd0fe0071_guentherstr_42.jpg)
 
 Karl Schneider wurde in Frankfurt-Niederrad als Sohn des Schlossermeisters Karl Schneider und seiner Ehefrau Charlotte, geb. Pfeiffer, geboren. Er hatte vier Geschwister. Der älteste Bruder Heinrich Schneider ist im Ersten Weltkrieg gefallen. Die Schwester Charlotte und der Bruder Theobald sind 1914 nach Amerika ausgewandert. Karls jüngerer Bruder Christian  ist der Vater von Gusti Bayer.
 
@@ -138,8 +138,8 @@ Güntherstraße 4
 ## Gallery
 
 <!-- gallery:standard -->
-![Schneider, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/guentherstr_42_schneider.jpg)
-![Schneider, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_guentherstr_42_schneider_karl.jpg)
+![Schneider, Karl](../../images/stolpersteine/b2958ee15bf3_guentherstr_42_schneider.jpg)
+![Schneider, Karl](../../images/stolpersteine/f296f1e283a8_stolperst_guentherstr_42_schneider_karl.jpg)
 
 ## Links
 

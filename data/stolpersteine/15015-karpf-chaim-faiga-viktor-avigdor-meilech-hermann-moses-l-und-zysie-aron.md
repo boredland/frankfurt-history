@@ -11,7 +11,7 @@ filters:
 
 *Uhlandstraße 38*
 
-![Stolperstein Karpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. und Zysie Aron](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/uhlandstr_38.jpg)
+![Stolperstein Karpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. und Zysie Aron](../../images/stolpersteine/07aaa768d38b_uhlandstr_38.jpg)
 
 Chaim Karpf wurde in Nisko (Polen) geboren, Faiga Karpf, geb.
 
@@ -304,12 +304,12 @@ Uhlandstraße 38
 ## Gallery
 
 <!-- gallery:standard -->
-![Karpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. und Zysie Aron](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstr_38_karpf_chaim.jpg)
-![Karpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. und Zysie Aron](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstr_38_karpf_faiga.jpg)
-![Karpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. und Zysie Aron](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstr_38_karpf_viktor_avigdor.jpg)
-![Karpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. und Zysie Aron](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstr_38_karpf_meilechhermann.jpg)
-![Karpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. und Zysie Aron](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstr_38_karpf_moses_l.jpg)
-![Karpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. und Zysie Aron](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstr_38_karpf_zysie_aron.jpg)
+![Karpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. und Zysie Aron](../../images/stolpersteine/be5fc2352a36_stolperst_uhlandstr_38_karpf_chaim.jpg)
+![Karpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. und Zysie Aron](../../images/stolpersteine/5e758555e378_stolperst_uhlandstr_38_karpf_faiga.jpg)
+![Karpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. und Zysie Aron](../../images/stolpersteine/231d239db075_stolperst_uhlandstr_38_karpf_viktor_avigdor.jpg)
+![Karpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. und Zysie Aron](../../images/stolpersteine/ebed24cad6d7_stolperst_uhlandstr_38_karpf_meilechhermann.jpg)
+![Karpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. und Zysie Aron](../../images/stolpersteine/2cbefa95e4f8_stolperst_uhlandstr_38_karpf_moses_l.jpg)
+![Karpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. und Zysie Aron](../../images/stolpersteine/f7a0c6004c50_stolperst_uhlandstr_38_karpf_zysie_aron.jpg)
 
 ## Links
 

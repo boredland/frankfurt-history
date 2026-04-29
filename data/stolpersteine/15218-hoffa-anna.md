@@ -11,7 +11,7 @@ filters:
 
 *Corneliusstraße 9*
 
-![Stolperstein Hoffa, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/corneliusstr_9.jpg)
+![Stolperstein Hoffa, Anna](../../images/stolpersteine/ab3db16d49ac_corneliusstr_9.jpg)
 
 Anna Hoffa
 
@@ -520,7 +520,7 @@ Corneliusstrasse 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Hoffa, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_corneliusstr_9_hoffa_anna.jpg)
+![Hoffa, Anna](../../images/stolpersteine/1181a6ee2bef_stolperst_corneliusstr_9_hoffa_anna.jpg)
 
 ## Links
 

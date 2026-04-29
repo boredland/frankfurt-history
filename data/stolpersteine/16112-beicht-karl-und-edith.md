@@ -11,7 +11,7 @@ filters:
 
 *Eschersheimer Landstraße 357*
 
-![Stolperstein Beicht, Karl und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/eschersheimer_landstr_357.jpg)
+![Stolperstein Beicht, Karl und Edith](../../images/stolpersteine/aba089226900_eschersheimer_landstr_357.jpg)
 
 Karl Beicht wurde in Frankfurt am Main geboren, Edith Wolff kam in Berlin zu Welt, sie heirateten, die Ehe blieb kinderlos. Karl Beicht war von 1914 bis 1918 Soldat im Ersten Weltkrieg, er war Volksschullehrer an der Varrentrapp-Schule, unterrichtete aber auch als Vorschullehrer an der Wöhlerschule.
 
@@ -118,7 +118,7 @@ Eschersheimer Landstraße 357
 ## Gallery
 
 <!-- gallery:standard -->
-![Beicht, Karl und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/karl-beicht.jpg)
+![Beicht, Karl und Edith](../../images/stolpersteine/a741bc8ac743_karl-beicht.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Bindingstraße 9*
 
-![Stolperstein Häuslein, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/bindingstrasse-9_1.jpg)
+![Stolperstein Häuslein, Otto](../../images/stolpersteine/9ddf57401f69_bindingstrasse-9_1.jpg)
 
 Otto Häuslein war verheiratet und hatte zwei Söhne. Er arbeitete als Installateur und schloss sich 1926, schon als 15jähriger Lehrling, der gewerkschaftlichen Jugendbewegung an. Der damalige Jugendgruppenleiter Willi Weber schreibt in Erinnerung an ihn: „Er entwickelte einen sehr großen Bildungs- und Lerneifer. Seine ganze Liebe galt aber der Natur. Er kannte jede Blume, jeden Strauch.“ Er habe in der Gruppe den Spitznamen „das zarte Pflänzchen“ erhalten und habe besonders Bienen geliebt. Seine aus dem Gefängnis erhalten gebliebenen Briefe zeigen, dass seine Sorge neben der um seine Familie besonders seinen Bienenvölkern galt.
 
@@ -204,12 +204,12 @@ Bindingstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Häuslein, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/hauslein-otto.jpg)
-![Häuslein, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/bekanntmachung.jpg)
-![Häuslein, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/hauslein-otto-2.jpg)
-![Häuslein, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/otto-hauslein-letzter-brief.jpg)
-![Häuslein, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/otto-hauslein-letzter-brief-2.jpg)
-![Häuslein, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_bindingstr_9_haeuslein_oskar_reinhold.jpg)
+![Häuslein, Otto](../../images/stolpersteine/05fc509e426b_hauslein-otto.jpg)
+![Häuslein, Otto](../../images/stolpersteine/b6bc42098bbd_bekanntmachung.jpg)
+![Häuslein, Otto](../../images/stolpersteine/6da8225f9b8c_hauslein-otto-2.jpg)
+![Häuslein, Otto](../../images/stolpersteine/8b5b8ed460ad_otto-hauslein-letzter-brief.jpg)
+![Häuslein, Otto](../../images/stolpersteine/b40716d6421c_otto-hauslein-letzter-brief-2.jpg)
+![Häuslein, Otto](../../images/stolpersteine/8893c1d56ce7_stolperst_bindingstr_9_haeuslein_oskar_reinhold.jpg)
 
 ## Links
 

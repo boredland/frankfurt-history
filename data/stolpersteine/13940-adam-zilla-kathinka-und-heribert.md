@@ -11,7 +11,7 @@ filters:
 
 *Myliusstraße 44*
 
-![Stolperstein Adam, Zilla Kathinka und Heribert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/myliusstrasse-44_1.jpg)
+![Stolperstein Adam, Zilla Kathinka und Heribert](../../images/stolpersteine/d6605dbd69c0_myliusstrasse-44_1.jpg)
 
 Heribert Adam mit Eltern
 
@@ -484,13 +484,13 @@ Myliusstraße 44
 ## Gallery
 
 <!-- gallery:standard -->
-![Adam, Zilla Kathinka und Heribert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/heribert-adam-mit-eltern.jpg)
-![Adam, Zilla Kathinka und Heribert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/kathinka-und-karl-adam.jpg)
-![Adam, Zilla Kathinka und Heribert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/heribert-adam-mit-cousine.jpg)
-![Adam, Zilla Kathinka und Heribert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/heribert-adam-mit-cousinen.jpg)
-![Adam, Zilla Kathinka und Heribert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/adam-heribert.jpg)
-![Adam, Zilla Kathinka und Heribert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/heribert-adam-mit-eltern-und-grossmutter.jpg)
-![Adam, Zilla Kathinka und Heribert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_myliusstr_44_adam_kathinka.jpg)
+![Adam, Zilla Kathinka und Heribert](../../images/stolpersteine/5fb53e97f179_heribert-adam-mit-eltern.jpg)
+![Adam, Zilla Kathinka und Heribert](../../images/stolpersteine/ca440eb9bcd8_kathinka-und-karl-adam.jpg)
+![Adam, Zilla Kathinka und Heribert](../../images/stolpersteine/dadb34790caa_heribert-adam-mit-cousine.jpg)
+![Adam, Zilla Kathinka und Heribert](../../images/stolpersteine/2cf64f95fd2b_heribert-adam-mit-cousinen.jpg)
+![Adam, Zilla Kathinka und Heribert](../../images/stolpersteine/553347972880_adam-heribert.jpg)
+![Adam, Zilla Kathinka und Heribert](../../images/stolpersteine/e1d2fd491b43_heribert-adam-mit-eltern-und-grossmutter.jpg)
+![Adam, Zilla Kathinka und Heribert](../../images/stolpersteine/b830144ad89c_stolperst_myliusstr_44_adam_kathinka.jpg)
 
 ## Links
 

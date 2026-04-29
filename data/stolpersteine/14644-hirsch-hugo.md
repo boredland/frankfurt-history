@@ -11,7 +11,7 @@ filters:
 
 *Königsteiner Straße 36*
 
-![Stolperstein Hirsch, Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/knigsteiner_strasse_36__300x400.jpg)
+![Stolperstein Hirsch, Hugo](../../images/stolpersteine/2426a5c3b4a5_knigsteiner_strasse_36__300x400.jpg)
 
 Hugo Hirsch wurde in Wehrheim geboren. Mit seinen Brüdern Karl und Wilhelm zog es ihn in das wirtschaftlich aufstrebende  Höchst. Bis November 1906 wohnte er in der Emmerich-Josef-Str. 6, dann zog er in die Königsteinerstr. 36.  Eine ehemalige Nachbarin erinnerte sich, dass er im 1. Stock wohnte. Hier war er Mitinhaber der „Lebensmittelgroßhandlung Hugo Hirsch“; 1934 wurde das Geschäft im Boykotthandbuch mit der Firmenbezeichnung „Lebensmittel en gros“ aufgelistet.
 
@@ -142,7 +142,7 @@ Königsteiner Straße 36
 ## Gallery
 
 <!-- gallery:standard -->
-![Hirsch, Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_koenigsteinerstrasse_36_hirsch_hugo__400x400.jpg)
+![Hirsch, Hugo](../../images/stolpersteine/20b1db3d9f94_stolperst_koenigsteinerstrasse_36_hirsch_hugo__400x400.jpg)
 
 ## Links
 

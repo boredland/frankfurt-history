@@ -12,7 +12,7 @@ filters:
 
 *Leo-Gans-Straße 21*
 
-![Stolperstein Ebert, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/leo-gans-str_21.jpg)
+![Stolperstein Ebert, Wilhelm](../../images/stolpersteine/397a266a1c57_leo-gans-str_21.jpg)
 
 Wilhelm Ebert
 
@@ -155,14 +155,14 @@ Leo-Gans-Straße 21
 ## Gallery
 
 <!-- gallery:standard -->
-![Ebert, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/leo-gans-str_21_ebert_wilhelm_1.jpg)
-![Ebert, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/leo-gans-str_21_ebert_wilhelm_2.jpg)
-![Ebert, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/leo-gans-str_21_ebert_wilhelm_3.jpg)
-![Ebert, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/leo-gans-str_21_ebert_wilhelm_4.jpg)
-![Ebert, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/leo-gans-str_21_ebert_wilhelm_5.jpg)
-![Ebert, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/leo-gans-str_21_ebert_wilhelm_6.jpg)
-![Ebert, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/opferbilder/leo-gans-str_21_ebert_wilhelm_7.jpg)
-![Ebert, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/stolperst_leo-gans-str_21_ebert_wilhelm.jpg)
+![Ebert, Wilhelm](../../images/stolpersteine/110613e129a2_leo-gans-str_21_ebert_wilhelm_1.jpg)
+![Ebert, Wilhelm](../../images/stolpersteine/96a3b04905ce_leo-gans-str_21_ebert_wilhelm_2.jpg)
+![Ebert, Wilhelm](../../images/stolpersteine/ac210bc3e865_leo-gans-str_21_ebert_wilhelm_3.jpg)
+![Ebert, Wilhelm](../../images/stolpersteine/4d56fefffdc2_leo-gans-str_21_ebert_wilhelm_4.jpg)
+![Ebert, Wilhelm](../../images/stolpersteine/da3d824404e9_leo-gans-str_21_ebert_wilhelm_5.jpg)
+![Ebert, Wilhelm](../../images/stolpersteine/8d6de55d7843_leo-gans-str_21_ebert_wilhelm_6.jpg)
+![Ebert, Wilhelm](../../images/stolpersteine/ffb7411a0944_leo-gans-str_21_ebert_wilhelm_7.jpg)
+![Ebert, Wilhelm](../../images/stolpersteine/f1206d077d16_stolperst_leo-gans-str_21_ebert_wilhelm.jpg)
 
 ## Links
 

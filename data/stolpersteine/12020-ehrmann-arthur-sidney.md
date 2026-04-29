@@ -12,7 +12,7 @@ filters:
 
 *Heinestraße 15*
 
-![Stolperstein Ehrmann, Arthur Sidney](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/heinestr_15.jpg)
+![Stolperstein Ehrmann, Arthur Sidney](../../images/stolpersteine/6f4a21cdd459_heinestr_15.jpg)
 
 Arthur Sidney Ehrmann wurde in Frankfurt am
 
@@ -469,7 +469,7 @@ Heinestraße 15
 ## Gallery
 
 <!-- gallery:standard -->
-![Ehrmann, Arthur Sidney](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_heinestr_15_ehrmann_arthur_sidney.jpg)
+![Ehrmann, Arthur Sidney](../../images/stolpersteine/93bbd1a58f0c_stolperst_heinestr_15_ehrmann_arthur_sidney.jpg)
 
 ## Links
 

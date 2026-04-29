@@ -11,7 +11,7 @@ filters:
 
 *Am Tiergarten 18*
 
-![Stolperstein Königsberger, Rudolf, Berta und Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/am-tiergarten-18-iii_1.jpg)
+![Stolperstein Königsberger, Rudolf, Berta und Siegfried](../../images/stolpersteine/cdf72396e56b_am-tiergarten-18-iii_1.jpg)
 
 Berta Königsberger
 
@@ -244,11 +244,11 @@ Am Tiergarten 18/III
 ## Gallery
 
 <!-- gallery:standard -->
-![Königsberger, Rudolf, Berta und Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/am_tiergarten_18_koenigsberger_berta.jpg)
-![Königsberger, Rudolf, Berta und Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/am_tiergarten_18_siegfried_mit_frau_und_kindern_1940.jpg)
-![Königsberger, Rudolf, Berta und Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/am_tiergarten_18_koenigsberger_berta_brief.jpg)
-![Königsberger, Rudolf, Berta und Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-koenigsberger-rudolf.jpg)
-![Königsberger, Rudolf, Berta und Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-koenigsberger-siegfried.jpg)
+![Königsberger, Rudolf, Berta und Siegfried](../../images/stolpersteine/217382d981e2_am_tiergarten_18_koenigsberger_berta.jpg)
+![Königsberger, Rudolf, Berta und Siegfried](../../images/stolpersteine/3690e3928ec9_am_tiergarten_18_siegfried_mit_frau_und_kindern_1940.jpg)
+![Königsberger, Rudolf, Berta und Siegfried](../../images/stolpersteine/6a082ebfc068_am_tiergarten_18_koenigsberger_berta_brief.jpg)
+![Königsberger, Rudolf, Berta und Siegfried](../../images/stolpersteine/c926342c40e9_stolperstein-koenigsberger-rudolf.jpg)
+![Königsberger, Rudolf, Berta und Siegfried](../../images/stolpersteine/fc7c98cc4d75_stolperstein-koenigsberger-siegfried.jpg)
 
 ## Links
 

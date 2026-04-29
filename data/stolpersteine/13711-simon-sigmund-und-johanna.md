@@ -11,7 +11,7 @@ filters:
 
 *Heddernheimer Landstraße 32*
 
-![Stolperstein Simon, Sigmund und Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/heddernheimer_landstrasse_32.jpg)
+![Stolperstein Simon, Sigmund und Johanna](../../images/stolpersteine/c99682ba5591_heddernheimer_landstrasse_32.jpg)
 
 Siegmund Simon wurde in Kölschhausen geboren, seine Ehefrau Johanna (Johanette Jenny),geb. Oppenheimer, in Camberg. Ab 1903 waren die Eheleute Inhaber eines Warenhauses im eigenen Wohn- und Geschäftshaus in Heddernheim, Heddernheimer Landstrasse 32, das Kurzwaren, Fahrräder, Nähmaschinen und Zubehör vertrieb. Die Familie lebte auch in dem Haus, zusammen mit der am 18. Juni 1904 geborenen Tochter Adele.
 
@@ -116,8 +116,8 @@ Heddernheimer Landstraße 32
 ## Gallery
 
 <!-- gallery:standard -->
-![Simon, Sigmund und Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/zeitungsanzeige-kaufhaus-simon.jpg)
-![Simon, Sigmund und Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/stolpersteine_heddernheimer_landstrasse_32.jpg)
+![Simon, Sigmund und Johanna](../../images/stolpersteine/68a40721318a_zeitungsanzeige-kaufhaus-simon.jpg)
+![Simon, Sigmund und Johanna](../../images/stolpersteine/0eaa64194a41_stolpersteine_heddernheimer_landstrasse_32.jpg)
 
 ## Links
 

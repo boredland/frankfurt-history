@@ -11,7 +11,7 @@ filters:
 
 *Marktstraße 19*
 
-![Stolperstein Strauss, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/marktstrasse_19__300x400.jpg)
+![Stolperstein Strauss, Julius](../../images/stolpersteine/80820ae42722_marktstrasse_19__300x400.jpg)
 
 Julius Strauß wurde gemäß den Aufzeichnungen von Pfarrer Wessendorft am 11.09.1882 (nach denen seiner Enkelin Renate Krauss 1881) in Großkarben als Sohn des Metzgermeisters Meier Strauß und dessen Ehefrau Bettchen, geb. Stern, geboren. Er lebte seit dem 01.07.1908 in Bergen und war dort nach Aussagen seiner Enkelin von 1926 bis 1933 Vorsitzender der Synagoge und der Stiftung zur Unterhaltung des Alten Friedhofs. Von Beruf war er Tuchwaren-Kaufmann. Er hatte seit 1908 ein Herrenbekleidungsgeschäft auf der Hauptstraße 140, heute Marktstraße 19. Seine Enkelin spricht von "Männer & Buben Konfektion".
 
@@ -94,7 +94,7 @@ Marktstraße 19
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauss, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolperstein-strauss-julius.jpg)
+![Strauss, Julius](../../images/stolpersteine/d8c9956a2f4b_stolperstein-strauss-julius.jpg)
 
 ## Links
 

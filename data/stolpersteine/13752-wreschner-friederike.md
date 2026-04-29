@@ -11,7 +11,7 @@ filters:
 
 *Im Trutz 13*
 
-![Stolperstein Wreschner, Friederike](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/im-trutz-13_1.jpg)
+![Stolperstein Wreschner, Friederike](../../images/stolpersteine/83eedd59034b_im-trutz-13_1.jpg)
 
 „Friederike Wreschner wurde in Sopron (Ungarn) geboren und war in erster Ehe mit Vilmus Neumann verheiratet, der am 19.02.1919 in Berlin starb. In zweiter Ehe heiratete Friederike 1922 den Frankfurter Industriellen Leo Lippmann Wreschner, Chef der Fa. Beer Sondheimer & Co, einer der damals größten Metallfirmen.
 
@@ -452,7 +452,7 @@ Im Trutz 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Wreschner, Friederike](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/wreschner_friederike.jpg)
+![Wreschner, Friederike](../../images/stolpersteine/7efe15ef3417_wreschner_friederike.jpg)
 
 ## Links
 

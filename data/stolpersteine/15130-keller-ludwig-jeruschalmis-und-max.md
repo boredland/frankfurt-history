@@ -11,7 +11,7 @@ filters:
 
 *Am Weißen Stein 19*
 
-![Stolperstein Keller, Ludwig Jeruschalmis und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/am_weissen_stein_19.jpg)
+![Stolperstein Keller, Ludwig Jeruschalmis und Max](../../images/stolpersteine/1fc91243e1b4_am_weissen_stein_19.jpg)
 
 Max Keller
 
@@ -148,10 +148,10 @@ Am Weißen Stein 19
 ## Gallery
 
 <!-- gallery:standard -->
-![Keller, Ludwig Jeruschalmis und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/opferbilder/am_weissen_stein_19_keller_max.jpg)
-![Keller, Ludwig Jeruschalmis und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/stolperst_am_weissen_stein_19_keller_ludwig.jpg)
-![Keller, Ludwig Jeruschalmis und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/stolperst_am_weissen_stein_19_keller_jeruschalmis.jpg)
-![Keller, Ludwig Jeruschalmis und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/stolperst_am_weissen_stein_19_keller_max.jpg)
+![Keller, Ludwig Jeruschalmis und Max](../../images/stolpersteine/8f1be9fcc175_am_weissen_stein_19_keller_max.jpg)
+![Keller, Ludwig Jeruschalmis und Max](../../images/stolpersteine/dc5439186d8d_stolperst_am_weissen_stein_19_keller_ludwig.jpg)
+![Keller, Ludwig Jeruschalmis und Max](../../images/stolpersteine/a657cd4b7102_stolperst_am_weissen_stein_19_keller_jeruschalmis.jpg)
+![Keller, Ludwig Jeruschalmis und Max](../../images/stolpersteine/fa7ffa350759_stolperst_am_weissen_stein_19_keller_max.jpg)
 
 ## Links
 

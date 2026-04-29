@@ -11,7 +11,7 @@ filters:
 
 *Am Tiergarten 32*
 
-![Stolperstein Kaufmann, Abraham und Ida, und Susi und Adolf Dukat](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/am-tiergarten-32_1.jpg)
+![Stolperstein Kaufmann, Abraham und Ida, und Susi und Adolf Dukat](../../images/stolpersteine/91711e5c1f94_am-tiergarten-32_1.jpg)
 
 Adolf Kaufmann
 
@@ -248,10 +248,10 @@ Am Tiergarten 32
 ## Gallery
 
 <!-- gallery:standard -->
-![Kaufmann, Abraham und Ida, und Susi und Adolf Dukat](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilder/am_tiergarten_32_kaufmann_adolf_1.jpg)
-![Kaufmann, Abraham und Ida, und Susi und Adolf Dukat](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilder/am_tiergarten_32_kaufmann_adolf.jpg)
-![Kaufmann, Abraham und Ida, und Susi und Adolf Dukat](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-kaufmann-ida.jpg)
-![Kaufmann, Abraham und Ida, und Susi und Adolf Dukat](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-dukat-susi.jpg)
+![Kaufmann, Abraham und Ida, und Susi und Adolf Dukat](../../images/stolpersteine/141ab30d57dd_am_tiergarten_32_kaufmann_adolf_1.jpg)
+![Kaufmann, Abraham und Ida, und Susi und Adolf Dukat](../../images/stolpersteine/6ff37320c407_am_tiergarten_32_kaufmann_adolf.jpg)
+![Kaufmann, Abraham und Ida, und Susi und Adolf Dukat](../../images/stolpersteine/a00744c6aaad_stolperstein-kaufmann-ida.jpg)
+![Kaufmann, Abraham und Ida, und Susi und Adolf Dukat](../../images/stolpersteine/1ea9a8a51024_stolperstein-dukat-susi.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Sophienstraße 29*
 
-![Stolperstein Pawel, Martin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/sophienstr_29.jpg)
+![Stolperstein Pawel, Martin](../../images/stolpersteine/2fd70dd56438_sophienstr_29.jpg)
 
 Familie Pawel
 
@@ -130,13 +130,13 @@ Sophienstraße 29
 ## Gallery
 
 <!-- gallery:standard -->
-![Pawel, Martin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/familie-pawel.jpg)
-![Pawel, Martin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/pawel-hedwig.jpg)
-![Pawel, Martin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/pawel-martin.jpg)
-![Pawel, Martin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/pawel-heinrich.jpg)
-![Pawel, Martin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/martin-pawel-mit-mutter-und-schwester.jpg)
-![Pawel, Martin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/martin-pawel-mit-sohn-heinz.jpg)
-![Pawel, Martin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_sophienstr_29_pawel_martin.jpg)
+![Pawel, Martin](../../images/stolpersteine/2679090a1753_familie-pawel.jpg)
+![Pawel, Martin](../../images/stolpersteine/dc2cb9b7bec0_pawel-hedwig.jpg)
+![Pawel, Martin](../../images/stolpersteine/f8451d2f2646_pawel-martin.jpg)
+![Pawel, Martin](../../images/stolpersteine/0e8d6eb46f51_pawel-heinrich.jpg)
+![Pawel, Martin](../../images/stolpersteine/402949e845cf_martin-pawel-mit-mutter-und-schwester.jpg)
+![Pawel, Martin](../../images/stolpersteine/ff09d66b5524_martin-pawel-mit-sohn-heinz.jpg)
+![Pawel, Martin](../../images/stolpersteine/6cb87e0c65cd_stolperst_sophienstr_29_pawel_martin.jpg)
 
 ## Links
 

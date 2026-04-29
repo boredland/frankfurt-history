@@ -11,7 +11,7 @@ filters:
 
 *Höhenstraße 18*
 
-![Stolperstein Levitus, Regina und Jossel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/hoehenstr_18_d_300x400.jpg)
+![Stolperstein Levitus, Regina und Jossel](../../images/stolpersteine/a0f9cbc3d23d_hoehenstr_18_d_300x400.jpg)
 
 Josef Levitus und Mutter Regina Levitus
 
@@ -104,8 +104,8 @@ Höhenstraße 18
 ## Gallery
 
 <!-- gallery:standard -->
-![Levitus, Regina und Jossel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/josef-levitus-und-mutter-regina-levitus.jpg)
-![Levitus, Regina und Jossel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-levitus-regina.jpg)
+![Levitus, Regina und Jossel](../../images/stolpersteine/7cfe86277d03_josef-levitus-und-mutter-regina-levitus.jpg)
+![Levitus, Regina und Jossel](../../images/stolpersteine/76da6198d2d1_stolperstein-levitus-regina.jpg)
 
 ## Links
 

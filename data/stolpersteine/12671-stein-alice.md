@@ -11,7 +11,7 @@ filters:
 
 *Burgfriedenstraße 5*
 
-![Stolperstein Stein, Alice](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/burgfriedenstrasse-5_1.jpg)
+![Stolperstein Stein, Alice](../../images/stolpersteine/822bff1d498a_burgfriedenstrasse-5_1.jpg)
 
 Alice Stein ist als Tochter von Heinrich Hammel und Lina, geborene Ehrlich, in Rödelheim geboren. Sie hatte sechs Geschwister. Luise (Lucie), verh. Yashek, Hanna, verh. Goldsmith, Alfred, Arthur, Victor und Simon.
 
@@ -96,7 +96,7 @@ Burgfriedenstraße 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Stein, Alice](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/stolperst_burgfriedenstr_5_stein_alice__400x400.jpg)
+![Stein, Alice](../../images/stolpersteine/5b949aee2047_stolperst_burgfriedenstr_5_stein_alice__400x400.jpg)
 
 ## Links
 

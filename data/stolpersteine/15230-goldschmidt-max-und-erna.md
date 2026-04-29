@@ -11,7 +11,7 @@ filters:
 
 *Domitianstraße 4*
 
-![Stolperstein Goldschmidt, Max und Erna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/domitianstrasse_4.jpg)
+![Stolperstein Goldschmidt, Max und Erna](../../images/stolpersteine/1a07821e49cd_domitianstrasse_4.jpg)
 
 Max Goldschmidt wurde in Heddernheim geboren, Erna Goldschmidt, geb. Neu , in Fränkisch-Crumbach. Die Eltern von Max Goldschmidt waren Adolf Goldschmidt und Berta, geb. Seckbach. Die Seckbachs waren eine alt eingesessene Heddernheimer Familie, die bereits seit Ende des 18. Jahrhunderts hier lebte. Adolf Goldschmidt war Schriftsetzer, er starb am 1. Januar 1939, seine Frau Berta starb bereits am 18. August 1921. Max und Erna Goldschmidt heirateten am 3. Februar 1924 in Fränkisch-Crumbach, ihr Sohn Helmut Martin kam am  3. April 1925 in Heddernheim zur Welt.
 
@@ -120,8 +120,8 @@ Domitianstraße 4
 ## Gallery
 
 <!-- gallery:standard -->
-![Goldschmidt, Max und Erna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/goldschmidt-max.jpg)
-![Goldschmidt, Max und Erna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/goldschmidt-erna.jpg)
+![Goldschmidt, Max und Erna](../../images/stolpersteine/dff912b4783c_goldschmidt-max.jpg)
+![Goldschmidt, Max und Erna](../../images/stolpersteine/cb9cdbee9f1a_goldschmidt-erna.jpg)
 
 ## Links
 

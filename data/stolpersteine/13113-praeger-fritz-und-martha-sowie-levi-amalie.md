@@ -11,7 +11,7 @@ filters:
 
 *Niedenau 42*
 
-![Stolperstein Präger, Fritz und Martha sowie Levi, Amalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/niedenau_42.jpg)
+![Stolperstein Präger, Fritz und Martha sowie Levi, Amalie](../../images/stolpersteine/d763a95ecaf8_niedenau_42.jpg)
 
 Fritz Präger und Marta Carola Präger waren in
 
@@ -518,9 +518,9 @@ Niedenau 42
 ## Gallery
 
 <!-- gallery:standard -->
-![Präger, Fritz und Martha sowie Levi, Amalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_niedenau_42_praeger_fritz.jpg)
-![Präger, Fritz und Martha sowie Levi, Amalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_niedenau_42_praeger_martha.jpg)
-![Präger, Fritz und Martha sowie Levi, Amalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_niedenau_42_levi_amalie.jpg)
+![Präger, Fritz und Martha sowie Levi, Amalie](../../images/stolpersteine/c93929285f38_stolperst_niedenau_42_praeger_fritz.jpg)
+![Präger, Fritz und Martha sowie Levi, Amalie](../../images/stolpersteine/0399f030e426_stolperst_niedenau_42_praeger_martha.jpg)
+![Präger, Fritz und Martha sowie Levi, Amalie](../../images/stolpersteine/f29a053c0a72_stolperst_niedenau_42_levi_amalie.jpg)
 
 ## Links
 

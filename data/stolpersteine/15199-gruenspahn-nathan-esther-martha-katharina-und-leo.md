@@ -11,7 +11,7 @@ filters:
 
 *Bolongarostraße 156*
 
-![Stolperstein Grünspahn, Nathan, Esther Martha, Katharina und Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/bolongarostr_156__400x300.jpg)
+![Stolperstein Grünspahn, Nathan, Esther Martha, Katharina und Leo](../../images/stolpersteine/359490a3d630_bolongarostr_156__400x300.jpg)
 
 Nathan Grünspahn stammt aus Lodz und  kam 1918 noch während des 1. Weltkrieges über Gelsenkirchen nach Höchst. Hier zog er zuerst in die Wallstraße 10 (heute Melchiorstraße) und dann auf den Schloßplatz 1. Vermutlich war er auf Anwerbung, wegen des kriegsbedingten Arbeitskräftemangels, aus Polen gekommen. 1919 kommen seine Frau Esther aus Skiernwice bei Warschau und der in Lodz geborene vierjährige Sohn, Max, nach Höchst. 1921 wird der Sohn Jakob geboren, der jedoch bereits nach acht Monaten stirbt und auf dem Jüdischen Friedhof in Bad Soden begraben wird.1923 wurde die Tochter Katharina und 1928 der Sohn Leo geboren. 1929 zog die Familie Grünspahn in die Bolongarostr. 156.
 
@@ -184,7 +184,7 @@ Bolongarostraße 156
 ## Gallery
 
 <!-- gallery:standard -->
-![Grünspahn, Nathan, Esther Martha, Katharina und Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_bolongarostr_156_gruenspahn_nathan__400x400.jpg)
+![Grünspahn, Nathan, Esther Martha, Katharina und Leo](../../images/stolpersteine/3f206eac0a66_stolperst_bolongarostr_156_gruenspahn_nathan__400x400.jpg)
 
 ## Links
 

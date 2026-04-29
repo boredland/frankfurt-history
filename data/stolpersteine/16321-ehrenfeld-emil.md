@@ -11,7 +11,7 @@ filters:
 
 *Kelsterbacher Straße 8*
 
-![Stolperstein Ehrenfeld, Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/kelsterbacher_str_8.jpg)
+![Stolperstein Ehrenfeld, Emil](../../images/stolpersteine/301ade075755_kelsterbacher_str_8.jpg)
 
 Emil Ehrenfeld wurde
 
@@ -222,7 +222,7 @@ Kelsterbacher Straße 8
 ## Gallery
 
 <!-- gallery:standard -->
-![Ehrenfeld, Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_kelsterbacher_str_8_ehrenfeld_emil_w.jpg)
+![Ehrenfeld, Emil](../../images/stolpersteine/59cdccf007ae_stolperst_kelsterbacher_str_8_ehrenfeld_emil_w.jpg)
 
 ## Links
 

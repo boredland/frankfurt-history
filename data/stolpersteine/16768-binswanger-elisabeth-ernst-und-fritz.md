@@ -11,7 +11,7 @@ filters:
 
 *Wöhlerstraße 4*
 
-![Stolperstein Binswanger, Elisabeth, Ernst und Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/woehlerstrasse-4_1.jpg)
+![Stolperstein Binswanger, Elisabeth, Ernst und Fritz](../../images/stolpersteine/9e700649aeef_woehlerstrasse-4_1.jpg)
 
 Dr. Fritz Jon Binswanger war Arzt, seine Frau Elisabeth Krankenschwester. Über viele Jahre war die Zeil 54 die Praxis- und wohl auch Wohnadresse der Familie. Später wurde die Wöhlerstraße 4 die Wohnadresse. Fritz und Elisabeth Binswanger hatten zwei Söhne. Ernst wurde wie seine Mutter deportiert. Dem zweiten Sohn gelang mit einem Kindertransport die Flucht in das Exil. Dr. Fritz Binswanger nahm sich im Frankfurter Gefängnis Hammelsgasse das Leben.
 
@@ -472,7 +472,7 @@ Wöhlerstraße 4
 ## Gallery
 
 <!-- gallery:standard -->
-![Binswanger, Elisabeth, Ernst und Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/binswanger_elisabeth.jpg)
+![Binswanger, Elisabeth, Ernst und Fritz](../../images/stolpersteine/1a5b91df3b81_binswanger_elisabeth.jpg)
 
 ## Links
 

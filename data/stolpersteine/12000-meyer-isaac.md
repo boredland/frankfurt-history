@@ -11,7 +11,7 @@ filters:
 
 *Hansaallee 6*
 
-![Stolperstein Meyer, Isaac](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/hansaallee-6_1.jpg)
+![Stolperstein Meyer, Isaac](../../images/stolpersteine/611733c47009_hansaallee-6_1.jpg)
 
 Isaak Meyer war seit 17.11.1927 verheiratet mit Telly Meyer, geb. Bamberg, geb. am 17.5.1885. Das Ehepaar hatte keine Kinder. Isaak Meyer arbeitete von 1906 bis 1938 als Sekretär, zuletzt als Bürodirektor der Jüdischen Gemeinde Frankfurt.
 
@@ -448,7 +448,7 @@ Hansaallee 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Meyer, Isaac](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperstein_hansaallee_6_meyer_isaak.jpg)
+![Meyer, Isaac](../../images/stolpersteine/7d9129fa19a8_stolperstein_hansaallee_6_meyer_isaak.jpg)
 
 ## Links
 

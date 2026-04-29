@@ -11,7 +11,7 @@ filters:
 
 *Wiesenau 18*
 
-![Stolperstein Seligmann, Else, Jakob und Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/wiesenau_18.jpg)
+![Stolperstein Seligmann, Else, Jakob und Sophie](../../images/stolpersteine/ccfcf5ec7258_wiesenau_18.jpg)
 
 Jakob Seligmann wurde in Habitzheim (Odenwald) geboren als viertes Kind von Josuel Seligmann und Saarchen Seligmann, geb. Meyer. Else Seligmann, geb. Speyer, wurde in Stadtoldendorf geboren. Das Ehepaar hatte eine Tochter Sofie. Jakob Seligmann war Kaufmann und als Privatsekretär der wohlhabenden Familie von Dr. Julius Trier, die zuletzt in die USA flüchtete, tätig, nach anders lautenden Angaben soll er sich als Immobilienverwalter und -makler betätigt haben und war seit 1935 Rentner.
 
@@ -482,9 +482,9 @@ Wiesenau 18
 ## Gallery
 
 <!-- gallery:standard -->
-![Seligmann, Else, Jakob und Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_wiesenau_18_seligmann_else.jpg)
-![Seligmann, Else, Jakob und Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_wiesenau_18_seligmann_jakob.jpg)
-![Seligmann, Else, Jakob und Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_wiesenau_18_seligmann_sofie.jpg)
+![Seligmann, Else, Jakob und Sophie](../../images/stolpersteine/f9a6ce0293a9_stolperst_wiesenau_18_seligmann_else.jpg)
+![Seligmann, Else, Jakob und Sophie](../../images/stolpersteine/2cefdab21b7c_stolperst_wiesenau_18_seligmann_jakob.jpg)
+![Seligmann, Else, Jakob und Sophie](../../images/stolpersteine/6a5b853335ae_stolperst_wiesenau_18_seligmann_sofie.jpg)
 
 ## Links
 

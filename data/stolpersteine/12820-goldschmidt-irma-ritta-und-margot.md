@@ -11,7 +11,7 @@ filters:
 
 *Günthersburgallee 1*
 
-![Stolperstein Goldschmidt, Irma Ritta und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/guenthersburgallee_1.jpg)
+![Stolperstein Goldschmidt, Irma Ritta und Margot](../../images/stolpersteine/395f70481a43_guenthersburgallee_1.jpg)
 
 Margot Marion Goldschmidt wurde in Frankfurt vermutlich als Tochter von Irma Ritta Goldschmidt geboren. Diese war eine Tochter des Weinhändlers Albert (Abraham) Bach und von Jettchen Bach, geb. Strauss, und hatte drei Brüder, von denen einer 1897 im Kindesalter starb, ein weiterer 1940 in ein unbekanntes Land flüchtete. Das Schicksal des dritten Bruders und einer Schwester ist unbekannt. Die Eltern waren 1888 von Acholshausen nach Würzburg in die Alleestraße 20 (Benedikt-Straße) gezogen. Der Vater gründete zusammen mit Samuel Karl Strauss die Firma „Strauß & Bach“. 1902 folgte der Umzug der Familie nach Mannheim.
 
@@ -420,7 +420,7 @@ Günthersburgallee 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Goldschmidt, Irma Ritta und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-goldschmidt-irma-ritta.jpg)
+![Goldschmidt, Irma Ritta und Margot](../../images/stolpersteine/5733481d48ec_stolperstein-goldschmidt-irma-ritta.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Alt-Rödelheim 20*
 
-![Stolperstein Marx, Rebekka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/alt-roedelheim-20_1.jpg)
+![Stolperstein Marx, Rebekka](../../images/stolpersteine/962a4344ecbd_alt-roedelheim-20_1.jpg)
 
 Rebekka Marx, genannt Riekchen, wohnte gemeinsam mit ihrer Schwester Bertha, geb. am 25.10.1876, in Rödelheim. Beide waren unverheiratet und betrieben eine Lebensmittelhandlung im eigenen Haus in Alt-Rödelheim 20, die den Rödelheimern in den 30er Jahren als "Knusperhäuschen" bekannt war. Bertha Marx starb am 5.8.1928. Rebekka Marx musste am 9. April 1940 ihr Haus verkaufen, um mit dem Erlös die Heimkosten zu bezahlen. Vermutlich unter Zwang zog sie in ein Altersheim in der Hans-Handwerk-Straße 30. Im Haus nebenan hatten der Verein Berufsberatung und Arbeitsnachweis für Juden e.V. sowie die Jüdische Wohlfahrtspflege ihren Sitz.
 

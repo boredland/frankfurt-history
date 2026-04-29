@@ -11,7 +11,7 @@ filters:
 
 *Wehrhofstraße 10*
 
-![Stolperstein Knauf, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/wehrhofstrasse-10_1.jpg)
+![Stolperstein Knauf, Karl](../../images/stolpersteine/ee56e275c0b3_wehrhofstrasse-10_1.jpg)
 
 Karl Knauf wurde im Rödelheimer Battenberger Weg 7 geboren und lebte später in der Wehrhofstraße 10. Er war Werkzeugmacher, heiratete Katharine Müller am 20.12.1924 und hatte mit ihr eine Tochter. Als Schlosser arbeitete er zuletzt in den Adler-Werken in Frankfurt-Gallus, bis er am 7.1.1943 von seinem Arbeitsplatz weg verhaftet wurde. Am 18.1.1943 zeigte das Reichssicherheitsamt in einer streng vertraulichen Meldung an, dass aufgrund staatspolizeilicher Ermittlungen Mitglieder einer „illegalen Zelle“ unter anderem auch in den Adler-Werken verhaftet worden waren, weil sie „bei jeder sich bietenden Gelegenheit unter Verwendung abgehörter ausländischer Rundfunknachrichten im kommunistischen und defaitistischen Sinn politisiert hatten“. Zu dieser „Zelle“ war auch Karl Knauf gezählt worden. Heinrich Heil, der ebenfalls am 7.1.1943 verhaftet worden war, berichtete später, dass sie erst bei der Vernehmung über die Haftgründe informiert wurden: Abhören feindlicher Sender und Wehrkraftzersetzung. Nach seiner Überzeugung hatte es sich um Denunziation gehandelt.
 

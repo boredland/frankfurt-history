@@ -11,7 +11,7 @@ filters:
 
 *Kantstraße 6*
 
-![Stolperstein Stern, Elfriede](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/kantstrasse_6.jpg)
+![Stolperstein Stern, Elfriede](../../images/stolpersteine/4db9ec4ae73d_kantstrasse_6.jpg)
 
 Elfriede Stern wurde als Tochter von Selma und Seligmann Stern geboren. Die Mutter (Jg. 1879) stammte aus Offenbach, der Vater (Jg. 1872) aus Wachenbuchen. Elfriede Stern war die einzige Tochter. Die Familie wohnte in der Parterrewohnung in der Kantstraße 6.
 
@@ -410,11 +410,11 @@ Kantstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Stern, Elfriede](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kantstr_6_stern_elfriede.jpg)
-![Stern, Elfriede](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kantstr_6_stern_selma_mit_elfriede.jpg)
-![Stern, Elfriede](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kantstr_6_stern_seligmann.jpg)
-![Stern, Elfriede](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kantstr_6_stern_verlobungsanzeige.jpg)
-![Stern, Elfriede](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_kantstr_6_stern_elfriede.jpg)
+![Stern, Elfriede](../../images/stolpersteine/a178c1c58f62_kantstr_6_stern_elfriede.jpg)
+![Stern, Elfriede](../../images/stolpersteine/feafd6fd276d_kantstr_6_stern_selma_mit_elfriede.jpg)
+![Stern, Elfriede](../../images/stolpersteine/6902cdf99548_kantstr_6_stern_seligmann.jpg)
+![Stern, Elfriede](../../images/stolpersteine/4fb65edf1744_kantstr_6_stern_verlobungsanzeige.jpg)
+![Stern, Elfriede](../../images/stolpersteine/05671516ebdb_stolperst_kantstr_6_stern_elfriede.jpg)
 
 ## Links
 

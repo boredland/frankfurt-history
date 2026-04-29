@@ -11,7 +11,7 @@ filters:
 
 *Aystettstraße 6*
 
-![Stolperstein Ebertsheim, Siegfried und Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/aystettstr_6_akopie_300x400.jpg)
+![Stolperstein Ebertsheim, Siegfried und Elise](../../images/stolpersteine/9ac7cfe13751_aystettstr_6_akopie_300x400.jpg)
 
 Siegfried Ebertsheim stammte aus Bingen, seine Frau Elise, geborene Bloch, aus Offenburg. Er war Besitzer der Schreibmaterialienfabrik Urban & Co in der Hans-Handwerk-Straße 25 (heute: Langestraße). Ihre letzte Adresse in Frankfurt war Dominikanerplatz 16 (heute: Börneplatz).
 
@@ -420,8 +420,8 @@ Aystettstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Ebertsheim, Siegfried und Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/ebertsheim_269x400.jpg)
-![Ebertsheim, Siegfried und Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-ebertsheim-siegfried.jpg)
+![Ebertsheim, Siegfried und Elise](../../images/stolpersteine/f7aea721f997_ebertsheim_269x400.jpg)
+![Ebertsheim, Siegfried und Elise](../../images/stolpersteine/967823386b19_stolperstein-ebertsheim-siegfried.jpg)
 
 ## Links
 

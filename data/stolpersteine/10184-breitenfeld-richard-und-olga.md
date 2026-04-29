@@ -11,7 +11,7 @@ filters:
 
 *Eschersheimer Landstraße 79*
 
-![Stolperstein Breitenfeld, Richard und Olga](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/eschersheimer-landstrasse-79_1.jpg)
+![Stolperstein Breitenfeld, Richard und Olga](../../images/stolpersteine/22aba8f61c0b_eschersheimer-landstrasse-79_1.jpg)
 
 Breitenfeld, Richard
 
@@ -472,11 +472,11 @@ Eschersheimer Landstraße 79
 ## Gallery
 
 <!-- gallery:standard -->
-![Breitenfeld, Richard und Olga](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/breitenfeld-richard.jpg)
-![Breitenfeld, Richard und Olga](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/breitenfeld-richard-2.jpg)
-![Breitenfeld, Richard und Olga](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/breitenfeld-richard-3.jpg)
-![Breitenfeld, Richard und Olga](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/breitenfeld-richard-4.jpg)
-![Breitenfeld, Richard und Olga](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/breitenfeld_richard.jpg)
+![Breitenfeld, Richard und Olga](../../images/stolpersteine/5d5161c009f3_breitenfeld-richard.jpg)
+![Breitenfeld, Richard und Olga](../../images/stolpersteine/89c7ff5bedd7_breitenfeld-richard-2.jpg)
+![Breitenfeld, Richard und Olga](../../images/stolpersteine/b63a46ba7238_breitenfeld-richard-3.jpg)
+![Breitenfeld, Richard und Olga](../../images/stolpersteine/60a94fb07521_breitenfeld-richard-4.jpg)
+![Breitenfeld, Richard und Olga](../../images/stolpersteine/ee080e5fc489_breitenfeld_richard.jpg)
 
 ## Links
 

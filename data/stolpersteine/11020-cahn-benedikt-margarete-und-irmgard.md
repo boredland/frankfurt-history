@@ -11,7 +11,7 @@ filters:
 
 *Eschersheimer Landstraße 10*
 
-![Stolperstein Cahn, Benedikt, Margarete und Irmgard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/eschersheimer_landstr_10__300x400.jpg)
+![Stolperstein Cahn, Benedikt, Margarete und Irmgard](../../images/stolpersteine/f26650137a0c_eschersheimer_landstr_10__300x400.jpg)
 
 Gebäude in der Eschersheimer Landstraße 10 im Jahre 1948
 
@@ -440,8 +440,8 @@ Eschersheimer Landstraße 10
 ## Gallery
 
 <!-- gallery:standard -->
-![Cahn, Benedikt, Margarete und Irmgard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/haus-eschersheimer-landstrasse-artikel-cahn.jpg)
-![Cahn, Benedikt, Margarete und Irmgard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-cahn-benedikt.jpg)
+![Cahn, Benedikt, Margarete und Irmgard](../../images/stolpersteine/c6ca3badfc14_haus-eschersheimer-landstrasse-artikel-cahn.jpg)
+![Cahn, Benedikt, Margarete und Irmgard](../../images/stolpersteine/b2341b01ec1b_stolperstein-cahn-benedikt.jpg)
 
 ## Links
 

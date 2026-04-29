@@ -11,7 +11,7 @@ filters:
 
 *Bolongarostraße 132*
 
-![Stolperstein Gerson, Gustav und Berta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/bolongarostr_132_300x400.jpg)
+![Stolperstein Gerson, Gustav und Berta](../../images/stolpersteine/8e71b3bd1bde_bolongarostr_132_300x400.jpg)
 
 Gustav Gerson zog von Kirchberg im Hunsrück 1902 nach Höchst, zwei Jahre später nach Limburg und 1905 von dort wieder zurück. Er wohnte zuerst in der Königsteiner Str. 2. Am 26.6.1907 heiratete er Bertha Simon aus Münster bei Dieburg. Nach seiner Heirat zogen sie in die Brüningstr. 16. Hier befand sich auch das erste  Herrenkonfektionsgeschäft, das 1906 gegründet wurde. Gustav Gerson zählte 1907 zur dritten Wählerkategorie des Drei-Klassen-Wahlrechts. Im April 1910 erfolgte der Umzug in die Bolongarostraße 132; hier befanden sich sowohl die Wohnung als auch das Ladengeschäft. Sie hatten zwei Kinder: den Sohn Friedrich (Jg. 1910) und die Tochter Ilse (Jg.1918). Beide besuchten Höchster Schulen, Ilse war im Lyzeum. Mit Frau Haas hatten sie eine christliche Haushälterin. Es ist davon auszugehen, dass Berta Haas im Geschäft mitarbeitete.
 
@@ -154,7 +154,7 @@ Bolongarostraße 132
 ## Gallery
 
 <!-- gallery:standard -->
-![Gerson, Gustav und Berta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_bolongarostr_132_gerson_gustav__400x400.jpg)
+![Gerson, Gustav und Berta](../../images/stolpersteine/ce876043c8f4_stolperst_bolongarostr_132_gerson_gustav__400x400.jpg)
 
 ## Links
 

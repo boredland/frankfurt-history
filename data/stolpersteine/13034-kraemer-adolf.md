@@ -12,7 +12,7 @@ filters:
 
 *Mainzer Landstraße 606*
 
-![Stolperstein Krämer, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/standorte/mainzer_landstr_606.jpg)
+![Stolperstein Krämer, Adolf](../../images/stolpersteine/a1e705932268_mainzer_landstr_606.jpg)
 
 Adolf Krämer wurde in Wolfenhausen geboren.
 
@@ -143,9 +143,9 @@ Mainzer Landstraße 606
 ## Gallery
 
 <!-- gallery:standard -->
-![Krämer, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/opferbilder/mainzer_landstr_606_kraemer_adolf_1.jpg)
-![Krämer, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/opferbilder/mainzer_landstr_606_kraemer_adolf_2.jpg)
-![Krämer, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/stolperst_mainzer_landstr_606_kraemer_adolf.jpg)
+![Krämer, Adolf](../../images/stolpersteine/e3620f55e435_mainzer_landstr_606_kraemer_adolf_1.jpg)
+![Krämer, Adolf](../../images/stolpersteine/547c02f4d628_mainzer_landstr_606_kraemer_adolf_2.jpg)
+![Krämer, Adolf](../../images/stolpersteine/d346a07a80b7_stolperst_mainzer_landstr_606_kraemer_adolf.jpg)
 
 ## Links
 

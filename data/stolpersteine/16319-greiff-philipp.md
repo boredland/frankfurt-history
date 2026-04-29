@@ -11,7 +11,7 @@ filters:
 
 *Kelsterbacher Straße 63*
 
-![Stolperstein Greiff, Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/kelsterbacher_strasse_63.jpg)
+![Stolperstein Greiff, Philipp](../../images/stolpersteine/e32bf3fe4173_kelsterbacher_strasse_63.jpg)
 
 Philipp Greiff wurde in Sinsheim, Kreis Heidelberg als
 
@@ -212,8 +212,8 @@ Kelsterbacher Straße 63
 ## Gallery
 
 <!-- gallery:standard -->
-![Greiff, Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/kelsterbacher_str_63_greiff_lina_mit_den_kindern_heinz_sonja_und_anneliese_um_1940.jpg)
-![Greiff, Philipp](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_kelsterbacher_strasse_63_greiff_philipp.jpg)
+![Greiff, Philipp](../../images/stolpersteine/de307d36cfef_kelsterbacher_str_63_greiff_lina_mit_den_kindern_heinz_sonja.jpg)
+![Greiff, Philipp](../../images/stolpersteine/774c8a1ce019_stolperst_kelsterbacher_strasse_63_greiff_philipp.jpg)
 
 ## Links
 

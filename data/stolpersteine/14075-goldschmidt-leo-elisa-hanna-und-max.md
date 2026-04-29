@@ -11,7 +11,7 @@ filters:
 
 *Scheffelstraße 22*
 
-![Stolperstein Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/scheffelstr_22.jpg)
+![Stolperstein Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/2d0cedfb0459_scheffelstr_22.jpg)
 
 Leo Goldschmidt wurde in Posen, Elisa
 
@@ -544,22 +544,22 @@ Initiative Stolpersteine
 ## Gallery
 
 <!-- gallery:standard -->
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstrasse_22_leo_goldschmidt_als_soldat_im_ersten_weltkrieg.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstrasse_22_leo_goldschmidt_-frankfurt.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstr_22_-elisa_goldschmidt_als_junge_frau_in_frankfurt.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstrasse_22_hanna_und_max_goldschmidt_1920er_jahre.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstrasse_22_hanna_und_max_goldschmidt_frankfurt_1933.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstrasse_22_familie_goldschmidt_an_bord_der_esperia_nach_palaestina_mai_1937.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstrasse_22_goldschmidt_feldarbeit_in_naharia_palaestina_1938.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstrasse_22_hanna_und_max_uri_goldschmidt_in_naharia_palaestina_1939.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstrasse_22_hanna_goldschmidt_als_krankenschwester_in_israel.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstr_22_-elisa_goldschmidt_in_israel.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstrasse_22_hanna_dror_mit_ehemann_kindern_und_enkeln_in_israel_2002.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstrasse_22_hanna_goldschmidt_dror_mit_ehemann_klaus_dror_in_israel.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_scheffelstr_22_goldschmidt_elisa.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_scheffelstr_22_goldschmidt_hanna.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_scheffelstr_22_goldschmidt_leo.jpg)
-![Goldschmidt, Leo, Elisa, Hanna und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_scheffelstr_22_goldschmidt_max.jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/a3119b80a7a3_scheffelstrasse_22_leo_goldschmidt_als_soldat_im_ersten_welt.jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/9864975142bb_scheffelstrasse_22_leo_goldschmidt_-frankfurt.jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/ac856a81e2ca_scheffelstr_22_-elisa_goldschmidt_als_junge_frau_in_frankfur.jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/5ee8de24347e_scheffelstrasse_22_hanna_und_max_goldschmidt_1920er_jahre.jp.jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/cf99286360c7_scheffelstrasse_22_hanna_und_max_goldschmidt_frankfurt_1933..jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/ca4f781dd983_scheffelstrasse_22_familie_goldschmidt_an_bord_der_esperia_n.jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/90f1c0b1569a_scheffelstrasse_22_goldschmidt_feldarbeit_in_naharia_palaest.jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/a11fedac234e_scheffelstrasse_22_hanna_und_max_uri_goldschmidt_in_naharia_.jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/ed527fb2a1f7_scheffelstrasse_22_hanna_goldschmidt_als_krankenschwester_in.jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/ffba9f186378_scheffelstr_22_-elisa_goldschmidt_in_israel.jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/1653e3a53115_scheffelstrasse_22_hanna_dror_mit_ehemann_kindern_und_enkeln.jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/bafd14491601_scheffelstrasse_22_hanna_goldschmidt_dror_mit_ehemann_klaus_.jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/671d07e342c9_stolperst_scheffelstr_22_goldschmidt_elisa.jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/0a0e4742b6c4_stolperst_scheffelstr_22_goldschmidt_hanna.jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/5724efe57c27_stolperst_scheffelstr_22_goldschmidt_leo.jpg)
+![Goldschmidt, Leo, Elisa, Hanna und Max](../../images/stolpersteine/c076458f97eb_stolperst_scheffelstr_22_goldschmidt_max.jpg)
 
 ## Links
 

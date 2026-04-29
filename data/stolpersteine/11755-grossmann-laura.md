@@ -11,7 +11,7 @@ filters:
 
 *Auf der Körnerwiese 11*
 
-![Stolperstein Grossmann, Laura](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/auf-der-koernerwiese-11_1.jpg)
+![Stolperstein Grossmann, Laura](../../images/stolpersteine/abe6a4ed071f_auf-der-koernerwiese-11_1.jpg)
 
 Laura Grossmann, geb. Engel, wurde in Friedberg geboren. Ihr Ehemann starb 1929; der 1890 zur Welt gekommenen Tochter gelang die Flucht in das US-amerikanische Exil. Sie wurde laut Entschädigungsakte wegen Abfassung eines Briefes an "eine im feindlichen Ausland aufhältliche Verwandte“ von der Geheimen Staatspolizei zeitweise inhaftiert. Abschluss eines "Heimeinkaufvertrags“ in Höhe von 1.500 Reichsmark. Mit solchen Verträgen glaubten die Unterzeichneten, ihren Lebensabend in einem Altersheim in Theresienstadt zu finanzieren. Sie wohnte zuletzt in der Langemarckstr. 64 (Henry-Budge-Straße) und in der Fichtestr. 7.
 
@@ -442,7 +442,7 @@ Auf der Körnerwiese 11
 ## Gallery
 
 <!-- gallery:standard -->
-![Grossmann, Laura](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_koernerwiese_11_grossmann_laura__400x400.jpg)
+![Grossmann, Laura](../../images/stolpersteine/d17bb3ac94ea_stolperst_koernerwiese_11_grossmann_laura__400x400.jpg)
 
 ## Links
 

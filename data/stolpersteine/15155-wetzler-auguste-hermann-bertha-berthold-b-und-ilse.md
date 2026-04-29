@@ -11,7 +11,7 @@ filters:
 
 *Bäckerweg 43*
 
-![Stolperstein Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/baeckerweg_43.jpg)
+![Stolperstein Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](../../images/stolpersteine/d3c774d19ed6_baeckerweg_43.jpg)
 
 Auguste Wetzler wurde in Eschollbrücken bei
 
@@ -560,18 +560,18 @@ Bäckerweg 43
 ## Gallery
 
 <!-- gallery:standard -->
-![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/baeckerweg_43_wetzler_auguste.jpg)
-![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/baeckerweg_43_wetzler_bertha_1.jpg)
-![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/baeckerweg_43_wetzler_bertha_2.jpg)
-![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/baeckerweg_43_wetzler_hermann_2.jpg)
-![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/baeckerweg_43_wetzler_hermann_1.jpg)
-![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/baeckerweg_43_wetzler_ilse.jpg)
-![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/baeckerweg_43_wetzler_berthold.jpg)
-![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baeckerweg_43_wetzler_auguste.jpg)
-![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baeckerweg_43_wetzler_hermann.jpg)
-![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baeckerweg_43_wetzler_bertha.jpg)
-![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baeckerweg_43_wetzler_berthold_b.jpg)
-![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baeckerweg_43_wetzler_ilse.jpg)
+![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](../../images/stolpersteine/bd43c61a1bec_baeckerweg_43_wetzler_auguste.jpg)
+![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](../../images/stolpersteine/18548662af76_baeckerweg_43_wetzler_bertha_1.jpg)
+![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](../../images/stolpersteine/48b1d134a928_baeckerweg_43_wetzler_bertha_2.jpg)
+![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](../../images/stolpersteine/de258c7f42b4_baeckerweg_43_wetzler_hermann_2.jpg)
+![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](../../images/stolpersteine/4d7438a0d4d0_baeckerweg_43_wetzler_hermann_1.jpg)
+![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](../../images/stolpersteine/ec75136a30dd_baeckerweg_43_wetzler_ilse.jpg)
+![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](../../images/stolpersteine/d24e00f0c111_baeckerweg_43_wetzler_berthold.jpg)
+![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](../../images/stolpersteine/cc5cd5bab069_stolperst_baeckerweg_43_wetzler_auguste.jpg)
+![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](../../images/stolpersteine/fc29909dc849_stolperst_baeckerweg_43_wetzler_hermann.jpg)
+![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](../../images/stolpersteine/2e930f6251d6_stolperst_baeckerweg_43_wetzler_bertha.jpg)
+![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](../../images/stolpersteine/da7fa14facc4_stolperst_baeckerweg_43_wetzler_berthold_b.jpg)
+![Wetzler, Auguste, Hermann, Bertha, Berthold B. und Ilse](../../images/stolpersteine/8ce192c72d13_stolperst_baeckerweg_43_wetzler_ilse.jpg)
 
 ## Links
 

@@ -12,7 +12,7 @@ filters:
 
 *Klingerstraße 25*
 
-![Stolperstein Elison, Emma und Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/klingerstr_25.jpg)
+![Stolperstein Elison, Emma und Fritz](../../images/stolpersteine/18d55656c79a_klingerstr_25.jpg)
 
 Emma Elison, geb Roman, wurde in Marburg an der Lahn
 
@@ -311,9 +311,9 @@ Klingerstraße 25
 ## Gallery
 
 <!-- gallery:standard -->
-![Elison, Emma und Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/fritz-elison.jpg)
-![Elison, Emma und Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/elison-emma.jpg)
-![Elison, Emma und Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/elison-fritz.jpg)
+![Elison, Emma und Fritz](../../images/stolpersteine/2d1b303368d7_fritz-elison.jpg)
+![Elison, Emma und Fritz](../../images/stolpersteine/cf4558c41f0d_elison-emma.jpg)
+![Elison, Emma und Fritz](../../images/stolpersteine/5fa7916b8e22_elison-fritz.jpg)
 
 ## Links
 

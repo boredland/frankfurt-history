@@ -11,7 +11,7 @@ filters:
 
 *Grüneburgweg 103*
 
-![Stolperstein Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/grueneburgweg_103_neu.jpg)
+![Stolperstein Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](../../images/stolpersteine/100739a4747d_grueneburgweg_103_neu.jpg)
 
 Paul Neumann wurde in Mannheim als erstes von drei Kindern der Eheleute Jacob und Nanny Neumann, geb. Hirschhorn, geboren. Sein Bruder war der Kunsthistoriker Carl Neumann (1860-1934), der am Ende seines Lebens bei Paul Neumann in Frankfurt wohnte. Seine Schwester Anna (Jg. 1864) heiratete Leopold Steinthal, Direktor des Berliner Maklervereins, und hatte mit ihm fünf Kinder. Justizrat Paul Neumann war promovierter Jurist, Rechtsanwalt und Notar und betrieb seine Kanzlei in der Bockenheimer Anlage 50.
 
@@ -552,19 +552,19 @@ Grüneburgweg 103
 ## Gallery
 
 <!-- gallery:standard -->
-![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/grueneburgweg_103_dr_paul_und_helene_neumann.jpg)
-![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/grueneburgweg_103_gertrud_richard_annemie_lisbeth_neumann.jpg)
-![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/grueneburgweg_103_annemarie_links_und_elisabeth_neumann_ca_1915.jpg)
-![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/grueneburgweg_103_elisabeth_neumann_vermutlich_kurz_nach_ankunft_in_der_schweiz_1942.jpg)
-![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/grueneburgweg_103_dr_gertrud_graetzer_geb_neumann_ca_1980.jpg)
-![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/grueneburgweg_103_elisabeth_annemarie_neumann_dr_gertrud_graetzer_um_1980.jpg)
-![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/grueneburgweg_103_elisabeth_neumann_1988_vo_dem_alten_und_pflegeheim_anlagenring.jpg)
-![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_grueneburgweg_103_neumann_helene.jpg)
-![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_grueneburgweg_103_neumann_richard.jpg)
-![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_grueneburgweg_103_neumann_paul.jpg)
-![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_grueneburgweg_103_neumann_elisabeth.jpg)
-![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_grueneburgweg_103_neumann_annemarie.jpg)
-![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_grueneburgweg_103_neumann_gertrud.jpg)
+![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](../../images/stolpersteine/15fa956e36e6_grueneburgweg_103_dr_paul_und_helene_neumann.jpg)
+![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](../../images/stolpersteine/07e6ce1d1cfd_grueneburgweg_103_gertrud_richard_annemie_lisbeth_neumann.jp.jpg)
+![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](../../images/stolpersteine/1dc5b21d3823_grueneburgweg_103_annemarie_links_und_elisabeth_neumann_ca_1.jpg)
+![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](../../images/stolpersteine/4c2f93cb928f_grueneburgweg_103_elisabeth_neumann_vermutlich_kurz_nach_ank.jpg)
+![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](../../images/stolpersteine/7e03a9f93fab_grueneburgweg_103_dr_gertrud_graetzer_geb_neumann_ca_1980.jp.jpg)
+![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](../../images/stolpersteine/6d25a0940075_grueneburgweg_103_elisabeth_annemarie_neumann_dr_gertrud_gra.jpg)
+![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](../../images/stolpersteine/3604aed5bd98_grueneburgweg_103_elisabeth_neumann_1988_vo_dem_alten_und_pf.jpg)
+![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](../../images/stolpersteine/53269a0b7920_stolperst_grueneburgweg_103_neumann_helene.jpg)
+![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](../../images/stolpersteine/6e61c41fe35c_stolperst_grueneburgweg_103_neumann_richard.jpg)
+![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](../../images/stolpersteine/7292a58ad76d_stolperst_grueneburgweg_103_neumann_paul.jpg)
+![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](../../images/stolpersteine/a71e5dc945d4_stolperst_grueneburgweg_103_neumann_elisabeth.jpg)
+![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](../../images/stolpersteine/424004f430f1_stolperst_grueneburgweg_103_neumann_annemarie.jpg)
+![Neumann, Paul, Elisabeth, Annemarie, Gertrud, Helene und Richard](../../images/stolpersteine/c02606b4cd05_stolperst_grueneburgweg_103_neumann_gertrud.jpg)
 
 ## Links
 

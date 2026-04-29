@@ -11,7 +11,7 @@ filters:
 
 *Marburger Straße 9*
 
-![Stolperstein Brown, Hagar Martin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/marburgerstrasse_9__300x400.jpg)
+![Stolperstein Brown, Hagar Martin](../../images/stolpersteine/bc4e66b4a639_marburgerstrasse_9__300x400.jpg)
 
 Hager Martin Brown mit Familie
 
@@ -116,8 +116,8 @@ Marburger Straße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Brown, Hagar Martin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/hager-martin-brown-mit-familie.jpg)
-![Brown, Hagar Martin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_marburgerstrasse_9_brown_hagar_martin__400x400.jpg)
+![Brown, Hagar Martin](../../images/stolpersteine/fc1bfa918045_hager-martin-brown-mit-familie.jpg)
+![Brown, Hagar Martin](../../images/stolpersteine/7f912c0570be_stolperst_marburgerstrasse_9_brown_hagar_martin__400x400.jpg)
 
 ## Links
 

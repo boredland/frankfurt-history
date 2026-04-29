@@ -12,7 +12,7 @@ filters:
 
 *Emser Straße 16*
 
-![Stolperstein Muth, Anna und Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/emser_bruecke.jpg)
+![Stolperstein Muth, Anna und Ernst](../../images/stolpersteine/50ccf4f18dea_emser_bruecke.jpg)
 
 Anna Muth geborene Rühl wurde
 
@@ -565,9 +565,9 @@ Emser Brücke (Emserstraße 16)
 ## Gallery
 
 <!-- gallery:standard -->
-![Muth, Anna und Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/emser_bruecke_muth_anna_1.jpg)
-![Muth, Anna und Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_emser_bruecke_muth_anna.jpg)
-![Muth, Anna und Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_emser_bruecke_muth_ernst.jpg)
+![Muth, Anna und Ernst](../../images/stolpersteine/ea040ab79391_emser_bruecke_muth_anna_1.jpg)
+![Muth, Anna und Ernst](../../images/stolpersteine/4283c319bc8b_stolperst_emser_bruecke_muth_anna.jpg)
+![Muth, Anna und Ernst](../../images/stolpersteine/d518048519dc_stolperst_emser_bruecke_muth_ernst.jpg)
 
 ## Links
 

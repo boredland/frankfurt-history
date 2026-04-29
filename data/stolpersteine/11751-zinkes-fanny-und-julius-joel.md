@@ -12,7 +12,7 @@ filters:
 
 *Auf der Insel 12*
 
-![Stolperstein Zinkes, Fanny und Julius Joel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/auf_der_insel_2.jpg)
+![Stolperstein Zinkes, Fanny und Julius Joel](../../images/stolpersteine/3cc2fe4502b8_auf_der_insel_2.jpg)
 
 Zinkes, Julius Joel
 
@@ -125,9 +125,9 @@ Auf der Insel 12
 ## Gallery
 
 <!-- gallery:standard -->
-![Zinkes, Fanny und Julius Joel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/zinkes-julius-joel.jpg)
-![Zinkes, Fanny und Julius Joel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/haus-inselgaesschen-12.jpg)
-![Zinkes, Fanny und Julius Joel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/stolperst_inselgaesschen_12_zinkes_funny__400x400.jpg)
+![Zinkes, Fanny und Julius Joel](../../images/stolpersteine/f182cf0030b6_zinkes-julius-joel.jpg)
+![Zinkes, Fanny und Julius Joel](../../images/stolpersteine/99d90d3f9fb2_haus-inselgaesschen-12.jpg)
+![Zinkes, Fanny und Julius Joel](../../images/stolpersteine/b53140a7f70d_stolperst_inselgaesschen_12_zinkes_funny__400x400.jpg)
 
 ## Links
 

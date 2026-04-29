@@ -11,7 +11,7 @@ filters:
 
 *Vilbeler Straße 27*
 
-![Stolperstein Landau, Toni und Gitta Frimmet](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/vilbelerstrasse_27__300x400.jpg)
+![Stolperstein Landau, Toni und Gitta Frimmet](../../images/stolpersteine/b042b855e94b_vilbelerstrasse_27__300x400.jpg)
 
 Gusta (Gitta) Frimmet Landau ist in Radomsk (Polen) geboren und die Tochter von Fanny und Siegmund Wrublewsky und hatte fünf Geschwister. Ihre Schwester Esther war eine verheiratete Gingold und hatte sieben Kinder, darunter Leo und Dora (später mit Nachnamen Buchband), die beide in Auschwitz ermordet wurden. An sie erinnern Stolpersteine in der Breiten Gasse in Frankfurt am Main. Gusta Landaus Mann starb vor dem zweiten Weltkrieg. Sie hatte zwei Töchter und einen Sohn: Lena (Lissy), Jg. 1914, gelang 1939 über Großbritannien die Flucht in das Exil nach Venezuela; der Sohn Wolf emigrierte zunächst nach Shanghai (China) und lebte als „staatenlos“ registriert nach dem Zweiten Weltkrieg in den USA. Die Tochter Toni, in Frankfurt geboren, besuchte bis 1936 oder 1937 die Jüdische Volksschule im Röderbergweg. Ihren Wunsch, den Beruf der Kontoristin zu erlernen, konnte sie sich nicht erfüllen, da sie verfolgungsbedingt keinen Ausbildungsplatz fand. Sie arbeitete schließlich in einer von Juden unterhaltenen Pension, um Kochen zu lernen und sich gleichzeitig auf die Flucht in das Exil vorzubereiten; zuletzt war sie Haushaltsgehilfin.
 
@@ -168,7 +168,7 @@ Vilbeler Straße 27
 ## Gallery
 
 <!-- gallery:standard -->
-![Landau, Toni und Gitta Frimmet](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_vilbelerstr_27_landau_gitta__400x400.jpg)
+![Landau, Toni und Gitta Frimmet](../../images/stolpersteine/f0a77afc0ef0_stolperst_vilbelerstr_27_landau_gitta__400x400.jpg)
 
 ## Links
 

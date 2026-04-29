@@ -11,7 +11,7 @@ filters:
 
 *Lersnerstraße 34*
 
-![Stolperstein Saretzki, Emmy, Nathan und Ullmann, Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/lersnerstrasse_34_haus3.jpg)
+![Stolperstein Saretzki, Emmy, Nathan und Ullmann, Rosa](../../images/stolpersteine/82a9298064da_lersnerstrasse_34_haus3.jpg)
 
 Nathan und Emmy Saretzki
 
@@ -438,7 +438,7 @@ Lersnerstraße 34
 ## Gallery
 
 <!-- gallery:standard -->
-![Saretzki, Emmy, Nathan und Ullmann, Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/nathan-und-emmy-saretzki.jpg)
+![Saretzki, Emmy, Nathan und Ullmann, Rosa](../../images/stolpersteine/40eda3722d95_nathan-und-emmy-saretzki.jpg)
 
 ## Links
 

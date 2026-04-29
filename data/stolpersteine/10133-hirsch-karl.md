@@ -12,7 +12,7 @@ filters:
 
 *Dalbergstraße 2a*
 
-![Stolperstein Hirsch, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/dalbergstr_2a.jpg)
+![Stolperstein Hirsch, Karl](../../images/stolpersteine/9cb5cf4a80fa_dalbergstr_2a.jpg)
 
 Der aus Wehrheim im Kreis Usingen stammende Bäcker Karl Hirsch zog am 1.7.1915 von der Königsteiner Straße 3d kommend in die Emmerich-Josef-Str. 38 I und im Juni 1933 in die Dalbergstraße 2 a. Sein jüngerer Bruder Hugo Hirsch betrieb in Höchst einen Lebensmittelgroßhandel. Karl Hirsch hatte ursprünglich eine eigene Bäckerei.
 
@@ -137,7 +137,7 @@ Dalbergstraße 2a
 ## Gallery
 
 <!-- gallery:standard -->
-![Hirsch, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_dalbergstrasse_2a_hirsch_karl__400x400.jpg)
+![Hirsch, Karl](../../images/stolpersteine/b22565cfb96a_stolperst_dalbergstrasse_2a_hirsch_karl__400x400.jpg)
 
 ## Links
 

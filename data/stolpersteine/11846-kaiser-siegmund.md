@@ -11,7 +11,7 @@ filters:
 
 *Eichendorffstraße 37*
 
-![Stolperstein Kaiser, Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/eichendorffstrasse_37_haus.jpg)
+![Stolperstein Kaiser, Siegmund](../../images/stolpersteine/c8005c9884ab_eichendorffstrasse_37_haus.jpg)
 
 Siegmund Kaiser aus Eschwege war Sohn eines Fabrikanten. Nach erfolgreichem Abitur in Weilburg 1900 und einjährigem Wehrdienst begann er ein Jurastudium in München, Berlin und Göttingen. Die Referendar-Ausbildung folgte in Kassel, Wiesbaden und Hanau, das Examen machte er 1909 in Berlin. Im selben Jahr kam er nach Frankfurt, wurde als Rechtsanwalt zugelassen und zum Notar ernannt. Von 1914 bis 1918 nahm er am Ersten Weltkrieg teil. 1923 heiratete er die aus einer christlichen Familie stammende Dora Kühn. Sie hatten drei Kinder.
 

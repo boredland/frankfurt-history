@@ -11,7 +11,7 @@ filters:
 
 *Eysseneckstraße 33*
 
-![Stolperstein Marx, Kurt Joseph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/eysseneckstrasse_33_haus_1.jpg)
+![Stolperstein Marx, Kurt Joseph](../../images/stolpersteine/947f28af2aef_eysseneckstrasse_33_haus_1.jpg)
 
 Kurt Joseph Marx  wurde 1922 als Sohn des Kaufmannes Simon Marx und seiner Ehefrau Selma, geb. Weill, in Frankfurt geboren. Der Vater war Mitinhaber der Manufakturwarengroßhandlung Freudenreich & Marx in der Moselstraße 37/Ecke Kaiserstraße. Die Großeltern mütterlicherseits besaßen einen Bauernhof südlich von Straßburg (Frankreich), wo Kurt und seine 1924 geborene Schwester gerne die Ferien verbrachten.
 

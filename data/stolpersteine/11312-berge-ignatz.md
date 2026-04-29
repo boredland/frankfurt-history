@@ -11,7 +11,7 @@ filters:
 
 *Lindenring 1*
 
-![Stolperstein Berge, Ignatz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/lindenring_1.jpg)
+![Stolperstein Berge, Ignatz](../../images/stolpersteine/740f28945e10_lindenring_1.jpg)
 
 Ignatz Berge wurde in Frankfurt geboren. Seine
 
@@ -124,7 +124,7 @@ Lindenring 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Berge, Ignatz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/stolperst_lindenring_1_berge_ignatz.jpg)
+![Berge, Ignatz](../../images/stolpersteine/62fe8a8ff7e1_stolperst_lindenring_1_berge_ignatz.jpg)
 
 ## Links
 

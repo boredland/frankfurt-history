@@ -11,7 +11,7 @@ filters:
 
 *Hebelstraße 13*
 
-![Stolperstein Weichsel, Recha, David und Herbert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/hebelstrasse_13_haus.jpg)
+![Stolperstein Weichsel, Recha, David und Herbert](../../images/stolpersteine/74755b251c7b_hebelstrasse_13_haus.jpg)
 
 David Weichsel war der Sohn von Löb (Gumbe) Weichsel und Fanny geb. Westheimer, in Rimbach/Odenwald. Seine Geschwister waren Moses, geboren 1972, Jette, geboren 1875, Louis, geboren 1976, Mathilde, geboren 1877, Betty, geboren 1881, und Helene, geboren 1887. David Weichsel absolvierte nach der Volksschule eine kaufmännische Ausbildung. Er heiratete Recha Löwenthal aus Hösbach. Die beiden hatten drei Söhne: Erich, geboren 1920, Herbert und Kurt-Manfred, geboren 1926.
 
@@ -436,8 +436,8 @@ Hebelstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Weichsel, Recha, David und Herbert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-weichsel-recha.jpg)
-![Weichsel, Recha, David und Herbert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-weichsel-dawid.jpg)
+![Weichsel, Recha, David und Herbert](../../images/stolpersteine/f77b66d2811d_stolperstein-weichsel-recha.jpg)
+![Weichsel, Recha, David und Herbert](../../images/stolpersteine/115b2365a193_stolperstein-weichsel-dawid.jpg)
 
 ## Links
 

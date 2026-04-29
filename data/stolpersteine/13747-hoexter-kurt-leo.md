@@ -11,7 +11,7 @@ filters:
 
 *Im Burgfeld 6*
 
-![Stolperstein Höxter, Kurt Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/im_burgfeld_6.jpg)
+![Stolperstein Höxter, Kurt Leo](../../images/stolpersteine/aed333f87baf_im_burgfeld_6.jpg)
 
 Kurt Leo Höxter wurde in Frankfurt geboren. Seine Mutter war Mathilde Schaumberger, geb. Goldschmidt, verw. Höxter, geboren am 18. Januar 1883 in Frankfurt. Diese heiratete 1921 in zweiter Ehe Professor Dr. Hugo Schaumberger, der von 1903 bis 1937 Lehrer am Philantropin war, kurze Zeit auch Direktor dieser Schule. Im Januar 1929 zog die Familie in das Burgfeld 6. In den Jahren 1932/1933 war Prof. Schaumberger Vorstandsmitglied der Kultusgemeinde Heddernheim.
 
@@ -104,8 +104,8 @@ Im Burgfeld 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Höxter, Kurt Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/dokument.jpg)
-![Höxter, Kurt Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/hoexter-kurt-leo.jpg)
+![Höxter, Kurt Leo](../../images/stolpersteine/fa891351efd8_dokument.jpg)
+![Höxter, Kurt Leo](../../images/stolpersteine/f10b3a6e6a02_hoexter-kurt-leo.jpg)
 
 ## Links
 

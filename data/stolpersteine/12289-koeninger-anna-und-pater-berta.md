@@ -11,7 +11,7 @@ filters:
 
 *Oeder Weg 126*
 
-![Stolperstein Köninger, Anna und Pater, Berta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/oederweg_126.jpg)
+![Stolperstein Köninger, Anna und Pater, Berta](../../images/stolpersteine/f930908110e3_oederweg_126.jpg)
 
 Die beiden
 
@@ -598,10 +598,10 @@ Oederweg 126
 ## Gallery
 
 <!-- gallery:standard -->
-![Köninger, Anna und Pater, Berta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/oederweg_126_pater_berta_1.jpg)
-![Köninger, Anna und Pater, Berta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/oederweg_126_pater_berta_2.jpg)
-![Köninger, Anna und Pater, Berta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-koeninger-anna.jpg)
-![Köninger, Anna und Pater, Berta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-berta-pater.jpg)
+![Köninger, Anna und Pater, Berta](../../images/stolpersteine/29344df0736a_oederweg_126_pater_berta_1.jpg)
+![Köninger, Anna und Pater, Berta](../../images/stolpersteine/981c6c068225_oederweg_126_pater_berta_2.jpg)
+![Köninger, Anna und Pater, Berta](../../images/stolpersteine/654e2a530a5c_stolperstein-koeninger-anna.jpg)
+![Köninger, Anna und Pater, Berta](../../images/stolpersteine/b8968a12e4f6_stolperstein-berta-pater.jpg)
 
 ## Links
 

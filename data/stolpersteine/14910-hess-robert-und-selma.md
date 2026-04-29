@@ -11,7 +11,7 @@ filters:
 
 *Sandweg 16*
 
-![Stolperstein Hess, Robert und Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/sandweg-16_1.jpg)
+![Stolperstein Hess, Robert und Selma](../../images/stolpersteine/722c48e3a39f_sandweg-16_1.jpg)
 
 Robert und Selma Hess, geb. Simons, wurden in Frankfurt geboren. Robert Hess war in erster Ehe mit der evangelischen Alma Hess verheiratet. Sie ließen ihren gemeinsamen Sohn Bernhard, der am 12. Februar 1914 geboren wurde, am 10. Mai desselben Jahres in der Dreikönigsgemeinde taufen. Die Familie lebte damals im Letzten Hasenpfad 36.
 
@@ -210,7 +210,7 @@ Sandweg 16
 ## Gallery
 
 <!-- gallery:standard -->
-![Hess, Robert und Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-hess-selma.jpg)
+![Hess, Robert und Selma](../../images/stolpersteine/45758ae89ba2_stolperstein-hess-selma.jpg)
 
 ## Links
 

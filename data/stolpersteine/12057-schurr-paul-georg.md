@@ -11,7 +11,7 @@ filters:
 
 *Im Trutz 24*
 
-![Stolperstein Schurr, Paul Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/im_trutz_24.jpg)
+![Stolperstein Schurr, Paul Georg](../../images/stolpersteine/4d8c1be3127d_im_trutz_24.jpg)
 
 Paul Schurr
 
@@ -510,9 +510,9 @@ Im Trutz 24
 ## Gallery
 
 <!-- gallery:standard -->
-![Schurr, Paul Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/im-trutz-24-schurr-paul.jpg)
-![Schurr, Paul Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/im-trutz-24-schurr-paul-gestapokartei.jpg)
-![Schurr, Paul Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_im_trutz_24_schurr_paul.jpg)
+![Schurr, Paul Georg](../../images/stolpersteine/990a96a9cf1f_im-trutz-24-schurr-paul.jpg)
+![Schurr, Paul Georg](../../images/stolpersteine/f53243bb058a_im-trutz-24-schurr-paul-gestapokartei.jpg)
+![Schurr, Paul Georg](../../images/stolpersteine/a7f941da2179_stolperst_im_trutz_24_schurr_paul.jpg)
 
 ## Links
 

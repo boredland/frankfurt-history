@@ -11,7 +11,7 @@ filters:
 
 *Zuckschwerdtstraße 16*
 
-![Stolperstein Marx, Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/zuckschwerdtstr_16__300x440.jpg)
+![Stolperstein Marx, Hermann](../../images/stolpersteine/5142ce9ae44e_zuckschwerdtstr_16__300x440.jpg)
 
 Hermann und Martha Marx mit ihren Kindern Ruth und Hans
 
@@ -142,8 +142,8 @@ Zuckschwerdtstraße 16
 ## Gallery
 
 <!-- gallery:standard -->
-![Marx, Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/hermann-und-martha-marx-mit-ihren-kindern-ruth-und-hans.jpg)
-![Marx, Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperstein_zuckschwerdtstr_16_marx_hermann__400x400.jpg)
+![Marx, Hermann](../../images/stolpersteine/d073a7179a6c_hermann-und-martha-marx-mit-ihren-kindern-ruth-und-hans.jpg)
+![Marx, Hermann](../../images/stolpersteine/6222e03a9e63_stolperstein_zuckschwerdtstr_16_marx_hermann__400x400.jpg)
 
 ## Links
 

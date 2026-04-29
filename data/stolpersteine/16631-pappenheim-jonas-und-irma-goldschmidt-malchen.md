@@ -11,7 +11,7 @@ filters:
 
 *Schützenstraße 12*
 
-![Stolperstein Pappenheim, Jonas und Irma, Goldschmidt, Malchen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/schuetzenstr_12.jpg)
+![Stolperstein Pappenheim, Jonas und Irma, Goldschmidt, Malchen](../../images/stolpersteine/44551ac10584_schuetzenstr_12.jpg)
 
 Pappenheim, Jonas 2
 
@@ -204,14 +204,14 @@ Schützenstraße 12
 ## Gallery
 
 <!-- gallery:standard -->
-![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/pappenheim-jonas-2.jpg)
-![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/pappenheim-irma-2.jpg)
-![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/pappenheim-jonas.jpg)
-![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/pappenheim-irma.jpg)
-![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldschmidt-malchen-heidelberger.jpg)
-![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/felix-und-malchen-goldschmidt.jpg)
-![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperstein_schuetzenstr_12_pappenheim_irma.jpg)
-![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperstein_schuetzenstr_12_goldschmidt_malchen.jpg)
+![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](../../images/stolpersteine/04068bd56598_pappenheim-jonas-2.jpg)
+![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](../../images/stolpersteine/e02ee08b2a0a_pappenheim-irma-2.jpg)
+![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](../../images/stolpersteine/682ed61cf269_pappenheim-jonas.jpg)
+![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](../../images/stolpersteine/4422d2d1caf7_pappenheim-irma.jpg)
+![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](../../images/stolpersteine/7dfe3a8e843a_goldschmidt-malchen-heidelberger.jpg)
+![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](../../images/stolpersteine/430f71176e63_felix-und-malchen-goldschmidt.jpg)
+![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](../../images/stolpersteine/866a4967add4_stolperstein_schuetzenstr_12_pappenheim_irma.jpg)
+![Pappenheim, Jonas und Irma, Goldschmidt, Malchen](../../images/stolpersteine/94a54bf6e97a_stolperstein_schuetzenstr_12_goldschmidt_malchen.jpg)
 
 ## Links
 

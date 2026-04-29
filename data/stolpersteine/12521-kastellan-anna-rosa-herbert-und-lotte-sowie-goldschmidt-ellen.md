@@ -11,7 +11,7 @@ filters:
 
 *Wilhelm-Leuschner-Straße 83*
 
-![Stolperstein Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/wilhelm-leuschner-strasse-83.jpg)
+![Stolperstein Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](../../images/stolpersteine/53a143951a11_wilhelm-leuschner-strasse-83.jpg)
 
 Herbert Kastellan
 
@@ -366,19 +366,19 @@ Wilhelm-Leuschner-Straße 83
 ## Gallery
 
 <!-- gallery:standard -->
-![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/herbert-kastellan.jpg)
-![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/wilhelm-leuschner-strasse-83-anna-kastellan.jpg)
-![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/herbert-kastellan-etwa-1938.jpg)
-![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/ellen-kastellan-mit-ihren-eltern-um-1916_17.jpg)
-![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/herbert-kastellan-waehrend-des-ersten-weltkriegs.jpg)
-![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/anna-und-herbert-kastellan-mit-tochter-ellen-august-1919.jpg)
-![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/anna-und-herbert-kastellan-mit-tochter-ellen-maerz-1914.jpg)
-![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/lotte-kastellan.jpg)
-![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/buergerstrasse-87.jpg)
-![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/kastellan-anna-rosa.jpg)
-![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/kastellan-herbert.jpg)
-![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/goldschmidt-ellen.jpg)
-![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/kastellan-lotte.jpg)
+![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](../../images/stolpersteine/97d32493598f_herbert-kastellan.jpg)
+![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](../../images/stolpersteine/56b9b876881b_wilhelm-leuschner-strasse-83-anna-kastellan.jpg)
+![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](../../images/stolpersteine/fe8642d1ad02_herbert-kastellan-etwa-1938.jpg)
+![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](../../images/stolpersteine/973e3f479a83_ellen-kastellan-mit-ihren-eltern-um-1916_17.jpg)
+![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](../../images/stolpersteine/d557f21b34ff_herbert-kastellan-waehrend-des-ersten-weltkriegs.jpg)
+![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](../../images/stolpersteine/35d2c45b58aa_anna-und-herbert-kastellan-mit-tochter-ellen-august-1919.jpg)
+![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](../../images/stolpersteine/5528ad83d603_anna-und-herbert-kastellan-mit-tochter-ellen-maerz-1914.jpg)
+![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](../../images/stolpersteine/ad7761f5f9c9_lotte-kastellan.jpg)
+![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](../../images/stolpersteine/05d33c3fef37_buergerstrasse-87.jpg)
+![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](../../images/stolpersteine/8e7f010de04a_kastellan-anna-rosa.jpg)
+![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](../../images/stolpersteine/c1c265abd358_kastellan-herbert.jpg)
+![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](../../images/stolpersteine/6c296ec9f1a3_goldschmidt-ellen.jpg)
+![Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](../../images/stolpersteine/8d77370b7356_kastellan-lotte.jpg)
 
 ## Links
 

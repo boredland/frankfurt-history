@@ -11,7 +11,7 @@ filters:
 
 *Habelstraße 8*
 
-![Stolperstein Steiner, Fanny und Goldschmidt, Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/habelstrasse_8_haus.jpg)
+![Stolperstein Steiner, Fanny und Goldschmidt, Hermann](../../images/stolpersteine/a9359448cb4f_habelstrasse_8_haus.jpg)
 
 Fanny Steiner und ihr Bruder Hermann Goldschmidt hatten drei weitere Geschwister. Ihre Eltern waren Moses Goldschmidt (1826-1884) und Jeanette, geb. Trost. Die Goldschmidts waren bereits vor 1788 in Heddernheim ansässig. Löb Goldschmidt, geb.1788 in Heddernheim, war der Vater von Moses Goldschmidt.
 

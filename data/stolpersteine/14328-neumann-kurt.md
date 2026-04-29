@@ -11,7 +11,7 @@ filters:
 
 *Bertramstraße 79*
 
-![Stolperstein Neumann, Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/bertramstrasse_79_haus.jpg)
+![Stolperstein Neumann, Kurt](../../images/stolpersteine/e7b1ba2d4c45_bertramstrasse_79_haus.jpg)
 
 Kurt Neumann war mehr als 42 Jahre für die Viktoria Versicherungs-AG Berlin tätig, zuletzt als Subdirektor in Frankfurt. 1929 baute er das Einfamilienhaus in der Bertramstraße 79. Nach nationalsozialistischer Definition lebte er in einer „Mischehe“. Er war 1893 aus der jüdischen Glaubensgemeinschaft ausgetreten, heiratete 1903 eine evangelische Direktrice in Berlin. 1904 kamen ihre beiden Zwillingssöhne in Bad Homburg zur Welt, sie wurden evangelisch getauft.
 

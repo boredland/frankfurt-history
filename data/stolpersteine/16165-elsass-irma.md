@@ -11,7 +11,7 @@ filters:
 
 *Friedrichstraße 58*
 
-![Stolperstein Elsass, Irma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/friedrichstrasse-58_1.jpg)
+![Stolperstein Elsass, Irma](../../images/stolpersteine/a08b16206249_friedrichstrasse-58_1.jpg)
 
 Familienbild Elsas
 
@@ -462,9 +462,9 @@ Friedrichstraße 58
 ## Gallery
 
 <!-- gallery:standard -->
-![Elsass, Irma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/familienbild-elsas.jpg)
-![Elsass, Irma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/versandkiste-elsas.jpg)
-![Elsass, Irma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_friedrichstr58_elsass_irma_c_400x400.jpg)
+![Elsass, Irma](../../images/stolpersteine/5103d3f89a2f_familienbild-elsas.jpg)
+![Elsass, Irma](../../images/stolpersteine/78cde0143f9c_versandkiste-elsas.jpg)
+![Elsass, Irma](../../images/stolpersteine/f90c7a36055b_stolperst_friedrichstr58_elsass_irma_c_400x400.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Alt-Rödelheim 30*
 
-![Stolperstein Eisemann, Johanette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/alt-roedelheim-30_1.jpg)
+![Stolperstein Eisemann, Johanette](../../images/stolpersteine/2906514204de_alt-roedelheim-30_1.jpg)
 
 Die in Heldenbergen geborene Johanette, geb. Hermann, war mit dem Metzger Leopold Eisemann verheiratet, der am 24.11.1939 in Frankfurt starb.  Sie hatten fünf Kinder, darunter Sally Eisemann. Der Ehemann betrieb in der eigenen Liegenschaft Alt-Rödelheim 30 seit 1904 eine Metzgerei, in der einer der Söhne mitarbeitete, die 1937 verfolgungsbedingt geschlossen werden musste.
 
@@ -92,7 +92,7 @@ Alt-Rödelheim 30
 ## Gallery
 
 <!-- gallery:standard -->
-![Eisemann, Johanette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/stolperst_alt_roedelheim_30_eisemann_johanette__4c.jpg)
+![Eisemann, Johanette](../../images/stolpersteine/62cfee146411_stolperst_alt_roedelheim_30_eisemann_johanette__4c.jpg)
 
 ## Links
 

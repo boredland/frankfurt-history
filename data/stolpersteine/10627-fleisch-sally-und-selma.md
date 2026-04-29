@@ -11,7 +11,7 @@ filters:
 
 *Reichsburgstraße 2*
 
-![Stolperstein Fleisch, Sally und Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/reichsburgstrasse-2_1.jpg)
+![Stolperstein Fleisch, Sally und Selma](../../images/stolpersteine/2090eb80c22d_reichsburgstrasse-2_1.jpg)
 
 Sally Fleisch und Selma, geborene Sternfels, hatten drei Kinder: Herta, geb. am 1915, Heinrich, geb. am 11. August 1919 und Walter, geb. am 2.1.1922. Seit dem 1.3.1926 war Sally Fleisch Inhaber der Metzgerei in der Reichsburgstraße 2 in Rödelheim, die er von seinem Vater übernommen hatte. Neben diesem Haus besaß die Familie Äcker in Rödelheim, Sossenheim und Eschersheim sowie einen Stall in der Wehrhofstraße.
 

@@ -11,7 +11,7 @@ filters:
 
 *Niddastraße 63*
 
-![Stolperstein Ochs, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/niddastr_63.jpg)
+![Stolperstein Ochs, Heinrich](../../images/stolpersteine/ba9fa8acf012_niddastr_63.jpg)
 
 Heinrich Ochs stammte aus dem kleinen Dorf Heyerode im Landkreis Rothenburg an der Fulda in Nordhessen und war verheiratet. Als gelernter Buchdrucker betrieb er in Frankfurt eine eigene kleine Druckerei, die zeitweise auch als Versammlungsort für seine kommunistischen Freunde diente. Ab September 1939 arbeitete er als Postfacharbeiter im Postamt 9, 1940 wurde er dienstverpflichtet bei den Buderus-Eisenwerken in Wetzlar und ab Januar 1941 zur Wehrmacht eingezogen. Bei seiner Verhaftung im Juli 1941 war er Soldat.
 
@@ -90,7 +90,7 @@ Niddastraße 63
 ## Gallery
 
 <!-- gallery:standard -->
-![Ochs, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/ochs-heinrich.jpg)
+![Ochs, Heinrich](../../images/stolpersteine/79a32a720ba2_ochs-heinrich.jpg)
 
 ## Links
 

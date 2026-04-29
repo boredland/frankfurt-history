@@ -11,7 +11,7 @@ filters:
 
 *Neuwiesenstraße 50*
 
-![Stolperstein Klee, Ester](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/neuwiesenstr_50.jpg)
+![Stolperstein Klee, Ester](../../images/stolpersteine/a137f8610ff1_neuwiesenstr_50.jpg)
 
 Ester Grünberg wurde als Tochter des Lehrers Lazar Grünberg und seiner Ehefrau Ida geboren. Am  21.11.1900 heiratete sie in Offenbach Wilhelm Klee und trat spätestens zu diesem Zeitpunkt zum katholischen Glauben über. Das Ehepaar hatte vier Kinder, drei Söhne und eine Tochter, und lebte in den 1930er-Jahren in der Friedlebenstraße 2 am Dornbusch. Ende der 30er-Jahre zog das Ehepaar zu seiner Tochter Simonetta „Setty“ Kuhn nach Niederrad in die Neuwiesenstraße 50.
 
@@ -124,7 +124,7 @@ Neuwiesenstraße 50
 ## Gallery
 
 <!-- gallery:standard -->
-![Klee, Ester](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/klee_ester.jpg)
+![Klee, Ester](../../images/stolpersteine/13d8062afa25_klee_ester.jpg)
 
 ## Links
 

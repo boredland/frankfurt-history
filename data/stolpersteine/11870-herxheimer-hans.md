@@ -12,7 +12,7 @@ filters:
 
 *Eschersheimer Landstraße 132*
 
-![Stolperstein Herxheimer, Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/eschersheimer_landstr_132.jpg)
+![Stolperstein Herxheimer, Hans](../../images/stolpersteine/6fbd28337410_eschersheimer_landstr_132.jpg)
 
 Hans Herxheimer wurde in Frankfurt am Main als Sohn
 
@@ -499,7 +499,7 @@ Eschersheimer Landstraße 132
 ## Gallery
 
 <!-- gallery:standard -->
-![Herxheimer, Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_eschersheimer_landstr_132_herxheimer_hans.jpg)
+![Herxheimer, Hans](../../images/stolpersteine/5b9c22ece17e_stolperst_eschersheimer_landstr_132_herxheimer_hans.jpg)
 
 ## Links
 

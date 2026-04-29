@@ -12,7 +12,7 @@ filters:
 
 *Melemstraße 8*
 
-![Stolperstein Liefmann, Lucy](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/melemstr_8.jpg)
+![Stolperstein Liefmann, Lucy](../../images/stolpersteine/f9dcc1ff1ede_melemstr_8.jpg)
 
 Lucy
 
@@ -487,8 +487,8 @@ Melemstraße 8
 ## Gallery
 
 <!-- gallery:standard -->
-![Liefmann, Lucy](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/melemstr_8_liefmann_lucy.jpg)
-![Liefmann, Lucy](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_melemstr_8_liefmann_lucy---kopie.jpg)
+![Liefmann, Lucy](../../images/stolpersteine/8ab13c29e58c_melemstr_8_liefmann_lucy.jpg)
+![Liefmann, Lucy](../../images/stolpersteine/a5619646877e_stolperst_melemstr_8_liefmann_lucy---kopie.jpg)
 
 ## Links
 

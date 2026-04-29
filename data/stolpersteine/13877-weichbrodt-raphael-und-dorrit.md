@@ -11,7 +11,7 @@ filters:
 
 *Mainzer Landstraße 23*
 
-![Stolperstein Weichbrodt, Raphael und Dorrit](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/mainzer_landstrasse_23.jpg)
+![Stolperstein Weichbrodt, Raphael und Dorrit](../../images/stolpersteine/6eabcf631d3d_mainzer_landstrasse_23.jpg)
 
 Weichbrodt, Raphael
 
@@ -116,9 +116,9 @@ Mainzer Landstraße 23
 ## Gallery
 
 <!-- gallery:standard -->
-![Weichbrodt, Raphael und Dorrit](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/weichbrodt-raphael.jpg)
-![Weichbrodt, Raphael und Dorrit](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_mainzer_landstrasse_23_weichbrodt_dr_raphael.jpg)
-![Weichbrodt, Raphael und Dorrit](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_mainzer_landstrasse_23_weichbrodt_dorrit.jpg)
+![Weichbrodt, Raphael und Dorrit](../../images/stolpersteine/5eb80e7d5332_weichbrodt-raphael.jpg)
+![Weichbrodt, Raphael und Dorrit](../../images/stolpersteine/e90408def2bc_stolperst_mainzer_landstrasse_23_weichbrodt_dr_raphael.jpg)
+![Weichbrodt, Raphael und Dorrit](../../images/stolpersteine/97cc43af6173_stolperst_mainzer_landstrasse_23_weichbrodt_dorrit.jpg)
 
 ## Links
 

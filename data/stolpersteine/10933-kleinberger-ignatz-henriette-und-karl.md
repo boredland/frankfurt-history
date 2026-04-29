@@ -11,7 +11,7 @@ filters:
 
 *Berger Straße 72*
 
-![Stolperstein Kleinberger, Ignatz, Henriette und Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/bergerstr_72.jpg)
+![Stolperstein Kleinberger, Ignatz, Henriette und Karl](../../images/stolpersteine/8176f3661e3f_bergerstr_72.jpg)
 
 Ignatz (Isaac) Kleinberger wurde in Bochnia in Österreich/später Polen, Henriette Kleinberger, geb. Gapp, in Kettenschwalbach in Rheinhessen geboren. Die Ehe der beiden blieb kinderlos, doch nahmen sie den Großneffen Karl bei sich auf.
 
@@ -448,11 +448,11 @@ Bergerstraße 72
 ## Gallery
 
 <!-- gallery:standard -->
-![Kleinberger, Ignatz, Henriette und Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/bergerstr_72_kleinberger_von_rechts_karl_ignatz_und_henriette_kleinberger_und_karls_pflegeschwester.jpg)
-![Kleinberger, Ignatz, Henriette und Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/bergerstr_72_kleinberger_dina_und_kalman_givon_2010_in_israel.jpg)
-![Kleinberger, Ignatz, Henriette und Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_bergerstr_72_kleinberger_ignatz.jpg)
-![Kleinberger, Ignatz, Henriette und Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_bergerstr_72_kleinberger_henriette.jpg)
-![Kleinberger, Ignatz, Henriette und Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_bergerstr_72_kleinberger_karl.jpg)
+![Kleinberger, Ignatz, Henriette und Karl](../../images/stolpersteine/49cedee21030_bergerstr_72_kleinberger_von_rechts_karl_ignatz_und_henriett.jpg)
+![Kleinberger, Ignatz, Henriette und Karl](../../images/stolpersteine/5b099661f7c0_bergerstr_72_kleinberger_dina_und_kalman_givon_2010_in_israe.jpg)
+![Kleinberger, Ignatz, Henriette und Karl](../../images/stolpersteine/aca9d4bef180_stolperst_bergerstr_72_kleinberger_ignatz.jpg)
+![Kleinberger, Ignatz, Henriette und Karl](../../images/stolpersteine/11dad6dd020d_stolperst_bergerstr_72_kleinberger_henriette.jpg)
+![Kleinberger, Ignatz, Henriette und Karl](../../images/stolpersteine/f5b3fe1c278f_stolperst_bergerstr_72_kleinberger_karl.jpg)
 
 ## Links
 

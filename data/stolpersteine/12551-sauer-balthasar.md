@@ -11,7 +11,7 @@ filters:
 
 *Allerheiligenstraße 26*
 
-![Stolperstein Sauer, Balthasar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/allerheiligenstrasse_26_haus.jpg)
+![Stolperstein Sauer, Balthasar](../../images/stolpersteine/ca1b74ebb757_allerheiligenstrasse_26_haus.jpg)
 
 Balthasar Sauer stammte aus Oberkalbach, Kreis Schlüchtern, und war Mitglied der SPD und des Reichsbanners Schwarz-Rot-Gold. Nachdem ein Unfall ihn zwang, seine Stelle bei der Reichsbahn aufzugeben, betrieb er etwa seit 1926 in der Allerheiligenstraße 26 die Gastwirtschaft „Zum grünen Wald“ und wohnte mit Ehefrau und Sohn im selben Haus. Gegenüber lag das alte Gewerkschaftshaus, das auch Sitz der SPD war; 1931 bezogen die Gewerkschaften ihr neues Haus in der Wilhelm-Leuschner-Straße.
 

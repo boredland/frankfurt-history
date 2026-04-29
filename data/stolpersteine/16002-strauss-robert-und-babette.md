@@ -11,7 +11,7 @@ filters:
 
 *Bäckerweg 30*
 
-![Stolperstein Strauss, Robert und Babette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/baeckerweg_30_300x400.jpg)
+![Stolperstein Strauss, Robert und Babette](../../images/stolpersteine/a477d55e13fc_baeckerweg_30_300x400.jpg)
 
 Robert Strauss erlernte den Beruf eines Kaufmanns. Er und sein vier Jahre jüngerer Bruder Isidor arbeiteten jahrelang im Großhandelsgeschäft ihres Schwagers „S. Grünebaum, Papierhandlung, Geschäftsbücher, Drucksachen, Schreibmaschinen“, Kaiserstraße 56/Ecke Elbestraße. Nach dem Tod ihres Schwagers Simon Grünebaum - er starb an Tuberkulose - kauften Robert und Isidor im Jahr 1900 diese Firma von ihrer Schwester Lina, der Witwe von Simon Grünbaum, und führten sie gemeinsam erfolgreich weiter.
 
@@ -432,7 +432,7 @@ Bäckerweg 30
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauss, Robert und Babette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-strauss-babette.jpg)
+![Strauss, Robert und Babette](../../images/stolpersteine/02997719929d_stolperstein-strauss-babette.jpg)
 
 ## Links
 

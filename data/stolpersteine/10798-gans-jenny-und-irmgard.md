@@ -11,7 +11,7 @@ filters:
 
 *Vogelsbergstraße 30*
 
-![Stolperstein Gans, Jenny und Irmgard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/vogelsbergstr_30.jpg)
+![Stolperstein Gans, Jenny und Irmgard](../../images/stolpersteine/af59fbae9098_vogelsbergstr_30.jpg)
 
 Jenny Gans, geb. Oppenheimer, wurde in Angenrod geboren und war verheiratet mit dem Polstermeister, Dekorateur und Tapezierer Selmar Gans. Dessen Werkstatt befand sich in der Fischerfeldstraße 8 in Frankfurt. Die Wohnadresse der Familie war zumindest seit Anfang der 1930er Jahre die Vogelsbergstraße 30. Das Ehepaar Gans hatte vier Kinder, drei Töchter und einen Sohn. Zwei der Töchter und dem Sohn gelang die Flucht in das US-amerikanische Exil. Irmgard Fanny Gans, vermutlich die jüngste der Geschwister, blieb bei den Eltern. Ab 1934 besuchte sie das Philanthropin. Selmar Gans starb am 21. März 1942 im Krankenhaus der Israelitischen Gemeinde in der Gagernstraße 36.
 
@@ -416,7 +416,7 @@ Vogelsbergstraße 30
 ## Gallery
 
 <!-- gallery:standard -->
-![Gans, Jenny und Irmgard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-gans-jenny.jpg)
+![Gans, Jenny und Irmgard](../../images/stolpersteine/b0c42670a23c_stolperstein-gans-jenny.jpg)
 
 ## Links
 

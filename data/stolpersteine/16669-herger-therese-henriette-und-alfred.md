@@ -11,7 +11,7 @@ filters:
 
 *Spielmannstraße 6*
 
-![Stolperstein Herger, Therese, Henriette und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/spielmannstr_6__400x300.jpg)
+![Stolperstein Herger, Therese, Henriette und Alfred](../../images/stolpersteine/1ccbd1e851e4_spielmannstr_6__400x300.jpg)
 
 Herger, Therese
 
@@ -108,9 +108,9 @@ Spielmannstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Herger, Therese, Henriette und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/herger-therese.jpg)
-![Herger, Therese, Henriette und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/henriette-wiesenberg-geb-herger-und-hermann-wiesenberg.jpg)
-![Herger, Therese, Henriette und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/stolperstein-herger-therese.jpg)
+![Herger, Therese, Henriette und Alfred](../../images/stolpersteine/2b8ccbdbb959_herger-therese.jpg)
+![Herger, Therese, Henriette und Alfred](../../images/stolpersteine/d64e90ecb167_henriette-wiesenberg-geb-herger-und-hermann-wiesenberg.jpg)
+![Herger, Therese, Henriette und Alfred](../../images/stolpersteine/6a94937fbb39_stolperstein-herger-therese.jpg)
 
 ## Links
 

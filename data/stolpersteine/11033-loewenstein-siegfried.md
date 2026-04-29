@@ -11,7 +11,7 @@ filters:
 
 *Eulengasse 3*
 
-![Stolperstein Löwenstein, Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/eulengasse_3.jpg)
+![Stolperstein Löwenstein, Siegfried](../../images/stolpersteine/052a91f80b8d_eulengasse_3.jpg)
 
 Siegfried Löwenstein wurde in Frankfurt am Main geboren als
 
@@ -138,7 +138,7 @@ Eulengasse 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Löwenstein, Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_eulengasse_3_loewenstein_siegfried.jpg)
+![Löwenstein, Siegfried](../../images/stolpersteine/8965dd7e492e_stolperst_eulengasse_3_loewenstein_siegfried.jpg)
 
 ## Links
 

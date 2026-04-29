@@ -11,7 +11,7 @@ filters:
 
 *Alt-Fechenheim 105*
 
-![Stolperstein Hahn, Gustav, Recha und Hertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/alt_fechenheim_105__300x400.jpg)
+![Stolperstein Hahn, Gustav, Recha und Hertha](../../images/stolpersteine/553fea95cf32_alt_fechenheim_105__300x400.jpg)
 
 Gustav Hahn war Inhaber eines Schuhgeschäftes in der Langgasse 105 (heute Alt Fechenheim 105).
 
@@ -102,9 +102,9 @@ Alt-Fechenheim 105
 ## Gallery
 
 <!-- gallery:standard -->
-![Hahn, Gustav, Recha und Hertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/stolperst_alt_fechenheim_105_hahn_gustav__400x400.jpg)
-![Hahn, Gustav, Recha und Hertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/stolperst_alt_fechenheim_105_hahn_hertha__400x400.jpg)
-![Hahn, Gustav, Recha und Hertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/stolperst_alt_fechenheim_105_hahn_recha__400x400.jpg)
+![Hahn, Gustav, Recha und Hertha](../../images/stolpersteine/d73629696374_stolperst_alt_fechenheim_105_hahn_gustav__400x400.jpg)
+![Hahn, Gustav, Recha und Hertha](../../images/stolpersteine/c8776266b35b_stolperst_alt_fechenheim_105_hahn_hertha__400x400.jpg)
+![Hahn, Gustav, Recha und Hertha](../../images/stolpersteine/ed79613f5590_stolperst_alt_fechenheim_105_hahn_recha__400x400.jpg)
 
 ## Links
 

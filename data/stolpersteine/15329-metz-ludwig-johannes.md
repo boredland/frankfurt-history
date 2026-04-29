@@ -11,7 +11,7 @@ filters:
 
 *Gangstraße 7*
 
-![Stolperstein Metz, Ludwig Johannes](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/standort/gangstr_7_.jpg)
+![Stolperstein Metz, Ludwig Johannes](../../images/stolpersteine/b1956f4926da_gangstr_7_.jpg)
 
 Johannes
 
@@ -112,7 +112,7 @@ Gangstraße 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Metz, Ludwig Johannes](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolperst_gangstrasse_7_metz_johannes_ludwig.jpg)
+![Metz, Ludwig Johannes](../../images/stolpersteine/51d8f2c1b6f7_stolperst_gangstrasse_7_metz_johannes_ludwig.jpg)
 
 ## Links
 

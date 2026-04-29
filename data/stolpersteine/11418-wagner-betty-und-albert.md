@@ -11,7 +11,7 @@ filters:
 
 *Niedenau 43*
 
-![Stolperstein Wagner, Betty und Albert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/niedenau-43_1.jpg)
+![Stolperstein Wagner, Betty und Albert](../../images/stolpersteine/f72c2b16b4b1_niedenau-43_1.jpg)
 
 Albert und Betty Wagner hatten einen Sohn und eine Tochter. Albert war Kaufmann, Soldat im Ersten Weltkrieg, Inhaber des Eisernen Kreuzes, nach Kriegsende Mitglied in einem sozialistischen Soldatenrat. Die Familie lebte bis 1926 in Breslau. Dann berufliche Versetzung als Einkäufer für ein Warenhaus nach Frankfurt; später Inhaber eines kleinen Textilgeschäfts in Niederrad, das 1938 „arisiert“ wurde. Zunächst wohnte die Familie in der Marienstraße in der Frankfurter Hellerhof-Siedlung, ab 1935 in der Niedenau 43 und zuletzt in der Wöhlerstraße 4.
 
@@ -464,7 +464,7 @@ Niedenau 43
 ## Gallery
 
 <!-- gallery:standard -->
-![Wagner, Betty und Albert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/wagner-betty.jpg)
+![Wagner, Betty und Albert](../../images/stolpersteine/409b89f68034_wagner-betty.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Mittelweg 12*
 
-![Stolperstein Plaut, Berta, Egele und Martin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/mittelweg_12_haus2.jpg)
+![Stolperstein Plaut, Berta, Egele und Martin](../../images/stolpersteine/4c860ed22ab7_mittelweg_12_haus2.jpg)
 
 Plaut, Julius
 
@@ -432,7 +432,7 @@ Mittelweg 12
 ## Gallery
 
 <!-- gallery:standard -->
-![Plaut, Berta, Egele und Martin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/plaut-julius.jpg)
+![Plaut, Berta, Egele und Martin](../../images/stolpersteine/ec2409331e66_plaut-julius.jpg)
 
 ## Links
 

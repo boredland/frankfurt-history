@@ -11,7 +11,7 @@ filters:
 
 *Rubensstraße 24*
 
-![Stolperstein Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/rubensstrasse-24_1.jpg)
+![Stolperstein Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](../../images/stolpersteine/865b55ce2949_rubensstrasse-24_1.jpg)
 
 Hugo Bauer wurde in Frankfurt als Sohn des Kaufmannes Gustav Bauer geboren. Er besuchte das Kaiser-Friedrich-Gymnasium in Frankfurt, wo er 1901 die Reifeprüfung ablegte. Er studierte Chemie in Frankfurt und München und promovierte 1907. Nach einer Assistentenzeit in München und Mülhausen erhielt er 1909 eine Anstellung bei Paul Ehrlich am Georg-Speyer-Haus und konnte dort bei der Forschung an den Salvarsan-Präparaten mitwirken. Hugo Bauer nahm am Ersten Weltkrieg teil und wurde mehrfach verwundet. Zurück am Institut wurde er 1922 zum Abteilungsleiter des Chemischen Labors befördert.
 
@@ -258,16 +258,16 @@ Paul-Ehrlich-Straße 42
 ## Gallery
 
 <!-- gallery:standard -->
-![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/georg-speyer-haus-2.jpg)
-![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/bauer-hugo.jpg)
-![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/chemische-abteilung-paul-ehrlich-strasse-42.jpg)
-![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/kollegium-in-der-paul-ehrlich-strasse.jpg)
-![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/georg-speyer-haus.jpg)
-![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/strauss-eduard.jpg)
-![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/wilhelm-caspari-erwin-stilling-hugo-bauer-eduard-strauss-ferdinand-blum-von-rechts-nach-links.jpg)
-![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_paul_ehrlich_str_42_bauer_hugo.jpg)
-![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_paul_ehrlich_str_42_stilling_erwin.jpg)
-![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_paul_ehrlich_str_42_strauss_eduard.jpg)
+![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](../../images/stolpersteine/8227272d7e91_georg-speyer-haus-2.jpg)
+![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](../../images/stolpersteine/7b9227ba599d_bauer-hugo.jpg)
+![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](../../images/stolpersteine/f13757734bc3_chemische-abteilung-paul-ehrlich-strasse-42.jpg)
+![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](../../images/stolpersteine/a1c5a03cd724_kollegium-in-der-paul-ehrlich-strasse.jpg)
+![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](../../images/stolpersteine/32603952fcac_georg-speyer-haus.jpg)
+![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](../../images/stolpersteine/cc19547d54a0_strauss-eduard.jpg)
+![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](../../images/stolpersteine/00323f8af94c_wilhelm-caspari-erwin-stilling-hugo-bauer-eduard-strauss-fer.jpg)
+![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](../../images/stolpersteine/cd23e9b1821b_stolperst_paul_ehrlich_str_42_bauer_hugo.jpg)
+![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](../../images/stolpersteine/62e203362896_stolperst_paul_ehrlich_str_42_stilling_erwin.jpg)
+![Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß](../../images/stolpersteine/3c95d61e6f5c_stolperst_paul_ehrlich_str_42_strauss_eduard.jpg)
 
 ## Links
 

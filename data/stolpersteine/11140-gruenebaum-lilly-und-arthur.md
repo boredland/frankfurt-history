@@ -11,7 +11,7 @@ filters:
 
 *Hallgartenstraße 36*
 
-![Stolperstein Grünebaum, Lilly und Arthur](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/hallgartenstr_36.jpg)
+![Stolperstein Grünebaum, Lilly und Arthur](../../images/stolpersteine/f407ab2baffe_hallgartenstr_36.jpg)
 
 Arthur und Lilly Grünebaum wurden in Frankfurt am Main geboren. Ihre Ehe blieb kinderlos. Arthur Grünebaum war der älteste Sohn des Metzgers Gerson Grünebaum und seiner Frau Rosa, geb. Grünebaum. An die Eltern und den Bruder Alfred erinnern seit 2004 Stolpersteine in der Eschersheimer Landstraße 405. Nur dem Bruder Jakob und der Nichte Anneliese gelang die Flucht in die USA.
 
@@ -426,8 +426,8 @@ Hallgartenstraße 36
 ## Gallery
 
 <!-- gallery:standard -->
-![Grünebaum, Lilly und Arthur](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/schilderung-der-verfolgung-in-der-hallgartenstrasse.jpg)
-![Grünebaum, Lilly und Arthur](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-gruenebaum-lilly.jpg)
+![Grünebaum, Lilly und Arthur](../../images/stolpersteine/82128c7c7479_schilderung-der-verfolgung-in-der-hallgartenstrasse.jpg)
+![Grünebaum, Lilly und Arthur](../../images/stolpersteine/13dd575dbd5e_stolperstein-gruenebaum-lilly.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Rohrbachstraße 28*
 
-![Stolperstein Sommer, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/rohrbachstr_28.jpg)
+![Stolperstein Sommer, Adolf](../../images/stolpersteine/996625c0f15c_rohrbachstr_28.jpg)
 
 Adolf Sommer wurde in Frankfurt am Main geboren. Sein Berufsweg als Buchdrucker und Schriftsetzer begann in der Druckerei Fischer in der Biebergasse. Die spätere Ehefrau Emilie war Schneiderin, die gemeinsame Tochter Hannelore wurde 1927 geboren. Emilie war Christin, sodass die Ehe nach den Nürnberger Gesetzen als „Mischehe" galt.
 
@@ -404,7 +404,7 @@ Rohrbachstraße 28
 ## Gallery
 
 <!-- gallery:standard -->
-![Sommer, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-sommer-adolf.jpg)
+![Sommer, Adolf](../../images/stolpersteine/4540f37878c6_stolperstein-sommer-adolf.jpg)
 
 ## Links
 

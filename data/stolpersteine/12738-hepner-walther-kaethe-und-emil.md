@@ -11,7 +11,7 @@ filters:
 
 *Feldbergstraße 15*
 
-![Stolperstein Hepner, Walther, Käthe und Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/feldbergstrasse-15_1.jpg)
+![Stolperstein Hepner, Walther, Käthe und Emil](../../images/stolpersteine/1fa485c6740c_feldbergstrasse-15_1.jpg)
 
 Hepner, Käthe
 
@@ -500,12 +500,12 @@ Feldbergstraße 15
 ## Gallery
 
 <!-- gallery:standard -->
-![Hepner, Walther, Käthe und Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hepner-kathe.jpg)
-![Hepner, Walther, Käthe und Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hepner-walter-2.jpg)
-![Hepner, Walther, Käthe und Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hepner-walter.jpg)
-![Hepner, Walther, Käthe und Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/walter-hepner-und-lilli-wolfgang.jpg)
-![Hepner, Walther, Käthe und Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hepner-emil.jpg)
-![Hepner, Walther, Käthe und Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_feldbergstr_15_hepner_walther.jpg)
+![Hepner, Walther, Käthe und Emil](../../images/stolpersteine/de6972370d25_hepner-kathe.jpg)
+![Hepner, Walther, Käthe und Emil](../../images/stolpersteine/ba6b9b2fe324_hepner-walter-2.jpg)
+![Hepner, Walther, Käthe und Emil](../../images/stolpersteine/dec8cbdbb6ea_hepner-walter.jpg)
+![Hepner, Walther, Käthe und Emil](../../images/stolpersteine/1616e2effcf5_walter-hepner-und-lilli-wolfgang.jpg)
+![Hepner, Walther, Käthe und Emil](../../images/stolpersteine/678b994cafeb_hepner-emil.jpg)
+![Hepner, Walther, Käthe und Emil](../../images/stolpersteine/63487f35c521_stolperst_feldbergstr_15_hepner_walther.jpg)
 
 ## Links
 

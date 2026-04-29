@@ -11,7 +11,7 @@ filters:
 
 *Niddagaustraße 21*
 
-![Stolperstein May, Julius und Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/niddagaustrasse-21_1.jpg)
+![Stolperstein May, Julius und Hermine](../../images/stolpersteine/197665e7a513_niddagaustrasse-21_1.jpg)
 
 Der Kaufmann und Vertreter Julius May stammte aus Frankfurt am Main. Seine Eltern waren Josef May und Jeanette, geb. Hecht. Er war mit der gebürtigen Offenbacherin Hermine, geb. Drucker, verheiratet. Deren Eltern waren Arnold Drucker und Klara, geb. Aub.
 
@@ -112,7 +112,7 @@ Niddagaustraße 21
 ## Gallery
 
 <!-- gallery:standard -->
-![May, Julius und Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/stolperst_niddagaustr_21_may_julius__400x400.jpg)
+![May, Julius und Hermine](../../images/stolpersteine/a1f09a948841_stolperst_niddagaustr_21_may_julius__400x400.jpg)
 
 ## Links
 

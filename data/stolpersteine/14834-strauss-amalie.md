@@ -11,7 +11,7 @@ filters:
 
 *Oeder Weg 57*
 
-![Stolperstein Strauss, Amalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/oederweg_57.jpg)
+![Stolperstein Strauss, Amalie](../../images/stolpersteine/903551f48677_oederweg_57.jpg)
 
 Amalie Strauss, geb. Vendig, wurde in Kaiserslautern als
 
@@ -494,11 +494,11 @@ Oederweg 57
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauss, Amalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/oederweg_57_amalie_strauss.jpg)
-![Strauss, Amalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/oederweg_57_raphael_vendig_frida_stiefe_-amalie_strauss_siegfried_stiefel.jpg)
-![Strauss, Amalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/oederweg_57_alfred_strauss_todesanzeige.jpg)
-![Strauss, Amalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/oederweg_57_haus_vor_dem_krieg.jpg)
-![Strauss, Amalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_oederweg_57_strauss_amalie.jpg)
+![Strauss, Amalie](../../images/stolpersteine/6c0965a6358b_oederweg_57_amalie_strauss.jpg)
+![Strauss, Amalie](../../images/stolpersteine/c04d5212d817_oederweg_57_raphael_vendig_frida_stiefe_-amalie_strauss_sieg.jpg)
+![Strauss, Amalie](../../images/stolpersteine/c5642ccd36cb_oederweg_57_alfred_strauss_todesanzeige.jpg)
+![Strauss, Amalie](../../images/stolpersteine/15c0b21569b7_oederweg_57_haus_vor_dem_krieg.jpg)
+![Strauss, Amalie](../../images/stolpersteine/ee45802b8b3b_stolperst_oederweg_57_strauss_amalie.jpg)
 
 ## Links
 

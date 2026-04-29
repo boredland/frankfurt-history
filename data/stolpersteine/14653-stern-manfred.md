@@ -11,7 +11,7 @@ filters:
 
 *Königsteiner Straße 9-13*
 
-![Stolperstein Stern, Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/koenigsteiner_strasse_9-13.jpg)
+![Stolperstein Stern, Manfred](../../images/stolpersteine/4b5975f1c005_koenigsteiner_strasse_9-13.jpg)
 
 Manfred Stern, geboren in Bergen, war Kaufmann. Er wohnte 1937 in Frankfurt zur Untermiete und arbeitete als Abteilungsleiter im Kaufhaus Schiff in Höchst. Wegen „Rassenschande“ wurde der ledige Manfred Stern verhaftet und kam am 30. Oktober 1937 aus dem Polizeigefängnis in das Gerichtsgefängnis in der Hammelsgasse in Frankfurt. Hier erhängte er sich mit seinem Gürtel bereits am folgenden Tag.
 
@@ -126,7 +126,7 @@ Königsteiner Straße 9-13
 ## Gallery
 
 <!-- gallery:standard -->
-![Stern, Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stern-manfred.jpg)
+![Stern, Manfred](../../images/stolpersteine/22bf103ff988_stern-manfred.jpg)
 
 ## Links
 

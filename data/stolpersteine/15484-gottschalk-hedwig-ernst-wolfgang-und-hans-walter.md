@@ -11,7 +11,7 @@ filters:
 
 *Klettenbergstraße 16*
 
-![Stolperstein Gottschalk, Hedwig, Ernst Wolfgang und Hans Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/klettenbergstr_16.jpg)
+![Stolperstein Gottschalk, Hedwig, Ernst Wolfgang und Hans Walter](../../images/stolpersteine/485a2866bd07_klettenbergstr_16.jpg)
 
 Hedwig Gottschalk wurde in Worms geboren. Sie war mit Otto Gottschalk verheiratet, der in Freiburg, Berlin, München und Marburg Deutsch und neuere Sprachen studierte. Der promovierte Doktor der Philosophie trat um 1910 eine Stelle als Lehrer am Realgymnasium in Biedenkopf an. Dort sind auch die Söhne Ernst Wolfgang und Hans Walter geboren. Ab 1929 war Otto Gottschalk als Studienrat an der Hohen Landesschule in Hanau tätig, er starb am 11. März 1933. Die Familie lebte in Hanau am Beethovenplatz 12 und in der Huttenstraße 1. 1934 zog Hedwig Gottschalk mit ihren Söhnen in die Frankfurter Landstraße 32 in Hanau und später nach Frankfurt, zunächst in die Leerbachstraße 122, von dort am 18. Juli 1938 in die Klettenbergstraße 16.
 
@@ -432,9 +432,9 @@ Klettenbergstraße 16
 ## Gallery
 
 <!-- gallery:standard -->
-![Gottschalk, Hedwig, Ernst Wolfgang und Hans Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_klettenbergstr_16_gottschalk__hedwig.jpg)
-![Gottschalk, Hedwig, Ernst Wolfgang und Hans Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_klettenbergstr_16_gottschalk_ernst_wolfgang.jpg)
-![Gottschalk, Hedwig, Ernst Wolfgang und Hans Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_klettenbergstr_16_gottschalk_hans_walter.jpg)
+![Gottschalk, Hedwig, Ernst Wolfgang und Hans Walter](../../images/stolpersteine/5a08ef49dfa8_stolperst_klettenbergstr_16_gottschalk__hedwig.jpg)
+![Gottschalk, Hedwig, Ernst Wolfgang und Hans Walter](../../images/stolpersteine/72ceb3fc470d_stolperst_klettenbergstr_16_gottschalk_ernst_wolfgang.jpg)
+![Gottschalk, Hedwig, Ernst Wolfgang und Hans Walter](../../images/stolpersteine/ff7cff721b1b_stolperst_klettenbergstr_16_gottschalk_hans_walter.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Königsteiner Straße 3c*
 
-![Stolperstein Hammerschlag, Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/koenigsteiner_3c__300x400.jpg)
+![Stolperstein Hammerschlag, Jenny](../../images/stolpersteine/811972cb9c98_koenigsteiner_3c__300x400.jpg)
 
 Jenny Hammerschlag stammte aus Treisa im Kreis Gießen und zog im März 1912 laut Adressbuch 1910/1911 von der Jahnstr. 12 (heute Antoniterstraße) in die Königsteiner Str. 3c in den zweiten Stock. Sie war Geschäftsführerin eines Haushaltswarengeschäfts. Ein alter Höchster erinnerte sich, dass er 1916, als die Lebensmittel knapp waren, Sonnenblumenkerne und Mohn zu Jenny Hammerschlag gebracht hatte und dafür Öl erhielt. Im Dezember 1918 zog Jenny Hammerschlags Bruder, Hermann, zu ihr. Die Geschwister wurden als reelle Geschäftsleute in Höchst geschätzt; sie bildeten Lehrlinge aus und belieferten mit einem Kastenwagen auch das Umland.
 
@@ -144,8 +144,8 @@ Königsteiner Straße 3 c
 ## Gallery
 
 <!-- gallery:standard -->
-![Hammerschlag, Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/hammerschlag-teller.jpg)
-![Hammerschlag, Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_koenigsteinerstr_3c_hammerschlag_jenny__400x400.jpg)
+![Hammerschlag, Jenny](../../images/stolpersteine/0ea9072f075e_hammerschlag-teller.jpg)
+![Hammerschlag, Jenny](../../images/stolpersteine/d83c9899ba07_stolperst_koenigsteinerstr_3c_hammerschlag_jenny__400x400.jp.jpg)
 
 ## Links
 

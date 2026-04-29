@@ -11,7 +11,7 @@ filters:
 
 *Ludolfusstraße 9*
 
-![Stolperstein Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/standort/ludolfusstrasse_9.jpg)
+![Stolperstein Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](../../images/stolpersteine/8ccd5089028c_ludolfusstrasse_9.jpg)
 
 Moritz
 
@@ -228,13 +228,13 @@ Ludolfusstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/opferbilder/ludolfusstrasse_9_abele_max_guenther.jpg)
-![Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/opferbilder/ludolfusstrasse_9_kirby_anne-marie.jpg)
-![Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_ludolfusstrasse_9_abeles_moritz.jpg)
-![Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_ludolfusstrasse_9_abeles_elsie_hilde.jpg)
-![Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_ludolfusstrasse_9_abeles_max_guenther.jpg)
-![Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_ludolfusstrasse_9_abeles_anne-marie.jpg)
-![Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_ludolfusstrasse_9_schauss_karoline.jpg)
+![Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](../../images/stolpersteine/eae986763b68_ludolfusstrasse_9_abele_max_guenther.jpg)
+![Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](../../images/stolpersteine/0d4a5a3cdfc3_ludolfusstrasse_9_kirby_anne-marie.jpg)
+![Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](../../images/stolpersteine/de7c26dee348_stolperst_ludolfusstrasse_9_abeles_moritz.jpg)
+![Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](../../images/stolpersteine/0451a78f9f7f_stolperst_ludolfusstrasse_9_abeles_elsie_hilde.jpg)
+![Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](../../images/stolpersteine/06481ed9bcca_stolperst_ludolfusstrasse_9_abeles_max_guenther.jpg)
+![Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](../../images/stolpersteine/69b5e4b9bd4f_stolperst_ludolfusstrasse_9_abeles_anne-marie.jpg)
+![Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie, sowie Schauss, Karoline](../../images/stolpersteine/876e56152226_stolperst_ludolfusstrasse_9_schauss_karoline.jpg)
 
 ## Links
 

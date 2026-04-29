@@ -11,7 +11,7 @@ filters:
 
 *Linnéstraße 29*
 
-![Stolperstein Zunz, Wilhelm Albert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/linnestrasse-29_1.jpg)
+![Stolperstein Zunz, Wilhelm Albert](../../images/stolpersteine/80fbe134df64_linnestrasse-29_1.jpg)
 
 Wilhelm Albert Zunz kam am 20.10.1874 in Frankfurt am Main als Sohn des Kaufmanns David Adolf Zunz und seiner Frau Hermine, geb. Hirsch zur Welt. Die Familie gehörte zu einer weit verzweigten alteingesessenen Frankfurter jüdischen Familie. Der Urvater des Frankfurter Familienzweigs „Pesach aus Zons" stammte aus der gleichnamigen Rheinfeste bei Köln und zog in der 2. Hälfte des 15. Jahrhunderts mit seiner Familie in die Frankfurter Judengasse. Wilhelm Albert Zunz hatte eine Schwester, verhei¬ratete Koring. Er studierte von 1894 bis 1896 an der Technischen Hochschule Darmstadt und anschließend bis 1898 an der Technischen Hochschule in München Elektrotechnik und Maschinenbau. Er war Ingenieur und arbeitete als selbstständiger Handlungsagent für Kfz-Bedarfsartikel. Am 24. August 1920 heiratete er die Protestantin Ida Stoll und ließ sich evangelisch taufen. Nach den diskri¬minierenden „Nürnberger Gesetzen" galt er jedoch als „Volljude" und seine kinderlose Ehe als „nicht privilegiert". 1936 kündigte ihm die Lieferfirma auf Druck der NSDAP seine Vertretungen. Die nationalsozialistischen Behörden entzogen ihm, der jahrzehntelang Ingenieur und Fachmann für Kraftfahrzeuge gewesen war, die Fahrerlaubnis. Auch die Ehefrau musste ihren Führerschein abgeben und das Auto 1940 stillgelegt werden. Schmuck, Silbersachen, Wertsachen und Bekleidung der Eheleute wurden 1940 durch die Geheime Staatspolizei beschlagnahmt, ebenso der Radioapparat 1939. Zur Verfolgung gehörte auch die wiederholte Vertreibung aus der Wohnung: Im Oktober 1941 musste das Ehepaar auf Befehl der Gestapo innerhalb von 24 Stunden seine Wohnung Linnestraße 29 räumen, wo Wilhelm A. Zunz seit 1911 im ersten Stock gewohnt hatte.
 
@@ -202,8 +202,8 @@ Linnéstraße 29
 ## Gallery
 
 <!-- gallery:standard -->
-![Zunz, Wilhelm Albert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/sterbeurkunde-albert-zunz.jpg)
-![Zunz, Wilhelm Albert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-zunz-wilhelm-albert.jpg)
+![Zunz, Wilhelm Albert](../../images/stolpersteine/b85d39d228d4_sterbeurkunde-albert-zunz.jpg)
+![Zunz, Wilhelm Albert](../../images/stolpersteine/593d57393ab3_stolperstein-zunz-wilhelm-albert.jpg)
 
 ## Links
 

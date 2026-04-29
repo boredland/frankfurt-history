@@ -11,7 +11,7 @@ filters:
 
 *Brüder-Grimm-Straße 35*
 
-![Stolperstein Federlein, Auguste Gitel, Anni, Hilde und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/brueder-grimm-strasse_35.jpg)
+![Stolperstein Federlein, Auguste Gitel, Anni, Hilde und Max](../../images/stolpersteine/9b93c73c3dd8_brueder-grimm-strasse_35.jpg)
 
 Auguste
 
@@ -284,10 +284,10 @@ Brüder-Grimm-Straße 35
 ## Gallery
 
 <!-- gallery:standard -->
-![Federlein, Auguste Gitel, Anni, Hilde und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_brueder-grimm-strasse_35_federlein_anni.jpg)
-![Federlein, Auguste Gitel, Anni, Hilde und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_brueder-grimm-strasse_35_federlein_hilde.jpg)
-![Federlein, Auguste Gitel, Anni, Hilde und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_brueder-grimm-strasse_35_federlein_max.jpg)
-![Federlein, Auguste Gitel, Anni, Hilde und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_brueder-grimm-strasse_38_federlein_auguste_gitel.jpg)
+![Federlein, Auguste Gitel, Anni, Hilde und Max](../../images/stolpersteine/ff91bf7d7c61_stolperst_brueder-grimm-strasse_35_federlein_anni.jpg)
+![Federlein, Auguste Gitel, Anni, Hilde und Max](../../images/stolpersteine/b848f98487df_stolperst_brueder-grimm-strasse_35_federlein_hilde.jpg)
+![Federlein, Auguste Gitel, Anni, Hilde und Max](../../images/stolpersteine/0f6cb2d3d790_stolperst_brueder-grimm-strasse_35_federlein_max.jpg)
+![Federlein, Auguste Gitel, Anni, Hilde und Max](../../images/stolpersteine/39153bca5dac_stolperst_brueder-grimm-strasse_38_federlein_auguste_gitel.j.jpg)
 
 ## Links
 

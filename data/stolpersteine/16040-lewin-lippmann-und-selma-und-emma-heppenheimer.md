@@ -11,7 +11,7 @@ filters:
 
 *Böhmerstraße 60*
 
-![Stolperstein Lewin, Lippmann und Selma und Emma Heppenheimer](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/boehmerstrasse-60_1.jpg)
+![Stolperstein Lewin, Lippmann und Selma und Emma Heppenheimer](../../images/stolpersteine/6c62cb423afc_boehmerstrasse-60_1.jpg)
 
 Emma Heppenheimer wurde in Biebrich geboren. Lippmann Lewin, wohl ihr Schwiegersohn, in Rogowo bei Posen. Der Geburtsort ihrer Tochter ist nicht bekannt. Alle drei lebten in der Böhmerstraße 60. Die letzte Frankfurter Adresse von Emma Heppenheimer und Selma Lewin war das Krankenhaus der Israelitischen Gemeinde in der Gagernstraße 36.
 
@@ -476,7 +476,7 @@ Böhmerstraße 60
 ## Gallery
 
 <!-- gallery:standard -->
-![Lewin, Lippmann und Selma und Emma Heppenheimer](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_boehmerstr_60_lewin_lippmann.jpg)
+![Lewin, Lippmann und Selma und Emma Heppenheimer](../../images/stolpersteine/b02781862029_stolperst_boehmerstr_60_lewin_lippmann.jpg)
 
 ## Links
 

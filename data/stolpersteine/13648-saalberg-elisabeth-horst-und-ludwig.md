@@ -11,7 +11,7 @@ filters:
 
 *Gluckstraße 14*
 
-![Stolperstein Saalberg, Elisabeth, Horst und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/gluckstr_14.jpg)
+![Stolperstein Saalberg, Elisabeth, Horst und Ludwig](../../images/stolpersteine/46caf523e67b_gluckstr_14.jpg)
 
 Ludwig Saalberg wurde
 
@@ -478,9 +478,9 @@ Gluckstraße 14
 ## Gallery
 
 <!-- gallery:standard -->
-![Saalberg, Elisabeth, Horst und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_gluckstr_14_saalberg_ludwig.jpg)
-![Saalberg, Elisabeth, Horst und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_gluckstr_14_saalberg_elisabeth.jpg)
-![Saalberg, Elisabeth, Horst und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_gluckstr_14_saalberg_horst.jpg)
+![Saalberg, Elisabeth, Horst und Ludwig](../../images/stolpersteine/204a40d5765c_stolperst_gluckstr_14_saalberg_ludwig.jpg)
+![Saalberg, Elisabeth, Horst und Ludwig](../../images/stolpersteine/a6d9a86792a2_stolperst_gluckstr_14_saalberg_elisabeth.jpg)
+![Saalberg, Elisabeth, Horst und Ludwig](../../images/stolpersteine/ddab7cfb931d_stolperst_gluckstr_14_saalberg_horst.jpg)
 
 ## Links
 

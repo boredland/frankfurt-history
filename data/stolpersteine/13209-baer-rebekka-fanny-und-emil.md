@@ -11,7 +11,7 @@ filters:
 
 *Saalburgstraße 59*
 
-![Stolperstein Baer, Rebekka, Fanny und Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/saalburgstrasse_59_haus.jpg)
+![Stolperstein Baer, Rebekka, Fanny und Emil](../../images/stolpersteine/7d12a8690232_saalburgstrasse_59_haus.jpg)
 
 Baer, Fanny
 
@@ -114,7 +114,7 @@ Saalburgstraße 59
 ## Gallery
 
 <!-- gallery:standard -->
-![Baer, Rebekka, Fanny und Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/baer-fanny.jpg)
+![Baer, Rebekka, Fanny und Emil](../../images/stolpersteine/6d756616a2b3_baer-fanny.jpg)
 
 ## Links
 

@@ -12,7 +12,7 @@ filters:
 
 *Ludwig-Landmann-Straße 46*
 
-![Stolperstein Zins, Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/praunheim/ludwig_landmann_str_46.jpg)
+![Stolperstein Zins, Selma](../../images/stolpersteine/464ad0b54ac4_ludwig_landmann_str_46.jpg)
 
 Selma und Friedel Zins
 
@@ -153,9 +153,9 @@ Ludwig-Landmann-Straße 46
 ## Gallery
 
 <!-- gallery:standard -->
-![Zins, Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/praunheim/opferbilder/ludwig-landmann-str_46_zins_selma_1.jpg)
-![Zins, Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/praunheim/opferbilder/ludwig-landmann-str_46_zins_selma_2.jpg)
-![Zins, Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/praunheim/stolperst_ludwig_landmann_str_46_zins_selma.jpg)
+![Zins, Selma](../../images/stolpersteine/0c933abed7c6_ludwig-landmann-str_46_zins_selma_1.jpg)
+![Zins, Selma](../../images/stolpersteine/23d4a0ec39d9_ludwig-landmann-str_46_zins_selma_2.jpg)
+![Zins, Selma](../../images/stolpersteine/548ff2e8d0e2_stolperst_ludwig_landmann_str_46_zins_selma.jpg)
 
 ## Links
 

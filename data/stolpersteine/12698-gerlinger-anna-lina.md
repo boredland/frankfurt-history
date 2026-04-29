@@ -11,7 +11,7 @@ filters:
 
 *Elbestraße 15*
 
-![Stolperstein Gerlinger, Anna Lina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/gebaeude--elbestrasse-15.jpg)
+![Stolperstein Gerlinger, Anna Lina](../../images/stolpersteine/d97147da4985_gebaeude--elbestrasse-15.jpg)
 
 Anna Lina Gerlinger
 
@@ -156,9 +156,9 @@ Elbestraße 15
 ## Gallery
 
 <!-- gallery:standard -->
-![Gerlinger, Anna Lina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/anna-lina-gerlinger.jpg)
-![Gerlinger, Anna Lina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/familie-gerlinger.jpg)
-![Gerlinger, Anna Lina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolpersteine-elbestrasse-15-anna-lina-gerlinger.jpg)
+![Gerlinger, Anna Lina](../../images/stolpersteine/45df2acc51d8_anna-lina-gerlinger.jpg)
+![Gerlinger, Anna Lina](../../images/stolpersteine/87eb937747e1_familie-gerlinger.jpg)
+![Gerlinger, Anna Lina](../../images/stolpersteine/98a5d1b7b020_stolpersteine-elbestrasse-15-anna-lina-gerlinger.jpg)
 
 ## Links
 

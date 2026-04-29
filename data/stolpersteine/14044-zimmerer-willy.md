@@ -11,7 +11,7 @@ filters:
 
 *Rotlintstraße 41*
 
-![Stolperstein Zimmerer, Willy](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/rotlintstr_41.jpg)
+![Stolperstein Zimmerer, Willy](../../images/stolpersteine/01f3a7fb8014_rotlintstr_41.jpg)
 
 Willy Zimmerer
 
@@ -556,9 +556,9 @@ Rotlintstraße 41
 ## Gallery
 
 <!-- gallery:standard -->
-![Zimmerer, Willy](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/rotlintstr_41_willy_zimmerer_vermutlich_um_1915.jpg)
-![Zimmerer, Willy](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/rotlintstr_41_saeule_auf_dem_friedhof_der_gedenkstaette_hadamar.jpg)
-![Zimmerer, Willy](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_rotlintstr_41_zimmerer_willy.jpg)
+![Zimmerer, Willy](../../images/stolpersteine/55ca9513ae57_rotlintstr_41_willy_zimmerer_vermutlich_um_1915.jpg)
+![Zimmerer, Willy](../../images/stolpersteine/4467790686aa_rotlintstr_41_saeule_auf_dem_friedhof_der_gedenkstaette_hada.jpg)
+![Zimmerer, Willy](../../images/stolpersteine/554eb9190d42_stolperst_rotlintstr_41_zimmerer_willy.jpg)
 
 ## Links
 

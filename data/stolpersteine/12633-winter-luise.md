@@ -11,7 +11,7 @@ filters:
 
 *Bettinastraße 23*
 
-![Stolperstein Winter, Luise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/bettinastr_23.jpg)
+![Stolperstein Winter, Luise](../../images/stolpersteine/c047b56370b8_bettinastr_23.jpg)
 
 Luise Winter wurde in Roigheim, Kreis Neckarsulm (heute: Heilbronn),
 
@@ -522,8 +522,8 @@ Bettinastraße 23
 ## Gallery
 
 <!-- gallery:standard -->
-![Winter, Luise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/bettinastr_23_luise_winter.jpg)
-![Winter, Luise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bettinastr_23_winter_luise.jpg)
+![Winter, Luise](../../images/stolpersteine/b4aeadb115a2_bettinastr_23_luise_winter.jpg)
+![Winter, Luise](../../images/stolpersteine/19512f951372_stolperst_bettinastr_23_winter_luise.jpg)
 
 ## Links
 

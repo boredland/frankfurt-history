@@ -11,7 +11,7 @@ filters:
 
 *Luxemburgerallee 16*
 
-![Stolperstein Loeser, Menasse, Charlotte und Eva Lane Junghans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/luxemburgerallee-16_1.jpg)
+![Stolperstein Loeser, Menasse, Charlotte und Eva Lane Junghans](../../images/stolpersteine/4a26355e4a59_luxemburgerallee-16_1.jpg)
 
 Loeser, Menasse
 
@@ -238,12 +238,12 @@ Luxemburgerallee 16
 ## Gallery
 
 <!-- gallery:standard -->
-![Loeser, Menasse, Charlotte und Eva Lane Junghans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/loeser-menasse.jpg)
-![Loeser, Menasse, Charlotte und Eva Lane Junghans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/loeser-gabriele.jpg)
-![Loeser, Menasse, Charlotte und Eva Lane Junghans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/menasse-loeser-mit-tochter-ida-und-enkelin-gabriele.jpg)
-![Loeser, Menasse, Charlotte und Eva Lane Junghans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/henriette-franz-und-charlotte-junghans.jpg)
-![Loeser, Menasse, Charlotte und Eva Lane Junghans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/charlotte-junghans-mit-tochter-eva.jpg)
-![Loeser, Menasse, Charlotte und Eva Lane Junghans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-junghans-charlotte.jpg)
+![Loeser, Menasse, Charlotte und Eva Lane Junghans](../../images/stolpersteine/2b4fad2bbf61_loeser-menasse.jpg)
+![Loeser, Menasse, Charlotte und Eva Lane Junghans](../../images/stolpersteine/9cc7def94bc0_loeser-gabriele.jpg)
+![Loeser, Menasse, Charlotte und Eva Lane Junghans](../../images/stolpersteine/546b5b321e3b_menasse-loeser-mit-tochter-ida-und-enkelin-gabriele.jpg)
+![Loeser, Menasse, Charlotte und Eva Lane Junghans](../../images/stolpersteine/ae631320bdb6_henriette-franz-und-charlotte-junghans.jpg)
+![Loeser, Menasse, Charlotte und Eva Lane Junghans](../../images/stolpersteine/620fd82d792b_charlotte-junghans-mit-tochter-eva.jpg)
+![Loeser, Menasse, Charlotte und Eva Lane Junghans](../../images/stolpersteine/7492602b8186_stolperstein-junghans-charlotte.jpg)
 
 ## Links
 

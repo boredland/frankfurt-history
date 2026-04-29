@@ -11,7 +11,7 @@ filters:
 
 *Hans-Thoma-Straße 24*
 
-![Stolperstein Amram, Frida und Julie, und Goldine und Seligmann Hirschberg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/hans-thoma-strasse-24_1.jpg)
+![Stolperstein Amram, Frida und Julie, und Goldine und Seligmann Hirschberg](../../images/stolpersteine/58583a33b4e5_hans-thoma-strasse-24_1.jpg)
 
 Frida Amram wurde in Zwesten in Nordhessen geboren. Sie lernte den Beruf der Krankenschwester. Ab 1911 war sie in Frankfurt für den Verein der Israelitischen Weiblichen Fürsorge tätig, der 1911 ein Haus für elternlose Kinder in Neu Isenburg und 1919 das Kinderhaus hier in der Hans-Thoma-Straße 24 eröffnete. Die Kinderhäuser nahmen bedürftige israelitische Kinder wie Waisenkinder, Kinder aus schwierigen Familienverhältnissen, uneheliche Kinder oder solche, um die sich niemand kümmerte, bis zum sechsten Lebensjahr auf. Dort arbeitete Frida Amram bis 1942 als Verwalterin und zuletzt Oberin.
 
@@ -206,12 +206,12 @@ Hans-Thoma-Straße 24
 ## Gallery
 
 <!-- gallery:standard -->
-![Amram, Frida und Julie, und Goldine und Seligmann Hirschberg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/kinderhaus-hans-thoma-strasse-24.jpg)
-![Amram, Frida und Julie, und Goldine und Seligmann Hirschberg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/hirschberg-goldine.jpg)
-![Amram, Frida und Julie, und Goldine und Seligmann Hirschberg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/hirschberg-seligmann.jpg)
-![Amram, Frida und Julie, und Goldine und Seligmann Hirschberg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/familie-hirschberg.jpg)
-![Amram, Frida und Julie, und Goldine und Seligmann Hirschberg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_hans_thomastr_24_amram_frida.jpg)
-![Amram, Frida und Julie, und Goldine und Seligmann Hirschberg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_hans_thomastr_24_hirschberg_goldine.jpg)
+![Amram, Frida und Julie, und Goldine und Seligmann Hirschberg](../../images/stolpersteine/7256fc88e110_kinderhaus-hans-thoma-strasse-24.jpg)
+![Amram, Frida und Julie, und Goldine und Seligmann Hirschberg](../../images/stolpersteine/4bac3804ab0a_hirschberg-goldine.jpg)
+![Amram, Frida und Julie, und Goldine und Seligmann Hirschberg](../../images/stolpersteine/f2e62c2dbeb6_hirschberg-seligmann.jpg)
+![Amram, Frida und Julie, und Goldine und Seligmann Hirschberg](../../images/stolpersteine/3d1e18307580_familie-hirschberg.jpg)
+![Amram, Frida und Julie, und Goldine und Seligmann Hirschberg](../../images/stolpersteine/3fc757c23682_stolperst_hans_thomastr_24_amram_frida.jpg)
+![Amram, Frida und Julie, und Goldine und Seligmann Hirschberg](../../images/stolpersteine/cedda282e95d_stolperst_hans_thomastr_24_hirschberg_goldine.jpg)
 
 ## Links
 

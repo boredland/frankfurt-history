@@ -12,7 +12,7 @@ filters:
 
 *Hamburger Allee 58*
 
-![Stolperstein Finkernagel, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/hamburger_allee_58.jpg)
+![Stolperstein Finkernagel, Karl](../../images/stolpersteine/4220f4cdc226_hamburger_allee_58.jpg)
 
 Karl Heinrich Finkernagel wurde in Altenstadt bei Gießen
 
@@ -229,7 +229,7 @@ Hamburger Allee 58
 ## Gallery
 
 <!-- gallery:standard -->
-![Finkernagel, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_hamburger_allee_58_finkernagel_karl_heinrich.jpg)
+![Finkernagel, Karl](../../images/stolpersteine/41c3e30363e5_stolperst_hamburger_allee_58_finkernagel_karl_heinrich.jpg)
 
 ## Links
 

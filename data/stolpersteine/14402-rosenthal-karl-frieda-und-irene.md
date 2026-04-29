@@ -11,7 +11,7 @@ filters:
 
 *Eppenhainer Straße 6*
 
-![Stolperstein Rosenthal, Karl, Frieda und Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/eppenhainer_strasse_6.jpg)
+![Stolperstein Rosenthal, Karl, Frieda und Irene](../../images/stolpersteine/26802a7bdd63_eppenhainer_strasse_6.jpg)
 
 Rosenthal, Karl
 
@@ -132,13 +132,13 @@ Eppenhainerstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenthal, Karl, Frieda und Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/rosenthal-karl.jpg)
-![Rosenthal, Karl, Frieda und Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/rosenthal-frieda.jpg)
-![Rosenthal, Karl, Frieda und Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/rosenthal-irene.jpg)
-![Rosenthal, Karl, Frieda und Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/kaufhaus-rosenthal.jpg)
-![Rosenthal, Karl, Frieda und Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_eppenhainer_strasse_6_rosenthal_irene.jpg)
-![Rosenthal, Karl, Frieda und Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_eppenhainer_strasse_6_rosenthal_karl.jpg)
-![Rosenthal, Karl, Frieda und Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_eppenhainer_strasse_6_rosenthal_setta.jpg)
+![Rosenthal, Karl, Frieda und Irene](../../images/stolpersteine/db20ebffea8c_rosenthal-karl.jpg)
+![Rosenthal, Karl, Frieda und Irene](../../images/stolpersteine/e85032341eb5_rosenthal-frieda.jpg)
+![Rosenthal, Karl, Frieda und Irene](../../images/stolpersteine/8f49390fa310_rosenthal-irene.jpg)
+![Rosenthal, Karl, Frieda und Irene](../../images/stolpersteine/9a84732a8fd6_kaufhaus-rosenthal.jpg)
+![Rosenthal, Karl, Frieda und Irene](../../images/stolpersteine/4fe85460efb3_stolperst_eppenhainer_strasse_6_rosenthal_irene.jpg)
+![Rosenthal, Karl, Frieda und Irene](../../images/stolpersteine/510da0dd04f8_stolperst_eppenhainer_strasse_6_rosenthal_karl.jpg)
+![Rosenthal, Karl, Frieda und Irene](../../images/stolpersteine/84857af92032_stolperst_eppenhainer_strasse_6_rosenthal_setta.jpg)
 
 ## Links
 

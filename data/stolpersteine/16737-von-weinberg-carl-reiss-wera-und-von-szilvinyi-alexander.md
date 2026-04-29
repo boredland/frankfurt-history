@@ -11,7 +11,7 @@ filters:
 
 *Waldfriedstraße 11*
 
-![Stolperstein von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/waldfriedstr_11.jpg)
+![Stolperstein von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](../../images/stolpersteine/4abe43cabab1_waldfriedstr_11.jpg)
 
 Carl von Weinberg wurde am 14. September 1861 als Sohn des jüdischen Kaufmanns Bernhard Weinberg und seiner Frau Pauline, geb. Gans in Frankfurt geboren. Er hatte eine Schwester, Maria (Jg. 1859) und einen Bruder, Arthur (Jg. 1860). Der Vater war durch die Heirat mit Pauline Gans Teilhaber der Firma Leopold Cassella & Comp. geworden. Seit 1873 wohnte die Familie Weinberg in der Palmengartenstraße im Frankfurter Westend. Carl und sein Bruder Arthur konvertierten um 1880 zum Protestantismus.
 
@@ -210,20 +210,20 @@ Waldfriedstraße 11
 ## Gallery
 
 <!-- gallery:standard -->
-![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/waldfriedstr_11_weinberg_um_1900.jpg)
-![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/waldfriedstr_11_wera_von_weinberg_als_junge_braut_1915.jpg)
-![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/waldfriedstr_11_alexander_graf_zu_muenster_spaeter_von_szilvinyi.jpg)
-![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/waldfriedstr_11_carl_von_weinberg_im-aufsichtsrat_der_i_g_farben.jpg)
-![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/waldfriedstr_11_wera_von_weinberg_1924_auf_der_titelseite_des_londoner_magazins_tatler.jpg)
-![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/waldfriedstr_11_alexander_von_szilviny_1929.jpg)
-![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/waldfriedstr_11_morgenausritt_der_brueder_arthur_und_carl_von_weinberg_um_1900.jpg)
-![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/waldfriedstr_11_weinberg_villa_waldfried_um_1900.jpg)
-![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/waldfriedstr_11_weinberg_villa_waldfried.jpg)
-![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/waldfriedstr_11_brunnen_der_zerstoerten_villa_waldfried_heute_vor_dem_nebbienschen_gartenhaus.jpg)
-![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/waldfriedstr_11_bueste_im_waldspielpark_carl-von-weinberg.jpg)
-![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_waldfriedstr_11_von-weinberg_carl.jpg)
-![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_waldfriedstr_11_reiss_wera.jpg)
-![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_waldfriedstr_11_von-szilvinyi_alexander.jpg)
+![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](../../images/stolpersteine/a296b093c1d2_waldfriedstr_11_weinberg_um_1900.jpg)
+![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](../../images/stolpersteine/73e2f3fb0d35_waldfriedstr_11_wera_von_weinberg_als_junge_braut_1915.jpg)
+![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](../../images/stolpersteine/733321ba6ce5_waldfriedstr_11_alexander_graf_zu_muenster_spaeter_von_szilv.jpg)
+![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](../../images/stolpersteine/c4eeece8d194_waldfriedstr_11_carl_von_weinberg_im-aufsichtsrat_der_i_g_fa.jpg)
+![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](../../images/stolpersteine/fda1f11a25a4_waldfriedstr_11_wera_von_weinberg_1924_auf_der_titelseite_de.jpg)
+![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](../../images/stolpersteine/3b5e13f8f035_waldfriedstr_11_alexander_von_szilviny_1929.jpg)
+![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](../../images/stolpersteine/a10f851ba54e_waldfriedstr_11_morgenausritt_der_brueder_arthur_und_carl_vo.jpg)
+![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](../../images/stolpersteine/dabd75680516_waldfriedstr_11_weinberg_villa_waldfried_um_1900.jpg)
+![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](../../images/stolpersteine/10697406696f_waldfriedstr_11_weinberg_villa_waldfried.jpg)
+![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](../../images/stolpersteine/3573fb017f3e_waldfriedstr_11_brunnen_der_zerstoerten_villa_waldfried_heut.jpg)
+![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](../../images/stolpersteine/2cbcde69e6d9_waldfriedstr_11_bueste_im_waldspielpark_carl-von-weinberg.jp.jpg)
+![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](../../images/stolpersteine/8587732c8a51_stolperst_waldfriedstr_11_von-weinberg_carl.jpg)
+![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](../../images/stolpersteine/711ef564e8ea_stolperst_waldfriedstr_11_reiss_wera.jpg)
+![von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander](../../images/stolpersteine/12d8f6f3a226_stolperst_waldfriedstr_11_von-szilvinyi_alexander.jpg)
 
 ## Links
 

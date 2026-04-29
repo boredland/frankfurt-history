@@ -11,7 +11,7 @@ filters:
 
 *Eppsteiner Straße 5*
 
-![Stolperstein Gross, Paul und Elsa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/eppsteiner-strasse-5_1.jpg)
+![Stolperstein Gross, Paul und Elsa](../../images/stolpersteine/a0a66536279b_eppsteiner-strasse-5_1.jpg)
 
 Die in Langenlonsheim geborene Elsa Gross war die Tochter des Weinhändlers Ludwig Mayer und Johanna, geb. Heyman, und seit 1916 mit dem Kaufmann Paul Gross verheiratet. Die 1921 in Frankfurt geborene Tochter Marianne lebte nach dem Zweiten Weltkrieg in Großbritannien. Sie war eine Schwester von Lieselotte Mayer, die 1942 deportiert und ermordet wurde. Einem 1898 geborenen Bruder gelang 1938 die Flucht in das britische Exil, ebenso einer Nichte.
 
@@ -470,7 +470,7 @@ Eppsteiner Straße 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Gross, Paul und Elsa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eppsteinerstr_5_gross_paul__400x400.jpg)
+![Gross, Paul und Elsa](../../images/stolpersteine/379df2b45cf4_stolperst_eppsteinerstr_5_gross_paul__400x400.jpg)
 
 ## Links
 

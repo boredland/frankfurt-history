@@ -12,7 +12,7 @@ filters:
 
 *Voltastraße 55*
 
-![Stolperstein Kell, Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/voltastr_55.jpg)
+![Stolperstein Kell, Bernhard](../../images/stolpersteine/0980e362912c_voltastr_55.jpg)
 
 Johannes
 
@@ -267,7 +267,7 @@ Voltastraße 55
 ## Gallery
 
 <!-- gallery:standard -->
-![Kell, Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_voltastr_55_kell_bernhard.jpg)
+![Kell, Bernhard](../../images/stolpersteine/a1dfa66d72b5_stolperst_voltastr_55_kell_bernhard.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Mendelssohnstraße 92*
 
-![Stolperstein Grosser, Alfred, Lily, Margarete und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/mendelssohnstr_92.jpg)
+![Stolperstein Grosser, Alfred, Lily, Margarete und Paul](../../images/stolpersteine/f4fbf3f86aa1_mendelssohnstr_92.jpg)
 
 Paul Grosser wurde in Berlin
 
@@ -618,17 +618,17 @@ Mendelssohnstraße 92
 ## Gallery
 
 <!-- gallery:standard -->
-![Grosser, Alfred, Lily, Margarete und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/mendelssohnstr_92_grosser_paul.jpg)
-![Grosser, Alfred, Lily, Margarete und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/mendelssohnstr_92_grosser_paul_2_wikipedia.jpg)
-![Grosser, Alfred, Lily, Margarete und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/mendelssohnstr_92_grosser_lily_margarethe_alfred_und_paul_in_neue_mainzer_strasse_in_frankfurt_1929.jpg)
-![Grosser, Alfred, Lily, Margarete und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/mendelssohnstr_92_grosser_clementine-kinderhospital_vor_dem_krieg_wikipedia.jpg)
-![Grosser, Alfred, Lily, Margarete und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/mendelssohnstr_92_grosser_paul_gedenktafel.jpg)
-![Grosser, Alfred, Lily, Margarete und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/mendelssohnstr_92_grosser_alfred_mit_petra_roth_und_ignatz_bubis_vor_der_gedenktafel.jpg)
-![Grosser, Alfred, Lily, Margarete und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/mendelssohnstr_92_grosser_alfred_gruss_an_initiative_stolpersteine_frankfurt.jpg)
-![Grosser, Alfred, Lily, Margarete und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_mendelssohnstr_92_grosser_paul.jpg)
-![Grosser, Alfred, Lily, Margarete und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_mendelssohnstr_92_grosser_lily.jpg)
-![Grosser, Alfred, Lily, Margarete und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_mendelssohnstr_92_grosser_margarete.jpg)
-![Grosser, Alfred, Lily, Margarete und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_mendelssohnstr_92_grosser_alfred.jpg)
+![Grosser, Alfred, Lily, Margarete und Paul](../../images/stolpersteine/229f8e661379_mendelssohnstr_92_grosser_paul.jpg)
+![Grosser, Alfred, Lily, Margarete und Paul](../../images/stolpersteine/f0282d1a3bc7_mendelssohnstr_92_grosser_paul_2_wikipedia.jpg)
+![Grosser, Alfred, Lily, Margarete und Paul](../../images/stolpersteine/76ff92bbd006_mendelssohnstr_92_grosser_lily_margarethe_alfred_und_paul_in.jpg)
+![Grosser, Alfred, Lily, Margarete und Paul](../../images/stolpersteine/a971992d1e0f_mendelssohnstr_92_grosser_clementine-kinderhospital_vor_dem_.jpg)
+![Grosser, Alfred, Lily, Margarete und Paul](../../images/stolpersteine/e010249e1534_mendelssohnstr_92_grosser_paul_gedenktafel.jpg)
+![Grosser, Alfred, Lily, Margarete und Paul](../../images/stolpersteine/9b0a59626e97_mendelssohnstr_92_grosser_alfred_mit_petra_roth_und_ignatz_b.jpg)
+![Grosser, Alfred, Lily, Margarete und Paul](../../images/stolpersteine/cc8448b8c9da_mendelssohnstr_92_grosser_alfred_gruss_an_initiative_stolper.jpg)
+![Grosser, Alfred, Lily, Margarete und Paul](../../images/stolpersteine/0d26d690dcf7_stolperst_mendelssohnstr_92_grosser_paul.jpg)
+![Grosser, Alfred, Lily, Margarete und Paul](../../images/stolpersteine/b4f14be30551_stolperst_mendelssohnstr_92_grosser_lily.jpg)
+![Grosser, Alfred, Lily, Margarete und Paul](../../images/stolpersteine/916bba01ae42_stolperst_mendelssohnstr_92_grosser_margarete.jpg)
+![Grosser, Alfred, Lily, Margarete und Paul](../../images/stolpersteine/616a034032bf_stolperst_mendelssohnstr_92_grosser_alfred.jpg)
 
 ## Links
 

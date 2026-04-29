@@ -11,7 +11,7 @@ filters:
 
 *Freiherr-vom-Stein-Straße 26*
 
-![Stolperstein Schwarz-Neumaier, Leonore](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/freiherr-vom-stein-strasse-26_1.jpg)
+![Stolperstein Schwarz-Neumaier, Leonore](../../images/stolpersteine/a72913d2bb66_freiherr-vom-stein-strasse-26_1.jpg)
 
 Leonore Schwarz wurde in Wien geboren. Dort erhielt sie ihre Gesangsausbildung. Nach Engagements in Graz, Nürnberg und Magdeburg wurde sie 1917 Erste Altistin an der Frankfurter Oper, wo sie in zahlreichen Wagneropern sowie unter anderem als Carmen („Carmen“ von Georges Bizet), als Prinz von Orlowsky („Die Fledermaus“ von Johann Strauss) und als Suzuki („Madame Butterfly“ von Giacomo Puccini) große Erfolge feierte.
 
@@ -468,12 +468,12 @@ Freiherr-vom-Stein-Straße 15
 ## Gallery
 
 <!-- gallery:standard -->
-![Schwarz-Neumaier, Leonore](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/leonore-schwarz-neumaier-2.jpg)
-![Schwarz-Neumaier, Leonore](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/familie-schwarz-neumaier.jpg)
-![Schwarz-Neumaier, Leonore](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/schwarz-neumaier-leonore.jpg)
-![Schwarz-Neumaier, Leonore](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/familie-schwarz-neumaier-2.jpg)
-![Schwarz-Neumaier, Leonore](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/leonore-schwarz-neumaier-3.jpg)
-![Schwarz-Neumaier, Leonore](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_freiherr_vom_stein_str_15_neumaier_leonore.jpg)
+![Schwarz-Neumaier, Leonore](../../images/stolpersteine/0e0c7c50cacc_leonore-schwarz-neumaier-2.jpg)
+![Schwarz-Neumaier, Leonore](../../images/stolpersteine/8e767005a5d3_familie-schwarz-neumaier.jpg)
+![Schwarz-Neumaier, Leonore](../../images/stolpersteine/d172e784073a_schwarz-neumaier-leonore.jpg)
+![Schwarz-Neumaier, Leonore](../../images/stolpersteine/bb5aea4d0ab0_familie-schwarz-neumaier-2.jpg)
+![Schwarz-Neumaier, Leonore](../../images/stolpersteine/efa6c6ec874b_leonore-schwarz-neumaier-3.jpg)
+![Schwarz-Neumaier, Leonore](../../images/stolpersteine/4883caec2c91_stolperst_freiherr_vom_stein_str_15_neumaier_leonore.jpg)
 
 ## Links
 

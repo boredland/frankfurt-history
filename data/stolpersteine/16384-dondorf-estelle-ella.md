@@ -11,7 +11,7 @@ filters:
 
 *Lenaustraße 39*
 
-![Stolperstein Dondorf, Estelle „Ella“](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/lenaustr_39.jpg)
+![Stolperstein Dondorf, Estelle „Ella“](../../images/stolpersteine/463c65cad2e5_lenaustr_39.jpg)
 
 Estelle „Ella“ Dondorf wurde in Frankfurt als einziges Kind von Otto Dondorf und seiner katholischen Ehefrau Maria Theresia, geb. von Steinle, geboren. Otto Dondorf hatte jüdische Eltern, konvertierte aber vor der Heirat zum Katholizismus. Er war, wie zuvor sein Vater Paul Dondorf, Geschäftsführer der Dondorf-Druckerei an der Bockenheimer Warte, wo das Backsteingebäude der Druckerei heute noch steht. Sein Großvater Bernhard Dondorf hatte die Firma gegründet. Estelle Dondorfs Urgroßvater mütterlicherseits war der Kirchenmaler Edward Jakob von Steinle, der 1850 erster Professor am Städelschen Kunstinstitut in Frankfurt war.
 
@@ -404,8 +404,8 @@ Lenaustraße 39
 ## Gallery
 
 <!-- gallery:standard -->
-![Dondorf, Estelle „Ella“](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/lenaustr_39_dondorf_estelle.jpg)
-![Dondorf, Estelle „Ella“](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_lenaustr_39_dondorf_estelle.jpg)
+![Dondorf, Estelle „Ella“](../../images/stolpersteine/0b370f18a632_lenaustr_39_dondorf_estelle.jpg)
+![Dondorf, Estelle „Ella“](../../images/stolpersteine/12eaf2b3c2fa_stolperst_lenaustr_39_dondorf_estelle.jpg)
 
 ## Links
 

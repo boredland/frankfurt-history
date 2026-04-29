@@ -11,7 +11,7 @@ filters:
 
 *Telemannstraße 5*
 
-![Stolperstein Telemannstraße 5](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/telemannstr_5.jpg)
+![Stolperstein Telemannstraße 5](../../images/stolpersteine/4c011954fc0c_telemannstr_5.jpg)
 
 Baum, Andreas, Dorothea, Siegfried F. sowie Hirsch Johanne, Mayer Frida, Mosesmann Viktoria, Simon Rosette und Strauss Adele
 
@@ -658,14 +658,14 @@ Telemannstraße 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Telemannstraße 5](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_telemannstr_5_baum_andreas.jpg)
-![Telemannstraße 5](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_telemannstr_5_baum_dorothea.jpg)
-![Telemannstraße 5](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_telemannstr_5_baum_siegfried.jpg)
-![Telemannstraße 5](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_telemannstr_5_hirsch_johanne.jpg)
-![Telemannstraße 5](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_telemannstr_5_mayer_frida.jpg)
-![Telemannstraße 5](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_telemannstr_5_mosesmann_viktoria.jpg)
-![Telemannstraße 5](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_telemannstr_5_strauss_adele.jpg)
-![Telemannstraße 5](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_telemannstr_5_simon_rosette.jpg)
+![Telemannstraße 5](../../images/stolpersteine/d1fb121b6495_stolperst_telemannstr_5_baum_andreas.jpg)
+![Telemannstraße 5](../../images/stolpersteine/e398ea63a17a_stolperst_telemannstr_5_baum_dorothea.jpg)
+![Telemannstraße 5](../../images/stolpersteine/2ab732ff8d83_stolperst_telemannstr_5_baum_siegfried.jpg)
+![Telemannstraße 5](../../images/stolpersteine/f160be1d6d8d_stolperst_telemannstr_5_hirsch_johanne.jpg)
+![Telemannstraße 5](../../images/stolpersteine/21b3b60b6a75_stolperst_telemannstr_5_mayer_frida.jpg)
+![Telemannstraße 5](../../images/stolpersteine/c87ac94c4df9_stolperst_telemannstr_5_mosesmann_viktoria.jpg)
+![Telemannstraße 5](../../images/stolpersteine/2afe45ce5f23_stolperst_telemannstr_5_strauss_adele.jpg)
+![Telemannstraße 5](../../images/stolpersteine/072c31d81278_stolperst_telemannstr_5_simon_rosette.jpg)
 
 ## Links
 

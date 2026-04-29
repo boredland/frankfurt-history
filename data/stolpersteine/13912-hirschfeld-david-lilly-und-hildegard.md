@@ -11,7 +11,7 @@ filters:
 
 *Mendelssohnstraße 79a*
 
-![Stolperstein Hirschfeld, David, Lilly und Hildegard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/mendelssohnstrasse-79_1.jpg)
+![Stolperstein Hirschfeld, David, Lilly und Hildegard](../../images/stolpersteine/b1b42e8ff179_mendelssohnstrasse-79_1.jpg)
 
 David Hirschfeld wurde 1872 in Kolmar Posen geboren und war seit 1914 Inhaber des Absatzwerkes "Wentzell & Co.“ in der Adalbertstraße. Die Firma wurde 1938 "arisiert“, das Vermögen der Familie einer Sicherungsanordnung unterworfen. Im Alter von 69 Jahren wurde David Hirschfeld 1941 zusammen mit seiner Ehefrau aus Frankfurt in das Ghetto Lodz verschleppt, wo er knapp ein Jahr später starb und wahrscheinlich auch seine Ehefrau ums Leben kam.
 
@@ -464,7 +464,7 @@ Mendelssohnstraße 79
 ## Gallery
 
 <!-- gallery:standard -->
-![Hirschfeld, David, Lilly und Hildegard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_mendelssohnstr_79_hirschfeld_david.jpg)
+![Hirschfeld, David, Lilly und Hildegard](../../images/stolpersteine/52f75016403b_stolperst_mendelssohnstr_79_hirschfeld_david.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Feuerbachstraße 14*
 
-![Stolperstein Cohen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/feuerbachstr_14.jpg)
+![Stolperstein Cohen, Sophie](../../images/stolpersteine/7c68ed515794_feuerbachstr_14.jpg)
 
 Sophie Cohen war die Tochter des Malers Eduard Hermann (1838-1910) und von
 
@@ -472,7 +472,7 @@ Feuerbachstraße 14
 ## Gallery
 
 <!-- gallery:standard -->
-![Cohen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_feuerbachstr_14_cohen_sophie.jpg)
+![Cohen, Sophie](../../images/stolpersteine/93ca3588cc28_stolperst_feuerbachstr_14_cohen_sophie.jpg)
 
 ## Links
 

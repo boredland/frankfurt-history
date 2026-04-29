@@ -12,7 +12,7 @@ filters:
 
 *Fürstenbergerstraße 166*
 
-![Stolperstein Werner, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/fuerstenbergstr_166.jpg)
+![Stolperstein Werner, Moritz](../../images/stolpersteine/c02226083340_fuerstenbergstr_166.jpg)
 
 Moritz Werner wurde in Frankfurt geboren, sein Vater
 
@@ -583,12 +583,12 @@ Fürstenbergerstraße 166
 ## Gallery
 
 <!-- gallery:standard -->
-![Werner, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fuerstenbergerstr_166_werner_moritz_1.jpg)
-![Werner, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fuerstenbergerstr_166_werner_moritz_2.jpg)
-![Werner, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fuerstenbergerstr_166_werner_moritz_3.jpg)
-![Werner, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fuerstenbergerstr_166_werner_moritz_4.jpg)
-![Werner, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fuerstenbergerstr_166_werner_moritz_5.jpg)
-![Werner, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_fuerstenbergstr_166_werner_moritz.jpg)
+![Werner, Moritz](../../images/stolpersteine/46c5d1120830_fuerstenbergerstr_166_werner_moritz_1.jpg)
+![Werner, Moritz](../../images/stolpersteine/9acfe7cd09f6_fuerstenbergerstr_166_werner_moritz_2.jpg)
+![Werner, Moritz](../../images/stolpersteine/6428ce40db69_fuerstenbergerstr_166_werner_moritz_3.jpg)
+![Werner, Moritz](../../images/stolpersteine/ee59c579110b_fuerstenbergerstr_166_werner_moritz_4.jpg)
+![Werner, Moritz](../../images/stolpersteine/7cc468b87bd3_fuerstenbergerstr_166_werner_moritz_5.jpg)
+![Werner, Moritz](../../images/stolpersteine/d8cf87563da2_stolperst_fuerstenbergstr_166_werner_moritz.jpg)
 
 ## Links
 

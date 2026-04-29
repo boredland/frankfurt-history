@@ -11,7 +11,7 @@ filters:
 
 *Corneliusstraße 9*
 
-![Stolperstein Hohenemser, Emil W.](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/corneliusstr_9.jpg)
+![Stolperstein Hohenemser, Emil W.](../../images/stolpersteine/ab3db16d49ac_corneliusstr_9.jpg)
 
 Emil W. Hohenemser wurde in Frankfurt am Main geboren als Sohn von
 
@@ -466,7 +466,7 @@ Corneliusstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Hohenemser, Emil W.](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_corneliusstrasse_9_hohenemser_emil_w.jpg)
+![Hohenemser, Emil W.](../../images/stolpersteine/60a6fbdd516c_stolperst_corneliusstrasse_9_hohenemser_emil_w.jpg)
 
 ## Links
 

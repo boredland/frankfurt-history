@@ -11,7 +11,7 @@ filters:
 
 *Baumweg 41*
 
-![Stolperstein Oppenheimer, Erika und Siegbert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/baumweg_41.jpg)
+![Stolperstein Oppenheimer, Erika und Siegbert](../../images/stolpersteine/4d4f41ce25e1_baumweg_41.jpg)
 
 Max
 
@@ -486,10 +486,10 @@ Baumweg 41
 ## Gallery
 
 <!-- gallery:standard -->
-![Oppenheimer, Erika und Siegbert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/baumweg_41_oppenheimer_zeitungsannonce_aus-new_york.jpg)
-![Oppenheimer, Erika und Siegbert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/baumweg_41_oppenheimer_todesanzeige.jpg)
-![Oppenheimer, Erika und Siegbert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_41_oppenheimer_erika.jpg)
-![Oppenheimer, Erika und Siegbert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_41_oppenheimer_siegbert.jpg)
+![Oppenheimer, Erika und Siegbert](../../images/stolpersteine/45ed05edb959_baumweg_41_oppenheimer_zeitungsannonce_aus-new_york.jpg)
+![Oppenheimer, Erika und Siegbert](../../images/stolpersteine/b636dd06b0a0_baumweg_41_oppenheimer_todesanzeige.jpg)
+![Oppenheimer, Erika und Siegbert](../../images/stolpersteine/73a2e00be32b_stolperst_baumweg_41_oppenheimer_erika.jpg)
+![Oppenheimer, Erika und Siegbert](../../images/stolpersteine/01adf7f5531c_stolperst_baumweg_41_oppenheimer_siegbert.jpg)
 
 ## Links
 

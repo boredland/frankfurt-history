@@ -11,7 +11,7 @@ filters:
 
 *Baumweg 23*
 
-![Stolperstein Bodenheimer, Rebecka, Irma, Georg und Hans sowie Blancke, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/baumweg_23.jpg)
+![Stolperstein Bodenheimer, Rebecka, Irma, Georg und Hans sowie Blancke, Otto](../../images/stolpersteine/9f499e4994c5_baumweg_23.jpg)
 
 Irma Bodenheimer wurde in Heidelberg, ihre Mutter Rebecka Bodenheimer, geb. Spier, in Frankfurt geboren. Der Lebensgefährte von Irma Bodenheimer, Otto Blancke, war aus Hameln und der Sohn von Nathan und Natalie Blancke. Irma Bodenheimer und Otto Blancke hatten die Zwillingssöhne Hans und Georg. Otto Blancke arbeitete während der Woche in einer Bank in Köln und wohnte dort in der Jülicher Straße 9. Vor dem Haus erinnert ein Stolperstein an ihn. Die Familie lebte zunächst in der Dahlmannstraße 17, ab November 1932 in der Würzburger Straße 4, ab Juli 1938 im Baumweg 23, einem „Judenhaus“, in dem rund 30 Personen lebten, die Opfer des Holocaust wurden.
 
@@ -472,11 +472,11 @@ Baumweg 23
 ## Gallery
 
 <!-- gallery:standard -->
-![Bodenheimer, Rebecka, Irma, Georg und Hans sowie Blancke, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_23_bodenheimer_rebekka.jpg)
-![Bodenheimer, Rebecka, Irma, Georg und Hans sowie Blancke, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_23_bodenheimer_irma.jpg)
-![Bodenheimer, Rebecka, Irma, Georg und Hans sowie Blancke, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_23_blancke_otto.jpg)
-![Bodenheimer, Rebecka, Irma, Georg und Hans sowie Blancke, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_23_bodenheimer_georg.jpg)
-![Bodenheimer, Rebecka, Irma, Georg und Hans sowie Blancke, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_23_bodenheimer_hans.jpg)
+![Bodenheimer, Rebecka, Irma, Georg und Hans sowie Blancke, Otto](../../images/stolpersteine/88c81aaf15dd_stolperst_baumweg_23_bodenheimer_rebekka.jpg)
+![Bodenheimer, Rebecka, Irma, Georg und Hans sowie Blancke, Otto](../../images/stolpersteine/c34b271c5a4b_stolperst_baumweg_23_bodenheimer_irma.jpg)
+![Bodenheimer, Rebecka, Irma, Georg und Hans sowie Blancke, Otto](../../images/stolpersteine/fd5f262c801c_stolperst_baumweg_23_blancke_otto.jpg)
+![Bodenheimer, Rebecka, Irma, Georg und Hans sowie Blancke, Otto](../../images/stolpersteine/7de782818881_stolperst_baumweg_23_bodenheimer_georg.jpg)
+![Bodenheimer, Rebecka, Irma, Georg und Hans sowie Blancke, Otto](../../images/stolpersteine/22d5be8ead73_stolperst_baumweg_23_bodenheimer_hans.jpg)
 
 ## Links
 

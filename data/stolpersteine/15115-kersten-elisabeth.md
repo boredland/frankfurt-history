@@ -11,7 +11,7 @@ filters:
 
 *Am Eckenheimer Friedhof 1*
 
-![Stolperstein Kersten, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eckenheim/am_eckenheimer_friedhof_1__400x300.jpg)
+![Stolperstein Kersten, Elisabeth](../../images/stolpersteine/6594ae7f75ce_am_eckenheimer_friedhof_1__400x300.jpg)
 
 Elisabeth Kersten wurde in Frankfurt am Main geboren und ist die Tochter des aus Schleswig stammenden Theodor Kersten (Jg. 1887) und von Henriette, geb. Rumpf, die 1870 in Frankfurt geboren wurde. Der Vater lebte seit 1891 in Frankfurt und hatte eine Buch- und Steindruckerei. 1920 zog die Familie von der Eckenheimer Landstraße 403 nach Am Eckenheimer Friedhof la. Elisabeth war geistig behindert und kam in verschiedene "Heilanstalten". Laut Mitteilung des Standesamtes Erbach ist Elisabeth Kersten am 20.4.1943 in der Landesheilanstalt Hadamar verstorben.
 
@@ -58,7 +58,7 @@ Am Eckenheimer Friedhof 1a
 ## Gallery
 
 <!-- gallery:standard -->
-![Kersten, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eckenheim/stolperst_am_eckenheimer_friedhof_1_kersten_elisabeth__400x400.jpg)
+![Kersten, Elisabeth](../../images/stolpersteine/382c994029ba_stolperst_am_eckenheimer_friedhof_1_kersten_elisabeth__400x4.jpg)
 
 ## Links
 

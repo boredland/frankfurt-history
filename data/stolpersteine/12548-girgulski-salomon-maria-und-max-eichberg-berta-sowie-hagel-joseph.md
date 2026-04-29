@@ -12,7 +12,7 @@ filters:
 
 *Albusstraße 24*
 
-![Stolperstein Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/albusstr_24.jpg)
+![Stolperstein Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](../../images/stolpersteine/ddc8547b2a8f_albusstr_24.jpg)
 
 Salomon
 
@@ -397,13 +397,13 @@ Albusstraße 24
 ## Gallery
 
 <!-- gallery:standard -->
-![Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/albusstr_24_girgulski_max_1.jpg)
-![Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/albusstr_24_girgulski_max_2.jpg)
-![Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_albusstr_24_girgulski_salomon.jpg)
-![Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_albusstr_24_girgulski_maria.jpg)
-![Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_albusstr_24_girgulski_max.jpg)
-![Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_albusstr_24_eichberg_berta.jpg)
-![Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_albusstr_24_hagel_josef.jpg)
+![Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](../../images/stolpersteine/c2f8d8a1f413_albusstr_24_girgulski_max_1.jpg)
+![Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](../../images/stolpersteine/d79a6cac71bc_albusstr_24_girgulski_max_2.jpg)
+![Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](../../images/stolpersteine/60c1bf8bfe49_stolperst_albusstr_24_girgulski_salomon.jpg)
+![Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](../../images/stolpersteine/13aa6938a7dd_stolperst_albusstr_24_girgulski_maria.jpg)
+![Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](../../images/stolpersteine/777f2b1436bb_stolperst_albusstr_24_girgulski_max.jpg)
+![Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](../../images/stolpersteine/4f0ad9e0a221_stolperst_albusstr_24_eichberg_berta.jpg)
+![Girgulski, Salomon, Maria und Max, Eichberg, Berta sowie Hagel, Joseph](../../images/stolpersteine/c9fb34953e8c_stolperst_albusstr_24_hagel_josef.jpg)
 
 ## Links
 

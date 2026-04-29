@@ -11,7 +11,7 @@ filters:
 
 *Reuterweg 73*
 
-![Stolperstein Steigerwald, Minna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/reuterweg_73.jpg)
+![Stolperstein Steigerwald, Minna](../../images/stolpersteine/b37ba286786c_reuterweg_73.jpg)
 
 Minna Steigerwald stammte aus Burghaun und war die Tochter von Hermann und Emma Speier. Sie heiratete den Viehkommissionär Salomon Steigerwald, der zusammen mit seinem Bruder Moritz eine Viehagentur am Schlachthof am Deutschherrenufer in Frankfurt betrieb, in dem auch andere Familienmitglieder beschäftigt waren. Wöchentlich verkaufte das Unternehmen etwa 100 bis 120 Kälber.
 
@@ -450,7 +450,7 @@ Reuterweg 73
 ## Gallery
 
 <!-- gallery:standard -->
-![Steigerwald, Minna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_reuterweg_73_steigerwald_minna.jpg)
+![Steigerwald, Minna](../../images/stolpersteine/f4812b26039f_stolperst_reuterweg_73_steigerwald_minna.jpg)
 
 ## Links
 

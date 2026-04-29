@@ -11,7 +11,7 @@ filters:
 
 *Herderstraße 4*
 
-![Stolperstein Baum, Michael, Frieda, Sigfried, Berta und Theodor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/herderstr_4.jpg)
+![Stolperstein Baum, Michael, Frieda, Sigfried, Berta und Theodor](../../images/stolpersteine/1218ce0cd667_herderstr_4.jpg)
 
 Michael Baum wurde in Fischborn geboren, seine Ehefrau Frieda Baum, geb. Klebe, in Rhina (Kreis Hünfeld). Sie hatten zwei Söhne Sigfried und Theodor und eine Tochter Berta. Die Familie lebte in Fischborn, heute Teil von Birstein im Vogelsberg. Die Eltern von Michael Baum lebten ebenfalls im Haushalt. Michael Baum machte nach der Schule eine Sattlerlehre, betrieb eine eigene Polsterei und eine kleine Landwirtschaft und hatte Grundbesitz in seinem Geburtsort. 1936 musste die Familie nach Frankfurt umziehen und wohnte dann in der Herderstraße 4 II. In Frankfurt war Michel Baum nicht mehr berufstätig.
 
@@ -460,11 +460,11 @@ Herderstraße 4
 ## Gallery
 
 <!-- gallery:standard -->
-![Baum, Michael, Frieda, Sigfried, Berta und Theodor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_herderstr_4_baum_michael.jpg)
-![Baum, Michael, Frieda, Sigfried, Berta und Theodor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_herderstr_4_baum_frieda.jpg)
-![Baum, Michael, Frieda, Sigfried, Berta und Theodor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_herderstr_4_baum_theodor.jpg)
-![Baum, Michael, Frieda, Sigfried, Berta und Theodor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_herderstr_4_baum_sigfried.jpg)
-![Baum, Michael, Frieda, Sigfried, Berta und Theodor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_herderstr_4_baum_berta.jpg)
+![Baum, Michael, Frieda, Sigfried, Berta und Theodor](../../images/stolpersteine/deebcd5834d1_stolperst_herderstr_4_baum_michael.jpg)
+![Baum, Michael, Frieda, Sigfried, Berta und Theodor](../../images/stolpersteine/2fec89c6ef81_stolperst_herderstr_4_baum_frieda.jpg)
+![Baum, Michael, Frieda, Sigfried, Berta und Theodor](../../images/stolpersteine/55d90e551145_stolperst_herderstr_4_baum_theodor.jpg)
+![Baum, Michael, Frieda, Sigfried, Berta und Theodor](../../images/stolpersteine/2dcd88192e17_stolperst_herderstr_4_baum_sigfried.jpg)
+![Baum, Michael, Frieda, Sigfried, Berta und Theodor](../../images/stolpersteine/aa916595213c_stolperst_herderstr_4_baum_berta.jpg)
 
 ## Links
 

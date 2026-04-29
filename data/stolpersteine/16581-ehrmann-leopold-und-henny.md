@@ -11,7 +11,7 @@ filters:
 
 *Röhrborngasse 28*
 
-![Stolperstein Ehrmann, Leopold und Henny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/haus_roehrborngasse_28__400x300.jpg)
+![Stolperstein Ehrmann, Leopold und Henny](../../images/stolpersteine/0c3ff9ab75f8_haus_roehrborngasse_28__400x300.jpg)
 
 Familie Ehrmann vor dem Haus in der Röhrborngasse 28
 
@@ -120,9 +120,9 @@ Röhrborngasse 28
 ## Gallery
 
 <!-- gallery:standard -->
-![Ehrmann, Leopold und Henny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/familie-ehrmann-vor-dem-haus-in-der-roehrborngasse-28.jpg)
-![Ehrmann, Leopold und Henny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/leopold-ehrmann.jpg)
-![Ehrmann, Leopold und Henny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolperstein-ehrmann-leopold.jpg)
+![Ehrmann, Leopold und Henny](../../images/stolpersteine/486c3b094622_familie-ehrmann-vor-dem-haus-in-der-roehrborngasse-28.jpg)
+![Ehrmann, Leopold und Henny](../../images/stolpersteine/4bba64713ef2_leopold-ehrmann.jpg)
+![Ehrmann, Leopold und Henny](../../images/stolpersteine/eb7fec60212d_stolperstein-ehrmann-leopold.jpg)
 
 ## Links
 

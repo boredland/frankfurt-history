@@ -11,7 +11,7 @@ filters:
 
 *Brentanostraße 8*
 
-![Stolperstein Busek, Alice](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/brentanostrasse_8.jpg)
+![Stolperstein Busek, Alice](../../images/stolpersteine/13767543656d_brentanostrasse_8.jpg)
 
 Alice Maria Busek-Una wurde in Frankfurt am Main als
 
@@ -550,8 +550,8 @@ Brentanostraße 8
 ## Gallery
 
 <!-- gallery:standard -->
-![Busek, Alice](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/brentanostrasse_8_busek_alice_haus_bockenheimer_landstrasse_76.jpg)
-![Busek, Alice](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_brentanostrasse_8_busek_alice.jpg)
+![Busek, Alice](../../images/stolpersteine/e51e7f599dfa_brentanostrasse_8_busek_alice_haus_bockenheimer_landstrasse_.jpg)
+![Busek, Alice](../../images/stolpersteine/b4f5e696338f_stolperst_brentanostrasse_8_busek_alice.jpg)
 
 ## Links
 

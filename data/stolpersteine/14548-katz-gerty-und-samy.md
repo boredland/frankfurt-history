@@ -11,7 +11,7 @@ filters:
 
 *Hebelstraße 13*
 
-![Stolperstein Katz, Gerty und Samy](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/hebelstrasse_13_haus.jpg)
+![Stolperstein Katz, Gerty und Samy](../../images/stolpersteine/74755b251c7b_hebelstrasse_13_haus.jpg)
 
 Gerty Katz aus Rimbach/Odenwald war verheiratet mit Seligmann Katz, geboren am 16. September 1878 in Marköbel/Hanau. Der Sohn Samy wurde in Marköbel geboren und war Kaufmännischer Angestellter. Am 8. Oktober 1938 zogen Gerty und Seligmann Katz von Marköbel, Hauptstraße 16, nach Frankfurt, Hebelstraße 13/II. Samy Katz zog von Blumenstraße 4 in die Hebelstraße 13/II. Seligmann Katz starb am 16. Januar 1941 in Frankfurt.
 
@@ -418,7 +418,7 @@ Hebelstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Katz, Gerty und Samy](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-katz-gerty.jpg)
+![Katz, Gerty und Samy](../../images/stolpersteine/eceb2e68ab82_stolperstein-katz-gerty.jpg)
 
 ## Links
 

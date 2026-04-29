@@ -11,7 +11,7 @@ filters:
 
 *Mainberg 13*
 
-![Stolperstein Hainebach, Emma und Lehmann, Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/3mainberg_13.jpg)
+![Stolperstein Hainebach, Emma und Lehmann, Emil](../../images/stolpersteine/f8a365a694b8_3mainberg_13.jpg)
 
 Emil Lehmann wurde in Frankfurt geboren. Seine Mutter war Dolce Lehmann, sein Vater, der Kaufmann Isaac Lehmann, verstarb sehr früh. In Colmar (Elsaß) legte Emil Lehmann im Juni 1894 ein erstes juristisches Staatsexamen ab, unmittelbar darauf, im Juli 1894 promovierte er an der Universität Jena. Bereits einen Monat später war er Referendar am Amtsgericht Usingen. 1896 wechselte er zur Ausbildung an das Landgericht Limburg und danach an die Staatsanwaltschaft Frankfurt. 1898 übernahm er Vertretungen verschiedener Rechtsanwälte, 1899 folgte dann das zweite juristische Staatsexamen.
 
@@ -156,7 +156,7 @@ Mainberg 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Hainebach, Emma und Lehmann, Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperstein_mainberg_13_hainebach_emma.jpg)
+![Hainebach, Emma und Lehmann, Emil](../../images/stolpersteine/2a05edc35f6d_stolperstein_mainberg_13_hainebach_emma.jpg)
 
 ## Links
 

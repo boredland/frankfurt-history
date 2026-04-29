@@ -11,7 +11,7 @@ filters:
 
 *Große Seestraße 11*
 
-![Stolperstein Roth, Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/gebaeude-grosse-seestrasse-11.jpg)
+![Stolperstein Roth, Salomon](../../images/stolpersteine/e9226b1e8cd7_gebaeude-grosse-seestrasse-11.jpg)
 
 Salomon Roth wurde
 
@@ -178,7 +178,7 @@ Große Seestraße 11
 ## Gallery
 
 <!-- gallery:standard -->
-![Roth, Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperstein-grosse-seestrasse-12-salomon-roth.jpg)
+![Roth, Salomon](../../images/stolpersteine/0d26ea0eb539_stolperstein-grosse-seestrasse-12-salomon-roth.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Loënstraße 9*
 
-![Stolperstein Bendheim, Alice und Emmy](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/loenstr_9.jpg)
+![Stolperstein Bendheim, Alice und Emmy](../../images/stolpersteine/45c59a58c2b1_loenstr_9.jpg)
 
 Die Geschwister Alice und Emmy Bendheim wurden in Frankfurt geboren. Alice Bendheim blieb ledig, war Musiklehrerin und unterrichtete zeitweise an der Holzhausenschule. Im April 1940 war sie noch als Lehrerin am Philanthropin tätig. Emmy Bendheim war Angestellte und bezog zuletzt eine Pension von der Metallgesellschaft.
 
@@ -418,8 +418,8 @@ Loenstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Bendheim, Alice und Emmy](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_loenstr_9_bendheim_alice.jpg)
-![Bendheim, Alice und Emmy](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_loenstr_9_bendheim_emmy.jpg)
+![Bendheim, Alice und Emmy](../../images/stolpersteine/3c9c6111bd41_stolperst_loenstr_9_bendheim_alice.jpg)
+![Bendheim, Alice und Emmy](../../images/stolpersteine/d8c047fd3ffb_stolperst_loenstr_9_bendheim_emmy.jpg)
 
 ## Links
 

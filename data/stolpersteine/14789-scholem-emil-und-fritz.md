@@ -11,7 +11,7 @@ filters:
 
 *Myliusstraße 44*
 
-![Stolperstein Scholem, Emil und Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/myliusstrasse-44_1.jpg)
+![Stolperstein Scholem, Emil und Fritz](../../images/stolpersteine/d6605dbd69c0_myliusstrasse-44_1.jpg)
 
 Emil Scholem wurde in Odernheim geboren und war der Sohn von Isaak Scholem und Eva Scholem, geb. Strauss. 1902 heiratete er Hedwig Scholem, geb. Kallmann. Sie hatten einen 1904 oder 1905 zur Welt gekommenen Sohn Fritz. Die Ehefrau starb 1930.
 
@@ -460,8 +460,8 @@ Myliusstraße 44
 ## Gallery
 
 <!-- gallery:standard -->
-![Scholem, Emil und Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_myliusstr_44_scholem_emil.jpg)
-![Scholem, Emil und Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_myliusstr_44_scholem_fritz.jpg)
+![Scholem, Emil und Fritz](../../images/stolpersteine/7e8e1fc3bb43_stolperst_myliusstr_44_scholem_emil.jpg)
+![Scholem, Emil und Fritz](../../images/stolpersteine/43f810051f7b_stolperst_myliusstr_44_scholem_fritz.jpg)
 
 ## Links
 

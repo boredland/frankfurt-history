@@ -11,7 +11,7 @@ filters:
 
 *Nibelungenallee 37-41*
 
-![Stolperstein Igersheimer, Jenny und Josef sowie Kutz, Elisabeth, Rosa und Arthur](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/nibelungenallee_37-41.jpg)
+![Stolperstein Igersheimer, Jenny und Josef sowie Kutz, Elisabeth, Rosa und Arthur](../../images/stolpersteine/939f6f9bce4f_nibelungenallee_37-41.jpg)
 
 Josef Igersheimer wurde als Sohn der in
 
@@ -552,12 +552,12 @@ Nibelungenallee 37-41
 ## Gallery
 
 <!-- gallery:standard -->
-![Igersheimer, Jenny und Josef sowie Kutz, Elisabeth, Rosa und Arthur](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/nibelungenalle_37-41_buergerhospital_1930.jpg)
-![Igersheimer, Jenny und Josef sowie Kutz, Elisabeth, Rosa und Arthur](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_nibelungenallee_37-41_igersheimer_josef.jpg)
-![Igersheimer, Jenny und Josef sowie Kutz, Elisabeth, Rosa und Arthur](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_nibelungenallee_37-41_igersheimer_jenny.jpg)
-![Igersheimer, Jenny und Josef sowie Kutz, Elisabeth, Rosa und Arthur](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_nibelungenallee_37-41_kutz_arthur.jpg)
-![Igersheimer, Jenny und Josef sowie Kutz, Elisabeth, Rosa und Arthur](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_nibelungenallee_37-41_kutz_rosa.jpg)
-![Igersheimer, Jenny und Josef sowie Kutz, Elisabeth, Rosa und Arthur](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_nibelungenallee_37-41_kutz_elisabeth.jpg)
+![Igersheimer, Jenny und Josef sowie Kutz, Elisabeth, Rosa und Arthur](../../images/stolpersteine/88ee3a90b7b8_nibelungenalle_37-41_buergerhospital_1930.jpg)
+![Igersheimer, Jenny und Josef sowie Kutz, Elisabeth, Rosa und Arthur](../../images/stolpersteine/6e00fe798640_stolperst_nibelungenallee_37-41_igersheimer_josef.jpg)
+![Igersheimer, Jenny und Josef sowie Kutz, Elisabeth, Rosa und Arthur](../../images/stolpersteine/49b77c15dab2_stolperst_nibelungenallee_37-41_igersheimer_jenny.jpg)
+![Igersheimer, Jenny und Josef sowie Kutz, Elisabeth, Rosa und Arthur](../../images/stolpersteine/c2ca55da2415_stolperst_nibelungenallee_37-41_kutz_arthur.jpg)
+![Igersheimer, Jenny und Josef sowie Kutz, Elisabeth, Rosa und Arthur](../../images/stolpersteine/f4882208d0b2_stolperst_nibelungenallee_37-41_kutz_rosa.jpg)
+![Igersheimer, Jenny und Josef sowie Kutz, Elisabeth, Rosa und Arthur](../../images/stolpersteine/a530915e0613_stolperst_nibelungenallee_37-41_kutz_elisabeth.jpg)
 
 ## Links
 

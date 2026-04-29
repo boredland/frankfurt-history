@@ -12,7 +12,7 @@ filters:
 
 *Neue Kräme 31*
 
-![Stolperstein Geis, Franziska und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/neue-kraeme-31.jpg)
+![Stolperstein Geis, Franziska und Hermann](../../images/stolpersteine/05bd09a60e8c_neue-kraeme-31.jpg)
 
 Hermann Jakob Geis wurde in Nürnberg geboren. Seine Eltern waren
 
@@ -167,12 +167,12 @@ Neue Kräme 31
 ## Gallery
 
 <!-- gallery:standard -->
-![Geis, Franziska und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/franziska-geis.jpg)
-![Geis, Franziska und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/hermann-geis.jpg)
-![Geis, Franziska und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/hermann-geis-2.jpg)
-![Geis, Franziska und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/martha-geis.jpg)
-![Geis, Franziska und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/stolperstein-neue-kraeme-31-franziska-geis.jpg)
-![Geis, Franziska und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/stolperstein-neue-kraeme-31-hermann-geis.jpg)
+![Geis, Franziska und Hermann](../../images/stolpersteine/18b2acb4f74f_franziska-geis.jpg)
+![Geis, Franziska und Hermann](../../images/stolpersteine/b765f663de59_hermann-geis.jpg)
+![Geis, Franziska und Hermann](../../images/stolpersteine/c03c6fc967a8_hermann-geis-2.jpg)
+![Geis, Franziska und Hermann](../../images/stolpersteine/b3717713e708_martha-geis.jpg)
+![Geis, Franziska und Hermann](../../images/stolpersteine/354b97e2f6ad_stolperstein-neue-kraeme-31-franziska-geis.jpg)
+![Geis, Franziska und Hermann](../../images/stolpersteine/e0a67e223e21_stolperstein-neue-kraeme-31-hermann-geis.jpg)
 
 ## Links
 

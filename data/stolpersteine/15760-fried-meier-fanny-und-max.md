@@ -11,7 +11,7 @@ filters:
 
 *Sandweg 34*
 
-![Stolperstein Fried, Meier, Fanny und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/sandweg-34_1.jpg)
+![Stolperstein Fried, Meier, Fanny und Max](../../images/stolpersteine/b166e9a40841_sandweg-34_1.jpg)
 
 Fanny Fried wurde in Angenrod geboren, und ihr Ehemann, der Schuhmacher Meier Fried, in Großheubach. Sie hatten einen Sohn Max und eine Tochter, der 1937 die Flucht in das US-amerikanische Exil gelang. Die Familie wohnte im Sandweg 34/II. Dort befand sich auch die Schusterwerkstatt, die vom 15.4.1930 bis 15.6.1932 sowie vom 1.4.1934 bis zum 28.12.1938 gewerbesteuerlich gemeldet war. Die Geschäftsaufgabe erfolgte vermutlich zwangsweise nach dem Novemberpogrom 1938.
 
@@ -224,8 +224,8 @@ Sandweg 34
 ## Gallery
 
 <!-- gallery:standard -->
-![Fried, Meier, Fanny und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-fried-fanny.jpg)
-![Fried, Meier, Fanny und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-fried-max.jpg)
+![Fried, Meier, Fanny und Max](../../images/stolpersteine/2dc8bcda15d8_stolperstein-fried-fanny.jpg)
+![Fried, Meier, Fanny und Max](../../images/stolpersteine/12872722fdd3_stolperstein-fried-max.jpg)
 
 ## Links
 

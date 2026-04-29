@@ -12,7 +12,7 @@ filters:
 
 *Reuterweg 57*
 
-![Stolperstein Hanauer, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/reuterweg_57.jpg)
+![Stolperstein Hanauer, Wilhelm](../../images/stolpersteine/aeef33a9be8d_reuterweg_57.jpg)
 
 Wilhelm
 
@@ -531,8 +531,8 @@ Reuterweg 57
 ## Gallery
 
 <!-- gallery:standard -->
-![Hanauer, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/reuterweg_57_hanauer_wilhelm.jpg)
-![Hanauer, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_reuterweg_57_hanauer_dr_wilhelm.jpg)
+![Hanauer, Wilhelm](../../images/stolpersteine/fe91b6147689_reuterweg_57_hanauer_wilhelm.jpg)
+![Hanauer, Wilhelm](../../images/stolpersteine/b710373fce45_stolperst_reuterweg_57_hanauer_dr_wilhelm.jpg)
 
 ## Links
 

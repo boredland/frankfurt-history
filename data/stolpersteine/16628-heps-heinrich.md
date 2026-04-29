@@ -12,7 +12,7 @@ filters:
 
 *Schmidtbornstraße 1*
 
-![Stolperstein Heps, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/schmidtbornstr_1.jpg)
+![Stolperstein Heps, Heinrich](../../images/stolpersteine/7809ed09e4e6_schmidtbornstr_1.jpg)
 
 Heinrich Heps stammte aus einer einfachen
 
@@ -253,9 +253,9 @@ Schmidtbornstraße 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Heps, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/lina-und-heinrich-heps.jpg)
-![Heps, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/mahnmal-fuer-die-nieder-juden-und-widerstandskaempfer-vor-dem-friedhof-nied.jpg)
-![Heps, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/stolperstein-heinrich-heps.jpg)
+![Heps, Heinrich](../../images/stolpersteine/f2ea2d7d276d_lina-und-heinrich-heps.jpg)
+![Heps, Heinrich](../../images/stolpersteine/945e945bd62c_mahnmal-fuer-die-nieder-juden-und-widerstandskaempfer-vor-de.jpg)
+![Heps, Heinrich](../../images/stolpersteine/bdead61f4b09_stolperstein-heinrich-heps.jpg)
 
 ## Links
 

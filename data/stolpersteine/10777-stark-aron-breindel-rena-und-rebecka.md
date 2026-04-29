@@ -11,7 +11,7 @@ filters:
 
 *Uhlandstraße 50*
 
-![Stolperstein Stark, Aron, Breindel Rena und Rebecka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/uhlandstrasse-50_1.jpg)
+![Stolperstein Stark, Aron, Breindel Rena und Rebecka](../../images/stolpersteine/59c4c133838c_uhlandstrasse-50_1.jpg)
 
 Aron Stark wurde in Polen als nichtehelicher Sohn von Rifka Stark geboren. Diese verstarb vor August 1919. Am 13. August 1919 heiratete er in Frankfurt Breindel Rena Schönberg. Er wohnte damals im Wollgraben 11, während seine Schwiegereltern in der Allerheiligenstr. 59 wohnten. Trauzeugen waren Wolf und Jakob Schönberg, geb. 1880 bzw. 1885, wohl die Brüder der Braut. Im Haus Allerheiligenstr. 59 befand sich dann auch die Wohnung der Familie Stark vom August 1919 bis 1932. Aron Stark war als Religionslehrer bei der jüdischen Gemeinde in der Religionsschule Hermesweg 25 - 27 beschäftigt. Dies wurde vom Rabbiner Jakob Hoffmann bezeugt, der diese Aussage gegenüber dem Londoner Anwalt des Sohnes, der im Rahmen des Entschädigungsprozesses eigens nach Frankfurt gereist war, machte. Zusätzlich war Aron Stark auch als Kaufmann tätig, weil in den Adressbüchern als Beruf Kaufmann verzeichnet ist. Er selbst und seine Frau Breindel blieben polnische Staatsbürger.
 
@@ -232,8 +232,8 @@ Uhlandstraße 50
 ## Gallery
 
 <!-- gallery:standard -->
-![Stark, Aron, Breindel Rena und Rebecka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-stark-breindel-rena.jpg)
-![Stark, Aron, Breindel Rena und Rebecka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-stark-rebekka.jpg)
+![Stark, Aron, Breindel Rena und Rebecka](../../images/stolpersteine/b20308ac4443_stolperstein-stark-breindel-rena.jpg)
+![Stark, Aron, Breindel Rena und Rebecka](../../images/stolpersteine/ebae78fc1a3c_stolperstein-stark-rebekka.jpg)
 
 ## Links
 

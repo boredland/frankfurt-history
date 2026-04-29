@@ -12,7 +12,7 @@ filters:
 
 *Mousonstraße 20*
 
-![Stolperstein Friedmann, Amalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/mousonstrasse-20_1.jpg)
+![Stolperstein Friedmann, Amalie](../../images/stolpersteine/4c7e49551970_mousonstrasse-20_1.jpg)
 
 Amalie Friedmann stammt aus dem polnischen Lopusznizia. Seit wann sie in der Gwinnerstraße 20, heute Mousonstraße 20, lebte, ist nicht bekannt. Sie war häufige Kundin in der Milchhandlung Sitzmann in der Waldschmidtstraße 13. Aus der Gwinnerstraße 20 wurden weitere 24 Jüdinnen und Juden deportiert und ermordet.
 

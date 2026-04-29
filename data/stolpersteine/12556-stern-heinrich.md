@@ -11,7 +11,7 @@ filters:
 
 *Alt-Fechenheim 89*
 
-![Stolperstein Stern, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/alt_fechenheim_89__300x400.jpg)
+![Stolperstein Stern, Heinrich](../../images/stolpersteine/9d91f9256646_alt_fechenheim_89__300x400.jpg)
 
 Heinrich Stern wurde in Bischofsheim (heute Maintal) geboren,  wo er mit dem 5 Jahre älteren Bruder Sally aufwächst. Nach Besuch einer Handelsschule in Frankfurt und nach verschiedenen kaufmännischen Tätigkeiten gründet er mit dem Bruder 1908 ein Textilgeschäft unter dem Namen „Gebrüder Stern“ in der Langstraße 89 (heute Alt Fechenheim 89). 1914 heiratet er Else, geb. Strauß; 1919 wird Tochter Edith geboren. 1928 scheidet Heinrich Stern aus dem Unternehmen aus und gründet ein eigenes Geschäft in Alt Fechenheim 81, wohl unter dem Namen „Heinrich Stern“.
 
@@ -72,7 +72,7 @@ Alt-Fechenheim 89
 ## Gallery
 
 <!-- gallery:standard -->
-![Stern, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/stolperst_alt_fechenheim_89_stern_heinrich__400x400.jpg)
+![Stern, Heinrich](../../images/stolpersteine/021b3690a3d6_stolperst_alt_fechenheim_89_stern_heinrich__400x400.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Schloßstraße 120*
 
-![Stolperstein Breslau, Klara, Lore und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/schlossstrasse_120_haus.jpg)
+![Stolperstein Breslau, Klara, Lore und Paul](../../images/stolpersteine/df33166ff077_schlossstrasse_120_haus.jpg)
 
 Paul Breslau bis 1903 bei seinen Eltern Moritz Breslau und Nelly Breslau, geb. Stern, in der Schloßstraße. 46. Nach einem Aufenthalt in Berlin bis 1918 kehrte er zu seiner Mutter zurück. Er übte den Beruf eines Kaufmannes (Handelsvertreter) in der Textilbranche aus. Sein Betrieb wurde am 30.9.1938 eingestellt und am 12.11.1938 abgemeldet.
 

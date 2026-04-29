@@ -11,7 +11,7 @@ filters:
 
 *Töplitzstraße 1*
 
-![Stolperstein Stern, Alfred Siegfried, Antonie und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/toeplitzst_1.jpg)
+![Stolperstein Stern, Alfred Siegfried, Antonie und Ilse](../../images/stolpersteine/4af5d8c27f90_toeplitzst_1.jpg)
 
 Alfred Siegfried Stern und
 
@@ -230,9 +230,9 @@ Töplitzstraße 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Stern, Alfred Siegfried, Antonie und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_toeplitzstr_1_stern_alfred_siegfried.jpg)
-![Stern, Alfred Siegfried, Antonie und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_toeplitzstr_1_stern_antonie.jpg)
-![Stern, Alfred Siegfried, Antonie und Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_toeplitzstr_1_stern_ilse.jpg)
+![Stern, Alfred Siegfried, Antonie und Ilse](../../images/stolpersteine/b312d8f27dbf_stolperst_toeplitzstr_1_stern_alfred_siegfried.jpg)
+![Stern, Alfred Siegfried, Antonie und Ilse](../../images/stolpersteine/23f4e395d784_stolperst_toeplitzstr_1_stern_antonie.jpg)
+![Stern, Alfred Siegfried, Antonie und Ilse](../../images/stolpersteine/f7a413f9b0e2_stolperst_toeplitzstr_1_stern_ilse.jpg)
 
 ## Links
 

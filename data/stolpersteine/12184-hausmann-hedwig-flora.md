@@ -11,7 +11,7 @@ filters:
 
 *Mainzer Landstraße 36*
 
-![Stolperstein Hausmann, Hedwig Flora](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/mainzer_landstr_36.jpg)
+![Stolperstein Hausmann, Hedwig Flora](../../images/stolpersteine/99fe61d3e863_mainzer_landstr_36.jpg)
 
 Hausmann, Hedwig (rechts)
 
@@ -458,8 +458,8 @@ Mainzer Landstraße 36
 ## Gallery
 
 <!-- gallery:standard -->
-![Hausmann, Hedwig Flora](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hausmann-hedwig.jpg)
-![Hausmann, Hedwig Flora](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_mainzer_landstr_36_hausmann_hedwig.jpg)
+![Hausmann, Hedwig Flora](../../images/stolpersteine/6a6f788b31ee_hausmann-hedwig.jpg)
+![Hausmann, Hedwig Flora](../../images/stolpersteine/bb9a58a8a0d1_stolperst_mainzer_landstr_36_hausmann_hedwig.jpg)
 
 ## Links
 

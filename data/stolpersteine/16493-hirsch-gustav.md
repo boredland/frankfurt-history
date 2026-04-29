@@ -11,7 +11,7 @@ filters:
 
 *Neuhaußstraße 27*
 
-![Stolperstein Hirsch, Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/neuhaussstr_27.jpg)
+![Stolperstein Hirsch, Gustav](../../images/stolpersteine/b4140d463dc4_neuhaussstr_27.jpg)
 
 Gustav Hirsch kam in Bürgel bei Offenbach als Sohn von Israel Hirsch und Augusta Hirsch, geb. Grünebaum, zur Welt. Seine Ehefrau Jenny Stein war am 10.01.1886 in Dausenau an der Lahn geboren. Mit ihr hatte er einen Sohn, Kurt Heinz, und eine Tochter, Auguste Irma, später verheiratete Bing.
 
@@ -400,7 +400,7 @@ Neuhaußstraße 27
 ## Gallery
 
 <!-- gallery:standard -->
-![Hirsch, Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-hirsch-gustav.jpg)
+![Hirsch, Gustav](../../images/stolpersteine/24d41292e7cb_stolperstein-hirsch-gustav.jpg)
 
 ## Links
 

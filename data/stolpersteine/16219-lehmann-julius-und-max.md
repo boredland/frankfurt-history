@@ -11,7 +11,7 @@ filters:
 
 *Gustav-Behringer-Straße 10*
 
-![Stolperstein Lehmann, Julius und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/standorte/gustav-behringer-strasse-10_1.jpg)
+![Stolperstein Lehmann, Julius und Max](../../images/stolpersteine/8e02518e6be4_gustav-behringer-strasse-10_1.jpg)
 
 Julius Lehmann, vorne liegend
 
@@ -90,11 +90,11 @@ Gustav-Behringer-Straße 10
 ## Gallery
 
 <!-- gallery:standard -->
-![Lehmann, Julius und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/julius-lehmann-vorne-liegend.jpg)
-![Lehmann, Julius und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/julius-lehmann-vorne-links.jpg)
-![Lehmann, Julius und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/lehmann-julius-ganz-links.jpg)
-![Lehmann, Julius und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/werner-bonzo-beresheim-erich-hodick-und-jule-lehmann.jpg)
-![Lehmann, Julius und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/stolperst_gustav-behringer-str_10_lehmann_julius.jpg)
+![Lehmann, Julius und Max](../../images/stolpersteine/4d26e0e4b985_julius-lehmann-vorne-liegend.jpg)
+![Lehmann, Julius und Max](../../images/stolpersteine/97667e5b5bb1_julius-lehmann-vorne-links.jpg)
+![Lehmann, Julius und Max](../../images/stolpersteine/eeb677415a02_lehmann-julius-ganz-links.jpg)
+![Lehmann, Julius und Max](../../images/stolpersteine/249acbe3c60c_werner-bonzo-beresheim-erich-hodick-und-jule-lehmann.jpg)
+![Lehmann, Julius und Max](../../images/stolpersteine/32ba1000758b_stolperst_gustav-behringer-str_10_lehmann_julius.jpg)
 
 ## Links
 

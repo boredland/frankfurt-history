@@ -12,7 +12,7 @@ filters:
 
 *Neuhaußstraße 9*
 
-![Stolperstein Sternau, Jonathan und Tana](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/neuhaussstr_9.jpg)
+![Stolperstein Sternau, Jonathan und Tana](../../images/stolpersteine/123bab134a85_neuhaussstr_9.jpg)
 
 Jonathan Wilhelm Sternau wurde in Frankfurt am Main geboren und war
 
@@ -439,8 +439,8 @@ Neuhaußstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Sternau, Jonathan und Tana](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_neuhaussstr_9_sternau_jonathan.jpg)
-![Sternau, Jonathan und Tana](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_neuhaussstr_9_sternau_tana.jpg)
+![Sternau, Jonathan und Tana](../../images/stolpersteine/0b7ce2990a30_stolperst_neuhaussstr_9_sternau_jonathan.jpg)
+![Sternau, Jonathan und Tana](../../images/stolpersteine/d53814b96659_stolperst_neuhaussstr_9_sternau_tana.jpg)
 
 ## Links
 

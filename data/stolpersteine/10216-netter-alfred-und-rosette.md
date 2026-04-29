@@ -11,7 +11,7 @@ filters:
 
 *Freiherr-vom-Stein-Straße 26*
 
-![Stolperstein Netter, Alfred und Rosette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/freiherr-vom-stein-strasse-26_1.jpg)
+![Stolperstein Netter, Alfred und Rosette](../../images/stolpersteine/a72913d2bb66_freiherr-vom-stein-strasse-26_1.jpg)
 
 Alfred Netter wurde in Frankfurt als fünftes Kind von Zacharias und Minna Netter, geb. Levi, geboren. Der Vater Zacharias Netter, geb. am 27. Dezember 1826, stammte aus Bergheim im Elsass und war 1866 nach Frankfurt gezogen. Unter seinem Namen wurde als Berufsbezeichnung "Commis“, also Handlungsgehilfe oder kaufmännischer Angestellter, auf dem Melderegisterbogen eingetragen, wie auch später bei allen vier Söhnen. Minna Netter wurde am 4. Januar 1837 in Gelnhausen geboren. Zuerst wohnte Zacharias Netter in der Allerheiligenstraße 14, ab 1868 in der Heiligkreuzgasse 15 und bezog bis 1896 noch weitere 14 Mietwohnungen. 1865 kam das erste Kind Gustav auf die Welt, es folgten Siegfried 1866, Rosette 1868, Moritz 1870 und 1872 Alfred.
 
@@ -474,7 +474,7 @@ Freiherr-vom-Stein-Straße 26
 ## Gallery
 
 <!-- gallery:standard -->
-![Netter, Alfred und Rosette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_freiherr_vom_stein_str_26_netter_alfred.jpg)
+![Netter, Alfred und Rosette](../../images/stolpersteine/c1b4532513c8_stolperst_freiherr_vom_stein_str_26_netter_alfred.jpg)
 
 ## Links
 

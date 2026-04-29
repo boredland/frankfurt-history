@@ -11,7 +11,7 @@ filters:
 
 *Kleebergstraße 3*
 
-![Stolperstein Maier, Max, Hermann, Mathilde und Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/kleebergstr_3.jpg)
+![Stolperstein Maier, Max, Hermann, Mathilde und Margarethe](../../images/stolpersteine/e07f92143ada_kleebergstr_3.jpg)
 
 Max und Mathilde Maier
 
@@ -554,17 +554,17 @@ Kleebergstraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Maier, Max, Hermann, Mathilde und Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kleebergstr_3_maier_max_hermann_5.jpg)
-![Maier, Max, Hermann, Mathilde und Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kleebergstr_3_maier_margarethe_2.jpg)
-![Maier, Max, Hermann, Mathilde und Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kleebergstr_3_maier_max_hermann_1.jpg)
-![Maier, Max, Hermann, Mathilde und Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kleebergstr_3_maier_max_hermann_2.jpg)
-![Maier, Max, Hermann, Mathilde und Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kleebergstr_3_maier_max_hermann_3.jpg)
-![Maier, Max, Hermann, Mathilde und Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kleebergstr_3_maier_max_hermann_4.jpg)
-![Maier, Max, Hermann, Mathilde und Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kleebergstr_3_maier_mathilde.jpg)
-![Maier, Max, Hermann, Mathilde und Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kleebergstr_3_maier_margarethe_1.jpg)
-![Maier, Max, Hermann, Mathilde und Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_kleebergstr_3_maier_max_hermann.jpg)
-![Maier, Max, Hermann, Mathilde und Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_kleebergstr_3_maier_mathilde.jpg)
-![Maier, Max, Hermann, Mathilde und Margarethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_kleebergstr_3_maier_margarethe.jpg)
+![Maier, Max, Hermann, Mathilde und Margarethe](../../images/stolpersteine/e3407483243b_kleebergstr_3_maier_max_hermann_5.jpg)
+![Maier, Max, Hermann, Mathilde und Margarethe](../../images/stolpersteine/19633ec89c55_kleebergstr_3_maier_margarethe_2.jpg)
+![Maier, Max, Hermann, Mathilde und Margarethe](../../images/stolpersteine/6d5dff56d248_kleebergstr_3_maier_max_hermann_1.jpg)
+![Maier, Max, Hermann, Mathilde und Margarethe](../../images/stolpersteine/e5d69b5fe29f_kleebergstr_3_maier_max_hermann_2.jpg)
+![Maier, Max, Hermann, Mathilde und Margarethe](../../images/stolpersteine/8c3f1cc3ce96_kleebergstr_3_maier_max_hermann_3.jpg)
+![Maier, Max, Hermann, Mathilde und Margarethe](../../images/stolpersteine/c8468670a922_kleebergstr_3_maier_max_hermann_4.jpg)
+![Maier, Max, Hermann, Mathilde und Margarethe](../../images/stolpersteine/cc48a12c0f69_kleebergstr_3_maier_mathilde.jpg)
+![Maier, Max, Hermann, Mathilde und Margarethe](../../images/stolpersteine/ac37a65a4b42_kleebergstr_3_maier_margarethe_1.jpg)
+![Maier, Max, Hermann, Mathilde und Margarethe](../../images/stolpersteine/a6188807a2fe_stolperst_kleebergstr_3_maier_max_hermann.jpg)
+![Maier, Max, Hermann, Mathilde und Margarethe](../../images/stolpersteine/14855f3f1b17_stolperst_kleebergstr_3_maier_mathilde.jpg)
+![Maier, Max, Hermann, Mathilde und Margarethe](../../images/stolpersteine/859c5f9af814_stolperst_kleebergstr_3_maier_margarethe.jpg)
 
 ## Links
 

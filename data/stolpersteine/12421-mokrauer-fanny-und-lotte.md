@@ -11,7 +11,7 @@ filters:
 
 *Silberbornstraße 9*
 
-![Stolperstein Mokrauer, Fanny und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/silberbornstr_9.jpg)
+![Stolperstein Mokrauer, Fanny und Lotte](../../images/stolpersteine/043765d48d6c_silberbornstr_9.jpg)
 
 Fanny Mokrauer stammte aus Breslau und hatte sieben Geschwister. Ihre Tochter Lotte wurde in Neustadt/Oberschlesien geboren. Lotte Mokrauer war seit 15.4.1928 in der Frankfurter Wolfsgangstr. 70 gemeldet. Am 27.12.1929 zog sie von dort zu ihrer Mutter in die Silberbornstr. 9. Ab 1937 folgte ein Wohnungswechsel nach dem anderen: am 7.10.1937 in die Eschersheimer Landstr. 357, am 7.3.1939 in die Böhmerstr. 5 bei Ross, 1940 in die Leerbachstr. 113 bei Bachrach. Ihre Tochter sei „meine alleinige Ernährerin" schrieb sie an eine Behördenstelle. Der letzte Umzug folgte am 12.9.1941 in den Grüneburgweg 118 zu Dr. Richard Löwenthal, der sich am 8.2.1942 das Leben nahm.
 
@@ -114,8 +114,8 @@ Silberbornstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Mokrauer, Fanny und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperstein_silberbornstr_9_mokrauer_fanny.jpg)
-![Mokrauer, Fanny und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperstein_silberbornstr_9_mokrauer_lotte.jpg)
+![Mokrauer, Fanny und Lotte](../../images/stolpersteine/2762b53baaa8_stolperstein_silberbornstr_9_mokrauer_fanny.jpg)
+![Mokrauer, Fanny und Lotte](../../images/stolpersteine/ebbc1d349153_stolperstein_silberbornstr_9_mokrauer_lotte.jpg)
 
 ## Links
 

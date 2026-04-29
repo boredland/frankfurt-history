@@ -11,7 +11,7 @@ filters:
 
 *Eppsteiner Straße 5*
 
-![Stolperstein Cahn, Leopold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/eppsteiner-strasse-5_1.jpg)
+![Stolperstein Cahn, Leopold](../../images/stolpersteine/a0a66536279b_eppsteiner-strasse-5_1.jpg)
 
 Der Kaufmann Leopold Cahn stammte aus München und war mit der nichtjüdischen Frieda, geb. Pfeiffer, verheiratet, die 1942 starb. Ihr Sohn Ernst wurde 1920 geboren. Nach nationalsozialistischer Definition handelte es sich um eine "Mischehe“. Leopold Cahn hatte zwei Brüder. An beide - Dr. Robert Cahn und Benedikt Cahn - und ihre Familien erinnern Stolpersteine in der Rosseggerstr. 17 und Eschersheimer Landstraße 10.  Seit 1903 war Leopold Cahn als Prokurist bei der Frankfurter "Privat-Telefon-Gesellschaft mbH“ (PRITEG) angestellt, wo er bis 10. Januar 1939 tätig war. Verfolgungsbeding musste er ab 1935 Gehaltskürzungen hinnehmen verkraften.
 
@@ -454,7 +454,7 @@ Eppsteiner Straße 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Cahn, Leopold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/_cahn_leopold__400x400.jpg)
+![Cahn, Leopold](../../images/stolpersteine/d28e51b521fa__cahn_leopold__400x400.jpg)
 
 ## Links
 

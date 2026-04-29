@@ -11,7 +11,7 @@ filters:
 
 *Am Berger Spielhaus 5*
 
-![Stolperstein Hahn, Emma und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/am_berger_spielhaus_5_haus_.jpg)
+![Stolperstein Hahn, Emma und Hermann](../../images/stolpersteine/4dcb63c1d23d_am_berger_spielhaus_5_haus_.jpg)
 
 Hermann Hahn wurde in Bergen (heute: Frankfurter Stadtteil Bergen-Enkheim) geboren. Er war der Sohn von Leopold Hahn und Malchen, geb. Ehrmann, und mit der in Büdingen geborenen Emma Hahn, geb. Rosenberg, verheiratet. Ihrem Sohn gelang 1939 die Flucht mit einem Kindertransport, zunächst das britische, 1941 das US-amerikanische Exil. Hermann Hahn betrieb ab 1927 in Bergen in der Rathhausgasse 5 ein Geschäft für Fette und Felle, ab 1933 eine Mineralwasserhandlung. Im Zuge des November-Pogroms von 1938 wurde ihre Wohnung demoliert.
 

@@ -11,7 +11,7 @@ filters:
 
 *Mittelweg 10*
 
-![Stolperstein Meier, Hermine und Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/mittelweg_10_haus1.jpg)
+![Stolperstein Meier, Hermine und Josef](../../images/stolpersteine/553de8d1636c_mittelweg_10_haus1.jpg)
 
 Hermine Meier aus Geinsheim und ihr Ehemann Josef Meier wohnten von 1913 bis 04.09.1939 im Mittelweg 8/III., zogen dann in den Mittelweg 12. Josef Meier trat am 1. April 1891 eine Ausbildung bei der „Deutschen Effecten- und Wechselbank“ in Frankfurt als Bankkaufmann an und arbeitete dort bis 1921 als Angestellter. Ab Mai 1928 war er erneut bei dieser Bank tätig, zuletzt als Abteilungsdirektor. Er verlor am 1. Juli 1938 verfolgungsbedingt seinen Arbeitsplatz und wurde zwangsweise in den Ruhestand versetzt.
 

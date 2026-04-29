@@ -11,7 +11,7 @@ filters:
 
 *Falkensteiner Straße 1*
 
-![Stolperstein Simon, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/falkensteiner_strasse_1__300x400.jpg)
+![Stolperstein Simon, Julius](../../images/stolpersteine/918532553bf1_falkensteiner_strasse_1__300x400.jpg)
 
 Julius Simon im Juni 1942
 
@@ -412,13 +412,13 @@ Falkensteiner Straße 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Simon, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/julius-simon-im-juni-1942.jpg)
-![Simon, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/julius-simon-mit-tochter-aviva-und-frau-caroline-in-venedig.jpg)
-![Simon, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/simon-aviva.jpg)
-![Simon, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/julius-simon-in-jungen-jahren.jpg)
-![Simon, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/julius-simon-mit-familie.jpg)
-![Simon, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/julius-simon-mit-kind-yve-mark-danny-und-ehefrau-caroline.jpg)
-![Simon, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-simon-julius.jpg)
+![Simon, Julius](../../images/stolpersteine/a8c90f8c0ba6_julius-simon-im-juni-1942.jpg)
+![Simon, Julius](../../images/stolpersteine/aa0e39f35f97_julius-simon-mit-tochter-aviva-und-frau-caroline-in-venedig..jpg)
+![Simon, Julius](../../images/stolpersteine/3c23061b5c76_simon-aviva.jpg)
+![Simon, Julius](../../images/stolpersteine/91f2392b613d_julius-simon-in-jungen-jahren.jpg)
+![Simon, Julius](../../images/stolpersteine/727002732b6b_julius-simon-mit-familie.jpg)
+![Simon, Julius](../../images/stolpersteine/486ea9364baf_julius-simon-mit-kind-yve-mark-danny-und-ehefrau-caroline.jp.jpg)
+![Simon, Julius](../../images/stolpersteine/b55e6510aaac_stolperstein-simon-julius.jpg)
 
 ## Links
 

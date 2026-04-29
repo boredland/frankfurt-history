@@ -11,7 +11,7 @@ filters:
 
 *Danneckerstraße 20*
 
-![Stolperstein Hesse, Kurt Josef, Meta und Käthe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/danneckerstrasse-20_1.jpg)
+![Stolperstein Hesse, Kurt Josef, Meta und Käthe](../../images/stolpersteine/c0616d0f5ce5_danneckerstrasse-20_1.jpg)
 
 Kurt Josef Hesse wurde in Quedlinburg, seine Frau Meta, geb. Petzal, in Jastrow/ Westpreußen, geboren. Die Tochter Käthe Elise kam 1921 in Plau in Mecklenburg zur Welt. 1924 zog die Familie nach Hamburg, wo der Vater als Nahrungsmittelchemiker arbeitete. Dort wurde Käthe 1928 eingeschult. 1931 kam die Familie nach Frankfurt, wo Kurt Josef Hesse in der Gartenstraße 93 ein Lebensmittelchemie-Labor betrieb. Die Familie wohnte in der Danneckerstraße 20.  Zunächst ging Käthe in die vierte Klasse der Schwanthalerschule, zu Ostern 1932 wechselte sie in die Sexta der Schillerschule. Im November 1932 wurde sie bereits wieder von der Schillerschule abgemeldet. Über ihren Werdegang bis Mitte 1933 gibt es unterschiedliche Angaben.
 
@@ -182,9 +182,9 @@ Danneckerstraße 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Hesse, Kurt Josef, Meta und Käthe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/hesse-kurt.jpg)
-![Hesse, Kurt Josef, Meta und Käthe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_danneckerstr_20_hesse_kurt_josef.jpg)
-![Hesse, Kurt Josef, Meta und Käthe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_danneckerstr_20_hesse_kaethe.jpg)
+![Hesse, Kurt Josef, Meta und Käthe](../../images/stolpersteine/3c1abc1e1568_hesse-kurt.jpg)
+![Hesse, Kurt Josef, Meta und Käthe](../../images/stolpersteine/d7e8ed067c2d_stolperst_danneckerstr_20_hesse_kurt_josef.jpg)
+![Hesse, Kurt Josef, Meta und Käthe](../../images/stolpersteine/5bd7c3ecb57b_stolperst_danneckerstr_20_hesse_kaethe.jpg)
 
 ## Links
 

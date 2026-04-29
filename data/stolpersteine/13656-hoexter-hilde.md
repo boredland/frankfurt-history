@@ -11,7 +11,7 @@ filters:
 
 *Gräfstraße 49*
 
-![Stolperstein Höxter, Hilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/graefstrasse_49.jpg)
+![Stolperstein Höxter, Hilde](../../images/stolpersteine/bcd13a59b815_graefstrasse_49.jpg)
 
 Hilde Höxter wurde
 
@@ -146,7 +146,7 @@ Gräfstraße 49
 ## Gallery
 
 <!-- gallery:standard -->
-![Höxter, Hilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperstein-graefstrasse-49-hilde-hoexter.jpg)
+![Höxter, Hilde](../../images/stolpersteine/e90a7d7e13bc_stolperstein-graefstrasse-49-hilde-hoexter.jpg)
 
 ## Links
 

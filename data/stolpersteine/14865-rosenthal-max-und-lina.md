@@ -11,7 +11,7 @@ filters:
 
 *Rechneigrabenstraße 18-20*
 
-![Stolperstein Rosenthal, Max und Lina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/rechneigrabenstr_18-20.jpg)
+![Stolperstein Rosenthal, Max und Lina](../../images/stolpersteine/4b70ee973604_rechneigrabenstr_18-20.jpg)
 
 Max Rosenthal wurde in Gemünden/Westerburg, Lina Rosenthal in Daisbach/Untertaunuskreis geboren. Lina Rosenthal lebte mit ihren Eltern und Geschwistern bis zu ihrer Verheiratung in Frankfurt. Sie verlor früh ihre Mutter. Ihr Vater Adolf Ehrenfeld heiratete in zweiter Ehe Sophie, geb. Stern. Die Familie Ehrenfeld zog um 1900 von Daisbach nach Frankfurt, zunächst in die Herderstraße, kurze Zeit später in die Niddastraße. Lina Ehrenfeld hatte fünf Brüder: Sally (Jg. 1890) aus Adolf Ehrenfelds erster Ehe, Alex (Jg. 1896), Hugo (Jg. 1898), Emil (Jg. 1899) und Kurt (Jg. 1904). An Emil Ehrenfeld erinnert ein Stolperstein in der Kelsterbacher Straße 8.
 
@@ -178,10 +178,10 @@ Rechneigrabenstraße 18-20
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenthal, Max und Lina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/rechneigrabenstr_18-20_postkarte_1.jpg)
-![Rosenthal, Max und Lina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/rechneigrabenstr_18-20_postkarte_2.jpg)
-![Rosenthal, Max und Lina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_rechneigrabenstr_18-20_rosenthal_max.jpg)
-![Rosenthal, Max und Lina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_rechneigrabenstr_18-20_rosenthal_lina.jpg)
+![Rosenthal, Max und Lina](../../images/stolpersteine/c7422c603fca_rechneigrabenstr_18-20_postkarte_1.jpg)
+![Rosenthal, Max und Lina](../../images/stolpersteine/f1b7e8953c7c_rechneigrabenstr_18-20_postkarte_2.jpg)
+![Rosenthal, Max und Lina](../../images/stolpersteine/de5e8f2c012e_stolperst_rechneigrabenstr_18-20_rosenthal_max.jpg)
+![Rosenthal, Max und Lina](../../images/stolpersteine/fc2ea260315d_stolperst_rechneigrabenstr_18-20_rosenthal_lina.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Oberlindau 65*
 
-![Stolperstein Eisenstein, Ilse, Inge und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/oberlindau-65_1.jpg)
+![Stolperstein Eisenstein, Ilse, Inge und Ruth](../../images/stolpersteine/7a49cc5f2611_oberlindau-65_1.jpg)
 
 Ilse Eisenstein aus Göttingen war mit dem 25 Jahre älteren Fabrikanten und Kaufmann Gustav Eisenstein verheiratet, der am 16.3.1934 starb. Die Familie hatte Eigentumsanteile in der Bühlerstr. 28a und im Nikolausberger Weg in Göttingen sowie in der Wildenbruchstr. 14/Ecke Wildenbruchplatz 1-2 in Berlin.
 
@@ -494,9 +494,9 @@ Oberlindau 65
 ## Gallery
 
 <!-- gallery:standard -->
-![Eisenstein, Ilse, Inge und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/kennkarte-else-eisenstein.jpg)
-![Eisenstein, Ilse, Inge und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/kennkarte-ruth-eisenstein.jpg)
-![Eisenstein, Ilse, Inge und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/kennkarte-inge-eisenstein.jpg)
+![Eisenstein, Ilse, Inge und Ruth](../../images/stolpersteine/07f5231790b9_kennkarte-else-eisenstein.jpg)
+![Eisenstein, Ilse, Inge und Ruth](../../images/stolpersteine/3063f8987598_kennkarte-ruth-eisenstein.jpg)
+![Eisenstein, Ilse, Inge und Ruth](../../images/stolpersteine/6dbe81f3216d_kennkarte-inge-eisenstein.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Savignystraße 76*
 
-![Stolperstein Landauer, Karl, Karoline, Eva, Suse und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/savignystrasse-76_1.jpg)
+![Stolperstein Landauer, Karl, Karoline, Eva, Suse und Paul](../../images/stolpersteine/2e19aa90a505_savignystrasse-76_1.jpg)
 
 Karl Landauer wurde in München geboren. Er stammte aus einer alt eingesessenen jüdischen Bankiersfamilie, seine Eltern waren Isidor Landauer und Peppi, genannte Josefine, geb. Guggenheimer. Am 17. Januar 1917 heiratete er die aus Gemmingen in Baden stammende Karoline, genannt Lins, geb. Kahn. Auch ihre Eltern, der Handelsmann Moses Kahn und Regine, geb, Odenheimer, waren jüdisch. Karl und Lins Landauer hatten zwei Töchter und einen Sohn: Eva (Jg.1917), Suse (1923) und Paul Joachim (1926).
 
@@ -528,8 +528,8 @@ Savignystraße 76
 ## Gallery
 
 <!-- gallery:standard -->
-![Landauer, Karl, Karoline, Eva, Suse und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_savignystrasse_76_landauer_karl.jpg)
-![Landauer, Karl, Karoline, Eva, Suse und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperstsavignystrasse76landauerpaul20joachim.jpg)
+![Landauer, Karl, Karoline, Eva, Suse und Paul](../../images/stolpersteine/4786f66b0f75_stolperst_savignystrasse_76_landauer_karl.jpg)
+![Landauer, Karl, Karoline, Eva, Suse und Paul](../../images/stolpersteine/5ec3199d5522_stolperstsavignystrasse76landauerpaul20joachim.jpg)
 
 ## Links
 

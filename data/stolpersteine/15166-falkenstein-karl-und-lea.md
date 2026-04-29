@@ -11,7 +11,7 @@ filters:
 
 *Beethovenstraße 11*
 
-![Stolperstein Falkenstein, Karl und Lea](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/beethovenstrasse_11.jpg)
+![Stolperstein Falkenstein, Karl und Lea](../../images/stolpersteine/7a70b73e970c_beethovenstrasse_11.jpg)
 
 Karl Falkenstein wurde in Frankfurt am Main, Lea
 
@@ -604,12 +604,12 @@ Beethovenstraße 11
 ## Gallery
 
 <!-- gallery:standard -->
-![Falkenstein, Karl und Lea](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/beethovenstrasse_11_falkenstein_lea_und_karl_mit_tochter_betty_1929.jpg)
-![Falkenstein, Karl und Lea](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/beethovenstrasse_11_-brief_vom_3-8-1942_1.jpg)
-![Falkenstein, Karl und Lea](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/beethovenstrasse_11_-brief_vom_3-8-1942_2.jpg)
-![Falkenstein, Karl und Lea](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/beethovenstr_11_-karl_falkenstein_todesanzeige.jpg)
-![Falkenstein, Karl und Lea](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_beethovenstrasse_11_falkenstein_lea.jpg)
-![Falkenstein, Karl und Lea](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_beethovenstrasse_1_falkenstein_karl.jpg)
+![Falkenstein, Karl und Lea](../../images/stolpersteine/9a53d285d32c_beethovenstrasse_11_falkenstein_lea_und_karl_mit_tochter_bet.jpg)
+![Falkenstein, Karl und Lea](../../images/stolpersteine/4e52827c6f37_beethovenstrasse_11_-brief_vom_3-8-1942_1.jpg)
+![Falkenstein, Karl und Lea](../../images/stolpersteine/aee44c9be5ae_beethovenstrasse_11_-brief_vom_3-8-1942_2.jpg)
+![Falkenstein, Karl und Lea](../../images/stolpersteine/67c966f2346c_beethovenstr_11_-karl_falkenstein_todesanzeige.jpg)
+![Falkenstein, Karl und Lea](../../images/stolpersteine/e516fc6c9ca2_stolperst_beethovenstrasse_11_falkenstein_lea.jpg)
+![Falkenstein, Karl und Lea](../../images/stolpersteine/10fee6122158_stolperst_beethovenstrasse_1_falkenstein_karl.jpg)
 
 ## Links
 

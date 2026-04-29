@@ -11,7 +11,7 @@ filters:
 
 *Hansaallee 32*
 
-![Stolperstein Cohnstädt, Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/hansaallee_32.jpg)
+![Stolperstein Cohnstädt, Ruth](../../images/stolpersteine/e319c6ed5323_hansaallee_32.jpg)
 
 Ruth Cohnstädt
 
@@ -486,8 +486,8 @@ Hansaallee 32
 ## Gallery
 
 <!-- gallery:standard -->
-![Cohnstädt, Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hansaallee_32_ruth_cohnstaedt.jpg)
-![Cohnstädt, Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_hansaallee_32_cohnstaedt_ruth.jpg)
+![Cohnstädt, Ruth](../../images/stolpersteine/788df400b7a3_hansaallee_32_ruth_cohnstaedt.jpg)
+![Cohnstädt, Ruth](../../images/stolpersteine/fb5e56921190_stolperst_hansaallee_32_cohnstaedt_ruth.jpg)
 
 ## Links
 

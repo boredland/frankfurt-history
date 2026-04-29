@@ -11,7 +11,7 @@ filters:
 
 *Goldsteinstraße 47*
 
-![Stolperstein Schabinger, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/goldsteinstr_47.jpg)
+![Stolperstein Schabinger, Ludwig](../../images/stolpersteine/739c7f6884a2_goldsteinstr_47.jpg)
 
 Ludwig Schabinger wurde
 
@@ -200,7 +200,7 @@ Goldsteinstraße 47
 ## Gallery
 
 <!-- gallery:standard -->
-![Schabinger, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_goldsteinstr_47_schabinger_ludwig.jpg)
+![Schabinger, Ludwig](../../images/stolpersteine/99d27892cdb1_stolperst_goldsteinstr_47_schabinger_ludwig.jpg)
 
 ## Links
 

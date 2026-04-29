@@ -12,7 +12,7 @@ filters:
 
 *Baumweg 20*
 
-![Stolperstein Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/baumweg_20.jpg)
+![Stolperstein Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](../../images/stolpersteine/96541746355f_baumweg_20.jpg)
 
 Die 1. Damen-Elf des T.S.V. „Schild“ Frankfurt (Gretel u. Lotte Sichel, 4. und 3. v. rechts)
 
@@ -597,14 +597,14 @@ Baumweg 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/baumweg_20_sichel_gretel_und_lotte.jpg)
-![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_20_sichel_gustav.jpg)
-![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_20_sichel_helene.jpg)
-![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_20_sichel_hans_jakob.jpg)
-![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_20_sichel_elli_emilie.jpg)
-![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_20_sichel_alice_rosa.jpg)
-![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_20_sichel_gretel_zilli.jpg)
-![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_20_sichel_lotte.jpg)
+![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](../../images/stolpersteine/9ed70c1fd99b_baumweg_20_sichel_gretel_und_lotte.jpg)
+![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](../../images/stolpersteine/33ca853f0e74_stolperst_baumweg_20_sichel_gustav.jpg)
+![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](../../images/stolpersteine/486a0dd2018e_stolperst_baumweg_20_sichel_helene.jpg)
+![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](../../images/stolpersteine/29c97710384f_stolperst_baumweg_20_sichel_hans_jakob.jpg)
+![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](../../images/stolpersteine/d954f8bae805_stolperst_baumweg_20_sichel_elli_emilie.jpg)
+![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](../../images/stolpersteine/3e58ce7a2a17_stolperst_baumweg_20_sichel_alice_rosa.jpg)
+![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](../../images/stolpersteine/4bfdcd658e22_stolperst_baumweg_20_sichel_gretel_zilli.jpg)
+![Sichel, Gustaf, Helene, Hans, Elli, Alice, Gretel und Lotte](../../images/stolpersteine/5c601bde7100_stolperst_baumweg_20_sichel_lotte.jpg)
 
 ## Links
 

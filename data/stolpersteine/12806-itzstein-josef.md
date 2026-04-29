@@ -11,7 +11,7 @@ filters:
 
 *Goldsteinstraße 77*
 
-![Stolperstein Itzstein, Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/goldsteinstr_77.jpg)
+![Stolperstein Itzstein, Josef](../../images/stolpersteine/7305abde2b39_goldsteinstr_77.jpg)
 
 Josef Itzstein wurde
 
@@ -174,8 +174,8 @@ Goldsteinstraße 77
 ## Gallery
 
 <!-- gallery:standard -->
-![Itzstein, Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/goldsteinstr_77_itzstein_josef.jpg)
-![Itzstein, Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_goldsteinstr_77_itzstein_josef.jpg)
+![Itzstein, Josef](../../images/stolpersteine/792f08e89ecb_goldsteinstr_77_itzstein_josef.jpg)
+![Itzstein, Josef](../../images/stolpersteine/8ac42ed41ae7_stolperst_goldsteinstr_77_itzstein_josef.jpg)
 
 ## Links
 

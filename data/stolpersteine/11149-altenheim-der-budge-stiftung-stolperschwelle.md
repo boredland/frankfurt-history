@@ -11,7 +11,7 @@ filters:
 
 *Hansaallee 146a*
 
-![Stolperstein Altenheim der Budge-Stiftung (Stolperschwelle)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/hansaallee_146a.jpg)
+![Stolperstein Altenheim der Budge-Stiftung (Stolperschwelle)](../../images/stolpersteine/ffef5bd4557b_hansaallee_146a.jpg)
 
 HIER
 
@@ -506,7 +506,7 @@ Hansaallee 146a
 ## Gallery
 
 <!-- gallery:standard -->
-![Altenheim der Budge-Stiftung (Stolperschwelle)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperschwelle_hansaallee_146a_budgeheim.jpg)
+![Altenheim der Budge-Stiftung (Stolperschwelle)](../../images/stolpersteine/96481bde46cd_stolperschwelle_hansaallee_146a_budgeheim.jpg)
 
 ## Links
 

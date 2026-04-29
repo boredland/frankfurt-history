@@ -11,7 +11,7 @@ filters:
 
 *Gärtnerweg 47*
 
-![Stolperstein Edelmuth, Adele](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/gaertnerweg-47_1.jpg)
+![Stolperstein Edelmuth, Adele](../../images/stolpersteine/0af5d5369055_gaertnerweg-47_1.jpg)
 
 Adele Edelmuth, geb. Mayer wurde in Frankfurt am Main geboren. Sie war die Schwester des Kaufmannes und Bücherrevisors Michael Mayer (Jg. 1872). Die Witwe hatte zwei Söhne und zwei Töchter, die bereits vor dem Zweiten Weltkrieg nach Israel, in Frankreich, USA flüchteten. Sie war Eigentümerin eines Anwesens im Gärtnerweg 47, das 1941 verfolgungsbedingt verkauft werden musste: Sie musste eine "Judenvermögensabgabe" in Höhe von 17.024 Reichsmark entrichten und wurde zum Abschluss eines "Heimeinkaufvertrags" in Höhe von 5.458,73 Reichsmark gezwungen. Den Unterzeichneten solcher Verträge wurde vorgegaukelt, damit ihren Lebensabend in einem Altersheim in Theresienstadt zu finanzieren.
 
@@ -448,7 +448,7 @@ Gärtnerweg 47
 ## Gallery
 
 <!-- gallery:standard -->
-![Edelmuth, Adele](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/_edelmuth_adele__400x400.jpg)
+![Edelmuth, Adele](../../images/stolpersteine/7f2457149af0__edelmuth_adele__400x400.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Waldfriedstraße 17*
 
-![Stolperstein Gans, Ludwig von](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/waldfriedstr_17.jpg)
+![Stolperstein Gans, Ludwig von](../../images/stolpersteine/4e05e4f046d8_waldfriedstr_17.jpg)
 
 Ludwig von Gans wurde in Frankfurt geboren. Seine Eltern waren Fritz von Gans und Auguste, geb. Ettling. Er hatte zwei ältere Geschwister: Adela (Jg. 1863) und Paul (Jg. 1866). Ludwigs Vater Fritz von Gans hatte sechs Geschwister, darunter Leo Gans, Begründer der Cassella, und Pauline Gans. Pauline Gans heiratete Bernhard Weinberg. Sie war die Mutter von Arthur (geb. 1860) und Carl (geb.1861) von Weinberg. Arthur und Carl von Weinberg traten in den späten 1870er Jahren in die von ihrem Onkel Leo Gans gegründete Teerfarbenfabrik Cassella ein.
 
@@ -138,8 +138,8 @@ Waldfriedstraße 17
 ## Gallery
 
 <!-- gallery:standard -->
-![Gans, Ludwig von](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/waldfriedstr_17_ludwig_von_gans.jpg)
-![Gans, Ludwig von](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_waldfriedstr_17_von-gans_ludwig.jpg)
+![Gans, Ludwig von](../../images/stolpersteine/cae5226ded3f_waldfriedstr_17_ludwig_von_gans.jpg)
+![Gans, Ludwig von](../../images/stolpersteine/42343f1a4e1d_stolperst_waldfriedstr_17_von-gans_ludwig.jpg)
 
 ## Links
 

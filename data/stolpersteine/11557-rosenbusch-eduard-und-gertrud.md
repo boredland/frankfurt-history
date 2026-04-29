@@ -11,7 +11,7 @@ filters:
 
 *Schumannstraße 51*
 
-![Stolperstein Rosenbusch, Eduard und Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/schumannstrasse-51_1.jpg)
+![Stolperstein Rosenbusch, Eduard und Gertrud](../../images/stolpersteine/e469fbb453ef_schumannstrasse-51_1.jpg)
 
 Eduard Rosenbusch wurde in Nürnberg geboren. Er war von Beruf Bankier und verheiratet mit Gertrud Rosenbusch, die aus Worms stammte. Das Ehepaar hatte zwei Söhne, Hans Rosenbusch, geboren am 5. Juli1912, und Max Rosenbusch, geboren am 8. September 1904. Max Rosenbusch gelang die Flucht in das spanische Exil, Hans Rosenbusch entkam in die USA und lebte in NewYork.
 
@@ -458,8 +458,8 @@ Schumannstraße 51
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenbusch, Eduard und Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstr_51_rosenbusch_gertrut.jpg)
-![Rosenbusch, Eduard und Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstr_51_rosenbusch_eduard.jpg)
+![Rosenbusch, Eduard und Gertrud](../../images/stolpersteine/0bb322055f8b_stolperst_schumannstr_51_rosenbusch_gertrut.jpg)
+![Rosenbusch, Eduard und Gertrud](../../images/stolpersteine/57a0e85dc35d_stolperst_schumannstr_51_rosenbusch_eduard.jpg)
 
 ## Links
 

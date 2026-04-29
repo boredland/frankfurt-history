@@ -11,7 +11,7 @@ filters:
 
 *Thomestraße 3*
 
-![Stolperstein Weinreiter, Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sossenheim/standorte/thomestr_3.jpg)
+![Stolperstein Weinreiter, Josef](../../images/stolpersteine/51cd040925cc_thomestr_3.jpg)
 
 Josef Weinreiter wurde als Sohn des Metalldrehers Leonhard Weinreiter
 
@@ -108,7 +108,7 @@ Thomestraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Weinreiter, Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sossenheim/stolperst_thomestr_3_weinreiter_josef.jpg)
+![Weinreiter, Josef](../../images/stolpersteine/6f5df99abfa9_stolperst_thomestr_3_weinreiter_josef.jpg)
 
 ## Links
 

@@ -12,7 +12,7 @@ filters:
 
 *Elsheimerstraße 11*
 
-![Stolperstein Knoblauch, Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/elsheimerstr_11.jpg)
+![Stolperstein Knoblauch, Hedwig](../../images/stolpersteine/e166b03b6495_elsheimerstr_11.jpg)
 
 Hedwig Knoblauch stammte aus
 
@@ -495,7 +495,7 @@ Elsheimerstraße 11
 ## Gallery
 
 <!-- gallery:standard -->
-![Knoblauch, Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_elsheimerstr_11_knoblauch_hedwig.jpg)
+![Knoblauch, Hedwig](../../images/stolpersteine/e3880bc56325_stolperst_elsheimerstr_11_knoblauch_hedwig.jpg)
 
 ## Links
 

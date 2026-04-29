@@ -11,7 +11,7 @@ filters:
 
 *Mörfelder Landstraße 362*
 
-![Stolperstein Blüthenthal, Paul, Dr.](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/moerfelder_landstr_362.jpg)
+![Stolperstein Blüthenthal, Paul, Dr.](../../images/stolpersteine/9ac1d7f602f6_moerfelder_landstr_362.jpg)
 
 Dr. Paul Blüthenthal
 
@@ -260,10 +260,10 @@ Mörfelder Landstraße 362 (Stadion)
 ## Gallery
 
 <!-- gallery:standard -->
-![Blüthenthal, Paul, Dr.](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/moerfelder_landstr_362_paul_bluethenthal_2.jpg)
-![Blüthenthal, Paul, Dr.](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/moerfelder_landstr_362_paul_bluethenthal_1.jpg)
-![Blüthenthal, Paul, Dr.](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/moerfelder_landstr_362_paul_bluethenthal_3.jpg)
-![Blüthenthal, Paul, Dr.](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_moerfelder_landstr_362_bluethental_dr_paul.jpg)
+![Blüthenthal, Paul, Dr.](../../images/stolpersteine/7c0b54128f02_moerfelder_landstr_362_paul_bluethenthal_2.jpg)
+![Blüthenthal, Paul, Dr.](../../images/stolpersteine/64e4b8534042_moerfelder_landstr_362_paul_bluethenthal_1.jpg)
+![Blüthenthal, Paul, Dr.](../../images/stolpersteine/bdf59beb98c8_moerfelder_landstr_362_paul_bluethenthal_3.jpg)
+![Blüthenthal, Paul, Dr.](../../images/stolpersteine/6535233405f3_stolperst_moerfelder_landstr_362_bluethental_dr_paul.jpg)
 
 ## Links
 

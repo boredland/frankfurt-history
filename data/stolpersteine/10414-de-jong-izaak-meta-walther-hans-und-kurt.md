@@ -11,7 +11,7 @@ filters:
 
 *Königswarterstraße 13*
 
-![Stolperstein de Jong, Izaak, Meta, Walther, Hans und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/koenigswarterstr_13.jpg)
+![Stolperstein de Jong, Izaak, Meta, Walther, Hans und Kurt](../../images/stolpersteine/c46f3a90024f_koenigswarterstr_13.jpg)
 
 Izaak de Jong wurde in Millingen in Holland geboren, lebte seit 1913 in Deutschland und seit etwa 1921 in Frankfurt am Main, seine Ehefrau Meta de Jong, geb. Neuhaus, wurde in Nesselröden geboren. Sie hatten drei Söhne Hans, Walter und Kurt. Die Kinder besuchten die Jüdische Volksschule im Röderbergweg. Die Familie lebte im Sandweg 30 und in der Quinckestraße 13 (heute Königswarter Straße 13).
 
@@ -284,11 +284,11 @@ Königswarterstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![de Jong, Izaak, Meta, Walther, Hans und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_koenigswarterstr_13_de-jong_izaak.jpg)
-![de Jong, Izaak, Meta, Walther, Hans und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_koenigswarterstr_13_de-jong_meta.jpg)
-![de Jong, Izaak, Meta, Walther, Hans und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_koenigswarterstr_13_de-jong_walther.jpg)
-![de Jong, Izaak, Meta, Walther, Hans und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_koenigswarterstr_13_de-jong_kurt.jpg)
-![de Jong, Izaak, Meta, Walther, Hans und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_koenigswarterstr_13_de-jong_hans.jpg)
+![de Jong, Izaak, Meta, Walther, Hans und Kurt](../../images/stolpersteine/954720b75604_stolperst_koenigswarterstr_13_de-jong_izaak.jpg)
+![de Jong, Izaak, Meta, Walther, Hans und Kurt](../../images/stolpersteine/8f94036a18e1_stolperst_koenigswarterstr_13_de-jong_meta.jpg)
+![de Jong, Izaak, Meta, Walther, Hans und Kurt](../../images/stolpersteine/9ab23354cf75_stolperst_koenigswarterstr_13_de-jong_walther.jpg)
+![de Jong, Izaak, Meta, Walther, Hans und Kurt](../../images/stolpersteine/0523d53f2c3e_stolperst_koenigswarterstr_13_de-jong_kurt.jpg)
+![de Jong, Izaak, Meta, Walther, Hans und Kurt](../../images/stolpersteine/3ab6b58aaea1_stolperst_koenigswarterstr_13_de-jong_hans.jpg)
 
 ## Links
 

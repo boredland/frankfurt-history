@@ -11,7 +11,7 @@ filters:
 
 *Am Rödelheimer Wehr 4*
 
-![Stolperstein Meier, Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/am_roedelheimer_wehr_4_neu.jpg)
+![Stolperstein Meier, Hermann](../../images/stolpersteine/ab30143a08d5_am_roedelheimer_wehr_4_neu.jpg)
 
 Hermann Christian Meier wurde am 25. Dezember 1902 in Frankfurt am Main geboren und evangelisch getauft.  Er arbeitete als Schlosser.
 
@@ -98,7 +98,7 @@ Am Rödelheimer Wehr 4
 ## Gallery
 
 <!-- gallery:standard -->
-![Meier, Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/stolperst_am_roedelheimer_wehr_4_meier_herrmann_neu.jpg)
+![Meier, Hermann](../../images/stolpersteine/805a629d45a6_stolperst_am_roedelheimer_wehr_4_meier_herrmann_neu.jpg)
 
 ## Links
 

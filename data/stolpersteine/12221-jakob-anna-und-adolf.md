@@ -11,7 +11,7 @@ filters:
 
 *Mithrasstraße 5*
 
-![Stolperstein Jakob, Anna und Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/mitrasstrasse_5__300x400.jpg)
+![Stolperstein Jakob, Anna und Adolf](../../images/stolpersteine/c7f99d16fd65_mitrasstrasse_5__300x400.jpg)
 
 Anna Jakob wurde in Bergzabern geboren, der Kaufmann Adolf Jakob in Brücken im Saarland. Sie heirateten 1909 in Landau, lebten zunächst in Neunkirchen, später in Bergzabern, ab 16. Februar 1920 in Frankfurt. Sie hatten eine 1901 in Neunkirchen im Saarland geborene Tochter Henriette und einen 1903 in Weißenburg im Elsaß geborenen Sohn Heinrich, die nach dem Zweiten Weltkrieg in Frankreich beziehungsweise in Mexiko lebten.
 
@@ -116,8 +116,8 @@ Mithrasstraße 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Jakob, Anna und Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/jakob-anna.jpg)
-![Jakob, Anna und Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/jakob-adolf.jpg)
+![Jakob, Anna und Adolf](../../images/stolpersteine/b4f7c218266f_jakob-anna.jpg)
+![Jakob, Anna und Adolf](../../images/stolpersteine/5135527c970a_jakob-adolf.jpg)
 
 ## Links
 

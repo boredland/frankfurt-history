@@ -11,7 +11,7 @@ filters:
 
 *Unterweg 22*
 
-![Stolperstein Speyer, Edmund und Saly](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/unterweg_22.jpg)
+![Stolperstein Speyer, Edmund und Saly](../../images/stolpersteine/bb1140744649_unterweg_22.jpg)
 
 Die Brüder Edmund und Saly Salomon Speyer wurden in Frankfurt am Main geboren. Ihre Eltern waren der Kaufmann Moses Speyer und Karoline Speyer, geb. Levy. Beide blieben ledig und wohnten jahrelang gemeinsam im eigenen Haus im Unterweg 20/I.
 
@@ -408,7 +408,7 @@ Unterweg 22
 ## Gallery
 
 <!-- gallery:standard -->
-![Speyer, Edmund und Saly](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-speyer-edmund.jpg)
+![Speyer, Edmund und Saly](../../images/stolpersteine/3f5836c9f4f4_stolperstein-speyer-edmund.jpg)
 
 ## Links
 

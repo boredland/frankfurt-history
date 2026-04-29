@@ -11,7 +11,7 @@ filters:
 
 *Königsteiner Straße 83*
 
-![Stolperstein Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/standorte/koenigsteiner-strasse-83_1.jpg)
+![Stolperstein Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette](../../images/stolpersteine/de82d29b2497_koenigsteiner-strasse-83_1.jpg)
 
 Tochter Ruth (rechts) mit Ilse Neustädter (zweite von links)
 
@@ -130,12 +130,12 @@ Königsteiner Straße 83
 ## Gallery
 
 <!-- gallery:standard -->
-![Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/opferbilder/tochter-ruth-rechts-mit-ilse-neustaedter-zweite-von-links.jpg)
-![Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/neustaedter_ilse.jpg)
-![Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/neustaedter_jenny.jpg)
-![Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/neustaedter_siegmund.jpg)
-![Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/neustaedter_ruth.jpg)
-![Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/neustaedter_henriette.jpg)
+![Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette](../../images/stolpersteine/0cc630ddd476_tochter-ruth-rechts-mit-ilse-neustaedter-zweite-von-links.jp.jpg)
+![Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette](../../images/stolpersteine/d6c1c9c6f43b_neustaedter_ilse.jpg)
+![Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette](../../images/stolpersteine/243be0b47f16_neustaedter_jenny.jpg)
+![Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette](../../images/stolpersteine/58551df24896_neustaedter_siegmund.jpg)
+![Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette](../../images/stolpersteine/df1468050cf2_neustaedter_ruth.jpg)
+![Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette](../../images/stolpersteine/1624029a0f4a_neustaedter_henriette.jpg)
 
 ## Links
 

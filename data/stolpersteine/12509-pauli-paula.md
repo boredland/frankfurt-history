@@ -12,7 +12,7 @@ filters:
 
 *Weserstraße 46*
 
-![Stolperstein Pauli, Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/weserstr_46.jpg)
+![Stolperstein Pauli, Paula](../../images/stolpersteine/3b94efc856da_weserstr_46.jpg)
 
 Paula
 
@@ -109,7 +109,7 @@ Weserstraße 46
 ## Gallery
 
 <!-- gallery:standard -->
-![Pauli, Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_weserstr_46_pauli_paula.jpg)
+![Pauli, Paula](../../images/stolpersteine/2006a9e6d7b8_stolperst_weserstr_46_pauli_paula.jpg)
 
 ## Links
 

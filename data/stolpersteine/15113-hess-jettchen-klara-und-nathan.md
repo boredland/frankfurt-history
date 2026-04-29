@@ -11,7 +11,7 @@ filters:
 
 *Am Berger Spielhaus 7*
 
-![Stolperstein Heß, Jettchen, Klara und Nathan](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/am_berger_spielhaus_7_haus__.jpg)
+![Stolperstein Heß, Jettchen, Klara und Nathan](../../images/stolpersteine/2c5efe267262_am_berger_spielhaus_7_haus__.jpg)
 
 Die Geschwister Klara und Nathan Heß wurden in Bergen (heute: Frankfurter Stadtteil Bergen-Enkheim) geboren. Ihre Eltern waren der Handelsmann Bernhard Hess und Auguste, geb. Goldschmidt. Sie hatten zwei weitere Brüder. Nathan Heß war Kaufmann und wohnte zuletzt in der Rathausgasse 7 (heute "Am Berger Spielhaus"). Nathan Heß wurde am 30. Mai 1942 im Alter von 63 Jahren mit einem "Sammeltransport" aus Bergen verschleppt. Wahrscheinlich kam er in einem Konzentrations- oder Vernichtungslager zu Tode.
 

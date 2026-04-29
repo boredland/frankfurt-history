@@ -11,7 +11,7 @@ filters:
 
 *Wiesenau 53*
 
-![Stolperstein Bauer, Ella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/wiesenau-53_1.jpg)
+![Stolperstein Bauer, Ella](../../images/stolpersteine/87efe05641ec_wiesenau-53_1.jpg)
 
 Ella Bauer stammt aus München und war ledig. Sie wohnte in der Wiesenau 53, zuletzt in der Lindenstraße 22/II.
 
@@ -446,7 +446,7 @@ Wiesenau 53
 ## Gallery
 
 <!-- gallery:standard -->
-![Bauer, Ella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_wiesenau_53_bauer_ella__400x400.jpg)
+![Bauer, Ella](../../images/stolpersteine/2c57b36190f4_stolperst_wiesenau_53_bauer_ella__400x400.jpg)
 
 ## Links
 

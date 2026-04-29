@@ -11,7 +11,7 @@ filters:
 
 *Neebstraße 3*
 
-![Stolperstein Breitinger, Anton](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/neebstr_3.jpg)
+![Stolperstein Breitinger, Anton](../../images/stolpersteine/595906b56957_neebstr_3.jpg)
 
 Anton Breitinger war verheiratet mit Franziska, geb. Rötzer, und hatte zwei 1928 und 1930 geborene Kinder. Die Familie wohnte in der Neebstraße 3 in Frankfurt-Bornheim. Von 1934 bis zu seiner Festnahme 1941 arbeitete er als Lackierer bei der Firma Emda in der Hanauer Landstraße, wo elektro-medizinische Apparate hergestellt wurden. Seine politische Heimat hatte er bei der Bornheimer KPD, bei der er schon vor 1933 Unterkassierer und Mitglied der Bezirksbeschwerdekommission gewesen war. Bis Mitte 1934 hat er in einem kleineren Kreis illegal weitergearbeitet, bis erste Verhaftungen den Rückzug aus der Parteiarbeit notwendig machten.
 
@@ -84,7 +84,7 @@ Neebstraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Breitinger, Anton](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperstneebstr3breitingeranton20.jpg)
+![Breitinger, Anton](../../images/stolpersteine/cf52507466dd_stolperstneebstr3breitingeranton20.jpg)
 
 ## Links
 

@@ -12,7 +12,7 @@ filters:
 
 *Kaiserstraße 36*
 
-![Stolperstein Strauß, Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/kaiserstr_36.jpg)
+![Stolperstein Strauß, Josef](../../images/stolpersteine/65b1979cf185_kaiserstr_36.jpg)
 
 Josef Strauß wurde in Heilbronn geboren.
 
@@ -165,8 +165,8 @@ Kaiserstraße 36
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauß, Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/kaiserstr_36_strauss_josef.jpg)
-![Strauß, Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_kaiserstr_36_strauss_josef---kopie.jpg)
+![Strauß, Josef](../../images/stolpersteine/e8d510420508_kaiserstr_36_strauss_josef.jpg)
+![Strauß, Josef](../../images/stolpersteine/6f0d57513f3a_stolperst_kaiserstr_36_strauss_josef---kopie.jpg)
 
 ## Links
 

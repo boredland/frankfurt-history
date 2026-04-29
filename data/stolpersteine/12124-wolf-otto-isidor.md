@@ -11,7 +11,7 @@ filters:
 
 *Kronberger Straße 5*
 
-![Stolperstein Wolf, Otto Isidor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/kronberger-strasse-5_1.jpg)
+![Stolperstein Wolf, Otto Isidor](../../images/stolpersteine/663aa4e1ac8c_kronberger-strasse-5_1.jpg)
 
 Otto Isidor Wolf wurde in Herxheim in der Pfalz geboren. Seine Eltern, Moses und Rosalia Wolf, gründeten 1860 eine Leinen- und Sackweberei, die später ein gut gehendes großes Unternehmen wurde. Sie verkauften diese 1883 an den jüdischen Mitarbeiter Benedikt Engel und zogen von Herxheim weg. Später kam die Familie nach Frankfurt. Otto Wolf war noch sehr jung, als sein Vater starb und er allein mit seiner Mutter Rosalia und seinem jüngeren Bruder lebte. Er erlernte den Beruf eines Goldschmieds.
 
@@ -448,11 +448,11 @@ Kronberger Straße 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Wolf, Otto Isidor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/wolf-otto-4.jpg)
-![Wolf, Otto Isidor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/wolf-otto-3.jpg)
-![Wolf, Otto Isidor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/wolf-otto-2.jpg)
-![Wolf, Otto Isidor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/wolf-otto.jpg)
-![Wolf, Otto Isidor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/wolf_otto_isidor.jpg)
+![Wolf, Otto Isidor](../../images/stolpersteine/0a98b3b8317d_wolf-otto-4.jpg)
+![Wolf, Otto Isidor](../../images/stolpersteine/ae21e0308000_wolf-otto-3.jpg)
+![Wolf, Otto Isidor](../../images/stolpersteine/ac2652088c66_wolf-otto-2.jpg)
+![Wolf, Otto Isidor](../../images/stolpersteine/31eb3636227f_wolf-otto.jpg)
+![Wolf, Otto Isidor](../../images/stolpersteine/45f619de28f1_wolf_otto_isidor.jpg)
 
 ## Links
 

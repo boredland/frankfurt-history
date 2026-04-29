@@ -11,7 +11,7 @@ filters:
 
 *Deutschordenstraße 78*
 
-![Stolperstein Stern, Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/deutschordenstr_78.jpg)
+![Stolperstein Stern, Kurt](../../images/stolpersteine/e54cd206a1f1_deutschordenstr_78.jpg)
 
 Kurt Stern wurde 1892 als Sohn des wohlhabenden Mühlenbesitzers  Oskar Stern und seiner Ehefrau Eugenie, geb. Rosenthal in Breslau geboren. Er war der jüngere Bruder des Physikers und Nobelpreisträgers von 1943 Otto Stern (17.02.1888 - 17.08.1969) und von Berta Kamm, geb. Stern, geboren am 16.10.1889, die nach 1933 wie ihr Bruder Otto Stern in die USA emigrierte.
 
@@ -124,7 +124,7 @@ Deutschordenstraße 78
 ## Gallery
 
 <!-- gallery:standard -->
-![Stern, Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stern_kurt.jpg)
+![Stern, Kurt](../../images/stolpersteine/0e98ad1b859a_stern_kurt.jpg)
 
 ## Links
 

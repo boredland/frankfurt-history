@@ -11,7 +11,7 @@ filters:
 
 *Rückertstraße 51*
 
-![Stolperstein Droller, Bella, David, Gustav, Jenny und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/rueckertstr_51.jpg)
+![Stolperstein Droller, Bella, David, Gustav, Jenny und Max](../../images/stolpersteine/d85061d2090f_rueckertstr_51.jpg)
 
 David Droller wurde in
 
@@ -338,11 +338,11 @@ Rückertstraße 51
 ## Gallery
 
 <!-- gallery:standard -->
-![Droller, Bella, David, Gustav, Jenny und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_rueckertstr_51_droller_david_hirsch.jpg)
-![Droller, Bella, David, Gustav, Jenny und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_rueckertstr_51_droller_jenny.jpg)
-![Droller, Bella, David, Gustav, Jenny und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_rueckertstr_51_droller_bella.jpg)
-![Droller, Bella, David, Gustav, Jenny und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_rueckertstr_51_droller_max_moses.jpg)
-![Droller, Bella, David, Gustav, Jenny und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_rueckertstr_51_droller_gustav_gerson.jpg)
+![Droller, Bella, David, Gustav, Jenny und Max](../../images/stolpersteine/033126965ee6_stolperst_rueckertstr_51_droller_david_hirsch.jpg)
+![Droller, Bella, David, Gustav, Jenny und Max](../../images/stolpersteine/88f6fffb3184_stolperst_rueckertstr_51_droller_jenny.jpg)
+![Droller, Bella, David, Gustav, Jenny und Max](../../images/stolpersteine/c8d9a587f161_stolperst_rueckertstr_51_droller_bella.jpg)
+![Droller, Bella, David, Gustav, Jenny und Max](../../images/stolpersteine/6f19cd825475_stolperst_rueckertstr_51_droller_max_moses.jpg)
+![Droller, Bella, David, Gustav, Jenny und Max](../../images/stolpersteine/ab20c5d1c552_stolperst_rueckertstr_51_droller_gustav_gerson.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Röderbergweg 53*
 
-![Stolperstein Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/roederbergweg_53.jpg)
+![Stolperstein Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/5a14bda9513d_roederbergweg_53.jpg)
 
 David Rosenwald wurde in Sulzbürg (Oberpfalz) geboren,
 
@@ -306,21 +306,21 @@ Röderbergweg 53
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/roederbergweg_53_rosenwald_david.jpg)
-![Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/roederbergweg_53_rosenwald_klara.jpg)
-![Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/roederbergweg_53_rosenwald_ludwig_und_carola_1.jpg)
-![Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/roederbergweg_53_rosenwald_carola.jpg)
-![Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/roederbergweg_53_rosenwald_ludwig.jpg)
-![Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/roederbergweg_53_rosenwald_ludwig_1938_archiv_eva_pankok.jpg)
-![Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/roederbergweg_53_rosenwald_ludwig_selbstportraet.jpg)
-![Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/roederbergweg_53_rosenwald_ludwig_selbstportraet_2.jpg)
-![Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/roederbergweg_53_rosenwald_ludwig_selbstportraet_3.jpg)
-![Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/roederbergweg_53_rosenwald_carola_und_karl_osmer.jpg)
-![Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/roederbergweg_53_rosenwald_fritzi_1934_archiv_eva_pankok.jpg)
-![Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_roederbergweg_53_rosenwald_david.jpg)
-![Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_roederbergweg_53_rosenwald_klara.jpg)
-![Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_roederbergweg_53_rosenwald_ludwig.jpg)
-![Rosenwald, Carola, David, Klara und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_roederbergweg_53_rosenwald_carola.jpg)
+![Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/645d8a9ea0ce_roederbergweg_53_rosenwald_david.jpg)
+![Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/cb8adbf42247_roederbergweg_53_rosenwald_klara.jpg)
+![Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/79ac399a68aa_roederbergweg_53_rosenwald_ludwig_und_carola_1.jpg)
+![Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/3946017f3d68_roederbergweg_53_rosenwald_carola.jpg)
+![Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/941082806c76_roederbergweg_53_rosenwald_ludwig.jpg)
+![Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/9a304cd63203_roederbergweg_53_rosenwald_ludwig_1938_archiv_eva_pankok.jpg)
+![Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/c1b6d076c2a2_roederbergweg_53_rosenwald_ludwig_selbstportraet.jpg)
+![Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/32b290eb3f5e_roederbergweg_53_rosenwald_ludwig_selbstportraet_2.jpg)
+![Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/4331ea048f73_roederbergweg_53_rosenwald_ludwig_selbstportraet_3.jpg)
+![Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/33874e7d34cc_roederbergweg_53_rosenwald_carola_und_karl_osmer.jpg)
+![Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/d340ac7db3fb_roederbergweg_53_rosenwald_fritzi_1934_archiv_eva_pankok.jpg)
+![Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/004df2963d78_stolperst_roederbergweg_53_rosenwald_david.jpg)
+![Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/35cbabbc32aa_stolperst_roederbergweg_53_rosenwald_klara.jpg)
+![Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/0a8cee0eb669_stolperst_roederbergweg_53_rosenwald_ludwig.jpg)
+![Rosenwald, Carola, David, Klara und Ludwig](../../images/stolpersteine/9310427d8b59_stolperst_roederbergweg_53_rosenwald_carola.jpg)
 
 ## Links
 

@@ -12,7 +12,7 @@ filters:
 
 *Reuterweg 63*
 
-![Stolperstein Ehrenfeld, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/reuterweg_63.jpg)
+![Stolperstein Ehrenfeld, Sophie](../../images/stolpersteine/50b708dc2b4e_reuterweg_63.jpg)
 
 Sophie Ehrenfeld, geb. Stern, wurde 1872 in Neuhof (Fulda) als
 
@@ -523,8 +523,8 @@ Reuterweg 63
 ## Gallery
 
 <!-- gallery:standard -->
-![Ehrenfeld, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/reuterweg_63_ehrenfeld_sophie.jpg)
-![Ehrenfeld, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_reuterweg_63_ehrenfeld_sophie.jpg)
+![Ehrenfeld, Sophie](../../images/stolpersteine/3a186700f2e3_reuterweg_63_ehrenfeld_sophie.jpg)
+![Ehrenfeld, Sophie](../../images/stolpersteine/0ec96eb43ee1_stolperst_reuterweg_63_ehrenfeld_sophie.jpg)
 
 ## Links
 

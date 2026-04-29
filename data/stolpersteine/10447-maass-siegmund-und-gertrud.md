@@ -11,7 +11,7 @@ filters:
 
 *Leipziger Straße 34*
 
-![Stolperstein Maaß, Siegmund und Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/standort/leipziger_strasse_34.jpg)
+![Stolperstein Maaß, Siegmund und Gertrud](../../images/stolpersteine/dabe96d0c779_leipziger_strasse_34.jpg)
 
 Siegmund
 
@@ -198,8 +198,8 @@ Leipziger Straße 34
 ## Gallery
 
 <!-- gallery:standard -->
-![Maaß, Siegmund und Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_leipziger_strasse_34_maass_siegmund.jpg)
-![Maaß, Siegmund und Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_leipziger_strasse_34_maas_gertrud.jpg)
+![Maaß, Siegmund und Gertrud](../../images/stolpersteine/1aa767536826_stolperst_leipziger_strasse_34_maass_siegmund.jpg)
+![Maaß, Siegmund und Gertrud](../../images/stolpersteine/14a2d0949550_stolperst_leipziger_strasse_34_maas_gertrud.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Koselstraße 49*
 
-![Stolperstein Traub, Hermann und Betti und Samuel Fleischmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/koselstrasse_49.jpg)
+![Stolperstein Traub, Hermann und Betti und Samuel Fleischmann](../../images/stolpersteine/f74443234efc_koselstrasse_49.jpg)
 
 Hermann Traub wurde in Schwebheim geboren; Seine Eltern waren der Viehhändler Isaak Traub und Sara Traub, geb. Fleischmann. Betti Traub, geb. Stern, wurde in Windecken geboren und war die Tochter des Kaufmanns Moses Stern und Therese Stern, geb. Neuhof. Hermann und Betti Traub heirateten 1903 und hatten eine 1907 in Frankfurt zur Welt gekommene Tochter namens Herta Sophie.
 
@@ -432,8 +432,8 @@ Koselstraße 49
 ## Gallery
 
 <!-- gallery:standard -->
-![Traub, Hermann und Betti und Samuel Fleischmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-traub-betti.jpg)
-![Traub, Hermann und Betti und Samuel Fleischmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-fleischmann-samuel.jpg)
+![Traub, Hermann und Betti und Samuel Fleischmann](../../images/stolpersteine/6510f470d157_stolperstein-traub-betti.jpg)
+![Traub, Hermann und Betti und Samuel Fleischmann](../../images/stolpersteine/22c9009d3b84_stolperstein-fleischmann-samuel.jpg)
 
 ## Links
 

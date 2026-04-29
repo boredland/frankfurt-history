@@ -11,7 +11,7 @@ filters:
 
 *Hammanstraße 3*
 
-![Stolperstein Wronker, Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/hammanstr_3.jpg)
+![Stolperstein Wronker, Johanna](../../images/stolpersteine/200b610ca47b_hammanstr_3.jpg)
 
 Johanna Wronker wurde in Mannheim als Tochter des Großkaufmannes Simon
 
@@ -426,7 +426,7 @@ Hammanstraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Wronker, Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_hammanstr_3_wronker_johanna.jpg)
+![Wronker, Johanna](../../images/stolpersteine/3cdf1f228535_stolperst_hammanstr_3_wronker_johanna.jpg)
 
 ## Links
 

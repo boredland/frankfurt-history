@@ -11,7 +11,7 @@ filters:
 
 *Wittelsbacherallee 46*
 
-![Stolperstein Auerbacher, Jacob, Martha und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/wittelsbacher-allee-46_1.jpg)
+![Stolperstein Auerbacher, Jacob, Martha und Alfred](../../images/stolpersteine/5ec5a81319f2_wittelsbacher-allee-46_1.jpg)
 
 Martha und Jacob Auerbacher
 
@@ -240,12 +240,12 @@ Wittelsbacher Allee 46
 ## Gallery
 
 <!-- gallery:standard -->
-![Auerbacher, Jacob, Martha und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/martha-und-jacob-auerbacher.jpg)
-![Auerbacher, Jacob, Martha und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/auerbacher-martha.jpg)
-![Auerbacher, Jacob, Martha und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/auerbacher-jacob-2.jpg)
-![Auerbacher, Jacob, Martha und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/auerbacher-alfred.jpg)
-![Auerbacher, Jacob, Martha und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-auerbacher-jacob.jpg)
-![Auerbacher, Jacob, Martha und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-auerbacher-alfred.jpg)
+![Auerbacher, Jacob, Martha und Alfred](../../images/stolpersteine/18164d36d61a_martha-und-jacob-auerbacher.jpg)
+![Auerbacher, Jacob, Martha und Alfred](../../images/stolpersteine/5f13518dbafd_auerbacher-martha.jpg)
+![Auerbacher, Jacob, Martha und Alfred](../../images/stolpersteine/db6a1b9a249b_auerbacher-jacob-2.jpg)
+![Auerbacher, Jacob, Martha und Alfred](../../images/stolpersteine/45c4e039e7ce_auerbacher-alfred.jpg)
+![Auerbacher, Jacob, Martha und Alfred](../../images/stolpersteine/29c8bf58ae5d_stolperstein-auerbacher-jacob.jpg)
+![Auerbacher, Jacob, Martha und Alfred](../../images/stolpersteine/d5913b453f98_stolperstein-auerbacher-alfred.jpg)
 
 ## Links
 

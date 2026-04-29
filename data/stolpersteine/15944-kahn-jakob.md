@@ -11,7 +11,7 @@ filters:
 
 *Allerheiligenstraße 26*
 
-![Stolperstein Kahn, Jakob](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/allerheiligenstrasse_26_haus.jpg)
+![Stolperstein Kahn, Jakob](../../images/stolpersteine/ca1b74ebb757_allerheiligenstrasse_26_haus.jpg)
 
 Jakob
 
@@ -250,7 +250,7 @@ Allerheiligenstraße 26
 ## Gallery
 
 <!-- gallery:standard -->
-![Kahn, Jakob](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_allerheiligenstr_26_kahn_jakob.jpg)
+![Kahn, Jakob](../../images/stolpersteine/a617ff6addab_stolperst_allerheiligenstr_26_kahn_jakob.jpg)
 
 ## Links
 

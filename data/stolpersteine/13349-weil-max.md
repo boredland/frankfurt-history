@@ -11,7 +11,7 @@ filters:
 
 *Waldschmidtstraße 83*
 
-![Stolperstein Weil,Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/waldschmidtstr_83.jpg)
+![Stolperstein Weil,Max](../../images/stolpersteine/07bc4e94a52f_waldschmidtstr_83.jpg)
 
 Max Weil wurde in Bad Kissingen geboren. Seine Eltern waren
 
@@ -266,7 +266,7 @@ Waldschmidtstraße 83
 ## Gallery
 
 <!-- gallery:standard -->
-![Weil,Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_waldschmidtstr_83_weil_max.jpg)
+![Weil,Max](../../images/stolpersteine/4da35a306f77_stolperst_waldschmidtstr_83_weil_max.jpg)
 
 ## Links
 

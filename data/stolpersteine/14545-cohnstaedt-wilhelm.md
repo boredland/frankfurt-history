@@ -11,7 +11,7 @@ filters:
 
 *Hansaallee 7*
 
-![Stolperstein Cohnstädt, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/hansaallee_7.jpg)
+![Stolperstein Cohnstädt, Wilhelm](../../images/stolpersteine/a5c557d05183_hansaallee_7.jpg)
 
 Wilhelm Cohnstädt
 
@@ -502,8 +502,8 @@ Hansaallee 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Cohnstädt, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hansaallee_7_wilhelm_cohnstaedt.jpg)
-![Cohnstädt, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_hansaallee_7_cohnstaedt_wilhelm.jpg)
+![Cohnstädt, Wilhelm](../../images/stolpersteine/8e6cb4156c24_hansaallee_7_wilhelm_cohnstaedt.jpg)
+![Cohnstädt, Wilhelm](../../images/stolpersteine/22c1811ec899_stolperst_hansaallee_7_cohnstaedt_wilhelm.jpg)
 
 ## Links
 

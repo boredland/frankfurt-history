@@ -12,7 +12,7 @@ filters:
 
 *Ostendstraße 53*
 
-![Stolperstein Dukat, Joseph und Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/ostendstr_53.jpg)
+![Stolperstein Dukat, Joseph und Selma](../../images/stolpersteine/f34654bda7f3_ostendstr_53.jpg)
 
 Josef Dukat wurde in Krautheim oder Crailsheim, seine Tochter Selma Dukat in
 
@@ -261,8 +261,8 @@ Ostendstraße 53
 ## Gallery
 
 <!-- gallery:standard -->
-![Dukat, Joseph und Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_ostendstr_53_dukat_selma.jpg)
-![Dukat, Joseph und Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_ostendstr_53_dukat_joseph.jpg)
+![Dukat, Joseph und Selma](../../images/stolpersteine/a76beee57a72_stolperst_ostendstr_53_dukat_selma.jpg)
+![Dukat, Joseph und Selma](../../images/stolpersteine/059b03f93ca8_stolperst_ostendstr_53_dukat_joseph.jpg)
 
 ## Links
 

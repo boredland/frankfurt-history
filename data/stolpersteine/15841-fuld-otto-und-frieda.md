@@ -11,7 +11,7 @@ filters:
 
 *Telemannstraße 12*
 
-![Stolperstein Fuld, Otto und Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/telemannstrasse-12_1.jpg)
+![Stolperstein Fuld, Otto und Frieda](../../images/stolpersteine/bdae3887523a_telemannstrasse-12_1.jpg)
 
 Frieda Fuld war die Tochter des Drogisten Salomon Sander und von Lina Sander, geb. Baer, an die in der Querstraße 1 zwei Stolpersteine erinnern. Sie heiratete den Kaufmann Otto Fuld. Sie sind beide in Frankfurt geboren und aufgewachsen. Um 1922 wohnten sie in der Kronberger Straße 42. Am 12.6.1923 wurde ihre einzige Tochter Lily Hedwig geboren, die die Holzhausen-Grundschule besuchte.
 
@@ -480,11 +480,11 @@ Telemannstraße 12
 ## Gallery
 
 <!-- gallery:standard -->
-![Fuld, Otto und Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fuld-frieda.jpg)
-![Fuld, Otto und Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fuld-otto.jpg)
-![Fuld, Otto und Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fuld-lily-2.jpg)
-![Fuld, Otto und Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fuld-lily.jpg)
-![Fuld, Otto und Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_telemannstr_12_fuld_frieda__400x400.jpg)
+![Fuld, Otto und Frieda](../../images/stolpersteine/0c65da5ef88c_fuld-frieda.jpg)
+![Fuld, Otto und Frieda](../../images/stolpersteine/062fbf4f5b47_fuld-otto.jpg)
+![Fuld, Otto und Frieda](../../images/stolpersteine/523cb56f82ef_fuld-lily-2.jpg)
+![Fuld, Otto und Frieda](../../images/stolpersteine/3dec0fd19eb2_fuld-lily.jpg)
+![Fuld, Otto und Frieda](../../images/stolpersteine/926f60c3c8eb_stolperst_telemannstr_12_fuld_frieda__400x400.jpg)
 
 ## Links
 

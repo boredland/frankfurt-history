@@ -11,7 +11,7 @@ filters:
 
 *Alfred-Brehm-Platz 13*
 
-![Stolperstein Griesheimer, Joseph Harry und Thekla](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/alfred-brehm-platz-13_1.jpg)
+![Stolperstein Griesheimer, Joseph Harry und Thekla](../../images/stolpersteine/6fc228936acf_alfred-brehm-platz-13_1.jpg)
 
 Joseph Harry (oder Hirsch) Griesheimer war verheiratet mit Thekla Griesheimer, geb. Hess. Ihre 1923 in Frankfurt am Main zur Welt gekommene Tochter konnte 1939 mit einem Kindertransport in das Exil nach Großbritannien flüchten und lebte nach dem Zweiten Weltkrieg in den USA.
 
@@ -210,7 +210,7 @@ Alfred-Brehm-Platz 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Griesheimer, Joseph Harry und Thekla](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-griesheimer-joseph-harry.jpg)
+![Griesheimer, Joseph Harry und Thekla](../../images/stolpersteine/5cb8e3156ee0_stolperstein-griesheimer-joseph-harry.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Waldschmidtstraße 7*
 
-![Stolperstein Klein, Leia Lotte, Albert und Sally](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/waldschmidtstrasse_7.jpg)
+![Stolperstein Klein, Leia Lotte, Albert und Sally](../../images/stolpersteine/74ff5f10125f_waldschmidtstrasse_7.jpg)
 
 Leia
 
@@ -262,9 +262,9 @@ Waldschmidtstraße 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Klein, Leia Lotte, Albert und Sally](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_waldschmidtstrasse_7_klein_leia_lotte.jpg)
-![Klein, Leia Lotte, Albert und Sally](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_waldschmidtstrasse_7_klein_albert.jpg)
-![Klein, Leia Lotte, Albert und Sally](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_waldschmidtstrasse_7_klein_sally.jpg)
+![Klein, Leia Lotte, Albert und Sally](../../images/stolpersteine/0c258e146a70_stolperst_waldschmidtstrasse_7_klein_leia_lotte.jpg)
+![Klein, Leia Lotte, Albert und Sally](../../images/stolpersteine/af3cf6a9086e_stolperst_waldschmidtstrasse_7_klein_albert.jpg)
+![Klein, Leia Lotte, Albert und Sally](../../images/stolpersteine/a8a313f15d4a_stolperst_waldschmidtstrasse_7_klein_sally.jpg)
 
 ## Links
 

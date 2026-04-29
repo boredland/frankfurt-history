@@ -11,7 +11,7 @@ filters:
 
 *Friedrichstraße 30*
 
-![Stolperstein Vollmer, Camille, Melanie und Anneliese](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/friedrichstrasse-30_1.jpg)
+![Stolperstein Vollmer, Camille, Melanie und Anneliese](../../images/stolpersteine/1221feb43b4d_friedrichstrasse-30_1.jpg)
 
 Vollmer, Anneliese 2
 
@@ -486,11 +486,11 @@ Friedrichstraße 30
 ## Gallery
 
 <!-- gallery:standard -->
-![Vollmer, Camille, Melanie und Anneliese](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/vollmer-anneliese-2.jpg)
-![Vollmer, Camille, Melanie und Anneliese](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/vollmer-anneliese.jpg)
-![Vollmer, Camille, Melanie und Anneliese](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/vollmer_melanie.jpg)
-![Vollmer, Camille, Melanie und Anneliese](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/vollmer_camille.jpg)
-![Vollmer, Camille, Melanie und Anneliese](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/vollmer_anneliese.jpg)
+![Vollmer, Camille, Melanie und Anneliese](../../images/stolpersteine/2c9e71a2fcc6_vollmer-anneliese-2.jpg)
+![Vollmer, Camille, Melanie und Anneliese](../../images/stolpersteine/bb2a8ec1124e_vollmer-anneliese.jpg)
+![Vollmer, Camille, Melanie und Anneliese](../../images/stolpersteine/5e24a6a164a4_vollmer_melanie.jpg)
+![Vollmer, Camille, Melanie und Anneliese](../../images/stolpersteine/0600ea7cc0f4_vollmer_camille.jpg)
+![Vollmer, Camille, Melanie und Anneliese](../../images/stolpersteine/b2be272603a8_vollmer_anneliese.jpg)
 
 ## Links
 

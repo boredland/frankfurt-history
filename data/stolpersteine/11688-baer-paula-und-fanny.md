@@ -11,7 +11,7 @@ filters:
 
 *Zeil 29*
 
-![Stolperstein Bär, Paula und Fanny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/zeil_29__300x400.jpg)
+![Stolperstein Bär, Paula und Fanny](../../images/stolpersteine/b30dfcea1c5e_zeil_29__300x400.jpg)
 
 Paula Bär, geborene Hilowitz, wurde in Warschau, geboren und war mit dem Kaufmann Hugo Bär verheiratet. Dieser kam am 14. Januar 1869 in Wiesbaden zur Welt und war Inhaber einer Auskunftei. Das Ehepaar hatte drei Kinder, die alle in Frankfurt geboren wurden: Julius (Jg. 1895), Fanny (Jg. 1900) und Norbert (Jg. 1909). Hugo, Paula und Fanny wohnten an der Zeil 29, die Söhne mit ihren Familien im Ostend und im Nordend.
 
@@ -174,9 +174,9 @@ Zeil 29
 ## Gallery
 
 <!-- gallery:standard -->
-![Bär, Paula und Fanny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/zeil_29_baer_hugo_und_paula.jpg)
-![Bär, Paula und Fanny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_zeil_29_baer_paula.jpg)
-![Bär, Paula und Fanny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_zeil_29_baer_fanny.jpg)
+![Bär, Paula und Fanny](../../images/stolpersteine/db0fb82a2040_zeil_29_baer_hugo_und_paula.jpg)
+![Bär, Paula und Fanny](../../images/stolpersteine/e7ec76f64b40_stolperst_zeil_29_baer_paula.jpg)
+![Bär, Paula und Fanny](../../images/stolpersteine/7406460a76d4_stolperst_zeil_29_baer_fanny.jpg)
 
 ## Links
 

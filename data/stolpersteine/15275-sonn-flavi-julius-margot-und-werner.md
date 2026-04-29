@@ -11,7 +11,7 @@ filters:
 
 *Eysseneckstraße 38*
 
-![Stolperstein Sonn, Flavi, Julius, Margot und Werner](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/eysseneckstr_38.jpg)
+![Stolperstein Sonn, Flavi, Julius, Margot und Werner](../../images/stolpersteine/bd5478a1f92a_eysseneckstr_38.jpg)
 
 Julius Sonn wurde in Gelnhausen als Sohn des Kaufmanns Isaak Sonn und Emma,
 
@@ -480,10 +480,10 @@ Eysseneckstraße 38
 ## Gallery
 
 <!-- gallery:standard -->
-![Sonn, Flavi, Julius, Margot und Werner](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_eysseneckstr_38_sonn_julius.jpg)
-![Sonn, Flavi, Julius, Margot und Werner](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_eysseneckstr_38_sonn_flavi.jpg)
-![Sonn, Flavi, Julius, Margot und Werner](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_eysseneckstr_38_sonn_margot.jpg)
-![Sonn, Flavi, Julius, Margot und Werner](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_eysseneckstr_38_sonn_werner.jpg)
+![Sonn, Flavi, Julius, Margot und Werner](../../images/stolpersteine/8b5a9af1b984_stolperst_eysseneckstr_38_sonn_julius.jpg)
+![Sonn, Flavi, Julius, Margot und Werner](../../images/stolpersteine/4a4e5bb9b6a9_stolperst_eysseneckstr_38_sonn_flavi.jpg)
+![Sonn, Flavi, Julius, Margot und Werner](../../images/stolpersteine/e8099f160262_stolperst_eysseneckstr_38_sonn_margot.jpg)
+![Sonn, Flavi, Julius, Margot und Werner](../../images/stolpersteine/18498a5275e2_stolperst_eysseneckstr_38_sonn_werner.jpg)
 
 ## Links
 

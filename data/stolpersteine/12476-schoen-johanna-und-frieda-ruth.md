@@ -11,7 +11,7 @@ filters:
 
 *Uhlandstraße 50*
 
-![Stolperstein Schoen, Johanna und Frieda Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/uhlandstrasse-50_1.jpg)
+![Stolperstein Schoen, Johanna und Frieda Ruth](../../images/stolpersteine/59c4c133838c_uhlandstrasse-50_1.jpg)
 
 Johanna Schoen, geboren in Homburg am Main, war die Ehefrau des Metzgermeisters Jakob Schoen. Die Familie wohnte 1924, zur Zeit der Geburt der Tochter Frieda Ruth, im Baumweg 22. Um 1925 erwarb Jakob Schoen den koscheren Metzgereibetrieb der (orthodoxen) Israelitischen Religionsgesellschaft in der Uhlandstraße 50, als sich dessen Eigentümer Jacob Ochs (1925) zur Ruhe setzte. Seitdem befand sich auch die Wohnung der Familie in der Uhlandstraße 50. Vermutlich im Jahr 1930 erwarb Jakob Schoen das Grundstück Pfingstweidstraße 14. Dort befand sich seit Mitte des 19. Jahrhunderts das Heim der Flörsheim-Sichel-Stiftung, die dem Philanthropin angeschlossen den Zweck hatte, jüdische Knaben bedürftiger Eltern zu erziehen und auszubilden. Da das Heim 1930 in die Ebersheimstrasse verlegt wurde, verkaufte die Stiftung das bisher genutzte Gebäude.
 
@@ -210,7 +210,7 @@ Uhlandstraße 50
 ## Gallery
 
 <!-- gallery:standard -->
-![Schoen, Johanna und Frieda Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-schoen-johanna.jpg)
+![Schoen, Johanna und Frieda Ruth](../../images/stolpersteine/2a7c58cbcb70_stolperstein-schoen-johanna.jpg)
 
 ## Links
 

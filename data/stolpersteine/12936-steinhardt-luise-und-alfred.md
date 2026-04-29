@@ -12,7 +12,7 @@ filters:
 
 *Kettenhofweg 73*
 
-![Stolperstein Steinhardt, Luise und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/kettenhofweg_73.jpg)
+![Stolperstein Steinhardt, Luise und Alfred](../../images/stolpersteine/1ad9c304f883_kettenhofweg_73.jpg)
 
 Alfred Steinhardt wurde in Köln
 
@@ -497,8 +497,8 @@ Kettenhofweg 73
 ## Gallery
 
 <!-- gallery:standard -->
-![Steinhardt, Luise und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_kettenhofweg_73_steinhardt_alfred.jpg)
-![Steinhardt, Luise und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_kettenhofweg_73_steinhardt_luise.jpg)
+![Steinhardt, Luise und Alfred](../../images/stolpersteine/999659363d71_stolperst_kettenhofweg_73_steinhardt_alfred.jpg)
+![Steinhardt, Luise und Alfred](../../images/stolpersteine/4bab6cb9c75e_stolperst_kettenhofweg_73_steinhardt_luise.jpg)
 
 ## Links
 

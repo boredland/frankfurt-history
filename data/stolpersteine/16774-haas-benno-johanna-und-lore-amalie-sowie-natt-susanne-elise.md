@@ -11,7 +11,7 @@ filters:
 
 *Wolfsgangstraße 89*
 
-![Stolperstein Haas, Benno, Johanna und Lore Amalie sowie Natt, Susanne Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/wolfsgangstrasse_89.jpg)
+![Stolperstein Haas, Benno, Johanna und Lore Amalie sowie Natt, Susanne Elise](../../images/stolpersteine/8b8bdcd3a8d3_wolfsgangstrasse_89.jpg)
 
 Benno
 
@@ -522,10 +522,10 @@ Wolfsgangstraße 89
 ## Gallery
 
 <!-- gallery:standard -->
-![Haas, Benno, Johanna und Lore Amalie sowie Natt, Susanne Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_wolfsgangstrasse_89_haas_benno.jpg)
-![Haas, Benno, Johanna und Lore Amalie sowie Natt, Susanne Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_wolfsgangstrasse_89_haas_johanna.jpg)
-![Haas, Benno, Johanna und Lore Amalie sowie Natt, Susanne Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_wolfsgangstrasse_89_haas_lore_amalie.jpg)
-![Haas, Benno, Johanna und Lore Amalie sowie Natt, Susanne Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_wolfsgangstrasse_89_natt_susanne_elise.jpg)
+![Haas, Benno, Johanna und Lore Amalie sowie Natt, Susanne Elise](../../images/stolpersteine/73965eb1e453_stolperst_wolfsgangstrasse_89_haas_benno.jpg)
+![Haas, Benno, Johanna und Lore Amalie sowie Natt, Susanne Elise](../../images/stolpersteine/4d6c69dba29b_stolperst_wolfsgangstrasse_89_haas_johanna.jpg)
+![Haas, Benno, Johanna und Lore Amalie sowie Natt, Susanne Elise](../../images/stolpersteine/52464ffb1024_stolperst_wolfsgangstrasse_89_haas_lore_amalie.jpg)
+![Haas, Benno, Johanna und Lore Amalie sowie Natt, Susanne Elise](../../images/stolpersteine/d0744d08d9f5_stolperst_wolfsgangstrasse_89_natt_susanne_elise.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Löherstraße 21*
 
-![Stolperstein Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/loeherstrasse-21_1.jpg)
+![Stolperstein Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula](../../images/stolpersteine/490f16b3a094_loeherstrasse-21_1.jpg)
 
 Ricky Adler und Wanda Michaelis
 
@@ -274,12 +274,12 @@ Löherstraße 21
 ## Gallery
 
 <!-- gallery:standard -->
-![Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/ricky-adler-und-wanda-michaelis.jpg)
-![Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperstein_loeherstr_21_adler_gertrud.jpg)
-![Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperstein_loeherstr_21_adler_heinz.jpg)
-![Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperstein_loeherstr_21_adler_margarethe.jpg)
-![Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperstein_loeherstr_21_adler_rolf.jpg)
-![Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperstein_loeherstr_21_michaelis_wanda.jpg)
+![Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula](../../images/stolpersteine/1f7f5073d045_ricky-adler-und-wanda-michaelis.jpg)
+![Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula](../../images/stolpersteine/e6a82c72f9b5_stolperstein_loeherstr_21_adler_gertrud.jpg)
+![Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula](../../images/stolpersteine/3f7941437d50_stolperstein_loeherstr_21_adler_heinz.jpg)
+![Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula](../../images/stolpersteine/f3ebfe19a9de_stolperstein_loeherstr_21_adler_margarethe.jpg)
+![Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula](../../images/stolpersteine/e383c001b5b3_stolperstein_loeherstr_21_adler_rolf.jpg)
+![Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula](../../images/stolpersteine/11ab05525401_stolperstein_loeherstr_21_michaelis_wanda.jpg)
 
 ## Links
 

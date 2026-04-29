@@ -11,7 +11,7 @@ filters:
 
 *Fuchshohl 67*
 
-![Stolperstein Maier, Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/fuchshohl_27.jpg)
+![Stolperstein Maier, Hans](../../images/stolpersteine/4c3159624450_fuchshohl_27.jpg)
 
 Hans Maier
 
@@ -208,9 +208,9 @@ Fuchshohl 27
 ## Gallery
 
 <!-- gallery:standard -->
-![Maier, Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/opferbilder/fuchshohl_27_maier_hans.jpg)
-![Maier, Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/opferbilder/fuchshohl_27_maier_hans.jpg)
-![Maier, Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/stolperst_fuchshohl_27_maier_hans.jpg)
+![Maier, Hans](../../images/stolpersteine/a6c17ebd3549_fuchshohl_27_maier_hans.jpg)
+![Maier, Hans](../../images/stolpersteine/a6c17ebd3549_fuchshohl_27_maier_hans.jpg)
+![Maier, Hans](../../images/stolpersteine/3928a7623826_stolperst_fuchshohl_27_maier_hans.jpg)
 
 ## Links
 

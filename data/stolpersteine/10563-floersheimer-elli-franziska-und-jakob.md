@@ -11,7 +11,7 @@ filters:
 
 *Neumannstraße 36*
 
-![Stolperstein Flörsheimer, Elli, Franziska und Jakob](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/neumannstrasse_36_haus.jpg)
+![Stolperstein Flörsheimer, Elli, Franziska und Jakob](../../images/stolpersteine/e2533cf55335_neumannstrasse_36_haus.jpg)
 
 Elli Flörsheimer aus Frankfurt und der Kaufmann Jakob Flörsheimer aus Zwingenberg heirateten am 29.6.1931 in Frankfurt. Elli Flörsheimers Vater fiel 1917 als Soldat im Ersten Weltkrieg. Die Familie des Ehemanns besaß verschiedene Liegenschaften, unter anderem Grundstücke in Gräfenhausen, zwei Häuser in Frankfurt-Eschersheim, ein Haus in der Neumannstraße 36, die alle verfolgungsbedingt später veräußert werden mussten. Die Mutter von Jakob Flörsheimer, Franziska Flörsheimer, wohnte ebenfalls in der Neumannstraße 36. Sie wurde gezwungen, aus ihrem Haus auszuziehen. Ihre letzte Adresse ab 1941 war die Gaußstraße 14, ein "Getto-Haus".
 

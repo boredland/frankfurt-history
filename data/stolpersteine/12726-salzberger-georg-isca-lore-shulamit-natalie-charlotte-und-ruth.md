@@ -11,7 +11,7 @@ filters:
 
 *Eschersheimer Landstraße 67*
 
-![Stolperstein Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/eschersheimer_landstr_67.jpg)
+![Stolperstein Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/dd3f8ee3bbf1_eschersheimer_landstr_67.jpg)
 
 Georg Salzberger wurde in Culm/Westpreußen als Sohn des Rabbiners Moritz
 
@@ -606,15 +606,15 @@ Eschersheimer Landstraße 67
 ## Gallery
 
 <!-- gallery:standard -->
-![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/eschersheimer_landstr_67_salzberger_georg_1.jpg)
-![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/eschersheimer_landstr_67_salzberger_georg.jpg)
-![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/eschersheimer_landstr_67_salzberger_georg_2.jpg)
-![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/eschersheimer_landstr_67_salzberger_rabbi_jonathan_wittenberg_und_.jpg)
-![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eschersheimer_landstr_67_salzberger_georg.jpg)
-![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eschersheimer_landstr_67_salzberger_natalie_charlotte.jpg)
-![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eschersheimer_landstr_67_salzberger_lore_shulamit.jpg)
-![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eschersheimer_landstr_67_salzberger_isca.jpg)
-![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eschersheimer_landstr_67_salzberger_ruth.jpg)
+![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/e6e990b41815_eschersheimer_landstr_67_salzberger_georg_1.jpg)
+![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/f53296ae31f0_eschersheimer_landstr_67_salzberger_georg.jpg)
+![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/4842b1b14d92_eschersheimer_landstr_67_salzberger_georg_2.jpg)
+![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/d87a76a6e01f_eschersheimer_landstr_67_salzberger_rabbi_jonathan_wittenber.jpg)
+![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/3e798fb84698_stolperst_eschersheimer_landstr_67_salzberger_georg.jpg)
+![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/28c94e2172d3_stolperst_eschersheimer_landstr_67_salzberger_natalie_charlo.jpg)
+![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/d59daa75b6ab_stolperst_eschersheimer_landstr_67_salzberger_lore_shulamit..jpg)
+![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/54a8e29a6697_stolperst_eschersheimer_landstr_67_salzberger_isca.jpg)
+![Salzberger, Georg, Isca, Lore Shulamit, Natalie Charlotte und Ruth](../../images/stolpersteine/1fa82a0e2eb7_stolperst_eschersheimer_landstr_67_salzberger_ruth.jpg)
 
 ## Links
 

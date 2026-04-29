@@ -11,7 +11,7 @@ filters:
 
 *Vogtstraße 35-37*
 
-![Stolperstein Domar, Carola](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/vogtstrasse_35_37.jpg)
+![Stolperstein Domar, Carola](../../images/stolpersteine/a0e365659fea_vogtstrasse_35_37.jpg)
 
 Carola Domar wurde im Dezember 1919 als jüngste von drei Geschwistern geboren. Ihr Vater, Siegfried Rosenthal war Rechtsanwalt und besaß eine Praxis in der Goethestraße, in der er noch bis zum Novemberpogrom 1938 tätig war. Die Familie wohnte im Oederweg. Carola Rosenthal besuchte die Holzhausen-, später die Elisabethenschule, die sie 1935 verlassen musste. Danach besuchte sie ein Jahr das Philanthropin. Die Eltern bemühten sich, ihre Tochter ins Ausland zu bringen. Die ältere Schwester lebte bereits in Paris, der Bruder in einem Internat in Italien. Nach kurzen Aufenthalten dort kehrte Carola Rosenthal jedoch wieder nach Deutschland zurück. Gegen den Willen der Eltern ging sie 1937 nach Groß-Bresen, einem nichtzionistischen Auswanderungslehrgut.
 
@@ -406,7 +406,7 @@ Vogtstraße 35-37
 ## Gallery
 
 <!-- gallery:standard -->
-![Domar, Carola](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/domar-carola.jpg)
+![Domar, Carola](../../images/stolpersteine/bf833c91375b_domar-carola.jpg)
 
 ## Links
 

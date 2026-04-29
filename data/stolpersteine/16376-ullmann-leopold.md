@@ -11,7 +11,7 @@ filters:
 
 *Lassallestraße 3*
 
-![Stolperstein Ullmann, Leopold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/standorte/lassallestrasse-3_1.jpg)
+![Stolperstein Ullmann, Leopold](../../images/stolpersteine/ef99c54ecbc2_lassallestrasse-3_1.jpg)
 
 Der Kaufmann Leopold Ullmann beging unmittelbar nach der Pogromnacht aus Verzweiflung Selbstmord. Sein Grab befindet sich auf dem Neuen Jüdischen Friedhof in der Eckenheimer Landstraße.
 
@@ -56,7 +56,7 @@ Lassallestraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Ullmann, Leopold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/stolperstein_lassallestr_3_ullmann_leopold.jpg)
+![Ullmann, Leopold](../../images/stolpersteine/ba71ec129802_stolperstein_lassallestr_3_ullmann_leopold.jpg)
 
 ## Links
 

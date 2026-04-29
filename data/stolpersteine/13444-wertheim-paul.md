@@ -11,7 +11,7 @@ filters:
 
 *Arnsburger Straße 1*
 
-![Stolperstein Wertheim, Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/arnsburgerstr_1.jpg)
+![Stolperstein Wertheim, Paul](../../images/stolpersteine/71f2e20a43ed_arnsburgerstr_1.jpg)
 
 Joseph und Rosalie Wertheim mit den Kindern Ernst, Sophie, Martha, Paul und Lilly, 1871
 
@@ -90,10 +90,10 @@ Arnsburger Straße 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Wertheim, Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/arnsburgerstrasse_1_wertheim_1871.jpg)
-![Wertheim, Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/arnsburgerstrasse_1_wertheim_brief_a.jpg)
-![Wertheim, Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/arnsburgerstrasse_1_wertheim_brief_b.jpg)
-![Wertheim, Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_arnsburgerstr_1_wertheim_paul.jpg)
+![Wertheim, Paul](../../images/stolpersteine/661dcba3c071_arnsburgerstrasse_1_wertheim_1871.jpg)
+![Wertheim, Paul](../../images/stolpersteine/2122e4122869_arnsburgerstrasse_1_wertheim_brief_a.jpg)
+![Wertheim, Paul](../../images/stolpersteine/db1c8f943e24_arnsburgerstrasse_1_wertheim_brief_b.jpg)
+![Wertheim, Paul](../../images/stolpersteine/8a68d764dcc7_stolperst_arnsburgerstr_1_wertheim_paul.jpg)
 
 ## Links
 

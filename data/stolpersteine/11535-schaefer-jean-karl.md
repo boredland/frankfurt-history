@@ -11,7 +11,7 @@ filters:
 
 *Schießgraben 19*
 
-![Stolperstein Schaefer, Jean Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/standort/schiessgraben_19.jpg)
+![Stolperstein Schaefer, Jean Karl](../../images/stolpersteine/5ef1462108af_schiessgraben_19.jpg)
 
 Jean
 
@@ -126,7 +126,7 @@ Schießgraben 19
 ## Gallery
 
 <!-- gallery:standard -->
-![Schaefer, Jean Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolperst_schiessgraben_19_schaefer_jean_karl.jpg)
+![Schaefer, Jean Karl](../../images/stolpersteine/fda138e4a6e6_stolperst_schiessgraben_19_schaefer_jean_karl.jpg)
 
 ## Links
 

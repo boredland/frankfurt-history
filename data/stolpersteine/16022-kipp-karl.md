@@ -11,7 +11,7 @@ filters:
 
 *Berliner Straße 32*
 
-![Stolperstein Kipp, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/berliner_str_32.jpg)
+![Stolperstein Kipp, Karl](../../images/stolpersteine/97fe3011b40d_berliner_str_32.jpg)
 
 Karl
 
@@ -168,8 +168,8 @@ Berliner Straße 32
 ## Gallery
 
 <!-- gallery:standard -->
-![Kipp, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/opferfotos/berliner_str_32_kipp_karl_antrag_vorbeugungshaft.jpg)
-![Kipp, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/stolperst_berliner_str_32_kipp_karl.jpg)
+![Kipp, Karl](../../images/stolpersteine/aeff44ac78a7_berliner_str_32_kipp_karl_antrag_vorbeugungshaft.jpg)
+![Kipp, Karl](../../images/stolpersteine/1eb07fa3636c_stolperst_berliner_str_32_kipp_karl.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Mittelweg 10*
 
-![Stolperstein Marx, Mathilde und Rothschild, Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/mittelweg_10_haus1.jpg)
+![Stolperstein Marx, Mathilde und Rothschild, Johanna](../../images/stolpersteine/553de8d1636c_mittelweg_10_haus1.jpg)
 
 Die beiden Schwestern Johanna Rothschild und Mathilde Marx aus Geinsheim - auf den Stolpersteinen wurden die Geburtsjahrgänge versehentlich vertauscht - sowie ihr Bruder David Marx zogen am 3.4.1934 in den Mittelweg 10 ein. Der Bruder starb 1938. Die beiden Schwestern zogen am 12.7.1939 in den Mittelweg 12 und wurden von dort zusammen mit ihrer Schwester Hermine Meier und deren Mann Josef Meier verschleppt.
 

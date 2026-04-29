@@ -11,7 +11,7 @@ filters:
 
 *Uhlandstraße 50*
 
-![Stolperstein Gawrylowicz, Esther Frümet, geb. Fischow](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/uhlandstrasse-50_1.jpg)
+![Stolperstein Gawrylowicz, Esther Frümet, geb. Fischow](../../images/stolpersteine/59c4c133838c_uhlandstrasse-50_1.jpg)
 
 Esther Gawrylowicz, deren Name in den verschiedenen Jahrgängen des Adressbuchs unterschiedlich geschrieben wird, lässt sich mit der Adresse Uhlandstraße 50 seit 1906 nachweisen. Ihre Wohnung befand sich, so Eintragungen in verschiedenen Adressbüchern, im Hinterhaus erster Stock. Als Beruf ist zunächst Haararbeiterin, später Friseuse, angegeben. Soweit ein Familienstand ausgewiesen ist, lautet er Wwe. bzw. Ww., d.h. sie wäre bereits 1906 verwitwet gewesen. In der Liste der Frankfurter Betriebe im Adressbuch ist sie jedoch nicht genannt, sodass sie kein eigenes Gewerbe angemeldet haben kann.
 
@@ -192,7 +192,7 @@ Uhlandstraße 50
 ## Gallery
 
 <!-- gallery:standard -->
-![Gawrylowicz, Esther Frümet, geb. Fischow](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-gawrylowicz-esther-fruemet.jpg)
+![Gawrylowicz, Esther Frümet, geb. Fischow](../../images/stolpersteine/668466279dc5_stolperstein-gawrylowicz-esther-fruemet.jpg)
 
 ## Links
 

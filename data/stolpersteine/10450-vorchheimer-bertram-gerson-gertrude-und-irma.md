@@ -11,7 +11,7 @@ filters:
 
 *Lersnerstraße 30a*
 
-![Stolperstein Vorchheimer, Bertram, Gerson, Gertrude und Irma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/lersnerstrasse_30a.jpg)
+![Stolperstein Vorchheimer, Bertram, Gerson, Gertrude und Irma](../../images/stolpersteine/b51647eba0b4_lersnerstrasse_30a.jpg)
 
 Gerson
 
@@ -552,10 +552,10 @@ Lersnerstraße 30a
 ## Gallery
 
 <!-- gallery:standard -->
-![Vorchheimer, Bertram, Gerson, Gertrude und Irma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_lersnerstrasse_30a_vorchheimer_gerson.jpg)
-![Vorchheimer, Bertram, Gerson, Gertrude und Irma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_lersnerstrasse_30a_vorchheimer_bertram.jpg)
-![Vorchheimer, Bertram, Gerson, Gertrude und Irma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_lersnerstrasse_30a_vorchheimer_gertrude.jpg)
-![Vorchheimer, Bertram, Gerson, Gertrude und Irma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_lersnerstrasse_30a_vorchheimer_irma.jpg)
+![Vorchheimer, Bertram, Gerson, Gertrude und Irma](../../images/stolpersteine/cea1b6a35ba2_stolperst_lersnerstrasse_30a_vorchheimer_gerson.jpg)
+![Vorchheimer, Bertram, Gerson, Gertrude und Irma](../../images/stolpersteine/b781015891b3_stolperst_lersnerstrasse_30a_vorchheimer_bertram.jpg)
+![Vorchheimer, Bertram, Gerson, Gertrude und Irma](../../images/stolpersteine/52a7289f315a_stolperst_lersnerstrasse_30a_vorchheimer_gertrude.jpg)
+![Vorchheimer, Bertram, Gerson, Gertrude und Irma](../../images/stolpersteine/b469b6a0edb0_stolperst_lersnerstrasse_30a_vorchheimer_irma.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Obermainstraße 12*
 
-![Stolperstein Fürth, Leopold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/obermainstr_12.jpg)
+![Stolperstein Fürth, Leopold](../../images/stolpersteine/296850de74bc_obermainstr_12.jpg)
 
 Leopold Fürth wurde in Romsthal/Schlüchtern geboren. Seine Eltern waren der Schumacher Jacob Fürth und seine Ehefrau Regina, geb. Weißmann. Sein 1883 geborener Bruder Max Fürth betrieb ein Manufaktur- und Modegeschäft. Leopold Fürth erlernte den Beruf des Schuhmachers bei der Frankfurter Firma Bär in der Friedberger Gasse.
 
@@ -198,8 +198,8 @@ Obermainstraße 12
 ## Gallery
 
 <!-- gallery:standard -->
-![Fürth, Leopold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_12_leopold_fuerth.jpg)
-![Fürth, Leopold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_12_fuerth_leopold.jpg)
+![Fürth, Leopold](../../images/stolpersteine/e266e109bd57_obermainstr_12_leopold_fuerth.jpg)
+![Fürth, Leopold](../../images/stolpersteine/956ef7b912d6_stolperst_obermainstr_12_fuerth_leopold.jpg)
 
 ## Links
 

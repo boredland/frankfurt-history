@@ -11,7 +11,7 @@ filters:
 
 *Telemannstraße 10*
 
-![Stolperstein Rosskamm, Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/telemannstrasse-10_1.jpg)
+![Stolperstein Rosskamm, Johanna](../../images/stolpersteine/a1c5566a446d_telemannstrasse-10_1.jpg)
 
 Johanna Rosskamm stammte aus Weyhers in der Nähe von Fulda. Sie war eines von sechs Geschwistern, sie hatte zwei Brüder und drei Schwestern. Ihre Eltern hatten eine Metzgerei in Weyhers und zogen später nach Essenheim bei Mainz.
 
@@ -452,7 +452,7 @@ Telemannstraße 10
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosskamm, Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_telemannstr_10_rosskamm_johanna.jpg)
+![Rosskamm, Johanna](../../images/stolpersteine/ca76ebf89323_stolperst_telemannstr_10_rosskamm_johanna.jpg)
 
 ## Links
 

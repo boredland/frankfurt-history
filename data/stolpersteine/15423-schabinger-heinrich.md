@@ -11,7 +11,7 @@ filters:
 
 *Herzogstraße 9*
 
-![Stolperstein Schabinger, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/herzogstr_9.jpg)
+![Stolperstein Schabinger, Heinrich](../../images/stolpersteine/5fba861c55ba_herzogstr_9.jpg)
 
 Heinrich Schabinger wurde in Frankfurt-Niederrad geboren und von Pfarrer Enders von der evangelischen Paul-Gerhardt-Gemeinde getauft. Seine Eltern waren Ludwig und Elisabeth „Lisette“ Schabinger, geb.Weissbarth. Er hatte zwei Brüder, Ludwig (Jg. 1909) und Hans (Jg.1927) und war wie sein Bruder Ludwig Mitglied der KPD, der Roten Hilfe und des Kampfbundes gegen den Faschismus.
 
@@ -124,7 +124,7 @@ Herzogstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Schabinger, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_herzogstr_9_schabinger_heinrich.jpg)
+![Schabinger, Heinrich](../../images/stolpersteine/559e9cece53c_stolperst_herzogstr_9_schabinger_heinrich.jpg)
 
 ## Links
 

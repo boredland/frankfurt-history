@@ -11,7 +11,7 @@ filters:
 
 *Thomasiusstraße 10*
 
-![Stolperstein Cohn, Richard, Else, Karolina und Gitta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/thomasiusstrasse-10.jpg)
+![Stolperstein Cohn, Richard, Else, Karolina und Gitta](../../images/stolpersteine/c1e1b38d5509_thomasiusstrasse-10.jpg)
 
 Richard Cohn wurde in Darmstadt, Else Cohn, geb.
 
@@ -486,11 +486,11 @@ Thomasiusstraße 10
 ## Gallery
 
 <!-- gallery:standard -->
-![Cohn, Richard, Else, Karolina und Gitta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/cohn-karolina.jpg)
-![Cohn, Richard, Else, Karolina und Gitta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/cohn-richard.jpg)
-![Cohn, Richard, Else, Karolina und Gitta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/cohn-else.jpg)
-![Cohn, Richard, Else, Karolina und Gitta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/cohn-karoline.jpg)
-![Cohn, Richard, Else, Karolina und Gitta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/cohn-gitta.jpg)
+![Cohn, Richard, Else, Karolina und Gitta](../../images/stolpersteine/fe0d820fd95c_cohn-karolina.jpg)
+![Cohn, Richard, Else, Karolina und Gitta](../../images/stolpersteine/11d01fdad7e2_cohn-richard.jpg)
+![Cohn, Richard, Else, Karolina und Gitta](../../images/stolpersteine/df3fa6914579_cohn-else.jpg)
+![Cohn, Richard, Else, Karolina und Gitta](../../images/stolpersteine/e4aff689e68f_cohn-karoline.jpg)
+![Cohn, Richard, Else, Karolina und Gitta](../../images/stolpersteine/024b6090f446_cohn-gitta.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Anzengruberstraße 5*
 
-![Stolperstein Rosenberg, Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/anzengruberstr_5.jpg)
+![Stolperstein Rosenberg, Paula](../../images/stolpersteine/3a5ea9060da4_anzengruberstr_5.jpg)
 
 Paula Rosenberg
 
@@ -96,8 +96,8 @@ Anzengruberstraße 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenberg, Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/anzengruberstrasse_5_rosenberg_paula.jpg)
-![Rosenberg, Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperst_anzengruberstr_5_rosenberg_paula.jpg)
+![Rosenberg, Paula](../../images/stolpersteine/bd248b0720b6_anzengruberstrasse_5_rosenberg_paula.jpg)
+![Rosenberg, Paula](../../images/stolpersteine/6021ae112cdb_stolperst_anzengruberstr_5_rosenberg_paula.jpg)
 
 ## Links
 

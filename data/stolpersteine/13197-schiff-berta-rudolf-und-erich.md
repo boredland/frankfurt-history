@@ -11,7 +11,7 @@ filters:
 
 *Rotlintstraße 104*
 
-![Stolperstein Schiff, Berta, Rudolf und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/rotlintstr_104.jpg)
+![Stolperstein Schiff, Berta, Rudolf und Erich](../../images/stolpersteine/63ca4146b463_rotlintstr_104.jpg)
 
 Rudolf Schiff wurde in Langenschwarz und seine Ehefrau Berta Schiff als Tochter von Seligman und Karoline Blumhof in Grebenau bei Alsfeld geboren. Rudolf Schiff war von Beruf Schlosser. Die beiden hatten einen in Grebenau geborenen Sohn Erich. Laut Frankfurter Adressbuch von 1935 wohnte die Familie in der Rotlintstraße 104. Adressen um 1940 waren Eschersheimer Landstraße 67 und Pfingstweidstraße 12.
 
@@ -434,7 +434,7 @@ Rotlintstraße 104
 ## Gallery
 
 <!-- gallery:standard -->
-![Schiff, Berta, Rudolf und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-schiff-berta.jpg)
+![Schiff, Berta, Rudolf und Erich](../../images/stolpersteine/332108e20e12_stolperstein-schiff-berta.jpg)
 
 ## Links
 

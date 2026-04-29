@@ -11,7 +11,7 @@ filters:
 
 *Paul-Ehrlich-Straße 29*
 
-![Stolperstein Haase, Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/paul-ehrlich-strasse-29_1.jpg)
+![Stolperstein Haase, Josef](../../images/stolpersteine/1a66d1aadd86_paul-ehrlich-strasse-29_1.jpg)
 
 Josef Haase wurde vermutlich in Ostrowitz (Polen) geboren. Seit 1912 war er verheiratet mit  Felicia Haase, geborene Präger. Das Ehepaar Haase hatte zwei Kinder. Die Tochter Ruth Eva starb 1937 in Sao Paulo im Exil, der Sohn ertrank auf dem Weg nach Palästina, als das Schiff mit Flüchtlingen von englischen Truppen versenkt wurde. Josef Haase war Apotheker.
 
@@ -144,7 +144,7 @@ Paul-Ehrlich-Straße 29
 ## Gallery
 
 <!-- gallery:standard -->
-![Haase, Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperstein_paul_ehrlich_str_29_haase_josef.jpg)
+![Haase, Josef](../../images/stolpersteine/e2f118141cbe_stolperstein_paul_ehrlich_str_29_haase_josef.jpg)
 
 ## Links
 

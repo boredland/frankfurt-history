@@ -11,7 +11,7 @@ filters:
 
 *Königsteiner Straße 38*
 
-![Stolperstein Neumann, Amalie, Wolf und Herta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/koenigsteinerstr_38.jpg)
+![Stolperstein Neumann, Amalie, Wolf und Herta](../../images/stolpersteine/88a419dc4fa2_koenigsteinerstr_38.jpg)
 
 Neumann, Wolf
 
@@ -190,12 +190,12 @@ Königsteiner Straße 38
 ## Gallery
 
 <!-- gallery:standard -->
-![Neumann, Amalie, Wolf und Herta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/neumann-wolf.jpg)
-![Neumann, Amalie, Wolf und Herta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/neumann-herta.jpg)
-![Neumann, Amalie, Wolf und Herta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/neumann-amalie.jpg)
-![Neumann, Amalie, Wolf und Herta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/neumann-amalie-stolperstein.jpg)
-![Neumann, Amalie, Wolf und Herta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/neumann-wolf-stolperstein.jpg)
-![Neumann, Amalie, Wolf und Herta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/rokach-herta-stolperstein.jpg)
+![Neumann, Amalie, Wolf und Herta](../../images/stolpersteine/e5b6860a051e_neumann-wolf.jpg)
+![Neumann, Amalie, Wolf und Herta](../../images/stolpersteine/8e428af94e34_neumann-herta.jpg)
+![Neumann, Amalie, Wolf und Herta](../../images/stolpersteine/a8bd02791f37_neumann-amalie.jpg)
+![Neumann, Amalie, Wolf und Herta](../../images/stolpersteine/219b55cfbf8b_neumann-amalie-stolperstein.jpg)
+![Neumann, Amalie, Wolf und Herta](../../images/stolpersteine/0ae201ead3db_neumann-wolf-stolperstein.jpg)
+![Neumann, Amalie, Wolf und Herta](../../images/stolpersteine/b102802b6d26_rokach-herta-stolperstein.jpg)
 
 ## Links
 

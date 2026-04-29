@@ -11,7 +11,7 @@ filters:
 
 *Schleidenstraße 26*
 
-![Stolperstein Sommer, Betty und Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/schleidenstr_26.jpg)
+![Stolperstein Sommer, Betty und Salomon](../../images/stolpersteine/d662ac7b9a7b_schleidenstr_26.jpg)
 
 Sommer, Betty
 
@@ -428,9 +428,9 @@ Schleidenstraße 26
 ## Gallery
 
 <!-- gallery:standard -->
-![Sommer, Betty und Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/sommer-betty.jpg)
-![Sommer, Betty und Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/sommer-salomon.jpg)
-![Sommer, Betty und Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-sommer-betty.jpg)
+![Sommer, Betty und Salomon](../../images/stolpersteine/65b969071fa4_sommer-betty.jpg)
+![Sommer, Betty und Salomon](../../images/stolpersteine/48aaaca4fccc_sommer-salomon.jpg)
+![Sommer, Betty und Salomon](../../images/stolpersteine/dc2e1188a289_stolperstein-sommer-betty.jpg)
 
 ## Links
 

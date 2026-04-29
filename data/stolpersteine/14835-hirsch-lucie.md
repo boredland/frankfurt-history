@@ -11,7 +11,7 @@ filters:
 
 *Oeserstraße 54*
 
-![Stolperstein Hirsch, Lucie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/oeserstr_54__400x300.jpg)
+![Stolperstein Hirsch, Lucie](../../images/stolpersteine/1b9cb6fe9e6a_oeserstr_54__400x300.jpg)
 
 Lucie Hirsch wurde in Straßburg geboren, 1921 heiratete sie den Kaufmann Willy Hirsch, geb. am 04.06.1879 in Wehrheim. Willy Hirsch kam zusammen mit seinen Brüdern Hugo und Karl von Wehrheim nach Höchst. 1921 zogen Lucie und Willy Hirsch in die Zuckschwerdtstraße 17. 1934 steht Willy Hirsch mit dieser Adresse im Boykottbuch, das die SA mit Hilfe der jeweiligen örtlichen Gruppen erstellt hatte; er soll eine Kaffeerösterei betrieben haben.
 
@@ -68,7 +68,7 @@ Oeserstraße 54
 ## Gallery
 
 <!-- gallery:standard -->
-![Hirsch, Lucie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/stolperstein-hirsch-lucie.jpg)
+![Hirsch, Lucie](../../images/stolpersteine/6d717f01ada0_stolperstein-hirsch-lucie.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Gräfstraße 49*
 
-![Stolperstein Höxter, Ernst, Werner und Alma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/graefstrasse_49.jpg)
+![Stolperstein Höxter, Ernst, Werner und Alma](../../images/stolpersteine/bcd13a59b815_graefstrasse_49.jpg)
 
 Ernst Höxter wurde in Frankfurt am Main als Sohn von Levi Höxter und Sara Höxter, geb. Hess geboren. 1920 heiratete er Alma Höxter. Sie hatten den Sohn Werner, der ein Down Syndrom hatte, und eine 1921 geborene Tochter, der die Flucht in das britische Exil gelang. Ernst Höxter war der Bruder von Betty Hess, geb. Höxter. Alma Höxters Vater war Siegmund Schmidt. Die Familie lebte seit 1920 in Frankfurt, wo der promovierte Mediziner in der Gräfstraße 49 (in der NS-Zeit Königstr. 49) eine eigene Praxis führte, bis April 1942 nur mehr unter der diskriminierenden Bezeichnung „Krankenbehandler für Juden“. Sein Vermögen unterlag einer „Sicherungsanordnung“ der Zollfahndungsstelle vom 9.8.1938, die den monatlichen „Freibetrag“ auf 800 Reichsmark festsetzte. 1940 wurde der „Freibetrag“ auf 300 Reichsmark festgelegt, 1940 auf 785 Reichsmark erhöht und 1942 auf 535 Reichsmark reduziert. Sein Vermögen belief sich 2.8.1940 laut Devisenakten noch auf 25.664 Reichsmark.
 
@@ -130,9 +130,9 @@ Gräfstraße 49
 ## Gallery
 
 <!-- gallery:standard -->
-![Höxter, Ernst, Werner und Alma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_graefstrasse_49_hoexter_alma.jpg)
-![Höxter, Ernst, Werner und Alma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_graefstrasse_49_hoexter_ernst.jpg)
-![Höxter, Ernst, Werner und Alma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_graefstrasse_49_hoexter_werner.jpg)
+![Höxter, Ernst, Werner und Alma](../../images/stolpersteine/298a8f5ef363_stolperst_graefstrasse_49_hoexter_alma.jpg)
+![Höxter, Ernst, Werner und Alma](../../images/stolpersteine/4396d0221ccd_stolperst_graefstrasse_49_hoexter_ernst.jpg)
+![Höxter, Ernst, Werner und Alma](../../images/stolpersteine/d1294266eb84_stolperst_graefstrasse_49_hoexter_werner.jpg)
 
 ## Links
 

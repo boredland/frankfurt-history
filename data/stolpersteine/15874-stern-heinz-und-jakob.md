@@ -11,7 +11,7 @@ filters:
 
 *Unterlindau 47*
 
-![Stolperstein Stern, Heinz und Jakob](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/unterlindau-47_1.jpg)
+![Stolperstein Stern, Heinz und Jakob](../../images/stolpersteine/3fe34090b2cf_unterlindau-47_1.jpg)
 
 Heinz Stern wurde in Frankfurt geboren. Seine Eltern waren der Bankbeamte Jakob Stern und Anna Margarete, geborene Heiligenschmidt, geb. am 30.5.1884. Der Vater war jüdisch, die Mutter evangelisch. Heinz wurde am 12.5.1916 in der Petersgemeinde getauft. Auch seine beiden Brüder Walter und Herbert, die 1920 und 1921 geboren wurden, waren in der Peters- und in der Katharinengemeinde evangelisch getauft und konfirmiert. Heinz Stern besuchte das Lessinggymnasium und war dort der „unbestritten beste Schüler seiner Klasse" (Schuldirektor Ernst Majer-Leonhard). Am 1.4.1933 warf er sich vor einen fahrenden Zug.
 
@@ -458,8 +458,8 @@ Unterlindau 47
 ## Gallery
 
 <!-- gallery:standard -->
-![Stern, Heinz und Jakob](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_unterlindau_47_stern_heinz__400x400.jpg)
-![Stern, Heinz und Jakob](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_unterlindau_47_stern_jacob__400x400.jpg)
+![Stern, Heinz und Jakob](../../images/stolpersteine/77130511f024_stolperst_unterlindau_47_stern_heinz__400x400.jpg)
+![Stern, Heinz und Jakob](../../images/stolpersteine/bc5d57440bc6_stolperst_unterlindau_47_stern_jacob__400x400.jpg)
 
 ## Links
 

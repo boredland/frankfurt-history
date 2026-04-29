@@ -11,7 +11,7 @@ filters:
 
 *Fabriciusstraße 11*
 
-![Stolperstein Mayer, Balthasar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/fabriciusstr_11.jpg)
+![Stolperstein Mayer, Balthasar](../../images/stolpersteine/92a30f152726_fabriciusstr_11.jpg)
 
 Luzerner Resolution
 
@@ -74,9 +74,9 @@ Fabriciusstraße 11
 ## Gallery
 
 <!-- gallery:standard -->
-![Mayer, Balthasar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/opferbilder/luzerner-resolution.jpg)
-![Mayer, Balthasar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/liste-aus-buchenwald.jpg)
-![Mayer, Balthasar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/stolperst_fabriciusstrasse_11_mayer_balthasar.jpg)
+![Mayer, Balthasar](../../images/stolpersteine/2d1f9ad16264_luzerner-resolution.jpg)
+![Mayer, Balthasar](../../images/stolpersteine/d7d87c9c8b3c_liste-aus-buchenwald.jpg)
+![Mayer, Balthasar](../../images/stolpersteine/3f74a2d3eb03_stolperst_fabriciusstrasse_11_mayer_balthasar.jpg)
 
 ## Links
 

@@ -12,7 +12,7 @@ filters:
 
 *Karl-König-Weg 36*
 
-![Stolperstein Zakowski, Josef und Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/standorte/karl-koenig-weg-36.jpg)
+![Stolperstein Zakowski, Josef und Elisabeth](../../images/stolpersteine/9be49efdea60_karl-koenig-weg-36.jpg)
 
 Elisabeth Zakowski, rechts, gemeinsam mit ihrer Freundin Katharina Schulz und den Kindern von Anna Seghers
 
@@ -249,9 +249,9 @@ Karl-König-Weg 36
 ## Gallery
 
 <!-- gallery:standard -->
-![Zakowski, Josef und Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/opferbilder/zakowski-elisabeth.jpg)
-![Zakowski, Josef und Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/zakowski-josef.jpg)
-![Zakowski, Josef und Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/zakowski-elisabeth.jpg)
+![Zakowski, Josef und Elisabeth](../../images/stolpersteine/ab886e34ae5d_zakowski-elisabeth.jpg)
+![Zakowski, Josef und Elisabeth](../../images/stolpersteine/97686990fec3_zakowski-josef.jpg)
+![Zakowski, Josef und Elisabeth](../../images/stolpersteine/921ba90ced91_zakowski-elisabeth.jpg)
 
 ## Links
 

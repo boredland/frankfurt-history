@@ -11,7 +11,7 @@ filters:
 
 *Frankenallee 60*
 
-![Stolperstein Stecker, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/standorte/frankenallee_60.jpg)
+![Stolperstein Stecker, Karl](../../images/stolpersteine/9ff54d255f84_frankenallee_60.jpg)
 
 Karl
 
@@ -196,8 +196,8 @@ Frankenallee 60
 ## Gallery
 
 <!-- gallery:standard -->
-![Stecker, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/opferbilder/frankenallee_60_stecker_karl_verbleib_1948.jpg)
-![Stecker, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_frankenallee_60_stecker_karl.jpg)
+![Stecker, Karl](../../images/stolpersteine/ac692a7825a8_frankenallee_60_stecker_karl_verbleib_1948.jpg)
+![Stecker, Karl](../../images/stolpersteine/df047b16f912_stolperst_frankenallee_60_stecker_karl.jpg)
 
 ## Links
 

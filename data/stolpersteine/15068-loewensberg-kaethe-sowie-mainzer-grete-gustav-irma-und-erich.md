@@ -12,7 +12,7 @@ filters:
 
 *Windmühlstraße 5*
 
-![Stolperstein Löwensberg, Käthe sowie Mainzer, Grete, Gustav, Irma und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/windmuehlstr_5.jpg)
+![Stolperstein Löwensberg, Käthe sowie Mainzer, Grete, Gustav, Irma und Erich](../../images/stolpersteine/3d8945032e86_windmuehlstr_5.jpg)
 
 Gustav
 
@@ -217,12 +217,12 @@ Windmühlstraße 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Löwensberg, Käthe sowie Mainzer, Grete, Gustav, Irma und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/windmuehlstr_5_loewensberg_kaethe.jpg)
-![Löwensberg, Käthe sowie Mainzer, Grete, Gustav, Irma und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_windmuehlstr_5_loewensberg_kaethe.jpg)
-![Löwensberg, Käthe sowie Mainzer, Grete, Gustav, Irma und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_windmuehlstr_5_mainzer_grete.jpg)
-![Löwensberg, Käthe sowie Mainzer, Grete, Gustav, Irma und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_windmuehlstr_5_mainzer_gustav.jpg)
-![Löwensberg, Käthe sowie Mainzer, Grete, Gustav, Irma und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_windmuehlstr_5_mainzer_irma.jpg)
-![Löwensberg, Käthe sowie Mainzer, Grete, Gustav, Irma und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_windmuehlstr_5_mainzer_erich.jpg)
+![Löwensberg, Käthe sowie Mainzer, Grete, Gustav, Irma und Erich](../../images/stolpersteine/16b77f67f323_windmuehlstr_5_loewensberg_kaethe.jpg)
+![Löwensberg, Käthe sowie Mainzer, Grete, Gustav, Irma und Erich](../../images/stolpersteine/c5e60a9dc709_stolperst_windmuehlstr_5_loewensberg_kaethe.jpg)
+![Löwensberg, Käthe sowie Mainzer, Grete, Gustav, Irma und Erich](../../images/stolpersteine/6aba753e521f_stolperst_windmuehlstr_5_mainzer_grete.jpg)
+![Löwensberg, Käthe sowie Mainzer, Grete, Gustav, Irma und Erich](../../images/stolpersteine/679e9ed8a1a2_stolperst_windmuehlstr_5_mainzer_gustav.jpg)
+![Löwensberg, Käthe sowie Mainzer, Grete, Gustav, Irma und Erich](../../images/stolpersteine/676f772f50a1_stolperst_windmuehlstr_5_mainzer_irma.jpg)
+![Löwensberg, Käthe sowie Mainzer, Grete, Gustav, Irma und Erich](../../images/stolpersteine/5023c7c8bb2a_stolperst_windmuehlstr_5_mainzer_erich.jpg)
 
 ## Links
 

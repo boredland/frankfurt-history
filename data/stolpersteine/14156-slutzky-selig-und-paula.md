@@ -11,7 +11,7 @@ filters:
 
 *Thüringer Straße 13*
 
-![Stolperstein Slutzky, Selig und Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/thueringer-strasse-13_1.jpg)
+![Stolperstein Slutzky, Selig und Paula](../../images/stolpersteine/73b3e4fa80fd_thueringer-strasse-13_1.jpg)
 
 Slutzky, Selig
 
@@ -220,10 +220,10 @@ Thüringer Straße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Slutzky, Selig und Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/slutzky-selig.jpg)
-![Slutzky, Selig und Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/slutzky-paula.jpg)
-![Slutzky, Selig und Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/tochter-lore-selig-slutzky-und-stieftochter-adele.jpg)
-![Slutzky, Selig und Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-slutzky-paula.jpg)
+![Slutzky, Selig und Paula](../../images/stolpersteine/6c25920696d9_slutzky-selig.jpg)
+![Slutzky, Selig und Paula](../../images/stolpersteine/3c4770a835de_slutzky-paula.jpg)
+![Slutzky, Selig und Paula](../../images/stolpersteine/4e399e05b34f_tochter-lore-selig-slutzky-und-stieftochter-adele.jpg)
+![Slutzky, Selig und Paula](../../images/stolpersteine/26d1bc0d885b_stolperstein-slutzky-paula.jpg)
 
 ## Links
 

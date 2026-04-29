@@ -11,7 +11,7 @@ filters:
 
 *Heiligkreuzgasse 13*
 
-![Stolperstein Heiligkreuzgasse 13](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/heiligkreuzgasse_13.jpg)
+![Stolperstein Heiligkreuzgasse 13](../../images/stolpersteine/73cfa0b2d32f_heiligkreuzgasse_13.jpg)
 
 Perlhefter, Samuel, Emma, Heinrich, Ludwig, Max, Albert, Karola, Erna, Jenny und Tana sowie Süß, Josef
 
@@ -458,18 +458,18 @@ Heiligkreuzgasse 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Heiligkreuzgasse 13](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/heiligkreuzgasse_13_samuel_perlhefter.jpg)
-![Heiligkreuzgasse 13](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_heiligkreuzgasse_13_perlhefter_samuel.jpg)
-![Heiligkreuzgasse 13](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_heiligkreuzgasse_13_perlhefter_emma.jpg)
-![Heiligkreuzgasse 13](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_heiligkreuzgasse_13_perlhefter_heinrich.jpg)
-![Heiligkreuzgasse 13](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_heiligkreuzgasse_13_perlhefter_ludwig.jpg)
-![Heiligkreuzgasse 13](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_heiligkreuzgasse_13_perlhefter_max.jpg)
-![Heiligkreuzgasse 13](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_heiligkreuzgasse_13_perlhefter_albert.jpg)
-![Heiligkreuzgasse 13](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_heiligkreuzgasse_13_perlhefter_karola.jpg)
-![Heiligkreuzgasse 13](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_heiligkreuzgasse_13_perlhefter_erna.jpg)
-![Heiligkreuzgasse 13](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_heiligkreuzgasse_13_perlhefter_jenny_400x400.jpg)
-![Heiligkreuzgasse 13](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_heiligkreuzgasse_13_perlhefter_tana.jpg)
-![Heiligkreuzgasse 13](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_heiligkreuzgasse_13_suess_josef.jpg)
+![Heiligkreuzgasse 13](../../images/stolpersteine/a87ce48c322b_heiligkreuzgasse_13_samuel_perlhefter.jpg)
+![Heiligkreuzgasse 13](../../images/stolpersteine/a0aa717301cc_stolperst_heiligkreuzgasse_13_perlhefter_samuel.jpg)
+![Heiligkreuzgasse 13](../../images/stolpersteine/419644ca5768_stolperst_heiligkreuzgasse_13_perlhefter_emma.jpg)
+![Heiligkreuzgasse 13](../../images/stolpersteine/3815d40e36f3_stolperst_heiligkreuzgasse_13_perlhefter_heinrich.jpg)
+![Heiligkreuzgasse 13](../../images/stolpersteine/ed34b0d76222_stolperst_heiligkreuzgasse_13_perlhefter_ludwig.jpg)
+![Heiligkreuzgasse 13](../../images/stolpersteine/2b9c53fafd80_stolperst_heiligkreuzgasse_13_perlhefter_max.jpg)
+![Heiligkreuzgasse 13](../../images/stolpersteine/c42ea8c9d3d3_stolperst_heiligkreuzgasse_13_perlhefter_albert.jpg)
+![Heiligkreuzgasse 13](../../images/stolpersteine/b82f88d4919c_stolperst_heiligkreuzgasse_13_perlhefter_karola.jpg)
+![Heiligkreuzgasse 13](../../images/stolpersteine/f5bc76e89c05_stolperst_heiligkreuzgasse_13_perlhefter_erna.jpg)
+![Heiligkreuzgasse 13](../../images/stolpersteine/9300dc90c139_stolperst_heiligkreuzgasse_13_perlhefter_jenny_400x400.jpg)
+![Heiligkreuzgasse 13](../../images/stolpersteine/a11d2c27c563_stolperst_heiligkreuzgasse_13_perlhefter_tana.jpg)
+![Heiligkreuzgasse 13](../../images/stolpersteine/179d2c1bc87c_stolperst_heiligkreuzgasse_13_suess_josef.jpg)
 
 ## Links
 

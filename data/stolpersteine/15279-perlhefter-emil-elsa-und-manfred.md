@@ -12,7 +12,7 @@ filters:
 
 *Fahrgasse 6*
 
-![Stolperstein Perlhefter, Emil, Elsa und Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/fahrgasse_6.jpg)
+![Stolperstein Perlhefter, Emil, Elsa und Manfred](../../images/stolpersteine/5e05d57dbf6c_fahrgasse_6.jpg)
 
 Emil
 
@@ -189,9 +189,9 @@ Fahrgasse 6 (12)
 ## Gallery
 
 <!-- gallery:standard -->
-![Perlhefter, Emil, Elsa und Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/stolperst_fahrgasse_6_perlhefter_emil.jpg)
-![Perlhefter, Emil, Elsa und Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/stolperst_fahrgasse_6_perlhefter_elsa.jpg)
-![Perlhefter, Emil, Elsa und Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/stolperst_fahrgasse_6_perlhefter_manfred.jpg)
+![Perlhefter, Emil, Elsa und Manfred](../../images/stolpersteine/dff1e5edc199_stolperst_fahrgasse_6_perlhefter_emil.jpg)
+![Perlhefter, Emil, Elsa und Manfred](../../images/stolpersteine/a3eafe06885d_stolperst_fahrgasse_6_perlhefter_elsa.jpg)
+![Perlhefter, Emil, Elsa und Manfred](../../images/stolpersteine/9704b8d1c460_stolperst_fahrgasse_6_perlhefter_manfred.jpg)
 
 ## Links
 

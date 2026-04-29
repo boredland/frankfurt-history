@@ -11,7 +11,7 @@ filters:
 
 *Königsteiner Straße 49*
 
-![Stolperstein Hartmann, Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/koenigsteiner_strasse_49.jpg)
+![Stolperstein Hartmann, Fritz](../../images/stolpersteine/215c3f0a27d6_koenigsteiner_strasse_49.jpg)
 
 Friedrich „Fritz“ Hartmann wurde 1905 als sechstes Kind in Höchst in eine ursozialdemokratische Familie geboren. Schon sein Vater und Großvater waren überzeugte Sozialdemokraten. Fritz wurde Maurer und trat mit 17 Jahren der Sozialistischen Arbeiterjugend (SAJ) bei. Bereits mit 21 Jahren war er dort im Kreisvorstand tätig. Mit 23 Jahren trat er in die SPD ein, wurde bald Schriftführer der Ortsgruppe und im Februar 1933 stellvertretender Bezirksleiter in der Höchster SPD.
 
@@ -136,8 +136,8 @@ Königsteiner Straße 49
 ## Gallery
 
 <!-- gallery:standard -->
-![Hartmann, Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/hartmann-fritz.jpg)
-![Hartmann, Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_koenigsteiner_strasse_49_hartmann_fritz.jpg)
+![Hartmann, Fritz](../../images/stolpersteine/c26f3e8dadd1_hartmann-fritz.jpg)
+![Hartmann, Fritz](../../images/stolpersteine/c92e6ff1a866_stolperst_koenigsteiner_strasse_49_hartmann_fritz.jpg)
 
 ## Links
 

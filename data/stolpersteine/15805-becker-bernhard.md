@@ -11,7 +11,7 @@ filters:
 
 *Schwarzburgstraße 50*
 
-![Stolperstein Becker, Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/schwarzburgstr_50.jpg)
+![Stolperstein Becker, Bernhard](../../images/stolpersteine/5fb243ce9811_schwarzburgstr_50.jpg)
 
 Bernhard Becker und sein Zwillingsbruder Ludwig Becker wuchsen ohne Eltern, vorwiegend bei den Großeltern auf. Sie besuchten die katholische Spohrschule. Nach dem Volksschulabschluss im Jahre 1929 absolvierten sie eine Ausbildung als Dekorationsmaler mit abschließender Gesellenprüfung 1932. Wie sein Bruder besuchte Bernhard später die Städelschule, verlor aber zweimal die ihm zunächst zugesagte Freistelle. Bernhard hat sich später wiederholt als Vollwaise bezeichnet und seine bescheidene Schulbildung bedauert. Starke Prägungen erhielten beide Brüder durch ihre Zugehörigkeit zur katholischen Pfarrei St. Bernhard. Hier hatte sich zu Beginn der dreißiger Jahre eine intensive Jugendarbeit entwickelt, die den Idealen der Jugendbewegung und der innerkirchlichen Reformbewegungen verpflichtet war. Die 1933 an die Macht gekommenen Nationalsozialisten zwangen die jungen Menschen immer stärker in die eigenen Jugendorganisationen Hitlerjugend und Jungvolk. Kirchliche Jugendarbeit wurde zunächst mehr und mehr eingeschränkt, dann immer stärkeren Repressionen ausgesetzt und schließlich im Februar 1936 ganz verboten.
 

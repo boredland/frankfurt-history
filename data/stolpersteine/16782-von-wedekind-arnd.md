@@ -11,7 +11,7 @@ filters:
 
 *Zimmerweg 4*
 
-![Stolperstein von Wedekind, Arnd](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/zimmerweg-4_1.jpg)
+![Stolperstein von Wedekind, Arnd](../../images/stolpersteine/409895942137_zimmerweg-4_1.jpg)
 
 Arnd von Wedekind mit seiner Verlobten
 
@@ -456,7 +456,7 @@ Zimmerweg 4
 ## Gallery
 
 <!-- gallery:standard -->
-![von Wedekind, Arnd](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/arnd-von-wedekind-mit-seiner-verlobten.jpg)
+![von Wedekind, Arnd](../../images/stolpersteine/4baec7b53bce_arnd-von-wedekind-mit-seiner-verlobten.jpg)
 
 ## Links
 

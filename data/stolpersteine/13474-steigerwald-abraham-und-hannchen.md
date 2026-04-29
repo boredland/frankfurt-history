@@ -11,7 +11,7 @@ filters:
 
 *Berger Straße 200*
 
-![Stolperstein Steigerwald, Abraham und Hannchen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/bergerstr_200.jpg)
+![Stolperstein Steigerwald, Abraham und Hannchen](../../images/stolpersteine/cb69c62d65dc_bergerstr_200.jpg)
 
 Abraham Steigerwald wurde in Dörnigheim als Sohn von Wolf Steigerwald und Johanna Steigerwald, geb. Reinhardt, geboren. Um 1896 heiratete er Karoline Steigerwald, geb. Friedberger, in Frankfurt, etwa 1921/1922 in zweiter Ehe Hannchen Steigerwald, geb. Stern, aus Lendershausen (Unterfranken); 1901 und 1912 wurden zwei Söhne aus erster Ehe in Frankfurt geboren, die nach dem Zweiten Weltkrieg in den USA lebten. Zwei weitere Söhne starben 1952 und 1955.
 
@@ -104,7 +104,7 @@ Berger Straße 200
 ## Gallery
 
 <!-- gallery:standard -->
-![Steigerwald, Abraham und Hannchen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_bergerstr_200_steigerwald_abraham.jpg)
+![Steigerwald, Abraham und Hannchen](../../images/stolpersteine/150860a6b4d0_stolperst_bergerstr_200_steigerwald_abraham.jpg)
 
 ## Links
 

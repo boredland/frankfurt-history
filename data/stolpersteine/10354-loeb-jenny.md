@@ -11,7 +11,7 @@ filters:
 
 *Im Burgfeld 153*
 
-![Stolperstein Loeb, Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/im_burgfeld_153__400x300.jpg)
+![Stolperstein Loeb, Jenny](../../images/stolpersteine/1bf48e154025_im_burgfeld_153__400x300.jpg)
 
 Jenny Loeb wurde in Frankfurt geboren und lebte seit 1932 in der Hadrianstraße 13, ab 1934 im Burgfeld 153 als ledige Hausgehilfin zur Untermiete. Zum 4.6.1941 ist sie dort abgemeldet mit neuer Adresse Bäckerweg 36. Bei dieser Adresse handelt es sich um ein sogenanntes Judenhaus, in dem jüdische Bürger zusammengepfercht wurden, bis sie zur Deportation abgeholt wurden.
 
@@ -96,7 +96,7 @@ Im Burgfeld 153
 ## Gallery
 
 <!-- gallery:standard -->
-![Loeb, Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/loeb-jenny.jpg)
+![Loeb, Jenny](../../images/stolpersteine/98aa00775f21_loeb-jenny.jpg)
 
 ## Links
 

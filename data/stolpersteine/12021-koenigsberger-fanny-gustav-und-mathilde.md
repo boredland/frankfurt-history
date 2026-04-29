@@ -11,7 +11,7 @@ filters:
 
 *Heinestraße 3*
 
-![Stolperstein Königsberger, Fanny, Gustav und Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/heinestr_3.jpg)
+![Stolperstein Königsberger, Fanny, Gustav und Mathilde](../../images/stolpersteine/313c9d2d6673_heinestr_3.jpg)
 
 Die
 
@@ -448,7 +448,7 @@ Heinestraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Königsberger, Fanny, Gustav und Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_heinestr_3_koenigsberger_fanny.jpg)
+![Königsberger, Fanny, Gustav und Mathilde](../../images/stolpersteine/e73b2f3f158a_stolperst_heinestr_3_koenigsberger_fanny.jpg)
 
 ## Links
 

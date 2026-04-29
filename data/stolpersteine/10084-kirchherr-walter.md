@@ -11,7 +11,7 @@ filters:
 
 *Berger Straße 84*
 
-![Stolperstein Kirchherr, Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/berger_str_84.jpg)
+![Stolperstein Kirchherr, Walter](../../images/stolpersteine/f8ffe6450ad8_berger_str_84.jpg)
 
 Walter Jakob Kirchherr wurde in Frankfurt am
 
@@ -538,9 +538,9 @@ Berger Straße 84
 ## Gallery
 
 <!-- gallery:standard -->
-![Kirchherr, Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/berger_str_84_kirchherr_walter_jung.jpg)
-![Kirchherr, Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/berger_str_84_kirchherr_walter_aelter.jpg)
-![Kirchherr, Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_berger_str_84_kirchherr_walter.jpg)
+![Kirchherr, Walter](../../images/stolpersteine/938c4d3fcf69_berger_str_84_kirchherr_walter_jung.jpg)
+![Kirchherr, Walter](../../images/stolpersteine/7f6247bad6b8_berger_str_84_kirchherr_walter_aelter.jpg)
+![Kirchherr, Walter](../../images/stolpersteine/fdd101bb0d7c_stolperst_berger_str_84_kirchherr_walter.jpg)
 
 ## Links
 

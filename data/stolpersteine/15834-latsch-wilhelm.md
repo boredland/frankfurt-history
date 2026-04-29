@@ -11,7 +11,7 @@ filters:
 
 *Stoltzestraße 14*
 
-![Stolperstein Latsch, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stoltzestrasse_14_haus.jpg)
+![Stolperstein Latsch, Wilhelm](../../images/stolpersteine/e2fad7476ec2_stoltzestrasse_14_haus.jpg)
 
 Wilhelm Latsch aus Gelnhausen war gelernter Mechaniker und wohnte mit seiner Ehefrau und drei Kindern in der Stoltzestraße 14 in Frankfurt a.M. Er war Mitglied der SPD und zunächst als Büchereihelfer bei der städtischen Volksbücherei beschäftigt. Im September 1933 wurde ihm in einem Schreiben des Frankfurter Oberbürgermeisters Krebs seine fristlose Entlassung mitgeteilt „da Sie nicht die Gewähr dafür bieten, dass Sie jederzeit rückhaltlos für den nationalen Staat eintreten“. Erst drei Jahre später fand er wieder eine Stelle, diesmal als Maschinenschlosser bei der Firma Simon in Frankfurt.
 

@@ -11,7 +11,7 @@ filters:
 
 *Flußgasse 5*
 
-![Stolperstein Markus, Ferdinand](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/flussgasse-5-7_1.jpg)
+![Stolperstein Markus, Ferdinand](../../images/stolpersteine/92b9b110c62d_flussgasse-5-7_1.jpg)
 
 Ferdinand Markus, Sohn von Rosalie und Abraham Markus (siehe Alt-Rödelheim 40), war mit der taubstummen, nichtjüdischen Johanna M. verheiratet und hatte mit ihr eine Tochter, Edith, geb. am 1. Oktober oder November 1924. Seine Schwester Paula gab gegenüber der Holocaust-Gedenkstätte Yad Vashem 1971 an, dass er mit Flora R. verheiratet gewesen sei und eine gemeinsame Tochter Inge habe. Nach dieser war Ferdinand Markus noch ein zweites mal verheiratet. Aktenkundig wurde seine Scheidung, aber der Zeitpunkt ist nicht bekannt.
 
@@ -98,9 +98,9 @@ Flußgasse 5-7
 ## Gallery
 
 <!-- gallery:standard -->
-![Markus, Ferdinand](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/markus-ferdinand.jpg)
-![Markus, Ferdinand](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/ferdinand-markus-zweite-reihe-ganz-rechts.jpg)
-![Markus, Ferdinand](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/flussgasse-5-haus.jpg)
+![Markus, Ferdinand](../../images/stolpersteine/a79a031ef35f_markus-ferdinand.jpg)
+![Markus, Ferdinand](../../images/stolpersteine/8b76d0fa90ba_ferdinand-markus-zweite-reihe-ganz-rechts.jpg)
+![Markus, Ferdinand](../../images/stolpersteine/dd2e3018b1fd_flussgasse-5-haus.jpg)
 
 ## Links
 

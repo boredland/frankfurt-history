@@ -11,7 +11,7 @@ filters:
 
 *Sonnemannstraße 1*
 
-![Stolperstein Krause, Adelheid und Irma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/sonnemannstrasse-1_1.jpg)
+![Stolperstein Krause, Adelheid und Irma](../../images/stolpersteine/3da136eb72e2_sonnemannstrasse-1_1.jpg)
 
 Adelheid Krause, geb. Baum, wurde am 27.11.1879 geboren. Der Geburtsort ist unbekannt. Ihre Tochter Irma Krause wurde am 15.06.1902 in Frankfurt am Main geboren. Sie lebten in der Sonnemannstraße 1, die von den Nationalsozialisten in Max-Eyth-Straße umbenannt worden war.
 
@@ -208,7 +208,7 @@ Sonnemannstraße 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Krause, Adelheid und Irma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-krause-irma.jpg)
+![Krause, Adelheid und Irma](../../images/stolpersteine/6fd11f759b65_stolperstein-krause-irma.jpg)
 
 ## Links
 

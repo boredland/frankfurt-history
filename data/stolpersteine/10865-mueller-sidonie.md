@@ -11,7 +11,7 @@ filters:
 
 *Alt-Niedereschbach 15*
 
-![Stolperstein Müller, Sidonie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/standort/alt-niedereschbach_15.jpg)
+![Stolperstein Müller, Sidonie](../../images/stolpersteine/2a868b32697b_alt-niedereschbach_15.jpg)
 
 Sidonie
 
@@ -102,7 +102,7 @@ Alt-Niedereschbach 15
 ## Gallery
 
 <!-- gallery:standard -->
-![Müller, Sidonie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/stolperst_alt-niederschbach_15_mueller_sidonie.jpg)
+![Müller, Sidonie](../../images/stolpersteine/0814d090a3bc_stolperst_alt-niederschbach_15_mueller_sidonie.jpg)
 
 ## Links
 

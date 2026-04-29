@@ -11,7 +11,7 @@ filters:
 
 *Treburer Straße 23*
 
-![Stolperstein Oppenheimer, Gustav und Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/treburer_str_23.jpg)
+![Stolperstein Oppenheimer, Gustav und Toni](../../images/stolpersteine/6296ea0167d2_treburer_str_23.jpg)
 
 Die Geschwister Toni und Gustav Oppenheimer wurden in Istanbul geboren. Gustav Oppenheimer betrieb seit den 1920er-Jahren eine Spiel- und Schreibwarengroßhandlung in der Innenstadt. Toni Oppenheimer arbeitete als Prokuristin in der Firma. Seit Anfang der 1930er-Jahre lebte das Geschwisterpaar in der Treburer Straße 23.
 
@@ -136,8 +136,8 @@ Treburer Straße 23
 ## Gallery
 
 <!-- gallery:standard -->
-![Oppenheimer, Gustav und Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/oppenheimer_gustav.jpg)
-![Oppenheimer, Gustav und Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/oppenheimer_toni.jpg)
+![Oppenheimer, Gustav und Toni](../../images/stolpersteine/9ca6c14b02d3_oppenheimer_gustav.jpg)
+![Oppenheimer, Gustav und Toni](../../images/stolpersteine/e45f151da570_oppenheimer_toni.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Alt-Bergen 6*
 
-![Stolperstein Weil, Mina, Walter Siegfried und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/standort/stolpersteine_alt-bergen_6.jpg)
+![Stolperstein Weil, Mina, Walter Siegfried und Richard](../../images/stolpersteine/a396da56a539_stolpersteine_alt-bergen_6.jpg)
 
 Mina (Minna) Weil
 
@@ -164,10 +164,10 @@ Alt Bergen 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Weil, Mina, Walter Siegfried und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/minna-weil.jpg)
-![Weil, Mina, Walter Siegfried und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolperst_alt-bergen_6_weil_mina.jpg)
-![Weil, Mina, Walter Siegfried und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolperst_alt-bergen_6_weil_walter_siegfried.jpg)
-![Weil, Mina, Walter Siegfried und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolperst_alt-bergen_6_weil_richard.jpg)
+![Weil, Mina, Walter Siegfried und Richard](../../images/stolpersteine/251e787b792e_minna-weil.jpg)
+![Weil, Mina, Walter Siegfried und Richard](../../images/stolpersteine/85ccca989a2c_stolperst_alt-bergen_6_weil_mina.jpg)
+![Weil, Mina, Walter Siegfried und Richard](../../images/stolpersteine/4d60a570c709_stolperst_alt-bergen_6_weil_walter_siegfried.jpg)
+![Weil, Mina, Walter Siegfried und Richard](../../images/stolpersteine/9d13d314eb65_stolperst_alt-bergen_6_weil_richard.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Marbachweg 337*
 
-![Stolperstein Hofmann, Babette und Alfred Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/marbachweg_337_haus.jpg)
+![Stolperstein Hofmann, Babette und Alfred Max](../../images/stolpersteine/653f7f8a0cd5_marbachweg_337_haus.jpg)
 
 Max Alfred Hofmann aus Straßburg (Elsass), und Babette Hofmann aus Berlin hatten zwei Töchter und einen Sohn, denen die Flucht in das US-amerikanische Exil beziehungsweise nach Südafrika gelang. Alfred Hofmann war in der Annoncen-Abteilung beim Verlag Rudolf Mosse in Berlin beschäftigt; Versetzung nach Frankfurt um 1910. Soldat im Ersten Weltkrieg. Anschließend Prokurist in einer Lebensmittelgroßhandlung; etwa um 1925 als selbständiger Kaufmann registriert. Zeitweise Geschäftsführer der Weißfrauenhof-Kellerei; zuletzt verfolgungsbedingt nur noch deren Vertreter. Die Kellerei wurde 1938 zwangsweise verkauft.
 

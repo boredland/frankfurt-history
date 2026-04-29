@@ -11,7 +11,7 @@ filters:
 
 *Uhlandstraße 50*
 
-![Stolperstein Grynblatt, Benzijan und Tscharka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/uhlandstrasse-50_1.jpg)
+![Stolperstein Grynblatt, Benzijan und Tscharka](../../images/stolpersteine/59c4c133838c_uhlandstrasse-50_1.jpg)
 
 Benzijan, in den Unterlagen auch Benjamin, Grünblatt wurde in Warschau geboren und kam 1909 von dort nach Frankfurt. Am 13.12.1909 meldet er sich hier an. 1914, Adresse Mainstr. 18, meldet er sich in Frankfurt wieder ab, kehrt aber am 08.08.1917 von Bad Nauheim aus dorthin zurück. 1927 und 1932 ist er in der Seilerstraße 16 nachzuweisen. 1933 oder 1934 zieht er in die Uhlandstraße 50, 2. Stock. Nach einer Vermögensaufstellung aus den Entschädigungsakten muss es sich um eine Wohnung mit Wohnzimmer, Herrenzimmer, Schlafzimmer sowie Küche und Bad gehandelt haben. Als Beruf ist Kaufmann angegeben; er handelte nach Angaben der Tochter mit Kurzwaren. Ein Zeuge erinnerte sich, dass er als Kaufmann in der Kurzwarenbranche gearbeitet habe. Ab 1935 ist in den Adressbüchern „Privat.“ ausgewiesen, d.h. er konnte seine berufliche Tätigkeit wohl nicht weiterführen.
 
@@ -212,7 +212,7 @@ Uhlandstraße 50
 ## Gallery
 
 <!-- gallery:standard -->
-![Grynblatt, Benzijan und Tscharka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-grynblatt-tscharka.jpg)
+![Grynblatt, Benzijan und Tscharka](../../images/stolpersteine/75ecb84e88d4_stolperstein-grynblatt-tscharka.jpg)
 
 ## Links
 

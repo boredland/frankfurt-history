@@ -11,7 +11,7 @@ filters:
 
 *Palmengartenstraße 9*
 
-![Stolperstein Sichel, Hermine und Stavenhagen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/palmengartenstr_9.jpg)
+![Stolperstein Sichel, Hermine und Stavenhagen, Sophie](../../images/stolpersteine/177cf781198b_palmengartenstr_9.jpg)
 
 Hermine Sichel wurde in Frankfurt am Main als achtes
 
@@ -604,19 +604,19 @@ Palmengartenstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Sichel, Hermine und Stavenhagen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/palmengartenstr_9_sichel_hermine_1.jpg)
-![Sichel, Hermine und Stavenhagen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/palmengartenstr_9_stavenhagen_sophie_1.jpg)
-![Sichel, Hermine und Stavenhagen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/palmengartenstr_9_stavenhagen_sophie_2.jpg)
-![Sichel, Hermine und Stavenhagen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/palmengartenstr_9_stavenhagen_sophie_3.jpg)
-![Sichel, Hermine und Stavenhagen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/palmengartenstr_9_stavenhagen_sophie_4.jpg)
-![Sichel, Hermine und Stavenhagen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/palmengartenstr_9_sichel_hermine_2.jpg)
-![Sichel, Hermine und Stavenhagen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/palmengartenstr_9_sichel_hermine_3.jpg)
-![Sichel, Hermine und Stavenhagen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/palmengartenstr_9_sichel_hermine_4.jpg)
-![Sichel, Hermine und Stavenhagen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/palmengartenstr_9_stavenhagen_sophie_5.jpg)
-![Sichel, Hermine und Stavenhagen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/palmengartenstr_9_sichel_hermine_5.jpg)
-![Sichel, Hermine und Stavenhagen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/palmengartenstr_9_sichel_hermine_6.jpg)
-![Sichel, Hermine und Stavenhagen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/sichel-hermine.jpg)
-![Sichel, Hermine und Stavenhagen, Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stavenhagen-sophie.jpg)
+![Sichel, Hermine und Stavenhagen, Sophie](../../images/stolpersteine/534b7cd98976_palmengartenstr_9_sichel_hermine_1.jpg)
+![Sichel, Hermine und Stavenhagen, Sophie](../../images/stolpersteine/64bcdaf860c8_palmengartenstr_9_stavenhagen_sophie_1.jpg)
+![Sichel, Hermine und Stavenhagen, Sophie](../../images/stolpersteine/ca798843f3bb_palmengartenstr_9_stavenhagen_sophie_2.jpg)
+![Sichel, Hermine und Stavenhagen, Sophie](../../images/stolpersteine/5080ec038032_palmengartenstr_9_stavenhagen_sophie_3.jpg)
+![Sichel, Hermine und Stavenhagen, Sophie](../../images/stolpersteine/886318d80528_palmengartenstr_9_stavenhagen_sophie_4.jpg)
+![Sichel, Hermine und Stavenhagen, Sophie](../../images/stolpersteine/2c5b29622e51_palmengartenstr_9_sichel_hermine_2.jpg)
+![Sichel, Hermine und Stavenhagen, Sophie](../../images/stolpersteine/1bb45a6eeab7_palmengartenstr_9_sichel_hermine_3.jpg)
+![Sichel, Hermine und Stavenhagen, Sophie](../../images/stolpersteine/fdae645b10ca_palmengartenstr_9_sichel_hermine_4.jpg)
+![Sichel, Hermine und Stavenhagen, Sophie](../../images/stolpersteine/e9596291ccd8_palmengartenstr_9_stavenhagen_sophie_5.jpg)
+![Sichel, Hermine und Stavenhagen, Sophie](../../images/stolpersteine/1dfea9aea41e_palmengartenstr_9_sichel_hermine_5.jpg)
+![Sichel, Hermine und Stavenhagen, Sophie](../../images/stolpersteine/5182f67bb654_palmengartenstr_9_sichel_hermine_6.jpg)
+![Sichel, Hermine und Stavenhagen, Sophie](../../images/stolpersteine/adaa8eeae164_sichel-hermine.jpg)
+![Sichel, Hermine und Stavenhagen, Sophie](../../images/stolpersteine/07db210f2d2d_stavenhagen-sophie.jpg)
 
 ## Links
 

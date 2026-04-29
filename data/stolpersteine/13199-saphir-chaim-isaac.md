@@ -11,7 +11,7 @@ filters:
 
 *Rotlintstraße 98*
 
-![Stolperstein Saphir, Chaim Isaac](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/rotlintstr_98.jpg)
+![Stolperstein Saphir, Chaim Isaac](../../images/stolpersteine/6ebe7f5957fb_rotlintstr_98.jpg)
 
 Chaim Isaak Saphir stammte aus Tarnopol in Polen und war von Beruf Buchhalter. Während seines langen Aufenthaltes in Deutschland blieb er polnischer Staatsbürger. Er heiratete Anna Grünewald in Frankfurt, 1907 wird die Tochter Rosi geboren. Die Ehefrau starb 1937 und wurde auf dem Friedhof in der Eckenheimer Landstraße beerdigt. Der Tochter gelang später die Flucht nach Palästina.
 
@@ -406,7 +406,7 @@ Rotlintstraße 98
 ## Gallery
 
 <!-- gallery:standard -->
-![Saphir, Chaim Isaac](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-saphir-chaim-isaac.jpg)
+![Saphir, Chaim Isaac](../../images/stolpersteine/96daa684df90_stolperstein-saphir-chaim-isaac.jpg)
 
 ## Links
 

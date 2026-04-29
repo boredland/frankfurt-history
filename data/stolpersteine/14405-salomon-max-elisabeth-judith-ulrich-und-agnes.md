@@ -11,7 +11,7 @@ filters:
 
 *Eppsteiner Straße 45*
 
-![Stolperstein Salomon, Max, Elisabeth, Judith, Ulrich und Agnes](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/eppsteiner_strasse_45.jpg)
+![Stolperstein Salomon, Max, Elisabeth, Judith, Ulrich und Agnes](../../images/stolpersteine/57eab8d020ec_eppsteiner_strasse_45.jpg)
 
 Max
 
@@ -558,11 +558,11 @@ Eppsteiner Straße 45
 ## Gallery
 
 <!-- gallery:standard -->
-![Salomon, Max, Elisabeth, Judith, Ulrich und Agnes](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eppsteiner_strasse_45_salomon_agnes.jpg)
-![Salomon, Max, Elisabeth, Judith, Ulrich und Agnes](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eppsteiner_strasse_45_salomon_elsbeth.jpg)
-![Salomon, Max, Elisabeth, Judith, Ulrich und Agnes](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eppsteiner_strasse_45_salomon_judith.jpg)
-![Salomon, Max, Elisabeth, Judith, Ulrich und Agnes](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eppsteiner_strasse_45_salomon_max.jpg)
-![Salomon, Max, Elisabeth, Judith, Ulrich und Agnes](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eppsteiner_strasse_45_salomon_ulrich.jpg)
+![Salomon, Max, Elisabeth, Judith, Ulrich und Agnes](../../images/stolpersteine/8f2aacb39d02_stolperst_eppsteiner_strasse_45_salomon_agnes.jpg)
+![Salomon, Max, Elisabeth, Judith, Ulrich und Agnes](../../images/stolpersteine/56dc75f66b17_stolperst_eppsteiner_strasse_45_salomon_elsbeth.jpg)
+![Salomon, Max, Elisabeth, Judith, Ulrich und Agnes](../../images/stolpersteine/a8786f6fd504_stolperst_eppsteiner_strasse_45_salomon_judith.jpg)
+![Salomon, Max, Elisabeth, Judith, Ulrich und Agnes](../../images/stolpersteine/82b1aa830809_stolperst_eppsteiner_strasse_45_salomon_max.jpg)
+![Salomon, Max, Elisabeth, Judith, Ulrich und Agnes](../../images/stolpersteine/6e98d90d156e_stolperst_eppsteiner_strasse_45_salomon_ulrich.jpg)
 
 ## Links
 

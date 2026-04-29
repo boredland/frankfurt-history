@@ -11,7 +11,7 @@ filters:
 
 *Marktstraße 51*
 
-![Stolperstein Hirsch, Frieda, Jettchen, Joachim und Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/marktstrasse_51_haus.jpg)
+![Stolperstein Hirsch, Frieda, Jettchen, Joachim und Wilhelm](../../images/stolpersteine/094a3e736db9_marktstrasse_51_haus.jpg)
 
 Hirsch, Wilhelm
 
@@ -136,7 +136,7 @@ Marktstraße 51
 ## Gallery
 
 <!-- gallery:standard -->
-![Hirsch, Frieda, Jettchen, Joachim und Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/hirsch-wilhelm.jpg)
+![Hirsch, Frieda, Jettchen, Joachim und Wilhelm](../../images/stolpersteine/6e89ea6e6ecb_hirsch-wilhelm.jpg)
 
 ## Links
 

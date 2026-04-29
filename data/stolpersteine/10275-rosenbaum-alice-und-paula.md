@@ -11,7 +11,7 @@ filters:
 
 *Grüneburgweg 94*
 
-![Stolperstein Rosenbaum, Alice und Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/grueneburgweg-94_1.jpg)
+![Stolperstein Rosenbaum, Alice und Paula](../../images/stolpersteine/48cc830b1bdd_grueneburgweg-94_1.jpg)
 
 Die Geschwister Alice und Paula Rosenbaum wurden in Frankfurt am Main geboren. Sie waren die Töchter des Kaufmanns Gerson Rosenbaum. Beide blieben ledig.
 
@@ -460,8 +460,8 @@ Grüneburgweg 94
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenbaum, Alice und Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperstein_grueneburgweg_94_rosenbaum_alice.jpg)
-![Rosenbaum, Alice und Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperstein_grueneburgweg_94_rosenbaum_raula.jpg)
+![Rosenbaum, Alice und Paula](../../images/stolpersteine/4fa3a75d96e0_stolperstein_grueneburgweg_94_rosenbaum_alice.jpg)
+![Rosenbaum, Alice und Paula](../../images/stolpersteine/52a768cfcd06_stolperstein_grueneburgweg_94_rosenbaum_raula.jpg)
 
 ## Links
 

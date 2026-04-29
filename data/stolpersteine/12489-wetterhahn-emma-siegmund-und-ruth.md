@@ -11,7 +11,7 @@ filters:
 
 *Varrentrappstraße 49*
 
-![Stolperstein Wetterhahn, Emma, Siegmund und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/varrentrappstr_47.jpg)
+![Stolperstein Wetterhahn, Emma, Siegmund und Ruth](../../images/stolpersteine/1c326157bca4_varrentrappstr_47.jpg)
 
 Ruth mit ihren Eltern Emma und Siegmund Wetterhahn
 
@@ -154,13 +154,13 @@ Varrentrappstraße 49
 ## Gallery
 
 <!-- gallery:standard -->
-![Wetterhahn, Emma, Siegmund und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/ruth-mit-ihren-eltern-emma-und-siegmund-wetterhahn.jpg)
-![Wetterhahn, Emma, Siegmund und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/ruth-und-emma-wetterhahn.jpg)
-![Wetterhahn, Emma, Siegmund und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/wetterhahn-ruth.jpg)
-![Wetterhahn, Emma, Siegmund und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/klassenfoto-mit-ruth-wetterhahn-6-von-links-vorne-stehend-und-magda-schulz-rechts-dahinter.jpg)
-![Wetterhahn, Emma, Siegmund und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_varrentrappstr_47_wetterhahn_emma.jpg)
-![Wetterhahn, Emma, Siegmund und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_varrentrappstr_47_wetterhahn_ruth.jpg)
-![Wetterhahn, Emma, Siegmund und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_varrentrappstr_47_wetterhahn_sigmund.jpg)
+![Wetterhahn, Emma, Siegmund und Ruth](../../images/stolpersteine/0b107a84b05a_ruth-mit-ihren-eltern-emma-und-siegmund-wetterhahn.jpg)
+![Wetterhahn, Emma, Siegmund und Ruth](../../images/stolpersteine/865c0276d075_ruth-und-emma-wetterhahn.jpg)
+![Wetterhahn, Emma, Siegmund und Ruth](../../images/stolpersteine/13f3f692b23a_wetterhahn-ruth.jpg)
+![Wetterhahn, Emma, Siegmund und Ruth](../../images/stolpersteine/411e27e71e0e_klassenfoto-mit-ruth-wetterhahn-6-von-links-vorne-stehend-un.jpg)
+![Wetterhahn, Emma, Siegmund und Ruth](../../images/stolpersteine/151c33721edf_stolperst_varrentrappstr_47_wetterhahn_emma.jpg)
+![Wetterhahn, Emma, Siegmund und Ruth](../../images/stolpersteine/f15afff8317f_stolperst_varrentrappstr_47_wetterhahn_ruth.jpg)
+![Wetterhahn, Emma, Siegmund und Ruth](../../images/stolpersteine/ffea3d73a8f4_stolperst_varrentrappstr_47_wetterhahn_sigmund.jpg)
 
 ## Links
 

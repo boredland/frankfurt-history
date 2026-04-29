@@ -11,7 +11,7 @@ filters:
 
 *Kölner Straße 69*
 
-![Stolperstein Strauß, Rebecka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/koelner_strasse_69.jpg)
+![Stolperstein Strauß, Rebecka](../../images/stolpersteine/4ae30619d6ed_koelner_strasse_69.jpg)
 
 Ruth Rebecka Strauß wurde wie ihre Brüder Jakob und Karl in Niederweidbach (jetzt: Bischoffen) geboren. Sie war mit Wolf Siegmund Strauss, geb. 14.6.1874, verheiratet. Dieser starb am 23.12.1938, sein Grab befindet sich auf dem Jüdischen Friedhof in der Eckenheimer Landstr. Block 5 D 22.
 
@@ -88,9 +88,9 @@ Kölner Straße 69
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauß, Rebecka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/strauss-rebecka.jpg)
-![Strauß, Rebecka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/kurz--und-haushaltswarengeschaeft-strauss.jpg)
-![Strauß, Rebecka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_koelner_strasse_69_strauss_rebecka.jpg)
+![Strauß, Rebecka](../../images/stolpersteine/b4628cefbc6e_strauss-rebecka.jpg)
+![Strauß, Rebecka](../../images/stolpersteine/f2f68676a15c_kurz--und-haushaltswarengeschaeft-strauss.jpg)
+![Strauß, Rebecka](../../images/stolpersteine/9a1a7210d39e_stolperst_koelner_strasse_69_strauss_rebecka.jpg)
 
 ## Links
 

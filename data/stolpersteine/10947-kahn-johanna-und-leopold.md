@@ -11,7 +11,7 @@ filters:
 
 *Bockenheimer Landstraße 91*
 
-![Stolperstein Kahn, Johanna und Leopold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/bockenheimer-landstrasse-91_1.jpg)
+![Stolperstein Kahn, Johanna und Leopold](../../images/stolpersteine/2d972dbd5a2d_bockenheimer-landstrasse-91_1.jpg)
 
 Johanna und Leopold Kahn
 
@@ -470,10 +470,10 @@ Bockenheimer Landstraße 91
 ## Gallery
 
 <!-- gallery:standard -->
-![Kahn, Johanna und Leopold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/johanna-und-leopold-kahn.jpg)
-![Kahn, Johanna und Leopold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/kaufhaus-kahn-1924.jpg)
-![Kahn, Johanna und Leopold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/leopold-kahn-im-krankenhaus.jpg)
-![Kahn, Johanna und Leopold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperstein_bockenheimer_landstr_91_kahn_johanna.jpg)
+![Kahn, Johanna und Leopold](../../images/stolpersteine/e12ec7ba39b4_johanna-und-leopold-kahn.jpg)
+![Kahn, Johanna und Leopold](../../images/stolpersteine/96f619b5d584_kaufhaus-kahn-1924.jpg)
+![Kahn, Johanna und Leopold](../../images/stolpersteine/fb59ebe17a8d_leopold-kahn-im-krankenhaus.jpg)
+![Kahn, Johanna und Leopold](../../images/stolpersteine/6667e6f9eadb_stolperstein_bockenheimer_landstr_91_kahn_johanna.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Hebelstraße 13*
 
-![Stolperstein Löwenthal, Leopold und Katz, Nanni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/hebelstrasse_13_haus.jpg)
+![Stolperstein Löwenthal, Leopold und Katz, Nanni](../../images/stolpersteine/74755b251c7b_hebelstrasse_13_haus.jpg)
 
 Leopold Löwenthal und Bertha geb. Neumann, geboren am 17. Oktober 1867 in Schöllkrippen, hatten vier Töchter: Nanni, geboren am 6. Mai 1890, Recha, geboren am 13. Oktober 1893, Cäcilia geboren am 28. Oktober 1897 sowie eine weitere Tochter Elsa. Leopold Löwenthal handelte mit Textilien. Bertha Löwenthal starb am 3. November 1936 in Hösbach.
 
@@ -406,7 +406,7 @@ Hebelstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Löwenthal, Leopold und Katz, Nanni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-loewenthal-leopold.jpg)
+![Löwenthal, Leopold und Katz, Nanni](../../images/stolpersteine/9df03ee11591_stolperstein-loewenthal-leopold.jpg)
 
 ## Links
 

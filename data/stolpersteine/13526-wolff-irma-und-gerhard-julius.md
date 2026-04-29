@@ -12,7 +12,7 @@ filters:
 
 *Dalbergstraße 2a*
 
-![Stolperstein Wolff, Irma und Gerhard Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/dalbergstr_2a.jpg)
+![Stolperstein Wolff, Irma und Gerhard Julius](../../images/stolpersteine/9cb5cf4a80fa_dalbergstr_2a.jpg)
 
 Irma
 
@@ -181,7 +181,7 @@ Dalbergstraße 2a
 ## Gallery
 
 <!-- gallery:standard -->
-![Wolff, Irma und Gerhard Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_dalbergstr_2a_wolff_irma.jpg)
+![Wolff, Irma und Gerhard Julius](../../images/stolpersteine/d79f86364e6c_stolperst_dalbergstr_2a_wolff_irma.jpg)
 
 ## Links
 

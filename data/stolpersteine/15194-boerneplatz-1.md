@@ -12,7 +12,7 @@ filters:
 
 *Börneplatz 1*
 
-![Stolperstein Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/boerneplatz_1.jpg)
+![Stolperstein Börneplatz 1](../../images/stolpersteine/28aa2bc34dbc_boerneplatz_1.jpg)
 
 Heinrich, Emilie, Philipp, Zilli, Jonas, Martha, Max, Julius, Elisabeth, Edith, Arthur, Josef und Flora
 
@@ -353,22 +353,22 @@ Börneplatz 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/boerneplatz_1_heinrich_philipp_1.jpg)
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/boerneplatz_1_heinrich_philipp_2.jpg)
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/boerneplatz_1_heinrich_zilli.jpg)
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/boerneplatz_1_heinrich_emilie.jpg)
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_boerneplatz_1_heinrich_emilie.jpg)
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_boerneplatz_1_heinrich_philipp.jpg)
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_boerneplatz_1_heinrich_zilli.jpg)
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_boerneplatz_1_heinrich_jonas_albi.jpg)
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_boerneplatz_1_heinrich_martha.jpg)
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_boerneplatz_1_heinrich_max.jpg)
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_boerneplatz_1_heinrich_julius.jpg)
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_boerneplatz_1_heinrich_elisabeth.jpg)
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_boerneplatz_1_heinrich_edith.jpg)
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_boerneplatz_1_heinrich_arthur.jpg)
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_boerneplatz_1_heinrich_josef.jpg)
-![Börneplatz 1](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_boerneplatz_1_heinrich_flora.jpg)
+![Börneplatz 1](../../images/stolpersteine/313ac0ff00d6_boerneplatz_1_heinrich_philipp_1.jpg)
+![Börneplatz 1](../../images/stolpersteine/3c2839f26110_boerneplatz_1_heinrich_philipp_2.jpg)
+![Börneplatz 1](../../images/stolpersteine/8e9565664e93_boerneplatz_1_heinrich_zilli.jpg)
+![Börneplatz 1](../../images/stolpersteine/92ef8c158dae_boerneplatz_1_heinrich_emilie.jpg)
+![Börneplatz 1](../../images/stolpersteine/278850c13819_stolperst_boerneplatz_1_heinrich_emilie.jpg)
+![Börneplatz 1](../../images/stolpersteine/62e1ce6778ad_stolperst_boerneplatz_1_heinrich_philipp.jpg)
+![Börneplatz 1](../../images/stolpersteine/32e14dc05bef_stolperst_boerneplatz_1_heinrich_zilli.jpg)
+![Börneplatz 1](../../images/stolpersteine/35472efb2b44_stolperst_boerneplatz_1_heinrich_jonas_albi.jpg)
+![Börneplatz 1](../../images/stolpersteine/1f30c9866774_stolperst_boerneplatz_1_heinrich_martha.jpg)
+![Börneplatz 1](../../images/stolpersteine/3876088d4cfa_stolperst_boerneplatz_1_heinrich_max.jpg)
+![Börneplatz 1](../../images/stolpersteine/42994f56c3f8_stolperst_boerneplatz_1_heinrich_julius.jpg)
+![Börneplatz 1](../../images/stolpersteine/06f45436c482_stolperst_boerneplatz_1_heinrich_elisabeth.jpg)
+![Börneplatz 1](../../images/stolpersteine/48683e4b5838_stolperst_boerneplatz_1_heinrich_edith.jpg)
+![Börneplatz 1](../../images/stolpersteine/2c09ff28ecd6_stolperst_boerneplatz_1_heinrich_arthur.jpg)
+![Börneplatz 1](../../images/stolpersteine/6b1b85579119_stolperst_boerneplatz_1_heinrich_josef.jpg)
+![Börneplatz 1](../../images/stolpersteine/a399ee045594_stolperst_boerneplatz_1_heinrich_flora.jpg)
 
 ## Links
 

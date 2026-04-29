@@ -11,7 +11,7 @@ filters:
 
 *Alt-Rödelheim 38*
 
-![Stolperstein Grünebaum, Martha, Max und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/alt-roedelheim-38_1.jpg)
+![Stolperstein Grünebaum, Martha, Max und Kurt](../../images/stolpersteine/6e28779dc163_alt-roedelheim-38_1.jpg)
 
 Max Grünebaum, geboren in Frankfurt am Main, Sohn von Leopold Grünebaum (gest. 1936) und Johanna, geb. Meiberg (gest. 1939), war verheiratet mit Martha, geborene Günther aus Gießen und arbeitete als Metzger. Die beiden hatten zwei Kinder: Kurt und Erna, geb. am 27.1.1931. Die Familie wohnte zunächst bei den Eltern in Alt-Rödelheim 38, denen das Anwesen bis 1938 gehörte. Zum Zeitpunkt der Volkszählung vom 17. Mai 1939 wohnten die Grünebaums in der Liebigstraße 58.
 

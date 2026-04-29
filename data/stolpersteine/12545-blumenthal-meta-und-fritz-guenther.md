@@ -11,7 +11,7 @@ filters:
 
 *Adolf-Haeuser-Straße 14*
 
-![Stolperstein Blumenthal, Meta und Fritz Günther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/adolf_haeuser_strasse_14_haus.jpg)
+![Stolperstein Blumenthal, Meta und Fritz Günther](../../images/stolpersteine/d37d90c41ad6_adolf_haeuser_strasse_14_haus.jpg)
 
 Meta Blumenthal aus Assenheim und ihr Ehemann Markus aus Weyer/Oberkahnkreis hatten eine Tochter und einen Sohn, Miriam, geb. 15.6.1923, und Fritz Günther. Die Familie wohnte im ersten Stock der Adolf-Haeuser- Straße 14 mit Hedwig Zinsheimer, der Mutter von Meta Blumenthal. Markus Blumenthal war Filialleiter der Dresdner Bank in Höchst. Wann er seinen Arbeitsplatz verlor, ist nicht bekannt. Die beiden Kinder Mirjam, geb. am 15.6.1923, und Fritz Günther besuchten den Kindergarten und die Grundschule. Zu ihrem Freundeskreis gehörten jüdische wie nichtjüdische Kinder. Aufgrund der Beschränkungen für Juden durfte Mirjam nicht mehr das Lyzeum besuchen; sie musste den beschwerlichen Weg ins Philanthropin im Frankfurter Nordend auf sich nehmen.
 
@@ -144,7 +144,7 @@ Adolf-Haeuser-Straße 14
 ## Gallery
 
 <!-- gallery:standard -->
-![Blumenthal, Meta und Fritz Günther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/blumenthal_fritz_300x400.jpg)
+![Blumenthal, Meta und Fritz Günther](../../images/stolpersteine/b99af648dfb3_blumenthal_fritz_300x400.jpg)
 
 ## Links
 

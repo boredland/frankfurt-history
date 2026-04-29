@@ -11,7 +11,7 @@ filters:
 
 *Holzhecke 27*
 
-![Stolperstein Simon, Fritz und Lotte sowie Oswalt, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/holzhecke_27.jpg)
+![Stolperstein Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/ce914c4285b2_holzhecke_27.jpg)
 
 Friedrich
 
@@ -392,14 +392,14 @@ Holzhecke 27
 ## Gallery
 
 <!-- gallery:standard -->
-![Simon, Fritz und Lotte sowie Oswalt, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/holzhecke_27_simon_lotte_und_fritz_mit_anderer_person_1930er_jahre.jpg)
-![Simon, Fritz und Lotte sowie Oswalt, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/holzhecke_27_simon_lotte_und_fritz_auf_deutschlandbesuch_1950er_jahre.jpg)
-![Simon, Fritz und Lotte sowie Oswalt, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/holzhecke_27_grabstaette_holzmann_hauptfriedhof_gewann_f_2036.jpg)
-![Simon, Fritz und Lotte sowie Oswalt, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/holzhecke_27_grab_oswalt_alfred_hauptfriedhof_gewann_f_2036.jpg)
-![Simon, Fritz und Lotte sowie Oswalt, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/holzhecke_27_grab_simon_lore_hauptfriedhof_gewann_f_2036.jpg)
-![Simon, Fritz und Lotte sowie Oswalt, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_holzhecke_27_simon_fritz.jpg)
-![Simon, Fritz und Lotte sowie Oswalt, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_holzhecke_27_simon_lore.jpg)
-![Simon, Fritz und Lotte sowie Oswalt, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_holzhecke_27_oswalt_alfred.jpg)
+![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/7023d181efc7_holzhecke_27_simon_lotte_und_fritz_mit_anderer_person_1930er.jpg)
+![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/c0127880d28b_holzhecke_27_simon_lotte_und_fritz_auf_deutschlandbesuch_195.jpg)
+![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/f69f27ac4bba_holzhecke_27_grabstaette_holzmann_hauptfriedhof_gewann_f_203.jpg)
+![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/4302faaad717_holzhecke_27_grab_oswalt_alfred_hauptfriedhof_gewann_f_2036..jpg)
+![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/45391116bd92_holzhecke_27_grab_simon_lore_hauptfriedhof_gewann_f_2036.jpg)
+![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/84b62ca7e5bc_stolperst_holzhecke_27_simon_fritz.jpg)
+![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/65817234cade_stolperst_holzhecke_27_simon_lore.jpg)
+![Simon, Fritz und Lotte sowie Oswalt, Alfred](../../images/stolpersteine/5a426cfe5762_stolperst_holzhecke_27_oswalt_alfred.jpg)
 
 ## Links
 

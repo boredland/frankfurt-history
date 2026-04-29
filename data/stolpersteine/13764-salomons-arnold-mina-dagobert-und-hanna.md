@@ -11,7 +11,7 @@ filters:
 
 *Karl-Albert-Straße 33*
 
-![Stolperstein Salomons, Arnold, Mina, Dagobert und Hanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/karl-albert-str_33.jpg)
+![Stolperstein Salomons, Arnold, Mina, Dagobert und Hanna](../../images/stolpersteine/79b9512122e0_karl-albert-str_33.jpg)
 
 Arnold Salomons
 
@@ -338,15 +338,15 @@ Karl-Albert-Straße 33
 ## Gallery
 
 <!-- gallery:standard -->
-![Salomons, Arnold, Mina, Dagobert und Hanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/karl-albert-str_33_arnold_salomon.jpg)
-![Salomons, Arnold, Mina, Dagobert und Hanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/karl-albert-str_33_mina_salomon.jpg)
-![Salomons, Arnold, Mina, Dagobert und Hanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/karl-albert-str_33_hanna_salomon.jpg)
-![Salomons, Arnold, Mina, Dagobert und Hanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/karl-albert-str_33dagobert_salomon.jpg)
-![Salomons, Arnold, Mina, Dagobert und Hanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/karl-albert-str_33_josef_bilz_aus_bernbach_freigericht.jpg)
-![Salomons, Arnold, Mina, Dagobert und Hanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_karl-albert-str_33_salomons_arnold.jpg)
-![Salomons, Arnold, Mina, Dagobert und Hanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_karl-albert-str_33_salomons_mina.jpg)
-![Salomons, Arnold, Mina, Dagobert und Hanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_karl-albert-str_33_salomons_hanna.jpg)
-![Salomons, Arnold, Mina, Dagobert und Hanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_karl-albert-str_33_salomons_dagobert.jpg)
+![Salomons, Arnold, Mina, Dagobert und Hanna](../../images/stolpersteine/bf0c8e35e637_karl-albert-str_33_arnold_salomon.jpg)
+![Salomons, Arnold, Mina, Dagobert und Hanna](../../images/stolpersteine/e05ce4db96b7_karl-albert-str_33_mina_salomon.jpg)
+![Salomons, Arnold, Mina, Dagobert und Hanna](../../images/stolpersteine/dd6f4535db8a_karl-albert-str_33_hanna_salomon.jpg)
+![Salomons, Arnold, Mina, Dagobert und Hanna](../../images/stolpersteine/14d3c36f3428_karl-albert-str_33dagobert_salomon.jpg)
+![Salomons, Arnold, Mina, Dagobert und Hanna](../../images/stolpersteine/6c58330ea1dd_karl-albert-str_33_josef_bilz_aus_bernbach_freigericht.jpg)
+![Salomons, Arnold, Mina, Dagobert und Hanna](../../images/stolpersteine/1f56d42de542_stolperst_karl-albert-str_33_salomons_arnold.jpg)
+![Salomons, Arnold, Mina, Dagobert und Hanna](../../images/stolpersteine/f84aae21d77c_stolperst_karl-albert-str_33_salomons_mina.jpg)
+![Salomons, Arnold, Mina, Dagobert und Hanna](../../images/stolpersteine/bd9c186f8ee1_stolperst_karl-albert-str_33_salomons_hanna.jpg)
+![Salomons, Arnold, Mina, Dagobert und Hanna](../../images/stolpersteine/a1a783930be8_stolperst_karl-albert-str_33_salomons_dagobert.jpg)
 
 ## Links
 

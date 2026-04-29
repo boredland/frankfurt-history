@@ -11,7 +11,7 @@ filters:
 
 *Rubensstraße 26*
 
-![Stolperstein Sass, Georg und Laura sowie Tuch, Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/rubensstr_26.jpg)
+![Stolperstein Sass, Georg und Laura sowie Tuch, Charlotte](../../images/stolpersteine/f8d4a438f4b9_rubensstr_26.jpg)
 
 Georg Sass wurde in Insterburg (Ostpreußen) geboren, Laura Sass in
 
@@ -258,9 +258,9 @@ Rubensstraße 26
 ## Gallery
 
 <!-- gallery:standard -->
-![Sass, Georg und Laura sowie Tuch, Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_rubensstr_26_sass_georg.jpg)
-![Sass, Georg und Laura sowie Tuch, Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_rubensstr_26_sass_laura.jpg)
-![Sass, Georg und Laura sowie Tuch, Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_rubensstr_26_tuch_charlotte.jpg)
+![Sass, Georg und Laura sowie Tuch, Charlotte](../../images/stolpersteine/f532bae76def_stolperst_rubensstr_26_sass_georg.jpg)
+![Sass, Georg und Laura sowie Tuch, Charlotte](../../images/stolpersteine/adaa67643753_stolperst_rubensstr_26_sass_laura.jpg)
+![Sass, Georg und Laura sowie Tuch, Charlotte](../../images/stolpersteine/cd8be79d101d_stolperst_rubensstr_26_tuch_charlotte.jpg)
 
 ## Links
 

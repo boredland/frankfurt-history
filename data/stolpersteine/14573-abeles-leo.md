@@ -11,7 +11,7 @@ filters:
 
 *Hermannstraße 1*
 
-![Stolperstein Abeles, Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/herrmannstrasse_1__400x300.jpg)
+![Stolperstein Abeles, Leo](../../images/stolpersteine/109ec77fa196_herrmannstrasse_1__400x300.jpg)
 
 Leo Abeles wurde in Chodaw bei Karlsbad in Böhmen geboren. Seit 1930 lebte er allein, seine Frau emigrierte 1933 mit ihrem Sohn Friedrich nach London. Dieser hat dann für Lily Fuld, für deren Eltern, Lina und Salomon Sander, in der Querstraße 1 Stolpersteine liegen, die Ausreise nach England ermöglicht.
 
@@ -402,7 +402,7 @@ Hermannstraße 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Abeles, Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-abeles-leo.jpg)
+![Abeles, Leo](../../images/stolpersteine/e33d37427f75_stolperstein-abeles-leo.jpg)
 
 ## Links
 

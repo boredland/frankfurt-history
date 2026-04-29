@@ -11,7 +11,7 @@ filters:
 
 *Elkenbachstraße 6*
 
-![Stolperstein Merkel, Dora und Ferdinand sowie Stein, Hedwig und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/elkenbachstr_6.jpg)
+![Stolperstein Merkel, Dora und Ferdinand sowie Stein, Hedwig und Ludwig](../../images/stolpersteine/cc5191217df6_elkenbachstr_6.jpg)
 
 Dora Merkel, Vorname auch Dortge, wurde in Niedermittlau als Tochter
 
@@ -530,10 +530,10 @@ Elkenbachstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Merkel, Dora und Ferdinand sowie Stein, Hedwig und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_elkenbachstr_6_merkel_dora.jpg)
-![Merkel, Dora und Ferdinand sowie Stein, Hedwig und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_elkenbachstr_6_merkel_ferdinand.jpg)
-![Merkel, Dora und Ferdinand sowie Stein, Hedwig und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_elkenbachstr_6_stein_hedwig.jpg)
-![Merkel, Dora und Ferdinand sowie Stein, Hedwig und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_elkenbachstr_6_stein_ludwig.jpg)
+![Merkel, Dora und Ferdinand sowie Stein, Hedwig und Ludwig](../../images/stolpersteine/e8192f517c8e_stolperst_elkenbachstr_6_merkel_dora.jpg)
+![Merkel, Dora und Ferdinand sowie Stein, Hedwig und Ludwig](../../images/stolpersteine/cbbce30476df_stolperst_elkenbachstr_6_merkel_ferdinand.jpg)
+![Merkel, Dora und Ferdinand sowie Stein, Hedwig und Ludwig](../../images/stolpersteine/f1b946a8c4da_stolperst_elkenbachstr_6_stein_hedwig.jpg)
+![Merkel, Dora und Ferdinand sowie Stein, Hedwig und Ludwig](../../images/stolpersteine/efa09c4561fe_stolperst_elkenbachstr_6_stein_ludwig.jpg)
 
 ## Links
 

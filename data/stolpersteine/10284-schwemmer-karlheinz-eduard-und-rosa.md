@@ -11,7 +11,7 @@ filters:
 
 *Gutenbergstraße 20*
 
-![Stolperstein Schwemmer, Karlheinz, Eduard und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/gutenbergstr_20.jpg)
+![Stolperstein Schwemmer, Karlheinz, Eduard und Rosa](../../images/stolpersteine/3664172dff78_gutenbergstr_20.jpg)
 
 Karlheinz Schwemmer wurde in Frankfurt als Sohn des Kraftfahrers und Autosattlers Eduard Schwemmer und dessen Ehefrau Frau Rosa, geb.Katz, geboren. Der Vater stammte aus Nürnberg und war evangelisch, die Mutter stammt aus einer jüdischen Familie in Offenbach. Karlheinz Schwemmer wurde am 24.9.1933 von Pfarrer Karl Walther in der Evangelischen Paul-Gerhardt-Gemeinde in Frankfurt-Niederrad getauft. Mitte der 1930er Jahre zog die Familie aus der Fahrgasse 114 in die Gutenbergstraße 20 um. 1940 besuchte Karlheinz Schwemmer die Günderrodeschule. Am 3.11.1940 wurde seine Schwester Renate geboren.
 
@@ -118,9 +118,9 @@ Gutenbergstraße 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Schwemmer, Karlheinz, Eduard und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_gutenbergstr_20_schwemmer_eduard.jpg)
-![Schwemmer, Karlheinz, Eduard und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_gutenbergstr_20_schwemmer_karl_heinz.jpg)
-![Schwemmer, Karlheinz, Eduard und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_gutenbergstr_20_schwemmer_rosa.jpg)
+![Schwemmer, Karlheinz, Eduard und Rosa](../../images/stolpersteine/9d39c33f2771_stolperst_gutenbergstr_20_schwemmer_eduard.jpg)
+![Schwemmer, Karlheinz, Eduard und Rosa](../../images/stolpersteine/b96578478826_stolperst_gutenbergstr_20_schwemmer_karl_heinz.jpg)
+![Schwemmer, Karlheinz, Eduard und Rosa](../../images/stolpersteine/dd301ad67449_stolperst_gutenbergstr_20_schwemmer_rosa.jpg)
 
 ## Links
 

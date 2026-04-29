@@ -11,7 +11,7 @@ filters:
 
 *Neuhaußstraße 3*
 
-![Stolperstein Rosenthal, Samuel, Franziska und Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/neuhaussstrasse_3__300x400.jpg)
+![Stolperstein Rosenthal, Samuel, Franziska und Sophie](../../images/stolpersteine/d3ada63e4a69_neuhaussstrasse_3__300x400.jpg)
 
 Samuel Rosenthal und Franziska, geb. Hess, wurden in Bergen geboren. Sie heirateten am 03.08.1887 in Frankfurt und hatten fünf Kinder, das älteste war Sophie Rosenthal, die am 28.03.1888 geboren wurde und nach der in Bergen-Enkheim eine Straße benannt ist. Die weiteren Kinder waren: Tochter Gretchen, geb. am 22.10.1890, gestorben 1962 in New York, Sohn Julius, geb. 08.02.1893, als Soldat der Deutschen Wehrmacht 1915 in den Karpaten gefallen, Sohn Ludwig Rosenthal, geb. 07.11.1895 und Tochter Erna, geboren am 05.10.1901. Ludwig Rosenthal wurde Jurist und Historiker. Er emigrierte bereits 1933 nach Holland und von dort nach Guatemala. 1963 erschien sein Buch „Geschichte der Juden im Gebiet der ehemaligen Grafschaft Hanau; unter besonderer Berücksichtigung der Juden in Bergen und Frankfurt am Main und der dortigen Vorfahren des Verfassers vom 17. bis 19. Jahrhundert".
 
@@ -430,7 +430,7 @@ Neuhaußstraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenthal, Samuel, Franziska und Sophie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-rosenthal-samuel.jpg)
+![Rosenthal, Samuel, Franziska und Sophie](../../images/stolpersteine/1ec5e7914509_stolperstein-rosenthal-samuel.jpg)
 
 ## Links
 

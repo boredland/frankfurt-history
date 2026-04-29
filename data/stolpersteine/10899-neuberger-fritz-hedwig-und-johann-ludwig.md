@@ -11,7 +11,7 @@ filters:
 
 *Arndtstraße 37*
 
-![Stolperstein Neuberger, Fritz, Hedwig und Johann Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/arndtstr_37.jpg)
+![Stolperstein Neuberger, Fritz, Hedwig und Johann Ludwig](../../images/stolpersteine/71c08dae9df3_arndtstr_37.jpg)
 
 Fritz Neuberger wurde in Alzey als Sohn von Ludwig und Anna Neuberger,
 
@@ -566,10 +566,10 @@ Arndtstraße 37
 ## Gallery
 
 <!-- gallery:standard -->
-![Neuberger, Fritz, Hedwig und Johann Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/arndtstr_37_gemaelde_eisgang_von_max_beckmann.jpg)
-![Neuberger, Fritz, Hedwig und Johann Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_arndtstr_37_neuberger_fritz.jpg)
-![Neuberger, Fritz, Hedwig und Johann Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_arndtstr_37_neuberger_hedwig.jpg)
-![Neuberger, Fritz, Hedwig und Johann Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_arndtstr_37_neuberger_johann_ludwig.jpg)
+![Neuberger, Fritz, Hedwig und Johann Ludwig](../../images/stolpersteine/c97d8b098827_arndtstr_37_gemaelde_eisgang_von_max_beckmann.jpg)
+![Neuberger, Fritz, Hedwig und Johann Ludwig](../../images/stolpersteine/c6f71034e9da_stolperst_arndtstr_37_neuberger_fritz.jpg)
+![Neuberger, Fritz, Hedwig und Johann Ludwig](../../images/stolpersteine/e39aaab190c8_stolperst_arndtstr_37_neuberger_hedwig.jpg)
+![Neuberger, Fritz, Hedwig und Johann Ludwig](../../images/stolpersteine/56c7179be496_stolperst_arndtstr_37_neuberger_johann_ludwig.jpg)
 
 ## Links
 

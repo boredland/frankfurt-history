@@ -11,7 +11,7 @@ filters:
 
 *Leerbachstraße 7*
 
-![Stolperstein Goldschmidt, Max und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/leerbachstrasse_7.jpg)
+![Stolperstein Goldschmidt, Max und Ruth](../../images/stolpersteine/9f4af1f64a2d_leerbachstrasse_7.jpg)
 
 Max
 
@@ -570,9 +570,9 @@ Leerbachstraße 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Goldschmidt, Max und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/leerbachstrasse_7_mac_goldsmith_geni_com.jpg)
-![Goldschmidt, Max und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_leerbachstrasse_7_goldschmidt_max.jpg)
-![Goldschmidt, Max und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_leerbachstrasse_7_goldschmidt_ruth.jpg)
+![Goldschmidt, Max und Ruth](../../images/stolpersteine/16f0d29cee94_leerbachstrasse_7_mac_goldsmith_geni_com.jpg)
+![Goldschmidt, Max und Ruth](../../images/stolpersteine/7eae00e6efed_stolperst_leerbachstrasse_7_goldschmidt_max.jpg)
+![Goldschmidt, Max und Ruth](../../images/stolpersteine/d0e6f859f0c3_stolperst_leerbachstrasse_7_goldschmidt_ruth.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Roseggerstraße 17*
 
-![Stolperstein Reinheimer, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/roseggerstrasse_17_haus.jpg)
+![Stolperstein Reinheimer, Ludwig](../../images/stolpersteine/3b05b2c980e0_roseggerstrasse_17_haus.jpg)
 
 Reinheimer, Dr. Ludwig
 
@@ -102,7 +102,7 @@ Roseggerstraße 17
 ## Gallery
 
 <!-- gallery:standard -->
-![Reinheimer, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/reinheimer-dr-ludwig.jpg)
+![Reinheimer, Ludwig](../../images/stolpersteine/1a57a296aa41_reinheimer-dr-ludwig.jpg)
 
 ## Links
 

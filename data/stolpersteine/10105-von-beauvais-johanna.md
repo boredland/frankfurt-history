@@ -11,7 +11,7 @@ filters:
 
 *Böhmerstraße 62*
 
-![Stolperstein von Beauvais, Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/boehmerstrasse-62_1.jpg)
+![Stolperstein von Beauvais, Johanna](../../images/stolpersteine/5ee59bba94be_boehmerstrasse-62_1.jpg)
 
 Johanna von Beauvais wurde als Tochter von Eugen Seligmann und Emma Seligmann, geb. Kopp, in Berlin geboren. Sie war mit dem 1886 in Essen geborenen nichtjüdischen Wilhelm von Beauvais, von Beruf Versicherungsangestellter, verheiratet. Am 05.08.1923 wurde ihre Tochter Irmgard in Essen geboren.
 
@@ -448,7 +448,7 @@ Böhmerstraße 62
 ## Gallery
 
 <!-- gallery:standard -->
-![von Beauvais, Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/von_beauvais_johanna.jpg)
+![von Beauvais, Johanna](../../images/stolpersteine/16b3f8caeb0c_von_beauvais_johanna.jpg)
 
 ## Links
 

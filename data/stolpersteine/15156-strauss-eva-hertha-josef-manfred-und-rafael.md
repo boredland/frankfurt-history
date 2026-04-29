@@ -11,7 +11,7 @@ filters:
 
 *Bäckerweg 54*
 
-![Stolperstein Strauss, Eva, Hertha, Josef, Manfred und Rafael](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/baeckerweg_54.jpg)
+![Stolperstein Strauss, Eva, Hertha, Josef, Manfred und Rafael](../../images/stolpersteine/e4a4ce63a980_baeckerweg_54.jpg)
 
 Rafael Strauss wurde in
 
@@ -512,11 +512,11 @@ Bäckerweg 54
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauss, Eva, Hertha, Josef, Manfred und Rafael](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baeckerweg_54_strauss_rafael.jpg)
-![Strauss, Eva, Hertha, Josef, Manfred und Rafael](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baeckerweg_54_strauss_eva.jpg)
-![Strauss, Eva, Hertha, Josef, Manfred und Rafael](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baeckerweg_54_strauss_manfred.jpg)
-![Strauss, Eva, Hertha, Josef, Manfred und Rafael](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baeckerweg_54_strauss_josef.jpg)
-![Strauss, Eva, Hertha, Josef, Manfred und Rafael](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baeckerweg_54_strauss_hertha.jpg)
+![Strauss, Eva, Hertha, Josef, Manfred und Rafael](../../images/stolpersteine/71973596599e_stolperst_baeckerweg_54_strauss_rafael.jpg)
+![Strauss, Eva, Hertha, Josef, Manfred und Rafael](../../images/stolpersteine/e88ec18f54eb_stolperst_baeckerweg_54_strauss_eva.jpg)
+![Strauss, Eva, Hertha, Josef, Manfred und Rafael](../../images/stolpersteine/427195259f09_stolperst_baeckerweg_54_strauss_manfred.jpg)
+![Strauss, Eva, Hertha, Josef, Manfred und Rafael](../../images/stolpersteine/817fbe0b6276_stolperst_baeckerweg_54_strauss_josef.jpg)
+![Strauss, Eva, Hertha, Josef, Manfred und Rafael](../../images/stolpersteine/af2a6b0e982e_stolperst_baeckerweg_54_strauss_hertha.jpg)
 
 ## Links
 

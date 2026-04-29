@@ -11,7 +11,7 @@ filters:
 
 *Cronstettenstraße 1*
 
-![Stolperstein Kosel, Günter, Heinrich, Maria und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/cronstettenstr_1.jpg)
+![Stolperstein Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/6be2d431f88a_cronstettenstr_1.jpg)
 
 Heinrich Kosel wurde in
 
@@ -534,15 +534,15 @@ Cronstettenstraße 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Kosel, Günter, Heinrich, Maria und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/cronstettenstr_1_heinrich_kosel.jpg)
-![Kosel, Günter, Heinrich, Maria und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/cronstettenstr_1_margarete_und_heinrich_kosel_hochzeit_1920.jpg)
-![Kosel, Günter, Heinrich, Maria und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/cronstettenstr_1_guenter_kosel_mit_familie_konfirmation_1938.jpg)
-![Kosel, Günter, Heinrich, Maria und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/cronstettenstr_1_margarete_und_heinrich_kosel.jpg)
-![Kosel, Günter, Heinrich, Maria und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/cronstettenst_1_kosel_rudolf_margarete_und_guenther_nach_dem_krieg.jpg)
-![Kosel, Günter, Heinrich, Maria und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_cronstettenstr_1_kosel_heinrich.jpg)
-![Kosel, Günter, Heinrich, Maria und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_cronstettenstr_1_kosel_maria.jpg)
-![Kosel, Günter, Heinrich, Maria und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_cronstettenstr_1_kosel_rudolf.jpg)
-![Kosel, Günter, Heinrich, Maria und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_cronstettenstr_1_kosel_guenter.jpg)
+![Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/55831bf80d0a_cronstettenstr_1_heinrich_kosel.jpg)
+![Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/90aae843bc78_cronstettenstr_1_margarete_und_heinrich_kosel_hochzeit_1920..jpg)
+![Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/7a77f7485d7a_cronstettenstr_1_guenter_kosel_mit_familie_konfirmation_1938.jpg)
+![Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/468ae77940b7_cronstettenstr_1_margarete_und_heinrich_kosel.jpg)
+![Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/533c91b00b88_cronstettenst_1_kosel_rudolf_margarete_und_guenther_nach_dem.jpg)
+![Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/6896187df061_stolperst_cronstettenstr_1_kosel_heinrich.jpg)
+![Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/1bc0cf946948_stolperst_cronstettenstr_1_kosel_maria.jpg)
+![Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/8a46f71591fe_stolperst_cronstettenstr_1_kosel_rudolf.jpg)
+![Kosel, Günter, Heinrich, Maria und Rudolf](../../images/stolpersteine/9f45a374c744_stolperst_cronstettenstr_1_kosel_guenter.jpg)
 
 ## Links
 

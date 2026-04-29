@@ -11,7 +11,7 @@ filters:
 
 *Niedenau 43*
 
-![Stolperstein Bing, Helga, Rosa und Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/niedenau-43_1.jpg)
+![Stolperstein Bing, Helga, Rosa und Siegfried](../../images/stolpersteine/f72c2b16b4b1_niedenau-43_1.jpg)
 
 Kurt Goldschmidt und Helga Bing (stehend Mitte)
 
@@ -470,7 +470,7 @@ Niedenau 43
 ## Gallery
 
 <!-- gallery:standard -->
-![Bing, Helga, Rosa und Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/kurt-goldschmidt-und-helga-bing-stehend-mitte.jpg)
+![Bing, Helga, Rosa und Siegfried](../../images/stolpersteine/8c4ae4e2fde3_kurt-goldschmidt-und-helga-bing-stehend-mitte.jpg)
 
 ## Links
 

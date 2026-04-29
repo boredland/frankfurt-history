@@ -11,7 +11,7 @@ filters:
 
 *Musikantenweg 34*
 
-![Stolperstein Kelsen, David, Fanny, Paul und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/musikantenweg_34.jpg)
+![Stolperstein Kelsen, David, Fanny, Paul und Heinrich](../../images/stolpersteine/5f0080149f16_musikantenweg_34.jpg)
 
 Familie Kelsen 1922 in Frankfurt
 
@@ -568,13 +568,13 @@ Musikantenweg 34
 ## Gallery
 
 <!-- gallery:standard -->
-![Kelsen, David, Fanny, Paul und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/musikantenweg_34_heinrich_und_paul_kelsen.jpg)
-![Kelsen, David, Fanny, Paul und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/musikantenweg_34_henry_kelsen_als_soldat_der_us_army.jpg)
-![Kelsen, David, Fanny, Paul und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/musikantenweg_34_henry_kelsen_auf_dem_obersalzberg_1945.jpg)
-![Kelsen, David, Fanny, Paul und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_musikantenweg_34_kelsen_david.jpg)
-![Kelsen, David, Fanny, Paul und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_musikantenweg_34_kelsen_fanny.jpg)
-![Kelsen, David, Fanny, Paul und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_musikantenweg_34_kelsen_paul.jpg)
-![Kelsen, David, Fanny, Paul und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_musikantenweg_34_kelsen_heinrich.jpg)
+![Kelsen, David, Fanny, Paul und Heinrich](../../images/stolpersteine/04a475faeee4_musikantenweg_34_heinrich_und_paul_kelsen.jpg)
+![Kelsen, David, Fanny, Paul und Heinrich](../../images/stolpersteine/3fc5a798a3d2_musikantenweg_34_henry_kelsen_als_soldat_der_us_army.jpg)
+![Kelsen, David, Fanny, Paul und Heinrich](../../images/stolpersteine/187d832e1687_musikantenweg_34_henry_kelsen_auf_dem_obersalzberg_1945.jpg)
+![Kelsen, David, Fanny, Paul und Heinrich](../../images/stolpersteine/7ae0c1991826_stolperst_musikantenweg_34_kelsen_david.jpg)
+![Kelsen, David, Fanny, Paul und Heinrich](../../images/stolpersteine/9a834417ff16_stolperst_musikantenweg_34_kelsen_fanny.jpg)
+![Kelsen, David, Fanny, Paul und Heinrich](../../images/stolpersteine/64e124be46d9_stolperst_musikantenweg_34_kelsen_paul.jpg)
+![Kelsen, David, Fanny, Paul und Heinrich](../../images/stolpersteine/98719ad74e19_stolperst_musikantenweg_34_kelsen_heinrich.jpg)
 
 ## Links
 

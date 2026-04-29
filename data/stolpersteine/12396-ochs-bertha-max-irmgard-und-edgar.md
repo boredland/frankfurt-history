@@ -11,7 +11,7 @@ filters:
 
 *Schulze-Delitzsch-Straße 6*
 
-![Stolperstein Ochs, Bertha, Max, Irmgard und Edgar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/standorte/schulze-delitzsch-strasse-6_1.jpg)
+![Stolperstein Ochs, Bertha, Max, Irmgard und Edgar](../../images/stolpersteine/5dd9b4a1af14_schulze-delitzsch-strasse-6_1.jpg)
 
 Bertha Ochs stammte aus Staden, Max Ochs aus Hanau. Seine Eltern waren der Metzgermeister Bernhard Ochs und Rosalie Ochs, geb. Ellinger. Ihre Kinder Irmgard und Edgar wurden in Hanau geboren. Die Familie wohnte in Frankfurt zunächst in der Schäfflestraße 29 und anschließend in der Schultze-Delizsch-Straße 14/EG, heute die Hausnummer 6.
 
@@ -112,8 +112,8 @@ Schulze-Delitzsch-Straße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Ochs, Bertha, Max, Irmgard und Edgar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/stolperstein_schulze_delizsch_str_6_ochs_bertha.jpg)
-![Ochs, Bertha, Max, Irmgard und Edgar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/stolperstein_schulze_delizsch_str_6_ochs_irmgard.jpg)
+![Ochs, Bertha, Max, Irmgard und Edgar](../../images/stolpersteine/ddd79f21b145_stolperstein_schulze_delizsch_str_6_ochs_bertha.jpg)
+![Ochs, Bertha, Max, Irmgard und Edgar](../../images/stolpersteine/0a63d14d9c07_stolperstein_schulze_delizsch_str_6_ochs_irmgard.jpg)
 
 ## Links
 

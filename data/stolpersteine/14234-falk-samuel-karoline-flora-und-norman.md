@@ -11,7 +11,7 @@ filters:
 
 *Zeil 47*
 
-![Stolperstein Falk, Samuel, Karoline, Flora und Norman](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/standort/zeil_47.jpg)
+![Stolperstein Falk, Samuel, Karoline, Flora und Norman](../../images/stolpersteine/e74308f59a1f_zeil_47.jpg)
 
 Samuel
 
@@ -254,11 +254,11 @@ Zeil 47
 ## Gallery
 
 <!-- gallery:standard -->
-![Falk, Samuel, Karoline, Flora und Norman](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/zeil_47_falk_flora.jpg)
-![Falk, Samuel, Karoline, Flora und Norman](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_zeil_47_falk_samuel.jpg)
-![Falk, Samuel, Karoline, Flora und Norman](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_zeil_47_falk_karoline.jpg)
-![Falk, Samuel, Karoline, Flora und Norman](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_zeil_47_falk_flora.jpg)
-![Falk, Samuel, Karoline, Flora und Norman](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_zeil_47_falk_norman.jpg)
+![Falk, Samuel, Karoline, Flora und Norman](../../images/stolpersteine/3d6f040da780_zeil_47_falk_flora.jpg)
+![Falk, Samuel, Karoline, Flora und Norman](../../images/stolpersteine/00797c16d42b_stolperst_zeil_47_falk_samuel.jpg)
+![Falk, Samuel, Karoline, Flora und Norman](../../images/stolpersteine/36951293ca36_stolperst_zeil_47_falk_karoline.jpg)
+![Falk, Samuel, Karoline, Flora und Norman](../../images/stolpersteine/627d0f5151cd_stolperst_zeil_47_falk_flora.jpg)
+![Falk, Samuel, Karoline, Flora und Norman](../../images/stolpersteine/d02fb16dd017_stolperst_zeil_47_falk_norman.jpg)
 
 ## Links
 

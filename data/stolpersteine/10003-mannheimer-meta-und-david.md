@@ -11,7 +11,7 @@ filters:
 
 *Albanusstraße 36*
 
-![Stolperstein Mannheimer, Meta und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/albanusstrasse_36__300x400.jpg)
+![Stolperstein Mannheimer, Meta und David](../../images/stolpersteine/49f547be0b4c_albanusstrasse_36__300x400.jpg)
 
 David Mannheimer, geb. in Okriftel, zog am 5.8.1914 von Flörsheim nach Höchst in die Albanusstr. 36.  Er nahm am 1. Weltkrieg teil und wurde ausgezeichnet. Verheiratet war er mit Minna geb. Dahlberg, die jedoch bereits 1929 nach „langem, schwerem Leiden“, wie es in „Der Israelit“ hieß, verstarb. Sie wurde auf dem jüdischen Friedhof in Bad Soden beerdigt; eine Grabstelle für David Mannheimer war ebenfalls reserviert.
 
@@ -166,7 +166,7 @@ Albanusstraße 36
 ## Gallery
 
 <!-- gallery:standard -->
-![Mannheimer, Meta und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_albanusstrasse_36_mannheimer_meta__400x400.jpg)
+![Mannheimer, Meta und David](../../images/stolpersteine/a70301bee6e5_stolperst_albanusstrasse_36_mannheimer_meta__400x400.jpg)
 
 ## Links
 

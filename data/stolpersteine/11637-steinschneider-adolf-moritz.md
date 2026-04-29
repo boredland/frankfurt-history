@@ -11,7 +11,7 @@ filters:
 
 *Untermainkai 20*
 
-![Stolperstein Steinschneider Adolf Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/untermainkai_20_haus.jpg)
+![Stolperstein Steinschneider Adolf Moritz](../../images/stolpersteine/e2a48e7f1af8_untermainkai_20_haus.jpg)
 
 Steinschneider, Adolf Moritz
 
@@ -94,7 +94,7 @@ Untermainkai 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Steinschneider Adolf Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/steinschneider-adolf-moritz.jpg)
+![Steinschneider Adolf Moritz](../../images/stolpersteine/6f752ef586a6_steinschneider-adolf-moritz.jpg)
 
 ## Links
 

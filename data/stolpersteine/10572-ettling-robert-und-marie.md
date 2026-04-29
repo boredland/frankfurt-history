@@ -11,7 +11,7 @@ filters:
 
 *Niedenau 53*
 
-![Stolperstein Ettling, Robert und Marie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/niedenau_53.jpg)
+![Stolperstein Ettling, Robert und Marie](../../images/stolpersteine/2ea34346e15a_niedenau_53.jpg)
 
 Die Geschwister Robert und Maria Ettling wurden in Karlsruhe
 
@@ -526,9 +526,9 @@ Initiative Stolpersteine
 ## Gallery
 
 <!-- gallery:standard -->
-![Ettling, Robert und Marie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/niedenau_53_ettling_maria.jpg)
-![Ettling, Robert und Marie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_niedenau_53_ettling_robert.jpg)
-![Ettling, Robert und Marie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_niedenau_53_ettling_maria.jpg)
+![Ettling, Robert und Marie](../../images/stolpersteine/b832230d1e1f_niedenau_53_ettling_maria.jpg)
+![Ettling, Robert und Marie](../../images/stolpersteine/2aec1822a250_stolperst_niedenau_53_ettling_robert.jpg)
+![Ettling, Robert und Marie](../../images/stolpersteine/c452c0ff16eb_stolperst_niedenau_53_ettling_maria.jpg)
 
 ## Links
 

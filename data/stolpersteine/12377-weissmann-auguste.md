@@ -12,7 +12,7 @@ filters:
 
 *Scheffelstraße 17*
 
-![Stolperstein Weissmann, Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/scheffelstr_17.jpg)
+![Stolperstein Weissmann, Auguste](../../images/stolpersteine/4b76aebf9992_scheffelstr_17.jpg)
 
 Auguste
 
@@ -443,7 +443,7 @@ Scheffelstraße 17
 ## Gallery
 
 <!-- gallery:standard -->
-![Weissmann, Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstr_17_weissmann_auguste.jpg)
+![Weissmann, Auguste](../../images/stolpersteine/dfd5f718e53a_scheffelstr_17_weissmann_auguste.jpg)
 
 ## Links
 

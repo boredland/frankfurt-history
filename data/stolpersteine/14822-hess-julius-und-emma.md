@@ -11,7 +11,7 @@ filters:
 
 *Obermainanlage 24*
 
-![Stolperstein Hess, Julius und Emma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/obermainanlage-24_1.jpg)
+![Stolperstein Hess, Julius und Emma](../../images/stolpersteine/369262e0fee2_obermainanlage-24_1.jpg)
 
 Julius und Emma Hess
 
@@ -222,11 +222,11 @@ Obermainanlage 24
 ## Gallery
 
 <!-- gallery:standard -->
-![Hess, Julius und Emma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/julius-und-emma-hess.jpg)
-![Hess, Julius und Emma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/julius-und-emma-hess-2.jpg)
-![Hess, Julius und Emma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/manfred-und-joachim-hess-mit-ihrer-mutter-emma-hess.jpg)
-![Hess, Julius und Emma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/margaret-stock-und-emma-hess.jpg)
-![Hess, Julius und Emma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-hess-emma.jpg)
+![Hess, Julius und Emma](../../images/stolpersteine/4770f6a6d126_julius-und-emma-hess.jpg)
+![Hess, Julius und Emma](../../images/stolpersteine/efbc7fe9d1bd_julius-und-emma-hess-2.jpg)
+![Hess, Julius und Emma](../../images/stolpersteine/9db0e88e0e96_manfred-und-joachim-hess-mit-ihrer-mutter-emma-hess.jpg)
+![Hess, Julius und Emma](../../images/stolpersteine/d4947c05cac1_margaret-stock-und-emma-hess.jpg)
+![Hess, Julius und Emma](../../images/stolpersteine/bdddc7411d46_stolperstein-hess-emma.jpg)
 
 ## Links
 

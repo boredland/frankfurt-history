@@ -11,7 +11,7 @@ filters:
 
 *Sophienstraße 12*
 
-![Stolperstein Bienes, Arthur, Hermine, Marion und René](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/sophienstr_12.jpg)
+![Stolperstein Bienes, Arthur, Hermine, Marion und René](../../images/stolpersteine/3f9af320a6b2_sophienstr_12.jpg)
 
 Bienes, Arthur
 
@@ -180,17 +180,17 @@ Sophienstraße 12
 ## Gallery
 
 <!-- gallery:standard -->
-![Bienes, Arthur, Hermine, Marion und René](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/bienes-arthur.jpg)
-![Bienes, Arthur, Hermine, Marion und René](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/bienes-hermine.jpg)
-![Bienes, Arthur, Hermine, Marion und René](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/bienes-marion.jpg)
-![Bienes, Arthur, Hermine, Marion und René](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/bienes-rene.jpg)
-![Bienes, Arthur, Hermine, Marion und René](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/marion-und-rene-bienes.jpg)
-![Bienes, Arthur, Hermine, Marion und René](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/rene-und-marion-bienes-2.jpg)
-![Bienes, Arthur, Hermine, Marion und René](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/rene-bienes-in-der-daltonschool-in-sitzreihe-2-v-l.jpg)
-![Bienes, Arthur, Hermine, Marion und René](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_sophienstr_12_bienes_arthur.jpg)
-![Bienes, Arthur, Hermine, Marion und René](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_sophienstr_12_bienes_hermine.jpg)
-![Bienes, Arthur, Hermine, Marion und René](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_sophienstr_12_bienes_marion.jpg)
-![Bienes, Arthur, Hermine, Marion und René](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_sophienstr_12_bienes_rene.jpg)
+![Bienes, Arthur, Hermine, Marion und René](../../images/stolpersteine/ac111515695a_bienes-arthur.jpg)
+![Bienes, Arthur, Hermine, Marion und René](../../images/stolpersteine/be284beb5ec9_bienes-hermine.jpg)
+![Bienes, Arthur, Hermine, Marion und René](../../images/stolpersteine/743299f5b6f2_bienes-marion.jpg)
+![Bienes, Arthur, Hermine, Marion und René](../../images/stolpersteine/79bc7d1e12f5_bienes-rene.jpg)
+![Bienes, Arthur, Hermine, Marion und René](../../images/stolpersteine/af7c9f059e07_marion-und-rene-bienes.jpg)
+![Bienes, Arthur, Hermine, Marion und René](../../images/stolpersteine/3a1ed897746e_rene-und-marion-bienes-2.jpg)
+![Bienes, Arthur, Hermine, Marion und René](../../images/stolpersteine/5b2e618e27cd_rene-bienes-in-der-daltonschool-in-sitzreihe-2-v-l.jpg)
+![Bienes, Arthur, Hermine, Marion und René](../../images/stolpersteine/2e3866f7325d_stolperst_sophienstr_12_bienes_arthur.jpg)
+![Bienes, Arthur, Hermine, Marion und René](../../images/stolpersteine/75f58ae9df4b_stolperst_sophienstr_12_bienes_hermine.jpg)
+![Bienes, Arthur, Hermine, Marion und René](../../images/stolpersteine/5732ced05f1f_stolperst_sophienstr_12_bienes_marion.jpg)
+![Bienes, Arthur, Hermine, Marion und René](../../images/stolpersteine/86fc8f9695fe_stolperst_sophienstr_12_bienes_rene.jpg)
 
 ## Links
 

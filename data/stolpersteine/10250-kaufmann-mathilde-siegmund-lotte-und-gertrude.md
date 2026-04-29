@@ -11,7 +11,7 @@ filters:
 
 *Gaußstraße 9*
 
-![Stolperstein Kaufmann, Mathilde, Siegmund, Lotte und Gertrude](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/gaussstr_9.jpg)
+![Stolperstein Kaufmann, Mathilde, Siegmund, Lotte und Gertrude](../../images/stolpersteine/82dc6729428b_gaussstr_9.jpg)
 
 Kaufmann, Siegmund
 
@@ -466,12 +466,12 @@ Gaußstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Kaufmann, Mathilde, Siegmund, Lotte und Gertrude](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kaufmann-siegmund.jpg)
-![Kaufmann, Mathilde, Siegmund, Lotte und Gertrude](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kaufmann-mathilde.jpg)
-![Kaufmann, Mathilde, Siegmund, Lotte und Gertrude](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kaufmann-lotte.jpg)
-![Kaufmann, Mathilde, Siegmund, Lotte und Gertrude](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kaufmann-gertrude.jpg)
-![Kaufmann, Mathilde, Siegmund, Lotte und Gertrude](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/entlassungszeugnis-kaufmann.jpg)
-![Kaufmann, Mathilde, Siegmund, Lotte und Gertrude](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-kaufmann-mathilde.jpg)
+![Kaufmann, Mathilde, Siegmund, Lotte und Gertrude](../../images/stolpersteine/6acd0c9ef813_kaufmann-siegmund.jpg)
+![Kaufmann, Mathilde, Siegmund, Lotte und Gertrude](../../images/stolpersteine/bf9a0bbe5ce9_kaufmann-mathilde.jpg)
+![Kaufmann, Mathilde, Siegmund, Lotte und Gertrude](../../images/stolpersteine/78695f136325_kaufmann-lotte.jpg)
+![Kaufmann, Mathilde, Siegmund, Lotte und Gertrude](../../images/stolpersteine/4eef47850c0b_kaufmann-gertrude.jpg)
+![Kaufmann, Mathilde, Siegmund, Lotte und Gertrude](../../images/stolpersteine/d9d825e96ee0_entlassungszeugnis-kaufmann.jpg)
+![Kaufmann, Mathilde, Siegmund, Lotte und Gertrude](../../images/stolpersteine/ab6f33e44c01_stolperstein-kaufmann-mathilde.jpg)
 
 ## Links
 

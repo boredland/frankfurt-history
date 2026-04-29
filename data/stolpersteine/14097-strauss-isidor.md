@@ -11,7 +11,7 @@ filters:
 
 *Schumannstraße 26*
 
-![Stolperstein Strauss, Isidor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/schumannstrasse-26_1.jpg)
+![Stolperstein Strauss, Isidor](../../images/stolpersteine/044ce46b9d84_schumannstrasse-26_1.jpg)
 
 Isidor Strauss wurde in Fronheim als Sohn von Heinrich Strauss und Juliane Strauss, geb. Aron, geboren. Er heiratete 1919, die Ehe wurde 1937 geschieden. Seine Frau Flora Toni Strauss, geborene Metzger, wurde am 13. November 1894 in Mainz geboren. Der Ehefrau gelang die Flucht in das US-amerikanische Exil; auch der 1920 zur Welt gekommene Sohn Charles (Karl Heinz) Strauss lebte nach dem Zweiten Weltkrieg in New York. Flora Strauss starb 1972.
 
@@ -444,7 +444,7 @@ Schumannstraße 26
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauss, Isidor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstr_26_strauss_isidor.jpg)
+![Strauss, Isidor](../../images/stolpersteine/6239ef40f4e9_stolperst_schumannstr_26_strauss_isidor.jpg)
 
 ## Links
 

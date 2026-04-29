@@ -11,7 +11,7 @@ filters:
 
 *Niddastraße 64*
 
-![Stolperstein Germann, Edmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/niddastr_64.jpg)
+![Stolperstein Germann, Edmund](../../images/stolpersteine/54e2b245dde2_niddastr_64.jpg)
 
 Edmund Germann stammte aus Griesborn, einem Kohlebergbauort im Saargebiet. Nach Abschluss der Volksschule arbeitete er als ungelernter Arbeiter. 1932 trat er in die KPD ein und übernahm die Funktion eines technischen Leiters. Laut der späteren Anklage wurde er 1934 wegen parteischädigenden Verhaltens aus der Partei ausgeschlossen. Ob er tatsächlich ausgeschlossen bzw. ausgetreten war, ist nicht belegt.
 
@@ -100,7 +100,7 @@ Niddastraße 64
 ## Gallery
 
 <!-- gallery:standard -->
-![Germann, Edmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/germann_edmund.jpg)
+![Germann, Edmund](../../images/stolpersteine/fce8e09e940d_germann_edmund.jpg)
 
 ## Links
 

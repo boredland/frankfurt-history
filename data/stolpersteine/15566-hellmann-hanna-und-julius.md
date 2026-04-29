@@ -11,7 +11,7 @@ filters:
 
 *Luxemburgerallee 36*
 
-![Stolperstein Hellmann, Hanna und Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolpersteine_luxemburger_allee_36.jpg)
+![Stolperstein Hellmann, Hanna und Julius](../../images/stolpersteine/931a18adcb8d_stolpersteine_luxemburger_allee_36.jpg)
 
 Hanna Hellmann wurde in Nürnberg als Tochter eines Holzwarenfabrikanten geboren. Sie hatte zwei Geschwister, den Bruder Julius, Kaufmann, und die Schwester Lilly verh. Gebhardt. Hanna studierte Philosophie, Psychologie und deutsche Literaturgeschichte in Heidelberg und Berlin sowie in Bern und Zürich und wurde dort 1910 mit einer Dissertation über Henrich von Kleist promoviert. In den Studienjahren war sie in der Frauenbewegung engagiert.
 
@@ -222,12 +222,12 @@ Luxemburgerallee 36
 ## Gallery
 
 <!-- gallery:standard -->
-![Hellmann, Hanna und Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/luxemburger_allee_36_hellmann_julius.jpg)
-![Hellmann, Hanna und Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/luxemburger_allee_36_hellmann_hanna.jpg)
-![Hellmann, Hanna und Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/luxemburger_allee_36_hellmann_hanna1.jpg)
-![Hellmann, Hanna und Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/luxemburger_allee_36_kleist_hellmann.jpg)
-![Hellmann, Hanna und Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_luxemburger_allee_36_hellmann_hanna.jpg)
-![Hellmann, Hanna und Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_luxemburger_allee_36_hellmann_julius.jpg)
+![Hellmann, Hanna und Julius](../../images/stolpersteine/af2d1e31e0bb_luxemburger_allee_36_hellmann_julius.jpg)
+![Hellmann, Hanna und Julius](../../images/stolpersteine/e7a4225e69d0_luxemburger_allee_36_hellmann_hanna.jpg)
+![Hellmann, Hanna und Julius](../../images/stolpersteine/ac8a32a414fe_luxemburger_allee_36_hellmann_hanna1.jpg)
+![Hellmann, Hanna und Julius](../../images/stolpersteine/5b077ef1b138_luxemburger_allee_36_kleist_hellmann.jpg)
+![Hellmann, Hanna und Julius](../../images/stolpersteine/fed6e9513a22_stolperst_luxemburger_allee_36_hellmann_hanna.jpg)
+![Hellmann, Hanna und Julius](../../images/stolpersteine/9bd894f02afa_stolperst_luxemburger_allee_36_hellmann_julius.jpg)
 
 ## Links
 

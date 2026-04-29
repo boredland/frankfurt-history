@@ -11,7 +11,7 @@ filters:
 
 *Am Treutengraben 3*
 
-![Stolperstein Ege, Albrecht](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/praunheim/am-treutengraben-3_1.jpg)
+![Stolperstein Ege, Albrecht](../../images/stolpersteine/3e4992bb1aa9_am-treutengraben-3_1.jpg)
 
 Albrecht Jakob Friedrich Ege war gelernter Zimmermann, Geschäftsführer, Gewerkschafter und SPD-Politiker. Er hat sich über Jahrzehnte für die Arbeiter am Bau eingesetzt, für Lohnerhöhung und Arbeitszeitverkürzungen gestritten. Deshalb wird er von der IG Bau als einer ihrer Urgroßväter angesehen. Dem Frankfurter Stadtparlament gehörte er von 1924 bis Februar 1933 sowie von April bis Juli 1933 an.
 
@@ -74,7 +74,7 @@ Am Treutengraben 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Ege, Albrecht](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/praunheim/stolperst_am_treutengraben_3_ege_albrecht__400x400.jpg)
+![Ege, Albrecht](../../images/stolpersteine/be33cc9c1a61_stolperst_am_treutengraben_3_ege_albrecht__400x400.jpg)
 
 ## Links
 

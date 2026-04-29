@@ -11,7 +11,7 @@ filters:
 
 *Königsteiner Straße 36*
 
-![Stolperstein Mayer, Julie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/knigsteiner_strasse_36__300x400.jpg)
+![Stolperstein Mayer, Julie](../../images/stolpersteine/2426a5c3b4a5_knigsteiner_strasse_36__300x400.jpg)
 
 Julie Mayer,  geb. Spiegel, stammt aus in Gissigheim im Kreis Tauberbischofsheim. Sie war sie  bereits Witwe, als sie am 3.5.1924 aus Bad Homburg kommend in die Königsteiner Str. 36 in den 1. Stock zog. Sie beschäftigte bis zu ihrem Wegzug 1941 eine Hausangestellte, die sie auch als Alleinerbin einsetzte. Sie habe sich geweigert, wie von den Nazis verordnet, ihre Stellung aufzugeben und wurde deshalb in Schutzhaft genommen.
 
@@ -136,7 +136,7 @@ Königsteiner Straße 36
 ## Gallery
 
 <!-- gallery:standard -->
-![Mayer, Julie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_koenigsteinerstrasse_36_mayer_julie__400x400.jpg)
+![Mayer, Julie](../../images/stolpersteine/383f8d231354_stolperst_koenigsteinerstrasse_36_mayer_julie__400x400.jpg)
 
 ## Links
 

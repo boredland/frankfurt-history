@@ -11,7 +11,7 @@ filters:
 
 *Rüsterstraße 20*
 
-![Stolperstein Flesch, Max und Hella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/ruesterstrasse-20_1.jpg)
+![Stolperstein Flesch, Max und Hella](../../images/stolpersteine/538d7d7225db_ruesterstrasse-20_1.jpg)
 
 Max und Hella Flesch 2
 
@@ -474,11 +474,11 @@ Rüsterstraße 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Flesch, Max und Hella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/max-und-hella-flesch-2.jpg)
-![Flesch, Max und Hella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/flesch-max.jpg)
-![Flesch, Max und Hella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hella-flesch-mit-kindern.jpg)
-![Flesch, Max und Hella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/max-und-hella-flesch.jpg)
-![Flesch, Max und Hella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_ruesterstrasse_20_flesch_hella__400x400.jpg)
+![Flesch, Max und Hella](../../images/stolpersteine/1b0be5b29e25_max-und-hella-flesch-2.jpg)
+![Flesch, Max und Hella](../../images/stolpersteine/275b5fc314f2_flesch-max.jpg)
+![Flesch, Max und Hella](../../images/stolpersteine/136ae8bf566b_hella-flesch-mit-kindern.jpg)
+![Flesch, Max und Hella](../../images/stolpersteine/792b474ff806_max-und-hella-flesch.jpg)
+![Flesch, Max und Hella](../../images/stolpersteine/1b7509cd2386_stolperst_ruesterstrasse_20_flesch_hella__400x400.jpg)
 
 ## Links
 

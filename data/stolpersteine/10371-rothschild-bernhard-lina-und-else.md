@@ -11,7 +11,7 @@ filters:
 
 *Karl-Albert-Straße 25*
 
-![Stolperstein Rothschild, Bernhard, Lina und Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/karl-albert-str_25.jpg)
+![Stolperstein Rothschild, Bernhard, Lina und Else](../../images/stolpersteine/288b72bc9d31_karl-albert-str_25.jpg)
 
 v.l.n.r.: Arnold Salomons, Else Rothschild (Tochter), Lina Rothschild und Bernhard Rothschild
 
@@ -256,10 +256,10 @@ Karl-Albert-Straße 25
 ## Gallery
 
 <!-- gallery:standard -->
-![Rothschild, Bernhard, Lina und Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/karl-albert-str_25_arnold_salomon_else_rotschild_usw.jpg)
-![Rothschild, Bernhard, Lina und Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_karl-albert-str_25_rothschild_bernhard.jpg)
-![Rothschild, Bernhard, Lina und Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_karl-albert-str_25_rothschild_lina.jpg)
-![Rothschild, Bernhard, Lina und Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_karl-albert-str_25_rothschild_else.jpg)
+![Rothschild, Bernhard, Lina und Else](../../images/stolpersteine/42e8e24b7fa3_karl-albert-str_25_arnold_salomon_else_rotschild_usw.jpg)
+![Rothschild, Bernhard, Lina und Else](../../images/stolpersteine/855ce6a54725_stolperst_karl-albert-str_25_rothschild_bernhard.jpg)
+![Rothschild, Bernhard, Lina und Else](../../images/stolpersteine/da047556214e_stolperst_karl-albert-str_25_rothschild_lina.jpg)
+![Rothschild, Bernhard, Lina und Else](../../images/stolpersteine/c96829392459_stolperst_karl-albert-str_25_rothschild_else.jpg)
 
 ## Links
 

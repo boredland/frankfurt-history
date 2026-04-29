@@ -11,7 +11,7 @@ filters:
 
 *Jahnstraße 3*
 
-![Stolperstein Zuntz, Leopold, Cäcilie und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/jahnstrasse_3__300x400.jpg)
+![Stolperstein Zuntz, Leopold, Cäcilie und Hermann](../../images/stolpersteine/8ec30d140603_jahnstrasse_3__300x400.jpg)
 
 Zuntz, Leopold
 
@@ -432,9 +432,9 @@ Jahnstraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Zuntz, Leopold, Cäcilie und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/zuntz-leopold.jpg)
-![Zuntz, Leopold, Cäcilie und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-zuntz-leopold.jpg)
-![Zuntz, Leopold, Cäcilie und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-zuntz-hermann.jpg)
+![Zuntz, Leopold, Cäcilie und Hermann](../../images/stolpersteine/92011a06b632_zuntz-leopold.jpg)
+![Zuntz, Leopold, Cäcilie und Hermann](../../images/stolpersteine/f3b9ad28bca8_stolperstein-zuntz-leopold.jpg)
+![Zuntz, Leopold, Cäcilie und Hermann](../../images/stolpersteine/cf5175406e01_stolperstein-zuntz-hermann.jpg)
 
 ## Links
 

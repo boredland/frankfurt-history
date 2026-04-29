@@ -12,7 +12,7 @@ filters:
 
 *Hahnstraße 18*
 
-![Stolperstein Schellhaas, Margarete und Schmitt, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/hahnstr_18.jpg)
+![Stolperstein Schellhaas, Margarete und Schmitt, Karl](../../images/stolpersteine/a1d30e59bb41_hahnstr_18.jpg)
 
 Margarete
 
@@ -221,8 +221,8 @@ Hahnstraße 18
 ## Gallery
 
 <!-- gallery:standard -->
-![Schellhaas, Margarete und Schmitt, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_hahnstr_18_schmitt_karl.jpg)
-![Schellhaas, Margarete und Schmitt, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_hahnstr_18_schellhaas_margarete.jpg)
+![Schellhaas, Margarete und Schmitt, Karl](../../images/stolpersteine/7d95f830f20a_stolperst_hahnstr_18_schmitt_karl.jpg)
+![Schellhaas, Margarete und Schmitt, Karl](../../images/stolpersteine/9a82b8f48764_stolperst_hahnstr_18_schellhaas_margarete.jpg)
 
 ## Links
 

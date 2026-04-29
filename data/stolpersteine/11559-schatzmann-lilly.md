@@ -11,7 +11,7 @@ filters:
 
 *Schumannstraße 71*
 
-![Stolperstein Schatzmann, Lilly](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/schumannstrasse-71_1.jpg)
+![Stolperstein Schatzmann, Lilly](../../images/stolpersteine/053b5ff56491_schumannstrasse-71_1.jpg)
 
 Lilly Karoline Schatzmann wurde in Straßburg (Elsaß) als Tochter des Kaufmannes Joseph Kahn und von Paula Kahn, geb. Mayer, geboren. Der Vater war stellvertretender Direktor der Firma „Adler & Oppenheimer AG“ in Straßburg, wo die Familie auch wohnte. Ab 1919, nach der kriegsbedingten Ausweisung aus Straßburg, lebte die Familie in Frankfurt im eigenen Haus Schumannstraße 71, zuletzt in der Falkensteiner Straße 37. Der Vater starb 1922. Lilly Schatzmann heiratete 1921 Max Schatzmann. Die Ehe wurde schon 1922 kinderlos wieder geschieden. Sie war bis 1938 kunstgewerblich tätig und wurde laut Devisenakten spätestens ab 1937 von vermögenden Verwandten finanziell unterstützt. Ihrem 1897 geborenen Bruder gelang die Flucht nach Mexiko.
 
@@ -444,7 +444,7 @@ Schumannstraße 69-71
 ## Gallery
 
 <!-- gallery:standard -->
-![Schatzmann, Lilly](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstr_71_schatzmann_lilly.jpg)
+![Schatzmann, Lilly](../../images/stolpersteine/ab2445ec4909_stolperst_schumannstr_71_schatzmann_lilly.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Klettenbergstraße 18*
 
-![Stolperstein Bock, Alfred, Margarete Alice, Renate](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/klettenbergstrasse_18.jpg)
+![Stolperstein Bock, Alfred, Margarete Alice, Renate](../../images/stolpersteine/729024b75943_klettenbergstrasse_18.jpg)
 
 Margarete
 
@@ -484,9 +484,9 @@ Klettenbergstraße 18
 ## Gallery
 
 <!-- gallery:standard -->
-![Bock, Alfred, Margarete Alice, Renate](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_klettenbergstrasse_18_bock_margarete_alice.jpg)
-![Bock, Alfred, Margarete Alice, Renate](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_klettenbergstrasse_18_bock_renate.jpg)
-![Bock, Alfred, Margarete Alice, Renate](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_klettenbergstrasse_18_bock_alfred.jpg)
+![Bock, Alfred, Margarete Alice, Renate](../../images/stolpersteine/92d6c5fef2e3_stolperst_klettenbergstrasse_18_bock_margarete_alice.jpg)
+![Bock, Alfred, Margarete Alice, Renate](../../images/stolpersteine/5bb5f3518176_stolperst_klettenbergstrasse_18_bock_renate.jpg)
+![Bock, Alfred, Margarete Alice, Renate](../../images/stolpersteine/795f0584890c_stolperst_klettenbergstrasse_18_bock_alfred.jpg)
 
 ## Links
 

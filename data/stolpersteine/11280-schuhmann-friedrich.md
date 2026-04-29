@@ -11,7 +11,7 @@ filters:
 
 *Kurmainzer Straße 20*
 
-![Stolperstein Schuhmann, Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/kurmainzer_strasse_20.jpg)
+![Stolperstein Schuhmann, Friedrich](../../images/stolpersteine/f09734eb15f2_kurmainzer_strasse_20.jpg)
 
 Friedrich „Fritz“ Schuhmann wurde in Höchst a. M . als sechstes von insgesamt acht Kindern geboren. Sein Vater Karl Friedrich (Jahrgang 1864) war schon früh politisch organisiert, im Jahre 1900 war er Mitglied der SPD in Höchst. Fritz lernte in Höchst Schlosser und wurde Mitglied im Mandolinen-Club. Er trat Mitte der 20er Jahre der Jugendorganisation KJVD, später, ebenso, wie zwei Geschwister und der Vater, der KPD bei. Anfang der 30er Jahre war er arbeitslos und lebte bei seinen Eltern in der Kurmainzer Straße 28, heute Nr. 20.
 
@@ -132,8 +132,8 @@ Kurmainzer Straße 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Schuhmann, Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/schuhmann-friedrich.jpg)
-![Schuhmann, Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/schuhmann-friedrich-stolperstein.jpg)
+![Schuhmann, Friedrich](../../images/stolpersteine/1f4b74368b38_schuhmann-friedrich.jpg)
+![Schuhmann, Friedrich](../../images/stolpersteine/156c584fcd46_schuhmann-friedrich-stolperstein.jpg)
 
 ## Links
 

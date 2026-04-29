@@ -11,7 +11,7 @@ filters:
 
 *Kasinostraße 2a*
 
-![Stolperstein Abermann, Jettchen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/kasinostr_2a__300x400.jpg)
+![Stolperstein Abermann, Jettchen](../../images/stolpersteine/e05f7189ec4e_kasinostr_2a__300x400.jpg)
 
 Jettchen Abermann wurde in Mogendorf im Kreis Unterwesterwald geboren. Als sie um 1910 Mogendorf verließ, gehörten der dortigen jüdischen Gemeinde 34 Mitgliedern an, das waren 4,5% der 750 Einwohner. 1912 zog sie von der Königsteinerstraße 2 in Frankfurt-Höchst mit ihrem Ehemann Lupo Abermann in die Kasinostraße 2a, die während der Nazizeit nach dem Höchster SA Mann Josef Bleser benannt war. 1930 verstarb Lupo Abermann und wurde auf dem Sodener Friedhof begraben. Er war von Beruf Kaufmann und soll nach Angaben jüdischer Höchster in Rumänien geboren und als Gemeindediener tätig gewesen sein.
 
@@ -130,7 +130,7 @@ Kasinostraße 2a
 ## Gallery
 
 <!-- gallery:standard -->
-![Abermann, Jettchen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolpersteine_kasinostr_2a__abermann_jettchen.jpg)
+![Abermann, Jettchen](../../images/stolpersteine/f288199b2c34_stolpersteine_kasinostr_2a__abermann_jettchen.jpg)
 
 ## Links
 

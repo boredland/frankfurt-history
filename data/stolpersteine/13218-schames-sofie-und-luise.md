@@ -11,7 +11,7 @@ filters:
 
 *Sandweg 5*
 
-![Stolperstein Schames, Sofie und Luise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/sandweg_5.jpg)
+![Stolperstein Schames, Sofie und Luise](../../images/stolpersteine/1777484e6bd0_sandweg_5.jpg)
 
 Schames, Sofie
 
@@ -436,11 +436,11 @@ Sandweg 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Schames, Sofie und Luise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/schames-sofie.jpg)
-![Schames, Sofie und Luise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/familie-schames.jpg)
-![Schames, Sofie und Luise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/schames-luise.jpg)
-![Schames, Sofie und Luise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/haus-der-vorfahren-schames-in-der-judengasse-117.jpg)
-![Schames, Sofie und Luise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-schames-luise.jpg)
+![Schames, Sofie und Luise](../../images/stolpersteine/73c55a91c96c_schames-sofie.jpg)
+![Schames, Sofie und Luise](../../images/stolpersteine/451970c7138c_familie-schames.jpg)
+![Schames, Sofie und Luise](../../images/stolpersteine/5cc034a21062_schames-luise.jpg)
+![Schames, Sofie und Luise](../../images/stolpersteine/76fb8f66a220_haus-der-vorfahren-schames-in-der-judengasse-117.jpg)
+![Schames, Sofie und Luise](../../images/stolpersteine/e41e68658588_stolperstein-schames-luise.jpg)
 
 ## Links
 

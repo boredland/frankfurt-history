@@ -11,7 +11,7 @@ filters:
 
 *Mainzer Landstraße 36*
 
-![Stolperstein Bienes, Johanna und Hermann, Alice Grosser und Edmund Mansbach](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/mainzer_landstr_36.jpg)
+![Stolperstein Bienes, Johanna und Hermann, Alice Grosser und Edmund Mansbach](../../images/stolpersteine/99fe61d3e863_mainzer_landstr_36.jpg)
 
 Das Haus Mainzer Landstraße 36 war viele Jahrzehnte der Wohnsitz der Familie Bienes. Hier befand sich bis 1935 die im Jahre 1878 gegründete Lederwarenfabrik S. Bienes oHG. Firmengründer Simon Bienes verstarb bereits 1921. Seine Ehefrau Johanna Helene, geborene Nass, wurde in Mainz geboren. Das Paar hatte drei Kinder: Gertrude Henriette Alice, Arthur Lorenz, Hermann Franz und fünf Enkelkinder. In dem Haus befanden sich mehrere Wohnungen, jeweils eine für die beiden Söhne mit ihren Familien und eine weitere für Johanna und ihre Tochter Alice Henriette, verheiratete Grosser. Im Jahre 1931 zog die Familie von Arthur Bienes in die Sophienstraße 12.
 
@@ -506,10 +506,10 @@ Mainzer Landstraße 36
 ## Gallery
 
 <!-- gallery:standard -->
-![Bienes, Johanna und Hermann, Alice Grosser und Edmund Mansbach](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/bienes-johanna.jpg)
-![Bienes, Johanna und Hermann, Alice Grosser und Edmund Mansbach](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/grosser-alice.jpg)
-![Bienes, Johanna und Hermann, Alice Grosser und Edmund Mansbach](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_mainzer_landstr_36_bienes_johanna.jpg)
-![Bienes, Johanna und Hermann, Alice Grosser und Edmund Mansbach](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_mainzer_landstr_36_grosser_alice.jpg)
+![Bienes, Johanna und Hermann, Alice Grosser und Edmund Mansbach](../../images/stolpersteine/6524a9b5877e_bienes-johanna.jpg)
+![Bienes, Johanna und Hermann, Alice Grosser und Edmund Mansbach](../../images/stolpersteine/6e46e6c5e836_grosser-alice.jpg)
+![Bienes, Johanna und Hermann, Alice Grosser und Edmund Mansbach](../../images/stolpersteine/c4927051e7a8_stolperst_mainzer_landstr_36_bienes_johanna.jpg)
+![Bienes, Johanna und Hermann, Alice Grosser und Edmund Mansbach](../../images/stolpersteine/e29deb3c1a2b_stolperst_mainzer_landstr_36_grosser_alice.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Städelstraße 6*
 
-![Stolperstein Leiffmann, Else, Kurt Joachim und Rolf Herbert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/staedelstrasse_6.jpg)
+![Stolperstein Leiffmann, Else, Kurt Joachim und Rolf Herbert](../../images/stolpersteine/78c90bd5695b_staedelstrasse_6.jpg)
 
 Else Leiffmann , geb. Bry, war die Tochter von
 
@@ -238,10 +238,10 @@ Städelstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Leiffmann, Else, Kurt Joachim und Rolf Herbert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/staedelstrasse_6_leiffmann_rolf.jpg)
-![Leiffmann, Else, Kurt Joachim und Rolf Herbert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_staedelstrasse_6_leiffmann_else.jpg)
-![Leiffmann, Else, Kurt Joachim und Rolf Herbert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_staedelstrasse_6_leiffmann_kurt_joachim.jpg)
-![Leiffmann, Else, Kurt Joachim und Rolf Herbert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_staedelstrasse_6_leiffmann_rolf_herbert.jpg)
+![Leiffmann, Else, Kurt Joachim und Rolf Herbert](../../images/stolpersteine/adef192a11d1_staedelstrasse_6_leiffmann_rolf.jpg)
+![Leiffmann, Else, Kurt Joachim und Rolf Herbert](../../images/stolpersteine/b6001605ae51_stolperst_staedelstrasse_6_leiffmann_else.jpg)
+![Leiffmann, Else, Kurt Joachim und Rolf Herbert](../../images/stolpersteine/6fe474f61330_stolperst_staedelstrasse_6_leiffmann_kurt_joachim.jpg)
+![Leiffmann, Else, Kurt Joachim und Rolf Herbert](../../images/stolpersteine/e864fa3264c4_stolperst_staedelstrasse_6_leiffmann_rolf_herbert.jpg)
 
 ## Links
 

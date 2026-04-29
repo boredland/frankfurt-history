@@ -11,7 +11,7 @@ filters:
 
 *Wiesenau 53*
 
-![Stolperstein Hertz, Helene und Fanny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/wiesenau-53_1.jpg)
+![Stolperstein Hertz, Helene und Fanny](../../images/stolpersteine/87efe05641ec_wiesenau-53_1.jpg)
 
 In der Wiesenau 53 lebten laut Volkszählung 1939 insgesamt 15 jüdische Bewohnerinnen und Bewohner. Zwei von ihnen – Helene Hertz und Ella Bauer -  wurden Opfer des Holocaust.
 
@@ -438,8 +438,8 @@ Wiesenau 53
 ## Gallery
 
 <!-- gallery:standard -->
-![Hertz, Helene und Fanny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/helene-li-und-fanny-hertz-mitte-mit-fanny-diehl.jpg)
-![Hertz, Helene und Fanny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_wiesenau_53_hertz_helene__400x400.jpg)
+![Hertz, Helene und Fanny](../../images/stolpersteine/546cbef2401a_helene-li-und-fanny-hertz-mitte-mit-fanny-diehl.jpg)
+![Hertz, Helene und Fanny](../../images/stolpersteine/254b88e8d4ee_stolperst_wiesenau_53_hertz_helene__400x400.jpg)
 
 ## Links
 

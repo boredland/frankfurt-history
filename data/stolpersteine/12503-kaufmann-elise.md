@@ -11,7 +11,7 @@ filters:
 
 *Weberstraße 13*
 
-![Stolperstein Kaufmann, Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/weberstr_13__300x400.jpg)
+![Stolperstein Kaufmann, Elise](../../images/stolpersteine/3b4f1305755a_weberstr_13__300x400.jpg)
 
 Elise Kaufmann, geb. Klein, wurde in Frankfurt am Main geboren und stammte aus einer kommunistischen Familie. Sie war Stanzerin von Beruf und mit Albert Kaufmann verheiratet. Wie ihr Vater Jakob und ihre Stiefmutter Alma Klein, geb. Hermann, war auch Elise Kaufmann im Widerstand aktiv. Sie engagierte sich besonders in der verbotenen Roten Hilfe. Am 1. April 1935 wurden die Eltern verhaftet; im späteren Prozess wurde Jakob Klein zu zwei Jahren Zuchthaus verurteilt, Alma Klein kam nach neun Monaten Untersuchungshaft frei, starb jedoch bald darauf an den Folgen der Haft. Auch Elise Kaufmann wurde mehrmals verhaftet, doch die Gestapo konnte ihr nichts nachweisen. Während des Krieges arbeitete sie bei der Fa. Bünte & Remmler und in den VDO-Werken. Ihr Bruder Horst berichtete darüber: „Wie in jedem Rüstungsbetrieb arbeiteten auch dort Kriegsgefangene und Zwangsverschleppte ... Einer dieser Menschen war Zureicher und Vorbereiter an der Stanze meiner Schwester. Durch seine Mitarbeit erzielte meine Schwester einen guten Akkordlohn. Dafür unterstützte sie den Fremdarbeiter mit Lebensmittel.“ Zudem war Elise Kaufmann mit einer Jüdin, Ellen Goldberg, befreundet. Sie wurde von einer Kollegin denunziert und im November 1941 verhaftet.
 
@@ -404,7 +404,7 @@ Weberstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Kaufmann, Elise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-kaufmann-elise.jpg)
+![Kaufmann, Elise](../../images/stolpersteine/a2ea652151db_stolperstein-kaufmann-elise.jpg)
 
 ## Links
 

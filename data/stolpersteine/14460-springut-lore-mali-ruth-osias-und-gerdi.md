@@ -11,7 +11,7 @@ filters:
 
 *Friedberger Anlage 32*
 
-![Stolperstein Springut, Lore, Mali, Ruth, Osias und Gerdi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/friedberger_anlage_32_c.jpg)
+![Stolperstein Springut, Lore, Mali, Ruth, Osias und Gerdi](../../images/stolpersteine/6b046458f10e_friedberger_anlage_32_c.jpg)
 
 Die Eheleute Mali und Osias Springut stammten beide aus Polen, Mali aus Chrzanow, Osias  aus Bochnia. Die drei Töchter wurden in Frankfurt geboren. In den Frankfurter Adressbüchern ist Osias Springut 1920 als Kaufmann mit Adresse Grüne Straße 23, 1930 bereits in der Friedberger Anlage 32, 1933 dort mit Textilwaren (Geschäft und Privat) und 1939 ebenda mit Wäschegeschäft eingetragen. Die Daten der Volkszählung 1939 weisen nur die Eltern und zwei Kinder auf, fälschlicherweise ist dort Ferdi, männlich, statt Gerdi aufgeführt.
 
@@ -470,8 +470,8 @@ Friedberger Anlage 32
 ## Gallery
 
 <!-- gallery:standard -->
-![Springut, Lore, Mali, Ruth, Osias und Gerdi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/kinderwagen-familie-springut.jpg)
-![Springut, Lore, Mali, Ruth, Osias und Gerdi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-springut-osias.jpg)
+![Springut, Lore, Mali, Ruth, Osias und Gerdi](../../images/stolpersteine/1492ff22deb1_kinderwagen-familie-springut.jpg)
+![Springut, Lore, Mali, Ruth, Osias und Gerdi](../../images/stolpersteine/c53236f931eb_stolperstein-springut-osias.jpg)
 
 ## Links
 

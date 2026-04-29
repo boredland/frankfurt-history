@@ -11,7 +11,7 @@ filters:
 
 *Vilbeler Landstraße 212*
 
-![Stolperstein Heß, Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/vilbeler_ldstr_212__400x300.jpg)
+![Stolperstein Heß, Paula](../../images/stolpersteine/fccdcb0345f4_vilbeler_ldstr_212__400x300.jpg)
 
 Paula Pauline Heß wurde als Tochter des Handelsmanns Isaak Heß und dessen Ehefrau Clara in Bergen geboren.
 
@@ -98,7 +98,7 @@ Vilbeler Landstraße 212 (früher Offenbacher Landstraße 1)
 ## Gallery
 
 <!-- gallery:standard -->
-![Heß, Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolperstein-hess-paula.jpg)
+![Heß, Paula](../../images/stolpersteine/5c35dfe94919_stolperstein-hess-paula.jpg)
 
 ## Links
 

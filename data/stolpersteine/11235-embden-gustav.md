@@ -11,7 +11,7 @@ filters:
 
 *Kennedyallee 99*
 
-![Stolperstein Embden, Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/kennedyallee-99_1.jpg)
+![Stolperstein Embden, Gustav](../../images/stolpersteine/90f460c5af6a_kennedyallee-99_1.jpg)
 
 Gustav Embden wurde in Hamburg geboren. Er stammte aus einer jüdischen und zum Protestantismus konvertierten Hamburger Kaufmannsfamilie. Gustav Embdens Ehefrau Johanna wurde am 23. September 1884 geboren und war eine Enkelin des letzten Bürgermeisters der Freien Stadt Frankfurt, Karl Konstanz Viktor Fellner (1807–1866). Aus der Ehe gingen vier Kinder hervor: Maria wurde 1912, Dietrich 1914, Hildegard 1917 und Klara 1921 geboren. Die Familie wohnte von 1915 bis 1931 in der Souchaystraße 3, dann in der Forsthausstraße 99 (heute Kennedyallee) und gehörte zur evangelischen Weißfrauengemeinde.
 
@@ -146,8 +146,8 @@ Kennedyallee 99
 ## Gallery
 
 <!-- gallery:standard -->
-![Embden, Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/embden-gustav.jpg)
-![Embden, Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_kennedaalle_99_embden_dr_gustav.jpg)
+![Embden, Gustav](../../images/stolpersteine/aef173be09f3_embden-gustav.jpg)
+![Embden, Gustav](../../images/stolpersteine/0ed01a45ffc3_stolperst_kennedaalle_99_embden_dr_gustav.jpg)
 
 ## Links
 

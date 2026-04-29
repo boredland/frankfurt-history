@@ -11,7 +11,7 @@ filters:
 
 *Ostendstraße 63/65*
 
-![Stolperstein Berlinger, Christine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/ostendstr_63-65.jpg)
+![Stolperstein Berlinger, Christine](../../images/stolpersteine/14a36b074e1e_ostendstr_63-65.jpg)
 
 Christine Berlinger wurde in Frankfurt geboren. Die Eltern Wendelin (Jg.1896) und Maria Berlinger, geb. Werthmann (Jg.1905) hatten im Juni 1930 in Eltville geheiratet und waren gläubige Katholiken. Der Vater war Kriegsteilnehmer 1914 bis 1918 und hatte nach seiner Meisterprüfung zum KfZ-Mechaniker im Fuhrpark der jüdischen Kaufmannsfamilie Fröhling (Lebensmittelfilialen) gearbeitet. Als die Familie Fröhling 1933 aus Deutschland flüchtete, bot sie der Familie Berlinger (Ehefrau geb. Werthmann) das Haus mit vier Etagen und Mansarde in der Ostendstraße zum Kauf an. Das Gründerzeithaus in der Nähe der Großmarkthalle hatte eine Seiteneinfahrt zum Hinterhaus, das nur aus einem Parterre bestand. Dort war die KfZ-Werkstatt „Berlinger & Schmidt“ untergebracht. Die Familie Berlinger wohnte im Vorderhaus.
 
@@ -202,8 +202,8 @@ Ostendstraße 63-65
 ## Gallery
 
 <!-- gallery:standard -->
-![Berlinger, Christine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/ostendstr_63_christine_berlinger.jpg)
-![Berlinger, Christine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_ostendstr_63-65_berlinger_christine.jpg)
+![Berlinger, Christine](../../images/stolpersteine/ce317194d2ad_ostendstr_63_christine_berlinger.jpg)
+![Berlinger, Christine](../../images/stolpersteine/93735b291019_stolperst_ostendstr_63-65_berlinger_christine.jpg)
 
 ## Links
 

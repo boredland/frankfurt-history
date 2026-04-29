@@ -11,7 +11,7 @@ filters:
 
 *Im Sperber 20*
 
-![Stolperstein Levi, Sophie und Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/im_sperber_20_haus_2.jpg)
+![Stolperstein Levi, Sophie und Emil](../../images/stolpersteine/26b0104a0a10_im_sperber_20_haus_2.jpg)
 
 Emil Levi wurde in Bergen als Sohn des Kommissionärs Salomon Levi und
 

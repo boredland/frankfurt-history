@@ -11,7 +11,7 @@ filters:
 
 *Am Günthersbrunnen 2*
 
-![Stolperstein Strauss, Emma und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/am_guenthersbrunnen_2__300x400_.jpg)
+![Stolperstein Strauss, Emma und Moritz](../../images/stolpersteine/6b1ee96d1b8b_am_guenthersbrunnen_2__300x400_.jpg)
 
 Moritz Strauss wurde in Großkarben als Sohn des Schuhmachers Daniel Strauss und dessen Ehefrau Bertha, geb. Rapp, geboren. Er war Schreiner bei der Firma Heppenheimer auf der Mainkur. Er war in erster Ehe mit Rosine Altmeier verheiratet, die 1916 gestorben ist. Aus dieser Ehe ging die Tochter Bertel hervor, die in die USA ausgewanderte. In zweiter Ehe war Moritz Strauss mit Emma Nussbaum verheiratet, als Tochter des Viehhändlers David Nussbaum und dessen Ehefrau Sophie. Ihr Sohn Ernst-David, der am 08.03.1920 zu Welt kam, besuchte die Volksschule in Bergen-Enkheim und anschließend das Philantropin in Frankfurt. Da  Ernst-David die Absicht hatte, Nationalökonomie zu studieren, begann er eine Lehre in der Internationalen Spedition Brach und Rothenstein. Als diese jüdische Firma 1936 "arisiert" wurde, entschloss er sich, im Frühjahr 1937 in die USA auszuwandern.
 
@@ -100,7 +100,7 @@ Am Günthersbrunnen 2
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauss, Emma und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolperstein-strauss-emma.jpg)
+![Strauss, Emma und Moritz](../../images/stolpersteine/e7830fb35c97_stolperstein-strauss-emma.jpg)
 
 ## Links
 

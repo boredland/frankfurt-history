@@ -11,7 +11,7 @@ filters:
 
 *Böhmerstraße 20*
 
-![Stolperstein Badmann, Julius, Max und Minnie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/boehmerstr_20.jpg)
+![Stolperstein Badmann, Julius, Max und Minnie](../../images/stolpersteine/be03927e03a9_boehmerstr_20.jpg)
 
 Max Badmann wurde in Frankfurt am Main als Sohn von
 
@@ -556,12 +556,12 @@ Böhmerstraße 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Badmann, Julius, Max und Minnie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/boehmerstr_20_badmann_geschaeft.jpg)
-![Badmann, Julius, Max und Minnie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/boehmerstr_20_badmann_letzter_brief_an_deutsche_bank_21_januar_1941.jpg)
-![Badmann, Julius, Max und Minnie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/boehmerstr_20_badmann_deutsche_bank_in_frankfurt_um_1930.jpg)
-![Badmann, Julius, Max und Minnie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_boehmerstr_20_badmann_max.jpg)
-![Badmann, Julius, Max und Minnie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_boehmerstr_20_badmann_minnie.jpg)
-![Badmann, Julius, Max und Minnie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_boehmerstr_20_badmann_julius.jpg)
+![Badmann, Julius, Max und Minnie](../../images/stolpersteine/f2b219bd5ec7_boehmerstr_20_badmann_geschaeft.jpg)
+![Badmann, Julius, Max und Minnie](../../images/stolpersteine/5b1886378019_boehmerstr_20_badmann_letzter_brief_an_deutsche_bank_21_janu.jpg)
+![Badmann, Julius, Max und Minnie](../../images/stolpersteine/086c09fa1a0f_boehmerstr_20_badmann_deutsche_bank_in_frankfurt_um_1930.jpg)
+![Badmann, Julius, Max und Minnie](../../images/stolpersteine/4c1aabe79c9d_stolperst_boehmerstr_20_badmann_max.jpg)
+![Badmann, Julius, Max und Minnie](../../images/stolpersteine/cd3c23137994_stolperst_boehmerstr_20_badmann_minnie.jpg)
+![Badmann, Julius, Max und Minnie](../../images/stolpersteine/c174b6547c8b_stolperst_boehmerstr_20_badmann_julius.jpg)
 
 ## Links
 

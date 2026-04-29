@@ -11,7 +11,7 @@ filters:
 
 *Luisenstraße 35*
 
-![Stolperstein Eckert, Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/luisenstr_35.jpg)
+![Stolperstein Eckert, Frieda](../../images/stolpersteine/5a535b2a3804_luisenstr_35.jpg)
 
 Frieda Eckert wurde in Frankfurt am Main geboren. Sie stammte aus einer jüdischen Familie und lebte mit dem evangelischen Wilhelm Eckert (Jg. 1900) nach NS-Definition in „Mischehe“. Der Ehemann kam am 31.01.1944 bei einem Bombenangriff auf Frankfurt ums Leben. Das Ehepaar hatte zwei Kinder und wohnte in der Luisenstraße 35.
 
@@ -404,7 +404,7 @@ Luisenstraße 35
 ## Gallery
 
 <!-- gallery:standard -->
-![Eckert, Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-eckert-frieda.jpg)
+![Eckert, Frieda](../../images/stolpersteine/49691cc72939_stolperstein-eckert-frieda.jpg)
 
 ## Links
 

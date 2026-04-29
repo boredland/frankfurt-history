@@ -11,7 +11,7 @@ filters:
 
 *Meisengasse 6*
 
-![Stolperstein Schermann, Henny, Herbert, Regina und Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/meisengasse_6b__300x400.jpg)
+![Stolperstein Schermann, Henny, Herbert, Regina und Selma](../../images/stolpersteine/23cc43c82f10_meisengasse_6b__300x400.jpg)
 
 Die Geschwister Henny, Herbert und Regina Schermann wurden in Frankfurt geboren. Ihre Eltern waren der Portefeuiller Julius Chil Schermann, geboren am 1.9.1890, und Selma Schermann, geboren in Ober-Ramstadt, aus Russland eingewanderte Juden. Die Familie wohnte um 1916 in der Kleinen Fried-berger Straße 6, dann in der Heiligkreuzgasse 13, ab 1935 in der Mainstraße 17 und ab September 1936 in der Meisengasse 6. Nachdem sich 1931 die Eltern getrennt hatten, übernahmen die Frauen in der Meisengasse 6 das Schuhgeschäft, das die Mutter von ihren Eltern übernommen hatte. Aufgrund antisemitischer Boykotte wurde das Geschäft aufgegeben. Ab 1935 arbeitete Henny als Verkäuferin.
 
@@ -204,8 +204,8 @@ Meisengasse 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Schermann, Henny, Herbert, Regina und Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_meisengasse_6_schermann_henny__400x400.jpg)
-![Schermann, Henny, Herbert, Regina und Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_meisengasse_6_schermann_regina__400x400.jpg)
+![Schermann, Henny, Herbert, Regina und Selma](../../images/stolpersteine/5a4ee0a364de_stolperst_meisengasse_6_schermann_henny__400x400.jpg)
+![Schermann, Henny, Herbert, Regina und Selma](../../images/stolpersteine/93904e78569d_stolperst_meisengasse_6_schermann_regina__400x400.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Karl-Flesch-Straße 27*
 
-![Stolperstein Strauss, Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/karl-flesch-str_27.jpg)
+![Stolperstein Strauss, Else](../../images/stolpersteine/12c7e85b86de_karl-flesch-str_27.jpg)
 
 Else
 
@@ -120,8 +120,8 @@ Karl-Flesch-Straße 27
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauss, Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/karl-flesch-str_27_strauss_schreiben_an_die_geschaeftsleitung_der_deutsche_bank.jpg)
-![Strauss, Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_karl-flesch-str_27_strauss_else.jpg)
+![Strauss, Else](../../images/stolpersteine/80a1b28eee99_karl-flesch-str_27_strauss_schreiben_an_die_geschaeftsleitun.jpg)
+![Strauss, Else](../../images/stolpersteine/a5077d72f033_stolperst_karl-flesch-str_27_strauss_else.jpg)
 
 ## Links
 

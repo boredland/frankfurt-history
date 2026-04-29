@@ -12,7 +12,7 @@ filters:
 
 *Goldsteinstraße 114*
 
-![Stolperstein Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil; Prochorow, Nikolai](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/goldsteinstr_114.jpg)
+![Stolperstein Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil; Prochorow, Nikolai](../../images/stolpersteine/d8827b020e92_goldsteinstr_114.jpg)
 
 Alexandr Slabtschenko, Iwan Bagno, Wasil Nikitenko
 
@@ -247,10 +247,10 @@ Goldsteinstraße 114
 ## Gallery
 
 <!-- gallery:standard -->
-![Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil; Prochorow, Nikolai](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_goldsteinstr_114_slabtschenko_alexandr.jpg)
-![Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil; Prochorow, Nikolai](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_goldsteinstr_114_bagno_iwan.jpg)
-![Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil; Prochorow, Nikolai](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_goldsteinstr_114_nikitenko_wasil.jpg)
-![Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil; Prochorow, Nikolai](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_goldsteinstr_114_prochorow_nikolai.jpg)
+![Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil; Prochorow, Nikolai](../../images/stolpersteine/5fa205645cc3_stolperst_goldsteinstr_114_slabtschenko_alexandr.jpg)
+![Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil; Prochorow, Nikolai](../../images/stolpersteine/64f6ece2d802_stolperst_goldsteinstr_114_bagno_iwan.jpg)
+![Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil; Prochorow, Nikolai](../../images/stolpersteine/a2dcba692477_stolperst_goldsteinstr_114_nikitenko_wasil.jpg)
+![Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil; Prochorow, Nikolai](../../images/stolpersteine/8549342bc6b7_stolperst_goldsteinstr_114_prochorow_nikolai.jpg)
 
 ## Links
 

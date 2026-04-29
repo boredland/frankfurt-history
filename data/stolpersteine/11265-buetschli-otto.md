@@ -11,7 +11,7 @@ filters:
 
 *Körnerstraße 16*
 
-![Stolperstein Bütschli, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/koernerstr_16.jpg)
+![Stolperstein Bütschli, Otto](../../images/stolpersteine/2623fb2bde81_koernerstr_16.jpg)
 
 Otto Ernst Bütschli (auch Bütschly) wurde in Frankfurt am Main geboren. Er war ledig und bezeichnete sich trotz evangelischer Konfirmation als glaubenslos. Er hatte drei Schwestern, wohnte bis 1939 in der elterlichen Wohnung in der Cordierstraße 14 im Frankfurter Gallus und bezog dann ein Zimmer im 2. Stock in der Körnerstraße 16 im Westend zur Untermiete.
 
@@ -460,7 +460,7 @@ Körnerstraße 16
 ## Gallery
 
 <!-- gallery:standard -->
-![Bütschli, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_koernerstr_16_buetschli_otto.jpg)
+![Bütschli, Otto](../../images/stolpersteine/97f7bacf2746_stolperst_koernerstr_16_buetschli_otto.jpg)
 
 ## Links
 

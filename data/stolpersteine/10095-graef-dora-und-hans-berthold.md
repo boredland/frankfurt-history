@@ -12,7 +12,7 @@ filters:
 
 *Bockenheimer Landstraße 69*
 
-![Stolperstein Gräf, Dora und Hans Berthold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/bockenheimer_landstr_69.jpg)
+![Stolperstein Gräf, Dora und Hans Berthold](../../images/stolpersteine/b626c7dbf959_bockenheimer_landstr_69.jpg)
 
 Dora Gräf
 
@@ -609,12 +609,12 @@ Bockenheimer Landstraße 69
 ## Gallery
 
 <!-- gallery:standard -->
-![Gräf, Dora und Hans Berthold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/bockenheimer_landstr_69_graef_dora_1.jpg)
-![Gräf, Dora und Hans Berthold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/bockenheimer_landstr_69_graef_dora_2.jpg)
-![Gräf, Dora und Hans Berthold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/bockenheimer_landstr_69_graef_dora_3.jpg)
-![Gräf, Dora und Hans Berthold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/bockenheimer_landstr_69_graef_dora_4.jpg)
-![Gräf, Dora und Hans Berthold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bockenheimer_landstr_69_graef_dora.jpg)
-![Gräf, Dora und Hans Berthold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bockenheimer_landstr_69_graef_hans_berthold.jpg)
+![Gräf, Dora und Hans Berthold](../../images/stolpersteine/6cbb825b4a59_bockenheimer_landstr_69_graef_dora_1.jpg)
+![Gräf, Dora und Hans Berthold](../../images/stolpersteine/15ab0b9feef7_bockenheimer_landstr_69_graef_dora_2.jpg)
+![Gräf, Dora und Hans Berthold](../../images/stolpersteine/c27d187af7b8_bockenheimer_landstr_69_graef_dora_3.jpg)
+![Gräf, Dora und Hans Berthold](../../images/stolpersteine/fad0259104c5_bockenheimer_landstr_69_graef_dora_4.jpg)
+![Gräf, Dora und Hans Berthold](../../images/stolpersteine/5a163d41f7d2_stolperst_bockenheimer_landstr_69_graef_dora.jpg)
+![Gräf, Dora und Hans Berthold](../../images/stolpersteine/75c956968589_stolperst_bockenheimer_landstr_69_graef_hans_berthold.jpg)
 
 ## Links
 

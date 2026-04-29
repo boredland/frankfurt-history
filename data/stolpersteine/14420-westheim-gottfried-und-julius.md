@@ -11,7 +11,7 @@ filters:
 
 *Eschersheimer Landstraße 463*
 
-![Stolperstein Westheim, Gottfried und Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/eschenheimer_landstr_463.jpg)
+![Stolperstein Westheim, Gottfried und Julius](../../images/stolpersteine/a03101502396_eschenheimer_landstr_463.jpg)
 
 Julius und Gottfried Westheim waren Geschwister, Söhne von Calmann Westheim und Sara Westheim, geb. Sommer. Sie hatten noch eine Schwester Flora (Jg. 1892), der 1941 die Flucht in das US-amerikanische Exil gelang. Die Geschwister waren in der Eschersheimer Landstrasse 463 aufgewachsen. Die Eltern betrieben in der Goethestrasse 5 ein Handarbeitsgeschäft „C.Westheim-Sommer". Julius Westheim war mit einer nichtjüdischen Frau verheiratet und hatte eine Tochter. Die Ehe wurde vor 1930 geschieden. Einige Tage vor seiner Deportation besuchte er seine christliche Verwandtschaft, um seine Tochter nochmals zu sehen.
 
@@ -114,8 +114,8 @@ Eschersheimer Landstraße 463
 ## Gallery
 
 <!-- gallery:standard -->
-![Westheim, Gottfried und Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperstein_eschenheimer_landstr_463_westheim_gottfried.jpg)
-![Westheim, Gottfried und Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperstein_eschenheimer_landstr_463_westheim_julius.jpg)
+![Westheim, Gottfried und Julius](../../images/stolpersteine/5039ffdda6e3_stolperstein_eschenheimer_landstr_463_westheim_gottfried.jpg)
+![Westheim, Gottfried und Julius](../../images/stolpersteine/797a405acc19_stolperstein_eschenheimer_landstr_463_westheim_julius.jpg)
 
 ## Links
 

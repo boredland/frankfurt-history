@@ -11,7 +11,7 @@ filters:
 
 *Voelckerstraße 11*
 
-![Stolperstein Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/voelckerstr_11.jpg)
+![Stolperstein Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](../../images/stolpersteine/e5c1ae4ba21c_voelckerstr_11.jpg)
 
 Hugo Sinzheimer (Porträtzeichnung von Emil Stumpp, 1931).
 
@@ -626,13 +626,13 @@ Voelckerstraße 11
 ## Gallery
 
 <!-- gallery:standard -->
-![Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/voelckerstr_11_hugo_sinzheimer_portraetzeichnung_von_emil_stumpp_1931.jpg)
-![Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_voelckerstr_11_sinzheimer_dr_hugo_daniel.jpg)
-![Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_voelckerstr_11_sinzheimer_paula.jpg)
-![Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_voelckerstr_11_sinzheimer_gertrud.jpg)
-![Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_voelckerstr_11_sinzheimer_hans-simon.jpg)
-![Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_voelckerstr_11_sinzheimer_eva.jpg)
-![Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_voelckerstr_11_sinzheimer_ursula_doris.jpg)
+![Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](../../images/stolpersteine/25e6c11531e8_voelckerstr_11_hugo_sinzheimer_portraetzeichnung_von_emil_st.jpg)
+![Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](../../images/stolpersteine/d0a9f96043b1_stolperst_voelckerstr_11_sinzheimer_dr_hugo_daniel.jpg)
+![Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](../../images/stolpersteine/1be1fc0ffc4b_stolperst_voelckerstr_11_sinzheimer_paula.jpg)
+![Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](../../images/stolpersteine/012263ed9821_stolperst_voelckerstr_11_sinzheimer_gertrud.jpg)
+![Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](../../images/stolpersteine/e1dee8227982_stolperst_voelckerstr_11_sinzheimer_hans-simon.jpg)
+![Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](../../images/stolpersteine/34e3712fcaeb_stolperst_voelckerstr_11_sinzheimer_eva.jpg)
+![Sinzheimer, Dr. Hugo Daniel, Paula, Gertrud, Hans-Simon, Eva und Ursula Doris](../../images/stolpersteine/3f2cda06506e_stolperst_voelckerstr_11_sinzheimer_ursula_doris.jpg)
 
 ## Links
 

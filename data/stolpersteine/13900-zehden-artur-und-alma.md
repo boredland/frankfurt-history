@@ -11,7 +11,7 @@ filters:
 
 *Martorffstraße 7*
 
-![Stolperstein Zehden, Artur und Alma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/martorffstr_7.jpg)
+![Stolperstein Zehden, Artur und Alma](../../images/stolpersteine/048268443468_martorffstr_7.jpg)
 
 Alma Zehden
 
@@ -120,9 +120,9 @@ Martorffstraße 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Zehden, Artur und Alma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/alma-zehden.jpg)
-![Zehden, Artur und Alma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/brief-an-das-aussiedlungsamt.jpg)
-![Zehden, Artur und Alma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/bescheinigung-zehden-lodz.jpg)
+![Zehden, Artur und Alma](../../images/stolpersteine/05f5835405ef_alma-zehden.jpg)
+![Zehden, Artur und Alma](../../images/stolpersteine/9aed867ae5b9_brief-an-das-aussiedlungsamt.jpg)
+![Zehden, Artur und Alma](../../images/stolpersteine/e6fd60275aac_bescheinigung-zehden-lodz.jpg)
 
 ## Links
 

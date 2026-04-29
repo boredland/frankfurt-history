@@ -11,7 +11,7 @@ filters:
 
 *Schönstraße 6*
 
-![Stolperstein Lehr, Klara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/schoenstr_6.jpg)
+![Stolperstein Lehr, Klara](../../images/stolpersteine/18b82ef2c145_schoenstr_6.jpg)
 
 Klara Loeb wurde in Hachenburg als Tochter von Max Loeb und Caroline Loeb, geb. Mosbacher, geboren. Sie heiratete den nichtjüdischer Arbeiter Ludwig Lehr (Jg. 1881). Sie waren nach nationalsozialistischer Definition in "Mischehe" verheiratet; 1917 und 1921 wurden die Töchter Emma und Margarete geboren und evangelisch getauft.  Die Familie lebte um 1921 in der Graubengasse 7, dann in einer Drei-Zimmer-Wohnung in der Schönstraße 6. Verfolgungsbedingt mussten sie Ende der 30er Jahre zunächst in die Wallstraße 19, zuletzt in die Kleine Brückenstraße 5 umziehen.
 
@@ -72,7 +72,7 @@ Schönstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Lehr, Klara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/stolperstein_schoenstrasse_6_lehr_klara.jpg)
+![Lehr, Klara](../../images/stolpersteine/be833427406e_stolperstein_schoenstrasse_6_lehr_klara.jpg)
 
 ## Links
 

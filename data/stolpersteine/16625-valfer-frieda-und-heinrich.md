@@ -11,7 +11,7 @@ filters:
 
 *Schleusenstraße 15*
 
-![Stolperstein Valfer, Frieda und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/schleusenstr_15.jpg)
+![Stolperstein Valfer, Frieda und Heinrich](../../images/stolpersteine/8682e696609a_schleusenstr_15.jpg)
 
 Heinrich Valfer wurde in Friesenheim, Frieda Valfer in Kuppenheim geboren. Sie besuchte die Volksschule und die Höhere Töchterschule in Rastatt. Vermutlich vor ihrer Heirat betrieb sie mit ihrer Schwester ein Modeatelier. Heinrich und Frieda Valfer hatten einen 1925 in Frankfurt zur Welt gekommenen Sohn. Ihm gelang die Flucht in das US-amerikanische Exil. Heinrich Valfer war Kaufmann, Prokurist, Mitgesellschafter und zuletzt alleiniger Inhaber der Weinhandlung und Cognacdestillation „Johann Müller & Co. Kellerei Germania" in der Schleusenstraße 15. Frieda Valfer besaß dort Prokura. Hauptkellerei und Büroräume befanden sich in Frankfurt, ein Weinberg nebst Nebenkellerei in Hochheim.
 
@@ -86,8 +86,8 @@ Schleusenstraße 15
 ## Gallery
 
 <!-- gallery:standard -->
-![Valfer, Frieda und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/stolperstein_schleusenstr_15_valfer_frieda.jpg)
-![Valfer, Frieda und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/stolperstein_schleusenstr_15_valfer_heinrich.jpg)
+![Valfer, Frieda und Heinrich](../../images/stolpersteine/12af06819cba_stolperstein_schleusenstr_15_valfer_frieda.jpg)
+![Valfer, Frieda und Heinrich](../../images/stolpersteine/5302312f7423_stolperstein_schleusenstr_15_valfer_heinrich.jpg)
 
 ## Links
 

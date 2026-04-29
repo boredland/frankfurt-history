@@ -11,7 +11,7 @@ filters:
 
 *Kalkentalstraße 7*
 
-![Stolperstein Hofmann, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/kalkentalstr_7.jpg)
+![Stolperstein Hofmann, Elisabeth](../../images/stolpersteine/f664040e863c_kalkentalstr_7.jpg)
 
 Elisabeth Hofmann wurde in Frankfurt am Main geboren. Ihre Eltern waren Ludwig Hofmann (Jg. 1865) aus Rödelheim und Eva Hofmann, geb. Ley (Jg. 1879), aus Gelnhausen. Die Familie war in der Rödelheimer Kalkentalstraße 7 wohnhaft. Die evangelischen Eltern hatten am 27. Januar 1900 in der St. Jacobskirche in Frankfurt-Bockenheim geheiratet. Elisabeth Hofmann und ihre am 15. April 1908 geborene Schwester Helmine Auguste wurden am 12. August 1900 von Pfarrer Weidemann evangelisch getauft.
 
@@ -100,7 +100,7 @@ Kalkentalstraße 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Hofmann, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/stolperst_kalkentalstr_7_hofmann_elisabeth.jpg)
+![Hofmann, Elisabeth](../../images/stolpersteine/f68b8d89135e_stolperst_kalkentalstr_7_hofmann_elisabeth.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Rohmerplatz 27*
 
-![Stolperstein Hirschmann, Hedwig, Helmut Martin und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/rohmerplatz_27.jpg)
+![Stolperstein Hirschmann, Hedwig, Helmut Martin und Margot](../../images/stolpersteine/96e45421d0df_rohmerplatz_27.jpg)
 
 Hedwig Scheuer wurde in Hoch-Weisel
 
@@ -220,13 +220,13 @@ Rohmerplatz 27
 ## Gallery
 
 <!-- gallery:standard -->
-![Hirschmann, Hedwig, Helmut Martin und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/opferbilder/rohmerplatz_27_hirschmann_hochzeitsfoto_von_margot_und_david_1948.jpg)
-![Hirschmann, Hedwig, Helmut Martin und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/opferbilder/rohmerplatz_27_hirschmann_taunusausflug_1936_lazarus_-und_hedwig_hirschmann_etc.jpg)
-![Hirschmann, Hedwig, Helmut Martin und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/opferbilder/rohmerplatz_27_uri_hirschmann_und_margot_lobree_1996.jpg)
-![Hirschmann, Hedwig, Helmut Martin und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/opferbilder/rohmerplatz_27_hirschmann_grab_in_frankfurt.jpg)
-![Hirschmann, Hedwig, Helmut Martin und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_rohmerplatz_27_hirschmann_hedwig.jpg)
-![Hirschmann, Hedwig, Helmut Martin und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_rohmerplatz_27_hirschmann_helmut_martin.jpg)
-![Hirschmann, Hedwig, Helmut Martin und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_rohmerplatz_27_hirschmann_margot.jpg)
+![Hirschmann, Hedwig, Helmut Martin und Margot](../../images/stolpersteine/2b123e813146_rohmerplatz_27_hirschmann_hochzeitsfoto_von_margot_und_david.jpg)
+![Hirschmann, Hedwig, Helmut Martin und Margot](../../images/stolpersteine/633083869d1a_rohmerplatz_27_hirschmann_taunusausflug_1936_lazarus_-und_he.jpg)
+![Hirschmann, Hedwig, Helmut Martin und Margot](../../images/stolpersteine/76516deb5054_rohmerplatz_27_uri_hirschmann_und_margot_lobree_1996.jpg)
+![Hirschmann, Hedwig, Helmut Martin und Margot](../../images/stolpersteine/1abdd2a6594a_rohmerplatz_27_hirschmann_grab_in_frankfurt.jpg)
+![Hirschmann, Hedwig, Helmut Martin und Margot](../../images/stolpersteine/1e9fcdef35ec_stolperst_rohmerplatz_27_hirschmann_hedwig.jpg)
+![Hirschmann, Hedwig, Helmut Martin und Margot](../../images/stolpersteine/830950fbee4a_stolperst_rohmerplatz_27_hirschmann_helmut_martin.jpg)
+![Hirschmann, Hedwig, Helmut Martin und Margot](../../images/stolpersteine/b4a6822a03d9_stolperst_rohmerplatz_27_hirschmann_margot.jpg)
 
 ## Links
 

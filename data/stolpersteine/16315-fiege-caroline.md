@@ -11,7 +11,7 @@ filters:
 
 *Kaulbachstraße 57*
 
-![Stolperstein Fiege, Caroline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/kaulbachstrasse-57_1.jpg)
+![Stolperstein Fiege, Caroline](../../images/stolpersteine/1a354e504233_kaulbachstrasse-57_1.jpg)
 
 Caroline Elisabeth Fiege kam als Tochter des Kaufmanns Sally Thalmann und dessen Frau Selma Thalmann, geb. Goldstein, in Remscheid zur Welt. 1919 heiratete sie den Kaufmann Wilhelm Fiege, zu dessen katholischem Glauben sie vermutlich konvertierte. Am 17. August 1920 kam ihr erster Sohn Hans Werner und am 21. Mai 1924 ihr zweiter Sohn Friedrich Wilhelm zur Welt. Sie lebten in Hamm und Bielefeld in guten Verhältnissen. 1932 zog die Familie nach Frankfurt und wohnte in der Wittelsbacher Allee 61. Nach nationalsozialistischer Definition waren Caroline und Wilhelm Fiege in Mischehe verheiratet. Am 18. Juni 1939 ließ sich ihr Ehemann scheiden.
 
@@ -152,7 +152,7 @@ Kaulbachstraße 57
 ## Gallery
 
 <!-- gallery:standard -->
-![Fiege, Caroline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_kaulbachstr_57_fiege_caroline.jpg)
+![Fiege, Caroline](../../images/stolpersteine/bfe13946b20a_stolperst_kaulbachstr_57_fiege_caroline.jpg)
 
 ## Links
 

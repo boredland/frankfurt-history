@@ -12,7 +12,7 @@ filters:
 
 *Stuttgarter Straße 24*
 
-![Stolperstein Kaufmann, Moritz Moses](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/stuttgarter_str_24.jpg)
+![Stolperstein Kaufmann, Moritz Moses](../../images/stolpersteine/98c5c1f3c579_stuttgarter_str_24.jpg)
 
 Moritz Moses Kaufmann wurde in Merzhausen im Kreis Ziegenhain geboren. Er war ein Bruder des Kaufmannes Abraham A. Kaufmann und
 
@@ -85,7 +85,7 @@ Stuttgarter Straße 24
 ## Gallery
 
 <!-- gallery:standard -->
-![Kaufmann, Moritz Moses](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/stolperst_stuttgarter_str_24_kaufmann_moritz_moses.jpg)
+![Kaufmann, Moritz Moses](../../images/stolpersteine/45a8ca1b78f5_stolperst_stuttgarter_str_24_kaufmann_moritz_moses.jpg)
 
 ## Links
 

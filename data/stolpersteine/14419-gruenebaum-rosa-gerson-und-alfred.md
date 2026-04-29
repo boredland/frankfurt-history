@@ -11,7 +11,7 @@ filters:
 
 *Eschersheimer Landstraße 405*
 
-![Stolperstein Grünebaum, Rosa, Gerson und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/eschersheimer_landstrasse_405_haus.jpg)
+![Stolperstein Grünebaum, Rosa, Gerson und Alfred](../../images/stolpersteine/2b69aecdc469_eschersheimer_landstrasse_405_haus.jpg)
 
 Alfred Grünebaum war Besitzer einer gut gehenden Textilfabrik und eines Modegeschäftes in der Frankfurter Stiftstraße. Er war seit 1924 mit Louise  (Liesel), geb. Dreydel, verheiratet, die Ehe wurde 1937 geschieden. 1926 wurde ihr einziges Kind, die Tochter Annelies geboren. Die wohnten zunächst in Oberursel, 1930 zogen sie dann in ihr eigenes Haus, in die Eschersheimer Landstraße 405.
 

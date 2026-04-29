@@ -11,7 +11,7 @@ filters:
 
 *Bolongarostraße 128*
 
-![Stolperstein Kahn, Ludwig und Nanette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/bolongarostr_128__300x400.jpg)
+![Stolperstein Kahn, Ludwig und Nanette](../../images/stolpersteine/974be7ca4ffd_bolongarostr_128__300x400.jpg)
 
 Ludwig Louis Kahn stammte aus Höchst, seine Eltern waren 1880 aus Langenselbold gekommen, zunächst in die Wallstraße 16 (heute Melchiorstraße) und im Juli 1914 in die Bolongarostraße 128. Der Vater, Hermann Kahn, starb 1919 und ist auf dem Sodener Friedhof beerdigt. Ludwig Kahn machte eine kaufmännische Ausbildung und betrieb in der Königsteinerstraße 2 sein „Lebensmittel en gros“-Geschäft. Am 19.7.1926 heiratete er Nanette Linz aus Rüsselsheim.
 
@@ -150,7 +150,7 @@ Bolongarostraße 128
 ## Gallery
 
 <!-- gallery:standard -->
-![Kahn, Ludwig und Nanette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_bolongarostr_128_kahn_ludwig__400x400.jpg)
+![Kahn, Ludwig und Nanette](../../images/stolpersteine/621f60b709e9_stolperst_bolongarostr_128_kahn_ludwig__400x400.jpg)
 
 ## Links
 

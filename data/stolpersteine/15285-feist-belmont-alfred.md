@@ -11,7 +11,7 @@ filters:
 
 *Feldbergstraße 51*
 
-![Stolperstein Feist-Belmont, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/feldbergstrasse-51_1.jpg)
+![Stolperstein Feist-Belmont, Alfred](../../images/stolpersteine/dbd1c281f6a1_feldbergstrasse-51_1.jpg)
 
 Alfred Feist-Belmont wurde in Frankfurt am Main geboren. Seit dem 30.6.1926 war er mit der aus Kirchvers stammenden Alix Feist-Belmont (1891-1975) verheiratet. Er galt im Nationalsozialismus als "Mischling 1. Grades" und war evangelisch.
 
@@ -450,9 +450,9 @@ Feldbergstraße 51
 ## Gallery
 
 <!-- gallery:standard -->
-![Feist-Belmont, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/feist-belmont-alfred.jpg)
-![Feist-Belmont, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/alfred-und-alice-feist-belmont.jpg)
-![Feist-Belmont, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperstein_feldbergstr_51_feist_belmont_alfred.jpg)
+![Feist-Belmont, Alfred](../../images/stolpersteine/7ac8eeb8f6f3_feist-belmont-alfred.jpg)
+![Feist-Belmont, Alfred](../../images/stolpersteine/27ed7f997fba_alfred-und-alice-feist-belmont.jpg)
+![Feist-Belmont, Alfred](../../images/stolpersteine/2166e83d5d43_stolperstein_feldbergstr_51_feist_belmont_alfred.jpg)
 
 ## Links
 

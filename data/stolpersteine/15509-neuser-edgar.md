@@ -11,7 +11,7 @@ filters:
 
 *Kostheimer Straße 15*
 
-![Stolperstein Neuser, Edgar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/standorte/kostheimer_str_15.jpg)
+![Stolperstein Neuser, Edgar](../../images/stolpersteine/50e0896115d6_kostheimer_str_15.jpg)
 
 Edgar Neuser wurde in Frankfurt als Sohn
 
@@ -250,7 +250,7 @@ Kostheimer Straße 15
 ## Gallery
 
 <!-- gallery:standard -->
-![Neuser, Edgar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_kostheimer_str_15_neuser_edgar.jpg)
+![Neuser, Edgar](../../images/stolpersteine/338abf4e470b_stolperst_kostheimer_str_15_neuser_edgar.jpg)
 
 ## Links
 

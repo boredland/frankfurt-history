@@ -11,7 +11,7 @@ filters:
 
 *Am Tiergarten 52*
 
-![Stolperstein Wormser, Bertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/am_tiergarten_52.jpg)
+![Stolperstein Wormser, Bertha](../../images/stolpersteine/0bf27ad91061_am_tiergarten_52.jpg)
 
 Bertha Wormser wurde in Staufen in Baden als Tochter von Moritz und
 
@@ -228,7 +228,7 @@ Am Tiergarten 52
 ## Gallery
 
 <!-- gallery:standard -->
-![Wormser, Bertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_am_tiergarten_52_wormser_berta.jpg)
+![Wormser, Bertha](../../images/stolpersteine/7a64fcb19a67_stolperst_am_tiergarten_52_wormser_berta.jpg)
 
 ## Links
 

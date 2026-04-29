@@ -11,7 +11,7 @@ filters:
 
 *Eppsteiner Straße 5*
 
-![Stolperstein Hirsch, Julius und Blanka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/eppsteiner-strasse-5_1.jpg)
+![Stolperstein Hirsch, Julius und Blanka](../../images/stolpersteine/a0a66536279b_eppsteiner-strasse-5_1.jpg)
 
 Die Sekretärin Blanka Hirsch wurde in Kassel geboren und besuchte dort die Vorschule und eine höhere Mädchenschule. Sie war die Tochter von Clara Bachrach, geborene Groedel, geboren am 2. September 1871 in Friedberg.
 
@@ -478,7 +478,7 @@ Eppsteiner Straße 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Hirsch, Julius und Blanka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eppsteinerstr_5_hirsch_julius__400x400.jpg)
+![Hirsch, Julius und Blanka](../../images/stolpersteine/55db7c09369a_stolperst_eppsteinerstr_5_hirsch_julius__400x400.jpg)
 
 ## Links
 

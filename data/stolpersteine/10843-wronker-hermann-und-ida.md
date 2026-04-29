@@ -11,7 +11,7 @@ filters:
 
 *Zeil 85-93*
 
-![Stolperstein Wronker, Hermann und Ida](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/zeil-85-93.jpg)
+![Stolperstein Wronker, Hermann und Ida](../../images/stolpersteine/c1943a9ef306_zeil-85-93.jpg)
 
 Hermann Wronker
 
@@ -452,13 +452,13 @@ Zeil 85-93
 ## Gallery
 
 <!-- gallery:standard -->
-![Wronker, Hermann und Ida](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/wronker-hermann-1.jpg)
-![Wronker, Hermann und Ida](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/wronker-hermann-2.jpg)
-![Wronker, Hermann und Ida](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/wronker-hermann-3.jpg)
-![Wronker, Hermann und Ida](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/wronker-hermann-4.jpg)
-![Wronker, Hermann und Ida](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/wronker-hermann.jpg)
-![Wronker, Hermann und Ida](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/wronker-ida.jpg)
-![Wronker, Hermann und Ida](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/wronker-hermann-ag.jpg)
+![Wronker, Hermann und Ida](../../images/stolpersteine/6b97ca855580_wronker-hermann-1.jpg)
+![Wronker, Hermann und Ida](../../images/stolpersteine/078a83961d8b_wronker-hermann-2.jpg)
+![Wronker, Hermann und Ida](../../images/stolpersteine/93e8202e05ae_wronker-hermann-3.jpg)
+![Wronker, Hermann und Ida](../../images/stolpersteine/c5d6c4a0c861_wronker-hermann-4.jpg)
+![Wronker, Hermann und Ida](../../images/stolpersteine/0570f929bd71_wronker-hermann.jpg)
+![Wronker, Hermann und Ida](../../images/stolpersteine/c03c8efd1098_wronker-ida.jpg)
+![Wronker, Hermann und Ida](../../images/stolpersteine/acb1d7a18854_wronker-hermann-ag.jpg)
 
 ## Links
 

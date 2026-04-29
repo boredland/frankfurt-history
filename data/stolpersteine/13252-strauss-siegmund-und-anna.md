@@ -11,7 +11,7 @@ filters:
 
 *Schumannstraße 49*
 
-![Stolperstein Strauss, Siegmund und Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/schumannstrasse-49_1.jpg)
+![Stolperstein Strauss, Siegmund und Anna](../../images/stolpersteine/8620237cd5ed_schumannstrasse-49_1.jpg)
 
 Siegmund Strauss wurde in Lohrhaupten als Sohn von Michael Strauss und Mina Strauss, geb. Selig, geboren. Er war verheiratet mit Anna Strauss, geb. Dessauer. Das Ehepaar hatte zwei Kinder: Die am 2. April 1908 in Frankfurt geborene Tochter Leni Maria Pappe, geb. Strauss, lebte nach dem Zweiten Weltkrieg in Israel, dem 1904 auch in Frankfurt zur Welt gekommenen Sohn war 1933 über Frankreich und Spanien die Flucht nach Kuba gelungen.
 
@@ -460,8 +460,8 @@ Schumannstraße 49
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauss, Siegmund und Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstr_49_strauss_anna_louise.jpg)
-![Strauss, Siegmund und Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstr_49_strauss_siegmund.jpg)
+![Strauss, Siegmund und Anna](../../images/stolpersteine/d63841fbee79_stolperst_schumannstr_49_strauss_anna_louise.jpg)
+![Strauss, Siegmund und Anna](../../images/stolpersteine/8582ecb9db3f_stolperst_schumannstr_49_strauss_siegmund.jpg)
 
 ## Links
 

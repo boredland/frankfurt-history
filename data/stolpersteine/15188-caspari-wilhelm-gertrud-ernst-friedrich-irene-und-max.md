@@ -11,7 +11,7 @@ filters:
 
 *Bockenheimer Landstraße 99*
 
-![Stolperstein Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/bockenheimer-landstrasse-99_1.jpg)
+![Stolperstein Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](../../images/stolpersteine/3e3f02948d54_bockenheimer-landstrasse-99_1.jpg)
 
 Familie Caspari
 
@@ -536,14 +536,14 @@ Bockenheimer Landstraße 99
 ## Gallery
 
 <!-- gallery:standard -->
-![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/familie-caspari.jpg)
-![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/gertrud-caspari.jpg)
-![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/gertrud-und-wilhelm-caspari.jpg)
-![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/wilhelm-caspari.jpg)
-![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/max-caspari-11-jahre.jpg)
-![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/gedenktafel-an-der-friedhofsmauer-von-lodz.jpg)
-![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/_caspari_dr_wilhelm.jpg)
-![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/caspari_irene.jpg)
+![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](../../images/stolpersteine/8cb44f221aa0_familie-caspari.jpg)
+![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](../../images/stolpersteine/c28edf448aa5_gertrud-caspari.jpg)
+![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](../../images/stolpersteine/bf55e471615b_gertrud-und-wilhelm-caspari.jpg)
+![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](../../images/stolpersteine/d4bcfb9fa3c1_wilhelm-caspari.jpg)
+![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](../../images/stolpersteine/bc5122a831ae_max-caspari-11-jahre.jpg)
+![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](../../images/stolpersteine/84701106bb02_gedenktafel-an-der-friedhofsmauer-von-lodz.jpg)
+![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](../../images/stolpersteine/225e5fa1cb0f__caspari_dr_wilhelm.jpg)
+![Caspari, Wilhelm, Gertrud, Ernst, Friedrich, Irene und Max](../../images/stolpersteine/1ef38435d638_caspari_irene.jpg)
 
 ## Links
 

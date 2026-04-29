@@ -11,7 +11,7 @@ filters:
 
 *Marburger Straße 16*
 
-![Stolperstein Bernard, Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/standort/marburger_strasse_16.jpg)
+![Stolperstein Bernard, Georg](../../images/stolpersteine/cc2184df30ee_marburger_strasse_16.jpg)
 
 Georg
 
@@ -170,7 +170,7 @@ Marburger Straße 16
 ## Gallery
 
 <!-- gallery:standard -->
-![Bernard, Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_marburger_strasse_16_bernard_georg.jpg)
+![Bernard, Georg](../../images/stolpersteine/7bac5b7c8df4_stolperst_marburger_strasse_16_bernard_georg.jpg)
 
 ## Links
 

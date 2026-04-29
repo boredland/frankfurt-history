@@ -11,7 +11,7 @@ filters:
 
 *Königsteiner Straße 48*
 
-![Stolperstein Hahn, Rosa, Meta und Emanuel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/koenigsteinerstrasse_48_haus.jpg)
+![Stolperstein Hahn, Rosa, Meta und Emanuel](../../images/stolpersteine/bdb91010a1ff_koenigsteinerstrasse_48_haus.jpg)
 
 Emanuel Hahn aus Eddersheim betrieb seit 1898 eine Darm- und Fellhandlung in Höchst. Seine Frau Rosa, geb. Liebmann, kam aus Aschaffenburg. Am 17.9.1900 wurde der Sohn Sally und 1902 die Tochter Meta in Höchst geboren. Sally besuchte hier das Real-Progymansium und schloss 1916 erfolgreich ab; er wollte, wie sein Vater, Kaufmann werden.
 

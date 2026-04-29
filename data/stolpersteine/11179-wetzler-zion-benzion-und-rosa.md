@@ -11,7 +11,7 @@ filters:
 
 *Herderstraße 37*
 
-![Stolperstein Wetzler, Zion Benzion und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/herderstr_37.jpg)
+![Stolperstein Wetzler, Zion Benzion und Rosa](../../images/stolpersteine/75d9762ed62e_herderstr_37.jpg)
 
 Zion Benzion Wetzler wurde in Langstadt bei Dieburg geboren. Seine Eltern waren der Schneidermeister
 
@@ -432,8 +432,8 @@ Herderstraße 37
 ## Gallery
 
 <!-- gallery:standard -->
-![Wetzler, Zion Benzion und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_herderstr_37_wetzler_zion_benzion.jpg)
-![Wetzler, Zion Benzion und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_herderstr_37_wetzler_rosa.jpg)
+![Wetzler, Zion Benzion und Rosa](../../images/stolpersteine/979d9a153b55_stolperst_herderstr_37_wetzler_zion_benzion.jpg)
+![Wetzler, Zion Benzion und Rosa](../../images/stolpersteine/04cc12e4c430_stolperst_herderstr_37_wetzler_rosa.jpg)
 
 ## Links
 

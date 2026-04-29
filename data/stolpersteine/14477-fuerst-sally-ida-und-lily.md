@@ -11,7 +11,7 @@ filters:
 
 *Gärtnerweg 4-8*
 
-![Stolperstein Fürst, Sally, Ida und Lily](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/gaertnerweg_4-8.jpg)
+![Stolperstein Fürst, Sally, Ida und Lily](../../images/stolpersteine/e6ed6ef54a12_gaertnerweg_4-8.jpg)
 
 Ida und Sally Fürst
 
@@ -632,11 +632,11 @@ Gärtnerweg 4-8
 ## Gallery
 
 <!-- gallery:standard -->
-![Fürst, Sally, Ida und Lily](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/gaertnerweg_3_ida_und_sally_fuerst.jpg)
-![Fürst, Sally, Ida und Lily](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/gaertnerweg_3_sally_fuerst_und_tochter_lily.jpg)
-![Fürst, Sally, Ida und Lily](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_gaertnerweg_4-8_fuerst_sally.jpg)
-![Fürst, Sally, Ida und Lily](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_gaertnerweg_4-8_fuerst_ida.jpg)
-![Fürst, Sally, Ida und Lily](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_gaertnerweg_4-8_fuerst_lily.jpg)
+![Fürst, Sally, Ida und Lily](../../images/stolpersteine/e199ddea3cb3_gaertnerweg_3_ida_und_sally_fuerst.jpg)
+![Fürst, Sally, Ida und Lily](../../images/stolpersteine/8896cba1be50_gaertnerweg_3_sally_fuerst_und_tochter_lily.jpg)
+![Fürst, Sally, Ida und Lily](../../images/stolpersteine/9e80392840f6_stolperst_gaertnerweg_4-8_fuerst_sally.jpg)
+![Fürst, Sally, Ida und Lily](../../images/stolpersteine/fe5bdad32448_stolperst_gaertnerweg_4-8_fuerst_ida.jpg)
+![Fürst, Sally, Ida und Lily](../../images/stolpersteine/63b3e406a9ba_stolperst_gaertnerweg_4-8_fuerst_lily.jpg)
 
 ## Links
 

@@ -12,7 +12,7 @@ filters:
 
 *Musikantenweg 45*
 
-![Stolperstein Grünewald, Julius, Edgar und Inge](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/musikantenweg_45.jpg)
+![Stolperstein Grünewald, Julius, Edgar und Inge](../../images/stolpersteine/72a7008005c0_musikantenweg_45.jpg)
 
 Julius
 
@@ -493,8 +493,8 @@ Musikantenweg 45
 ## Gallery
 
 <!-- gallery:standard -->
-![Grünewald, Julius, Edgar und Inge](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/musikantenweg_45_gruenewald_inge_1.jpg)
-![Grünewald, Julius, Edgar und Inge](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_musikantenweg_45_gruenewald_julius.jpg)
+![Grünewald, Julius, Edgar und Inge](../../images/stolpersteine/4b940ec4570e_musikantenweg_45_gruenewald_inge_1.jpg)
+![Grünewald, Julius, Edgar und Inge](../../images/stolpersteine/884ac21aa5d6_stolperst_musikantenweg_45_gruenewald_julius.jpg)
 
 ## Links
 

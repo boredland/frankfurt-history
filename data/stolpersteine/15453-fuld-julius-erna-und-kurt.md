@@ -11,7 +11,7 @@ filters:
 
 *Julius-Heyman-Straße 12*
 
-![Stolperstein Fuld, Julius, Erna und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/julius-heymann-str_12.jpg)
+![Stolperstein Fuld, Julius, Erna und Kurt](../../images/stolpersteine/6781e0f1cf25_julius-heymann-str_12.jpg)
 
 Julius Fuld wurde als drittes von sechs Kindern von Leopold und Mathilde Fuld, geb. Reinheimer, in Frankfurt geboren. Seinen Brüdern Hermann, Gustav und Adolf gelang zusammen mit ihren Eltern die Emigration in die USA. Seine Schwester Frieda flüchtete 1938 nach Buenos Aires (Argentinien). Seiner Schwester Rosi gelang mit ihrem Mann und der gemeinsamen kleinen Tochter Ruth die Flucht über Shanghai nach Palästina. Rosi Weil wurde jedoch so krank, dass sie bereits mit 38 Jahren verstarb.
 
@@ -420,7 +420,7 @@ Julius-Heyman-Straße 12
 ## Gallery
 
 <!-- gallery:standard -->
-![Fuld, Julius, Erna und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-fuld-julius.jpg)
+![Fuld, Julius, Erna und Kurt](../../images/stolpersteine/de307c50bdee_stolperstein-fuld-julius.jpg)
 
 ## Links
 

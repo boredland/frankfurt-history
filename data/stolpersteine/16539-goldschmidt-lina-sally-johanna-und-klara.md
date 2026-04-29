@@ -12,7 +12,7 @@ filters:
 
 *Ostendstraße 62*
 
-![Stolperstein Goldschmidt, Lina, Sally, Johanna und Klara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/ostendstr_62.jpg)
+![Stolperstein Goldschmidt, Lina, Sally, Johanna und Klara](../../images/stolpersteine/689ea601e96b_ostendstr_62.jpg)
 
 Lina Goldschmidt
 
@@ -297,9 +297,9 @@ Ostendstraße 62
 ## Gallery
 
 <!-- gallery:standard -->
-![Goldschmidt, Lina, Sally, Johanna und Klara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/ostendstr_62_goldschmidt_lina_1.jpg)
-![Goldschmidt, Lina, Sally, Johanna und Klara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/ostendstr_62_goldschmidt_lina_2.jpg)
-![Goldschmidt, Lina, Sally, Johanna und Klara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_ostendstr_62_goldschmidt_lina.jpg)
+![Goldschmidt, Lina, Sally, Johanna und Klara](../../images/stolpersteine/a11ffe2200a7_ostendstr_62_goldschmidt_lina_1.jpg)
+![Goldschmidt, Lina, Sally, Johanna und Klara](../../images/stolpersteine/bd140657b826_ostendstr_62_goldschmidt_lina_2.jpg)
+![Goldschmidt, Lina, Sally, Johanna und Klara](../../images/stolpersteine/be82649bde66_stolperst_ostendstr_62_goldschmidt_lina.jpg)
 
 ## Links
 

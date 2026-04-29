@@ -11,7 +11,7 @@ filters:
 
 *Melemstraße 12*
 
-![Stolperstein Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/melemstr_12.jpg)
+![Stolperstein Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](../../images/stolpersteine/a2b94a710c4d_melemstr_12.jpg)
 
 Dora Weichsel wurde in Fürfeld geboren und war mit Louis Weichsel verheiratet, der am 24. Mai 1925 starb. Sie hatten drei in Straßburg geborene Söhne: Ernst, Manfred und Paul. Ihre in Fürfeld geborene Schwester Mathilde Wolf war mit Simon Wolf verheiratet, der 1937 starb. Die Familie wohnte in der Schleidenstraße 24, dann bis 1936 in der Liebigstraße 41 und zuletzt in der Melemstraße 12.
 
@@ -478,15 +478,15 @@ Melemstraße 12
 ## Gallery
 
 <!-- gallery:standard -->
-![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/melemstr_12_weichsel_familientafel.jpg)
-![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/melemstr_12_weichsel_heiratsschein.jpg)
-![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/melemstr_12_weichsel_trauschein.jpg)
-![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/melemstr_12_weichsel_grabstein_in_new_york.jpg)
-![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_melemstr_12_weichsel_dora.jpg)
-![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_melemstr_12_weichsel_ernst.jpg)
-![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_melemstr_12_weichsel_paul.jpg)
-![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_melemstr_12_weichsel_manfred.jpg)
-![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_melemstr_12_wolf_mathilde.jpg)
+![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](../../images/stolpersteine/1a58121bfc44_melemstr_12_weichsel_familientafel.jpg)
+![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](../../images/stolpersteine/07d107923598_melemstr_12_weichsel_heiratsschein.jpg)
+![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](../../images/stolpersteine/e32971697012_melemstr_12_weichsel_trauschein.jpg)
+![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](../../images/stolpersteine/e7488b2a322d_melemstr_12_weichsel_grabstein_in_new_york.jpg)
+![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](../../images/stolpersteine/fce5a33ec077_stolperst_melemstr_12_weichsel_dora.jpg)
+![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](../../images/stolpersteine/39e7c67e4f58_stolperst_melemstr_12_weichsel_ernst.jpg)
+![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](../../images/stolpersteine/3f765dbd99ef_stolperst_melemstr_12_weichsel_paul.jpg)
+![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](../../images/stolpersteine/5274680549f5_stolperst_melemstr_12_weichsel_manfred.jpg)
+![Weichsel, Dora, Manfred, Paul und Ernst sowie Wolf, Mathilde](../../images/stolpersteine/529d6e74fadc_stolperst_melemstr_12_wolf_mathilde.jpg)
 
 ## Links
 

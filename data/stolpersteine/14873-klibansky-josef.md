@@ -11,7 +11,7 @@ filters:
 
 *Reuterweg 73*
 
-![Stolperstein Klibansky, Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/reuterweg_73.jpg)
+![Stolperstein Klibansky, Josef](../../images/stolpersteine/b37ba286786c_reuterweg_73.jpg)
 
 Josef (Joseph)
 
@@ -520,7 +520,7 @@ Reuterweg 73
 ## Gallery
 
 <!-- gallery:standard -->
-![Klibansky, Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_reuterweg_73_klibansky_joseph.jpg)
+![Klibansky, Josef](../../images/stolpersteine/2f6c4905107e_stolperst_reuterweg_73_klibansky_joseph.jpg)
 
 ## Links
 

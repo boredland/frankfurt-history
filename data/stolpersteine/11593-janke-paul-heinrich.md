@@ -11,7 +11,7 @@ filters:
 
 *Stiftstraße 17*
 
-![Stolperstein Janke, Paul Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stiftstr_17.jpg)
+![Stolperstein Janke, Paul Heinrich](../../images/stolpersteine/d1e1ad35d486_stiftstr_17.jpg)
 
 Paul Heinrich Janke wurde in Frankfurt geboren und absolvierte hier die Mittelschule. Er wurde Chemigraph und arbeitete im väterlichen Betrieb. 1935 heiratete er Anna Stripp, die ihre Tochter Hildegard, geb.1935, mit in die Ehe brachte.
 
@@ -156,7 +156,7 @@ Stiftstraße 17
 ## Gallery
 
 <!-- gallery:standard -->
-![Janke, Paul Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_stiftstr_17_janke_paul_heinrich.jpg)
+![Janke, Paul Heinrich](../../images/stolpersteine/20da547c0758_stolperst_stiftstr_17_janke_paul_heinrich.jpg)
 
 ## Links
 

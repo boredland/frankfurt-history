@@ -11,7 +11,7 @@ filters:
 
 *Niederräder Landstraße 36*
 
-![Stolperstein Gerst, Ella und Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/niederraeder_landstr_36.jpg)
+![Stolperstein Gerst, Ella und Gustav](../../images/stolpersteine/9f09d646cccd_niederraeder_landstr_36.jpg)
 
 Gustav Gerst wurde in
 
@@ -366,15 +366,15 @@ Niederräder Landstraße 36
 ## Gallery
 
 <!-- gallery:standard -->
-![Gerst, Ella und Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/niederraeder_landstr_gerst_gustav.jpg)
-![Gerst, Ella und Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/niederraeder_landstr_gerst_aufnahme_aus_dem_familienalbum_spaete_1920er_jahre.jpg)
-![Gerst, Ella und Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/niederraeder_landstr_gerst_links_kaufhaus_tietz_zeil_116-122_frankfurt_am_main.jpg)
-![Gerst, Ella und Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/niederraeder_lndstr_gerst_das_1910_errichtete_warenhaus_h_und_c_tietz_in_bamberg.jpg)
-![Gerst, Ella und Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/niederraeder_landstr_gerst_goetheturm.jpg)
-![Gerst, Ella und Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/niederraeder_landstr_gerst_stifter-tafel_am_goethe-turm.jpg)
-![Gerst, Ella und Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/niederraeder_landstr_gerst_mit_familie_gerst_william_bill_rudolf_mit_tochter_margaret_und_enkel_alex.jpg)
-![Gerst, Ella und Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_niederraeder_landstr_36_gerst_gustav.jpg)
-![Gerst, Ella und Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_niederraeder_landstr_36_gerst_ella.jpg)
+![Gerst, Ella und Gustav](../../images/stolpersteine/1fa2fb28fdf5_niederraeder_landstr_gerst_gustav.jpg)
+![Gerst, Ella und Gustav](../../images/stolpersteine/c32a5933506c_niederraeder_landstr_gerst_aufnahme_aus_dem_familienalbum_sp.jpg)
+![Gerst, Ella und Gustav](../../images/stolpersteine/3a8090c896aa_niederraeder_landstr_gerst_links_kaufhaus_tietz_zeil_116-122.jpg)
+![Gerst, Ella und Gustav](../../images/stolpersteine/50e27fce4a32_niederraeder_lndstr_gerst_das_1910_errichtete_warenhaus_h_un.jpg)
+![Gerst, Ella und Gustav](../../images/stolpersteine/b965b47b0ae2_niederraeder_landstr_gerst_goetheturm.jpg)
+![Gerst, Ella und Gustav](../../images/stolpersteine/5e880a95a514_niederraeder_landstr_gerst_stifter-tafel_am_goethe-turm.jpg)
+![Gerst, Ella und Gustav](../../images/stolpersteine/f232f6eaafe5_niederraeder_landstr_gerst_mit_familie_gerst_william_bill_ru.jpg)
+![Gerst, Ella und Gustav](../../images/stolpersteine/9d3f91650f37_stolperst_niederraeder_landstr_36_gerst_gustav.jpg)
+![Gerst, Ella und Gustav](../../images/stolpersteine/db89bf3dd2ca_stolperst_niederraeder_landstr_36_gerst_ella.jpg)
 
 ## Links
 

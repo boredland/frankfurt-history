@@ -12,7 +12,7 @@ filters:
 
 *Rückertstraße 47*
 
-![Stolperstein Fiebermann, Emil und Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/rckertstr_47.jpg)
+![Stolperstein Fiebermann, Emil und Adolf](../../images/stolpersteine/76c75953321c_rckertstr_47.jpg)
 
 Emil
 
@@ -257,8 +257,8 @@ Rückertstraße 47
 ## Gallery
 
 <!-- gallery:standard -->
-![Fiebermann, Emil und Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_rckertstr_47_fiebermann_emil.jpg)
-![Fiebermann, Emil und Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_rckertstr_47_fiebermann_adolf.jpg)
+![Fiebermann, Emil und Adolf](../../images/stolpersteine/a6318137885f_stolperst_rckertstr_47_fiebermann_emil.jpg)
+![Fiebermann, Emil und Adolf](../../images/stolpersteine/426f1d43448c_stolperst_rckertstr_47_fiebermann_adolf.jpg)
 
 ## Links
 

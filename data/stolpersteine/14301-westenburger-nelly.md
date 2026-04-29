@@ -11,7 +11,7 @@ filters:
 
 *Auf der Körnerwiese 4*
 
-![Stolperstein Westenburger, Nelly](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/auf-der-koernerwiese-4_1.jpg)
+![Stolperstein Westenburger, Nelly](../../images/stolpersteine/ef82a4652084_auf-der-koernerwiese-4_1.jpg)
 
 Nelly Westenburger, geb. Jolasse, wurde in New York geboren. Sie galt nach nationalsozialistischer Definition als „Mischling I. Grades". Sie war Inhaberin des Cafes „Jolasse" an der Hauptwache, das sie von ihrem verstorbenen Bruder 1942 geerbt hatte. Die Erbschaft hatte sie zu Gunsten ihres Sohnes ausgeschlagen. Der Sohn (Jg. 1920) war Soldat im Zweiten Weltkrieg.
 
@@ -452,7 +452,7 @@ Auf der Körnerwiese 4
 ## Gallery
 
 <!-- gallery:standard -->
-![Westenburger, Nelly](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/westenburger_nelly.jpg)
+![Westenburger, Nelly](../../images/stolpersteine/7c9aa482a7f7_westenburger_nelly.jpg)
 
 ## Links
 

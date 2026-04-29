@@ -11,7 +11,7 @@ filters:
 
 *Kurt-Schumacher-Straße 26*
 
-![Stolperstein Paul, Elisabeth, Helene und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/kurt_schumacher_strasse_26.jpg)
+![Stolperstein Paul, Elisabeth, Helene und Hermann](../../images/stolpersteine/e45d9567e589_kurt_schumacher_strasse_26.jpg)
 
 Elisabeth Paul, geb. Kafka, stammte aus Wien, ihre Kinder waren Helene, Hermann und Gertrud, die am 7. Dezember 1928 geboren wurde. Ihr Ehemann, der Heizer Albert Gustav Hermann Paul war nichtjüdisch. Er starb 1930 an den Folgen einer Verwundung aus dem Ersten Weltkrieg. Elisabeth Paul wohnte mit ihren als „Mischlinge 1. Grades“ geltenden Kindern zunächst wahrscheinlich in der Börnestraße 34. Mit Hermann und Gertrud war sie 1939 im Großen Wollgraben 36 gemeldet.
 
@@ -188,8 +188,8 @@ Kurt-Schumacher-Straße 26
 ## Gallery
 
 <!-- gallery:standard -->
-![Paul, Elisabeth, Helene und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_kurt_schumacher_strasse_26_paul_elisabeth.jpg)
-![Paul, Elisabeth, Helene und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_kurt_schumacher_strasse_26_paul_hermann.jpg)
+![Paul, Elisabeth, Helene und Hermann](../../images/stolpersteine/52e94488faf4_stolperst_kurt_schumacher_strasse_26_paul_elisabeth.jpg)
+![Paul, Elisabeth, Helene und Hermann](../../images/stolpersteine/da825aacd4c4_stolperst_kurt_schumacher_strasse_26_paul_hermann.jpg)
 
 ## Links
 

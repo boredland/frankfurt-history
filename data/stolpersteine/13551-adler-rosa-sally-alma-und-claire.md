@@ -11,7 +11,7 @@ filters:
 
 *Emmerich-Josef-Straße 21*
 
-![Stolperstein Adler, Rosa, Sally, Alma und Claire](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/emmerich_josef_str_21_b_400x300.jpg)
+![Stolperstein Adler, Rosa, Sally, Alma und Claire](../../images/stolpersteine/ff500962763f_emmerich_josef_str_21_b_400x300.jpg)
 
 Adler, Claire
 
@@ -186,9 +186,9 @@ Emmerich-Josef-Straße 21
 ## Gallery
 
 <!-- gallery:standard -->
-![Adler, Rosa, Sally, Alma und Claire](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/adler-claire.jpg)
-![Adler, Rosa, Sally, Alma und Claire](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/alma-adler-und-sally-adler.jpg)
-![Adler, Rosa, Sally, Alma und Claire](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_emmjosefstr21_adler_rosa_400x397.jpg)
+![Adler, Rosa, Sally, Alma und Claire](../../images/stolpersteine/dcffc25d85c6_adler-claire.jpg)
+![Adler, Rosa, Sally, Alma und Claire](../../images/stolpersteine/04ad179baf74_alma-adler-und-sally-adler.jpg)
+![Adler, Rosa, Sally, Alma und Claire](../../images/stolpersteine/bf04c40c0ae1_stolperst_emmjosefstr21_adler_rosa_400x397.jpg)
 
 ## Links
 

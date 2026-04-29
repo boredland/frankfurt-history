@@ -11,7 +11,7 @@ filters:
 
 *An der Walkmühle 19a*
 
-![Stolperstein Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/standort/an_der_walkmuehle_19a.jpg)
+![Stolperstein Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf](../../images/stolpersteine/abcb0bdf6981_an_der_walkmuehle_19a.jpg)
 
 Seligmann,
 
@@ -294,11 +294,11 @@ An der Walkmühle 19a
 ## Gallery
 
 <!-- gallery:standard -->
-![Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/opferbilder/an_der_walkmuehle_19a_nieder_eschbach_umzug_unter_hakenkreuzfahnen.jpg)
-![Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/stolperst_an_der_walkmuehle_19a_ehrlich_seligmann.jpg)
-![Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/stolperst_an_der_walkmuehle_19a_ehrlich_caroline.jpg)
-![Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/stolperst_an_der_walkmuehle_19a_ehrlich_bernhard.jpg)
-![Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/stolperst_an_der_walkmuehle_19a_ehrlich_rudolf.jpg)
+![Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf](../../images/stolpersteine/fe087a55b7fb_an_der_walkmuehle_19a_nieder_eschbach_umzug_unter_hakenkreuz.jpg)
+![Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf](../../images/stolpersteine/6929c4cba7b1_stolperst_an_der_walkmuehle_19a_ehrlich_seligmann.jpg)
+![Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf](../../images/stolpersteine/8c950ba9d646_stolperst_an_der_walkmuehle_19a_ehrlich_caroline.jpg)
+![Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf](../../images/stolpersteine/e418e84acf95_stolperst_an_der_walkmuehle_19a_ehrlich_bernhard.jpg)
+![Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf](../../images/stolpersteine/c54515255b6d_stolperst_an_der_walkmuehle_19a_ehrlich_rudolf.jpg)
 
 ## Links
 

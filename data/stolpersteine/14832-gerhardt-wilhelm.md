@@ -12,7 +12,7 @@ filters:
 
 *Odenwaldstraße 10*
 
-![Stolperstein Gerhardt, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/odenwaldstr_10.jpg)
+![Stolperstein Gerhardt, Wilhelm](../../images/stolpersteine/10552bc76fee_odenwaldstr_10.jpg)
 
 Wilhelm Gerhardt wurde in Frankfurt geboren. Er war
 
@@ -169,7 +169,7 @@ Odenwaldstraße 10
 ## Gallery
 
 <!-- gallery:standard -->
-![Gerhardt, Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_odenwaldstr_10_gerhardt_wilhelm10.jpg)
+![Gerhardt, Wilhelm](../../images/stolpersteine/f96e0383ef45_stolperst_odenwaldstr_10_gerhardt_wilhelm10.jpg)
 
 ## Links
 

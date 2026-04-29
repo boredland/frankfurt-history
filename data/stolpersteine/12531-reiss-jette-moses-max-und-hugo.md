@@ -11,7 +11,7 @@ filters:
 
 *Wolfsgangstraße 41*
 
-![Stolperstein Reiss, Jette, Moses Max und Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/wolfsgangstr_41.jpg)
+![Stolperstein Reiss, Jette, Moses Max und Hugo](../../images/stolpersteine/02177a5e0b1b_wolfsgangstr_41.jpg)
 
 Reiss, Moses
 
@@ -438,8 +438,8 @@ Wolfsgangstraße 41
 ## Gallery
 
 <!-- gallery:standard -->
-![Reiss, Jette, Moses Max und Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/reiss-moses.jpg)
-![Reiss, Jette, Moses Max und Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-reiss-hugo.jpg)
+![Reiss, Jette, Moses Max und Hugo](../../images/stolpersteine/06d3ff311b9a_reiss-moses.jpg)
+![Reiss, Jette, Moses Max und Hugo](../../images/stolpersteine/44ae9563c055_stolperstein-reiss-hugo.jpg)
 
 ## Links
 

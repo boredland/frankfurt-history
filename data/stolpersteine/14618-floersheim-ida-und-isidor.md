@@ -11,7 +11,7 @@ filters:
 
 *Kastellstraße 10*
 
-![Stolperstein Flörsheim, Ida und Isidor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/kastellstrasse_10_haus.jpg)
+![Stolperstein Flörsheim, Ida und Isidor](../../images/stolpersteine/eae249bb7f8f_kastellstrasse_10_haus.jpg)
 
 Familie Flörsheimer
 
@@ -112,7 +112,7 @@ Kastellstraße 10
 ## Gallery
 
 <!-- gallery:standard -->
-![Flörsheim, Ida und Isidor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/familie-floersheimer.jpg)
+![Flörsheim, Ida und Isidor](../../images/stolpersteine/2154e07e12c0_familie-floersheimer.jpg)
 
 ## Links
 

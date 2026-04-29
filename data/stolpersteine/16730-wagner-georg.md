@@ -11,7 +11,7 @@ filters:
 
 *Varrentrappstraße 57*
 
-![Stolperstein Wagner, Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/varrentrappstr_57.jpg)
+![Stolperstein Wagner, Georg](../../images/stolpersteine/854ec06991f1_varrentrappstr_57.jpg)
 
 Georg Wagner wurde in Kempen (Posen) geboren. Er war seit 1925 nach späterer nationalsozialistischer Definition in „Mischehe“ verheiratet, die Ehe wurde 1942 auf Druck geschieden. Georg Wagner arbeitete als kaufmännischer Angestellter.
 
@@ -112,7 +112,7 @@ Varrentrappstraße 57
 ## Gallery
 
 <!-- gallery:standard -->
-![Wagner, Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_varrentrappstr_57_wagner_georg.jpg)
+![Wagner, Georg](../../images/stolpersteine/14bede011ca3_stolperst_varrentrappstr_57_wagner_georg.jpg)
 
 ## Links
 

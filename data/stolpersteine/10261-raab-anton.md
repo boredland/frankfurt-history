@@ -11,7 +11,7 @@ filters:
 
 *Goldsteinstraße 65*
 
-![Stolperstein Raab, Anton](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/goldsteinstrasse_65.jpg)
+![Stolperstein Raab, Anton](../../images/stolpersteine/05f24417282e_goldsteinstrasse_65.jpg)
 
 Anton Raab war der jüngste Sohn von Peter Anton Raab
 
@@ -418,9 +418,9 @@ Goldsteinstraße 65
 ## Gallery
 
 <!-- gallery:standard -->
-![Raab, Anton](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/goldsteinstrasse_65_raab_anton_als_fussballer_bei_stade_rennes_1939.jpg)
-![Raab, Anton](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/goldsteinstrasse_65_raab_anton_gefaelschte_ausweise.jpg)
-![Raab, Anton](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_goldsteinstrasse_65_raab_anton.jpg)
+![Raab, Anton](../../images/stolpersteine/9defdffca65f_goldsteinstrasse_65_raab_anton_als_fussballer_bei_stade_renn.jpg)
+![Raab, Anton](../../images/stolpersteine/2fd38d074d29_goldsteinstrasse_65_raab_anton_gefaelschte_ausweise.jpg)
+![Raab, Anton](../../images/stolpersteine/8a051818ed63_stolperst_goldsteinstrasse_65_raab_anton.jpg)
 
 ## Links
 

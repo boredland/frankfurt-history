@@ -11,7 +11,7 @@ filters:
 
 *Opernplatz 14*
 
-![Stolperstein Raaf, Cornelis van der](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opernplatz_14.jpg)
+![Stolperstein Raaf, Cornelis van der](../../images/stolpersteine/698ee22412e6_opernplatz_14.jpg)
 
 Cornelis Johannes van der Raaf wurde in Schiedam bei
 
@@ -288,8 +288,8 @@ Opernplatz 14
 ## Gallery
 
 <!-- gallery:standard -->
-![Raaf, Cornelis van der](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/opernplatz_14_van_der_raaf_cornelis_passfoto_1963.jpg)
-![Raaf, Cornelis van der](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_opernplatz_14_van_der_raaf_cornelis.jpg)
+![Raaf, Cornelis van der](../../images/stolpersteine/bc4ca53b9811_opernplatz_14_van_der_raaf_cornelis_passfoto_1963.jpg)
+![Raaf, Cornelis van der](../../images/stolpersteine/0ee38a564adf_stolperst_opernplatz_14_van_der_raaf_cornelis.jpg)
 
 ## Links
 

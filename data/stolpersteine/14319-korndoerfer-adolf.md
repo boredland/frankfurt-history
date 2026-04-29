@@ -11,7 +11,7 @@ filters:
 
 *Beethovenstraße 32*
 
-![Stolperstein Korndörfer, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/beethovenstr_32.jpg)
+![Stolperstein Korndörfer, Adolf](../../images/stolpersteine/b81dec9d3bf3_beethovenstr_32.jpg)
 
 Adolf Korndörfer wurde als Sohn des Apothekers Adolf Korndörfer und seiner Ehefrau Clementine, geb. Caesar, in Michelbach/Nassau geboren. Er wuchs mit fünf Geschwistern auf. Nach dem Besuch des Gymnasiums und dem Studium der Theologie in Marburg übernahm er eine Hauslehrerstelle in einem norddeutschen Adelshaus. Zurück in Marburg belegte er die Fächer Deutsch und Geschichte. Er nahm damit vom Pfarramt Abstand und ging als Studienreferendar nach Frankfurt. Den Ersten Weltkrieg erlebte er an der Front und kam als Leutnant der Reserve mit dem Eisernen Kreuz zurück.
 
@@ -462,12 +462,12 @@ Beethovenstraße 32
 ## Gallery
 
 <!-- gallery:standard -->
-![Korndörfer, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/beethovenstr_32_korndoerfer_adolf_zeichnung_von_emil_betzler_schueler_von_max_beckmann.jpg)
-![Korndörfer, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/beethovenstr_32_korndoerfer_gefaengnisakte.jpg)
-![Korndörfer, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/beethovenstr_32_korndoerfer_1.jpg)
-![Korndörfer, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/beethovenstr_32_korndoerfer_2.jpg)
-![Korndörfer, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/beethovenstr_32_korndoerfer_3.jpg)
-![Korndörfer, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_beethovenstr_32_korndoerfer_adolf.jpg)
+![Korndörfer, Adolf](../../images/stolpersteine/f07aee787013_beethovenstr_32_korndoerfer_adolf_zeichnung_von_emil_betzler.jpg)
+![Korndörfer, Adolf](../../images/stolpersteine/fa34cffd3324_beethovenstr_32_korndoerfer_gefaengnisakte.jpg)
+![Korndörfer, Adolf](../../images/stolpersteine/a5ffd2820706_beethovenstr_32_korndoerfer_1.jpg)
+![Korndörfer, Adolf](../../images/stolpersteine/5e73c09081a8_beethovenstr_32_korndoerfer_2.jpg)
+![Korndörfer, Adolf](../../images/stolpersteine/6ad5a22ac88e_beethovenstr_32_korndoerfer_3.jpg)
+![Korndörfer, Adolf](../../images/stolpersteine/e1776b4c54b6_stolperst_beethovenstr_32_korndoerfer_adolf.jpg)
 
 ## Links
 

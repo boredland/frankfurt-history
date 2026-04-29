@@ -11,7 +11,7 @@ filters:
 
 *Mainzer Landstraße 33*
 
-![Stolperstein Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/francois_mitterrand_platz_33__300x400.jpg)
+![Stolperstein Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander](../../images/stolpersteine/05b785dbf8ea_francois_mitterrand_platz_33__300x400.jpg)
 
 Alexander und Margarete Loeb
 
@@ -148,12 +148,12 @@ Mainzer Landstraße 33 (François-Mitterrand-Platz)
 ## Gallery
 
 <!-- gallery:standard -->
-![Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/loeb-ottilie.jpg)
-![Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/firma-bing-katalogausschnitt.jpg)
-![Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/ottilie-loeb-und-peter-buseck.jpg)
-![Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/ottilie-loeb-2.jpg)
-![Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/loeb_alexander__400x400.jpg)
-![Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/ottilie-loeb.jpg)
+![Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander](../../images/stolpersteine/e4e4821b9f67_loeb-ottilie.jpg)
+![Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander](../../images/stolpersteine/9ee188051827_firma-bing-katalogausschnitt.jpg)
+![Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander](../../images/stolpersteine/78f62213707d_ottilie-loeb-und-peter-buseck.jpg)
+![Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander](../../images/stolpersteine/8a7a6b11759a_ottilie-loeb-2.jpg)
+![Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander](../../images/stolpersteine/6f1d2423e748_loeb_alexander__400x400.jpg)
+![Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander](../../images/stolpersteine/bc8a5fe86081_ottilie-loeb.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Willibrachtstraße 13*
 
-![Stolperstein Klausing, Friedrich Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/willibrachtstr_13.jpg)
+![Stolperstein Klausing, Friedrich Karl](../../images/stolpersteine/fe4972acca03_willibrachtstr_13.jpg)
 
 Friedrich Karl Klausing wurde
 
@@ -210,9 +210,9 @@ Willibrachtstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Klausing, Friedrich Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/opferbilder/willibrachtstr_13_klausing_friedrich_karl_bundesarchiv_146ii-760.jpg)
-![Klausing, Friedrich Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/opferbilder/willibrachtstr_13_klausing_friedrich_karl_vor_dem_volksgerichtshof_7_august_1944.jpg)
-![Klausing, Friedrich Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/stolperst_willibrachtstr_13_klausing_friedrich_karl-1.jpg)
+![Klausing, Friedrich Karl](../../images/stolpersteine/d075fd2b7a6a_willibrachtstr_13_klausing_friedrich_karl_bundesarchiv_146ii.jpg)
+![Klausing, Friedrich Karl](../../images/stolpersteine/bb8556ca9d0b_willibrachtstr_13_klausing_friedrich_karl_vor_dem_volksgeric.jpg)
+![Klausing, Friedrich Karl](../../images/stolpersteine/f5c4e615e63e_stolperst_willibrachtstr_13_klausing_friedrich_karl-1.jpg)
 
 ## Links
 

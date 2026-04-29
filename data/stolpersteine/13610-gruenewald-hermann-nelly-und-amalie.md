@@ -11,7 +11,7 @@ filters:
 
 *Freiherr-vom-Stein-Straße 51*
 
-![Stolperstein Grünewald, Hermann, Nelly und Amalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/freiherr-vom-stein-stasse-51_1.jpg)
+![Stolperstein Grünewald, Hermann, Nelly und Amalie](../../images/stolpersteine/4330a1457df3_freiherr-vom-stein-stasse-51_1.jpg)
 
 Hermann Grünewald wurde in Nastätten im Taunus geboren. Amalie Grünewald, geb. Stern, kam in Montabaur im Westerwald zur Welt. Nach der Volksschule besuchte sie bis zum 16. Lebensjahr eine Klosterschule. Danach machte sie eine praktische kaufmännische Ausbildung in der Manufakturwarenbranche sowie in Konfektion im elterlichen Geschäft.
 
@@ -484,7 +484,7 @@ Freiherr-vom-Stein-Straße 51
 ## Gallery
 
 <!-- gallery:standard -->
-![Grünewald, Hermann, Nelly und Amalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperstein_freiherr_vom_stein_str_51_gruenewald_amalie.jpg)
+![Grünewald, Hermann, Nelly und Amalie](../../images/stolpersteine/990813d3ee19_stolperstein_freiherr_vom_stein_str_51_gruenewald_amalie.jpg)
 
 ## Links
 

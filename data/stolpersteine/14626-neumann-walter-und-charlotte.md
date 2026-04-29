@@ -11,7 +11,7 @@ filters:
 
 *Kennedyallee 89*
 
-![Stolperstein Neumann, Walter und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/kennedyallee-89_1.jpg)
+![Stolperstein Neumann, Walter und Charlotte](../../images/stolpersteine/7c21d691e115_kennedyallee-89_1.jpg)
 
 Walter Neumann, genannt der „Schlappe-Stinnes“, war seit Oktober 1925 Mitglied der Eintracht Frankfurt: Er wurde sowohl vom Verein als auch vom Süddeutschen Verband in den folgenden Jahren mehrfach für sein Engagement ausgezeichnet. In der Festschrift „50 Jahre Eintracht“ von 1949 wird rückblickend berichtet: „Der Mann, der die Eintracht führte, ohne auf dem Stuhl des Präsidenten zu sitzen, hieß Walter Neumann. Er besaß eine unbändige Lebenslust, aber sobald es um den Verein ging, wurde es bei ihm ernst.“ Walter Neumann war Mitinhaber der Firma J.C & A. Schneider und sorgte dafür, dass talentierte Fußballer einen Job bei der Firma bekamen und dafür bei der Eintracht kickten.
 
@@ -178,10 +178,10 @@ Kennedyallee 89
 ## Gallery
 
 <!-- gallery:standard -->
-![Neumann, Walter und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/neumann-walter.jpg)
-![Neumann, Walter und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/adolf-und-julius-neumann.jpg)
-![Neumann, Walter und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/neumann-julius.jpg)
-![Neumann, Walter und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_kennedyallee_89_neumann_walter.jpg)
+![Neumann, Walter und Charlotte](../../images/stolpersteine/5e04b0cb1ffe_neumann-walter.jpg)
+![Neumann, Walter und Charlotte](../../images/stolpersteine/19ea8593596c_adolf-und-julius-neumann.jpg)
+![Neumann, Walter und Charlotte](../../images/stolpersteine/5632d8f0a88f_neumann-julius.jpg)
+![Neumann, Walter und Charlotte](../../images/stolpersteine/c7eda1e6360a_stolperst_kennedyallee_89_neumann_walter.jpg)
 
 ## Links
 

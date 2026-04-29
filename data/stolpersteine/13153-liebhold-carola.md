@@ -11,7 +11,7 @@ filters:
 
 *Palmstraße 5*
 
-![Stolperstein Liebhold, Carola](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/palmstr_5.jpg)
+![Stolperstein Liebhold, Carola](../../images/stolpersteine/57afe0f37233_palmstr_5.jpg)
 
 Carola Liebhold wurde in Mannheim geboren und war mit Wilhelm Liebhold (06.10.1870 - 26.02.1939) aus Heidelberg verheiratet. Am 19.05.1911 wurde der einzige Sohn des Paares Hans Moritz in Frankfurt geboren. Die Familie wohnte im dritten Stock der Palmstraße 5 und gehörte zum liberalen Teil der Israelitischen Gemeinde. Die Bar Mizwa des Sohnes Ende Oktober oder Anfang November 1924 fand in der Hauptsynagoge statt. Der Sohn, der 1931 an der Musterschule sein Abitur und danach eine kaufmännische Ausbildung bei der Firma „Harry Fuld & Co.“ in der Mainzer Landstraße (später „Telefonbau-Normalzeit“) gemacht hatte, verlor mit der „Arisierung“ der Firma seinen Arbeitsplatz. Ende Oktober 1936 emigrierte er in die USA.
 
@@ -404,8 +404,8 @@ Palmstraße 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Liebhold, Carola](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/todesanzeige-im-juedischen-nachrichtenblatt-berlin-vom-3-maerz-1939.jpg)
-![Liebhold, Carola](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-liebhold-carola.jpg)
+![Liebhold, Carola](../../images/stolpersteine/b7de047511b0_todesanzeige-im-juedischen-nachrichtenblatt-berlin-vom-3-mae.jpg)
+![Liebhold, Carola](../../images/stolpersteine/379a8d0f901c_stolperstein-liebhold-carola.jpg)
 
 ## Links
 

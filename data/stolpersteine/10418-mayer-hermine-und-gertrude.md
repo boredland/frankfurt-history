@@ -11,7 +11,7 @@ filters:
 
 *Konrad-Glatt-Straße 3*
 
-![Stolperstein Mayer, Hermine und Gertrude](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/konrad_glatt_strasse_3__300x400.jpg)
+![Stolperstein Mayer, Hermine und Gertrude](../../images/stolpersteine/95eaf184ed7f_konrad_glatt_strasse_3__300x400.jpg)
 
 Hermine Mayer, geb. Kauders, aus in Hostomitz/Böhmen (Hostomice/Tschechien) zog 1916  mit ihren drei Kindern in die Konrad-Glatt-Str. 3; bereits seit 1892 wohnte die Familie in Höchst. Hermine Mayer führte das 1894 gegründete Geschäft „Geschwister Kauders“  (Weiß-,Woll- und Kurzwaren) in der heutigen Bolongarostraße gemeinsam mit ihrem Mann Max, der aus dem Rheinland kam. Als dieser 1910 starb, führte sie das Geschäft noch zwei Jahre weiter.
 
@@ -166,9 +166,9 @@ Konrad-Glatt-Straße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Mayer, Hermine und Gertrude](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/mayer-hermine.jpg)
-![Mayer, Hermine und Gertrude](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/mayer-gertrude.jpg)
-![Mayer, Hermine und Gertrude](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_konrad_glatt_strasse_3_mayer_hermine__400x400.jpg)
+![Mayer, Hermine und Gertrude](../../images/stolpersteine/39ca606fbae8_mayer-hermine.jpg)
+![Mayer, Hermine und Gertrude](../../images/stolpersteine/a88ac4175209_mayer-gertrude.jpg)
+![Mayer, Hermine und Gertrude](../../images/stolpersteine/b68f32f8347f_stolperst_konrad_glatt_strasse_3_mayer_hermine__400x400.jpg)
 
 ## Links
 

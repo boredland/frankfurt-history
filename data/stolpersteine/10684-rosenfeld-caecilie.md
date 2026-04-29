@@ -11,7 +11,7 @@ filters:
 
 *Scheffelstraße 24*
 
-![Stolperstein Rosenfeld, Cäcilie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/scheffelstr_24.jpg)
+![Stolperstein Rosenfeld, Cäcilie](../../images/stolpersteine/7ff74aa28f01_scheffelstr_24.jpg)
 
 Caecilie Rosenfeld aus Bochum war die Tochter des Metzgers Jacob Simons und dessen Frau Karoline. Sie heiratete am 3. Februar 1904 den Filmvertreter Max Rosenfeld in Fulham (London/Großbritannien}. 1904 und 1906 wurden eine Tochter und ein Sohnes in Hannover geboren, 1920 eine weitere Tochter in Frankfurt, die sämtlich nach dem Zweiten Weltkrieg in den USA lebten. Sie war deutsche Staatsbürgerin, nach der Heirat aufgrund der Herkunft des Ehemanns „staatenlos“. Sie wohnten von 1914 bis 1936 in der Seumestraße 12, von 1936 bis etwa 1938 in der Hansaallee 10, zuletzt in einer Acht-Zimmer-Wohnung in der Scheffelstraße 24/1.
 

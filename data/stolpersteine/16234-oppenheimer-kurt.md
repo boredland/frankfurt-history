@@ -12,7 +12,7 @@ filters:
 
 *Hans-Thoma-Straße 3*
 
-![Stolperstein Oppenheimer Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/hans-thoma-str_3.jpg)
+![Stolperstein Oppenheimer Kurt](../../images/stolpersteine/d6cb699bc128_hans-thoma-str_3.jpg)
 
 Kurt
 
@@ -235,8 +235,8 @@ Hans-Thoma-Straße 3/II
 ## Gallery
 
 <!-- gallery:standard -->
-![Oppenheimer Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/hans-thoma-str_3_oppenheimer_kurt_1.jpg)
-![Oppenheimer Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_hans-thoma-str_3_oppenheimer_kurt.jpg)
+![Oppenheimer Kurt](../../images/stolpersteine/05e7fb364dd1_hans-thoma-str_3_oppenheimer_kurt_1.jpg)
+![Oppenheimer Kurt](../../images/stolpersteine/d3a7c6444ffa_stolperst_hans-thoma-str_3_oppenheimer_kurt.jpg)
 
 ## Links
 

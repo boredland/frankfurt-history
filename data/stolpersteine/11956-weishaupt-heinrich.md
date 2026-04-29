@@ -11,7 +11,7 @@ filters:
 
 *Goldsteinstraße 51*
 
-![Stolperstein Weishaupt, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/goldsteinstr_51.jpg)
+![Stolperstein Weishaupt, Heinrich](../../images/stolpersteine/fe841f42564c_goldsteinstr_51.jpg)
 
 Heinrich Weishaupt war jüdisch und mit der evangelischen Maria, geb. Fabel, verheiratet. Sie wurden am 22. Oktober 1920 von Pfarrer Enders von der Paul-Gerhardt-Gemeinde getraut. 1921 wurde ihr Sohn Franz Heinrich geboren. Die Familie wohnte im Hinterhaus, II. OG, in der Goldsteinstraße 51.
 
@@ -126,7 +126,7 @@ Goldsteinstraße 51
 ## Gallery
 
 <!-- gallery:standard -->
-![Weishaupt, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/weishaupt_heinrich.jpg)
+![Weishaupt, Heinrich](../../images/stolpersteine/a5c6895e9b86_weishaupt_heinrich.jpg)
 
 ## Links
 

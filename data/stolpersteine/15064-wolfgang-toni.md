@@ -12,7 +12,7 @@ filters:
 
 *Wilhelm-Leuschner-Straße 12*
 
-![Stolperstein Wolfgang, Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/wilhelm-leuschner-str_12.jpg)
+![Stolperstein Wolfgang, Toni](../../images/stolpersteine/aeff0714cbe8_wilhelm-leuschner-str_12.jpg)
 
 Ernst Jakob Wolfgang
 
@@ -213,10 +213,10 @@ Wilhelm-Leuschner-Straße 12
 ## Gallery
 
 <!-- gallery:standard -->
-![Wolfgang, Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/wilhelm_leuschner_str_12_wolfgang_toni_ernst_jakob.jpg)
-![Wolfgang, Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/wilhelm_leuschner_str_12_wolfgang_toni_lucien_neustadt_1.jpg)
-![Wolfgang, Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/wilhelm_leuschner_str_12_wolfgang_toni_lucien_neustadt_2.jpg)
-![Wolfgang, Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolpersteine_wilhelm-leuschner-str_12.jpg)
+![Wolfgang, Toni](../../images/stolpersteine/8e94d76fd35d_wilhelm_leuschner_str_12_wolfgang_toni_ernst_jakob.jpg)
+![Wolfgang, Toni](../../images/stolpersteine/2bef368c2c9a_wilhelm_leuschner_str_12_wolfgang_toni_lucien_neustadt_1.jpg)
+![Wolfgang, Toni](../../images/stolpersteine/4e28cf4f2b3c_wilhelm_leuschner_str_12_wolfgang_toni_lucien_neustadt_2.jpg)
+![Wolfgang, Toni](../../images/stolpersteine/76fd74ab9a63_stolpersteine_wilhelm-leuschner-str_12.jpg)
 
 ## Links
 

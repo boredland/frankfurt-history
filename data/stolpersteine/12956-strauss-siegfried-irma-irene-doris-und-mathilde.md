@@ -11,7 +11,7 @@ filters:
 
 *Königsteiner Straße 84*
 
-![Stolperstein Strauss, Siegfried, Irma Irene, Doris und Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/standorte/koenigsteiner-strasse-84_1.jpg)
+![Stolperstein Strauss, Siegfried, Irma Irene, Doris und Mathilde](../../images/stolpersteine/f81e257c3aca_koenigsteiner-strasse-84_1.jpg)
 
 Irma und Siegfried Strauss
 
@@ -118,11 +118,11 @@ Königsteiner Straße 84
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauss, Siegfried, Irma Irene, Doris und Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/opferbilder/irma-und-siegfried-strauss.jpg)
-![Strauss, Siegfried, Irma Irene, Doris und Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/strauss_mathilde.jpg)
-![Strauss, Siegfried, Irma Irene, Doris und Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/strauss_karoline_doris.jpg)
-![Strauss, Siegfried, Irma Irene, Doris und Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/strauss_irma.jpg)
-![Strauss, Siegfried, Irma Irene, Doris und Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/strauss_siegfried.jpg)
+![Strauss, Siegfried, Irma Irene, Doris und Mathilde](../../images/stolpersteine/34e36acc1511_irma-und-siegfried-strauss.jpg)
+![Strauss, Siegfried, Irma Irene, Doris und Mathilde](../../images/stolpersteine/66296178be07_strauss_mathilde.jpg)
+![Strauss, Siegfried, Irma Irene, Doris und Mathilde](../../images/stolpersteine/9b5f46be88b3_strauss_karoline_doris.jpg)
+![Strauss, Siegfried, Irma Irene, Doris und Mathilde](../../images/stolpersteine/a4eb8cea37ef_strauss_irma.jpg)
+![Strauss, Siegfried, Irma Irene, Doris und Mathilde](../../images/stolpersteine/ffcb964293ae_strauss_siegfried.jpg)
 
 ## Links
 

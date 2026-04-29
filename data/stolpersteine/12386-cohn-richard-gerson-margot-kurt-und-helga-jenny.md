@@ -11,7 +11,7 @@ filters:
 
 *Schloßstraße 117*
 
-![Stolperstein Cohn, Richard Gerson, Margot, Kurt und Helga Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/standort/schlossstrasse_117.jpg)
+![Stolperstein Cohn, Richard Gerson, Margot, Kurt und Helga Jenny](../../images/stolpersteine/a12b3a75ab16_schlossstrasse_117.jpg)
 
 Richard
 
@@ -266,12 +266,12 @@ Schloßstraße 117
 ## Gallery
 
 <!-- gallery:standard -->
-![Cohn, Richard Gerson, Margot, Kurt und Helga Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/opferbilder/schlossstrasse_117_cohn_richard.jpg)
-![Cohn, Richard Gerson, Margot, Kurt und Helga Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/opferbilder/schlossstrasse_117_cohn_margot.jpg)
-![Cohn, Richard Gerson, Margot, Kurt und Helga Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_schlossstrasse_117_cohn_richard_gerson.jpg)
-![Cohn, Richard Gerson, Margot, Kurt und Helga Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_schlossstrasse_117_cohn_margot.jpg)
-![Cohn, Richard Gerson, Margot, Kurt und Helga Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_schlossstrasse_117_cohn_kurt.jpg)
-![Cohn, Richard Gerson, Margot, Kurt und Helga Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_schlossstrasse_117_cohn_helga_jenny.jpg)
+![Cohn, Richard Gerson, Margot, Kurt und Helga Jenny](../../images/stolpersteine/8551b2caeede_schlossstrasse_117_cohn_richard.jpg)
+![Cohn, Richard Gerson, Margot, Kurt und Helga Jenny](../../images/stolpersteine/5cb23eb540f8_schlossstrasse_117_cohn_margot.jpg)
+![Cohn, Richard Gerson, Margot, Kurt und Helga Jenny](../../images/stolpersteine/a200280eba61_stolperst_schlossstrasse_117_cohn_richard_gerson.jpg)
+![Cohn, Richard Gerson, Margot, Kurt und Helga Jenny](../../images/stolpersteine/425042c4c1b9_stolperst_schlossstrasse_117_cohn_margot.jpg)
+![Cohn, Richard Gerson, Margot, Kurt und Helga Jenny](../../images/stolpersteine/54b7dd64c886_stolperst_schlossstrasse_117_cohn_kurt.jpg)
+![Cohn, Richard Gerson, Margot, Kurt und Helga Jenny](../../images/stolpersteine/a723372e3af7_stolperst_schlossstrasse_117_cohn_helga_jenny.jpg)
 
 ## Links
 

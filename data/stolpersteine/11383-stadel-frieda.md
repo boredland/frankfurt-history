@@ -12,7 +12,7 @@ filters:
 
 *Morgensternstraße 21*
 
-![Stolperstein Stadel, Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/morgensternstr_21.jpg)
+![Stolperstein Stadel, Frieda](../../images/stolpersteine/421752d88ae3_morgensternstr_21.jpg)
 
 Frieda Rebekka Stadel wurde in
 
@@ -165,7 +165,7 @@ Morgensternstraße 21
 ## Gallery
 
 <!-- gallery:standard -->
-![Stadel, Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_morgensternstr_21_stadel_frieda.jpg)
+![Stadel, Frieda](../../images/stolpersteine/3030eff5dc9b_stolperst_morgensternstr_21_stadel_frieda.jpg)
 
 ## Links
 

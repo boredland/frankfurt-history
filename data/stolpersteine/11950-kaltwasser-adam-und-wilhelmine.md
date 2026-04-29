@@ -11,7 +11,7 @@ filters:
 
 *Ginnheimer Landstraße 198*
 
-![Stolperstein Kaltwasser, Adam und Wilhelmine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/ginnheimer_landstr_198.jpg)
+![Stolperstein Kaltwasser, Adam und Wilhelmine](../../images/stolpersteine/d0ece1134656_ginnheimer_landstr_198.jpg)
 
 Wilhelmine Kaltwasser wurde in Gimbsheim bei Worms geboren, der Küfer Adam Kaltwasser in Auerbach. Beide heirateten am 31.1.1914. Um 1921 lernten sie die Bibelforscher (Jehovas Zeugen) kennen und konvertierten 1924. Das Ehepaar hatte mittlerweile zwei Töchter, Wilhelmine (Minna) und Dorothea (Doris, Dora).
 
@@ -84,8 +84,8 @@ Ginnheimer Landstraße 198
 ## Gallery
 
 <!-- gallery:standard -->
-![Kaltwasser, Adam und Wilhelmine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/stolperst_ginnheimer_landstr_198_kaltwasser_adam.jpg)
-![Kaltwasser, Adam und Wilhelmine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/stolperst_ginnheimer_landstr_198_kaltwasser_wilhelmine.jpg)
+![Kaltwasser, Adam und Wilhelmine](../../images/stolpersteine/83e9f439bfcd_stolperst_ginnheimer_landstr_198_kaltwasser_adam.jpg)
+![Kaltwasser, Adam und Wilhelmine](../../images/stolpersteine/838d1b749db6_stolperst_ginnheimer_landstr_198_kaltwasser_wilhelmine.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Fichtestraße 3*
 
-![Stolperstein Moritz, Ludwig, Rosy, Wally und Hannah](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/fichtestr_3.jpg)
+![Stolperstein Moritz, Ludwig, Rosy, Wally und Hannah](../../images/stolpersteine/e5f7ba783de8_fichtestr_3.jpg)
 
 Ludwig Moritz wurde in eine orthodoxe jüdische Familie in Gelnhausen
 
@@ -574,11 +574,11 @@ Fichtestraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Moritz, Ludwig, Rosy, Wally und Hannah](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/fichtestr_7_buecher_auf_der_ausreiseliste_1.jpg)
-![Moritz, Ludwig, Rosy, Wally und Hannah](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_fichtestr_3_moritz_ludwig.jpg)
-![Moritz, Ludwig, Rosy, Wally und Hannah](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_fichtestr_3_moritz_rosy.jpg)
-![Moritz, Ludwig, Rosy, Wally und Hannah](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_fichtestr_3_moritz_wally.jpg)
-![Moritz, Ludwig, Rosy, Wally und Hannah](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_fichtestr_3_moritz_hannah.jpg)
+![Moritz, Ludwig, Rosy, Wally und Hannah](../../images/stolpersteine/a35e9cfe8492_fichtestr_7_buecher_auf_der_ausreiseliste_1.jpg)
+![Moritz, Ludwig, Rosy, Wally und Hannah](../../images/stolpersteine/c6232e97fad7_stolperst_fichtestr_3_moritz_ludwig.jpg)
+![Moritz, Ludwig, Rosy, Wally und Hannah](../../images/stolpersteine/460a5fa118c2_stolperst_fichtestr_3_moritz_rosy.jpg)
+![Moritz, Ludwig, Rosy, Wally und Hannah](../../images/stolpersteine/d2cd3142e13d_stolperst_fichtestr_3_moritz_wally.jpg)
+![Moritz, Ludwig, Rosy, Wally und Hannah](../../images/stolpersteine/0fa0aa875fbf_stolperst_fichtestr_3_moritz_hannah.jpg)
 
 ## Links
 

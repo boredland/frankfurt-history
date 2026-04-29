@@ -11,7 +11,7 @@ filters:
 
 *Fürstenbergerstraße 167*
 
-![Stolperstein Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/fuerstenbergerstrasse_167.jpg)
+![Stolperstein Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](../../images/stolpersteine/3b79810d581d_fuerstenbergerstrasse_167.jpg)
 
 Paul
 
@@ -528,11 +528,11 @@ Fuerstenbergerstrasse 167
 ## Gallery
 
 <!-- gallery:standard -->
-![Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_fuerstenbergerstrasse_167_erlanger_dorothea.jpg)
-![Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_fuerstenbergerstrasse_167_erlanger_lotte.jpg)
-![Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_fuerstenbergerstrasse_167_erlanger_ludwig.jpg)
-![Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_fuerstenbergerstrasse_167_erlanger_luise_charlotte.jpg)
-![Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_fuerstenbergerstrasse_167_erlanger_paul_siegfried.jpg)
+![Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](../../images/stolpersteine/91ad7098c699_stolperst_fuerstenbergerstrasse_167_erlanger_dorothea.jpg)
+![Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](../../images/stolpersteine/973467d9608c_stolperst_fuerstenbergerstrasse_167_erlanger_lotte.jpg)
+![Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](../../images/stolpersteine/5d08f3534d49_stolperst_fuerstenbergerstrasse_167_erlanger_ludwig.jpg)
+![Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](../../images/stolpersteine/887f6effcd9c_stolperst_fuerstenbergerstrasse_167_erlanger_luise_charlotte.jpg)
+![Erlanger, Lotte, Paul Siegfried, Luise Charlotte, Dorothea und Ludwig](../../images/stolpersteine/17801c992ab5_stolperst_fuerstenbergerstrasse_167_erlanger_paul_siegfried..jpg)
 
 ## Links
 

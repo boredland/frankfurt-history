@@ -11,7 +11,7 @@ filters:
 
 *Mainzer Landstraße 137*
 
-![Stolperstein Kopp, Nikolaus](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/mainzer_landstrasse_137__400x300.jpg)
+![Stolperstein Kopp, Nikolaus](../../images/stolpersteine/aed910b73621_mainzer_landstrasse_137__400x300.jpg)
 
 Nikolaus Kopp wurde 1901 in Frankfurt Höchst geboren. Er arbeitete in der Landwirtschaft, war ab 1931 arbeitslos. 1938 er erhielt wegen seiner Homosexualität eine siebenmonatige Gefängnisstrafe. Da er von einem Gerichtsmediziner als „schwachsinnig“ kategorisiert wurde, wurde er nach der Haftentlassung in die „Heilanstalt“ Eichberg eingewiesen. Er starb in der Heilanstalt Hadamar – wahrscheinlich während einer staatlichen Mordaktion dort. Seine letzte Wohnung in Frankfurt befand sich in der Mainzer Landstraße 137.
 
@@ -94,7 +94,7 @@ Mainzer Landstraße 137
 ## Gallery
 
 <!-- gallery:standard -->
-![Kopp, Nikolaus](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolpersteine_mainzer_landstrasse_137_kopp_nikolaus__400x300.jpg)
+![Kopp, Nikolaus](../../images/stolpersteine/49db4e426f0d_stolpersteine_mainzer_landstrasse_137_kopp_nikolaus__400x300.jpg)
 
 ## Links
 

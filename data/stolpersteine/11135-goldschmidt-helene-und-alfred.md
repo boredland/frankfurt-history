@@ -11,7 +11,7 @@ filters:
 
 *Hadrianstraße 15*
 
-![Stolperstein Goldschmidt, Helene und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/hadrianstr_15__400x300.jpg)
+![Stolperstein Goldschmidt, Helene und Alfred](../../images/stolpersteine/a8beda5ef32a_hadrianstr_15__400x300.jpg)
 
 Alfred Goldschmidt, geboren in Frankfurt, Helene, geb. Mansbach, geboren in Darmstadt, heirateten am 5.11.1908 in Darmstadt. Sie hatten zwei in Frankfurt geborene Kinder: Erna, geb. am 5.8.1909, und Walter, geb. am 21.2.1913. Das Ehepaar wohnte von 1931 bis 1937 in der Hadrianstraße 15. Von dort zog das Ehepaar in die Wöhlerstraße 8. Alfred Goldschmidt wurde am 12.11.1938 im Rahmen des Novemberpogroms in das Konzentrationslager Buchenwald eingeliefert und dort am 9.12.1938 entlassen.
 
@@ -110,7 +110,7 @@ Hadrianstraße 15
 ## Gallery
 
 <!-- gallery:standard -->
-![Goldschmidt, Helene und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/goldschmidt-alfred.jpg)
+![Goldschmidt, Helene und Alfred](../../images/stolpersteine/823207ed30b5_goldschmidt-alfred.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Liebigstraße 27c*
 
-![Stolperstein Ascher, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/liebigstrasse-27-c_1.jpg)
+![Stolperstein Ascher, Ludwig](../../images/stolpersteine/352a6d5e8b22_liebigstrasse-27-c_1.jpg)
 
 Dr. med. (Louis) Ludwig Ascher stammt aus Posen, wo sein Vater einen Schuhladen und eine kleine Schuhreparaturwerkstatt besaß. Nach dem Medizinstudium in Berlin, Marburg und München promovierte Ascher 1889 in Leipzig und erhielt in demselben Jahr in München seine Approbation. Er war Arzt in Neuenburg in Westpreußen, Königlicher Kreiswundarzt in Bomst (poln.: Babimost) und Königsberg und Medizinalrat, Kreisarzt in Hamm, Berlin und Harburg.
 
@@ -456,7 +456,7 @@ Liebigstraße 27c
 ## Gallery
 
 <!-- gallery:standard -->
-![Ascher, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/liebigstrasse-27-c_2.jpg)
+![Ascher, Ludwig](../../images/stolpersteine/1b5d73ab2748_liebigstrasse-27-c_2.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Berliner Straße 72*
 
-![Stolperstein Nohl, Emma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/berlinerstrasse_72.jpg)
+![Stolperstein Nohl, Emma](../../images/stolpersteine/5d5e52acd994_berlinerstrasse_72.jpg)
 
 Familienbild Nohl
 
@@ -78,8 +78,8 @@ Berliner Straße 72
 ## Gallery
 
 <!-- gallery:standard -->
-![Nohl, Emma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/familienbild-nohl.jpg)
-![Nohl, Emma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/stolperst_berliner_str_72_nohl_emma.jpg)
+![Nohl, Emma](../../images/stolpersteine/388ae4275d26_familienbild-nohl.jpg)
+![Nohl, Emma](../../images/stolpersteine/2a29a8255401_stolperst_berliner_str_72_nohl_emma.jpg)
 
 ## Links
 

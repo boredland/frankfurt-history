@@ -11,7 +11,7 @@ filters:
 
 *Oppenheimer Straße 44*
 
-![Stolperstein Kramer, Ferdinand und Beate](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/oppenheimer_str_44.jpg)
+![Stolperstein Kramer, Ferdinand und Beate](../../images/stolpersteine/6f4e92bedb01_oppenheimer_str_44.jpg)
 
 Ferdinand Kramer, 1926
 
@@ -282,9 +282,9 @@ Oppenheimer Straße 44
 ## Gallery
 
 <!-- gallery:standard -->
-![Kramer, Ferdinand und Beate](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/oppenheimer_str_44_ferdinand_kramer_1926.jpg)
-![Kramer, Ferdinand und Beate](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_oppenheimer_str_44_kramer_ferdinand.jpg)
-![Kramer, Ferdinand und Beate](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_oppenheimer_str_44_kramer_beate.jpg)
+![Kramer, Ferdinand und Beate](../../images/stolpersteine/506971f51788_oppenheimer_str_44_ferdinand_kramer_1926.jpg)
+![Kramer, Ferdinand und Beate](../../images/stolpersteine/96aaf5d8f365_stolperst_oppenheimer_str_44_kramer_ferdinand.jpg)
+![Kramer, Ferdinand und Beate](../../images/stolpersteine/b7fd9370b215_stolperst_oppenheimer_str_44_kramer_beate.jpg)
 
 ## Links
 

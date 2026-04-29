@@ -11,7 +11,7 @@ filters:
 
 *Hebelstraße 13*
 
-![Stolperstein Adler, Sophie und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/hebelstrasse_13_haus.jpg)
+![Stolperstein Adler, Sophie und Bernhard](../../images/stolpersteine/74755b251c7b_hebelstrasse_13_haus.jpg)
 
 Bernhard Adler aus Schlüchtern war Vieh- und Pferdehändler. Seine Eltern waren Simon Adler, geboren 1841, Handelsmann in Schlüchtern, Untergasse 67, und Jeanette (alias Sprinz), geb. Stein, geboren 1839 in Schlüchtern. Sie hatten am 14. September 1864 geheiratet. Bernhard hatte sieben Geschwister: Abraham, geboren 1867, Lazarus, geboren 1868, nach einer Woche gestorben, Hannchen und Fanny, geboren 1869, Fanny starb nach zwei Wochen, Fanny, geboren 1873, Jacob, geboren 1874, und Rosa, geboren 1879.
 
@@ -420,7 +420,7 @@ Hebelstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Adler, Sophie und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-adler-bernhard.jpg)
+![Adler, Sophie und Bernhard](../../images/stolpersteine/df89bd4b5477_stolperstein-adler-bernhard.jpg)
 
 ## Links
 

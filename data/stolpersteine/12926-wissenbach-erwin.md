@@ -11,7 +11,7 @@ filters:
 
 *Kelsterbacher Straße 58*
 
-![Stolperstein Wissenbach, Erwin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/kelsterbacher_str_58.jpg)
+![Stolperstein Wissenbach, Erwin](../../images/stolpersteine/b9b4ed8ecff7_kelsterbacher_str_58.jpg)
 
 Erwin Wissenbach wurde
 
@@ -178,7 +178,7 @@ Kelsterbacher Strasse 58
 ## Gallery
 
 <!-- gallery:standard -->
-![Wissenbach, Erwin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_kelsterbacher_str_58_wissenbach_erwin.jpg)
+![Wissenbach, Erwin](../../images/stolpersteine/b092f664124a_stolperst_kelsterbacher_str_58_wissenbach_erwin.jpg)
 
 ## Links
 

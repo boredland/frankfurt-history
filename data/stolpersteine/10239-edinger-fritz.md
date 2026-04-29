@@ -11,7 +11,7 @@ filters:
 
 *Gärtnerweg 51*
 
-![Stolperstein Edinger, Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/gaertnerweg-51_1.jpg)
+![Stolperstein Edinger, Fritz](../../images/stolpersteine/96a6a1c148e0_gaertnerweg-51_1.jpg)
 
 Marc Adolf Friedrich Edinger wurde in Frankfurt am Main geboren. Von Kindesbeinen nannte man ihn Fritz, und er veröffentlichte später unter diesem Namen. Seine Eltern, Ludwig (1855-1918) und Anna Edinger (1863-1929), waren Prominente: der Vater international renommierter Hirnforscher und Nervenarzt, einer der Stifter der Frankfurter Universität und erster Professor für Neurologie in Deutschland; die Mutter, Erbin der Hälfte des alteingesessenen Bankhauses M. B. Goldschmidt, eine maßgebliche Organisatorin der lokalen privaten Wohltätigkeitseinrichtungen, Vorstandsmitglied im Bund Deutscher Frauenvereine und Aktivistin der internationalen Friedensbewegung. Außer ihrem erstgeborenen Sohne hatte das deutsch-jüdische Ehepaar zwei Töchter: Dora (1894-1982) heiratete den Pharmakologieprofessor Werner Lipschitz-Lindley (1892-1948), Tilly Edinger (1897-1967) begründete die Paläoneurologie.
 
@@ -452,8 +452,8 @@ Gärtnerweg 51
 ## Gallery
 
 <!-- gallery:standard -->
-![Edinger, Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/edinger-fritz.jpg)
-![Edinger, Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_gaertnerweg_51_edinger_fritz.jpg)
+![Edinger, Fritz](../../images/stolpersteine/09851e1d81df_edinger-fritz.jpg)
+![Edinger, Fritz](../../images/stolpersteine/b2dbcca679ef_stolperst_gaertnerweg_51_edinger_fritz.jpg)
 
 ## Links
 

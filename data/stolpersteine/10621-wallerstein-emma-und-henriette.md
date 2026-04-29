@@ -11,7 +11,7 @@ filters:
 
 *Radilostraße 8*
 
-![Stolperstein Wallerstein, Emma und Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/radilostrasse-8_1.jpg)
+![Stolperstein Wallerstein, Emma und Henriette](../../images/stolpersteine/9a585c5f512a_radilostrasse-8_1.jpg)
 
 Emma Wallerstein war verheiratet mit Sally Wallerstein, geb. am 23. Mai 1867. Er betrieb einen Viehhandel im alten Gutshof in der Radilostraße 8 und starb am 13. Januar 1928 in Rödelheim. Die beiden hatten drei Kinder: Henriette war Pianistin, möglicherweise körperbehindert, Max, geboren 1892, betrieb im selben Haus eine Wäscherei; sowie Margo. Max konnte mit seiner Frau rechtzeitig in die USA auswandern, ebenso Margo, die wahrscheinlich in Florida lebt.
 
@@ -102,7 +102,7 @@ Radilostraße 8
 ## Gallery
 
 <!-- gallery:standard -->
-![Wallerstein, Emma und Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/wallerstein-emma-hintere-reihe-dritte-von-links.jpg)
+![Wallerstein, Emma und Henriette](../../images/stolpersteine/e38d0dd29120_wallerstein-emma-hintere-reihe-dritte-von-links.jpg)
 
 ## Links
 

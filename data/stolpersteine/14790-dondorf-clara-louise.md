@@ -11,7 +11,7 @@ filters:
 
 *Myliusstraße 34*
 
-![Stolperstein Dondorf, Clara Louise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolpersteine_myliusstr_34.jpg)
+![Stolperstein Dondorf, Clara Louise](../../images/stolpersteine/281d281ca668_stolpersteine_myliusstr_34.jpg)
 
 Clara Louise Dondorf wurde als Tochter von Carl Dondorf und seiner Ehefrau Alice Dondorf, geb. Rindskopf, geboren. Carl Dondorf war Geschäftsführer der Druckerei Dondorf, die sein Vater Bernhard Dondorf im Jahr 1833 gegründet hatte. Clara war die Dritte von vier Mädchen und blieb als einzige unverheiratet. Sie lebte im Haus ihres Vaters in der Myliusstraße 34; im Nachbarhaus Myliusstraße 32 hatte Clara Schumann bis zu ihrem Tod im Jahr 1896 gelebt. Clara Dondorf sang ab 1904 im Cäcilienverein, sie ist auch in der Mitgliederliste von 1925 verzeichnet.
 
@@ -448,9 +448,9 @@ Myliusstraße 34
 ## Gallery
 
 <!-- gallery:standard -->
-![Dondorf, Clara Louise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/myliusstrasse_34_dondorf_clara.jpg)
-![Dondorf, Clara Louise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/myliusstrasse_34_dondorf_grab.jpg)
-![Dondorf, Clara Louise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_myliusstr_34_dondorf_clara-louise.jpg)
+![Dondorf, Clara Louise](../../images/stolpersteine/7bc47e168b1c_myliusstrasse_34_dondorf_clara.jpg)
+![Dondorf, Clara Louise](../../images/stolpersteine/ee90d938c0e3_myliusstrasse_34_dondorf_grab.jpg)
+![Dondorf, Clara Louise](../../images/stolpersteine/60118ac3a9f7_stolperst_myliusstr_34_dondorf_clara-louise.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Kölner Straße 71*
 
-![Stolperstein Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/koelner_strasse_71.jpg)
+![Stolperstein Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](../../images/stolpersteine/37e8f9491066_koelner_strasse_71.jpg)
 
 Rosenthal, Jakob
 
@@ -146,14 +146,14 @@ Kölner Straße 71
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/rosenthal-jakob.jpg)
-![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/rosenthal-rosa.jpg)
-![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/rosenthal-harry.jpg)
-![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/gruenebaum-toni.jpg)
-![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_koelner_strasse_71_gruenebaum_toni.jpg)
-![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_koelner_strasse_71_rosenthal_harry.jpg)
-![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_koelner_strasse_71_rosenthal_jakob.jpg)
-![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_koelner_strasse_71_rosenthal_rosa.jpg)
+![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](../../images/stolpersteine/78615620deec_rosenthal-jakob.jpg)
+![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](../../images/stolpersteine/0abe9f324c5e_rosenthal-rosa.jpg)
+![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](../../images/stolpersteine/ebe9213ba46f_rosenthal-harry.jpg)
+![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](../../images/stolpersteine/99c8bed07b09_gruenebaum-toni.jpg)
+![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](../../images/stolpersteine/c59c9ab497f9_stolperst_koelner_strasse_71_gruenebaum_toni.jpg)
+![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](../../images/stolpersteine/092be2aea7b9_stolperst_koelner_strasse_71_rosenthal_harry.jpg)
+![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](../../images/stolpersteine/eef4710c2bb8_stolperst_koelner_strasse_71_rosenthal_jakob.jpg)
+![Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](../../images/stolpersteine/4339e56439be_stolperst_koelner_strasse_71_rosenthal_rosa.jpg)
 
 ## Links
 

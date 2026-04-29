@@ -12,7 +12,7 @@ filters:
 
 *Sternstraße 7*
 
-![Stolperstein Bartelt, Wilhelmine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/sternstr_7.jpg)
+![Stolperstein Bartelt, Wilhelmine](../../images/stolpersteine/dd9f94e229d7_sternstr_7.jpg)
 
 Wilhelmine Bartelt, geb. Feibel, wurde in Heidesheim am
 
@@ -445,7 +445,7 @@ Sternstraße 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Bartelt, Wilhelmine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_sternstr_7_bartelt_wilhelmine.jpg)
+![Bartelt, Wilhelmine](../../images/stolpersteine/cfcbe5b4121f_stolperst_sternstr_7_bartelt_wilhelmine.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Marktstraße 45*
 
-![Stolperstein Grünebaum, Emma und Bella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/haus_marktstra_45__400x300.jpg)
+![Stolperstein Grünebaum, Emma und Bella](../../images/stolpersteine/f2299dfa3172_haus_marktstra_45__400x300.jpg)
 
 Emma Grünebaum, geb. Wetterhahn, aus Niederweisel war mit dem Täschner Moritz Grünebaum verheiratet, der im Vorstand des Berger Krankenpflegeschwesternvereins war und 1939 in Bergen starb.
 
@@ -106,7 +106,7 @@ Marktstraße 45
 ## Gallery
 
 <!-- gallery:standard -->
-![Grünebaum, Emma und Bella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolperstein-gruenebaum-emma.jpg)
+![Grünebaum, Emma und Bella](../../images/stolpersteine/a06b744afd72_stolperstein-gruenebaum-emma.jpg)
 
 ## Links
 

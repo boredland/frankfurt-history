@@ -12,7 +12,7 @@ filters:
 
 *Thomasiusstraße 8*
 
-![Stolperstein Pappenheimer, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/thomasiusstr_8.jpg)
+![Stolperstein Pappenheimer, Julius](../../images/stolpersteine/6cf8f853134b_thomasiusstr_8.jpg)
 
 Julius Pappenheimer wurde in Dornheim bei Groß-Gerau
 
@@ -455,9 +455,9 @@ Thomasiusstraße 8
 ## Gallery
 
 <!-- gallery:standard -->
-![Pappenheimer, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/thomasiusstr_8_pappenheimer_julius_2.jpg)
-![Pappenheimer, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/thomasiusstr_8_pappenheimer_-julius_1.jpg)
-![Pappenheimer, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_thomasiusstr_8_pappenheimer_julius.jpg)
+![Pappenheimer, Julius](../../images/stolpersteine/d181f2008215_thomasiusstr_8_pappenheimer_julius_2.jpg)
+![Pappenheimer, Julius](../../images/stolpersteine/37a0f1da147b_thomasiusstr_8_pappenheimer_-julius_1.jpg)
+![Pappenheimer, Julius](../../images/stolpersteine/186a52015c34_stolperst_thomasiusstr_8_pappenheimer_julius.jpg)
 
 ## Links
 

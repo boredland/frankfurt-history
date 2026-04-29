@@ -11,7 +11,7 @@ filters:
 
 *Eiserne Hand 5*
 
-![Stolperstein Mayer, Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/eiserne_hand_5.jpg)
+![Stolperstein Mayer, Friedrich](../../images/stolpersteine/1b4ff7804ae4_eiserne_hand_5.jpg)
 
 Friedrich Mayer wurde in Freiburg (Breisgau) geboren, seine Eltern waren Gustav Mayer und Emilie Mayer, geb. Fackenheim. Er besuchte das Lyzeum in Straßburg (Elsaß) und heiratete dort die evangelische Alice Lucia, geb. Wäldin, die 1896 in Straßburg geboren wurde. Von Beruf war er zuerst Reisender und später Geschäftsführer der Straßburger Firma „Caesar Tensfeld & Co.". Nach dem Ersten Weltkrieg, in dem er Soldat war und auch das Eiserne Kreuz II. Klasse erhielt, eröffnete er 1919 in Frankfurt am Main das Kaufhaus für Textilien und Haushaltswaren „Mayer“ zunächst in der Langestraße 76, später in der Cassellastraße 31 in Fechenheim. Die Familie mit zwei Söhnen und zwei Töchtern wohnte unweit davon in der Hanauer Landstraße 543.
 
@@ -404,7 +404,7 @@ Eiserne Hand 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Mayer, Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-mayer-friedrich.jpg)
+![Mayer, Friedrich](../../images/stolpersteine/29ef6b9eb2ea_stolperstein-mayer-friedrich.jpg)
 
 ## Links
 

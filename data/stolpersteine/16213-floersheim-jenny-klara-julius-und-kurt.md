@@ -11,7 +11,7 @@ filters:
 
 *Günthersburgallee 43*
 
-![Stolperstein Flörsheim, Jenny Klara, Julius und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/guenthersburgalle_43_haus2.jpg)
+![Stolperstein Flörsheim, Jenny Klara, Julius und Kurt](../../images/stolpersteine/79765df2bd69_guenthersburgalle_43_haus2.jpg)
 
 Julius Flörsheim aus Wolfhagen und Jenny Klara Flörsheim aus Lichtenhausen waren die Eltern von Kurt Flörsheim  und eines 1923 geborenen Sohnes, der 1939 in das Exil nach Großbritannien flüchten konnte. Julius Flörsheim war Frontsoldat im ersten Weltkrieg, Träger des Eisernen Kreuzes 2. Klasse; Mittelschullehrer für Deutsch, Geschichte, Französisch und Erdkunde.
 

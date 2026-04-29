@@ -11,7 +11,7 @@ filters:
 
 *Gaußstraße 16*
 
-![Stolperstein Wald, Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/gaussstrasse_14_haus.jpg)
+![Stolperstein Wald, Salomon](../../images/stolpersteine/e6a5d81e12e9_gaussstrasse_14_haus.jpg)
 
 Salomon Wald, Sohn der Handelsleute Abraham und Sofie Wald in Borowa in Polen, heiratete am 2. September 1903 Rosa Spira in deren Heimatort Zmigrod. Das Paar hatte vier Kinder, drei Söhne und eine Tochter, die alle in Brzozow in Polen geboren wurden: Wolf 1905, Friedl 1906, Julius 1911 und Max 1913. 1919 flüchtete die Familie vor den Pogromen in ihrer Heimat nach Frankfurt am Main. Seit Anfang der 30er Jahre wohnten Salomon, Rosa und Julius Wald im 2. Stock des Hauses Gaußstraße 14. Etwa zum gleichen Zeitpunkt eröffnete Salomon Wald für seine Futterstoffgroßhandlung einen eigenen Laden in der Kaiserstraße 24, wo auch sein Sohn Julius beschäftigt war.
 
@@ -410,8 +410,8 @@ Gaußstraße 14
 ## Gallery
 
 <!-- gallery:standard -->
-![Wald, Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/wald-salomon.jpg)
-![Wald, Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-wald-salomon.jpg)
+![Wald, Salomon](../../images/stolpersteine/f7f16c05d1ad_wald-salomon.jpg)
+![Wald, Salomon](../../images/stolpersteine/f60ba00f6af8_stolperstein-wald-salomon.jpg)
 
 ## Links
 

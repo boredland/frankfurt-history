@@ -11,7 +11,7 @@ filters:
 
 *Schulstraße 8*
 
-![Stolperstein Löbenstein, Siegmund, Mally, Luise und Helmut](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/schulstr_8.jpg)
+![Stolperstein Löbenstein, Siegmund, Mally, Luise und Helmut](../../images/stolpersteine/144688731028_schulstr_8.jpg)
 
 Siegmund Löbenstein wurde in Frankfurt am Main geboren. Seine Eltern waren der 1859 in Buchenau geborene Luis Löbenstein und Bertha geb. Rosenberg, geboren 1857 in Schmitten. Siegmund hatte zwei Brüder, Friedrich (Jg.1889) und Adolf (Jg.1896). Luis Löbenstein war von Beruf Metzger, arbeitete dann aber als Tagelöhner und Lagerist und wohnte zu dieser Zeit an unterschiedlichen Adressen in der Gegend um den Börneplatz. Bekannt sind die Adressen Börnestraße 23, 24 und 31 und der Wollgraben 8. Bertha Löbenstein starb am 9. Mai 1928. Ab 1929 wohnte Luis bei seinem Sohn Siegmund in der Schulstraße 8, wo er am 7. September 1930 starb.
 
@@ -200,10 +200,10 @@ Schulstraße 8
 ## Gallery
 
 <!-- gallery:standard -->
-![Löbenstein, Siegmund, Mally, Luise und Helmut](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_schulstr_8_loebenstein_siegmund.jpg)
-![Löbenstein, Siegmund, Mally, Luise und Helmut](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_schulstr_8_loebenstein_mally.jpg)
-![Löbenstein, Siegmund, Mally, Luise und Helmut](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_schulstr_8_loebenstein_luise.jpg)
-![Löbenstein, Siegmund, Mally, Luise und Helmut](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_schulstr_8_loebenstein_helmut.jpg)
+![Löbenstein, Siegmund, Mally, Luise und Helmut](../../images/stolpersteine/7d1ae272797b_stolperst_schulstr_8_loebenstein_siegmund.jpg)
+![Löbenstein, Siegmund, Mally, Luise und Helmut](../../images/stolpersteine/926c243147be_stolperst_schulstr_8_loebenstein_mally.jpg)
+![Löbenstein, Siegmund, Mally, Luise und Helmut](../../images/stolpersteine/08ba83ab1732_stolperst_schulstr_8_loebenstein_luise.jpg)
+![Löbenstein, Siegmund, Mally, Luise und Helmut](../../images/stolpersteine/bedd991116e7_stolperst_schulstr_8_loebenstein_helmut.jpg)
 
 ## Links
 

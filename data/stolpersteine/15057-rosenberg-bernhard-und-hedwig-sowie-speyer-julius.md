@@ -12,7 +12,7 @@ filters:
 
 *Westendstraße 88*
 
-![Stolperstein Rosenberg, Bernhard und Hedwig sowie Speyer, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/westendstr_88.jpg)
+![Stolperstein Rosenberg, Bernhard und Hedwig sowie Speyer, Julius](../../images/stolpersteine/f64ae4fd24cb_westendstr_88.jpg)
 
 Bernhard
 
@@ -595,10 +595,10 @@ Westendstraße 88
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenberg, Bernhard und Hedwig sowie Speyer, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/westendstr_88_rosenberg_bernhard_1.jpg)
-![Rosenberg, Bernhard und Hedwig sowie Speyer, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_westendstr_88_rosenberg_bernhard.jpg)
-![Rosenberg, Bernhard und Hedwig sowie Speyer, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_westendstr_88_rosenberg_hedwig.jpg)
-![Rosenberg, Bernhard und Hedwig sowie Speyer, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_westendstr_88_speyer_julius.jpg)
+![Rosenberg, Bernhard und Hedwig sowie Speyer, Julius](../../images/stolpersteine/8294387f37f3_westendstr_88_rosenberg_bernhard_1.jpg)
+![Rosenberg, Bernhard und Hedwig sowie Speyer, Julius](../../images/stolpersteine/fb2322dd8d93_stolperst_westendstr_88_rosenberg_bernhard.jpg)
+![Rosenberg, Bernhard und Hedwig sowie Speyer, Julius](../../images/stolpersteine/3a1a51db8fc6_stolperst_westendstr_88_rosenberg_hedwig.jpg)
+![Rosenberg, Bernhard und Hedwig sowie Speyer, Julius](../../images/stolpersteine/520762767856_stolperst_westendstr_88_speyer_julius.jpg)
 
 ## Links
 

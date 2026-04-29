@@ -11,7 +11,7 @@ filters:
 
 *Leerbachstraße 50*
 
-![Stolperstein Berberich, Helene Josefine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/leerbachstr_50.jpg)
+![Stolperstein Berberich, Helene Josefine](../../images/stolpersteine/3cce6ec4618c_leerbachstr_50.jpg)
 
 Helene Josefine Berberich wurde in Frankfurt am Main als Tochter von Jakob Ebelsbacher und Gertrud Silberberg geboren. Sie war in erster Ehe mit dem katholischen Louis Fontheim (Jg. 1874) aus Landstuhl verheiratet, der von 1920 bis 1928 in Kaiserslautern lebte. Helene Josefine Berberich heiratete im Dezember 1919 in Heidelberg den katholischen Bildhauer und Steinmetz Fritz Berberich (Jg. 1880), der in Landstuhl als Sohn von Jakob Berberich und Katharina Westrich geboren wurde. Das Ehepaar wohnte zunächst in Kaiserslautern in der Kaiserstraße 59. Dort führte Friedrich Berberich eine Tabakwaren- bzw. Zigarrenhandlung.
 
@@ -458,8 +458,8 @@ Leerbachstraße 50
 ## Gallery
 
 <!-- gallery:standard -->
-![Berberich, Helene Josefine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/leerbachst_50_berberich_helene.jpg)
-![Berberich, Helene Josefine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_leerbachstr_50_berberich_helene.jpg)
+![Berberich, Helene Josefine](../../images/stolpersteine/2399df0a34ec_leerbachst_50_berberich_helene.jpg)
+![Berberich, Helene Josefine](../../images/stolpersteine/6a439a029ce6_stolperst_leerbachstr_50_berberich_helene.jpg)
 
 ## Links
 

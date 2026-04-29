@@ -11,7 +11,7 @@ filters:
 
 *Bettinastraße 48*
 
-![Stolperstein Oswalt, Wilhelm Ernst und Ludwig, und Irene Hilb](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/bettinastrasse-48_1.jpg)
+![Stolperstein Oswalt, Wilhelm Ernst und Ludwig, und Irene Hilb](../../images/stolpersteine/bdda0707710d_bettinastrasse-48_1.jpg)
 
 Oswalt, Ernst Wilhelm
 
@@ -508,10 +508,10 @@ Bettinastraße 48
 ## Gallery
 
 <!-- gallery:standard -->
-![Oswalt, Wilhelm Ernst und Ludwig, und Irene Hilb](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/oswalt-ernst-wilhelm.jpg)
-![Oswalt, Wilhelm Ernst und Ludwig, und Irene Hilb](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/oswalt-ludwig.jpg)
-![Oswalt, Wilhelm Ernst und Ludwig, und Irene Hilb](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/eltern-von-irene-hilb.jpg)
-![Oswalt, Wilhelm Ernst und Ludwig, und Irene Hilb](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bettinastr_48_oswald_wilhelm_ernst.jpg)
+![Oswalt, Wilhelm Ernst und Ludwig, und Irene Hilb](../../images/stolpersteine/72822f23d3aa_oswalt-ernst-wilhelm.jpg)
+![Oswalt, Wilhelm Ernst und Ludwig, und Irene Hilb](../../images/stolpersteine/848bb32e193b_oswalt-ludwig.jpg)
+![Oswalt, Wilhelm Ernst und Ludwig, und Irene Hilb](../../images/stolpersteine/da3d11d2686d_eltern-von-irene-hilb.jpg)
+![Oswalt, Wilhelm Ernst und Ludwig, und Irene Hilb](../../images/stolpersteine/4c6c9114012c_stolperst_bettinastr_48_oswald_wilhelm_ernst.jpg)
 
 ## Links
 

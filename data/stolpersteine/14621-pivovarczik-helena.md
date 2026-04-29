@@ -11,7 +11,7 @@ filters:
 
 *Kelsterbacher Straße 28*
 
-![Stolperstein Pivovarczik, Helena](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/kelsterbacher_str_28.jpg)
+![Stolperstein Pivovarczik, Helena](../../images/stolpersteine/943eccd43a1f_kelsterbacher_str_28.jpg)
 
 Helena Pivovarczik wurde in Luga bei Leningrad geboren und wahrscheinlich Anfang 1942 in Russland zum Zwangseinsatz „im Reich“ rekrutiert. Sie wurde der Frankfurter Färberei Röver in der Hahnstraße zugeteilt. Sie war im so genannten Ausländer- oder Sammellager in der Kelsterbacher Straße 28 untergebracht, wo mehrere Frankfurter Firmen den Saal der „Schwarze Katz“ entweder angemietet oder zugewiesen bekommen hatten, um ihre Zivil- und Zwangsarbeiter unterzubringen.
 
@@ -120,7 +120,7 @@ Kelsterbacher Straße 28
 ## Gallery
 
 <!-- gallery:standard -->
-![Pivovarczik, Helena](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/pivovarczik_helena.jpg)
+![Pivovarczik, Helena](../../images/stolpersteine/be8e7507cf4e_pivovarczik_helena.jpg)
 
 ## Links
 

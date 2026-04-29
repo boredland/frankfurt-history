@@ -11,7 +11,7 @@ filters:
 
 *Paul-Ehrlich-Straße 25a*
 
-![Stolperstein Berndt, Gretel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/paul-ehrlich-strasse-25a_1.jpg)
+![Stolperstein Berndt, Gretel](../../images/stolpersteine/6791f960df1b_paul-ehrlich-strasse-25a_1.jpg)
 
 Berndt, Gretl
 
@@ -140,9 +140,9 @@ Paul-Ehrlich-Straße 25a
 ## Gallery
 
 <!-- gallery:standard -->
-![Berndt, Gretel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/berndt-gretl.jpg)
-![Berndt, Gretel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/gebaeude-paul-ehrlich-strasse-25a.jpg)
-![Berndt, Gretel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperstein_paul_ehrlich_str_25a_berndt_gretel.jpg)
+![Berndt, Gretel](../../images/stolpersteine/a48abaf73f5a_berndt-gretl.jpg)
+![Berndt, Gretel](../../images/stolpersteine/d08ccdbbc7ae_gebaeude-paul-ehrlich-strasse-25a.jpg)
+![Berndt, Gretel](../../images/stolpersteine/c223ec59bad1_stolperstein_paul_ehrlich_str_25a_berndt_gretel.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Friedberger Landstraße 125*
 
-![Stolperstein Hammel, Frieda und Karl und Liselotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/haus_friedberger_landstr_125__300x400.jpg)
+![Stolperstein Hammel, Frieda und Karl und Liselotte](../../images/stolpersteine/1b2a25be46c3_haus_friedberger_landstr_125__300x400.jpg)
 
 Hammel, Liselotte
 
@@ -442,9 +442,9 @@ Friedberger Landstraße 125
 ## Gallery
 
 <!-- gallery:standard -->
-![Hammel, Frieda und Karl und Liselotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/hammel-liselotte.jpg)
-![Hammel, Frieda und Karl und Liselotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/liselotte-hammel-mit-hund.jpg)
-![Hammel, Frieda und Karl und Liselotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-hammel-frieda.jpg)
+![Hammel, Frieda und Karl und Liselotte](../../images/stolpersteine/9d573dc1e033_hammel-liselotte.jpg)
+![Hammel, Frieda und Karl und Liselotte](../../images/stolpersteine/134285b62ea4_liselotte-hammel-mit-hund.jpg)
+![Hammel, Frieda und Karl und Liselotte](../../images/stolpersteine/145ef629e45a_stolperstein-hammel-frieda.jpg)
 
 ## Links
 

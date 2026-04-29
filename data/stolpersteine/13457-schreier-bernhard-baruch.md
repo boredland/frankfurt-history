@@ -11,7 +11,7 @@ filters:
 
 *Bäckerweg 19*
 
-![Stolperstein Schreier, Bernhard (Baruch)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/baeckerweg_19__400x300.jpg)
+![Stolperstein Schreier, Bernhard (Baruch)](../../images/stolpersteine/0292fef0d6a0_baeckerweg_19__400x300.jpg)
 
 Baruch (Bernhard) Schreier, in Gwozdziec/Polen geboren, kam mit 13 Jahren nach Berlin. Er siedelte nach dem 1. Weltkrieg nach Frankfurt am Main über, wo er mit seiner Ehefrau, die er 1920 geheiratet hatte, einen Zigarrenladen betrieb. Das Ehepaar hatte zwei Kinder.
 
@@ -422,11 +422,11 @@ Bäckerweg 19
 ## Gallery
 
 <!-- gallery:standard -->
-![Schreier, Bernhard (Baruch)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/baeckerweg_19_schreier_baruch_1__267x400.jpg)
-![Schreier, Bernhard (Baruch)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/baeckerweg_19_schreier_baruch_2__259x400.jpg)
-![Schreier, Bernhard (Baruch)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/baeckerweg_19_schreier_baruch-_3__264x400.jpg)
-![Schreier, Bernhard (Baruch)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/baeckerweg_19_schreier_baruch_testemony__583x809.jpg)
-![Schreier, Bernhard (Baruch)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-schreier-baruch.jpg)
+![Schreier, Bernhard (Baruch)](../../images/stolpersteine/25540948a610_baeckerweg_19_schreier_baruch_1__267x400.jpg)
+![Schreier, Bernhard (Baruch)](../../images/stolpersteine/e3a94f996e34_baeckerweg_19_schreier_baruch_2__259x400.jpg)
+![Schreier, Bernhard (Baruch)](../../images/stolpersteine/5f057bf88408_baeckerweg_19_schreier_baruch-_3__264x400.jpg)
+![Schreier, Bernhard (Baruch)](../../images/stolpersteine/bd9105e46dd0_baeckerweg_19_schreier_baruch_testemony__583x809.jpg)
+![Schreier, Bernhard (Baruch)](../../images/stolpersteine/2e0873866ecf_stolperstein-schreier-baruch.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Trifelsstraße 4*
 
-![Stolperstein Henrich, Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/trifelsstr_4.jpg)
+![Stolperstein Henrich, Helene](../../images/stolpersteine/d7639927698d_trifelsstr_4.jpg)
 
 Oppenheimer, Helene
 
@@ -138,13 +138,13 @@ Trifelsstraße 4
 ## Gallery
 
 <!-- gallery:standard -->
-![Henrich, Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/oppenheimer-helene.jpg)
-![Henrich, Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/ehepaar-henrich-an-der-ostsee.jpg)
-![Henrich, Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/ehepaar-henrich.jpg)
-![Henrich, Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/henrich-helene.jpg)
-![Henrich, Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/oppenheimer-helene-2.jpg)
-![Henrich, Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/todesanzeige-in-der-emigrantenzeitung-aufbruch-vom-august-1942.jpg)
-![Henrich, Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/henrich_helene.jpg)
+![Henrich, Helene](../../images/stolpersteine/436031f3e74b_oppenheimer-helene.jpg)
+![Henrich, Helene](../../images/stolpersteine/2410834ad54f_ehepaar-henrich-an-der-ostsee.jpg)
+![Henrich, Helene](../../images/stolpersteine/f0437f8b8269_ehepaar-henrich.jpg)
+![Henrich, Helene](../../images/stolpersteine/6d6bde99aef9_henrich-helene.jpg)
+![Henrich, Helene](../../images/stolpersteine/a1e7577437f3_oppenheimer-helene-2.jpg)
+![Henrich, Helene](../../images/stolpersteine/a00534315381_todesanzeige-in-der-emigrantenzeitung-aufbruch-vom-august-19.jpg)
+![Henrich, Helene](../../images/stolpersteine/5b6952dab643_henrich_helene.jpg)
 
 ## Links
 

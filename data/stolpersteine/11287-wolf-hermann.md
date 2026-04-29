@@ -11,7 +11,7 @@ filters:
 
 *Langheckenweg 7*
 
-![Stolperstein Wolf, Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/langheckenweg_7_gebaeude.jpg)
+![Stolperstein Wolf, Hermann](../../images/stolpersteine/cf9e7afb0ddb_langheckenweg_7_gebaeude.jpg)
 
 Hermann Wolf aus in Gütersloh war nach nationalsozialistischer Definition in „Mischehe“ verheiratet, die Ehefrau starb 1966. Hermann Wolf betrieb einen Einzelhandel mit Textilien, den er 1934 wegen der Auswirkungen der Boykotte aufgeben musste. Seine letzte Frankfurter Adresse war Langheckenweg 7. Er wurde dort verhaftet und zunächst in das Untersuchungsgefängnis Hammelsgasse gebracht.
 

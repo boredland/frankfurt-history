@@ -12,7 +12,7 @@ filters:
 
 *Oberlindau 83*
 
-![Stolperstein Floersheimer, Elli und Jakob](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/oberlindau_83.jpg)
+![Stolperstein Floersheimer, Elli und Jakob](../../images/stolpersteine/638269c59da9_oberlindau_83.jpg)
 
 Jakob
 
@@ -517,7 +517,7 @@ Oberlindau 83
 ## Gallery
 
 <!-- gallery:standard -->
-![Floersheimer, Elli und Jakob](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_oberlindau_83_floersheimer_jakob.jpg)
+![Floersheimer, Elli und Jakob](../../images/stolpersteine/be70a2022123_stolperst_oberlindau_83_floersheimer_jakob.jpg)
 
 ## Links
 

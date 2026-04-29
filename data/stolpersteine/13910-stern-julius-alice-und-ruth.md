@@ -12,7 +12,7 @@ filters:
 
 *Mendelssohnstraße 56*
 
-![Stolperstein Stern, Julius, Alice und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/mendelssohnstr_56.jpg)
+![Stolperstein Stern, Julius, Alice und Ruth](../../images/stolpersteine/8edf6289eb1c_mendelssohnstr_56.jpg)
 
 Julius Stern wurde in Rodheim geboren, Alice Stern
 
@@ -507,9 +507,9 @@ Mendelssohnstraße 56
 ## Gallery
 
 <!-- gallery:standard -->
-![Stern, Julius, Alice und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stern-julius.jpg)
-![Stern, Julius, Alice und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stern-alice.jpg)
-![Stern, Julius, Alice und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stern-ruth.jpg)
+![Stern, Julius, Alice und Ruth](../../images/stolpersteine/7591ea6d0e4c_stern-julius.jpg)
+![Stern, Julius, Alice und Ruth](../../images/stolpersteine/2d8611bce549_stern-alice.jpg)
+![Stern, Julius, Alice und Ruth](../../images/stolpersteine/38b2d8c1bf41_stern-ruth.jpg)
 
 ## Links
 

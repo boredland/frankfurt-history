@@ -11,7 +11,7 @@ filters:
 
 *Böcklinstraße 14*
 
-![Stolperstein Kalischer, Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/boecklinstrasse-14_1.jpg)
+![Stolperstein Kalischer, Georg](../../images/stolpersteine/7aad7e8f0c81_boecklinstrasse-14_1.jpg)
 
 Georg Kalischer, Sohn jüdischer Eltern in Berlin, studierte nach dem Abitur 1891 Chemie in Heidelberg und Berlin; dort wird er 1895 promoviert, kurz davor wurde er „französisch-reformiert" und ließ sich wohl während eines Praktikums in Mülhausen taufen. Zu den Cassella Mainkur-Werken kam er 1897 und stieg - ab 1919 bis 1925 werden die Werke Teil der I. G. Farben - bis in die Unternehmensleitung auf.
 
@@ -146,8 +146,8 @@ Böcklinstraße 14
 ## Gallery
 
 <!-- gallery:standard -->
-![Kalischer, Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/kalischer-georg.jpg)
-![Kalischer, Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperstein_boecklingstrae_14_kalischer_georg.jpg)
+![Kalischer, Georg](../../images/stolpersteine/a503f25883af_kalischer-georg.jpg)
+![Kalischer, Georg](../../images/stolpersteine/3e3aeef297f9_stolperstein_boecklingstrae_14_kalischer_georg.jpg)
 
 ## Links
 

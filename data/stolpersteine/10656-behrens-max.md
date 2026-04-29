@@ -11,7 +11,7 @@ filters:
 
 *Rotteckstraße 2*
 
-![Stolperstein Behrens, Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/rotteckstr_2.jpg)
+![Stolperstein Behrens, Max](../../images/stolpersteine/7e032d100b38_rotteckstr_2.jpg)
 
 Max Behrens entstammte einer Hamburger Journalisten-Familie. Sein Vater war 46 Jahre lang Redakteur beim „Hamburger Anzeiger“. Behrens besuchte in Hamburg die Schule und machte sein Abitur, danach diente er als Kriegsfreiwilliger im Ersten Weltkrieg. Nach dem Krieg arbeitete er beim „Hamburger Anzeiger“, 1920 zog er nach Frankfurt, wo er zunächst als Journalist für das „Sport-Echo“ arbeitete. Er bezog eine kleine Wohnung in der Rotteckstraße 2, später dann in der Offenbacher Landstraße. Schnell wurde der „dicke Max“ in Frankfurt eine Institution. Er schrieb unter anderem für den „Frankfurter Generalanzeiger“,  die „Frankfurter Zeitung“, den „FN-Sport“, die „Frankfurter Nachrichten“ und auch für die „Vereins-Nachrichten“ der Eintracht. Die Zeitzeugin Hilde Kremer erinnert sich, dass der „dicke Max“ selbst aus einem langweiligen 0:0 im Stadion noch einen großartigen Bericht machte, damit sich das Zeilenhonorar zumindest ein wenig für ihn lohnte.
 
@@ -416,8 +416,8 @@ Rotteckstraße 2
 ## Gallery
 
 <!-- gallery:standard -->
-![Behrens, Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/rotteckstr_2_behrens_amerika-reise.jpg)
-![Behrens, Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_rotteckstr_2_behrens_max.jpg)
+![Behrens, Max](../../images/stolpersteine/35f52bf18ba2_rotteckstr_2_behrens_amerika-reise.jpg)
+![Behrens, Max](../../images/stolpersteine/d62d8aef3967_stolperst_rotteckstr_2_behrens_max.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Schumannstraße 10*
 
-![Stolperstein Mentzel, Charlotte, Albert und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/schumannstrasse_10.jpg)
+![Stolperstein Mentzel, Charlotte, Albert und Ruth](../../images/stolpersteine/fbb577be9c46_schumannstrasse_10.jpg)
 
 Charlotte
 
@@ -636,13 +636,13 @@ Schumannstraße 10
 ## Gallery
 
 <!-- gallery:standard -->
-![Mentzel, Charlotte, Albert und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/schumannstrasse_10_mentzel_charlotte_mit_ihren_kindern_ruth_catherine_und_henri_1940_c_ballestero.jpg)
-![Mentzel, Charlotte, Albert und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/schumannstrasse_10_mentzel_ruth_zeichnung_des_vaters.jpg)
-![Mentzel, Charlotte, Albert und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/schumannstr_10_mentzel_albert_bauhaus_dessau.jpg)
-![Mentzel, Charlotte, Albert und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/schumannstrasse_10_mentzel_albert_flocon.jpg)
-![Mentzel, Charlotte, Albert und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstrasse_10_mentzel_charlotte.jpg)
-![Mentzel, Charlotte, Albert und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstrasse_10_mentzel_albert.jpg)
-![Mentzel, Charlotte, Albert und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstrasse_10_mentzel_ruth.jpg)
+![Mentzel, Charlotte, Albert und Ruth](../../images/stolpersteine/65874ca8a873_schumannstrasse_10_mentzel_charlotte_mit_ihren_kindern_ruth_.jpg)
+![Mentzel, Charlotte, Albert und Ruth](../../images/stolpersteine/e09868e9ceb7_schumannstrasse_10_mentzel_ruth_zeichnung_des_vaters.jpg)
+![Mentzel, Charlotte, Albert und Ruth](../../images/stolpersteine/0f25aaa7a112_schumannstr_10_mentzel_albert_bauhaus_dessau.jpg)
+![Mentzel, Charlotte, Albert und Ruth](../../images/stolpersteine/07f0ca59d3bc_schumannstrasse_10_mentzel_albert_flocon.jpg)
+![Mentzel, Charlotte, Albert und Ruth](../../images/stolpersteine/bdcd274516ea_stolperst_schumannstrasse_10_mentzel_charlotte.jpg)
+![Mentzel, Charlotte, Albert und Ruth](../../images/stolpersteine/a1affe65a02c_stolperst_schumannstrasse_10_mentzel_albert.jpg)
+![Mentzel, Charlotte, Albert und Ruth](../../images/stolpersteine/08a41a44ac33_stolperst_schumannstrasse_10_mentzel_ruth.jpg)
 
 ## Links
 

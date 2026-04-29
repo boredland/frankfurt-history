@@ -12,7 +12,7 @@ filters:
 
 *Karlsruher Straße 9*
 
-![Stolperstein Lehrberger, Emil, Lina und Rose](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/karlsruher_str_9.jpg)
+![Stolperstein Lehrberger, Emil, Lina und Rose](../../images/stolpersteine/fb2c02134c7e_karlsruher_str_9.jpg)
 
 Emil Lehrberger
 
@@ -147,11 +147,11 @@ Karlsruher Straße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Lehrberger, Emil, Lina und Rose](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/opferbilder/karlsruher_str_9_lehrberger_emil.jpg)
-![Lehrberger, Emil, Lina und Rose](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/opferbilder/karlsruher_str_9_lehrberger_lina.jpg)
-![Lehrberger, Emil, Lina und Rose](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/stolperst_karlsruher_str_9_lehrberger_emil.jpg)
-![Lehrberger, Emil, Lina und Rose](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/stolperst_karlsruher_str_9_lehrberger_lina.jpg)
-![Lehrberger, Emil, Lina und Rose](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/stolperst_karlsruher_str_9_lehrberger_rose.jpg)
+![Lehrberger, Emil, Lina und Rose](../../images/stolpersteine/696d4457dc0d_karlsruher_str_9_lehrberger_emil.jpg)
+![Lehrberger, Emil, Lina und Rose](../../images/stolpersteine/eba2a728df44_karlsruher_str_9_lehrberger_lina.jpg)
+![Lehrberger, Emil, Lina und Rose](../../images/stolpersteine/28ea3244f71e_stolperst_karlsruher_str_9_lehrberger_emil.jpg)
+![Lehrberger, Emil, Lina und Rose](../../images/stolpersteine/3624093ad34c_stolperst_karlsruher_str_9_lehrberger_lina.jpg)
+![Lehrberger, Emil, Lina und Rose](../../images/stolpersteine/a92a163b63c3_stolperst_karlsruher_str_9_lehrberger_rose.jpg)
 
 ## Links
 

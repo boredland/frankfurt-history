@@ -12,7 +12,7 @@ filters:
 
 *Herderstraße 27*
 
-![Stolperstein Friesem, Clara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/herderstr_27.jpg)
+![Stolperstein Friesem, Clara](../../images/stolpersteine/a08dca88fa9d_herderstr_27.jpg)
 
 Clara Friesem wurde in Niederzissen bei Ahrweiler
 
@@ -491,7 +491,7 @@ Herderstraße 27
 ## Gallery
 
 <!-- gallery:standard -->
-![Friesem, Clara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_herderstr_27_friesem_clara.jpg)
+![Friesem, Clara](../../images/stolpersteine/cf0f827e4764_stolperst_herderstr_27_friesem_clara.jpg)
 
 ## Links
 

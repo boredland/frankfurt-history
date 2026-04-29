@@ -11,7 +11,7 @@ filters:
 
 *An der Ringmauer 1*
 
-![Stolperstein Berentzen, Lore und Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/an_der_ringmauer_134.jpg)
+![Stolperstein Berentzen, Lore und Karl](../../images/stolpersteine/0983c5e4c115_an_der_ringmauer_134.jpg)
 
 Karl Berentzen wurde in Osnabrück geboren. Im 1. Weltkrieg war er Frontsoldat. Er studierte in Münster und Freiburg Medizin, promovierte 1924 in Frankfurt über „Gleichzeitiges Vorkommen von Leberzirrhose und Leukämie“. 1926 ließ er sich als praktischer Arzt in Heddernheim nieder. Die Familie von Karl Berentzen war katholisch.
 
@@ -120,10 +120,10 @@ An der Ringmauer 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Berentzen, Lore und Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/opferbilder/an_der_ringmauer_1_berentzen_familienbogen.jpg)
-![Berentzen, Lore und Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/opferbilder/an_der_ringmauer_1_gedenkblatt.jpg)
-![Berentzen, Lore und Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/opferbilder/an_der_ringmauer_1_berentzen_testimony.jpg)
-![Berentzen, Lore und Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/berentzen-karl.jpg)
+![Berentzen, Lore und Karl](../../images/stolpersteine/f235b0abe8f6_an_der_ringmauer_1_berentzen_familienbogen.jpg)
+![Berentzen, Lore und Karl](../../images/stolpersteine/ec48aac65521_an_der_ringmauer_1_gedenkblatt.jpg)
+![Berentzen, Lore und Karl](../../images/stolpersteine/7fef1027f592_an_der_ringmauer_1_berentzen_testimony.jpg)
+![Berentzen, Lore und Karl](../../images/stolpersteine/6736fbef905e_berentzen-karl.jpg)
 
 ## Links
 

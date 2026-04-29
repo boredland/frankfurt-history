@@ -11,7 +11,7 @@ filters:
 
 *Haeberlinstraße 6*
 
-![Stolperstein Breslau, Ignatz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/hauberlinstrasse_6__300x400.jpg)
+![Stolperstein Breslau, Ignatz](../../images/stolpersteine/1c953ddde513_hauberlinstrasse_6__300x400.jpg)
 
 Ignaz Breslau wurde in Frankfurt geboren. Die Eltern waren Reichle (Ricka) Steinhardt und Herz (Hermann) Breslau. Ignaz Breslau hatte vier Geschwister: Moritz (1866 - etwa 1940), Karl (1868 - 25.11.1941 in Kowno), Bertha Bergmann (1871 - 1950) und Max (1878 - 1956 in New York). Die Familie war in der Adalbertstraße 4a in Bockenheim ansässig. Aus Geschäfts- und Privatanzeigen aus dem Bockenheimer Anzeiger aus der Zeit von 1875 bis 1911 ist zu entnehmen, dass die Familie schon lange in Bockenheim lebte. Er war verheiratet mit Agathe, geb. Rosenstiel (1876 - 1941). Sie hatten zwei Kinder, Friedrich (Jg. 1898) und Helene (Jg. 1901). Diese war verheiratet mit Meyer Hirsch (1868 - 1943 in Auschwitz).
 
@@ -88,7 +88,7 @@ Haeberlinstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Breslau, Ignatz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/stolperst_haeberlinstrasse_6_breslau_ignatz__400x400.jpg)
+![Breslau, Ignatz](../../images/stolpersteine/d8c3fdc8c0fc_stolperst_haeberlinstrasse_6_breslau_ignatz__400x400.jpg)
 
 ## Links
 

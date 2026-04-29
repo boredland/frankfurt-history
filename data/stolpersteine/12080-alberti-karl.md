@@ -11,7 +11,7 @@ filters:
 
 *Kelsterbacher Straße 73*
 
-![Stolperstein Alberti, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/kelsterbacherstr_73.jpg)
+![Stolperstein Alberti, Karl](../../images/stolpersteine/33908d431d38_kelsterbacherstr_73.jpg)
 
 Karl Alberti wurde als fünftes Kind seiner Eltern in Frankfurt am Main geboren. Sein Vater war Schuster. Die Familie wohnte im Erdgeschoss der Kelsterbacher Straße 73. Karl Alberti besuchte bis zu seinem 15. Lebensjahr die Volksschule und die erste Klasse der Wiesenhütten-Hilfsschule. Er war ledig und arbeitete als Hausbursche, z.B. im Kaiserkeller in Frankfurt. Seit dem Tod seiner Eltern, die Mutter starb 1936, hielt er sich mit Putz- und Näharbeiten über Wasser.
 
@@ -136,7 +136,7 @@ Kelsterbacherstraße 73
 ## Gallery
 
 <!-- gallery:standard -->
-![Alberti, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_kelsterbacherstr_73_alberti_karl.jpg)
+![Alberti, Karl](../../images/stolpersteine/08715f2ba7d3_stolperst_kelsterbacherstr_73_alberti_karl.jpg)
 
 ## Links
 

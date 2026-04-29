@@ -11,7 +11,7 @@ filters:
 
 *Ostendstraße 49*
 
-![Stolperstein Steigerwald, Adelheid und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/ostendstrasse-49_1.jpg)
+![Stolperstein Steigerwald, Adelheid und Moritz](../../images/stolpersteine/c85f57d3f3d6_ostendstrasse-49_1.jpg)
 
 Adelheid, genannt Adele, Steigerwald wurde in Oberursel geboren und war eine der Töchter des Oberurseler Viehhändlers Wolf Grünebaum und dessen erster Frau Therese, geb. Mainzer. Wolf Grünebaum gehörte zu den Gründungsmitgliedern der Freiwilligen Feuerwehr in Oberursel.
 
@@ -220,8 +220,8 @@ Ostendstraße 49
 ## Gallery
 
 <!-- gallery:standard -->
-![Steigerwald, Adelheid und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/wolf-gruenebaum.jpg)
-![Steigerwald, Adelheid und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-steigerwald-adelheid.jpg)
+![Steigerwald, Adelheid und Moritz](../../images/stolpersteine/352b78f91e75_wolf-gruenebaum.jpg)
+![Steigerwald, Adelheid und Moritz](../../images/stolpersteine/69bf982bd1b2_stolperstein-steigerwald-adelheid.jpg)
 
 ## Links
 

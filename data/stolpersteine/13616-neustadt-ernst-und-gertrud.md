@@ -11,7 +11,7 @@ filters:
 
 *Friedrich-Ebert-Anlage 22*
 
-![Stolperstein Neustadt, Ernst und Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/friedrich-ebert-anlage_22.jpg)
+![Stolperstein Neustadt, Ernst und Gertrud](../../images/stolpersteine/b7ba297a1f0a_friedrich-ebert-anlage_22.jpg)
 
 Ernst Neustadt legte 1901 sein Abitur im Wilhelm-Gymnasium in Berlin ab, studierte Latein, Griechisch und Germanistik in Berlin und promovierte 1906. Nach dem Staatsexamen 1907 unterrichtete er an Berliner Gymnasien, zuerst im Askanischen Gymnasium, dann im Mommsen-Gymnasium in Berlin-Charlottenburg; 1919 heiratete er GertrudStadthagen. 1929 wurde er unter 26 Bewerbern als Oberstudiendirektor für das Goethe-Gymnasium Frankfurt ausgewählt. Er wohnte mit seiner Frau direkt neben der Schule.
 
@@ -480,13 +480,13 @@ Friedrich-Ebert-Anlage 22
 ## Gallery
 
 <!-- gallery:standard -->
-![Neustadt, Ernst und Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/friedrich_ebert_anlage_22_neustadt.jpg)
-![Neustadt, Ernst und Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/friedrich_ebert_anlage_22_goethegymnasium_2.jpg)
-![Neustadt, Ernst und Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/friedrich_ebert_anlage_22_neustadt_internierungsprotokoll.jpg)
-![Neustadt, Ernst und Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/friedrich_ebert_anlage_22_neustadt_grab_in_schottland.jpg)
-![Neustadt, Ernst und Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/friedrich_ebert_anlage_22_ernst_neustadt_gemalt_von-schuelerin_hana_tkach_takemura.jpg)
-![Neustadt, Ernst und Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_friedrich-ebert-anlage_22_neustadt_ernst.jpg)
-![Neustadt, Ernst und Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_friedrich-ebert-anlage_22_neustadt_gertrud.jpg)
+![Neustadt, Ernst und Gertrud](../../images/stolpersteine/6b29088870d4_friedrich_ebert_anlage_22_neustadt.jpg)
+![Neustadt, Ernst und Gertrud](../../images/stolpersteine/96ffdce4601b_friedrich_ebert_anlage_22_goethegymnasium_2.jpg)
+![Neustadt, Ernst und Gertrud](../../images/stolpersteine/114f299fe380_friedrich_ebert_anlage_22_neustadt_internierungsprotokoll.jp.jpg)
+![Neustadt, Ernst und Gertrud](../../images/stolpersteine/b7f03f0a5147_friedrich_ebert_anlage_22_neustadt_grab_in_schottland.jpg)
+![Neustadt, Ernst und Gertrud](../../images/stolpersteine/9f3e80fb4b61_friedrich_ebert_anlage_22_ernst_neustadt_gemalt_von-schueler.jpg)
+![Neustadt, Ernst und Gertrud](../../images/stolpersteine/0cd666532156_stolperst_friedrich-ebert-anlage_22_neustadt_ernst.jpg)
+![Neustadt, Ernst und Gertrud](../../images/stolpersteine/19b39f059ffc_stolperst_friedrich-ebert-anlage_22_neustadt_gertrud.jpg)
 
 ## Links
 

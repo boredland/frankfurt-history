@@ -11,7 +11,7 @@ filters:
 
 *Saalgasse 9*
 
-![Stolperstein von Halle, Siegfried, Rosa und Friedel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/saalgasse_9.jpg)
+![Stolperstein von Halle, Siegfried, Rosa und Friedel](../../images/stolpersteine/439d78715c46_saalgasse_9.jpg)
 
 Siegfried von Halle wurde in Hamburg geboren und war verheiratet mit Jeanette von Halle, geb. Nathan, die 1935 starb. Er war Glaser und Glasreiniger und der Vater von Isidor, Friedel (Frieda) und Rosa von Halle. Er war kriegsversehrt und lebte mit seiner Familie lange in Usingen. 1935 war er in der Saalgasse 11 (heute etwa Hausnummer 9) gemeldet. In der Volkszählung von 1939 ist Siegfried unter der Adresse Herderstraße 33 und Rosa im Krankenhaus der Jüdischen Gemeinde in der Gagernstraße 36 verzeichnet. Die letzte Frankfurter Adresse vor der Deportation war Schwanenstraße 6.
 
@@ -118,7 +118,7 @@ Saalgasse 9
 ## Gallery
 
 <!-- gallery:standard -->
-![von Halle, Siegfried, Rosa und Friedel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/stolperst_saalgasse_9_von_halle_siegfried.jpg)
+![von Halle, Siegfried, Rosa und Friedel](../../images/stolpersteine/ec6f5a654c5f_stolperst_saalgasse_9_von_halle_siegfried.jpg)
 
 ## Links
 

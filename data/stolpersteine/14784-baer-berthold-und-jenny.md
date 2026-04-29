@@ -12,7 +12,7 @@ filters:
 
 *Musikantenweg 39*
 
-![Stolperstein Baer, Berthold und Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/musikantenweg_39.jpg)
+![Stolperstein Baer, Berthold und Jenny](../../images/stolpersteine/5a71ed938d30_musikantenweg_39.jpg)
 
 Jenny Baer
 
@@ -469,9 +469,9 @@ Musikantenweg 39
 ## Gallery
 
 <!-- gallery:standard -->
-![Baer, Berthold und Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/musikantenweg_39_baer_jenny.jpg)
-![Baer, Berthold und Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_musikantenweg_39_baer_berthold.jpg)
-![Baer, Berthold und Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_musikantenweg_39_baer_jenny.jpg)
+![Baer, Berthold und Jenny](../../images/stolpersteine/7a4f720822a4_musikantenweg_39_baer_jenny.jpg)
+![Baer, Berthold und Jenny](../../images/stolpersteine/65ca66745ad6_stolperst_musikantenweg_39_baer_berthold.jpg)
+![Baer, Berthold und Jenny](../../images/stolpersteine/058e05ca7f34_stolperst_musikantenweg_39_baer_jenny.jpg)
 
 ## Links
 

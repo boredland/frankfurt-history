@@ -11,7 +11,7 @@ filters:
 
 *Battonnstraße 40*
 
-![Stolperstein Levi, Isidor, Rosa, Hildegard und Bela Judis](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/battonnstrasse_40__400x300.jpg)
+![Stolperstein Levi, Isidor, Rosa, Hildegard und Bela Judis](../../images/stolpersteine/f78b0b483410_battonnstrasse_40__400x300.jpg)
 
 Isidor Levi stammte aus Hähnlein, seine Frau Rosa, geb. Spieldoch, aus Buk bei Posen. Sie hatten neben Hildegard eine weitere Tochter (Jg. 1906) und einen Sohn Erwin, (Jg. 1909). Isidor Levi war bis 1936 als Kaufmann und Kassierer bei den Altmetallgroßhand¬lungen „Heppenheimer" und „Kaufmann & Sohn" beschäftigt; später musste er Zwangsarbeit bei der Firma „Holzhof' leisten. Die ledige Tochter Hildegard Levi arbeitete als Lageristin und Packerin bei der Firma „Anna Schillag" (auch: Chillag oder Csillag) in der Neuen Mainzer Straße 58, wo sie 1936/37 verfolgungsbedingt entlassen wurde. Sie war die Mutter von Bela Judis Levi. Die letzte Frankfurter Adresse der Familie war Großer Wollgraben 16 (Börnestraße).
 
@@ -200,8 +200,8 @@ Battonnstraße 40
 ## Gallery
 
 <!-- gallery:standard -->
-![Levi, Isidor, Rosa, Hildegard und Bela Judis](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_battonnstrasse_40_levi_isidor__400x400.jpg)
-![Levi, Isidor, Rosa, Hildegard und Bela Judis](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_battonnstrasse_40_levi_hildegard__400x400.jpg)
+![Levi, Isidor, Rosa, Hildegard und Bela Judis](../../images/stolpersteine/247554d6a707_stolperst_battonnstrasse_40_levi_isidor__400x400.jpg)
+![Levi, Isidor, Rosa, Hildegard und Bela Judis](../../images/stolpersteine/bdbb3a19a981_stolperst_battonnstrasse_40_levi_hildegard__400x400.jpg)
 
 ## Links
 

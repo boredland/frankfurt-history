@@ -11,7 +11,7 @@ filters:
 
 *Frauenlobstraße 13*
 
-![Stolperstein Bär, Karl S. und Gretel (Anne Margaret)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/frauenlobstr_13.jpg)
+![Stolperstein Bär, Karl S. und Gretel (Anne Margaret)](../../images/stolpersteine/fff839bd91d9_frauenlobstr_13.jpg)
 
 Karl Bär (1952)
 
@@ -204,14 +204,14 @@ Frauenlobstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Bär, Karl S. und Gretel (Anne Margaret)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/opferbilder/frauenlobstr_13_baer_karl_1952.jpg)
-![Bär, Karl S. und Gretel (Anne Margaret)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/opferbilder/frauenlobstr_13_baer_villa.jpg)
-![Bär, Karl S. und Gretel (Anne Margaret)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/opferbilder/frauenlobstr_13_baer_gretel_und_karl_baer_mit_ihrer_irischen_terrierhuendin_inka_mai_1937.jpg)
-![Bär, Karl S. und Gretel (Anne Margaret)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/opferbilder/frauenlobstr_13_baer_garten_1934.jpg)
-![Bär, Karl S. und Gretel (Anne Margaret)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/opferbilder/frauenlobstr_13_baer_steingarten.jpg)
-![Bär, Karl S. und Gretel (Anne Margaret)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/opferbilder/frauenlobstr_13_baer_terasse.jpg)
-![Bär, Karl S. und Gretel (Anne Margaret)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_frauenlobstr_13_baer_karl_s.jpg)
-![Bär, Karl S. und Gretel (Anne Margaret)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_frauenlobstr_13_baer_gretel.jpg)
+![Bär, Karl S. und Gretel (Anne Margaret)](../../images/stolpersteine/44fb4dfd3136_frauenlobstr_13_baer_karl_1952.jpg)
+![Bär, Karl S. und Gretel (Anne Margaret)](../../images/stolpersteine/74191e766a47_frauenlobstr_13_baer_villa.jpg)
+![Bär, Karl S. und Gretel (Anne Margaret)](../../images/stolpersteine/cc660bde0189_frauenlobstr_13_baer_gretel_und_karl_baer_mit_ihrer_irischen.jpg)
+![Bär, Karl S. und Gretel (Anne Margaret)](../../images/stolpersteine/adb45ecec8dd_frauenlobstr_13_baer_garten_1934.jpg)
+![Bär, Karl S. und Gretel (Anne Margaret)](../../images/stolpersteine/131c98c7960c_frauenlobstr_13_baer_steingarten.jpg)
+![Bär, Karl S. und Gretel (Anne Margaret)](../../images/stolpersteine/c9159cb8e07a_frauenlobstr_13_baer_terasse.jpg)
+![Bär, Karl S. und Gretel (Anne Margaret)](../../images/stolpersteine/efc25523f3a3_stolperst_frauenlobstr_13_baer_karl_s.jpg)
+![Bär, Karl S. und Gretel (Anne Margaret)](../../images/stolpersteine/933692cb1009_stolperst_frauenlobstr_13_baer_gretel.jpg)
 
 ## Links
 

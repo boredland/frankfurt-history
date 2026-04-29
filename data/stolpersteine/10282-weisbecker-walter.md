@@ -11,7 +11,7 @@ filters:
 
 *Gundhofstraße 8*
 
-![Stolperstein Weisbecker, Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/gundhofstr_8.jpg)
+![Stolperstein Weisbecker, Walter](../../images/stolpersteine/351d0fe0b45b_gundhofstr_8.jpg)
 
 Walter Robert Weisbecker war der Sohn des Monteurs Andreas Weisbecker und seiner Ehefrau Lina, geb. Rodius.  Er hatte acht Geschwister. Bis März 1926 besuchte er die Frauenhofschule in Niederrad und machte anschließend eine Ausbildung zum Notariatsangestellten bei dem Rechtsanwalt Dr. Fr. Lünenburger in der Goethestraße 35. Danach arbeitete er bei dem Rechtsanwalt M. Pinkus und am Roßmarkt 10 in der Kanzlei der Rechtsanwälte Fritz Gutenstein und Siegfried Popper, der später mit seiner Frau und seinen beiden Kindern deportiert und ermordet wurde.
 
@@ -126,7 +126,7 @@ Gundhofstraße 8
 ## Gallery
 
 <!-- gallery:standard -->
-![Weisbecker, Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/weissbecker_walter.jpg)
+![Weisbecker, Walter](../../images/stolpersteine/840bac5c39cd_weissbecker_walter.jpg)
 
 ## Links
 

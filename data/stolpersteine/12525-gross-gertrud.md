@@ -11,7 +11,7 @@ filters:
 
 *Wittelsbacherallee 100*
 
-![Stolperstein Gross, Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/wittelsbacher-allee-100_1.jpg)
+![Stolperstein Gross, Gertrud](../../images/stolpersteine/8da26f0f156b_wittelsbacher-allee-100_1.jpg)
 
 Gertrud Gross wurde in Frankfurt am Main geboren. Ihr Vater Robert Schickl, geboren am 23. Februar 1885, stammt aus Brüx, heute Most in der Tschechischen Republik, damals zur Donaumonarchie Österreich-Ungarn gehörend. Er war jüdisch und von Beruf Kaufmann. Die Frankfurter Meldekartei („Nullkartei“) nennt als Beruf auch „Gewerblich Reisender“. Er hielt sich in den Jahren von 1910 bis 1918 an mehreren Orten in Deutschland auf, darunter auch mehrfach in Frankfurt am Main. Am 17.10.1918 zog er in das Haus Wittelsbacher Allee 100. Hier wohnte Anna Emma Binder, geboren am 14. April 1894 in Karlsruhe. Auch sie war Jüdin. Beide heirateten am 16. Oktober 1918 in Frankfurt am Main.
 
@@ -198,7 +198,7 @@ Wittelsbacher Allee 100
 ## Gallery
 
 <!-- gallery:standard -->
-![Gross, Gertrud](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-gross-gertrud.jpg)
+![Gross, Gertrud](../../images/stolpersteine/6dd1c63a9338_stolperstein-gross-gertrud.jpg)
 
 ## Links
 

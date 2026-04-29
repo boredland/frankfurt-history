@@ -11,7 +11,7 @@ filters:
 
 *Auf dem Schafberg 8*
 
-![Stolperstein Schmidt, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/standorte/auf_dem_schafberg_8.jpg)
+![Stolperstein Schmidt, Heinrich](../../images/stolpersteine/fa26cf25431a_auf_dem_schafberg_8.jpg)
 
 Heinrich Philipp Klemens Schmidt wurde in Frankfurt-Griesheim als Sohn von Philipp Heinrich Schmidt und Karoline, geb. Michel, geboren. Die Eltern starben früh, Heinrich war mit elf Jahren Vollwaise. Er machte eine Ausbildung zum Schweißer/Former und engagierte sich in der Kommunistische Partei Deutschlands (KPD), soll dort auch Funktionär gewesen sein. Er wohnte damals Am Schafberg 8 in Frankfurt-Griesheim.
 
@@ -76,7 +76,7 @@ Auf dem Schafberg 8
 ## Gallery
 
 <!-- gallery:standard -->
-![Schmidt, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/stolperst_auf_dem_schafberg_8_schmidt_heinrich.jpg)
+![Schmidt, Heinrich](../../images/stolpersteine/01587b83f827_stolperst_auf_dem_schafberg_8_schmidt_heinrich.jpg)
 
 ## Links
 

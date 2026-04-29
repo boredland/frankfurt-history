@@ -11,7 +11,7 @@ filters:
 
 *Röhrborngasse 1*
 
-![Stolperstein Hahn, Frieda und Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/roehrborngasse_1_haus.jpg)
+![Stolperstein Hahn, Frieda und Jenny](../../images/stolpersteine/26a33a535d4e_roehrborngasse_1_haus.jpg)
 
 Jenny Hahn (vorne links) mit anderen am Deportationstag vor dem Bahnhof Hanau.
 
@@ -108,7 +108,7 @@ Röhrborngasse 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Hahn, Frieda und Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/hahn-jenny.jpg)
+![Hahn, Frieda und Jenny](../../images/stolpersteine/63412e44ea16_hahn-jenny.jpg)
 
 ## Links
 

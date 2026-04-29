@@ -11,7 +11,7 @@ filters:
 
 *Steuernagelstraße 29*
 
-![Stolperstein Weisbecker, Karl Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/standorte/steuernagelstr_29.jpg)
+![Stolperstein Weisbecker, Karl Johann](../../images/stolpersteine/60e3ab067b70_steuernagelstr_29.jpg)
 
 Weisbecker, Karl 2
 
@@ -100,13 +100,13 @@ Steuernagelstraße 29
 ## Gallery
 
 <!-- gallery:standard -->
-![Weisbecker, Karl Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/weisbecker-karl-2.jpg)
-![Weisbecker, Karl Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/weisbecker-karl.jpg)
-![Weisbecker, Karl Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/weisbecker-elise.jpg)
-![Weisbecker, Karl Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/karl-weisbecker-mit-toechtern.jpg)
-![Weisbecker, Karl Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/karl-weisbecker-mit-familie.jpg)
-![Weisbecker, Karl Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/todesanzeige-karl-weisbecker.jpg)
-![Weisbecker, Karl Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_steuernagelstr_29_weisbecker_karl.jpg)
+![Weisbecker, Karl Johann](../../images/stolpersteine/2e10d4c7a3d7_weisbecker-karl-2.jpg)
+![Weisbecker, Karl Johann](../../images/stolpersteine/295d3415759b_weisbecker-karl.jpg)
+![Weisbecker, Karl Johann](../../images/stolpersteine/38eb6a779604_weisbecker-elise.jpg)
+![Weisbecker, Karl Johann](../../images/stolpersteine/f6862feed9fe_karl-weisbecker-mit-toechtern.jpg)
+![Weisbecker, Karl Johann](../../images/stolpersteine/518297732c03_karl-weisbecker-mit-familie.jpg)
+![Weisbecker, Karl Johann](../../images/stolpersteine/c30201fab74a_todesanzeige-karl-weisbecker.jpg)
+![Weisbecker, Karl Johann](../../images/stolpersteine/e340b4cf3e06_stolperst_steuernagelstr_29_weisbecker_karl.jpg)
 
 ## Links
 

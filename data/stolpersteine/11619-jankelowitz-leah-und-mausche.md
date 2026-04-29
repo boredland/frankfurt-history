@@ -11,7 +11,7 @@ filters:
 
 *Uhlandstraße 19*
 
-![Stolperstein Jankelowitz, Leah und Mausche](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/uhlandstrasse-19_1.jpg)
+![Stolperstein Jankelowitz, Leah und Mausche](../../images/stolpersteine/ba1c3a12b08d_uhlandstrasse-19_1.jpg)
 
 Leah Jankelowitz, geb. Feireischewitz, stammte aus Kretinga in Litauen. Sie galt zwar als „staatenlos“, hatte aber der Entschädigungsakte zufolge die russische Staatsangehörigkeit. Sie lebte mit ihrer Familie in Bunde/Kreis Leer, ehe sie 1930 nach Frankfurt am Main zog, zuerst in die Ostendstraße, dann in die Uhlandstraße 19. Die Familie gehörte zur israelischen Religionsgemeinschaft mit der großen Synagoge an der Friedberger Anlage. Den fünf Kindern - drei Söhne, zwei Töchter - gelang die Flucht nach Palästina beziehungsweise in die USA. Die letzte Frankfurter Adresse von Leah Jankelowitz war das Krankenhaus der Israelitischen Gemeinde in der Gagernstraße 36. Mausche Jankelowitz, geboren in Plotelli, war ein Onkel des Mannes von Leah Jankelowitz, er lebte zuletzt im Jüdischen Altersheim Rechneigrabenstraße 18-20.
 
@@ -208,7 +208,7 @@ Uhlandstraße 19
 ## Gallery
 
 <!-- gallery:standard -->
-![Jankelowitz, Leah und Mausche](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-jankelowitz-leah.jpg)
+![Jankelowitz, Leah und Mausche](../../images/stolpersteine/5c41a1a0693a_stolperstein-jankelowitz-leah.jpg)
 
 ## Links
 

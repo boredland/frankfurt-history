@@ -11,7 +11,7 @@ filters:
 
 *Gebeschusstraße 24*
 
-![Stolperstein Wehrle, Herrmann Joseph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/gebeschussstr_22_24__400x300.jpg)
+![Stolperstein Wehrle, Herrmann Joseph](../../images/stolpersteine/2f07215faebd_gebeschussstr_22_24__400x300.jpg)
 
 Herrmann Joseph Wehrle wurde in Nürnberg geboren. Er wuchs in einer gläubigen katholischen Familie auf. Taufe und Kommunion empfing er in der Kirche St. Josef in Frankfurt-Höchst. 1917 bestand er das Notabitur in der 12. Klasse am damaligen humanistischen Gymnasium, der heutigen Leibnizschule. Vom 1. September 1917 bis Mitte Oktober 1917 war er beim „Vaterländischen Hilfsdienst" eingezogen.
 
@@ -150,8 +150,8 @@ Gebeschusstraße 22-24
 ## Gallery
 
 <!-- gallery:standard -->
-![Wehrle, Herrmann Joseph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/wehrle-hermann-joseph.jpg)
-![Wehrle, Herrmann Joseph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/wehrle-josef-herrmann.jpg)
+![Wehrle, Herrmann Joseph](../../images/stolpersteine/f1a280bc1a0d_wehrle-hermann-joseph.jpg)
+![Wehrle, Herrmann Joseph](../../images/stolpersteine/8fe6dd08dd2e_wehrle-josef-herrmann.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Seeheimer Straße 19*
 
-![Stolperstein Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/oberrad/seeheimer_str_19.jpg)
+![Stolperstein Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](../../images/stolpersteine/70c0dd70744f_seeheimer_str_19.jpg)
 
 Theodor W. Adorno wurde als Theodor Ludwig Wiesengrund
 
@@ -276,20 +276,20 @@ Seeheimer Straße 19
 ## Gallery
 
 <!-- gallery:standard -->
-![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/oberrad/opferbilder/seeheimer_str_19_wiesengrund_maria_und_oskar_hochzeitsbild_1898_isg.jpg)
-![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/oberrad/opferbilder/seeheimer_str_19_schoene_aussicht_links_geburtshaus_nr_9_rechts_weinhandlung_nr_7_isg.jpg)
-![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/oberrad/opferbilder/seeheimer_str_19_wiesengrund_maria_-agatha_calvelli-adorno_theodor_w_adorno_1915-1916_twa-archiv.jpg)
-![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/oberrad/opferbilder/seeheimer_str_19_gartenansicht_1951_privatarchiv_reinhard_pabst.jpg)
-![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/oberrad/opferbilder/seeheimer_str_19_wiesengrund_hausstandsbuch_isg.jpg)
-![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/oberrad/opferbilder/seeheimer_str_19_wiesengrund_kriegszerstoertes_haus.jpg)
-![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/oberrad/opferbilder/seeheimer_str_19_adorno_theodor_w_deutschherrenmittelschule_1910-1913_wikipedia.jpg)
-![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/oberrad/opferbilder/seeheimer_str_19_adorno_theodor_w_1931_twa-archiv.jpg)
-![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/oberrad/opferbilder/seeheimer_str_19_wiesengrund_maria_und_oskar_1937_twa-archiv.jpg)
-![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/oberrad/opferbilder/seeheimer_str_19_wiesengrund_maria_und_oskar_1939_auf_kuba_twa-archiv.jpg)
-![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/oberrad/opferbilder/seeheimer_str_19_adorno_theodor_w_1964_wikipedia.jpg)
-![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/oberrad/stolperst_seeheimer_str_19_adorno_theodor_w.jpg)
-![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/oberrad/stolperst_seeheimer_str_19_wiesengrund_maria_barbara.jpg)
-![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/oberrad/stolperst_seeheimer_str_19_wiesengrund_oskar.jpg)
+![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](../../images/stolpersteine/fbc391d4326d_seeheimer_str_19_wiesengrund_maria_und_oskar_hochzeitsbild_1.jpg)
+![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](../../images/stolpersteine/bfeeb743198f_seeheimer_str_19_schoene_aussicht_links_geburtshaus_nr_9_rec.jpg)
+![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](../../images/stolpersteine/cec6e570cf1d_seeheimer_str_19_wiesengrund_maria_-agatha_calvelli-adorno_t.jpg)
+![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](../../images/stolpersteine/80c73e4724d5_seeheimer_str_19_gartenansicht_1951_privatarchiv_reinhard_pa.jpg)
+![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](../../images/stolpersteine/3060ae0b0762_seeheimer_str_19_wiesengrund_hausstandsbuch_isg.jpg)
+![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](../../images/stolpersteine/0a1e43fc48e5_seeheimer_str_19_wiesengrund_kriegszerstoertes_haus.jpg)
+![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](../../images/stolpersteine/f592066880f6_seeheimer_str_19_adorno_theodor_w_deutschherrenmittelschule_.jpg)
+![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](../../images/stolpersteine/46de5f19c606_seeheimer_str_19_adorno_theodor_w_1931_twa-archiv.jpg)
+![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](../../images/stolpersteine/7a99713c627a_seeheimer_str_19_wiesengrund_maria_und_oskar_1937_twa-archiv.jpg)
+![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](../../images/stolpersteine/2242e630d22b_seeheimer_str_19_wiesengrund_maria_und_oskar_1939_auf_kuba_t.jpg)
+![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](../../images/stolpersteine/5590fcb88e5a_seeheimer_str_19_adorno_theodor_w_1964_wikipedia.jpg)
+![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](../../images/stolpersteine/bf59adfc93ac_stolperst_seeheimer_str_19_adorno_theodor_w.jpg)
+![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](../../images/stolpersteine/95a51173b2c4_stolperst_seeheimer_str_19_wiesengrund_maria_barbara.jpg)
+![Adorno, Theodor,W. sowie Wiesengrund, Maria Barbara und Oskar](../../images/stolpersteine/c1d9a7f24e01_stolperst_seeheimer_str_19_wiesengrund_oskar.jpg)
 
 ## Links
 

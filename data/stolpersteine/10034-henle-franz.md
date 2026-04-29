@@ -11,7 +11,7 @@ filters:
 
 *Am Lindenbaum 4*
 
-![Stolperstein Henle, Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/am_lindenbaum_4__400x300.jpg)
+![Stolperstein Henle, Franz](../../images/stolpersteine/392fe0b6beb9_am_lindenbaum_4__400x300.jpg)
 
 Franz Henle
 
@@ -98,8 +98,8 @@ Am Lindenbaum 4
 ## Gallery
 
 <!-- gallery:standard -->
-![Henle, Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/franz-henle.jpg)
-![Henle, Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/stolperst_am_lindenbaum_4_henle_franz__400x400.jpg)
+![Henle, Franz](../../images/stolpersteine/2a46dace9946_franz-henle.jpg)
+![Henle, Franz](../../images/stolpersteine/9e76df338761_stolperst_am_lindenbaum_4_henle_franz__400x400.jpg)
 
 ## Links
 

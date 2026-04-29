@@ -11,7 +11,7 @@ filters:
 
 *Raiffeisenstraße 25*
 
-![Stolperstein Breckheimer, Caecilie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/standorte/raiffeisenstrasse-25_1.jpg)
+![Stolperstein Breckheimer, Caecilie](../../images/stolpersteine/558c1fb75d48_raiffeisenstrasse-25_1.jpg)
 
 Caecillie und Wilhelm Breckheimer
 
@@ -70,9 +70,9 @@ Raiffeisenstraße 25
 ## Gallery
 
 <!-- gallery:standard -->
-![Breckheimer, Caecilie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/caecillie-und-wilhelm-breckheimer.jpg)
-![Breckheimer, Caecilie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/breckheimer-wolfgang.jpg)
-![Breckheimer, Caecilie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/stolperstein_raifeisenstr_25_breckheimer_caecilie_jpg_2245328.jpg)
+![Breckheimer, Caecilie](../../images/stolpersteine/567a242ce160_caecillie-und-wilhelm-breckheimer.jpg)
+![Breckheimer, Caecilie](../../images/stolpersteine/2b1565e65db6_breckheimer-wolfgang.jpg)
+![Breckheimer, Caecilie](../../images/stolpersteine/90ef3b760751_stolperstein_raifeisenstr_25_breckheimer_caecilie_jpg_224532.jpg)
 
 ## Links
 

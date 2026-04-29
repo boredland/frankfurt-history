@@ -11,7 +11,7 @@ filters:
 
 *Liebigstraße 3*
 
-![Stolperstein Maas, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/liebigstrasse-3.jpg)
+![Stolperstein Maas, Adolf](../../images/stolpersteine/25141e5e8b6c_liebigstrasse-3.jpg)
 
 Adolf F. Maas wurde in Frankfurt geboren. Er stammte aus einer jüdischen
 
@@ -464,7 +464,7 @@ Liebigstraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Maas, Adolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/maas-adolf.jpg)
+![Maas, Adolf](../../images/stolpersteine/4f0ed86ebada_maas-adolf.jpg)
 
 ## Links
 

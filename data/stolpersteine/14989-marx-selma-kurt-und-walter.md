@@ -11,7 +11,7 @@ filters:
 
 *Stresemannallee 7*
 
-![Stolperstein Marx, Selma, Kurt und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/stresemannallee-7_1.jpg)
+![Stolperstein Marx, Selma, Kurt und Walter](../../images/stolpersteine/651f5aac9689_stresemannallee-7_1.jpg)
 
 Selma Freudenthal wurde am 6.2.1886 als Tochter von Karoline und Josef Freudenthal (Handelsmann) in Battenberg geboren. In 1888 zog die Familie Freudenthal nach Laisa. Seit 1911 war Selma ist mit Alfred Marx verheiratet,  der am 18.4.1884 in Battenberg geboren wurde. Am 2.9.1912 wurde ihr Sohn Kurt und am 2.5.1914 ihr Sohn Walter geboren, beide in Frankfurt.
 
@@ -184,11 +184,11 @@ Stresemannallee 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Marx, Selma, Kurt und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/kurt-walter-und-selma-marx.jpg)
-![Marx, Selma, Kurt und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/marx-kurt.jpg)
-![Marx, Selma, Kurt und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/marx-walter.jpg)
-![Marx, Selma, Kurt und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_stresemannallee_7_marx_selma.jpg)
-![Marx, Selma, Kurt und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_stresemannallee_7_marx_walter.jpg)
+![Marx, Selma, Kurt und Walter](../../images/stolpersteine/5a9cec1f91f8_kurt-walter-und-selma-marx.jpg)
+![Marx, Selma, Kurt und Walter](../../images/stolpersteine/ca85b6b6653c_marx-kurt.jpg)
+![Marx, Selma, Kurt und Walter](../../images/stolpersteine/e80ac3a42c94_marx-walter.jpg)
+![Marx, Selma, Kurt und Walter](../../images/stolpersteine/d70ff4a75eba_stolperst_stresemannallee_7_marx_selma.jpg)
+![Marx, Selma, Kurt und Walter](../../images/stolpersteine/6e3f22346e19_stolperst_stresemannallee_7_marx_walter.jpg)
 
 ## Links
 

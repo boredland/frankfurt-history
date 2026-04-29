@@ -11,7 +11,7 @@ filters:
 
 *Staufenstraße 31*
 
-![Stolperstein Lismann, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/staufenstrasse_31.jpg)
+![Stolperstein Lismann, Ludwig](../../images/stolpersteine/a32dc69c308b_staufenstrasse_31.jpg)
 
 Ludwig
 
@@ -528,7 +528,7 @@ Staufenstraße 31
 ## Gallery
 
 <!-- gallery:standard -->
-![Lismann, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_staufenstrasse_31_lismann_ludwig.jpg)
+![Lismann, Ludwig](../../images/stolpersteine/1a80e714e7c3_stolperst_staufenstrasse_31_lismann_ludwig.jpg)
 
 ## Links
 

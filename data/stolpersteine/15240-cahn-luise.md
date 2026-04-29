@@ -11,7 +11,7 @@ filters:
 
 *Eiserne Hand 35*
 
-![Stolperstein Cahn, Luise](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/eiserrne_hand_35_haus2.jpg)
+![Stolperstein Cahn, Luise](../../images/stolpersteine/ce65bc663eea_eiserrne_hand_35_haus2.jpg)
 
 Luise Cahn stammt aus Frankfurt und lebte zuletzt in der Eisernen Hand 35. Ihr Ehemann überlebte den Holocaust vermutlich.
 

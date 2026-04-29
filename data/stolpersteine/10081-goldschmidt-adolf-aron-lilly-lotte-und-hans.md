@@ -12,7 +12,7 @@ filters:
 
 *Beethovenstraße 60*
 
-![Stolperstein Goldschmidt, Adolf (Aron), Lilly, Lotte und Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/beethovenstr_60.jpg)
+![Stolperstein Goldschmidt, Adolf (Aron), Lilly, Lotte und Hans](../../images/stolpersteine/75ac7efd36a9_beethovenstr_60.jpg)
 
 Aron, genannt Adolf Goldschmidt wurde in Einartshausen
 
@@ -737,10 +737,10 @@ Beethovenstraße 60
 ## Gallery
 
 <!-- gallery:standard -->
-![Goldschmidt, Adolf (Aron), Lilly, Lotte und Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/goldschmidt-adolf.jpg)
-![Goldschmidt, Adolf (Aron), Lilly, Lotte und Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/goldschmidt-lilly.jpg)
-![Goldschmidt, Adolf (Aron), Lilly, Lotte und Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/goldschmidt-lotte.jpg)
-![Goldschmidt, Adolf (Aron), Lilly, Lotte und Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/goldschmidt-hans.jpg)
+![Goldschmidt, Adolf (Aron), Lilly, Lotte und Hans](../../images/stolpersteine/61f75351bf90_goldschmidt-adolf.jpg)
+![Goldschmidt, Adolf (Aron), Lilly, Lotte und Hans](../../images/stolpersteine/227d1d4acc8b_goldschmidt-lilly.jpg)
+![Goldschmidt, Adolf (Aron), Lilly, Lotte und Hans](../../images/stolpersteine/a4e53a86336b_goldschmidt-lotte.jpg)
+![Goldschmidt, Adolf (Aron), Lilly, Lotte und Hans](../../images/stolpersteine/8332c12e4e51_goldschmidt-hans.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Martin-Luther-Straße 47*
 
-![Stolperstein Göller, Rosalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/martin-luther-str_47.jpg)
+![Stolperstein Göller, Rosalie](../../images/stolpersteine/6f2c4f78ef2a_martin-luther-str_47.jpg)
 
 Rosalie Göller wurde in Ostrog/Ratibor in Schlesien geboren. Ihre Eltern waren der Ziegeleiverwalter Josef Rosenberger und seine Ehefrau Johanna, geb. Freudenberger.1926 heiratete sie den Witwer Romanus Göller, der am 18. März 1866 in Mackenzell bei Hünfeld in Nordhessen geboren wurde. Aus seiner Ehe hatte der Witwer noch einen Sohn. Seine erste Frau Charlotte Johanna war am 29. März 1924 verstorben, auch die gemeinsamen weiteren sieben Kinder lebten nicht mehr.
 
@@ -408,7 +408,7 @@ Martin-Luther-Straße 47
 ## Gallery
 
 <!-- gallery:standard -->
-![Göller, Rosalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_martin-luther-str_47_goeller_rosalie.jpg)
+![Göller, Rosalie](../../images/stolpersteine/5e7c2f91cedd_stolperst_martin-luther-str_47_goeller_rosalie.jpg)
 
 ## Links
 

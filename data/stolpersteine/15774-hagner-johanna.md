@@ -12,7 +12,7 @@ filters:
 
 *Scheidswaldstraße 41*
 
-![Stolperstein Hagner, Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/scheidswaldstr_41.jpg)
+![Stolperstein Hagner, Johanna](../../images/stolpersteine/ad59e34547dd_scheidswaldstr_41.jpg)
 
 Johanna
 
@@ -161,7 +161,7 @@ Scheidswaldstraße 41
 ## Gallery
 
 <!-- gallery:standard -->
-![Hagner, Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_scheidswaldstr_41_hagner_johanna.jpg)
+![Hagner, Johanna](../../images/stolpersteine/ef8be63bcecb_stolperst_scheidswaldstr_41_hagner_johanna.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Guiollettstraße 39*
 
-![Stolperstein Elkan, Benno, Hedwig und Wolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/guiolettstr_39.jpg)
+![Stolperstein Elkan, Benno, Hedwig und Wolf](../../images/stolpersteine/27c4a55d365f_guiolettstr_39.jpg)
 
 Benno Elkan
 
@@ -648,13 +648,13 @@ Guiollettstraße 39
 ## Gallery
 
 <!-- gallery:standard -->
-![Elkan, Benno, Hedwig und Wolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/guiolettstr_39_elkan_benno.jpg)
-![Elkan, Benno, Hedwig und Wolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/guiolettstr_39_elkan_benno_vor_dem_denkmal_den_opfern_in_de_frankfurter_gallusanlage.jpg)
-![Elkan, Benno, Hedwig und Wolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/guiolettstr_39_elkan_benno_in_seinem_atelier_in_london_arbeit_an_der_menora_fuer_die_knesset.jpg)
-![Elkan, Benno, Hedwig und Wolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/guiolettstr_39_elkan_benno_menora_vor_der_knesset_in_jerusalem.jpg)
-![Elkan, Benno, Hedwig und Wolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_guiolettstr_39_elkan_benno.jpg)
-![Elkan, Benno, Hedwig und Wolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_guiolettstr_39_elkan_hedwig.jpg)
-![Elkan, Benno, Hedwig und Wolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_guiolettstr_39_elkan_wolf.jpg)
+![Elkan, Benno, Hedwig und Wolf](../../images/stolpersteine/ea56968e6711_guiolettstr_39_elkan_benno.jpg)
+![Elkan, Benno, Hedwig und Wolf](../../images/stolpersteine/b119952ac0c6_guiolettstr_39_elkan_benno_vor_dem_denkmal_den_opfern_in_de_.jpg)
+![Elkan, Benno, Hedwig und Wolf](../../images/stolpersteine/3562ba11f1ee_guiolettstr_39_elkan_benno_in_seinem_atelier_in_london_arbei.jpg)
+![Elkan, Benno, Hedwig und Wolf](../../images/stolpersteine/51ecc7ce67c9_guiolettstr_39_elkan_benno_menora_vor_der_knesset_in_jerusal.jpg)
+![Elkan, Benno, Hedwig und Wolf](../../images/stolpersteine/6c49868b85b2_stolperst_guiolettstr_39_elkan_benno.jpg)
+![Elkan, Benno, Hedwig und Wolf](../../images/stolpersteine/264cf6468228_stolperst_guiolettstr_39_elkan_hedwig.jpg)
+![Elkan, Benno, Hedwig und Wolf](../../images/stolpersteine/d5a362c030ac_stolperst_guiolettstr_39_elkan_wolf.jpg)
 
 ## Links
 

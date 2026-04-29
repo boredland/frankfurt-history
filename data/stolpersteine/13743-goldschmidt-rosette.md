@@ -11,7 +11,7 @@ filters:
 
 *Hügelstraße 144*
 
-![Stolperstein Goldschmidt, Rosette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/huegelstr_144.jpg)
+![Stolperstein Goldschmidt, Rosette](../../images/stolpersteine/805d606255b0_huegelstr_144.jpg)
 
 Rosette Goldschmidt  wurde in Frankfurt am Main geboren und war ledig. Sie wohnte im Damenheim der Freiherrlich Wilhelm
 
@@ -98,7 +98,7 @@ Hügelstraße 144
 ## Gallery
 
 <!-- gallery:standard -->
-![Goldschmidt, Rosette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/stolperst_huegelstr_144_goldschmidt_rosette.jpg)
+![Goldschmidt, Rosette](../../images/stolpersteine/e40615b38a31_stolperst_huegelstr_144_goldschmidt_rosette.jpg)
 
 ## Links
 

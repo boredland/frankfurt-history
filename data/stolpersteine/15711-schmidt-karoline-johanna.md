@@ -11,7 +11,7 @@ filters:
 
 *Raimundstraße 68*
 
-![Stolperstein Schmidt, Karoline Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/standort/raimundstrasse_68.jpg)
+![Stolperstein Schmidt, Karoline Johanna](../../images/stolpersteine/a271f6a0ab42_raimundstrasse_68.jpg)
 
 Karoline Johanna Schmidt wurde in Frankfurt geboren.
 
@@ -136,7 +136,7 @@ Raimundstraße 68
 ## Gallery
 
 <!-- gallery:standard -->
-![Schmidt, Karoline Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/stolperst_raimundstrasse_68_schmidt_karoline_johanna.jpg)
+![Schmidt, Karoline Johanna](../../images/stolpersteine/34b51828ff8b_stolperst_raimundstrasse_68_schmidt_karoline_johanna.jpg)
 
 ## Links
 

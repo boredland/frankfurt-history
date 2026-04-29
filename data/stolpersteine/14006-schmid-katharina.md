@@ -11,7 +11,7 @@ filters:
 
 *Paul-Ehrlich-Straße 40*
 
-![Stolperstein Schmid, Katharina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/paul-ehrlich-strasse-40_1.jpg)
+![Stolperstein Schmid, Katharina](../../images/stolpersteine/d85758064bc2_paul-ehrlich-strasse-40_1.jpg)
 
 Katharina Schmid wurde in Wiesbaden-Biebrich geboren (geb. Reimann). Schon als Kind hat sie „überhaupt Zweifel an der katholischen Lehre bekommen“. Sie heiratete am 7. April 1915 nach Frankfurt. Dort besuchte sie 1932 im Hippodrom das „Schöpfungsdrama“ der Bibelforscher, das sie zum Bibellesen anregte. 1933 trat sie aus der katholischen Kirche aus. Zwar wusste sie, dass die Nationalsozialisten die Bibelforscher (Jehovas Zeugen) verboten hatten, doch sie besuchte trotzdem religiöse Zusammenkünfte bei Ludwig Eichhorn und Willi Stein, der ihr gelegentlich sogar eine Ausgabe des Wachtturms auslieh. Diese Zusammenkünfte wurden dann aber bald zu gefährlich, so dass man sie einstellte.
 
@@ -170,7 +170,7 @@ Paul-Ehrlich-Straße 40
 ## Gallery
 
 <!-- gallery:standard -->
-![Schmid, Katharina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_paul_ehrlich_str_40_schmid_katharina.jpg)
+![Schmid, Katharina](../../images/stolpersteine/3fcd38b51449_stolperst_paul_ehrlich_str_40_schmid_katharina.jpg)
 
 ## Links
 

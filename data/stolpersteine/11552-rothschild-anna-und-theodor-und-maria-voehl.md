@@ -11,7 +11,7 @@ filters:
 
 *Schumannstraße 24*
 
-![Stolperstein Rothschild, Anna und Theodor, und Maria Voehl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/schumannstrasse-24_1.jpg)
+![Stolperstein Rothschild, Anna und Theodor, und Maria Voehl](../../images/stolpersteine/6c4f054b1485_schumannstrasse-24_1.jpg)
 
 Theodor Rothschild wurde in Frankfurt geboren und war mit Anna Suzanne Rothschild, geb. Stern, verheiratet. Das Ehepaar lebte in der Schumannstraße 24. Theodor Rothschild war Anwalt und im Vorstand der Fulda, einem Ableger von T&N. Er wurde 1933 wegen seiner jüdischen Herkunft entlassen.
 
@@ -476,9 +476,9 @@ Schumannstraße 24
 ## Gallery
 
 <!-- gallery:standard -->
-![Rothschild, Anna und Theodor, und Maria Voehl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstr_24_rothschild_anne_suzanne.jpg)
-![Rothschild, Anna und Theodor, und Maria Voehl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstr_24_rothschild_theodor.jpg)
-![Rothschild, Anna und Theodor, und Maria Voehl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstr_24_voehl_maria.jpg)
+![Rothschild, Anna und Theodor, und Maria Voehl](../../images/stolpersteine/ba6026eb3357_stolperst_schumannstr_24_rothschild_anne_suzanne.jpg)
+![Rothschild, Anna und Theodor, und Maria Voehl](../../images/stolpersteine/71469db06ef5_stolperst_schumannstr_24_rothschild_theodor.jpg)
+![Rothschild, Anna und Theodor, und Maria Voehl](../../images/stolpersteine/22c6d4a6f313_stolperst_schumannstr_24_voehl_maria.jpg)
 
 ## Links
 

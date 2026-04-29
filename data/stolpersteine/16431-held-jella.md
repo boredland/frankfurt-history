@@ -11,7 +11,7 @@ filters:
 
 *Marbachweg 339*
 
-![Stolperstein Held, Jella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/marbachweg_339_haus.jpg)
+![Stolperstein Held, Jella](../../images/stolpersteine/99b30eb589ad_marbachweg_339_haus.jpg)
 
 Jella Held wurde laut Entschädigungsakten in Brühl (Baden) geboren. Die Sterbebücher von Auschwitz verzeichnen München als Geburtsort. Sie war die Tochter von Joseph Wertheimer, der 1925 starb, und Fanny, geb. Reiss. Zwei Brüdern gelang die Flucht in das Exil nach Palästina beziehungsweise Großbritannien; ein Bruder starb 1936 in Nürnberg.
 

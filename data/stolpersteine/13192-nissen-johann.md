@@ -11,7 +11,7 @@ filters:
 
 *Rohrbachstraße 53*
 
-![Stolperstein Nissen, Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/rohrbachstr_53.jpg)
+![Stolperstein Nissen, Johann](../../images/stolpersteine/8dd4e1147732_rohrbachstr_53.jpg)
 
 Johann Nissen lebte mit
 
@@ -440,7 +440,7 @@ Rohrbachstraße 53
 ## Gallery
 
 <!-- gallery:standard -->
-![Nissen, Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_rohrbachstr_53_nissen_johann.jpg)
+![Nissen, Johann](../../images/stolpersteine/501de761f256_stolperst_rohrbachstr_53_nissen_johann.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Friedberger Landstraße 17*
 
-![Stolperstein Kolinski, Berthold, Fanny, Willie und Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/friedberger_landstr_17.jpg)
+![Stolperstein Kolinski, Berthold, Fanny, Willie und Leo](../../images/stolpersteine/a78007aa0931_friedberger_landstr_17.jpg)
 
 Fanny Kolinsky mit Leo und Willie
 
@@ -458,10 +458,10 @@ Friedberger Landstraße 17
 ## Gallery
 
 <!-- gallery:standard -->
-![Kolinski, Berthold, Fanny, Willie und Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/fanny-kolinsky-mit-leo-und-willie.jpg)
-![Kolinski, Berthold, Fanny, Willie und Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/fanny-und-berthold-kolinsky.jpg)
-![Kolinski, Berthold, Fanny, Willie und Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/fanny-und-willie-kolinsky.jpg)
-![Kolinski, Berthold, Fanny, Willie und Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-kolinski-berthold.jpg)
+![Kolinski, Berthold, Fanny, Willie und Leo](../../images/stolpersteine/644aebdce1a4_fanny-kolinsky-mit-leo-und-willie.jpg)
+![Kolinski, Berthold, Fanny, Willie und Leo](../../images/stolpersteine/43f4b16de910_fanny-und-berthold-kolinsky.jpg)
+![Kolinski, Berthold, Fanny, Willie und Leo](../../images/stolpersteine/18cc609c0fca_fanny-und-willie-kolinsky.jpg)
+![Kolinski, Berthold, Fanny, Willie und Leo](../../images/stolpersteine/d5c1081516ad_stolperstein-kolinski-berthold.jpg)
 
 ## Links
 

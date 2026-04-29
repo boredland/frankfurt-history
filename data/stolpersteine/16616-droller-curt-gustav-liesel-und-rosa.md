@@ -12,7 +12,7 @@ filters:
 
 *Scheffelstraße 11*
 
-![Stolperstein Droller, Curt, Gustav, Liesel und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/scheffelstr_11.jpg)
+![Stolperstein Droller, Curt, Gustav, Liesel und Rosa](../../images/stolpersteine/0ea6c921ffa0_scheffelstr_11.jpg)
 
 Gustav Droller
 
@@ -543,11 +543,11 @@ Scheffelstraße 11
 ## Gallery
 
 <!-- gallery:standard -->
-![Droller, Curt, Gustav, Liesel und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstr_11_droller_gustav.jpg)
-![Droller, Curt, Gustav, Liesel und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_scheffelstr_11_droller_gustav.jpg)
-![Droller, Curt, Gustav, Liesel und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_scheffelstr_11_droller_rosa.jpg)
-![Droller, Curt, Gustav, Liesel und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_scheffelstr_11_droller_curt_david.jpg)
-![Droller, Curt, Gustav, Liesel und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_scheffelstr_11_droller_liesel.jpg)
+![Droller, Curt, Gustav, Liesel und Rosa](../../images/stolpersteine/92a0748a8a28_scheffelstr_11_droller_gustav.jpg)
+![Droller, Curt, Gustav, Liesel und Rosa](../../images/stolpersteine/eefe790b6e38_stolperst_scheffelstr_11_droller_gustav.jpg)
+![Droller, Curt, Gustav, Liesel und Rosa](../../images/stolpersteine/b0ee2a2a36d2_stolperst_scheffelstr_11_droller_rosa.jpg)
+![Droller, Curt, Gustav, Liesel und Rosa](../../images/stolpersteine/834dfd2e1d0a_stolperst_scheffelstr_11_droller_curt_david.jpg)
+![Droller, Curt, Gustav, Liesel und Rosa](../../images/stolpersteine/229364de270f_stolperst_scheffelstr_11_droller_liesel.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Oberweg 44*
 
-![Stolperstein Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/oberweg_44.jpg)
+![Stolperstein Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](../../images/stolpersteine/cdad910fc265_oberweg_44.jpg)
 
 Leopold Landsberg kam in Leipzig zur Welt. Bertha
 
@@ -792,19 +792,19 @@ Oberweg 44
 ## Gallery
 
 <!-- gallery:standard -->
-![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/oberweg_44_landsberg_bertha.jpg)
-![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/oberweg_44_landsberg_bertha_und_leopold_mit_freundin.jpg)
-![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/oberweg_44_landsberg_jacob_und_cilia_hochzeit.jpg)
-![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/oberweg_44_landsberg_jacob_und_lambek_lieselotte.jpg)
-![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/oberweg_44_lambek_lieselotte_und_benno_hochzeit.jpg)
-![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_oberweg_44_landsberg_bernhard.jpg)
-![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_oberweg_44_landsberg_bertha.jpg)
-![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_oberweg_44_landsberg_hedwig.jpg)
-![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_oberweg_44_landsberg_jacob.jpg)
-![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_oberweg_44_landsberg_kaethe.jpg)
-![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_oberweg_44_landsberg_leopold.jpg)
-![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_oberweg_44_landsberg_lieselotte.jpg)
-![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_oberweg_44_landsberg_paul.jpg)
+![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](../../images/stolpersteine/7139a7e5e5ad_oberweg_44_landsberg_bertha.jpg)
+![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](../../images/stolpersteine/04e4466d52da_oberweg_44_landsberg_bertha_und_leopold_mit_freundin.jpg)
+![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](../../images/stolpersteine/a2f231b4689a_oberweg_44_landsberg_jacob_und_cilia_hochzeit.jpg)
+![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](../../images/stolpersteine/5d09bd64e107_oberweg_44_landsberg_jacob_und_lambek_lieselotte.jpg)
+![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](../../images/stolpersteine/26807c12f949_oberweg_44_lambek_lieselotte_und_benno_hochzeit.jpg)
+![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](../../images/stolpersteine/05a47bfc0a28_stolperst_oberweg_44_landsberg_bernhard.jpg)
+![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](../../images/stolpersteine/e59877378e31_stolperst_oberweg_44_landsberg_bertha.jpg)
+![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](../../images/stolpersteine/aaecf22567be_stolperst_oberweg_44_landsberg_hedwig.jpg)
+![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](../../images/stolpersteine/fbd3f95258d4_stolperst_oberweg_44_landsberg_jacob.jpg)
+![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](../../images/stolpersteine/cb3a2b885257_stolperst_oberweg_44_landsberg_kaethe.jpg)
+![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](../../images/stolpersteine/6964069259a4_stolperst_oberweg_44_landsberg_leopold.jpg)
+![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](../../images/stolpersteine/ace676444b6c_stolperst_oberweg_44_landsberg_lieselotte.jpg)
+![Landsberg, Bertha, Leopold, Hedwig, Paul, Käthe, Jacob, Lieselotte und Bernhard](../../images/stolpersteine/c25c479c568b_stolperst_oberweg_44_landsberg_paul.jpg)
 
 ## Links
 

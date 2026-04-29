@@ -11,7 +11,7 @@ filters:
 
 *Rhönstraße 2*
 
-![Stolperstein Neumann, Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/rhoenstrasse-2_1.jpg)
+![Stolperstein Neumann, Max](../../images/stolpersteine/c78372f33541_rhoenstrasse-2_1.jpg)
 
 Max Neumann war Kapellmeister und wurde im März 1928 Mitglied von Eintracht Frankfurt. Er gestaltete das künstlerische Rahmenprogramm bei verschiedenen Vereinsfeiern. 1929 wurde ihm vom Verein die Ehrennadel verliehen. Seit der NS-Machtübernahme finden sich keine Belege mehr, dass er bei der Eintracht aktiv war. Beim Endspiel des Makkabi-Kreises 1934 in Frankfurt, bei dem auch der ehemalige Eintrachtler Max Gigurski auf Seiten von Makkabi Frankfurt mitspielte, war Max Neumann in die Feierlichkeiten eingebunden. Am Vorabend der Spiele fand ein künstlerischer Abend unter dem Motto „Ton und Wort“ statt, bei dem Max Neumann durch das Programm führte.
 
@@ -198,9 +198,9 @@ Rhönstraße 2
 ## Gallery
 
 <!-- gallery:standard -->
-![Neumann, Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/rhoenstr_2_max_neumann.jpg)
-![Neumann, Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/rhoenstr_2_neumann_plakat.jpg)
-![Neumann, Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_rhoenstr_2_neumann_max.jpg)
+![Neumann, Max](../../images/stolpersteine/ce73898c32e9_rhoenstr_2_max_neumann.jpg)
+![Neumann, Max](../../images/stolpersteine/abfcff2cc05c_rhoenstr_2_neumann_plakat.jpg)
+![Neumann, Max](../../images/stolpersteine/065a172a2fa7_stolperst_rhoenstr_2_neumann_max.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Throner Straße 8*
 
-![Stolperstein Seeger, Marie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/thronerstr_8.jpg)
+![Stolperstein Seeger, Marie](../../images/stolpersteine/7c2777d55569_thronerstr_8.jpg)
 
 Marie Seeger wurde in Frankfurt am Main
 
@@ -192,7 +192,7 @@ Throner Straße 8
 ## Gallery
 
 <!-- gallery:standard -->
-![Seeger, Marie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_thronerstr_8_seeger_marie.jpg)
+![Seeger, Marie](../../images/stolpersteine/4cce4b1e9a22_stolperst_thronerstr_8_seeger_marie.jpg)
 
 ## Links
 

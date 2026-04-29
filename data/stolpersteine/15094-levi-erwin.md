@@ -11,7 +11,7 @@ filters:
 
 *Allerheiligenstraße 20*
 
-![Stolperstein Levi, Erwin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/allerheiligenstr_20__300x400.jpg)
+![Stolperstein Levi, Erwin](../../images/stolpersteine/1227b1abbdc8_allerheiligenstr_20__300x400.jpg)
 
 Der gebürtige Berliner war Sohn des Uhrmachers Isidor Levi und seiner Frau Rosa, geb. Spieldoch. Die Familie Levi lebte seit 1914 in Frankfurt. Isidor Levi war bis 1936 als Kaufmann und Kassierer bei den Altmetallgroßhandlungen „Heppenheimer“ und „Kaufmann & Sohn“ beschäftigt; später Zwangsarbeiter bei der Firma „Holzhof“. Erwin Levis Schwester Hildegard arbeitete als Lageristin und Packerin bei der Firma „Anna Schillag“ (auch: Chillag oder Csillag), Neue Mainzer Straße 58, wo sie um 1936/37 verfolgungsbedingt entlassen wurde.
 
@@ -168,8 +168,8 @@ Allerheiligenstraße 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Levi, Erwin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/levi_erwin_300x400.jpg)
-![Levi, Erwin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_allerheiligenstr_20_levi_erwin__400x400.jpg)
+![Levi, Erwin](../../images/stolpersteine/96551b84d6a8_levi_erwin_300x400.jpg)
+![Levi, Erwin](../../images/stolpersteine/fd82e824db61_stolperst_allerheiligenstr_20_levi_erwin__400x400.jpg)
 
 ## Links
 

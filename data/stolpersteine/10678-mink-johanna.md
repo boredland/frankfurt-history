@@ -12,7 +12,7 @@ filters:
 
 *Schäfergasse 27*
 
-![Stolperstein Mink, Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/schfergasse_27.jpg)
+![Stolperstein Mink, Johanna](../../images/stolpersteine/3861ee686619_schfergasse_27.jpg)
 
 Johanna
 
@@ -215,7 +215,7 @@ Schäfergasse 27
 ## Gallery
 
 <!-- gallery:standard -->
-![Mink, Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolpersteine_schfergasse_27.jpg)
+![Mink, Johanna](../../images/stolpersteine/9de4ae65e002_stolpersteine_schfergasse_27.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Röderbergweg 41*
 
-![Stolperstein Wermuth, Bernhard und Ida und Hanna und Heinz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/roederbergweg-41_1.jpg)
+![Stolperstein Wermuth, Bernhard und Ida und Hanna und Heinz](../../images/stolpersteine/936df73c320f_roederbergweg-41_1.jpg)
 
 Bernhard und Ida Wermuth mit ihrem Sohn Heinz Wermuth
 
@@ -198,9 +198,9 @@ Röderbergweg 41
 ## Gallery
 
 <!-- gallery:standard -->
-![Wermuth, Bernhard und Ida und Hanna und Heinz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/bernhard-und-ida-wermuth-mit-ihrem-sohn-heinz-wermuth.jpg)
-![Wermuth, Bernhard und Ida und Hanna und Heinz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/wermuth-hanna.jpg)
-![Wermuth, Bernhard und Ida und Hanna und Heinz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-wermuth-bernhard.jpg)
+![Wermuth, Bernhard und Ida und Hanna und Heinz](../../images/stolpersteine/74480370a2ab_bernhard-und-ida-wermuth-mit-ihrem-sohn-heinz-wermuth.jpg)
+![Wermuth, Bernhard und Ida und Hanna und Heinz](../../images/stolpersteine/60325487026b_wermuth-hanna.jpg)
+![Wermuth, Bernhard und Ida und Hanna und Heinz](../../images/stolpersteine/e3d23258018e_stolperstein-wermuth-bernhard.jpg)
 
 ## Links
 

@@ -12,7 +12,7 @@ filters:
 
 *Weberstraße 64*
 
-![Stolperstein Portune, Andreas](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/weberstr_64.jpg)
+![Stolperstein Portune, Andreas](../../images/stolpersteine/edf62e2b774a_weberstr_64.jpg)
 
 Andreas Portune wurde in Sünzhausen bei Freising in
 
@@ -527,9 +527,9 @@ Weberstraße 64
 ## Gallery
 
 <!-- gallery:standard -->
-![Portune, Andreas](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/portune-andreas-1.jpg)
-![Portune, Andreas](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/portune-andreas-2.jpg)
-![Portune, Andreas](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/portune-andreas.jpg)
+![Portune, Andreas](../../images/stolpersteine/366f389e9991_portune-andreas-1.jpg)
+![Portune, Andreas](../../images/stolpersteine/dce4c405fc27_portune-andreas-2.jpg)
+![Portune, Andreas](../../images/stolpersteine/57fe03830530_portune-andreas.jpg)
 
 ## Links
 

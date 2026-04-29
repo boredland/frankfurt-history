@@ -11,7 +11,7 @@ filters:
 
 *Seumestraße 7*
 
-![Stolperstein Stobiecka, Ruchel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/seumestr_7.jpg)
+![Stolperstein Stobiecka, Ruchel](../../images/stolpersteine/6420920b52c2_seumestr_7.jpg)
 
 Ruchel Stobiecka
 
@@ -528,11 +528,11 @@ Seumestraße 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Stobiecka, Ruchel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/seumestr_7_ruchel_stobiecka.jpg)
-![Stobiecka, Ruchel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/seumestr_7_hochzeitsfoto_1929.jpg)
-![Stobiecka, Ruchel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/seumestr_7_ulrichs_erster_schultag_1936.jpg)
-![Stobiecka, Ruchel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/seumestr_7_klassenfotoimphilantropin_1937_ulrich.jpg)
-![Stobiecka, Ruchel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_seumestr_7_stobiecka_ruchel.jpg)
+![Stobiecka, Ruchel](../../images/stolpersteine/4ec85ce7d944_seumestr_7_ruchel_stobiecka.jpg)
+![Stobiecka, Ruchel](../../images/stolpersteine/d3b2b7413fc2_seumestr_7_hochzeitsfoto_1929.jpg)
+![Stobiecka, Ruchel](../../images/stolpersteine/4fa69465103d_seumestr_7_ulrichs_erster_schultag_1936.jpg)
+![Stobiecka, Ruchel](../../images/stolpersteine/919a5d0fd066_seumestr_7_klassenfotoimphilantropin_1937_ulrich.jpg)
+![Stobiecka, Ruchel](../../images/stolpersteine/07cd1c21199e_stolperst_seumestr_7_stobiecka_ruchel.jpg)
 
 ## Links
 

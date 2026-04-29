@@ -11,7 +11,7 @@ filters:
 
 *Hostatostraße 3*
 
-![Stolperstein Cohen, David, Betti, Fritz und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/hostatostr_3_300x400.jpg)
+![Stolperstein Cohen, David, Betti, Fritz und Paul](../../images/stolpersteine/c9cfa46c3724_hostatostr_3_300x400.jpg)
 
 David Cohen wurde in Hochheim geboren und hatte wie sein älterer Bruder Bernhard die niederländische Staatsbürgerschaft. Die beiden Kaufleute gründeten in Höchst ein Bekleidungs- und Stoffgeschäft in der Königsteiner Straße. 1927 heiratete David Cohen Betti Vorschheimer aus Karlstadt (Thüringen), die beiden Söhne Fritz und Paul kamen in Höchst zur Welt. Seit Dezember 1930 wohnte die Familie in der Hostatostraße 3.
 
@@ -184,7 +184,7 @@ Hostatostraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Cohen, David, Betti, Fritz und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_hostatostr3_cohen_david_400x400.jpg)
+![Cohen, David, Betti, Fritz und Paul](../../images/stolpersteine/ae84486bf89b_stolperst_hostatostr3_cohen_david_400x400.jpg)
 
 ## Links
 

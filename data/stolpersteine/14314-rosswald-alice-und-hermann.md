@@ -11,7 +11,7 @@ filters:
 
 *Baumweg 26*
 
-![Stolperstein Rosswald, Alice und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/baumweg_26.jpg)
+![Stolperstein Rosswald, Alice und Hermann](../../images/stolpersteine/9edf692af870_baumweg_26.jpg)
 
 Alice Emilie Roßwald
 
@@ -494,9 +494,9 @@ Baumweg 26
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosswald, Alice und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/baumweg_26_rosswald_herrmann_grabstein.jpg)
-![Rosswald, Alice und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_26_rosswald_alice.jpg)
-![Rosswald, Alice und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baumweg_26_rosswald_hermann.jpg)
+![Rosswald, Alice und Hermann](../../images/stolpersteine/701c32026571_baumweg_26_rosswald_herrmann_grabstein.jpg)
+![Rosswald, Alice und Hermann](../../images/stolpersteine/cfcbb6fbe784_stolperst_baumweg_26_rosswald_alice.jpg)
+![Rosswald, Alice und Hermann](../../images/stolpersteine/9cbdbcac8f5b_stolperst_baumweg_26_rosswald_hermann.jpg)
 
 ## Links
 

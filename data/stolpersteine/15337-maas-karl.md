@@ -11,7 +11,7 @@ filters:
 
 *Gaußstraße 41*
 
-![Stolperstein Maas, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/gaussstr_41.jpg)
+![Stolperstein Maas, Karl](../../images/stolpersteine/c9c9a86cc3af_gaussstr_41.jpg)
 
 Karl Maas
 
@@ -650,11 +650,11 @@ Gaußstraße 41
 ## Gallery
 
 <!-- gallery:standard -->
-![Maas, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/wolfsgangstr_41_karl_maas.jpg)
-![Maas, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/wolfsgangstr_41_karl_maas_judenstern.jpg)
-![Maas, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/wolfsgangstr_41_karl_maas_erinnerungsstueck_aus_theresienstadt.jpg)
-![Maas, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/gaussstr_41_karl_maas_erinnerungsstueck_aus_theresienstadt.jpg)
-![Maas, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_gaussstr_41_maas_karl.jpg)
+![Maas, Karl](../../images/stolpersteine/e42c00a90283_wolfsgangstr_41_karl_maas.jpg)
+![Maas, Karl](../../images/stolpersteine/0f48897ca606_wolfsgangstr_41_karl_maas_judenstern.jpg)
+![Maas, Karl](../../images/stolpersteine/06cb1bc0cfa5_wolfsgangstr_41_karl_maas_erinnerungsstueck_aus_theresiensta.jpg)
+![Maas, Karl](../../images/stolpersteine/14575329e462_gaussstr_41_karl_maas_erinnerungsstueck_aus_theresienstadt.j.jpg)
+![Maas, Karl](../../images/stolpersteine/955f8fdcc1ae_stolperst_gaussstr_41_maas_karl.jpg)
 
 ## Links
 

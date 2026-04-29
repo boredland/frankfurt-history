@@ -11,7 +11,7 @@ filters:
 
 *Schulstraße 26*
 
-![Stolperstein Perlhefter, Günther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/schulstrasse-26_1.jpg)
+![Stolperstein Perlhefter, Günther](../../images/stolpersteine/5ec9ab6bb882_schulstrasse-26_1.jpg)
 
 Günther Perlhefter wurde in Frankfurt geboren und am 13.9.1931 in der Dreikönigsgemeinde Frankfurt von Pfarrer Frank getauft. Seine Eltern waren Albert Perlhefter, geb. am 19.11.1909 in Frankfurt, und Anni Perlhefter, geb. Seibel, geb. am 11.8.1911. Die Ehe der Eltern wurde im November 1937 geschieden, die Mutter starb am 14.12.1937 an TBC, der Vater am 29.9.1941 in Mauthausen.
 
@@ -146,7 +146,7 @@ Schulstraße 26
 ## Gallery
 
 <!-- gallery:standard -->
-![Perlhefter, Günther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolpersteine_schulstrasse_26.jpg)
+![Perlhefter, Günther](../../images/stolpersteine/9ffcbf7ed8ab_stolpersteine_schulstrasse_26.jpg)
 
 ## Links
 

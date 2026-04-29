@@ -11,7 +11,7 @@ filters:
 
 *Bockenheimer Anlage 37*
 
-![Stolperstein Bodenheimer, Bertha, Gabriele und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/bockenheimer_anlage_37.jpg)
+![Stolperstein Bodenheimer, Bertha, Gabriele und Heinrich](../../images/stolpersteine/ddcda8dcccf5_bockenheimer_anlage_37.jpg)
 
 Bertha
 
@@ -538,10 +538,10 @@ Bockenheimer Anlage 37
 ## Gallery
 
 <!-- gallery:standard -->
-![Bodenheimer, Bertha, Gabriele und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/bockenheimer_anlage_37_bodenheimer_dokument.jpg)
-![Bodenheimer, Bertha, Gabriele und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bockenheimer_anlage_37_bodenheimer_heinrich.jpg)
-![Bodenheimer, Bertha, Gabriele und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bockenheimer_anlage_37_bodenheimer_bertha.jpg)
-![Bodenheimer, Bertha, Gabriele und Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bockenheimer_anlage_37_bodenheimer_gabriele.jpg)
+![Bodenheimer, Bertha, Gabriele und Heinrich](../../images/stolpersteine/a6816d7dad4e_bockenheimer_anlage_37_bodenheimer_dokument.jpg)
+![Bodenheimer, Bertha, Gabriele und Heinrich](../../images/stolpersteine/4ae1420368e9_stolperst_bockenheimer_anlage_37_bodenheimer_heinrich.jpg)
+![Bodenheimer, Bertha, Gabriele und Heinrich](../../images/stolpersteine/8a15797348a2_stolperst_bockenheimer_anlage_37_bodenheimer_bertha.jpg)
+![Bodenheimer, Bertha, Gabriele und Heinrich](../../images/stolpersteine/f722002c895b_stolperst_bockenheimer_anlage_37_bodenheimer_gabriele.jpg)
 
 ## Links
 

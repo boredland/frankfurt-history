@@ -11,7 +11,7 @@ filters:
 
 *Bornheimer Landwehr 85*
 
-![Stolperstein Strauss, Dina und Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/bornheimer_landwehr_85.jpg)
+![Stolperstein Strauss, Dina und Auguste](../../images/stolpersteine/730606713da2_bornheimer_landwehr_85.jpg)
 
 Auguste
 
@@ -160,15 +160,15 @@ Bornheimer Landwehr 85
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauss, Dina und Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/bornheimer_landwehr_85_strauss_auguste.jpg)
-![Strauss, Dina und Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/bornheimer_landwehr_85_strauss_dina_1.jpg)
-![Strauss, Dina und Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/bornheimer_landwehr_85_strauss_dina_2.jpg)
-![Strauss, Dina und Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/bornheimer_landwehr_85_strauss_dina_3.jpg)
-![Strauss, Dina und Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/bornheimer_landwehr_85_strauss_dina_4.jpg)
-![Strauss, Dina und Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/bornheimer_landwehr_85_strauss_dina_5.jpg)
-![Strauss, Dina und Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/bornheimer_landwehr_85_strauss_dina_6.jpg)
-![Strauss, Dina und Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_bornheimer_landwehr_85_strauss_dina.jpg)
-![Strauss, Dina und Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_bornheimer_landwehr_85_strauss_dina.jpg)
+![Strauss, Dina und Auguste](../../images/stolpersteine/2312967f6492_bornheimer_landwehr_85_strauss_auguste.jpg)
+![Strauss, Dina und Auguste](../../images/stolpersteine/da81309cfb99_bornheimer_landwehr_85_strauss_dina_1.jpg)
+![Strauss, Dina und Auguste](../../images/stolpersteine/a0418b6c44db_bornheimer_landwehr_85_strauss_dina_2.jpg)
+![Strauss, Dina und Auguste](../../images/stolpersteine/f9b177bb0345_bornheimer_landwehr_85_strauss_dina_3.jpg)
+![Strauss, Dina und Auguste](../../images/stolpersteine/410708ea9564_bornheimer_landwehr_85_strauss_dina_4.jpg)
+![Strauss, Dina und Auguste](../../images/stolpersteine/26559d1f61bb_bornheimer_landwehr_85_strauss_dina_5.jpg)
+![Strauss, Dina und Auguste](../../images/stolpersteine/016284cfd723_bornheimer_landwehr_85_strauss_dina_6.jpg)
+![Strauss, Dina und Auguste](../../images/stolpersteine/f95513d58666_stolperst_bornheimer_landwehr_85_strauss_dina.jpg)
+![Strauss, Dina und Auguste](../../images/stolpersteine/f95513d58666_stolperst_bornheimer_landwehr_85_strauss_dina.jpg)
 
 ## Links
 

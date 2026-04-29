@@ -11,7 +11,7 @@ filters:
 
 *Königsteiner Straße 3b*
 
-![Stolperstein Kühn, Hermann und Klara und Julia Hamlet](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/koenigsteinerstr_3b__300x400.jpg)
+![Stolperstein Kühn, Hermann und Klara und Julia Hamlet](../../images/stolpersteine/07a4f534a8ad_koenigsteinerstr_3b__300x400.jpg)
 
 Herman Kühn stammte aus Hannover und zog wahrscheinlich nach der Heirat mit Emma Hamlet am 1.7.1917 nach Höchst in die Königsteiner Str. 3b ein, in der sich das von deren Vater gegründete Lederwarengeschäft befand. Hermann Kühn hatte väterlicherseits zwei nichtjüdische und mütterlicherseits zwei jüdische Großelternteile. Im März 1922 wurde Tochter, Emma, geboren, die Mutter starb bei oder kurz nach der Geburt und wurde auf dem Sodener Friedhof begraben. Danach übernahm er das Geschäft, das nun „Lederwaren E. Hamlet, Inh. Hermann Kühn“ hieß. 1923 heiratete er in zweiter Ehe Klara Katzenstein aus Hannover, geboren in Kemnade Kreis Holzminden. Julia Hamlet, wahrscheinlich die Schwester der verstorbenen Emma Hamlet, wohnte ebenfalls im Haus und arbeitete als Verkäuferin.
 
@@ -170,7 +170,7 @@ Königsteiner Straße 3b
 ## Gallery
 
 <!-- gallery:standard -->
-![Kühn, Hermann und Klara und Julia Hamlet](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_koenigsteinerstr_3b_kuehn_hermann__400x400.jpg)
+![Kühn, Hermann und Klara und Julia Hamlet](../../images/stolpersteine/72d7e60aad91_stolperst_koenigsteinerstr_3b_kuehn_hermann__400x400.jpg)
 
 ## Links
 

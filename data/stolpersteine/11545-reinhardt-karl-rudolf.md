@@ -11,7 +11,7 @@ filters:
 
 *Schützenstraße 7*
 
-![Stolperstein Reinhardt, Karl Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/schuetzenstr_7.jpg)
+![Stolperstein Reinhardt, Karl Rudolf](../../images/stolpersteine/5108c5492386_schuetzenstr_7.jpg)
 
 Karl Rudolf Reinhardt wurde in Hilders im Kreis Gersfeld in der Rhön geboren, in der heutigen Marktstraße 14 (Gasthof „Zur Sonne“). Er hatte noch mindestens einen Halbbruder. Von 1892 bis 1900 besuchte er die Volksschulen in Hilders, Fulda und Frankfurt am Main. Anschließend erlernte er einen kaufmännischen Beruf und war in verschiedenen Frankfurter Firmen als kaufmännischer Angestellter tätig.
 
@@ -166,9 +166,9 @@ Schützenstraße 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Reinhardt, Karl Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/schuetzenstr_7_reinhardt_haeftlingskarte.jpg)
-![Reinhardt, Karl Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/schuetzenstr_7_reinhardt_haftbefehl.jpg)
-![Reinhardt, Karl Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_schuetzenstr_7_reinhardt_karl_rudolf.jpg)
+![Reinhardt, Karl Rudolf](../../images/stolpersteine/7cdad9498f6d_schuetzenstr_7_reinhardt_haeftlingskarte.jpg)
+![Reinhardt, Karl Rudolf](../../images/stolpersteine/cb9a3af1bbe8_schuetzenstr_7_reinhardt_haftbefehl.jpg)
+![Reinhardt, Karl Rudolf](../../images/stolpersteine/2aa0cd329844_stolperst_schuetzenstr_7_reinhardt_karl_rudolf.jpg)
 
 ## Links
 

@@ -12,7 +12,7 @@ filters:
 
 *Brückenstraße 47*
 
-![Stolperstein Weis, Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/brckenstr_47.jpg)
+![Stolperstein Weis, Hedwig](../../images/stolpersteine/4b0cfb90f1df_brckenstr_47.jpg)
 
 Hedwig
 
@@ -161,7 +161,7 @@ Brückenstraße 47
 ## Gallery
 
 <!-- gallery:standard -->
-![Weis, Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_brckenstr_47_weis-hedwig.jpg)
+![Weis, Hedwig](../../images/stolpersteine/23a7ce61fd2c_stolperst_brckenstr_47_weis-hedwig.jpg)
 
 ## Links
 

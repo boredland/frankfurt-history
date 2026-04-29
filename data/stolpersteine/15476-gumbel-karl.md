@@ -11,7 +11,7 @@ filters:
 
 *Kettenhofweg 109*
 
-![Stolperstein Gumbel, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/kettenhofweg_109.jpg)
+![Stolperstein Gumbel, Karl](../../images/stolpersteine/99cb32e96522_kettenhofweg_109.jpg)
 
 Karl Gumbel wurde in Bruchsal als Sohn des Kaufmannes Emil Gumbel und
 
@@ -512,8 +512,8 @@ Kettenhofweg 109
 ## Gallery
 
 <!-- gallery:standard -->
-![Gumbel, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/kettenhofweg_109_grabstein_auf_dem_juedischen_friedhof.jpg)
-![Gumbel, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_kettenhofweg_109_gumbel_karl.jpg)
+![Gumbel, Karl](../../images/stolpersteine/d6edcf2e88d3_kettenhofweg_109_grabstein_auf_dem_juedischen_friedhof.jpg)
+![Gumbel, Karl](../../images/stolpersteine/1705c5db57af_stolperst_kettenhofweg_109_gumbel_karl.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Treburer Straße 25*
 
-![Stolperstein Blasius, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/treburer_str_25_neu.jpg)
+![Stolperstein Blasius, Martha](../../images/stolpersteine/d86ef26be110_treburer_str_25_neu.jpg)
 
 Martha Blasius wurde in Mainz geboren, und lebte seit 1934 mit ihrem nichtjüdischen Ehemann August Blasius und ihrer 1928 geborenen Tochter Anneliese in der Treburer Straße 25, 1.OG. August Blasius war Textilhandelsvertreter für renommierte Firmen und Martha Blasius führte das Büro. Als sich Kunden über „diese Jüdin am Telefon“ beschwerten, musste Martha Blasius 1937 ihre Bürotätigkeit niederlegen.
 
@@ -120,7 +120,7 @@ Treburer Straße 25
 ## Gallery
 
 <!-- gallery:standard -->
-![Blasius, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/blasius_martha.jpg)
+![Blasius, Martha](../../images/stolpersteine/5730e18bd521_blasius_martha.jpg)
 
 ## Links
 

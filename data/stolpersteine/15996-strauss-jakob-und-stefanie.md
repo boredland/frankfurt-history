@@ -11,7 +11,7 @@ filters:
 
 *Auf der Körnerwiese 15 II*
 
-![Stolperstein Strauß, Jakob und Stefanie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/auf_der_koernerwiese_15.jpg)
+![Stolperstein Strauß, Jakob und Stefanie](../../images/stolpersteine/6e61380653e4_auf_der_koernerwiese_15.jpg)
 
 Jacob Strauß wurde in Langen geboren, Stefanie, geb. Bachmann, in Offenbach. 1920 gründete Jacob Strauß zusammen mit Jakob Hirschberger die Gummiwerke Odenwald. Die Firma stellte Fahrradreifen und Schläuche, Gummisohlen und Gummiplatten her. Zunächst war die Zentrale der Gummiwerke Odenwald in der Mainzer Landstraße 120 in Frankfurt, später in der Mainzer Landstraße 181. Die Produktionsstätte war in Mümling-Grumbach, ab 1926 in Neustadt. 1937 beschäftigte das Unternehmen 435 Arbeiter und 32 Angestellte.Nach 1936 begannen die beiden Unternehmer ernsthaft über den Verkauf der Firma nachzudenken. Sie mussten schließlich 1938 ihre Firma weit unter dem tatsächlichen Wert verkaufen.
 
@@ -466,10 +466,10 @@ Auf der Körnerwiese 15
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauß, Jakob und Stefanie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/auf_der_koernerwiese_15_strauss_gummiwerk.jpg)
-![Strauß, Jakob und Stefanie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/auf_der_koernerwiese_15_strauss_totenschein.jpg)
-![Strauß, Jakob und Stefanie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_auf_der_koernerwiese_15_strauss_jakob.jpg)
-![Strauß, Jakob und Stefanie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_auf_der_koernerwiese_15_strauss_stefanie.jpg)
+![Strauß, Jakob und Stefanie](../../images/stolpersteine/1f8ffc2b39e4_auf_der_koernerwiese_15_strauss_gummiwerk.jpg)
+![Strauß, Jakob und Stefanie](../../images/stolpersteine/4060430f9ceb_auf_der_koernerwiese_15_strauss_totenschein.jpg)
+![Strauß, Jakob und Stefanie](../../images/stolpersteine/59da63d6ea28_stolperst_auf_der_koernerwiese_15_strauss_jakob.jpg)
+![Strauß, Jakob und Stefanie](../../images/stolpersteine/518080d15d91_stolperst_auf_der_koernerwiese_15_strauss_stefanie.jpg)
 
 ## Links
 

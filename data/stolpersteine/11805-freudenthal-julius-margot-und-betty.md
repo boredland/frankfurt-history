@@ -11,7 +11,7 @@ filters:
 
 *Bolongarostraße 128*
 
-![Stolperstein Freudenthal, Julius, Margot und Betty](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/bolongarostr_128__300x400.jpg)
+![Stolperstein Freudenthal, Julius, Margot und Betty](../../images/stolpersteine/974be7ca4ffd_bolongarostr_128__300x400.jpg)
 
 Der Kaufmann Julius Freudenthal stammte aus Wetter im Kreis Marburg. Im Melderegister ist er als Einzelhändler, im Adressbuch als Viehhändler registriert. Am 20.8.1927 heiratete er in Cramberg (Lahn) Betti Strauß aus Wasenbach. Gemeinsam ziehen sie in die Kurmainzerstraße 44. Im Juli 1928 kommt Tochter, Margot, in Höchst zur Welt. 1932 folgt der Umzug in die Kurmainzerstraße 21 und 1936 in die Bolongarostr. 128. Das Haus gehörte bis 1938 Julius Würzburger, ihre Wohnung war zuvor von der ebenfalls jüdischen Familie Kahn bewohnt, die 1936 in die Innenstadt zog. Doch bald wurde das Haus „arisiert“. Die Freudenthals mussten am 25.10.1938 in die Kantstraße 5 umziehen. Wahrscheinlich wurde Julius Freudenthal im Rahmen des Novemberpogroms am 10.11.1938 verhaftet und nach Buchenwald gebracht.
 
@@ -164,8 +164,8 @@ Bolongarostraße 128
 ## Gallery
 
 <!-- gallery:standard -->
-![Freudenthal, Julius, Margot und Betty](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/freudenthal-julius.jpg)
-![Freudenthal, Julius, Margot und Betty](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_bolongarostr_128_freudenthal_julius__400x400.jpg)
+![Freudenthal, Julius, Margot und Betty](../../images/stolpersteine/2c37cfe74f82_freudenthal-julius.jpg)
+![Freudenthal, Julius, Margot und Betty](../../images/stolpersteine/4e05943277fb_stolperst_bolongarostr_128_freudenthal_julius__400x400.jpg)
 
 ## Links
 

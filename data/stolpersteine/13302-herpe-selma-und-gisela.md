@@ -11,7 +11,7 @@ filters:
 
 *Textorstraße 79*
 
-![Stolperstein Herpe, Selma und Gisela](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/textorstrasse-79_1.jpg)
+![Stolperstein Herpe, Selma und Gisela](../../images/stolpersteine/14278884d425_textorstrasse-79_1.jpg)
 
 Selma Herpe wurde am 5.3.1882 in Schneidmühle als Tochter von Julius Feld und Amalie Feld, geb. Goldschmidt, geboren. Ihr Ehemann starb 1918 an den Folgen einer Kriegsverletzung. Sie hatte eine Tochter Gisela, geboren 6.6.1912 und drei Söhne. Ein Sohn starb bereits 1911. Die Familie wohnte zunächst in Essen, wann der Umzug nach Frankfurt in die Textorstraße 79 erfolgte, ist nicht bekannt.
 
@@ -158,7 +158,7 @@ Textorstraße 79
 ## Gallery
 
 <!-- gallery:standard -->
-![Herpe, Selma und Gisela](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_textorstrasse_79_herpe_selma__400x400.jpg)
+![Herpe, Selma und Gisela](../../images/stolpersteine/241ffbd5d132_stolperst_textorstrasse_79_herpe_selma__400x400.jpg)
 
 ## Links
 

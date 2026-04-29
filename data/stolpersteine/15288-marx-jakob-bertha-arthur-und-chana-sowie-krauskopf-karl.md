@@ -12,7 +12,7 @@ filters:
 
 *Feststraße 16*
 
-![Stolperstein Marx, Jakob, Bertha, Arthur und Chana sowie Krauskopf, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/feststr_16.jpg)
+![Stolperstein Marx, Jakob, Bertha, Arthur und Chana sowie Krauskopf, Karl](../../images/stolpersteine/74a1a4def7ef_feststr_16.jpg)
 
 Karl Krauskopf 1940
 
@@ -509,11 +509,11 @@ Feststraße 16
 ## Gallery
 
 <!-- gallery:standard -->
-![Marx, Jakob, Bertha, Arthur und Chana sowie Krauskopf, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/feststr_16_krauskopf_karl.jpg)
-![Marx, Jakob, Bertha, Arthur und Chana sowie Krauskopf, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/feststr_16_marx_bertha.jpg)
-![Marx, Jakob, Bertha, Arthur und Chana sowie Krauskopf, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_feststr_16_marx_jakob.jpg)
-![Marx, Jakob, Bertha, Arthur und Chana sowie Krauskopf, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_feststr_16_marx_bertha.jpg)
-![Marx, Jakob, Bertha, Arthur und Chana sowie Krauskopf, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_feststr_16_marx_arthur.jpg)
+![Marx, Jakob, Bertha, Arthur und Chana sowie Krauskopf, Karl](../../images/stolpersteine/e2b81a6ec3fa_feststr_16_krauskopf_karl.jpg)
+![Marx, Jakob, Bertha, Arthur und Chana sowie Krauskopf, Karl](../../images/stolpersteine/9d6c306acaa3_feststr_16_marx_bertha.jpg)
+![Marx, Jakob, Bertha, Arthur und Chana sowie Krauskopf, Karl](../../images/stolpersteine/6141fd5a42e7_stolperst_feststr_16_marx_jakob.jpg)
+![Marx, Jakob, Bertha, Arthur und Chana sowie Krauskopf, Karl](../../images/stolpersteine/d3f73ccb0edd_stolperst_feststr_16_marx_bertha.jpg)
+![Marx, Jakob, Bertha, Arthur und Chana sowie Krauskopf, Karl](../../images/stolpersteine/9d07c53d13ee_stolperst_feststr_16_marx_arthur.jpg)
 
 ## Links
 

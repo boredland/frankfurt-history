@@ -11,7 +11,7 @@ filters:
 
 *Holzhausenstraße 3*
 
-![Stolperstein Pollitz, Desiree](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/holzhausenstr_3.jpg)
+![Stolperstein Pollitz, Desiree](../../images/stolpersteine/c53b37621f1a_holzhausenstr_3.jpg)
 
 Desy Pollitz war Sängerin und Musikpädagogin für Gesang. 1927 erscheint ihr Buch „Durch Technik zur Kunst der Sprache und des Gesanges". Als junge Frau lebte sie einige Jahre bei Verwandten in New York. Seit etwa 1925 wohnte sie in der Leerbachstraße 82, dann in der Holzhausenstraße 3, zuletzt in der Scheffel Straße 26/11.
 
@@ -402,8 +402,8 @@ Holzhausenstraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Pollitz, Desiree](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/gebaeude-holzhausenstrasse-3.jpg)
-![Pollitz, Desiree](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-pollitz-desy.jpg)
+![Pollitz, Desiree](../../images/stolpersteine/2db8eccfd717_gebaeude-holzhausenstrasse-3.jpg)
+![Pollitz, Desiree](../../images/stolpersteine/9da6798532dc_stolperstein-pollitz-desy.jpg)
 
 ## Links
 

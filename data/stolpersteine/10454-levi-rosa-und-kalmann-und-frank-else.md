@@ -11,7 +11,7 @@ filters:
 
 *Leverkuser Straße 9*
 
-![Stolperstein Levi Rosa und Kalmann und Frank Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/leverkuserstrasse_9_haus.jpg)
+![Stolperstein Levi Rosa und Kalmann und Frank Else](../../images/stolpersteine/c1a2075c55f8_leverkuserstrasse_9_haus.jpg)
 
 Familie Levi
 
@@ -146,7 +146,7 @@ Leverkuser Straße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Levi Rosa und Kalmann und Frank Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/familie-levi.jpg)
+![Levi Rosa und Kalmann und Frank Else](../../images/stolpersteine/11b732471f76_familie-levi.jpg)
 
 ## Links
 

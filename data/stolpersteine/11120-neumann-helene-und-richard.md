@@ -11,7 +11,7 @@ filters:
 
 *Grüneburgweg 103*
 
-![Stolperstein Neumann, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/grueneburgweg_103_neu.jpg)
+![Stolperstein Neumann, Helene und Richard](../../images/stolpersteine/100739a4747d_grueneburgweg_103_neu.jpg)
 
 Neumann, Helene
 
@@ -470,8 +470,8 @@ Grüneburgweg 103
 ## Gallery
 
 <!-- gallery:standard -->
-![Neumann, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/neumann-helene.jpg)
-![Neumann, Helene und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/und-ihre-kinder-gega-richard-annemie-und-elisabeth-neumann.jpg)
+![Neumann, Helene und Richard](../../images/stolpersteine/30c211ab7eac_neumann-helene.jpg)
+![Neumann, Helene und Richard](../../images/stolpersteine/7c0ea1b634e7_und-ihre-kinder-gega-richard-annemie-und-elisabeth-neumann.j.jpg)
 
 ## Links
 

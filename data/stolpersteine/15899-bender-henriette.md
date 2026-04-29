@@ -11,7 +11,7 @@ filters:
 
 *Weberstraße 72*
 
-![Stolperstein Bender, Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/weberstr_72.jpg)
+![Stolperstein Bender, Henriette](../../images/stolpersteine/fdf4d5250512_weberstr_72.jpg)
 
 Henriette Bender, auch Henny genannt, wurde in Diez (Lahn) geboren und war mit dem Metzger Moritz Bender verheiratet. Die Familie Bender wurde am 27.01.1904 von der Glauburgstraße 28 in die Weberstraße 72 umgemeldet, wo sie eine Metzgerei betrieben. Während ihr Ehemann Soldat im Ersten Weltkrieg war, führte Henriette Bender die Metzgerei allein weiter. Sie hatten zwei Töchter und einen Sohn: Irma, geb. 1902, Herta, geb. 1909, und Manfred, geb. 1906.
 
@@ -416,10 +416,10 @@ Weberstraße 72
 ## Gallery
 
 <!-- gallery:standard -->
-![Bender, Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/bender-henriette.jpg)
-![Bender, Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/bender-moritz.jpg)
-![Bender, Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/henriette-und-herta-bender.jpg)
-![Bender, Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-bender-henriette.jpg)
+![Bender, Henriette](../../images/stolpersteine/243375d43e29_bender-henriette.jpg)
+![Bender, Henriette](../../images/stolpersteine/c796778c7d1a_bender-moritz.jpg)
+![Bender, Henriette](../../images/stolpersteine/e5cf001e2a00_henriette-und-herta-bender.jpg)
+![Bender, Henriette](../../images/stolpersteine/27101a51113b_stolperstein-bender-henriette.jpg)
 
 ## Links
 

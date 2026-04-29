@@ -11,7 +11,7 @@ filters:
 
 *Große Friedberger Straße 44*
 
-![Stolperstein Goldschmidt, Jenny und Isaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/grosse_friedberger_strasse_44__300x400.jpg)
+![Stolperstein Goldschmidt, Jenny und Isaak](../../images/stolpersteine/2e455e3370d1_grosse_friedberger_strasse_44__300x400.jpg)
 
 Jenny Goldschmidt, geb. Glauberg, stammt aus Langenselbold, ihr Ehemann, der  Kaufmann Herz Goldschmidt, war bereits 1926 gestorben. Sie ist die Mutter von Isaak E. Goldschmidt; von Ludwig und von Caroline (Carry), die Julius Simon heiratete. Für ihn ist ein Stolperstein in der Falkensteinerstr. 1 verlegt. Caroline Goldschmidt lebte nach dem Zweiten Weltkrieg in der Bundesrepublik Deutschland.
 
@@ -178,9 +178,9 @@ Große Friedberger Straße 44
 ## Gallery
 
 <!-- gallery:standard -->
-![Goldschmidt, Jenny und Isaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldschmidt-jenny.jpg)
-![Goldschmidt, Jenny und Isaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_grosse_friedberger_strasse_44_goldschmidt_jenny__400x400.jpg)
-![Goldschmidt, Jenny und Isaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_grosse_friedberger_strasse_44_goldschmidt_isaak__400x400.jpg)
+![Goldschmidt, Jenny und Isaak](../../images/stolpersteine/6fba32ad4089_goldschmidt-jenny.jpg)
+![Goldschmidt, Jenny und Isaak](../../images/stolpersteine/fd6d4ec33b01_stolperst_grosse_friedberger_strasse_44_goldschmidt_jenny__4.jpg)
+![Goldschmidt, Jenny und Isaak](../../images/stolpersteine/f66e14522080_stolperst_grosse_friedberger_strasse_44_goldschmidt_isaak__4.jpg)
 
 ## Links
 

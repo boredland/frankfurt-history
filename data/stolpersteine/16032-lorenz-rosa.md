@@ -12,7 +12,7 @@ filters:
 
 *Bockenheimer Landstraße 79*
 
-![Stolperstein Lorenz, Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/bockenheimer_landstr_79.jpg)
+![Stolperstein Lorenz, Rosa](../../images/stolpersteine/6b0413595815_bockenheimer_landstr_79.jpg)
 
 Rosa
 
@@ -493,7 +493,7 @@ Bockenheimer Landstraße 79
 ## Gallery
 
 <!-- gallery:standard -->
-![Lorenz, Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bockenheimer_landstr_79_lorenz_rosa.jpg)
+![Lorenz, Rosa](../../images/stolpersteine/2a683c131116_stolperst_bockenheimer_landstr_79_lorenz_rosa.jpg)
 
 ## Links
 

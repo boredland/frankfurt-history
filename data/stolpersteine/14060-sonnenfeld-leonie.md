@@ -11,7 +11,7 @@ filters:
 
 *Sandweg 14*
 
-![Stolperstein Sonnenfeld, Leonie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/sandweg-14_1.jpg)
+![Stolperstein Sonnenfeld, Leonie](../../images/stolpersteine/5fbfa5a011b5_sandweg-14_1.jpg)
 
 Leonie Sonnenfeld stammte aus Hannover und war ledig. Ihre letzte Frankfurter Adresse war Sandweg 14/ III.
 
@@ -190,7 +190,7 @@ Sandweg 14
 ## Gallery
 
 <!-- gallery:standard -->
-![Sonnenfeld, Leonie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-sonnenfeld-leonie.jpg)
+![Sonnenfeld, Leonie](../../images/stolpersteine/8c8ca4872235_stolperstein-sonnenfeld-leonie.jpg)
 
 ## Links
 

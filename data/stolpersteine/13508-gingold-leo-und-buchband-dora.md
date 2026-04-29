@@ -11,7 +11,7 @@ filters:
 
 *Breite Gasse 23*
 
-![Stolperstein Gingold, Leo und Buchband, Dora](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/breite_gasse_23_400x300.jpg)
+![Stolperstein Gingold, Leo und Buchband, Dora](../../images/stolpersteine/260042885a04_breite_gasse_23_400x300.jpg)
 
 Dora Buchband geborene Gingold und Harry Buchband Hochzeit 1936
 
@@ -188,10 +188,10 @@ Breite Gasse 23
 ## Gallery
 
 <!-- gallery:standard -->
-![Gingold, Leo und Buchband, Dora](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/dora-buchband-geborene-gingold-und-harry-buchband-hochzeit-1936.jpg)
-![Gingold, Leo und Buchband, Dora](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/gingold-leo.jpg)
-![Gingold, Leo und Buchband, Dora](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_breitegasse23_gingold_leo_400x400.jpg)
-![Gingold, Leo und Buchband, Dora](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_breitegasse23_buchband_dora_400x400.jpg)
+![Gingold, Leo und Buchband, Dora](../../images/stolpersteine/7e967666eec6_dora-buchband-geborene-gingold-und-harry-buchband-hochzeit-1.jpg)
+![Gingold, Leo und Buchband, Dora](../../images/stolpersteine/2bbe811a38cc_gingold-leo.jpg)
+![Gingold, Leo und Buchband, Dora](../../images/stolpersteine/166386d060e1_stolperst_breitegasse23_gingold_leo_400x400.jpg)
+![Gingold, Leo und Buchband, Dora](../../images/stolpersteine/9ab1889757d0_stolperst_breitegasse23_buchband_dora_400x400.jpg)
 
 ## Links
 

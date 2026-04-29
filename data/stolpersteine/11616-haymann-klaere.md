@@ -11,7 +11,7 @@ filters:
 
 *Treburer Straße 25*
 
-![Stolperstein Haymann, Kläre](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/treburer_str_25_neu.jpg)
+![Stolperstein Haymann, Kläre](../../images/stolpersteine/d86ef26be110_treburer_str_25_neu.jpg)
 
 Kläre Haymann war die
 
@@ -234,7 +234,7 @@ Treburer Straße 25
 ## Gallery
 
 <!-- gallery:standard -->
-![Haymann, Kläre](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_treburer_str_25_haymann_klaere.jpg)
+![Haymann, Kläre](../../images/stolpersteine/e9c52b6a5b66_stolperst_treburer_str_25_haymann_klaere.jpg)
 
 ## Links
 

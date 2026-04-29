@@ -11,7 +11,7 @@ filters:
 
 *Diesterwegstraße 7*
 
-![Stolperstein Ullmann, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/diesterwegstrasse-7_1.jpg)
+![Stolperstein Ullmann, Heinrich](../../images/stolpersteine/bc370688c0de_diesterwegstrasse-7_1.jpg)
 
 Heinrich Ullmann wurde in Worms in der Judengasse 19 als Sohn des Handelsmannes Moritz Ullmann und dessen Frau Therese, geb. Strauss, geboren. Er lernte den Beruf des Schriftsetzers. Am 4. Juni 1919 heiratete er Klara Freund und am 1. Dezember 1924 wurde ihr Sohn Heinz in Frankfurt geboren. Die Ehe war nach nationalsozialistischer Definition eine Mischehe; seine Ehefrau Klara ließ sich nicht scheiden.
 
@@ -148,7 +148,7 @@ Diesterwegstraße 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Ullmann, Heinrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_diesterwegstr_7_ullmann_heinrich.jpg)
+![Ullmann, Heinrich](../../images/stolpersteine/413e0f51ca6a_stolperst_diesterwegstr_7_ullmann_heinrich.jpg)
 
 ## Links
 

@@ -12,7 +12,7 @@ filters:
 
 *Hanauer Landstraße 1*
 
-![Stolperstein Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/hanauer_landstr_1.jpg)
+![Stolperstein Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/3d1d63b5bc7c_hanauer_landstr_1.jpg)
 
 Aron Mainzer wurde
 
@@ -329,22 +329,22 @@ Hanauer Landstraße 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/hanauer_landstr_1_mainzer_aron_1.jpg)
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/hanauer_landstr_1_mainzer_aron_2.jpg)
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/hanauer_landstr_1_mainzer_aron_3.jpg)
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/hanauer_landstr_1_mainzer_aron_4.jpg)
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/hanauer_landstr_1_mainzer_aron_5.jpg)
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/hanauer_landstr_1_mainzer_aron_6.jpg)
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/hanauer_landstr_1_mainzer_aron_7.jpg)
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/hanauer_landstr_1_mainzer_aron_8.jpg)
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/hanauer_landstr_1_mainzer_aron_9.jpg)
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/hanauer_landstr_1_mainzer_ruth.jpg)
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_hanauer_landstr_1_mainzer_aron.jpg)
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_hanauer_landstr_1_mainzer_ida.jpg)
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_hanauer_landstr_1_mainzer_helene.jpg)
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_hanauer_landstr_1_mainzer_ruth.jpg)
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_hanauer_landstr_1_mainzer_jona.jpg)
-![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_hanauer_landstr_1_mainzer_dina.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/e842bb786e47_hanauer_landstr_1_mainzer_aron_1.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/2b8405769da6_hanauer_landstr_1_mainzer_aron_2.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/dcfb29006cba_hanauer_landstr_1_mainzer_aron_3.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/af6407af6de2_hanauer_landstr_1_mainzer_aron_4.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/c8b66f43da0e_hanauer_landstr_1_mainzer_aron_5.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/bb685bab35e4_hanauer_landstr_1_mainzer_aron_6.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/cb48aa0b8580_hanauer_landstr_1_mainzer_aron_7.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/f9e1cd3578ab_hanauer_landstr_1_mainzer_aron_8.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/789ecdfd95ff_hanauer_landstr_1_mainzer_aron_9.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/68933c9c6597_hanauer_landstr_1_mainzer_ruth.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/b3f11a162799_stolperst_hanauer_landstr_1_mainzer_aron.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/454e97142535_stolperst_hanauer_landstr_1_mainzer_ida.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/b2bd5b2318cf_stolperst_hanauer_landstr_1_mainzer_helene.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/15251f54d27f_stolperst_hanauer_landstr_1_mainzer_ruth.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/9283927d9359_stolperst_hanauer_landstr_1_mainzer_jona.jpg)
+![Mainzer, Aron, Ida, Helene, Ruth, Jona und Dina](../../images/stolpersteine/f8480b417a5d_stolperst_hanauer_landstr_1_mainzer_dina.jpg)
 
 ## Links
 

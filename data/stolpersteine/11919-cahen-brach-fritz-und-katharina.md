@@ -12,7 +12,7 @@ filters:
 
 *Friedberger Landstraße 77*
 
-![Stolperstein Cahen-Brach, Fritz und Katharina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/friedberger_landstr_77.jpg)
+![Stolperstein Cahen-Brach, Fritz und Katharina](../../images/stolpersteine/f9e68d6978a9_friedberger_landstr_77.jpg)
 
 Fritz Adolf Cahen-Brach wurde gemeinsam mit seinem
 
@@ -577,9 +577,9 @@ Friedberger Landstraße 77
 ## Gallery
 
 <!-- gallery:standard -->
-![Cahen-Brach, Fritz und Katharina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/friedberger_-landstr_77_cahen-brach_fritz_1.jpg)
-![Cahen-Brach, Fritz und Katharina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_friedberger_landstr_77_cahen-brach_fritz.jpg)
-![Cahen-Brach, Fritz und Katharina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_friedberger_landstr_77_cahen-brach_katharina.jpg)
+![Cahen-Brach, Fritz und Katharina](../../images/stolpersteine/ba4b765eba01_friedberger_-landstr_77_cahen-brach_fritz_1.jpg)
+![Cahen-Brach, Fritz und Katharina](../../images/stolpersteine/4723dcee3ef6_stolperst_friedberger_landstr_77_cahen-brach_fritz.jpg)
+![Cahen-Brach, Fritz und Katharina](../../images/stolpersteine/3904c3201acc_stolperst_friedberger_landstr_77_cahen-brach_katharina.jpg)
 
 ## Links
 

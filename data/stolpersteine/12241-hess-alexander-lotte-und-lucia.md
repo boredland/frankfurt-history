@@ -12,7 +12,7 @@ filters:
 
 *Musikantenweg 39*
 
-![Stolperstein Hess, Alexander, Lotte und Lucia](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/musikantenweg_39.jpg)
+![Stolperstein Hess, Alexander, Lotte und Lucia](../../images/stolpersteine/5a71ed938d30_musikantenweg_39.jpg)
 
 Alexander
 
@@ -461,9 +461,9 @@ Musikantenweg 39
 ## Gallery
 
 <!-- gallery:standard -->
-![Hess, Alexander, Lotte und Lucia](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_musikantenweg_39_hess_alexander.jpg)
-![Hess, Alexander, Lotte und Lucia](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_musikantenweg_39_hess_lotte.jpg)
-![Hess, Alexander, Lotte und Lucia](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_musikantenweg_39_hess_lucia.jpg)
+![Hess, Alexander, Lotte und Lucia](../../images/stolpersteine/ab9978a49beb_stolperst_musikantenweg_39_hess_alexander.jpg)
+![Hess, Alexander, Lotte und Lucia](../../images/stolpersteine/e1b06d555d97_stolperst_musikantenweg_39_hess_lotte.jpg)
+![Hess, Alexander, Lotte und Lucia](../../images/stolpersteine/511016b3953a_stolperst_musikantenweg_39_hess_lucia.jpg)
 
 ## Links
 

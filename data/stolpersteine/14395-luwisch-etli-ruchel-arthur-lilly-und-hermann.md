@@ -12,7 +12,7 @@ filters:
 
 *Kaiserstraße 58c*
 
-![Stolperstein Luwisch, Etli Ruchel, Arthur, Lilly und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/kaiserstr_58c.jpg)
+![Stolperstein Luwisch, Etli Ruchel, Arthur, Lilly und Hermann](../../images/stolpersteine/55ae92de7817_kaiserstr_58c.jpg)
 
 Etli (Else oder Elia) Ruchel Luwisch, geb. Wiesel,
 
@@ -189,10 +189,10 @@ Kaiserstraße 58c
 ## Gallery
 
 <!-- gallery:standard -->
-![Luwisch, Etli Ruchel, Arthur, Lilly und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_elbestr_29_luwisch_etli.jpg)
-![Luwisch, Etli Ruchel, Arthur, Lilly und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_elbestr_29_luwisch_arthur.jpg)
-![Luwisch, Etli Ruchel, Arthur, Lilly und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_elbestr_29_luwisch_lilly.jpg)
-![Luwisch, Etli Ruchel, Arthur, Lilly und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_elbestr_29_luwisch_hermann.jpg)
+![Luwisch, Etli Ruchel, Arthur, Lilly und Hermann](../../images/stolpersteine/25b36a8ed2de_stolperst_elbestr_29_luwisch_etli.jpg)
+![Luwisch, Etli Ruchel, Arthur, Lilly und Hermann](../../images/stolpersteine/7ffd60d526dc_stolperst_elbestr_29_luwisch_arthur.jpg)
+![Luwisch, Etli Ruchel, Arthur, Lilly und Hermann](../../images/stolpersteine/ceabc8d03751_stolperst_elbestr_29_luwisch_lilly.jpg)
+![Luwisch, Etli Ruchel, Arthur, Lilly und Hermann](../../images/stolpersteine/fa0ae006a295_stolperst_elbestr_29_luwisch_hermann.jpg)
 
 ## Links
 

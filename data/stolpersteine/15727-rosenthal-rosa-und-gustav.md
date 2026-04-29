@@ -11,7 +11,7 @@ filters:
 
 *Rödelheimer Landstraße 130*
 
-![Stolperstein Rosenthal, Rosa und Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/roedelheimer_landstrasse_130__300x400.jpg)
+![Stolperstein Rosenthal, Rosa und Gustav](../../images/stolpersteine/e24993150e5e_roedelheimer_landstrasse_130__300x400.jpg)
 
 Rosa Rosenthal, geb. Odenheimer, stammt aus Wiesloch im heutigen Rhein-Neckar-Kreis und war die Tochter von Bernhard Odenheimer und Hinette Odenheimer, geb. Goldschmidt. Ihr Ehemann Gustav wurde in Langenhain bei Hofheim im Taunus geboren. Er war der Sohn von Jakob Rosenthal und Sophie Rosenthal, geb. Scheuer.
 
@@ -128,8 +128,8 @@ Rödelheimer Landstraße 130
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenthal, Rosa und Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_roedelheimer_landstrasse_130_rosenthal_gustav__400x400.jpg)
-![Rosenthal, Rosa und Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_roedelheimer_landstrasse_130_rosenthal_rosa__400x373.jpg)
+![Rosenthal, Rosa und Gustav](../../images/stolpersteine/34d0bb0faf1b_stolperst_roedelheimer_landstrasse_130_rosenthal_gustav__400.jpg)
+![Rosenthal, Rosa und Gustav](../../images/stolpersteine/bc5661a85754_stolperst_roedelheimer_landstrasse_130_rosenthal_rosa__400x3.jpg)
 
 ## Links
 

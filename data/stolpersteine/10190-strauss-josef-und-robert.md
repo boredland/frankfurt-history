@@ -11,7 +11,7 @@ filters:
 
 *Fahrgasse 18-20*
 
-![Stolperstein Strauß, Josef und Robert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/fahrgasse_18_20_haus2.jpg)
+![Stolperstein Strauß, Josef und Robert](../../images/stolpersteine/80bb99be1027_fahrgasse_18_20_haus2.jpg)
 
 Robert, Josef, Adolf, Leopold, Berta und Lazarus Strauß
 
@@ -92,7 +92,7 @@ Fahrgasse 18-20
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauß, Josef und Robert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/robert-josef-adolf-leopold-berta-und-lazarus-strauss.jpg)
+![Strauß, Josef und Robert](../../images/stolpersteine/a6bb2d326c6a_robert-josef-adolf-leopold-berta-und-lazarus-strauss.jpg)
 
 ## Links
 

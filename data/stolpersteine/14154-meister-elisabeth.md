@@ -11,7 +11,7 @@ filters:
 
 *Thorwaldsenstraße 20*
 
-![Stolperstein Meister, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/thorwaldsenstr_20.jpg)
+![Stolperstein Meister, Elisabeth](../../images/stolpersteine/9d23f59ceb1d_thorwaldsenstr_20.jpg)
 
 Elisabeth Meister wurde in Hechtsheim bei Mainz als Tochter des
 
@@ -206,7 +206,7 @@ Thorwaldsenstraße 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Meister, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_thorwaldsenstr_20_meister_elisabeth.jpg)
+![Meister, Elisabeth](../../images/stolpersteine/39431c66db95_stolperst_thorwaldsenstr_20_meister_elisabeth.jpg)
 
 ## Links
 

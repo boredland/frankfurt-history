@@ -11,7 +11,7 @@ filters:
 
 *Königsteiner Straße 40*
 
-![Stolperstein Levy, Amalie und Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/koenigsteiner_strasse_40__300x400.jpg)
+![Stolperstein Levy, Amalie und Hugo](../../images/stolpersteine/1e42590af14d_koenigsteiner_strasse_40__300x400.jpg)
 
 Hugo Levy wurde  in Wanne-Eickel/Westfalen geboren. Schon früh zog er mit seinen Eltern nach Essen. Dort ging er zur Schule, absolvierte eine kaufmännische Ausbildung und heiratete 1906 die in Essen geborene Amalie Adler. Hugo Levy nannte seine Frau liebevoll Mally, wie aus einer Feldpostkarte hervorgeht. Nach der Heirat zog das Paar nach Höchst. Hugo Levy war zunächst Geschäftsführer des Herrenkonfektionshauses Carsch, eröffnete aber noch im gleichen Jahr ein eigenes Herrenmodengeschäft in der Königsteiner Str. 14. In einer Großanzeige im Höchster Kreisblatt wurde dies mit einem Foto des Geschäfts angekündigt. Die Firma Levy beschäftigte vier Maßschneider und sechs Verkäufer. Hugo Levy wählte in der gutbürgerlichen zweiten Kategorie des bis 1918 herrschenden Drei-Klassen-Wahlrechts.
 
@@ -160,7 +160,7 @@ Königsteiner Straße 40
 ## Gallery
 
 <!-- gallery:standard -->
-![Levy, Amalie und Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_koenigsteinerstrasse_40_levy_amalie__400x400.jpg)
+![Levy, Amalie und Hugo](../../images/stolpersteine/cc10b090a071_stolperst_koenigsteinerstrasse_40_levy_amalie__400x400.jpg)
 
 ## Links
 

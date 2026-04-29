@@ -11,7 +11,7 @@ filters:
 
 *Tevesstraße 43*
 
-![Stolperstein Fehler, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/tevestrasse_43__300x400.jpg)
+![Stolperstein Fehler, Karl](../../images/stolpersteine/67048a054edb_tevestrasse_43__300x400.jpg)
 
 Karl Fehler und Familie
 
@@ -98,7 +98,7 @@ Tevesstraße 43
 ## Gallery
 
 <!-- gallery:standard -->
-![Fehler, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_tevesstr_43_fehler_karl_400x400.jpg)
+![Fehler, Karl](../../images/stolpersteine/240fce603aa4_stolperst_tevesstr_43_fehler_karl_400x400.jpg)
 
 ## Links
 

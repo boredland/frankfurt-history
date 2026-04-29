@@ -12,7 +12,7 @@ filters:
 
 *Am Leonhardsbrunn 7*
 
-![Stolperstein Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/am_leonardsbrunn_7.jpg)
+![Stolperstein Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](../../images/stolpersteine/33d5ce011fbe_am_leonardsbrunn_7.jpg)
 
 Eduard Schwarzschild wurde in
 
@@ -295,16 +295,16 @@ Am Leonardsbrunn 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/am_leonardsbrunn_7_schwarzschild_eduard_1.jpg)
-![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/am_leonardsbrunn_7_schwarzschild_eduard_2.jpg)
-![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/am_leonardsbrunn_7_schwarzschild_eduard_3.jpg)
-![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/am_leonardsbrunn_7_schwarzschild_eduard_4.jpg)
-![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_am_leonardsbrunn_7_schwartzschild_eduard.jpg)
-![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_am_leonardsbrunn_7_schwartzschild_blanche.jpg)
-![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_am_leonardsbrunn_7_schwartzschild_maximilian.jpg)
-![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_am_leonardsbrunn_7_schwartzschild_lilo.jpg)
-![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_am_leonardsbrunn_7_schwartzschild_heinz.jpg)
-![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_am_leonardsbrunn_7_schwartzschild_franz.jpg)
+![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](../../images/stolpersteine/73e3d38b2b48_am_leonardsbrunn_7_schwarzschild_eduard_1.jpg)
+![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](../../images/stolpersteine/3de6a08e88f8_am_leonardsbrunn_7_schwarzschild_eduard_2.jpg)
+![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](../../images/stolpersteine/6ecb9e9094d2_am_leonardsbrunn_7_schwarzschild_eduard_3.jpg)
+![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](../../images/stolpersteine/4ab4401f95e6_am_leonardsbrunn_7_schwarzschild_eduard_4.jpg)
+![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](../../images/stolpersteine/cc1036c96bbc_stolperst_am_leonardsbrunn_7_schwartzschild_eduard.jpg)
+![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](../../images/stolpersteine/853cd9e26177_stolperst_am_leonardsbrunn_7_schwartzschild_blanche.jpg)
+![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](../../images/stolpersteine/014b4795715d_stolperst_am_leonardsbrunn_7_schwartzschild_maximilian.jpg)
+![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](../../images/stolpersteine/8f61a9bba7f4_stolperst_am_leonardsbrunn_7_schwartzschild_lilo.jpg)
+![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](../../images/stolpersteine/96b398bb2c2b_stolperst_am_leonardsbrunn_7_schwartzschild_heinz.jpg)
+![Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz](../../images/stolpersteine/53f909eed8b0_stolperst_am_leonardsbrunn_7_schwartzschild_franz.jpg)
 
 ## Links
 

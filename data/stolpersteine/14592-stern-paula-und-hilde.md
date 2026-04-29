@@ -11,7 +11,7 @@ filters:
 
 *Hufnagelstraße 22*
 
-![Stolperstein Stern, Paula und Hilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/hufnagelstr_22.jpg)
+![Stolperstein Stern, Paula und Hilde](../../images/stolpersteine/889626a063e7_hufnagelstr_22.jpg)
 
 Paula Stern geb. Baer wurde in Bruchsal geboren und war mit Sally Stern aus Friedberg verheiratet, der am 15.3.1930 in Frankfurt starb. Aus der Ehe ging die in Frankfurt geborene Tochter Hildegard hervor. Die Mutter war Inhaberin des Kaufhauses „Zum wahren Jakob“, Hufnagelstraße 22. Die Liegenschaft gehörte ebenso wie das Haus Klingerstraße 6 zum Eigentum der Familie.
 
@@ -104,8 +104,8 @@ Hufnagelstraße 22
 ## Gallery
 
 <!-- gallery:standard -->
-![Stern, Paula und Hilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_hufnagelstr_22_stern_hildegard.jpg)
-![Stern, Paula und Hilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_hufnagelstr_22_stern_paula.jpg)
+![Stern, Paula und Hilde](../../images/stolpersteine/58a9fcc13d13_stolperst_hufnagelstr_22_stern_hildegard.jpg)
+![Stern, Paula und Hilde](../../images/stolpersteine/d6c27a33a0aa_stolperst_hufnagelstr_22_stern_paula.jpg)
 
 ## Links
 

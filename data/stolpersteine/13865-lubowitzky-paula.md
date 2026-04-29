@@ -12,7 +12,7 @@ filters:
 
 *Loreleistraße 6*
 
-![Stolperstein Lubowitzky, Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolpersteine_loreleistr_6.jpg)
+![Stolperstein Lubowitzky, Paula](../../images/stolpersteine/e50eb0999b64_stolpersteine_loreleistr_6.jpg)
 
 Paula Lubowitzky wurde in
 
@@ -245,7 +245,7 @@ Loreleistraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Lubowitzky, Paula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/lubowitzky-paula.jpg)
+![Lubowitzky, Paula](../../images/stolpersteine/bfb997376a1e_lubowitzky-paula.jpg)
 
 ## Links
 

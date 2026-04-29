@@ -11,7 +11,7 @@ filters:
 
 *Melemstraße 19*
 
-![Stolperstein Jacob, Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/melemstr_19.jpg)
+![Stolperstein Jacob, Rudolf](../../images/stolpersteine/854a9d64e9a9_melemstr_19.jpg)
 
 Jacob, Rudolf 2
 
@@ -410,11 +410,11 @@ Melemstraße 19
 ## Gallery
 
 <!-- gallery:standard -->
-![Jacob, Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/jacob-rudolf-2.jpg)
-![Jacob, Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/hochzeit-minnie-und-rudolf-jacob.jpg)
-![Jacob, Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/jacob-rudolf.jpg)
-![Jacob, Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/jacob-minnie.jpg)
-![Jacob, Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-jacob-rudolf.jpg)
+![Jacob, Rudolf](../../images/stolpersteine/e53e25351db0_jacob-rudolf-2.jpg)
+![Jacob, Rudolf](../../images/stolpersteine/d9ccc7100f4f_hochzeit-minnie-und-rudolf-jacob.jpg)
+![Jacob, Rudolf](../../images/stolpersteine/bbb30ef5b2b1_jacob-rudolf.jpg)
+![Jacob, Rudolf](../../images/stolpersteine/5acf0d66e70f_jacob-minnie.jpg)
+![Jacob, Rudolf](../../images/stolpersteine/b6e32de1942f_stolperstein-jacob-rudolf.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Apostelstraße 20*
 
-![Stolperstein Chocholous, Sara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/apostelstr_20.jpg)
+![Stolperstein Chocholous, Sara](../../images/stolpersteine/f3c9b1d88e49_apostelstr_20.jpg)
 
 Sara Chocholous wurde in Winzenheim im Elsaß geboren. Sie war verheiratet mit Franz Chocholous, geb. 1877 in Bohdanec (Österreich-Mähren). Dieser arbeitete entweder in einem der vielen Reitställe in Niederrad oder beim Gestüt Waldfried der Gebrüder Weinberg. Das Ehepaar hatte zwei Söhne, Albert (geb. 1907) und René (geb. 1909), und wohnte in der Gundhofstraße 11.
 
@@ -124,7 +124,7 @@ Apostelstraße 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Chocholous, Sara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/chocholous_sara.jpg)
+![Chocholous, Sara](../../images/stolpersteine/751d4b8dc55c_chocholous_sara.jpg)
 
 ## Links
 

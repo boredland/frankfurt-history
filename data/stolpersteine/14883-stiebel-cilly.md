@@ -11,7 +11,7 @@ filters:
 
 *Röderbergweg 77*
 
-![Stolperstein Stiebel, Cilly](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/roederbergweg-77_1.jpg)
+![Stolperstein Stiebel, Cilly](../../images/stolpersteine/80116a80ed94_roederbergweg-77_1.jpg)
 
 Cilly Stiebel, geb. Schloss, wurde in Tauberbischofsheim geboren. Sie war vermutlich Witwe und hatte einen Sohn, der 1950 in den USA starb. Frankfurter Adressen waren die Versorgungsanstalt für Israeliten, Röderbergweg 77, zuletzt Jüdisches Altersheim, Hermesweg 5-7. Ab 01.11.1942 firmierte diese Anschrift offiziell als „Gemeinschaftsunterkunft für Juden"; es handelte sich um ein Gestapo-Zwangslager, in dem Verfolgte vor ihrer Deportation aus Frankfurt zwangsweise konzentriert wurden.
 
@@ -192,7 +192,7 @@ Röderbergweg 77
 ## Gallery
 
 <!-- gallery:standard -->
-![Stiebel, Cilly](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-stiebel-cilly.jpg)
+![Stiebel, Cilly](../../images/stolpersteine/2129a2935c8c_stolperstein-stiebel-cilly.jpg)
 
 ## Links
 

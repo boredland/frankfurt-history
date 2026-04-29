@@ -11,7 +11,7 @@ filters:
 
 *Merianstraße 39*
 
-![Stolperstein Brück, Blanka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/merianstr_39.jpg)
+![Stolperstein Brück, Blanka](../../images/stolpersteine/22cfeeb4b696_merianstr_39.jpg)
 
 Blanka Brück wurde in Klein-Umstadt geboren als Tochter von Simon Blumhof (1870-1933) und Selma Blumhof, geb. Grünebaum (1870-1940) und war mit dem katholischen Karl August Brück (1900-1967) verheiratet. Aus der 1921 geschlossenen Ehe ging der im selben Jahr 1921 geborene Sohn Kurt hervor. Die Brücks wohnten zunächst abwechselnd in Groß-Umstadt und Frankfurt. August Brück, in Groß-Umstadt arbeitslos, konnte 1933 in Frankfurt als Monteur in einem von zwei Bekannten gegründeten Rolladengeschäft arbeiten. Als dieses nach dem Ausstieg eines Teilhabers zum Verkauf stand, konnte er es erwerben und es mithilfe jüdischer Hausbesitzer und der jüdischen Gemeinde ausbauen. Wegen seiner jüdischen Frau gelang es ihm zunächst kaum, „christliche Kunden“ zu werben. Die Rolladenfabrik Brück & Schultheiss befand sich in der Merianstraße 39.
 
@@ -404,8 +404,8 @@ Merianstraße 39
 ## Gallery
 
 <!-- gallery:standard -->
-![Brück, Blanka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/brueck-blanka.jpg)
-![Brück, Blanka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-brueck-blanka.jpg)
+![Brück, Blanka](../../images/stolpersteine/9226ec36499a_brueck-blanka.jpg)
+![Brück, Blanka](../../images/stolpersteine/c2e8052c055a_stolperstein-brueck-blanka.jpg)
 
 ## Links
 

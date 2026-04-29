@@ -12,7 +12,7 @@ filters:
 
 *Westendstraße 98*
 
-![Stolperstein Koref, Recha und Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/westendstr_98.jpg)
+![Stolperstein Koref, Recha und Leo](../../images/stolpersteine/a6333cfc7004_westendstr_98.jpg)
 
 Recha Koref wurde in Halberstadt geboren. Sie war
 
@@ -531,9 +531,9 @@ Westendstraße 98
 ## Gallery
 
 <!-- gallery:standard -->
-![Koref, Recha und Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/westendstr_98_koref_leo_1.jpg)
-![Koref, Recha und Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_westendstr_98_koref_recha.jpg)
-![Koref, Recha und Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_westendstr_98_koref_leo.jpg)
+![Koref, Recha und Leo](../../images/stolpersteine/8dcacd128dc6_westendstr_98_koref_leo_1.jpg)
+![Koref, Recha und Leo](../../images/stolpersteine/36c352a37da7_stolperst_westendstr_98_koref_recha.jpg)
+![Koref, Recha und Leo](../../images/stolpersteine/2d69d01900d0_stolperst_westendstr_98_koref_leo.jpg)
 
 ## Links
 

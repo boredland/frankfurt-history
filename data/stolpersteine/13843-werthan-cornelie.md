@@ -11,7 +11,7 @@ filters:
 
 *Lersnerstraße 30a*
 
-![Stolperstein Werthan, Cornelie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/lersnerstrasse_30a.jpg)
+![Stolperstein Werthan, Cornelie](../../images/stolpersteine/b51647eba0b4_lersnerstrasse_30a.jpg)
 
 Cornelie Werthan, genannt Nelly, wurde in Worms als
 
@@ -512,8 +512,8 @@ Lersnerstraße 30a
 ## Gallery
 
 <!-- gallery:standard -->
-![Werthan, Cornelie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/lersnerstrasse_30a_werthan_cornelie.jpg)
-![Werthan, Cornelie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_lersnerstrasse_30a_werthan_cornelie.jpg)
+![Werthan, Cornelie](../../images/stolpersteine/61f88d38dce8_lersnerstrasse_30a_werthan_cornelie.jpg)
+![Werthan, Cornelie](../../images/stolpersteine/4a09da83d062_stolperst_lersnerstrasse_30a_werthan_cornelie.jpg)
 
 ## Links
 

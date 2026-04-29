@@ -11,7 +11,7 @@ filters:
 
 *Krifteler Straße 103*
 
-![Stolperstein Pappenheimer, Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/kriftelerstr_103.jpg)
+![Stolperstein Pappenheimer, Ruth](../../images/stolpersteine/a0280175d763_kriftelerstr_103.jpg)
 
 Ruth Pappenheimer wurde in Frankfurt am Main als Tochter von Julius Pappenheimer (Jg. 1893) und Marta, geb. Noll-Hussong (Jg. 1897), geboren. Die Eltern hatten am 5. August 1925 geheiratet, die Mutter war evangelisch, der Vater jüdisch. Die Familie war in Langen gemeldet. Im Alter von drei Jahren wurde Ruth in die Obhut der Großeltern gegeben, die in der Krifteler Straße 103 im Frankfurter Gallus wohnten. Die Mutter war kurz nach der Geburt des Bruders Alfred am 26. März 1928 schwer erkrankt, sie starb am 6. März 1933 in Wiesbaden. Ruth Pappenheimer wurde am 15. Mai 1933 in der evangelischen Friedenskirche in Frankfurt von Pfarrer Fritz Rohrbach getauft und dort am 17. März 1940 von Pfarrer Otto Schell konfirmiert. Sie besuchte die Hellerhofschule bis zu ihrem Volksschulabschluss.
 
@@ -94,7 +94,7 @@ Krifteler Straße 103
 ## Gallery
 
 <!-- gallery:standard -->
-![Pappenheimer, Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_kriftelerstr_103_pappenheimer_ruth.jpg)
+![Pappenheimer, Ruth](../../images/stolpersteine/4d61e94b7ec8_stolperst_kriftelerstr_103_pappenheimer_ruth.jpg)
 
 ## Links
 

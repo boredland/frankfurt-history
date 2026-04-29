@@ -11,7 +11,7 @@ filters:
 
 *Kantstraße 6*
 
-![Stolperstein Stern, Selma und Seligmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/kantstrasse_6.jpg)
+![Stolperstein Stern, Selma und Seligmann](../../images/stolpersteine/4db9ec4ae73d_kantstrasse_6.jpg)
 
 Selma Stern mit Tochter Elfriede
 
@@ -422,11 +422,11 @@ Kantstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Stern, Selma und Seligmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/selma-stern-mit-tochter-elfriede.jpg)
-![Stern, Selma und Seligmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/stern-seligmann.jpg)
-![Stern, Selma und Seligmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/verlobungsanzeige-stern.jpg)
-![Stern, Selma und Seligmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/dokument-kantstrasse-6.jpg)
-![Stern, Selma und Seligmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-stern-selma.jpg)
+![Stern, Selma und Seligmann](../../images/stolpersteine/ae03d1252025_selma-stern-mit-tochter-elfriede.jpg)
+![Stern, Selma und Seligmann](../../images/stolpersteine/32447d622579_stern-seligmann.jpg)
+![Stern, Selma und Seligmann](../../images/stolpersteine/3d7bc85f95e7_verlobungsanzeige-stern.jpg)
+![Stern, Selma und Seligmann](../../images/stolpersteine/03add78583d6_dokument-kantstrasse-6.jpg)
+![Stern, Selma und Seligmann](../../images/stolpersteine/6d26ed007913_stolperstein-stern-selma.jpg)
 
 ## Links
 

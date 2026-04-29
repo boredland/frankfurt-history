@@ -11,7 +11,7 @@ filters:
 
 *Hermannstraße 14*
 
-![Stolperstein Bendix, Levi Meier, Paul und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/hermannstr_14.jpg)
+![Stolperstein Bendix, Levi Meier, Paul und Lotte](../../images/stolpersteine/ee3edec67260_hermannstr_14.jpg)
 
 Levi Meier (Meyer) Bendix wurde in Krotoschin geboren und war mit
 
@@ -494,9 +494,9 @@ Hermannstraße 14
 ## Gallery
 
 <!-- gallery:standard -->
-![Bendix, Levi Meier, Paul und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_hermannstrasse_14_bendix_levi_meier.jpg)
-![Bendix, Levi Meier, Paul und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_hermannstrasse_14_bendix_paul.jpg)
-![Bendix, Levi Meier, Paul und Lotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_hermannstrasse_14_bendix_lotte.jpg)
+![Bendix, Levi Meier, Paul und Lotte](../../images/stolpersteine/6757969621cb_stolperst_hermannstrasse_14_bendix_levi_meier.jpg)
+![Bendix, Levi Meier, Paul und Lotte](../../images/stolpersteine/efdf18defa16_stolperst_hermannstrasse_14_bendix_paul.jpg)
+![Bendix, Levi Meier, Paul und Lotte](../../images/stolpersteine/680c9d6b6c82_stolperst_hermannstrasse_14_bendix_lotte.jpg)
 
 ## Links
 

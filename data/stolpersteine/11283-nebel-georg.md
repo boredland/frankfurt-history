@@ -12,7 +12,7 @@ filters:
 
 *Lachnerstraße 4*
 
-![Stolperstein Nebel, Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/lachnerstr_4.jpg)
+![Stolperstein Nebel, Georg](../../images/stolpersteine/8142ae7f34f3_lachnerstr_4.jpg)
 
 Der  Schreiner
 
@@ -171,7 +171,7 @@ Lachnerstraße 4
 ## Gallery
 
 <!-- gallery:standard -->
-![Nebel, Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/stolperst_lachnerstr_4_nebel_georg.jpg)
+![Nebel, Georg](../../images/stolpersteine/32303b6ad36f_stolperst_lachnerstr_4_nebel_georg.jpg)
 
 ## Links
 

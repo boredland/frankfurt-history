@@ -11,7 +11,7 @@ filters:
 
 *Finkenhofstraße 15*
 
-![Stolperstein Weigert, Carl und Elisabeth und Süß, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/finkenhofstr_15__300x400.jpg)
+![Stolperstein Weigert, Carl und Elisabeth und Süß, Elisabeth](../../images/stolpersteine/bb1ad85619bc_finkenhofstr_15__300x400.jpg)
 
 Amalie Flesch-Thebesius, Hella Flesch und Elisabeth Weigert (vorne)
 
@@ -430,9 +430,9 @@ Finkenhofstraße 15
 ## Gallery
 
 <!-- gallery:standard -->
-![Weigert, Carl und Elisabeth und Süß, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/amalie-flesch-thebesius-hella-flesch-und-elisabeth-weigert-vorne.jpg)
-![Weigert, Carl und Elisabeth und Süß, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-weigert-carl-ernst.jpg)
-![Weigert, Carl und Elisabeth und Süß, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-suess-elisabeth.jpg)
+![Weigert, Carl und Elisabeth und Süß, Elisabeth](../../images/stolpersteine/0094315518d2_amalie-flesch-thebesius-hella-flesch-und-elisabeth-weigert-v.jpg)
+![Weigert, Carl und Elisabeth und Süß, Elisabeth](../../images/stolpersteine/86d4ce5f8667_stolperstein-weigert-carl-ernst.jpg)
+![Weigert, Carl und Elisabeth und Süß, Elisabeth](../../images/stolpersteine/00ceac3808ac_stolperstein-suess-elisabeth.jpg)
 
 ## Links
 

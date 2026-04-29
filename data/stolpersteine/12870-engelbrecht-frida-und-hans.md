@@ -11,7 +11,7 @@ filters:
 
 *Hellerhofstraße 9*
 
-![Stolperstein Engelbrecht, Frida und Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/hellerhofstr_9.jpg)
+![Stolperstein Engelbrecht, Frida und Hans](../../images/stolpersteine/cecdf2a34367_hellerhofstr_9.jpg)
 
 Frida Engelbrecht wurde in Aschenhausen geboren. Sie war laut NS-Definition in „Mischehe“ mit dem Friseur Hans Engelbrecht, geb. am 8.9.1896 in Eltmann, verheiratet. Sie hatten einen am 9.8.1925 geborenen Sohn Ludwig. Die Familie wohnte in der Hellerhofstraße 5.
 
@@ -104,8 +104,8 @@ Hellerhofstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Engelbrecht, Frida und Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_hellerhofstr_9_engelbrecht_frida.jpg)
-![Engelbrecht, Frida und Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_hellerhofstr_9_engelbrecht_hans.jpg)
+![Engelbrecht, Frida und Hans](../../images/stolpersteine/9409809d0dc9_stolperst_hellerhofstr_9_engelbrecht_frida.jpg)
+![Engelbrecht, Frida und Hans](../../images/stolpersteine/6cee18c69402_stolperst_hellerhofstr_9_engelbrecht_hans.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Radilostraße 29*
 
-![Stolperstein Dreyfuss, Amalie, Albert und Siegbert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/radilostrasse-29_1.jpg)
+![Stolperstein Dreyfuss, Amalie, Albert und Siegbert](../../images/stolpersteine/67e72f60c428_radilostrasse-29_1.jpg)
 
 Albert Dreyfuss aus Altdorf war verheiratet mit Amalie, geborene Salomon, verwitwete Rosenthal, aus Hersel. Ihr Sohn Siegbert wurde in Rödelheim geboren. Albert Dreyfuss übte den Beruf des Kaufmanns und Hausverwalters aus. Der erste Ehemann von Amalie Dreyfuss, der Metzger Sally Rosenthal, hatte im eigenen Haus in Rödelheim, Radilostraße 29, einen Viehhandel betrieben, den sie nach seinem Tod von 1922 bis August 1933 weiter führte. Mit ihrem zweiten Mann lebte sie bis 1938 in diesem Haus, das inzwischen der Familie Oppenheimer gehörte. Im April 1938 wurde das Haus an einen Rödelheimer Gastwirt verkauft.
 

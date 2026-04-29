@@ -11,7 +11,7 @@ filters:
 
 *Hedderichstraße 42*
 
-![Stolperstein Krieg, Oscar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/hedderichstr_42.jpg)
+![Stolperstein Krieg, Oscar](../../images/stolpersteine/c9b3a183fe3d_hedderichstr_42.jpg)
 
 Oscar Krieg wurde in Frankfurt am
 
@@ -218,7 +218,7 @@ Hedderichstraße 42
 ## Gallery
 
 <!-- gallery:standard -->
-![Krieg, Oscar](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_hedderichstr_42_krieg_oscar---kopie.jpg)
+![Krieg, Oscar](../../images/stolpersteine/16994fa55341_stolperst_hedderichstr_42_krieg_oscar---kopie.jpg)
 
 ## Links
 

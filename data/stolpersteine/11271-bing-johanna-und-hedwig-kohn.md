@@ -11,7 +11,7 @@ filters:
 
 *Kronberger Straße 28*
 
-![Stolperstein Bing, Johanna und Hedwig Kohn](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/kronberger-strasse-28_1.jpg)
+![Stolperstein Bing, Johanna und Hedwig Kohn](../../images/stolpersteine/b62047727e05_kronberger-strasse-28_1.jpg)
 
 Johanna Bing
 
@@ -470,7 +470,7 @@ Kronberger Straße 28
 ## Gallery
 
 <!-- gallery:standard -->
-![Bing, Johanna und Hedwig Kohn](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperstein_kronberger_28_bing_anna_johanna.jpg)
+![Bing, Johanna und Hedwig Kohn](../../images/stolpersteine/51830786a5a4_stolperstein_kronberger_28_bing_anna_johanna.jpg)
 
 ## Links
 

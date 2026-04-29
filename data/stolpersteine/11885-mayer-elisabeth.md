@@ -11,7 +11,7 @@ filters:
 
 *Fabriciusstraße 11*
 
-![Stolperstein Mayer, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/fabriciusstr_11.jpg)
+![Stolperstein Mayer, Elisabeth](../../images/stolpersteine/92a30f152726_fabriciusstr_11.jpg)
 
 Elisabeth Mayer wurde als Elisabeth Blamm in Zweibrücken geboren. Ihr Vater war
 
@@ -192,10 +192,10 @@ Fabriciusstraße 11
 ## Gallery
 
 <!-- gallery:standard -->
-![Mayer, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/opferbilder/fabriciusstr_11_balthasar_und_elisabeth_mayer.jpg)
-![Mayer, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/opferbilder/fabriciusstr_11_-wasserauto_fuer_missionsfeldzuege.jpg)
-![Mayer, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/opferbilder/fabriciusstr_11_resolution_am_12_12_1936_reichsweit_verteilt.jpg)
-![Mayer, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/stolperst_fabriciusstr_11_mayer_elisabeth.jpg)
+![Mayer, Elisabeth](../../images/stolpersteine/98421f0d850f_fabriciusstr_11_balthasar_und_elisabeth_mayer.jpg)
+![Mayer, Elisabeth](../../images/stolpersteine/97b82f5bcee0_fabriciusstr_11_-wasserauto_fuer_missionsfeldzuege.jpg)
+![Mayer, Elisabeth](../../images/stolpersteine/f236c9d8fdd9_fabriciusstr_11_resolution_am_12_12_1936_reichsweit_verteilt.jpg)
+![Mayer, Elisabeth](../../images/stolpersteine/570a0b8cc8ef_stolperst_fabriciusstr_11_mayer_elisabeth.jpg)
 
 ## Links
 

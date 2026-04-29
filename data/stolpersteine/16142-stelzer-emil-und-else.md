@@ -11,7 +11,7 @@ filters:
 
 *Finkenhofstraße 23*
 
-![Stolperstein Stelzer, Emil und Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/finkenhofstr_23__300x400.jpg)
+![Stolperstein Stelzer, Emil und Else](../../images/stolpersteine/df912fb3864f_finkenhofstr_23__300x400.jpg)
 
 Emil Stelzer (sitzend, 3. von rechts)
 
@@ -440,9 +440,9 @@ Finkenhofstraße 23
 ## Gallery
 
 <!-- gallery:standard -->
-![Stelzer, Emil und Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/emil-stelzer-sitzend-reihe-von-rechts.jpg)
-![Stelzer, Emil und Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/emil-stelzer-hinten-links-als-sportlehrer.jpg)
-![Stelzer, Emil und Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-stelzer-else.jpg)
+![Stelzer, Emil und Else](../../images/stolpersteine/baa7b463d2cd_emil-stelzer-sitzend-reihe-von-rechts.jpg)
+![Stelzer, Emil und Else](../../images/stolpersteine/004dfe56715a_emil-stelzer-hinten-links-als-sportlehrer.jpg)
+![Stelzer, Emil und Else](../../images/stolpersteine/a3e61cad3208_stolperstein-stelzer-else.jpg)
 
 ## Links
 

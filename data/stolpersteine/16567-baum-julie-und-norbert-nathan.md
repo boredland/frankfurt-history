@@ -11,7 +11,7 @@ filters:
 
 *Reuterweg 73*
 
-![Stolperstein Baum, Julie und Norbert Nathan](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/reuterweg_73.jpg)
+![Stolperstein Baum, Julie und Norbert Nathan](../../images/stolpersteine/b37ba286786c_reuterweg_73.jpg)
 
 Norbert Nathan Baum stammte aus einer Metzgerfamilie und kam in Hasselbach im Kreis Usingen als Sohn von Benjamin und Karoline Baum, geb. Heymann zur Welt. Er war Kaufmann und zusammen mit seinem Partner Norbert Plaat Inhaber der Frankfurter Firma „Norbert Harff, Großhandlung für Futterstoffe und Schneiderbedarfsartikel". Bis 1934/35 befanden sich die Geschäftsräume in der Kaiserstraße 44, danach am Großen Kornmarkt 18.
 
@@ -460,9 +460,9 @@ Reuterweg 73
 ## Gallery
 
 <!-- gallery:standard -->
-![Baum, Julie und Norbert Nathan](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/baum-norbert.jpg)
-![Baum, Julie und Norbert Nathan](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/baum-julie.jpg)
-![Baum, Julie und Norbert Nathan](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperstein_reuterweg_73_baum_julie.jpg)
+![Baum, Julie und Norbert Nathan](../../images/stolpersteine/6dffc2f62a7b_baum-norbert.jpg)
+![Baum, Julie und Norbert Nathan](../../images/stolpersteine/7c3847f8b3b9_baum-julie.jpg)
+![Baum, Julie und Norbert Nathan](../../images/stolpersteine/01b0ae922eef_stolperstein_reuterweg_73_baum_julie.jpg)
 
 ## Links
 

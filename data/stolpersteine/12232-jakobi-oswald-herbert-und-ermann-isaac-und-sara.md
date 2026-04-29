@@ -11,7 +11,7 @@ filters:
 
 *Morgensternstraße 36*
 
-![Stolperstein Jakobi, Oswald Herbert und Ermann, Isaac und Sara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/morgensternstrasse-36_1.jpg)
+![Stolperstein Jakobi, Oswald Herbert und Ermann, Isaac und Sara](../../images/stolpersteine/4044c08ee98b_morgensternstrasse-36_1.jpg)
 
 Oswald Herbert Jakobi wurde in Frankfurt geboren und war der Sohn von Siegfried (genannt Fritz) Jakobi, seine Mutter starb am 31.7.1932. Seine Großeltern waren Isaac und Sara Ermann. Der Vater war als Vertreter auf Provisionsbasis für die „Kammgarn-Spinnerei Hardt Pocorny & Co." in Dahlhausen-Wupper tätig; bereits seit der Boykotte 1933 hatte er Einkommenseinbußen hinnehmen müssen und war um 1936/37 gezwungen, das Mehrfamilienhaus Morgensternstraße 36, wo die Familie eine Etage bewohnte, zu verkaufen. Er verlor 1937 oder 1938 seine Anstellung. Er war außerdem Mitbesitzer einer Liegenschaft in seinem Heimatort Grünstadt (Pfalz). Im Zusammenhang mit dem November-Pogrom 1938 wurde die Wohnungseinrichtung zerstört. Der Vater starb am 17.3.1939 an einem Herzanfall.
 
@@ -176,8 +176,8 @@ Morgensternstraße 36
 ## Gallery
 
 <!-- gallery:standard -->
-![Jakobi, Oswald Herbert und Ermann, Isaac und Sara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_morgensternstrasse_36_jakobi_herbert_oswald__400x400.jpg)
-![Jakobi, Oswald Herbert und Ermann, Isaac und Sara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_morgensternstrasse_36_ermann_sara__400x400.jpg)
+![Jakobi, Oswald Herbert und Ermann, Isaac und Sara](../../images/stolpersteine/2c89bc25fd0a_stolperst_morgensternstrasse_36_jakobi_herbert_oswald__400x4.jpg)
+![Jakobi, Oswald Herbert und Ermann, Isaac und Sara](../../images/stolpersteine/5e8067a65200_stolperst_morgensternstrasse_36_ermann_sara__400x400.jpg)
 
 ## Links
 

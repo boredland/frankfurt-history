@@ -11,7 +11,7 @@ filters:
 
 *Kurhessenstraße 63*
 
-![Stolperstein Wolfskehl, Henry](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/kurhesssenstrasse_63_haus.jpg)
+![Stolperstein Wolfskehl, Henry](../../images/stolpersteine/a2100c4e5f3f_kurhesssenstrasse_63_haus.jpg)
 
 Henry Wolfskehl besuchte das Lessing-Gymnasium, nach dem 1897 bestandenen Abitur studierte er Medizin in Heidelberg und Strassburg. 1902 promoviert, wurde er an Psychiatrischen Kliniken in Heidelberg und Mannheim tätig. Zum Militärdienst im ersten Weltkrieg wurde er eingezogen.
 

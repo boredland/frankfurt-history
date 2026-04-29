@@ -11,7 +11,7 @@ filters:
 
 *Am Forum 3*
 
-![Stolperstein Rothenberger, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/am_forum_3.jpg)
+![Stolperstein Rothenberger, Ludwig](../../images/stolpersteine/5ce08a479a10_am_forum_3.jpg)
 
 Ludwig Rothenberger wurde in Frankfurt am Main geboren. Er war zweimal verheiratet. Aus der ersten Ehe stammt ein 1923 geborener Sohn, aus der zweiten zwei Kinder, die 1930 und 1933 geboren wurden. Die Familie zog am 4. September 1929 in die Römerstadt, zuerst in das Burgfeld 43 und dann am 22. November 1931 in das Forum 3. Ludwig Rothenberger war nach NS-Definition in „privilegierter Mischehe“ verheiratet. Seine Ehefrau und die Kinder waren christlich getauft.
 
@@ -100,7 +100,7 @@ Am Forum 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Rothenberger, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/rothenberger-ludwig.jpg)
+![Rothenberger, Ludwig](../../images/stolpersteine/9971cb893f28_rothenberger-ludwig.jpg)
 
 ## Links
 

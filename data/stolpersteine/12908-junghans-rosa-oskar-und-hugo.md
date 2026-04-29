@@ -11,7 +11,7 @@ filters:
 
 *Julius-Heyman-Straße 12*
 
-![Stolperstein Junghans, Rosa, Oskar und Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/julius-heymann-str_12.jpg)
+![Stolperstein Junghans, Rosa, Oskar und Hugo](../../images/stolpersteine/6781e0f1cf25_julius-heymann-str_12.jpg)
 
 Rosa Junghans hatte acht Kinder, den ersten Sohn Hermann brachte sie mit in die Ehe. Sie wohnte über viele Jahre in der Palmstraße 21 (heute Julius-Heyman-Straße 12) mit ihrem Ehemann Bodo Junghans (1879-1937), der verschiedene Berufe hatte wie z.B. Schreiber oder Wirt und ein Geschäft in der Schnurgasse 46 betrieb, wo er mit gebrauchten Möbeln handelte. Am 08.11.1940 zog Rosas Tochter Erna mit ihrem Mann Julius Fuld und dem elfjährigen Sohn Kurt bei Rosa Junghans in die Palmstraße 21 ein. Sie wohnten dort bis zum 10.06.1942.
 
@@ -432,7 +432,7 @@ Julius-Heyman-Straße 12
 ## Gallery
 
 <!-- gallery:standard -->
-![Junghans, Rosa, Oskar und Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-junghans-rosa.jpg)
+![Junghans, Rosa, Oskar und Hugo](../../images/stolpersteine/5cabb97268ef_stolperstein-junghans-rosa.jpg)
 
 ## Links
 

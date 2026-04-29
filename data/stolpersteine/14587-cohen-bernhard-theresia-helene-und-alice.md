@@ -11,7 +11,7 @@ filters:
 
 *Hostatostraße 1*
 
-![Stolperstein Cohen, Bernhard, Theresia, Helene und Alice](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/hostatostr_1_300x300.jpg)
+![Stolperstein Cohen, Bernhard, Theresia, Helene und Alice](../../images/stolpersteine/3650662111fb_hostatostr_1_300x300.jpg)
 
 Bernhard Cohen wurde in Hochheim geboren und hatte wie sein jüngerer Bruder David die niederländische Staatsbürgerschaft. Die beiden Kaufleute gründeten in Höchst ein Bekleidungs- und Stoffgeschäft in der Königsteiner Straße. Bernhard Cohen heiratete 1920 Theresia Hertz aus Erkelenz im Rheinland. Zu Beginn der zwanziger Jahre zog die Familie nach Höchst, 1928 in die Hostatostraße 1.
 
@@ -184,8 +184,8 @@ Hostatostraße 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Cohen, Bernhard, Theresia, Helene und Alice](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/cohen-helene.jpg)
-![Cohen, Bernhard, Theresia, Helene und Alice](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_hostatostr1_cohen_bernhard_400x400ret.jpg)
+![Cohen, Bernhard, Theresia, Helene und Alice](../../images/stolpersteine/4d9975ac50d2_cohen-helene.jpg)
+![Cohen, Bernhard, Theresia, Helene und Alice](../../images/stolpersteine/b5d7eaa3028d_stolperst_hostatostr1_cohen_bernhard_400x400ret.jpg)
 
 ## Links
 

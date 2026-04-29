@@ -11,7 +11,7 @@ filters:
 
 *Kronberger Straße 6*
 
-![Stolperstein Allerhand, Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/kronberger_str_6.jpg)
+![Stolperstein Allerhand, Rosa](../../images/stolpersteine/6b0c1fbf2ccc_kronberger_str_6.jpg)
 
 Rosa Allerhand wurde in Wien geboren. Im Ersten Weltkrieg zog sie mit
 
@@ -482,7 +482,7 @@ Kronberger Straße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Allerhand, Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_kronberger_str_6_allerhand_rosa.jpg)
+![Allerhand, Rosa](../../images/stolpersteine/725c64745a3b_stolperst_kronberger_str_6_allerhand_rosa.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Prächterstraße 21*
 
-![Stolperstein Schmitt, Bertha, Werner, Elfriede und Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/praechterstr_21.jpg)
+![Stolperstein Schmitt, Bertha, Werner, Elfriede und Johann](../../images/stolpersteine/da47ad471036_praechterstr_21.jpg)
 
 Bertha Schmitt wurde
 
@@ -170,11 +170,11 @@ Prächterstraße 21
 ## Gallery
 
 <!-- gallery:standard -->
-![Schmitt, Bertha, Werner, Elfriede und Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/praechterstr_21_ilse_hirsch_elfriede_schmitt.jpg)
-![Schmitt, Bertha, Werner, Elfriede und Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/stolperst_praechterstr_21_schmitt_bertha.jpg)
-![Schmitt, Bertha, Werner, Elfriede und Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/stolperst_praechterstr_21_schmitt_werner.jpg)
-![Schmitt, Bertha, Werner, Elfriede und Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/stolperst_praechterstr_21_schmitt_elfriede.jpg)
-![Schmitt, Bertha, Werner, Elfriede und Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/stolperst_praechterstr_21_schmitt_johann.jpg)
+![Schmitt, Bertha, Werner, Elfriede und Johann](../../images/stolpersteine/4cb45ca8cd31_praechterstr_21_ilse_hirsch_elfriede_schmitt.jpg)
+![Schmitt, Bertha, Werner, Elfriede und Johann](../../images/stolpersteine/a7fb9f5f0aa6_stolperst_praechterstr_21_schmitt_bertha.jpg)
+![Schmitt, Bertha, Werner, Elfriede und Johann](../../images/stolpersteine/d3a995418a4a_stolperst_praechterstr_21_schmitt_werner.jpg)
+![Schmitt, Bertha, Werner, Elfriede und Johann](../../images/stolpersteine/a41f205e5c35_stolperst_praechterstr_21_schmitt_elfriede.jpg)
+![Schmitt, Bertha, Werner, Elfriede und Johann](../../images/stolpersteine/990cdc25970b_stolperst_praechterstr_21_schmitt_johann.jpg)
 
 ## Links
 

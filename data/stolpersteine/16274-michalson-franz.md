@@ -11,7 +11,7 @@ filters:
 
 *Hochmuhl 3*
 
-![Stolperstein Michalson, Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/hochmuhl_32.jpg)
+![Stolperstein Michalson, Franz](../../images/stolpersteine/719e638c79b5_hochmuhl_32.jpg)
 
 Franz Michalson, als Sohn des Kaufmanns und Fabrikbesitzers Max Michalson in Graudenz/Westpreußen geboren, wohnte ab 1930 in der Hochmuhl 3, einer Werkswohnung der damaligen Farbwerke. Seine Frau Ella, geb. Hartleb, stammte aus Celle. Das Paar hatte 1911 in Charlottenburg geheiratet, 1915 kam die Tochter Henni in Braunschweig zur Welt. Franz Michalson war jüdischer Herkunft, hatte aber, wie seine Ehefrau, die evangelische Religionszugehörigkeit. Im Oktober 1932 waren jedoch beide aus der Kirche ausgetreten.
 
@@ -144,7 +144,7 @@ Hochmuhl 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Michalson, Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_hochmuhl_31_michalson_franz.jpg)
+![Michalson, Franz](../../images/stolpersteine/87b746798041_stolperst_hochmuhl_31_michalson_franz.jpg)
 
 ## Links
 

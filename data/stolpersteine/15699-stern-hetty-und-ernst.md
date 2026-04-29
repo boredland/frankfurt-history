@@ -11,7 +11,7 @@ filters:
 
 *Parkstraße 4*
 
-![Stolperstein Stern, Hetty und Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/parkstrasse-4_1.jpg)
+![Stolperstein Stern, Hetty und Ernst](../../images/stolpersteine/116476dc3c05_parkstrasse-4_1.jpg)
 
 Ernst und Hetty Stern waren Geschwister, ihre Eltern Hermann Stern und Johanne, geb. Baer, betrieben im Grüneburgweg 25 eine Metzgerei und Wurstfabrik. Ernst Stern war Leutnant im 1. Weltkrieg und verlor dort beide Beine. Nach dem Krieg verkaufte er den elterlichen Betrieb seinem ehemaligen Lehrling Ludwig Holstein (1885-1954). Vom 1.10.1923 bis zur verfolgungsbedingten Kündigung am 30.6.1938 war er Angestellter für die Deutsche Effecten- und Wechselbank. Er musste dann eine Judenvermögensabgabe von 7.000 Reichsmark entrichten, sein Vater, der 1939 starb, 10.400 Reichsmark.
 
@@ -472,7 +472,7 @@ Parkstraße 4
 ## Gallery
 
 <!-- gallery:standard -->
-![Stern, Hetty und Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hetty-stern-rechts-mit-ellen-holstein.jpg)
+![Stern, Hetty und Ernst](../../images/stolpersteine/42acb9afcc05_hetty-stern-rechts-mit-ellen-holstein.jpg)
 
 ## Links
 

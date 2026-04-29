@@ -11,7 +11,7 @@ filters:
 
 *Michaelstraße 66*
 
-![Stolperstein Weber, Johann Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sossenheim/standorte/michaelstr_66.jpg)
+![Stolperstein Weber, Johann Josef](../../images/stolpersteine/8f0e43f8deea_michaelstr_66.jpg)
 
 Johann Josef Weber heiratete am 22. Januar 1918 Susanne, geb. Knies.
 
@@ -92,7 +92,7 @@ Michaelstraße 66
 ## Gallery
 
 <!-- gallery:standard -->
-![Weber, Johann Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sossenheim/stolperst_michaelstr_66_weber_johann_josef.jpg)
+![Weber, Johann Josef](../../images/stolpersteine/bbb3eb5453fb_stolperst_michaelstr_66_weber_johann_josef.jpg)
 
 ## Links
 

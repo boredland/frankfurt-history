@@ -11,7 +11,7 @@ filters:
 
 *Oeserstraße 54*
 
-![Stolperstein Kahn, Carl und Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/oeserstr_54__400x300.jpg)
+![Stolperstein Kahn, Carl und Jenny](../../images/stolpersteine/1b9cb6fe9e6a_oeserstr_54__400x300.jpg)
 
 Kahn, Carl
 
@@ -90,8 +90,8 @@ Oeserstraße 54
 ## Gallery
 
 <!-- gallery:standard -->
-![Kahn, Carl und Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/kahn-carl.jpg)
-![Kahn, Carl und Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nied/stolperstein-kahn-carl.jpg)
+![Kahn, Carl und Jenny](../../images/stolpersteine/11f7fcb6f820_kahn-carl.jpg)
+![Kahn, Carl und Jenny](../../images/stolpersteine/016838ad93db_stolperstein-kahn-carl.jpg)
 
 ## Links
 

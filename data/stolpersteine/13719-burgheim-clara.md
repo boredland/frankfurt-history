@@ -12,7 +12,7 @@ filters:
 
 *Henry-Budge-Straße 54*
 
-![Stolperstein Burgheim, Clara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/henry_budge_str_54.jpg)
+![Stolperstein Burgheim, Clara](../../images/stolpersteine/ca429e5f8e38_henry_budge_str_54.jpg)
 
 Clara Burgheim, Vornamen auch Klara Louise
 
@@ -133,7 +133,7 @@ Henry-Budge-Straße 54
 ## Gallery
 
 <!-- gallery:standard -->
-![Burgheim, Clara](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/clara-burgheim.jpg)
+![Burgheim, Clara](../../images/stolpersteine/47b824069bd6_clara-burgheim.jpg)
 
 ## Links
 

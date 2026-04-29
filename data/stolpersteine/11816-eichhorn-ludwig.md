@@ -12,7 +12,7 @@ filters:
 
 *Breubergstraße 26*
 
-![Stolperstein Eichhorn, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/breubergstr_25.jpg)
+![Stolperstein Eichhorn, Ludwig](../../images/stolpersteine/0e723be15c77_breubergstr_25.jpg)
 
 Ludwig
 
@@ -331,11 +331,11 @@ Breubergstraße 26
 ## Gallery
 
 <!-- gallery:standard -->
-![Eichhorn, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/breubergstr_26_eichhorn_ludwig_1.jpg)
-![Eichhorn, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/breubergstr_26_eichhorn_ludwig_2.jpg)
-![Eichhorn, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/breubergstr_26_eichhorn_ludwig_3.jpg)
-![Eichhorn, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/breubergstr_26_eichhorn_ludwig_4.jpg)
-![Eichhorn, Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_breubergstr_25_eichhorn_ludwig.jpg)
+![Eichhorn, Ludwig](../../images/stolpersteine/3dda9cb71f89_breubergstr_26_eichhorn_ludwig_1.jpg)
+![Eichhorn, Ludwig](../../images/stolpersteine/02db820e401a_breubergstr_26_eichhorn_ludwig_2.jpg)
+![Eichhorn, Ludwig](../../images/stolpersteine/062b77e4f618_breubergstr_26_eichhorn_ludwig_3.jpg)
+![Eichhorn, Ludwig](../../images/stolpersteine/d2884af59184_breubergstr_26_eichhorn_ludwig_4.jpg)
+![Eichhorn, Ludwig](../../images/stolpersteine/adb965e329d8_stolperst_breubergstr_25_eichhorn_ludwig.jpg)
 
 ## Links
 

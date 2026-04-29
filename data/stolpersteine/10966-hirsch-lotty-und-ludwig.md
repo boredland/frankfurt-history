@@ -11,7 +11,7 @@ filters:
 
 *Brentanostraße 6*
 
-![Stolperstein Hirsch, Lotty und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/brentanostr_6.jpg)
+![Stolperstein Hirsch, Lotty und Ludwig](../../images/stolpersteine/dfffdd31bb5e_brentanostr_6.jpg)
 
 Ludwig Hirsch, geboren 1876 in Speyer, war Sohn von
 
@@ -590,9 +590,9 @@ Brentanostraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Hirsch, Lotty und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/brentanostrasse_6_hirsch_ludwig_und_lotty_in_rotterdam_1937.jpg)
-![Hirsch, Lotty und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_brentanostrasse_6_hirsch_lotty.jpg)
-![Hirsch, Lotty und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_brentanostrasse_6_hirsch_ludwig.jpg)
+![Hirsch, Lotty und Ludwig](../../images/stolpersteine/835956654535_brentanostrasse_6_hirsch_ludwig_und_lotty_in_rotterdam_1937..jpg)
+![Hirsch, Lotty und Ludwig](../../images/stolpersteine/5f5f963374cb_stolperst_brentanostrasse_6_hirsch_lotty.jpg)
+![Hirsch, Lotty und Ludwig](../../images/stolpersteine/a22d706d7798_stolperst_brentanostrasse_6_hirsch_ludwig.jpg)
 
 ## Links
 

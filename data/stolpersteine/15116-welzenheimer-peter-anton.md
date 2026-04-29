@@ -11,7 +11,7 @@ filters:
 
 *Im Eichwäldchen 32*
 
-![Stolperstein Welzenheimer, Peter Anton](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hausen/im_eichwaeldchen_32.jpg)
+![Stolperstein Welzenheimer, Peter Anton](../../images/stolpersteine/b79eba07ffb0_im_eichwaeldchen_32.jpg)
 
 Peter Anton
 
@@ -84,7 +84,7 @@ Am Eichwäldchen 32
 ## Gallery
 
 <!-- gallery:standard -->
-![Welzenheimer, Peter Anton](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hausen/stolperst_im_eichwaeldchen_32_welzenheimer_peter_anton.jpg)
+![Welzenheimer, Peter Anton](../../images/stolpersteine/38761eb23a1f_stolperst_im_eichwaeldchen_32_welzenheimer_peter_anton.jpg)
 
 ## Links
 

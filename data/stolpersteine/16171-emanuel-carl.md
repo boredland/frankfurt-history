@@ -12,7 +12,7 @@ filters:
 
 *Gärtnerweg 12*
 
-![Stolperstein Emanuel, Carl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/gaertnerweg_12.jpg)
+![Stolperstein Emanuel, Carl](../../images/stolpersteine/babec422cb8e_gaertnerweg_12.jpg)
 
 Carl Salomon Emanuel wurde in Mengeringhausen als
 
@@ -515,7 +515,7 @@ Gärtnerweg 12
 ## Gallery
 
 <!-- gallery:standard -->
-![Emanuel, Carl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolpersteine_gaertnerweg_12.jpg)
+![Emanuel, Carl](../../images/stolpersteine/97ddd14ac866_stolpersteine_gaertnerweg_12.jpg)
 
 ## Links
 

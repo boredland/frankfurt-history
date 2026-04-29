@@ -11,7 +11,7 @@ filters:
 
 *Hebelstraße 13*
 
-![Stolperstein Strauss, Brunhilde, Helene und Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/hebelstrasse_13_haus.jpg)
+![Stolperstein Strauss, Brunhilde, Helene und Josef](../../images/stolpersteine/74755b251c7b_hebelstrasse_13_haus.jpg)
 
 Brunhilde Strauss war die Tochter von Salomon Strauss, geboren am 20. März 1885 in Willmenrod, und Johanna, geb. Michel, aus Westerburg, Römerstraße. Sie hatte drei Brüder: Hans, geboren 1914, Julius, geboren 1916, und Kurt, geboren am 29. Dezember 1923. Sie zog am 4. September 1941 von Sandweg 7 in die Hebelstraße 13/II um. Ihr Bruder Kurt wohnte in Frankfurt in der Stegstraße 79 und wurde nach Minsk deportiert, wo er umkam. Ihre Mutter Johanna Strauss wurde am 19. September 1941 in Westerburg in Schutzhaft genommen und am 24. September der Gestapo in Frankfurt überstellt. Der Bruder Hans ist wahrscheinlich nach Palästina ausgewandert.
 
@@ -438,8 +438,8 @@ Hebelstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauss, Brunhilde, Helene und Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-strauss-brunhilde.jpg)
-![Strauss, Brunhilde, Helene und Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-strauss-helene.jpg)
+![Strauss, Brunhilde, Helene und Josef](../../images/stolpersteine/eb96a05151bc_stolperstein-strauss-brunhilde.jpg)
+![Strauss, Brunhilde, Helene und Josef](../../images/stolpersteine/0d10ed7eae83_stolperstein-strauss-helene.jpg)
 
 ## Links
 

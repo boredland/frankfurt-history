@@ -11,7 +11,7 @@ filters:
 
 *Marktstraße 87*
 
-![Stolperstein Seligmann, Ella und Meier](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/marktstrasse_87__400x300.jpg)
+![Stolperstein Seligmann, Ella und Meier](../../images/stolpersteine/b3cdb1c328dd_marktstrasse_87__400x300.jpg)
 
 Meier Seligmann wurde in Höchst an der Nidder geboren. Seit 1895 lebte er in Bergen in der Marktstraße 87. Dort betrieb er eine Metzgerei, die bereits seit 1907 bestand.
 
@@ -106,7 +106,7 @@ Marktstraße 87
 ## Gallery
 
 <!-- gallery:standard -->
-![Seligmann, Ella und Meier](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolperstein-seligmann-ella.jpg)
+![Seligmann, Ella und Meier](../../images/stolpersteine/373d64a84eef_stolperstein-seligmann-ella.jpg)
 
 ## Links
 

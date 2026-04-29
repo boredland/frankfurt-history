@@ -11,7 +11,7 @@ filters:
 
 *Albanusstraße 27*
 
-![Stolperstein Hahn, Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/albanusstrasse_27_haus.jpg)
+![Stolperstein Hahn, Siegfried](../../images/stolpersteine/254e380cbeed_albanusstrasse_27_haus.jpg)
 
 Hochzeitsfoto von Siegfried Hahn und seiner Frau
 
@@ -134,7 +134,7 @@ Albanusstraße 27
 ## Gallery
 
 <!-- gallery:standard -->
-![Hahn, Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/hochzeitsfoto-von-siegfried-hahn-und-seiner-frau.jpg)
+![Hahn, Siegfried](../../images/stolpersteine/00fddc2c53a1_hochzeitsfoto-von-siegfried-hahn-und-seiner-frau.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Martin-Böff-Gasse 5*
 
-![Stolperstein Strauss, Salomon, Johanna und Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/martin_boeff_gasse_5__400x300.jpg)
+![Stolperstein Strauss, Salomon, Johanna und Hedwig](../../images/stolpersteine/dff2108f7335_martin_boeff_gasse_5__400x300.jpg)
 
 Salomon Strauss aus Wachenbuchen und seine Frau Johanna, geb. Becker, hatten drei Töchter.  Rosa, Erna und Hedwig.
 
@@ -100,9 +100,9 @@ Martin-Böff-Gasse 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauss, Salomon, Johanna und Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/stolperst_martin_boeff_gasse_5_strauss_hedwig__400x400.jpg)
-![Strauss, Salomon, Johanna und Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/stolperst_martin_boeff_gasse_5_strauss_johanna__400x400.jpg)
-![Strauss, Salomon, Johanna und Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/stolperst_martin_boeff_gasse_5_strauss_salomon__400x400.jpg)
+![Strauss, Salomon, Johanna und Hedwig](../../images/stolpersteine/0beecf02ca23_stolperst_martin_boeff_gasse_5_strauss_hedwig__400x400.jpg)
+![Strauss, Salomon, Johanna und Hedwig](../../images/stolpersteine/83633af6d990_stolperst_martin_boeff_gasse_5_strauss_johanna__400x400.jpg)
+![Strauss, Salomon, Johanna und Hedwig](../../images/stolpersteine/fab19dec7819_stolperst_martin_boeff_gasse_5_strauss_salomon__400x400.jpg)
 
 ## Links
 

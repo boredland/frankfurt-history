@@ -11,7 +11,7 @@ filters:
 
 *Laubestraße 6*
 
-![Stolperstein Habermehl, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/laubestrasse-6_1.jpg)
+![Stolperstein Habermehl, Martha](../../images/stolpersteine/64d001c04883_laubestrasse-6_1.jpg)
 
 Martha Habermehl, geb. Levy, wurde am 16.5.1900 in Bochum geboren. Sie war Schauspielerin in Bochum und trug dort den Künstlernamen Magda Lenz.
 
@@ -154,11 +154,11 @@ Laubestraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Habermehl, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/habermehl-martha.jpg)
-![Habermehl, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/martha-und-oswald-habermehl.jpg)
-![Habermehl, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/habermehl-martha-2.jpg)
-![Habermehl, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/gestapo-vorladung-habermehl.jpg)
-![Habermehl, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_laubestrasse_6_habermehl_martha__400x400.jpg)
+![Habermehl, Martha](../../images/stolpersteine/c61823c35556_habermehl-martha.jpg)
+![Habermehl, Martha](../../images/stolpersteine/c9be3cc2abed_martha-und-oswald-habermehl.jpg)
+![Habermehl, Martha](../../images/stolpersteine/e317dea898c2_habermehl-martha-2.jpg)
+![Habermehl, Martha](../../images/stolpersteine/3002db6d1e7f_gestapo-vorladung-habermehl.jpg)
+![Habermehl, Martha](../../images/stolpersteine/11d66b6eed8a_stolperst_laubestrasse_6_habermehl_martha__400x400.jpg)
 
 ## Links
 

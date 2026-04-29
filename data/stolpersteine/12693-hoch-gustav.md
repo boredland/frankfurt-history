@@ -11,7 +11,7 @@ filters:
 
 *Egenolffstraße 29*
 
-![Stolperstein Hoch, Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/egenolffstr_29__400x300.jpg)
+![Stolperstein Hoch, Gustav](../../images/stolpersteine/b1bfff457330_egenolffstr_29__400x300.jpg)
 
 Gustav Hoch mit Hund
 
@@ -414,10 +414,10 @@ Egenolffstraße 29
 ## Gallery
 
 <!-- gallery:standard -->
-![Hoch, Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/gustav-hoch-mit-hund.jpg)
-![Hoch, Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/gustav-hoch-mit-klara-hans-und-hund.jpg)
-![Hoch, Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/gustav-hoch-mit-kameraden.jpg)
-![Hoch, Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-hoch-gustav.jpg)
+![Hoch, Gustav](../../images/stolpersteine/96539ff97483_gustav-hoch-mit-hund.jpg)
+![Hoch, Gustav](../../images/stolpersteine/57597ba24993_gustav-hoch-mit-klara-hans-und-hund.jpg)
+![Hoch, Gustav](../../images/stolpersteine/f4eb8fa21edb_gustav-hoch-mit-kameraden.jpg)
+![Hoch, Gustav](../../images/stolpersteine/952cf3ee7203_stolperstein-hoch-gustav.jpg)
 
 ## Links
 

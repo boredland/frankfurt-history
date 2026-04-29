@@ -12,7 +12,7 @@ filters:
 
 *Auf der Körnerwiese 9*
 
-![Stolperstein Nachmann, Alice und Frieda sowie Adler, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/auf_der_koernerwiese_9.jpg)
+![Stolperstein Nachmann, Alice und Frieda sowie Adler, Anna](../../images/stolpersteine/cee45299d3a5_auf_der_koernerwiese_9.jpg)
 
 Alice Nachmann  wurde
 
@@ -619,11 +619,11 @@ Auf der Körnerwiese 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Nachmann, Alice und Frieda sowie Adler, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/auf_der_koernerwiese_9_nachmann_alice.jpg)
-![Nachmann, Alice und Frieda sowie Adler, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/auf_der_koernerwiese_9_adler_anna.jpg)
-![Nachmann, Alice und Frieda sowie Adler, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_auf_der_koernerwiese_9_nachmann_alice.jpg)
-![Nachmann, Alice und Frieda sowie Adler, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_auf_der_koernerwiese_9_nachmann_frieda.jpg)
-![Nachmann, Alice und Frieda sowie Adler, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_auf_der_koernerwiese_9_adler_anna.jpg)
+![Nachmann, Alice und Frieda sowie Adler, Anna](../../images/stolpersteine/4922d89a3cd3_auf_der_koernerwiese_9_nachmann_alice.jpg)
+![Nachmann, Alice und Frieda sowie Adler, Anna](../../images/stolpersteine/ac8a12b20f8f_auf_der_koernerwiese_9_adler_anna.jpg)
+![Nachmann, Alice und Frieda sowie Adler, Anna](../../images/stolpersteine/ff647fc1d991_stolperst_auf_der_koernerwiese_9_nachmann_alice.jpg)
+![Nachmann, Alice und Frieda sowie Adler, Anna](../../images/stolpersteine/4ff602ac65db_stolperst_auf_der_koernerwiese_9_nachmann_frieda.jpg)
+![Nachmann, Alice und Frieda sowie Adler, Anna](../../images/stolpersteine/271a51f2a498_stolperst_auf_der_koernerwiese_9_adler_anna.jpg)
 
 ## Links
 

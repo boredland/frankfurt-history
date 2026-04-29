@@ -11,7 +11,7 @@ filters:
 
 *Hattsteiner Straße 6*
 
-![Stolperstein Brandenstein, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/hattsteinerstr_6.jpg)
+![Stolperstein Brandenstein, Karl](../../images/stolpersteine/91ee91e0c0f4_hattsteinerstr_6.jpg)
 
 Karl Brandenstein kam in Frankfurt-Bonames als jüngstes von vier Kindern zur Welt. Die Familie zog nach Rödelheim, wo Karl zunächst die Körnerschule, später die Arndtschule besuchte. Sein Vater starb bereits 1921. Seitdem lebte Karl mit seiner Mutter im 1. Stock der Hattsteiner Straße 6. Nach der Schule arbeitete Karl Brandenstein zunächst als Hilfsarbeiter und war einige Zeit arbeitslos. Ab 1923 arbeitete er für über acht Jahre als Kupferputzer im Hotel Frankfurter Hof. Danach wechselten Tätigkeiten in verschiedenen Gastronomiebetrieben mit Phasen der Arbeitslosigkeit. Zuletzt, 1938, war er als Lagerarbeiter beschäftigt.
 
@@ -102,8 +102,8 @@ Initiative Stolpersteine
 ## Gallery
 
 <!-- gallery:standard -->
-![Brandenstein, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/opferbilder/hattsteiner_str_6_brandenstein_karl_verlegung_hadamar.jpg)
-![Brandenstein, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/stolperst_hattsteinerstr_6_brandenstein_karl.jpg)
+![Brandenstein, Karl](../../images/stolpersteine/406f0ea1c73c_hattsteiner_str_6_brandenstein_karl_verlegung_hadamar.jpg)
+![Brandenstein, Karl](../../images/stolpersteine/4a72db86f651_stolperst_hattsteinerstr_6_brandenstein_karl.jpg)
 
 ## Links
 

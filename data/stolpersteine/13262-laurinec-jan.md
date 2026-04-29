@@ -11,7 +11,7 @@ filters:
 
 *Schwarzburgstraße 51*
 
-![Stolperstein Laurinec, Jan](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/schwarzburgstr_51.jpg)
+![Stolperstein Laurinec, Jan](../../images/stolpersteine/e26fc9a59abb_schwarzburgstr_51.jpg)
 
 Jan Laurinec wurde in Brehy (Slowakei) geboren. Sein Vater war Stefan Laurinec. Er war ledig, römisch-katholisch, Slowake, von Beruf Friseur und hatte keine Kinder. Seit spätestens 1940 hielt er sich im Deutschen Reich auf. Jan Laurinec ist wahrscheinlich im Rahmen einer offiziellen Anwerbung als „Gastarbeiter" ins Deutsche Reich gekommen. Er war zunächst in der Hans-Handwerk-Straße 25 (Langestraße) untergebracht. Das war ein großer Komplex mit einem von mehreren Firmen genutzten Gemeinschaftslager für bis zu 300 Personen. Arbeitskräfte aus den mit dem Reich verbündeten Staaten (Slowakei, Ungarn, Rumänien, Bulgarien und vor allem Italien) waren rechtlich mit den deutschen Arbeitskräften gleichgestellt. Das erklärt, warum Jan Laurinec später in die Schwarzburgstraße 51 umziehen und privat dort wohnen konnte.
 
@@ -408,7 +408,7 @@ Schwarzburgstraße 51
 ## Gallery
 
 <!-- gallery:standard -->
-![Laurinec, Jan](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-laurinec-jan.jpg)
+![Laurinec, Jan](../../images/stolpersteine/95a3e82be806_stolperstein-laurinec-jan.jpg)
 
 ## Links
 

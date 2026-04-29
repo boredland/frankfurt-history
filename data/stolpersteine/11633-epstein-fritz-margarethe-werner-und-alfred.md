@@ -11,7 +11,7 @@ filters:
 
 *Unterlindau 29*
 
-![Stolperstein Epstein, Fritz, Margarethe, Werner und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/unterlindau-29_1.jpg)
+![Stolperstein Epstein, Fritz, Margarethe, Werner und Alfred](../../images/stolpersteine/67217092c483_unterlindau-29_1.jpg)
 
 Epstein, Fritz
 
@@ -516,14 +516,14 @@ Unterlindau 29
 ## Gallery
 
 <!-- gallery:standard -->
-![Epstein, Fritz, Margarethe, Werner und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/epstein-fritz.jpg)
-![Epstein, Fritz, Margarethe, Werner und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/epstein-fritz-2.jpg)
-![Epstein, Fritz, Margarethe, Werner und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/alfred-margarethe-und-werner-epstein.jpg)
-![Epstein, Fritz, Margarethe, Werner und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/alfred-margarethe-und-werner-epstein-2.jpg)
-![Epstein, Fritz, Margarethe, Werner und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/epstein-alfred.jpg)
-![Epstein, Fritz, Margarethe, Werner und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/epstein-werner.jpg)
-![Epstein, Fritz, Margarethe, Werner und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/epstein-abschied-aus-frankfurt.jpg)
-![Epstein, Fritz, Margarethe, Werner und Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_unterlindau_29_epstein_fritz.jpg)
+![Epstein, Fritz, Margarethe, Werner und Alfred](../../images/stolpersteine/a4aa08559ce7_epstein-fritz.jpg)
+![Epstein, Fritz, Margarethe, Werner und Alfred](../../images/stolpersteine/3daee9985feb_epstein-fritz-2.jpg)
+![Epstein, Fritz, Margarethe, Werner und Alfred](../../images/stolpersteine/6b4be0651156_alfred-margarethe-und-werner-epstein.jpg)
+![Epstein, Fritz, Margarethe, Werner und Alfred](../../images/stolpersteine/2c96a82ec1c1_alfred-margarethe-und-werner-epstein-2.jpg)
+![Epstein, Fritz, Margarethe, Werner und Alfred](../../images/stolpersteine/e4346a50792d_epstein-alfred.jpg)
+![Epstein, Fritz, Margarethe, Werner und Alfred](../../images/stolpersteine/4b11ee9467a1_epstein-werner.jpg)
+![Epstein, Fritz, Margarethe, Werner und Alfred](../../images/stolpersteine/c715d246ba71_epstein-abschied-aus-frankfurt.jpg)
+![Epstein, Fritz, Margarethe, Werner und Alfred](../../images/stolpersteine/40b5f0dfcc39_stolperst_unterlindau_29_epstein_fritz.jpg)
 
 ## Links
 

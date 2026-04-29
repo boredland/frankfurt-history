@@ -11,7 +11,7 @@ filters:
 
 *Stegstraße 53*
 
-![Stolperstein Wahl, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/stegstr_53.jpg)
+![Stolperstein Wahl, Otto](../../images/stolpersteine/967206da1d73_stegstr_53.jpg)
 
 Otto Wahl wurde als Sohn des Konrektors Eduard
 
@@ -276,10 +276,10 @@ Stegstraße 53
 ## Gallery
 
 <!-- gallery:standard -->
-![Wahl, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/stegstr_53_wahl_otto_als_kind.jpg)
-![Wahl, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/stegstr_53_wahl_von_links_eduard_otto_und_rudolf_wahl.jpg)
-![Wahl, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/stegstr_53_wahl_otto_und_freunde_1930.jpg)
-![Wahl, Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_stegstr_53_wahl_otto.jpg)
+![Wahl, Otto](../../images/stolpersteine/a78f5cc8c682_stegstr_53_wahl_otto_als_kind.jpg)
+![Wahl, Otto](../../images/stolpersteine/ec6b1474c2fc_stegstr_53_wahl_von_links_eduard_otto_und_rudolf_wahl.jpg)
+![Wahl, Otto](../../images/stolpersteine/d8064529fb01_stegstr_53_wahl_otto_und_freunde_1930.jpg)
+![Wahl, Otto](../../images/stolpersteine/f6fcb4b1d25b_stolperst_stegstr_53_wahl_otto.jpg)
 
 ## Links
 

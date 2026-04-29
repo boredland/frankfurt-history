@@ -11,7 +11,7 @@ filters:
 
 *Körberstraße 16*
 
-![Stolperstein Epstein, Alice Betty und Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/koerberstrasse_16.jpg)
+![Stolperstein Epstein, Alice Betty und Fritz](../../images/stolpersteine/8919d863cfce_koerberstrasse_16.jpg)
 
 Alice Betty Epstein war die Tochter von David Theodor Wiesengrund und Caroline Wiesengrund und die
 
@@ -188,10 +188,10 @@ Körberstraße 16
 ## Gallery
 
 <!-- gallery:standard -->
-![Epstein, Alice Betty und Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/koerberstr_16_epstein_paul.jpg)
-![Epstein, Alice Betty und Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/koerberstr_16_epsteins_neffe_theodor_w_adorno.jpg)
-![Epstein, Alice Betty und Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperst_koerberstr_16_epstein_alice.jpg)
-![Epstein, Alice Betty und Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperst_koerberstr_16_epstein_fritz.jpg)
+![Epstein, Alice Betty und Fritz](../../images/stolpersteine/7fd249cdd61c_koerberstr_16_epstein_paul.jpg)
+![Epstein, Alice Betty und Fritz](../../images/stolpersteine/70436a81274a_koerberstr_16_epsteins_neffe_theodor_w_adorno.jpg)
+![Epstein, Alice Betty und Fritz](../../images/stolpersteine/dd80a58be8c7_stolperst_koerberstr_16_epstein_alice.jpg)
+![Epstein, Alice Betty und Fritz](../../images/stolpersteine/1821c2a2dc64_stolperst_koerberstr_16_epstein_fritz.jpg)
 
 ## Links
 

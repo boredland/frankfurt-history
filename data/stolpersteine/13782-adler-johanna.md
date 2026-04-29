@@ -11,7 +11,7 @@ filters:
 
 *Kettenhofweg 125*
 
-![Stolperstein Adler, Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/kettenhofweg-125_1.jpg)
+![Stolperstein Adler, Johanna](../../images/stolpersteine/25e44f6d3f18_kettenhofweg-125_1.jpg)
 
 Johanna Nathan wurde in Hamburg geboren. Sie entstammte laut Angaben einer Angehörigen der bekannten Familie Samson aus Wolfenbüttel. Bereits in der Schule wurde ihre bemerkenswerte Sopranstimme entdeckt. Sie studierte Gesang, unter anderem bei dem berühmten Sänger und Musikpädagogen Julius Stockhausen. Zwischen 1892 und 1898 tritt sie als Interpretin von Liedern und Oratorien in Deutschland und Europa zusammen mit berühmten Dirigenten und Musikern auf. Tschaikowsky, Brahms und Busoni haben sie gehört. Etwa 150 ihrer Konzertprogramme sind noch erhalten.
 
@@ -448,8 +448,8 @@ Kettenhofweg 125
 ## Gallery
 
 <!-- gallery:standard -->
-![Adler, Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/adler-johanna.jpg)
-![Adler, Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_kettenhofweg_125_adler_johanna.jpg)
+![Adler, Johanna](../../images/stolpersteine/f32c65db46b4_adler-johanna.jpg)
+![Adler, Johanna](../../images/stolpersteine/04cb982810db_stolperst_kettenhofweg_125_adler_johanna.jpg)
 
 ## Links
 

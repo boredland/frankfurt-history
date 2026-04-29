@@ -11,7 +11,7 @@ filters:
 
 *Hinter den Ulmen 22*
 
-![Stolperstein Lehrbach, Emma (Emmi) Magdalena](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/hinter_den_ulmen_22.jpg)
+![Stolperstein Lehrbach, Emma (Emmi) Magdalena](../../images/stolpersteine/9a58d05ac8a5_hinter_den_ulmen_22.jpg)
 
 Emma Magdalena Dentzer, genannt Emmy,
 
@@ -210,7 +210,7 @@ Hinter den Ulmen 22
 ## Gallery
 
 <!-- gallery:standard -->
-![Lehrbach, Emma (Emmi) Magdalena](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/stolperst_hinter_den_ulmen_22_lehrbach_emmi.jpg)
+![Lehrbach, Emma (Emmi) Magdalena](../../images/stolpersteine/3b314d3d1f0a_stolperst_hinter_den_ulmen_22_lehrbach_emmi.jpg)
 
 ## Links
 

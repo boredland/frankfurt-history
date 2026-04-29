@@ -11,7 +11,7 @@ filters:
 
 *Zeil 92*
 
-![Stolperstein Hahn, Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/zeil_92.jpg)
+![Stolperstein Hahn, Jenny](../../images/stolpersteine/12ea0937b308_zeil_92.jpg)
 
 Jenny Hahn wurde als drittes Kind von sieben Geschwistern in Birstein/Vogelsberg geboren. Die Familie wohnte dort in der Schloßstraße 12 im eigenen Haus. Der Vater Sally Hahn war Viehhändler.
 
@@ -154,7 +154,7 @@ Zeil 92
 ## Gallery
 
 <!-- gallery:standard -->
-![Hahn, Jenny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperstein_zeil_92_hahn_jenny.jpg)
+![Hahn, Jenny](../../images/stolpersteine/2e428708cd51_stolperstein_zeil_92_hahn_jenny.jpg)
 
 ## Links
 

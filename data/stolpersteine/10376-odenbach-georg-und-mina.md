@@ -11,7 +11,7 @@ filters:
 
 *Kasinostraße 27*
 
-![Stolperstein Odenbach, Georg und Mina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/kasinostr_27__445x300_1377011.jpg)
+![Stolperstein Odenbach, Georg und Mina](../../images/stolpersteine/38bdd23e34da_kasinostr_27__445x300_1377011.jpg)
 
 Georg Odenbach wurde in Ludwigshafen geboren. Im Alter von 16 Jahren hatte er beide Eltern verloren: Sein Vater, Franz Odenbach, ein Maurer und Kaminbauer, starb 1909 im Alter von 45 Jahren bei einem Arbeitsunfall. Seine Mutter, Katharina geb. Seelinger, starb 1914 mit 39 Jahren an Magenkrebs. Die Familie hatte sieben Kinder.
 
@@ -172,8 +172,8 @@ Kasinostraße 27
 ## Gallery
 
 <!-- gallery:standard -->
-![Odenbach, Georg und Mina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/odenbach-georg.jpg)
-![Odenbach, Georg und Mina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/odenbach-mina.jpg)
+![Odenbach, Georg und Mina](../../images/stolpersteine/f48c137bd630_odenbach-georg.jpg)
+![Odenbach, Georg und Mina](../../images/stolpersteine/f8fff82c3eeb_odenbach-mina.jpg)
 
 ## Links
 

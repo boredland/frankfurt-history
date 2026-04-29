@@ -11,7 +11,7 @@ filters:
 
 *Unter den Kastanien 1*
 
-![Stolperstein Wertheimer, Lydia und Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/unter_den_kastanien_1.jpg)
+![Stolperstein Wertheimer, Lydia und Martha](../../images/stolpersteine/6bea41382b7d_unter_den_kastanien_1.jpg)
 
 Die
 
@@ -382,9 +382,9 @@ Unter den Kastanien 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Wertheimer, Lydia und Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/unter_den_kastanien_1_wertheimer_lydia.jpg)
-![Wertheimer, Lydia und Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_unter_den_kastanien_1_wertheimer_lydia.jpg)
-![Wertheimer, Lydia und Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_unter_den_kastanien_1_wertheimer_martha.jpg)
+![Wertheimer, Lydia und Martha](../../images/stolpersteine/e23489ba0230_unter_den_kastanien_1_wertheimer_lydia.jpg)
+![Wertheimer, Lydia und Martha](../../images/stolpersteine/a569e32ec26f_stolperst_unter_den_kastanien_1_wertheimer_lydia.jpg)
+![Wertheimer, Lydia und Martha](../../images/stolpersteine/b30401f3ff14_stolperst_unter_den_kastanien_1_wertheimer_martha.jpg)
 
 ## Links
 

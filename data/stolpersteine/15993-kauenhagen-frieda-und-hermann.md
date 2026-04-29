@@ -11,7 +11,7 @@ filters:
 
 *Auf der Körnerwiese 11*
 
-![Stolperstein Kauenhagen, Frieda und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/auf-der-koernerwiese-11_1.jpg)
+![Stolperstein Kauenhagen, Frieda und Hermann](../../images/stolpersteine/abe6a4ed071f_auf-der-koernerwiese-11_1.jpg)
 
 Frieda bzw. Friederike Kauenhagen, geb. Schlesinger, wurde am 17. oder 14.7.1897 in Neumark geboren als Tochter des Bankdirektors Isaak Schlesinger und von Helene Schlesinger, geb. Hennig. Sie besuchte das Lyzeum, das sie nach dem zehnten Schuljahr mit Abschlusszeugnis verließ. Von etwa 1926 bis 1933 war sie als Buchhalterin bei der Herrenkleiderfabrik "Gebrüder Manes“ in Berlin, Holzmarktstraße 1, später Rosenthaler Straße 3, beschäftigt. Sie verlor ihren Arbeitsplatz vermutlich infolge der "Arisierung“ des Betriebes. Anschließend bis 1935 war sie in einem anderen Konfektionsgeschäft tätig, das ebenfalls "arisiert“ wurde. Sie zahlte Beiträge zur Angestelltenversicherung bis Juni 1937, sodass angenommen werden kann, dass sie bis zu diesem Zeitpunkt erwerbstätig war. Am 1.2.1936 heiratete sie den Kaufmann Hermann Kauenhagen in Frankfurt. Einem Bruder, der eine Arztpraxis in Berlin unterhielt, gelang 1939 die Flucht in das schweizerische Exil.
 
@@ -462,7 +462,7 @@ Auf der Körnerwiese 11
 ## Gallery
 
 <!-- gallery:standard -->
-![Kauenhagen, Frieda und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_koernerwiese_11_kauenhagen_frieda__400x400.jpg)
+![Kauenhagen, Frieda und Hermann](../../images/stolpersteine/aeb09ca78f7d_stolperst_koernerwiese_11_kauenhagen_frieda__400x400.jpg)
 
 ## Links
 

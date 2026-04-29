@@ -12,7 +12,7 @@ filters:
 
 *Seumestraße 2*
 
-![Stolperstein Klein, Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/seumestr_2.jpg)
+![Stolperstein Klein, Selma](../../images/stolpersteine/52c14d4ddd54_seumestr_2.jpg)
 
 Selma Klein wurde in Frankfurt als Tochter des Kaufmannes Isaak Klein und
 
@@ -563,10 +563,10 @@ Seumestraße 2
 ## Gallery
 
 <!-- gallery:standard -->
-![Klein, Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/klein-selma-1932.jpg)
-![Klein, Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/klein-selma-1936.jpg)
-![Klein, Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/klein-selma-1939.jpg)
-![Klein, Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/klein-selma.jpg)
+![Klein, Selma](../../images/stolpersteine/b19de5fe6bd9_klein-selma-1932.jpg)
+![Klein, Selma](../../images/stolpersteine/1b6ca39b70a7_klein-selma-1936.jpg)
+![Klein, Selma](../../images/stolpersteine/a74bbd08348d_klein-selma-1939.jpg)
+![Klein, Selma](../../images/stolpersteine/23abadd9c02f_klein-selma.jpg)
 
 ## Links
 

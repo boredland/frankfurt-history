@@ -11,7 +11,7 @@ filters:
 
 *Uhlandstraße 58*
 
-![Stolperstein Klausner, Hans, Heinrich, Israel Mendel und Lea](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/uhlandstr_58.jpg)
+![Stolperstein Klausner, Hans, Heinrich, Israel Mendel und Lea](../../images/stolpersteine/8da87acc9b82_uhlandstr_58.jpg)
 
 Israel
 
@@ -362,12 +362,12 @@ Uhlandstrasse 58
 ## Gallery
 
 <!-- gallery:standard -->
-![Klausner, Hans, Heinrich, Israel Mendel und Lea](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/uhlandstr_58_klausner_hans.jpg)
-![Klausner, Hans, Heinrich, Israel Mendel und Lea](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/uhlandstr_58_klausner_hans_1948.jpg)
-![Klausner, Hans, Heinrich, Israel Mendel und Lea](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstr_58_klausner_israel_mendel.jpg)
-![Klausner, Hans, Heinrich, Israel Mendel und Lea](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstr_58_klausner_lea.jpg)
-![Klausner, Hans, Heinrich, Israel Mendel und Lea](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstr_58_klausner_heinrich.jpg)
-![Klausner, Hans, Heinrich, Israel Mendel und Lea](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstr_58_klausner_hans.jpg)
+![Klausner, Hans, Heinrich, Israel Mendel und Lea](../../images/stolpersteine/c582c6660a27_uhlandstr_58_klausner_hans.jpg)
+![Klausner, Hans, Heinrich, Israel Mendel und Lea](../../images/stolpersteine/9bffd8d1e2c8_uhlandstr_58_klausner_hans_1948.jpg)
+![Klausner, Hans, Heinrich, Israel Mendel und Lea](../../images/stolpersteine/150ba51779a7_stolperst_uhlandstr_58_klausner_israel_mendel.jpg)
+![Klausner, Hans, Heinrich, Israel Mendel und Lea](../../images/stolpersteine/1da0a9ea4d11_stolperst_uhlandstr_58_klausner_lea.jpg)
+![Klausner, Hans, Heinrich, Israel Mendel und Lea](../../images/stolpersteine/9059e54711c2_stolperst_uhlandstr_58_klausner_heinrich.jpg)
+![Klausner, Hans, Heinrich, Israel Mendel und Lea](../../images/stolpersteine/846e23f0248f_stolperst_uhlandstr_58_klausner_hans.jpg)
 
 ## Links
 

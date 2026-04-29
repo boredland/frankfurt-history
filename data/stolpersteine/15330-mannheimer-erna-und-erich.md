@@ -11,7 +11,7 @@ filters:
 
 *Gaußstraße 16*
 
-![Stolperstein Mannheimer, Erna und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/gaussstrasse_14_haus.jpg)
+![Stolperstein Mannheimer, Erna und Erich](../../images/stolpersteine/e6a5d81e12e9_gaussstrasse_14_haus.jpg)
 
 Mannheimer, Erich
 
@@ -428,8 +428,8 @@ Gaußstraße 14
 ## Gallery
 
 <!-- gallery:standard -->
-![Mannheimer, Erna und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/mannheimer-erich.jpg)
-![Mannheimer, Erna und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-mannheimer-erich.jpg)
+![Mannheimer, Erna und Erich](../../images/stolpersteine/d9f4bdd23700_mannheimer-erich.jpg)
+![Mannheimer, Erna und Erich](../../images/stolpersteine/17bb9183bcf3_stolperstein-mannheimer-erich.jpg)
 
 ## Links
 

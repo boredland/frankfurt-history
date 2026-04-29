@@ -11,7 +11,7 @@ filters:
 
 *Alt-Rödelheim 40*
 
-![Stolperstein Markus, Rosalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/alt-roedelheim-40_1.jpg)
+![Stolperstein Markus, Rosalie](../../images/stolpersteine/15a92aa1d48d_alt-roedelheim-40_1.jpg)
 
 Rosalie (Rosa) Markus, genannt Salchen, war die Tochter von Michael Gruen und Ester, geb. Goldschmidt, und verheiratet mit Abraham Markus, geb. am 31. Januar 1870. Abraham Markus war Tapezierer und Altwarenhändler und wohnte zunächst Markstraße 23, dann Wehrstraße 13, schließlich Alt-Rödelheim 40. Er verstarb am 11. Januar 1929.
 

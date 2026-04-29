@@ -11,7 +11,7 @@ filters:
 
 *Savignystraße 12-14*
 
-![Stolperstein Moser, Alfred und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/savignystr_12-14.jpg)
+![Stolperstein Moser, Alfred und Ruth](../../images/stolpersteine/a350ed09e0fb_savignystr_12-14.jpg)
 
 Alfred und Ruth Moser
 
@@ -562,12 +562,12 @@ Savignystraße 12-14
 ## Gallery
 
 <!-- gallery:standard -->
-![Moser, Alfred und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/savignystr_12_alfred_und_ruth_moser.jpg)
-![Moser, Alfred und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/savignystr_12_ruth_moser_1950.jpg)
-![Moser, Alfred und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/savignystr_12_ausweis_alfred_moser_1933.jpg)
-![Moser, Alfred und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/savignystr_12_ausweis_ruth_moser_1945.jpg)
-![Moser, Alfred und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_savignystr_12-14_moser_alfred.jpg)
-![Moser, Alfred und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_savignystr_12-14_moser_ruth.jpg)
+![Moser, Alfred und Ruth](../../images/stolpersteine/70523bff1cd0_savignystr_12_alfred_und_ruth_moser.jpg)
+![Moser, Alfred und Ruth](../../images/stolpersteine/96b47222c407_savignystr_12_ruth_moser_1950.jpg)
+![Moser, Alfred und Ruth](../../images/stolpersteine/4d00d19138f0_savignystr_12_ausweis_alfred_moser_1933.jpg)
+![Moser, Alfred und Ruth](../../images/stolpersteine/e6b6f534662c_savignystr_12_ausweis_ruth_moser_1945.jpg)
+![Moser, Alfred und Ruth](../../images/stolpersteine/d15404ed0dc0_stolperst_savignystr_12-14_moser_alfred.jpg)
+![Moser, Alfred und Ruth](../../images/stolpersteine/de39b3b0a488_stolperst_savignystr_12-14_moser_ruth.jpg)
 
 ## Links
 

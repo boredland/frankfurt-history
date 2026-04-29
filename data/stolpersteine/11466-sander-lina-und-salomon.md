@@ -11,7 +11,7 @@ filters:
 
 *Querstraße 1*
 
-![Stolperstein Sander, Lina und Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/querstr_1.jpg)
+![Stolperstein Sander, Lina und Salomon](../../images/stolpersteine/3f922699cde3_querstr_1.jpg)
 
 Salomon und Lina Sander
 
@@ -420,8 +420,8 @@ Querstraße 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Sander, Lina und Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/salomon-und-lina-sander.jpg)
-![Sander, Lina und Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-sander-lina.jpg)
+![Sander, Lina und Salomon](../../images/stolpersteine/32ae39776613_salomon-und-lina-sander.jpg)
+![Sander, Lina und Salomon](../../images/stolpersteine/6d1470841586_stolperstein-sander-lina.jpg)
 
 ## Links
 

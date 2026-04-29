@@ -11,7 +11,7 @@ filters:
 
 *Deuil-la-Barre-Straße 44*
 
-![Stolperstein Ehrlich, Frieda, Ilse, Malchen und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/standort/deuil-la-barre-strasse_44.jpg)
+![Stolperstein Ehrlich, Frieda, Ilse, Malchen und Siegmund](../../images/stolpersteine/45bb9af02cb2_deuil-la-barre-strasse_44.jpg)
 
 Siegmund
 
@@ -308,12 +308,12 @@ Deuil-la-Barre-Straße 44
 ## Gallery
 
 <!-- gallery:standard -->
-![Ehrlich, Frieda, Ilse, Malchen und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/opferbilder/deuil-la-barre-strasse_44_borngasse_nieder-eschbach_nazi_aufmarsch.jpg)
-![Ehrlich, Frieda, Ilse, Malchen und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/opferbilder/deuil-la-barre-strasse_44_nieder-eschbach_umzug_unter_hakenkreuzfahnen.jpg)
-![Ehrlich, Frieda, Ilse, Malchen und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/stolperst_deuil-la-barre-strasse_44_ehrlich_frieda.jpg)
-![Ehrlich, Frieda, Ilse, Malchen und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/stolperst_deuil-la-barre-strasse_44_ehrlich_ilse.jpg)
-![Ehrlich, Frieda, Ilse, Malchen und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/stolperst_deuil-la-barre-strasse_44_ehrlich_malchen.jpg)
-![Ehrlich, Frieda, Ilse, Malchen und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/stolperst_deuil-la-barre-strasse_44_ehrlich_siegmund.jpg)
+![Ehrlich, Frieda, Ilse, Malchen und Siegmund](../../images/stolpersteine/9a7fe02ec077_deuil-la-barre-strasse_44_borngasse_nieder-eschbach_nazi_auf.jpg)
+![Ehrlich, Frieda, Ilse, Malchen und Siegmund](../../images/stolpersteine/686133464231_deuil-la-barre-strasse_44_nieder-eschbach_umzug_unter_hakenk.jpg)
+![Ehrlich, Frieda, Ilse, Malchen und Siegmund](../../images/stolpersteine/e0067bb2c721_stolperst_deuil-la-barre-strasse_44_ehrlich_frieda.jpg)
+![Ehrlich, Frieda, Ilse, Malchen und Siegmund](../../images/stolpersteine/555e55202114_stolperst_deuil-la-barre-strasse_44_ehrlich_ilse.jpg)
+![Ehrlich, Frieda, Ilse, Malchen und Siegmund](../../images/stolpersteine/dccd7be4c19b_stolperst_deuil-la-barre-strasse_44_ehrlich_malchen.jpg)
+![Ehrlich, Frieda, Ilse, Malchen und Siegmund](../../images/stolpersteine/1aa203165d0c_stolperst_deuil-la-barre-strasse_44_ehrlich_siegmund.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Eschersheimer Landstraße 402*
 
-![Stolperstein Isaac Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/eschersheimer_landstrasse_402_haus.jpg)
+![Stolperstein Isaac Gustav](../../images/stolpersteine/550606c54fdc_eschersheimer_landstrasse_402_haus.jpg)
 
 Der Kaufmann Gustav Isaac aus Sausenheim in der Pfalz heiratete Emma, geborene Eckhaus, die in einem Kinderheim in Grünstadt zur Welt kam. Seit dem 18.6.1914 waren beide in der Eschersheimer Landstraße 402 gemeldet. Sie lebten dort im eigenen Haus mit ihren 1912 und 1920 geborenen Töchtern und dem 1915 geborenen Sohn, denen später die Flucht in das US-amerikanische Exil gelang.
 

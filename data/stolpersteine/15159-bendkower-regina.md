@@ -11,7 +11,7 @@ filters:
 
 *Battonnstraße 70*
 
-![Stolperstein Bendkower, Regina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/battonnstr_70.jpg)
+![Stolperstein Bendkower, Regina](../../images/stolpersteine/4fd22b42958e_battonnstr_70.jpg)
 
 Regina Bendkower, geb. Rubanowicz, wurde am 1.12.1897 in Wilna (Litauen) geboren. Sie lebte seit 1919 in Frankfurt am Main und war Inhaberin der „Hut- und Mützen-Zentrale“, eines Herrenmützen- und Hütegeschäfts mit Fabrikation von Uniformen, das zwischen 1925 bis 1936 in der Schnurgasse 28, zwischen 1936 und 1938 in der Trierischen Gasse 7 registriert war. Regina Bendkower lieferte unter anderem Mützen, Koppeln und Uniformen an das Reichsbanner Schwarz-Rot-Gold, später auch an die Eiserne Front.
 
@@ -152,7 +152,7 @@ Battonnstraße 70
 ## Gallery
 
 <!-- gallery:standard -->
-![Bendkower, Regina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperstein_battonnstr_70_bendkower_regina.jpg)
+![Bendkower, Regina](../../images/stolpersteine/69f31ebfa241_stolperstein_battonnstr_70_bendkower_regina.jpg)
 
 ## Links
 

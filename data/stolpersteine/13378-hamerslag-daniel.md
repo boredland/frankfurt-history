@@ -11,7 +11,7 @@ filters:
 
 *Wöhlerstraße 6*
 
-![Stolperstein Hamerslag, Daniel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/woehlerstr_6.jpg)
+![Stolperstein Hamerslag, Daniel](../../images/stolpersteine/40456632a300_woehlerstr_6.jpg)
 
 Daniël Hamerslag wurde 1913 in Schiedam (Niederlande) in eine
 
@@ -598,8 +598,8 @@ Wöhlerstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Hamerslag, Daniel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/woehlerstr_6_hamerslag_daniel_passfoto_1953.jpg)
-![Hamerslag, Daniel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_woehlerstr_6_hamerslag_daniel.jpg)
+![Hamerslag, Daniel](../../images/stolpersteine/c04ccf20d122_woehlerstr_6_hamerslag_daniel_passfoto_1953.jpg)
+![Hamerslag, Daniel](../../images/stolpersteine/30a3640b5585_stolperst_woehlerstr_6_hamerslag_daniel.jpg)
 
 ## Links
 

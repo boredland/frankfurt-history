@@ -11,7 +11,7 @@ filters:
 
 *Rückertstraße 48*
 
-![Stolperstein Politzer, Kurt und Adelheid](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/rueckertstrasse-48_1.jpg)
+![Stolperstein Politzer, Kurt und Adelheid](../../images/stolpersteine/76317252794e_rueckertstrasse-48_1.jpg)
 
 Kurt und Emma Politzer
 
@@ -214,8 +214,8 @@ Rückertstraße 48
 ## Gallery
 
 <!-- gallery:standard -->
-![Politzer, Kurt und Adelheid](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/kurt-und-emma-politzer.jpg)
-![Politzer, Kurt und Adelheid](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-politzer-kurt.jpg)
+![Politzer, Kurt und Adelheid](../../images/stolpersteine/4a446076794b_kurt-und-emma-politzer.jpg)
+![Politzer, Kurt und Adelheid](../../images/stolpersteine/f266db2a6db8_stolperstein-politzer-kurt.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Marbachweg 328*
 
-![Stolperstein Kanne, Anna und Oechler, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/marbachweg_328.jpg)
+![Stolperstein Kanne, Anna und Oechler, Anna](../../images/stolpersteine/c6490784acbb_marbachweg_328.jpg)
 
 Anna Kanne wurde in
 
@@ -220,12 +220,12 @@ Marbachweg 328
 ## Gallery
 
 <!-- gallery:standard -->
-![Kanne, Anna und Oechler, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/marbachweg_328_anna_oechler_2.jpg)
-![Kanne, Anna und Oechler, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/marbachweg_328_anna_oechler_1.jpg)
-![Kanne, Anna und Oechler, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/marbachweg_328_kanne_haftbefehl.jpg)
-![Kanne, Anna und Oechler, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/marbachweg_328_kanne_ausweis.jpg)
-![Kanne, Anna und Oechler, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperst_marbachweg_328_kanne_anna.jpg)
-![Kanne, Anna und Oechler, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperst_marbachweg_328_oechler_anna.jpg)
+![Kanne, Anna und Oechler, Anna](../../images/stolpersteine/1072e9a4045d_marbachweg_328_anna_oechler_2.jpg)
+![Kanne, Anna und Oechler, Anna](../../images/stolpersteine/3e845244146a_marbachweg_328_anna_oechler_1.jpg)
+![Kanne, Anna und Oechler, Anna](../../images/stolpersteine/0627dc8fd46e_marbachweg_328_kanne_haftbefehl.jpg)
+![Kanne, Anna und Oechler, Anna](../../images/stolpersteine/6533b122d2ad_marbachweg_328_kanne_ausweis.jpg)
+![Kanne, Anna und Oechler, Anna](../../images/stolpersteine/a21623b72fc6_stolperst_marbachweg_328_kanne_anna.jpg)
+![Kanne, Anna und Oechler, Anna](../../images/stolpersteine/01436caa004c_stolperst_marbachweg_328_oechler_anna.jpg)
 
 ## Links
 

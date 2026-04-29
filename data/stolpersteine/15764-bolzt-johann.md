@@ -11,7 +11,7 @@ filters:
 
 *Savignystraße 55*
 
-![Stolperstein Bolzt, Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/savignystr_55_neu.jpg)
+![Stolperstein Bolzt, Johann](../../images/stolpersteine/2cfe61ade7da_savignystr_55_neu.jpg)
 
 Johann Josef Bolzt stammte aus Frankfurt am Main und wurde am 19. September 1893 unehelich geboren. Seine Mutter hatte mit dem Stiefvater fünf weitere Kinder. Bei dem Stiefvater absolvierte er eine Ausbildung zum Gemüsehändler. Im Ersten Weltkrieg wurde er im Frühjahr 1915 rekrutiert, diente als Musketier im 116. Infanterie-Regiment und wurde im Sommer 1915 schwer verletzt. Der rechte Arm wurde amputiert und er blieb gehbehindert. Nach dem Krieg arbeitete er bei verschiedenen Firmen als Portier, unter anderem bei VDO Tachometer. Bis 1940 hatte er vier Vorstrafen wegen §§ 175/175a Strafgesetzbuch wegen homosexueller Beziehungen zu anderen Männern.
 
@@ -452,7 +452,7 @@ Savignystraße 55
 ## Gallery
 
 <!-- gallery:standard -->
-![Bolzt, Johann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_savignystr_55_bolzt_johann_neu.jpg)
+![Bolzt, Johann](../../images/stolpersteine/6c8c0403dea3_stolperst_savignystr_55_bolzt_johann_neu.jpg)
 
 ## Links
 

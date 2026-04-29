@@ -11,7 +11,7 @@ filters:
 
 *Arndtstraße 33*
 
-![Stolperstein Dreher, Albert Anton, Anton Gustav und Minnie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/arndtstr_33.jpg)
+![Stolperstein Dreher, Albert Anton, Anton Gustav und Minnie](../../images/stolpersteine/0f887a4cfdcf_arndtstr_33.jpg)
 
 Albert Anton Dreher und
 
@@ -644,9 +644,9 @@ Arndtstraße 33
 ## Gallery
 
 <!-- gallery:standard -->
-![Dreher, Albert Anton, Anton Gustav und Minnie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_arndtstr_33_dreher_albert_anton.jpg)
-![Dreher, Albert Anton, Anton Gustav und Minnie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_arndtstr_33_dreher_minnie.jpg)
-![Dreher, Albert Anton, Anton Gustav und Minnie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_arndtstr_33_dreher_anton_gustav.jpg)
+![Dreher, Albert Anton, Anton Gustav und Minnie](../../images/stolpersteine/848ee57a31df_stolperst_arndtstr_33_dreher_albert_anton.jpg)
+![Dreher, Albert Anton, Anton Gustav und Minnie](../../images/stolpersteine/9eba18b833b2_stolperst_arndtstr_33_dreher_minnie.jpg)
+![Dreher, Albert Anton, Anton Gustav und Minnie](../../images/stolpersteine/3fb3a37af4ea_stolperst_arndtstr_33_dreher_anton_gustav.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Kurt-Schumacher-Straße 10*
 
-![Stolperstein Edelmann, Irma und Inge](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/kurt_schumacher_str_10.jpg)
+![Stolperstein Edelmann, Irma und Inge](../../images/stolpersteine/052687cccd62_kurt_schumacher_str_10.jpg)
 
 Edelmann, Inge 2
 
@@ -174,11 +174,11 @@ Kurt-Schumacher-Straße 10
 ## Gallery
 
 <!-- gallery:standard -->
-![Edelmann, Irma und Inge](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/edelmann-inge-2.jpg)
-![Edelmann, Irma und Inge](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/edelmann-irma.jpg)
-![Edelmann, Irma und Inge](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/edelmann-inge.jpg)
-![Edelmann, Irma und Inge](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_kurt-schumacher-str_10_edelmann_irma.jpg)
-![Edelmann, Irma und Inge](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_kurt-schumacher-str_10_edelmann_inge.jpg)
+![Edelmann, Irma und Inge](../../images/stolpersteine/586566d42925_edelmann-inge-2.jpg)
+![Edelmann, Irma und Inge](../../images/stolpersteine/f1fe926a4b54_edelmann-irma.jpg)
+![Edelmann, Irma und Inge](../../images/stolpersteine/cbbf73c9a291_edelmann-inge.jpg)
+![Edelmann, Irma und Inge](../../images/stolpersteine/3474eabff1ce_stolperst_kurt-schumacher-str_10_edelmann_irma.jpg)
+![Edelmann, Irma und Inge](../../images/stolpersteine/01ffd59accc7_stolperst_kurt-schumacher-str_10_edelmann_inge.jpg)
 
 ## Links
 

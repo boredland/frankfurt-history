@@ -11,7 +11,7 @@ filters:
 
 *Mendelssohnstraße 79a*
 
-![Stolperstein Jacobius, Hans Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/mendelssohnstrasse-79_1.jpg)
+![Stolperstein Jacobius, Hans Manfred](../../images/stolpersteine/b1b42e8ff179_mendelssohnstrasse-79_1.jpg)
 
 Hans Jacobius mit Wolfgang Preiser
 
@@ -446,8 +446,8 @@ Mendelssohnstraße 79
 ## Gallery
 
 <!-- gallery:standard -->
-![Jacobius, Hans Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hans-jacobius-mit-wolfgang-preiser.jpg)
-![Jacobius, Hans Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_mendelssohnstr_79a_jacobius_hans.jpg)
+![Jacobius, Hans Manfred](../../images/stolpersteine/722e4c3215bf_hans-jacobius-mit-wolfgang-preiser.jpg)
+![Jacobius, Hans Manfred](../../images/stolpersteine/0b3ade84a3ad_stolperst_mendelssohnstr_79a_jacobius_hans.jpg)
 
 ## Links
 

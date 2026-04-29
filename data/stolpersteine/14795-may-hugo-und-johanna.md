@@ -11,7 +11,7 @@ filters:
 
 *Neue Mainzer Straße 55*
 
-![Stolperstein May, Hugo und Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/neue_mainzer_str_55.jpg)
+![Stolperstein May, Hugo und Johanna](../../images/stolpersteine/492f8428a4cb_neue_mainzer_str_55.jpg)
 
 Der in
 
@@ -198,8 +198,8 @@ Neue Mainzer Straße 55
 ## Gallery
 
 <!-- gallery:standard -->
-![May, Hugo und Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_neue_mainzer_str_55_may_hugo.jpg)
-![May, Hugo und Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_neue_mainzer_str_55_may_johanna.jpg)
+![May, Hugo und Johanna](../../images/stolpersteine/806668b22c79_stolperst_neue_mainzer_str_55_may_hugo.jpg)
+![May, Hugo und Johanna](../../images/stolpersteine/ea317e7ca1ac_stolperst_neue_mainzer_str_55_may_johanna.jpg)
 
 ## Links
 

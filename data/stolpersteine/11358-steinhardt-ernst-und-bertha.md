@@ -11,7 +11,7 @@ filters:
 
 *Maximilianstraße 1*
 
-![Stolperstein Steinhardt, Ernst und Bertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/maximilianstrasse_1.jpg)
+![Stolperstein Steinhardt, Ernst und Bertha](../../images/stolpersteine/e9b3522c1bc5_maximilianstrasse_1.jpg)
 
 Ernst und Bertha Steinhardt mit Sohn Max
 
@@ -106,8 +106,8 @@ Maximilianstraße 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Steinhardt, Ernst und Bertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/ernst-und-bertha-steinhardt-mit-sohn-max.jpg)
-![Steinhardt, Ernst und Bertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_maximilianstrasse_1_steinhardt_berta.jpg)
+![Steinhardt, Ernst und Bertha](../../images/stolpersteine/2537c49572e5_ernst-und-bertha-steinhardt-mit-sohn-max.jpg)
+![Steinhardt, Ernst und Bertha](../../images/stolpersteine/73961173c2bc_stolperst_maximilianstrasse_1_steinhardt_berta.jpg)
 
 ## Links
 

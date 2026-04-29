@@ -11,7 +11,7 @@ filters:
 
 *Gagernstraße 17*
 
-![Stolperstein Lindheim, Hugo, Laura Lore und Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/gagernstr_17.jpg)
+![Stolperstein Lindheim, Hugo, Laura Lore und Mathilde](../../images/stolpersteine/dbd073f10aa6_gagernstr_17.jpg)
 
 Mathilde Lindheim wurde in Röddenau geboren, Hugo Salli Lindheim kam in Rennertehausen als Sohn des Kaufmanns Siegfried Lindheim (1860-1939) und von Ida, geb. Mosheim (1866 - 1923) zur Welt. Er hatte zwei ebenfalls in Rennertehausen geborene Geschwister Berthold Lindheim (1895-1973) und Martha Lindheim (Jg. 1900, verheiratete Loewenberg).
 
@@ -272,12 +272,12 @@ Gagernstraße 17
 ## Gallery
 
 <!-- gallery:standard -->
-![Lindheim, Hugo, Laura Lore und Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/gagernstr_17_lindheim_hugo.jpg)
-![Lindheim, Hugo, Laura Lore und Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/gagernstr_17_lindheim_lore.jpg)
-![Lindheim, Hugo, Laura Lore und Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/gagernstr_17_lindheim_mathilde.jpg)
-![Lindheim, Hugo, Laura Lore und Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_gagernstr_17_lindheim_hugo.jpg)
-![Lindheim, Hugo, Laura Lore und Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_gagernstr_17_lindheim_laura-lore.jpg)
-![Lindheim, Hugo, Laura Lore und Mathilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_gagernstr_17_lindheim_mathilde.jpg)
+![Lindheim, Hugo, Laura Lore und Mathilde](../../images/stolpersteine/e04d3fcd4776_gagernstr_17_lindheim_hugo.jpg)
+![Lindheim, Hugo, Laura Lore und Mathilde](../../images/stolpersteine/625ee58e5030_gagernstr_17_lindheim_lore.jpg)
+![Lindheim, Hugo, Laura Lore und Mathilde](../../images/stolpersteine/de8dbb651a73_gagernstr_17_lindheim_mathilde.jpg)
+![Lindheim, Hugo, Laura Lore und Mathilde](../../images/stolpersteine/d62807872bdf_stolperst_gagernstr_17_lindheim_hugo.jpg)
+![Lindheim, Hugo, Laura Lore und Mathilde](../../images/stolpersteine/57ba5592c9de_stolperst_gagernstr_17_lindheim_laura-lore.jpg)
+![Lindheim, Hugo, Laura Lore und Mathilde](../../images/stolpersteine/3986500f79ae_stolperst_gagernstr_17_lindheim_mathilde.jpg)
 
 ## Links
 

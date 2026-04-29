@@ -11,7 +11,7 @@ filters:
 
 *Friedrichstraße 3*
 
-![Stolperstein Katz, Adolf, Elsa, Erich und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/friedrichstrasse_3.jpg)
+![Stolperstein Katz, Adolf, Elsa, Erich und Richard](../../images/stolpersteine/ecac26a35749_friedrichstrasse_3.jpg)
 
 Adolf
 
@@ -542,10 +542,10 @@ Friedrichstraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Katz, Adolf, Elsa, Erich und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_friedrichstrasse_3_katz_adolf.jpg)
-![Katz, Adolf, Elsa, Erich und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_friedrichstrasse_3_katz_elsa.jpg)
-![Katz, Adolf, Elsa, Erich und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_friedrichstrasse_3_katz_erich.jpg)
-![Katz, Adolf, Elsa, Erich und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_friedrichstrasse_3_katz_richard.jpg)
+![Katz, Adolf, Elsa, Erich und Richard](../../images/stolpersteine/3ff0bbc8316f_stolperst_friedrichstrasse_3_katz_adolf.jpg)
+![Katz, Adolf, Elsa, Erich und Richard](../../images/stolpersteine/5d4d2ee58bcc_stolperst_friedrichstrasse_3_katz_elsa.jpg)
+![Katz, Adolf, Elsa, Erich und Richard](../../images/stolpersteine/eb1258c3603c_stolperst_friedrichstrasse_3_katz_erich.jpg)
+![Katz, Adolf, Elsa, Erich und Richard](../../images/stolpersteine/2e190c7f42ff_stolperst_friedrichstrasse_3_katz_richard.jpg)
 
 ## Links
 

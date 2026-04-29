@@ -11,7 +11,7 @@ filters:
 
 *Hanauer Landstraße 326*
 
-![Stolperstein Petitjean, Raymond sowie Stolperschwelle Zwangsarbeiterlager Fa. Messer & Co](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/hanauer_landstr_326.jpg)
+![Stolperstein Petitjean, Raymond sowie Stolperschwelle Zwangsarbeiterlager Fa. Messer & Co](../../images/stolpersteine/6fd627a8e7c6_hanauer_landstr_326.jpg)
 
 Raymond Petitjean wurde in Epinal in Frankreich als
 
@@ -264,12 +264,12 @@ Hanauer Landstraße 326
 ## Gallery
 
 <!-- gallery:standard -->
-![Petitjean, Raymond sowie Stolperschwelle Zwangsarbeiterlager Fa. Messer & Co](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/hanauer_landstr_326_petijean_raymond_brief1_ausschnitt.jpg)
-![Petitjean, Raymond sowie Stolperschwelle Zwangsarbeiterlager Fa. Messer & Co](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/hanauer_landstr_326_petijean_raymond_brief2_ausschnitt.jpg)
-![Petitjean, Raymond sowie Stolperschwelle Zwangsarbeiterlager Fa. Messer & Co](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/hanauer_landstr_326_petijean_raymond_meldung_messer_co.jpg)
-![Petitjean, Raymond sowie Stolperschwelle Zwangsarbeiterlager Fa. Messer & Co](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/hanauer_landstr_326_petijean_raymond_vernehmungsprotokoll.jpg)
-![Petitjean, Raymond sowie Stolperschwelle Zwangsarbeiterlager Fa. Messer & Co](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/hanauer_landstr_326_messer_co_karte_zwangsarbeiterlager.jpg)
-![Petitjean, Raymond sowie Stolperschwelle Zwangsarbeiterlager Fa. Messer & Co](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_hanauer_landstr_326_petitijean_raymond.jpg)
+![Petitjean, Raymond sowie Stolperschwelle Zwangsarbeiterlager Fa. Messer & Co](../../images/stolpersteine/d57038e4e227_hanauer_landstr_326_petijean_raymond_brief1_ausschnitt.jpg)
+![Petitjean, Raymond sowie Stolperschwelle Zwangsarbeiterlager Fa. Messer & Co](../../images/stolpersteine/ddeff5badc4e_hanauer_landstr_326_petijean_raymond_brief2_ausschnitt.jpg)
+![Petitjean, Raymond sowie Stolperschwelle Zwangsarbeiterlager Fa. Messer & Co](../../images/stolpersteine/c1e52fbb288c_hanauer_landstr_326_petijean_raymond_meldung_messer_co.jpg)
+![Petitjean, Raymond sowie Stolperschwelle Zwangsarbeiterlager Fa. Messer & Co](../../images/stolpersteine/f2ea7c5ffc78_hanauer_landstr_326_petijean_raymond_vernehmungsprotokoll.jp.jpg)
+![Petitjean, Raymond sowie Stolperschwelle Zwangsarbeiterlager Fa. Messer & Co](../../images/stolpersteine/17e91a2a3926_hanauer_landstr_326_messer_co_karte_zwangsarbeiterlager.jpg)
+![Petitjean, Raymond sowie Stolperschwelle Zwangsarbeiterlager Fa. Messer & Co](../../images/stolpersteine/b74eed17b2e6_stolperst_hanauer_landstr_326_petitijean_raymond.jpg)
 
 ## Links
 

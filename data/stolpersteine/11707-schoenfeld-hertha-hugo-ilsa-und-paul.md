@@ -11,7 +11,7 @@ filters:
 
 *Alt-Fechenheim 129*
 
-![Stolperstein Schönfeld, Hertha, Hugo, Ilsa und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/alt_fechenheim_129.jpg)
+![Stolperstein Schönfeld, Hertha, Hugo, Ilsa und Paul](../../images/stolpersteine/f023cdc438c6_alt_fechenheim_129.jpg)
 
 Hugo Schönfeld wurde in Offenbach geboren. Sein Vater war der Metzger Isaak Schönfeld, der Name der Mutter ist nicht bekannt. Am 17. Mai 1920 heiratete er Hertha Schönfeld, geb. Wolfermann, aus Barchfeld bei Schmalkalden. Ihre Kinder waren Ilse und Paul.
 
@@ -114,10 +114,10 @@ Alt-Fechenheim 129
 ## Gallery
 
 <!-- gallery:standard -->
-![Schönfeld, Hertha, Hugo, Ilsa und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/stolperst_alt_fechenheim_129_schoenfeld_hertha.jpg)
-![Schönfeld, Hertha, Hugo, Ilsa und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/stolperst_alt_fechenheim_129_schoenfeld_hugo.jpg)
-![Schönfeld, Hertha, Hugo, Ilsa und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/stolperst_alt_fechenheim_129_schoenfeld_ilsa.jpg)
-![Schönfeld, Hertha, Hugo, Ilsa und Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/fechenheim/stolperst_alt_fechenheim_129_schoenfeld_paul.jpg)
+![Schönfeld, Hertha, Hugo, Ilsa und Paul](../../images/stolpersteine/453349c0bea6_stolperst_alt_fechenheim_129_schoenfeld_hertha.jpg)
+![Schönfeld, Hertha, Hugo, Ilsa und Paul](../../images/stolpersteine/817bd1870c90_stolperst_alt_fechenheim_129_schoenfeld_hugo.jpg)
+![Schönfeld, Hertha, Hugo, Ilsa und Paul](../../images/stolpersteine/974dbc6ee606_stolperst_alt_fechenheim_129_schoenfeld_ilsa.jpg)
+![Schönfeld, Hertha, Hugo, Ilsa und Paul](../../images/stolpersteine/3d77c4cd6293_stolperst_alt_fechenheim_129_schoenfeld_paul.jpg)
 
 ## Links
 

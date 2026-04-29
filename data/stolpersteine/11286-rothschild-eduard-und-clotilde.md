@@ -11,7 +11,7 @@ filters:
 
 *Lange Straße 28*
 
-![Stolperstein Rothschild, Eduard und Clotilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/lange_str_28.jpg)
+![Stolperstein Rothschild, Eduard und Clotilde](../../images/stolpersteine/64332dc99886_lange_str_28.jpg)
 
 Eduard Rothschild
 
@@ -252,8 +252,8 @@ Lange Straße 28
 ## Gallery
 
 <!-- gallery:standard -->
-![Rothschild, Eduard und Clotilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_lange_str_28_rothschild_eduard_400x400.jpg)
-![Rothschild, Eduard und Clotilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_lange_str_28_rothschild_clotilde.jpg)
+![Rothschild, Eduard und Clotilde](../../images/stolpersteine/33a63b70f9d8_stolperst_lange_str_28_rothschild_eduard_400x400.jpg)
+![Rothschild, Eduard und Clotilde](../../images/stolpersteine/c3dc52feacd0_stolperst_lange_str_28_rothschild_clotilde.jpg)
 
 ## Links
 

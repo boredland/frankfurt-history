@@ -11,7 +11,7 @@ filters:
 
 *Hebelstraße 13*
 
-![Stolperstein Speier, Moses Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/hebelstrasse_13_haus.jpg)
+![Stolperstein Speier, Moses Max](../../images/stolpersteine/74755b251c7b_hebelstrasse_13_haus.jpg)
 
 Moses Max Speier aus Guxhagen/Melsungen war Lehrer für jüdische Religionslehre und Kantor. Seine Eltern waren Baruch Speier und Lehnchen (Lina), geb. Katz. Seine Brüder waren Isidor, geboren 1894, gestorben fünf Monate später, Lenor, der bei der Geburt 1896 starb, Daniel, geboren 1898, gefallen als deutscher Soldat im 1. Weltkrieg am 10. Oktober 1918, und Alfred Speier, geboren am 5. Juni 1901. Die Mutter, geb. am 21. Mai 1861, starb am 25. Februar 1923 in Guxhagen.
 
@@ -410,7 +410,7 @@ Hebelstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Speier, Moses Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-speier-moses-max.jpg)
+![Speier, Moses Max](../../images/stolpersteine/be1cccbb2207_stolperstein-speier-moses-max.jpg)
 
 ## Links
 

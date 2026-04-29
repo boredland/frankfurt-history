@@ -11,7 +11,7 @@ filters:
 
 *Kronberger Straße 30*
 
-![Stolperstein Schafranek, Olga, Herbert, Heinrich und Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/kronberger-strasse-30_1.jpg)
+![Stolperstein Schafranek, Olga, Herbert, Heinrich und Friedrich](../../images/stolpersteine/b966437038cd_kronberger-strasse-30_1.jpg)
 
 Schafranek, Heinrich
 
@@ -506,9 +506,9 @@ Kronberger Straße 30
 ## Gallery
 
 <!-- gallery:standard -->
-![Schafranek, Olga, Herbert, Heinrich und Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/schafranek-heinrich.jpg)
-![Schafranek, Olga, Herbert, Heinrich und Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/schafranek-olga.jpg)
-![Schafranek, Olga, Herbert, Heinrich und Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/schafranek-herbert.jpg)
+![Schafranek, Olga, Herbert, Heinrich und Friedrich](../../images/stolpersteine/2a125f0a27c5_schafranek-heinrich.jpg)
+![Schafranek, Olga, Herbert, Heinrich und Friedrich](../../images/stolpersteine/4517b3021262_schafranek-olga.jpg)
+![Schafranek, Olga, Herbert, Heinrich und Friedrich](../../images/stolpersteine/7fd3779358b2_schafranek-herbert.jpg)
 
 ## Links
 

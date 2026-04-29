@@ -11,7 +11,7 @@ filters:
 
 *Mittelweg 3*
 
-![Stolperstein Künstlicher, Samuel, Rosa, Lotte und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/mittelweg_3_haus1.jpg)
+![Stolperstein Künstlicher, Samuel, Rosa, Lotte und Erich](../../images/stolpersteine/23dbaef25bf2_mittelweg_3_haus1.jpg)
 
 Samuel Künstlicher wurde in Homona in Ungarn geboren. Um 1900 kam er nach Berlin, besuchte dort die Schule und absolvierte eine kaufmännische Ausbildung. Im Ersten Weltkrieg nahm er als Unteroffizier an der Ostfront teil. Durch den Versailler Vertrag wurde er zum Staatsbürger der neu gegründeten Tschechoslowakei. Rosa Klein wurde in Wellmich am Rhein geboren. Sie arbeitete als Verkäuferin in Berlin, wo sie Samuel Künstlicher kennenlernte. Sie heirateten 1914 und hatten zwei Kinder, Erich und Lotte. Kurz vor Ausbruch des Ersten Weltkrieges zog die Familie nach Frankfurt. Sie lebte in der Günthersburgallee 16, ab 1928 im Mittelweg 3, ab 1936 in der Merianstraße 31.
 
@@ -460,15 +460,15 @@ Mittelweg 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Künstlicher, Samuel, Rosa, Lotte und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/mittelweg_3_kuenstlicher_erich_und_esther_1945.jpg)
-![Künstlicher, Samuel, Rosa, Lotte und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/mittelweg_3_kuenstlicher_erich_1939-_1940.jpg)
-![Künstlicher, Samuel, Rosa, Lotte und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/mittelweg_3_kuenstlicher_erich_und_lotte_1930er--jahre.jpg)
-![Künstlicher, Samuel, Rosa, Lotte und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/mittelweg_3_kuenstlicher_familienfoto.jpg)
-![Künstlicher, Samuel, Rosa, Lotte und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/mittelweg_3_kuenstlicher_rosa_grab.jpg)
-![Künstlicher, Samuel, Rosa, Lotte und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_mittelweg_3_kuenstlicher_samuel.jpg)
-![Künstlicher, Samuel, Rosa, Lotte und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_mittelweg_3_kuenstlicher_rosa.jpg)
-![Künstlicher, Samuel, Rosa, Lotte und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_mittelweg_3_kuenstlicher_lotte.jpg)
-![Künstlicher, Samuel, Rosa, Lotte und Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_mittelweg_3_kuenstlicher_erich.jpg)
+![Künstlicher, Samuel, Rosa, Lotte und Erich](../../images/stolpersteine/0d9c2362202b_mittelweg_3_kuenstlicher_erich_und_esther_1945.jpg)
+![Künstlicher, Samuel, Rosa, Lotte und Erich](../../images/stolpersteine/5cbc52372582_mittelweg_3_kuenstlicher_erich_1939-_1940.jpg)
+![Künstlicher, Samuel, Rosa, Lotte und Erich](../../images/stolpersteine/3c2638686611_mittelweg_3_kuenstlicher_erich_und_lotte_1930er--jahre.jpg)
+![Künstlicher, Samuel, Rosa, Lotte und Erich](../../images/stolpersteine/06b03934f7e0_mittelweg_3_kuenstlicher_familienfoto.jpg)
+![Künstlicher, Samuel, Rosa, Lotte und Erich](../../images/stolpersteine/14a0f8994d96_mittelweg_3_kuenstlicher_rosa_grab.jpg)
+![Künstlicher, Samuel, Rosa, Lotte und Erich](../../images/stolpersteine/2c7c35d87fb9_stolperst_mittelweg_3_kuenstlicher_samuel.jpg)
+![Künstlicher, Samuel, Rosa, Lotte und Erich](../../images/stolpersteine/0d08ab89b43d_stolperst_mittelweg_3_kuenstlicher_rosa.jpg)
+![Künstlicher, Samuel, Rosa, Lotte und Erich](../../images/stolpersteine/a5fec7004dc7_stolperst_mittelweg_3_kuenstlicher_lotte.jpg)
+![Künstlicher, Samuel, Rosa, Lotte und Erich](../../images/stolpersteine/c1c7a6128b8d_stolperst_mittelweg_3_kuenstlicher_erich.jpg)
 
 ## Links
 

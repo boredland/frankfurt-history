@@ -11,7 +11,7 @@ filters:
 
 *Uhlandstraße 38*
 
-![Stolperstein Uhlandstraße 38](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/uhlandstr_38.jpg)
+![Stolperstein Uhlandstraße 38](../../images/stolpersteine/07aaa768d38b_uhlandstr_38.jpg)
 
 Hauser, Meier, Rachel, Ruth Rebekka, Berta und Rosel sowie Abraham, Erna, Frieda, Josef, Leo, Selma Shulamit und Fanny Nurith
 
@@ -430,17 +430,17 @@ Uhlandstraße 38
 ## Gallery
 
 <!-- gallery:standard -->
-![Uhlandstraße 38](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstrasse_38_abraham_erna.jpg)
-![Uhlandstraße 38](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstrasse_38_abraham_frieda.jpg)
-![Uhlandstraße 38](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstrasse_38_abraham_josef.jpg)
-![Uhlandstraße 38](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstrasse_38_abraham_leo.jpg)
-![Uhlandstraße 38](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstrasse_38_abraham_selma_shulamit.jpg)
-![Uhlandstraße 38](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstrasse_38_hauser_berta.jpg)
-![Uhlandstraße 38](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstrasse_38_hauser_fanny_nurith.jpg)
-![Uhlandstraße 38](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstrasse_38_hauser_meier.jpg)
-![Uhlandstraße 38](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstrasse_38_hauser_rachel.jpg)
-![Uhlandstraße 38](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstrasse_38_hauser_rosel.jpg)
-![Uhlandstraße 38](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstrasse_38_hauser_ruth_rebecca.jpg)
+![Uhlandstraße 38](../../images/stolpersteine/6848b3046830_stolperst_uhlandstrasse_38_abraham_erna.jpg)
+![Uhlandstraße 38](../../images/stolpersteine/e03595c9c68d_stolperst_uhlandstrasse_38_abraham_frieda.jpg)
+![Uhlandstraße 38](../../images/stolpersteine/c80821458510_stolperst_uhlandstrasse_38_abraham_josef.jpg)
+![Uhlandstraße 38](../../images/stolpersteine/8039189f78f1_stolperst_uhlandstrasse_38_abraham_leo.jpg)
+![Uhlandstraße 38](../../images/stolpersteine/615f59960cd0_stolperst_uhlandstrasse_38_abraham_selma_shulamit.jpg)
+![Uhlandstraße 38](../../images/stolpersteine/f9e641725a7e_stolperst_uhlandstrasse_38_hauser_berta.jpg)
+![Uhlandstraße 38](../../images/stolpersteine/5ec6d3b3b8e8_stolperst_uhlandstrasse_38_hauser_fanny_nurith.jpg)
+![Uhlandstraße 38](../../images/stolpersteine/137cd2f03aab_stolperst_uhlandstrasse_38_hauser_meier.jpg)
+![Uhlandstraße 38](../../images/stolpersteine/eaea2e1a723a_stolperst_uhlandstrasse_38_hauser_rachel.jpg)
+![Uhlandstraße 38](../../images/stolpersteine/73d321b6a235_stolperst_uhlandstrasse_38_hauser_rosel.jpg)
+![Uhlandstraße 38](../../images/stolpersteine/986e224e8985_stolperst_uhlandstrasse_38_hauser_ruth_rebecca.jpg)
 
 ## Links
 

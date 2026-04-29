@@ -11,7 +11,7 @@ filters:
 
 *Stegstraße 36*
 
-![Stolperstein Neumann, Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/stegstr_36.jpg)
+![Stolperstein Neumann, Walter](../../images/stolpersteine/70f6e358d927_stegstr_36.jpg)
 
 Walter Neumann
 
@@ -198,8 +198,8 @@ Stegstraße 36
 ## Gallery
 
 <!-- gallery:standard -->
-![Neumann, Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/stegstr_36_walter_neumann.jpg)
-![Neumann, Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_stegstr_36_neumann_walter.jpg)
+![Neumann, Walter](../../images/stolpersteine/bc823fa689c6_stegstr_36_walter_neumann.jpg)
+![Neumann, Walter](../../images/stolpersteine/0ed578c4085a_stolperst_stegstr_36_neumann_walter.jpg)
 
 ## Links
 

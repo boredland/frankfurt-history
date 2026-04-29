@@ -11,7 +11,7 @@ filters:
 
 *Guiollettstraße 55*
 
-![Stolperstein Laven, Alice](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/guiollettstrasse-55_1.jpg)
+![Stolperstein Laven, Alice](../../images/stolpersteine/76b0a3d7f00d_guiollettstrasse-55_1.jpg)
 
 Alice Laven, geb. Haas, wurde in Straßburg (Elsaß) geboren. Ihrer 1910 in erster Ehe geborenen Tochter gelang die Flucht in das US-amerikanische Exil. Sie selbst war zuletzt als "staatenlos" registriert und wohnte in der Guiollettstraße 55.
 
@@ -444,7 +444,7 @@ Guiollettstraße 55
 ## Gallery
 
 <!-- gallery:standard -->
-![Laven, Alice](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_guillottstrasse_5_laven_alice__400x400.jpg)
+![Laven, Alice](../../images/stolpersteine/36dcb28d5300_stolperst_guillottstrasse_5_laven_alice__400x400.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Schumannstraße 15*
 
-![Stolperstein Oppenheimer, Moritz James](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/schumannstrasse-15_1.jpg)
+![Stolperstein Oppenheimer, Moritz James](../../images/stolpersteine/83d5c747aba6_schumannstrasse-15_1.jpg)
 
 Moritz James Oppenheimer wurde in Butzbach geboren. Er war der Sohn von Mayer Oppenheimer und Pauline Oppenheimer, geb. Seligmann. Er heiratete 1901 die nichtjüdische Emma Katharina Oppenheimer, geb. Neuhoff. Sie hatten einen Sohn und eine Tochter; Dr. Walter Georg Oppenheimer, geboren 1904, lebte nach dem Krieg in Frankfurt in der Niedenau 45, ab 1951 in der Elsa-Brandstöm-Straße 9 und ab 1967 in Gravenbruch und verstarb 1972, Paula Hertha Spiegler, geb. Oppenheimer, lebte in Gießen.
 
@@ -448,7 +448,7 @@ Schumannstraße 15
 ## Gallery
 
 <!-- gallery:standard -->
-![Oppenheimer, Moritz James](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstr_15_oppenheimer_moritz_james.jpg)
+![Oppenheimer, Moritz James](../../images/stolpersteine/246f25e2757c_stolperst_schumannstr_15_oppenheimer_moritz_james.jpg)
 
 ## Links
 

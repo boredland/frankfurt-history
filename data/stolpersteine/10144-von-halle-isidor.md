@@ -11,7 +11,7 @@ filters:
 
 *Dreikönigsstraße 35*
 
-![Stolperstein von Halle, Isidor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/dreikoenigstr_35.jpg)
+![Stolperstein von Halle, Isidor](../../images/stolpersteine/f94138dca43c_dreikoenigstr_35.jpg)
 
 Isidor von Halle wurde in Frankfurt am Main geboren und stammte aus einer jüdischen Familie. Er war Sohn des Glasers Siegfried von Halle, geb. am 18.12.1879, und hatte zwei Schwestern Friedel (geb. 19.4.1917 ) und Rosa (geb. 28.4.1905). Er war seit 6.7.1925, nach NS-Definition in "Mischehe", mit der evangelischen Maria, geb. Grede, verheiratet. Die beiden hatten zwei 1926 und 1927 geborenen Söhne und zwei 1933 und 1935 geborene Töchter.
 
@@ -154,7 +154,7 @@ Dreikönigsstraße 35
 ## Gallery
 
 <!-- gallery:standard -->
-![von Halle, Isidor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_dreikoenigstr_35_halle_von_isidor.jpg)
+![von Halle, Isidor](../../images/stolpersteine/105b88882c8c_stolperst_dreikoenigstr_35_halle_von_isidor.jpg)
 
 ## Links
 

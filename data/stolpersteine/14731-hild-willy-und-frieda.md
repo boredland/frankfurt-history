@@ -11,7 +11,7 @@ filters:
 
 *Marbachweg 291*
 
-![Stolperstein Hild, Willy und Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/marbachweg_291.jpg)
+![Stolperstein Hild, Willy und Frieda](../../images/stolpersteine/65894ed7c10f_marbachweg_291.jpg)
 
 Hild, Willy
 
@@ -138,11 +138,11 @@ Marbachweg 291
 ## Gallery
 
 <!-- gallery:standard -->
-![Hild, Willy und Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/hild-willy.jpg)
-![Hild, Willy und Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/hild-frieda.jpg)
-![Hild, Willy und Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/orchester-mit-willy-hild-im-kreis.jpg)
-![Hild, Willy und Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/vermerk-der-kommandantur-des-konzentrationslagers-buchenwald.jpg)
-![Hild, Willy und Frieda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperst_marbachweg_291_hild_willy.jpg)
+![Hild, Willy und Frieda](../../images/stolpersteine/bd02b19e7e35_hild-willy.jpg)
+![Hild, Willy und Frieda](../../images/stolpersteine/2e993a3338e8_hild-frieda.jpg)
+![Hild, Willy und Frieda](../../images/stolpersteine/f0ea5177956e_orchester-mit-willy-hild-im-kreis.jpg)
+![Hild, Willy und Frieda](../../images/stolpersteine/ca6589a2993f_vermerk-der-kommandantur-des-konzentrationslagers-buchenwald.jpg)
+![Hild, Willy und Frieda](../../images/stolpersteine/caa778448e06_stolperst_marbachweg_291_hild_willy.jpg)
 
 ## Links
 

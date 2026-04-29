@@ -11,7 +11,7 @@ filters:
 
 *In der Römerstadt 205*
 
-![Stolperstein Simenauer, Kaethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/in_der_roemerstadt_205__400x300.jpg)
+![Stolperstein Simenauer, Kaethe](../../images/stolpersteine/da1b27941c7f_in_der_roemerstadt_205__400x300.jpg)
 
 Kaethe Simenauer wurde als Tochter von Elias Simenauer und Amalie geb. Rosenbaum in Nikolai/Polen geboren. Sie hatte noch eine Schwester Rosalie. Sie wohnte von 1929 bis 1936 mit ihrer Tochter Edith, geb. 22.10.1922, in der Römerstadt 205 in einer 2-Zimmerwohnung. Sie war ledig und arbeitete als Stenotypistin in verschiedenen Unternehmen, nachweislich zuletzt bei dem Konsulenten Max L. Israel Cohn in der Rüsterstraße 15. Die Tochter konnte wahrscheinlich mit der Jugendalijah nach Palästina emigrieren, 1940 hielt sie sich bereits in Haifa auf, wo sie noch 1961 mit dem Namen Yehudit Yardenit wohnte.
 
@@ -98,7 +98,7 @@ In der Römerstadt 205
 ## Gallery
 
 <!-- gallery:standard -->
-![Simenauer, Kaethe](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/simenauer-kaethe.jpg)
+![Simenauer, Kaethe](../../images/stolpersteine/5ada837ce41f_simenauer-kaethe.jpg)
 
 ## Links
 

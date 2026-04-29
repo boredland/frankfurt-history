@@ -11,7 +11,7 @@ filters:
 
 *Broßstraße 7*
 
-![Stolperstein Steinthal, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/brossstr_7.jpg)
+![Stolperstein Steinthal, Moritz](../../images/stolpersteine/64ebdbbbe856_brossstr_7.jpg)
 
 Johannes Moritz Steinthal wurde in Bradford/England geboren, als jüngster Sohn des aus Hamburg gebürtigen Wollkaufmanns Carl Gustav Steinthal und der badischen Pfarrerstochter Rosa Hormuth. Im Alter von fünf Jahren kam er, als sein Vater sich zur Ruhe setzte, nach Deutschland, verbrachte in Frankfurt am Main seine Schulzeit (Abitur 1888) und ließ sich als preußischer Untertan naturalisieren. Er studierte Jura in Lausanne, wo er der Verbindung deutscher Studenten „Germania“ beitrat, in Berlin und Leipzig. In Berlin machte er seinen freiwillig-einjährigen Dienst und erhielt sein Offizierspatent. Nach Promotion und Assessorexamen wurde er 1897 als Rechtsanwalt am Oberlandesgericht in Frankfurt am Main zugelassen.
 
@@ -124,11 +124,11 @@ Broßstraße 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Steinthal, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/steinthal-moritz.jpg)
-![Steinthal, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/moritz-und-hedwig-steinthal.jpg)
-![Steinthal, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/moritz-steinthal-bei-der-taufe-seines-enkels-klaus.jpg)
-![Steinthal, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/moritz-steinthal-mit-familie-vor-seinem-haus-1912.jpg)
-![Steinthal, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_brossstrasse_7_steinthal_moritz.jpg)
+![Steinthal, Moritz](../../images/stolpersteine/d3e14a66283a_steinthal-moritz.jpg)
+![Steinthal, Moritz](../../images/stolpersteine/9d53e3e72644_moritz-und-hedwig-steinthal.jpg)
+![Steinthal, Moritz](../../images/stolpersteine/5fafdae43dc7_moritz-steinthal-bei-der-taufe-seines-enkels-klaus.jpg)
+![Steinthal, Moritz](../../images/stolpersteine/4aa7e03205a8_moritz-steinthal-mit-familie-vor-seinem-haus-1912.jpg)
+![Steinthal, Moritz](../../images/stolpersteine/50415e8122d2_stolperst_brossstrasse_7_steinthal_moritz.jpg)
 
 ## Links
 

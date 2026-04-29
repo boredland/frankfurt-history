@@ -11,7 +11,7 @@ filters:
 
 *Eschersheimer Landstraße 267*
 
-![Stolperstein Erl, Sofie und Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/eschersheimer-landstrasse-267_1.jpg)
+![Stolperstein Erl, Sofie und Hans](../../images/stolpersteine/7a291d56f31c_eschersheimer-landstrasse-267_1.jpg)
 
 Hans Erl, geboren in Warschau, war ein bekannter Opernsänger, seit
 
@@ -530,9 +530,9 @@ Eschersheimer Landstraße 267
 ## Gallery
 
 <!-- gallery:standard -->
-![Erl, Sofie und Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/hans-erl.jpg)
-![Erl, Sofie und Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperstein_eschenheimer_landstr_267_erl_hans.jpg)
-![Erl, Sofie und Hans](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperstein_eschenheimer_landstr_267_erl_sofie.jpg)
+![Erl, Sofie und Hans](../../images/stolpersteine/f46cebb607bf_hans-erl.jpg)
+![Erl, Sofie und Hans](../../images/stolpersteine/20d3b1c4066f_stolperstein_eschenheimer_landstr_267_erl_hans.jpg)
+![Erl, Sofie und Hans](../../images/stolpersteine/ffdb0ef9368b_stolperstein_eschenheimer_landstr_267_erl_sofie.jpg)
 
 ## Links
 

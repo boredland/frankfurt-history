@@ -11,7 +11,7 @@ filters:
 
 *Mauerweg 10*
 
-![Stolperstein Scheuer, Selma und Simon, Eugen und Betty Kloos und Anna und Emil Schmitt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/mauerweg_10.jpg)
+![Stolperstein Scheuer, Selma und Simon, Eugen und Betty Kloos und Anna und Emil Schmitt](../../images/stolpersteine/e192ba79673a_mauerweg_10.jpg)
 
 Die drei Schwestern Barbara (Betty) Kloos, Selma Scheuer und Anna Schmitt wurden in Lambsheim in der Pfalz geboren. Ihre Eltern Karl und Luise Wertheimer hatten insgesamt sieben Kinder. Im April 1907 zog die Familie von Freinsheim in der Pfalz nach Frankfurt. Karl Wertheimer starb im Jahr 1911. Die Familie wohnte zunächst in der Burgstraße 19 und ab dem 6. Mai 1910 bis 1931 im Mauerweg 10 im 2. Stock. Hier wohnten die drei Schwestern und ihr Bruder Ludwig mit der Mutter und später auch mit ihren Ehepartnern zusammen. Im Jahr 1931 zogen die Eheleute in eigene Wohnungen. Die inzwischen 73jährige Mutter zog mit der Tochter Betty und deren Mann Eugen Kloos in die Textorstraße 94, wo sie am 6. Februar 1937 starb und noch auf dem alten jüdischen Friedhof in der Rat-Beil-Straße beerdigt wurde.
 
@@ -490,8 +490,8 @@ Mauerweg 10
 ## Gallery
 
 <!-- gallery:standard -->
-![Scheuer, Selma und Simon, Eugen und Betty Kloos und Anna und Emil Schmitt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/schmitt-anna.jpg)
-![Scheuer, Selma und Simon, Eugen und Betty Kloos und Anna und Emil Schmitt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-scheuer-selma.jpg)
+![Scheuer, Selma und Simon, Eugen und Betty Kloos und Anna und Emil Schmitt](../../images/stolpersteine/19bcf36b0aaa_schmitt-anna.jpg)
+![Scheuer, Selma und Simon, Eugen und Betty Kloos und Anna und Emil Schmitt](../../images/stolpersteine/f2e56844f22b_stolperstein-scheuer-selma.jpg)
 
 ## Links
 

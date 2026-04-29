@@ -11,7 +11,7 @@ filters:
 
 *Eschersheimer Landstraße 69*
 
-![Stolperstein Dreifuss, Julius, Anna, Adolf und Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/eschersheimer_landstr_69.jpg)
+![Stolperstein Dreifuss, Julius, Anna, Adolf und Hedwig](../../images/stolpersteine/c1ef32c0a8bc_eschersheimer_landstr_69.jpg)
 
 Julius Dreifuss wurde in Bad Kreuznach, Anna Kaan in Gießen geboren:
 
@@ -588,10 +588,10 @@ Eschersheimer Landstraße 69
 ## Gallery
 
 <!-- gallery:standard -->
-![Dreifuss, Julius, Anna, Adolf und Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eschersheimer_landstr_69_dreifuss_julius.jpg)
-![Dreifuss, Julius, Anna, Adolf und Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eschersheimer_landstr_69_dreifuss_anna.jpg)
-![Dreifuss, Julius, Anna, Adolf und Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eschersheimer_landstr_69_dreifuss_adolf.jpg)
-![Dreifuss, Julius, Anna, Adolf und Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eschersheimer_landstr_69_dreifuss_hedwig.jpg)
+![Dreifuss, Julius, Anna, Adolf und Hedwig](../../images/stolpersteine/28d0bf035dee_stolperst_eschersheimer_landstr_69_dreifuss_julius.jpg)
+![Dreifuss, Julius, Anna, Adolf und Hedwig](../../images/stolpersteine/4c82ab1525a4_stolperst_eschersheimer_landstr_69_dreifuss_anna.jpg)
+![Dreifuss, Julius, Anna, Adolf und Hedwig](../../images/stolpersteine/1e9e757b65a9_stolperst_eschersheimer_landstr_69_dreifuss_adolf.jpg)
+![Dreifuss, Julius, Anna, Adolf und Hedwig](../../images/stolpersteine/862d77d950a0_stolperst_eschersheimer_landstr_69_dreifuss_hedwig.jpg)
 
 ## Links
 

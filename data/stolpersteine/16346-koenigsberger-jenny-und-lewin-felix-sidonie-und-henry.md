@@ -11,7 +11,7 @@ filters:
 
 *Königsteiner Straße 6*
 
-![Stolperstein Königsberger, Jenny und Lewin, Felix, Sidonie und Henry](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/koenigsteinerstr_6__300x400.jpg)
+![Stolperstein Königsberger, Jenny und Lewin, Felix, Sidonie und Henry](../../images/stolpersteine/4e51ab94bbf6_koenigsteinerstr_6__300x400.jpg)
 
 Jenny Oberdörfer stammte aus Wandsbeck bei Hamburg, ihr Mann, der Lehrer Heinrich Königsberger, starb bereits 1899. Das Paar hatte zwei Kinder. Einem Sohn gelang  die Flucht ins amerikanische Exil. Die Tochter Sidonie, geboren in Crailsheim (Württemberg), heiratete den Kaufmann, Felix Lewin, der aus Schneidemühl im Kreis Kolmar stammte. 1902 wird in Siegburg der Sohn Henry geboren. 1907 zogen beide mit ihrem Sohn Henry nach Höchst. Er übernahm ein Geschäft mit vorwiegend Textilien. Es hieß damals noch C. Nawaratzki und Co., Inhaber: Felix Lewin.
 
@@ -200,9 +200,9 @@ Königsteiner Straße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Königsberger, Jenny und Lewin, Felix, Sidonie und Henry](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/lewin-henry.jpg)
-![Königsberger, Jenny und Lewin, Felix, Sidonie und Henry](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/kaufhaus-lewin.jpg)
-![Königsberger, Jenny und Lewin, Felix, Sidonie und Henry](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_koenigsteinerstr_6_lewin_jenny__400x400.jpg)
+![Königsberger, Jenny und Lewin, Felix, Sidonie und Henry](../../images/stolpersteine/b845d4d70c48_lewin-henry.jpg)
+![Königsberger, Jenny und Lewin, Felix, Sidonie und Henry](../../images/stolpersteine/e36c9523b01f_kaufhaus-lewin.jpg)
+![Königsberger, Jenny und Lewin, Felix, Sidonie und Henry](../../images/stolpersteine/6ca34cc12693_stolperst_koenigsteinerstr_6_lewin_jenny__400x400.jpg)
 
 ## Links
 

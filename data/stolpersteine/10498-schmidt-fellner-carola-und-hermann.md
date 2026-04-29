@@ -11,7 +11,7 @@ filters:
 
 *Marienstraße 9*
 
-![Stolperstein Schmidt-Fellner, Carola und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/marienstr_9.jpg)
+![Stolperstein Schmidt-Fellner, Carola und Hermann](../../images/stolpersteine/b454bd278b16_marienstr_9.jpg)
 
 Schmidt-Fellner, Hermann
 
@@ -118,11 +118,11 @@ Marienstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Schmidt-Fellner, Carola und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/schmidt-fellner-hermann.jpg)
-![Schmidt-Fellner, Carola und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/hochzeit-schmidt-fellner.jpg)
-![Schmidt-Fellner, Carola und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/schmidt-fellner-hermann-2.jpg)
-![Schmidt-Fellner, Carola und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperstein_marienstr_9_schmidt-fellner_hermann.jpg)
-![Schmidt-Fellner, Carola und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/carola-schmitt-fellner.jpg)
+![Schmidt-Fellner, Carola und Hermann](../../images/stolpersteine/86e952d904cd_schmidt-fellner-hermann.jpg)
+![Schmidt-Fellner, Carola und Hermann](../../images/stolpersteine/b26b40fcbe6e_hochzeit-schmidt-fellner.jpg)
+![Schmidt-Fellner, Carola und Hermann](../../images/stolpersteine/83de30a9cdbf_schmidt-fellner-hermann-2.jpg)
+![Schmidt-Fellner, Carola und Hermann](../../images/stolpersteine/3e2e499b8369_stolperstein_marienstr_9_schmidt-fellner_hermann.jpg)
+![Schmidt-Fellner, Carola und Hermann](../../images/stolpersteine/3f7a65eafc67_carola-schmitt-fellner.jpg)
 
 ## Links
 

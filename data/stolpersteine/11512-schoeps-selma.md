@@ -11,7 +11,7 @@ filters:
 
 *Saalburgstraße 19*
 
-![Stolperstein Schöps, Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/saalburgstr_19__300x400.jpg)
+![Stolperstein Schöps, Selma](../../images/stolpersteine/72c0d53efef5_saalburgstr_19__300x400.jpg)
 
 Selma Schöps mit Enkelin Gisela
 
@@ -86,8 +86,8 @@ Saalburgstraße 19
 ## Gallery
 
 <!-- gallery:standard -->
-![Schöps, Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/opferbilder/selma-schoeps-mit-enkelin-gisela.jpg)
-![Schöps, Selma](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bornheim/stolperst_saalburgstr_19_schoeps_selma__400x400.jpg)
+![Schöps, Selma](../../images/stolpersteine/ae298db879b2_selma-schoeps-mit-enkelin-gisela.jpg)
+![Schöps, Selma](../../images/stolpersteine/cabe6910162d_stolperst_saalburgstr_19_schoeps_selma__400x400.jpg)
 
 ## Links
 

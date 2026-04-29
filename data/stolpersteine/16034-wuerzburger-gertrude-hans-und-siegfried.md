@@ -11,7 +11,7 @@ filters:
 
 *Bockenheimer Landstraße 9*
 
-![Stolperstein Würzburger, Gertrude, Hans und Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/bockenheimer-landstrasse-9_1.jpg)
+![Stolperstein Würzburger, Gertrude, Hans und Siegfried](../../images/stolpersteine/372633430bc6_bockenheimer-landstrasse-9_1.jpg)
 
 Familie Würzburger
 
@@ -484,10 +484,10 @@ Bockenheimer Landstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Würzburger, Gertrude, Hans und Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/familie-wurzburger.jpg)
-![Würzburger, Gertrude, Hans und Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bockenheimer_landstr_9_wuerzburger_gertrude.jpg)
-![Würzburger, Gertrude, Hans und Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bockenheimer_landstr_9_wuerzburger_hans.jpg)
-![Würzburger, Gertrude, Hans und Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bockenheimer_landstr_9_wuerzburger_siegfried.jpg)
+![Würzburger, Gertrude, Hans und Siegfried](../../images/stolpersteine/5ea21b57d63a_familie-wurzburger.jpg)
+![Würzburger, Gertrude, Hans und Siegfried](../../images/stolpersteine/f93c9a397556_stolperst_bockenheimer_landstr_9_wuerzburger_gertrude.jpg)
+![Würzburger, Gertrude, Hans und Siegfried](../../images/stolpersteine/5a529b94d943_stolperst_bockenheimer_landstr_9_wuerzburger_hans.jpg)
+![Würzburger, Gertrude, Hans und Siegfried](../../images/stolpersteine/b757ae9894ed_stolperst_bockenheimer_landstr_9_wuerzburger_siegfried.jpg)
 
 ## Links
 

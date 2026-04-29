@@ -11,7 +11,7 @@ filters:
 
 *Reuterweg 91*
 
-![Stolperstein Isenburger, Ludwig und Bella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/reuterweg_91.jpg)
+![Stolperstein Isenburger, Ludwig und Bella](../../images/stolpersteine/84ecd5eaf5d8_reuterweg_91.jpg)
 
 Ludwig
 
@@ -668,11 +668,11 @@ Reuterweg 91
 ## Gallery
 
 <!-- gallery:standard -->
-![Isenburger, Ludwig und Bella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/reuterweg_91_isenburger_ludwig_1.jpg)
-![Isenburger, Ludwig und Bella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/reuterweg_91_isenburger_ludwig_2.jpg)
-![Isenburger, Ludwig und Bella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/reuterweg_91_isenburger_ludwig_3.jpg)
-![Isenburger, Ludwig und Bella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/isenburger-ludwig.jpg)
-![Isenburger, Ludwig und Bella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/isenburger-bella.jpg)
+![Isenburger, Ludwig und Bella](../../images/stolpersteine/ed978b4ee067_reuterweg_91_isenburger_ludwig_1.jpg)
+![Isenburger, Ludwig und Bella](../../images/stolpersteine/0027f5946269_reuterweg_91_isenburger_ludwig_2.jpg)
+![Isenburger, Ludwig und Bella](../../images/stolpersteine/68f670e73a30_reuterweg_91_isenburger_ludwig_3.jpg)
+![Isenburger, Ludwig und Bella](../../images/stolpersteine/c9f049b951e2_isenburger-ludwig.jpg)
+![Isenburger, Ludwig und Bella](../../images/stolpersteine/dd912e056d54_isenburger-bella.jpg)
 
 ## Links
 

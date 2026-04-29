@@ -11,7 +11,7 @@ filters:
 
 *Mainstraße 10*
 
-![Stolperstein Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/mainstr_10.jpg)
+![Stolperstein Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/df8b268a34ad_mainstr_10.jpg)
 
 Jakob
 
@@ -350,22 +350,22 @@ Mainstraße 10
 ## Gallery
 
 <!-- gallery:standard -->
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/mainstr_10_weinberger_jakob_und_glicka.jpg)
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/mainstr_10_weinberger_familie.jpg)
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/mainstr_10_weinberger_oben_sally_unten_ruth_toni_hermann_hirsch.jpg)
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/mainstr_10_weinberger_sally.jpg)
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/mainstr_10_weinberger_hermann_hirsch.jpg)
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/mainstr_10_weinberger_ruth.jpg)
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/mainstr_10_weinberger_toni.jpg)
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/mainstr_10_weinberger_rosa_riwa.jpg)
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/mainstr_10_weinberger_hermann_miriam_jakob_gila_und_adi.jpg)
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_mainstr_10_weinberger_glicka.jpg)
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_mainstr_10_weinberger_jakob.jpg)
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_mainstr_10_weinberger_sally.jpg)
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_mainstr_10_weinberger_hermann.jpg)
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_mainstr_10_weinberger_ruth.jpg)
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_mainstr_10_weinberger_toni.jpg)
-![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_mainstr_10_weinberger_rosa.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/e32d723e4f32_mainstr_10_weinberger_jakob_und_glicka.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/d2600deecf13_mainstr_10_weinberger_familie.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/7a98b392f59a_mainstr_10_weinberger_oben_sally_unten_ruth_toni_hermann_hir.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/93f8d2f0f886_mainstr_10_weinberger_sally.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/c27211d21585_mainstr_10_weinberger_hermann_hirsch.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/712a0336edaa_mainstr_10_weinberger_ruth.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/35189f5b465f_mainstr_10_weinberger_toni.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/56ed7aeface2_mainstr_10_weinberger_rosa_riwa.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/81e15beb9371_mainstr_10_weinberger_hermann_miriam_jakob_gila_und_adi.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/04f5bf3d3d69_stolperst_mainstr_10_weinberger_glicka.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/f1827a479436_stolperst_mainstr_10_weinberger_jakob.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/0b9ddc112ec1_stolperst_mainstr_10_weinberger_sally.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/e95eee4670a9_stolperst_mainstr_10_weinberger_hermann.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/a14fccfcd21b_stolperst_mainstr_10_weinberger_ruth.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/c08b60365fba_stolperst_mainstr_10_weinberger_toni.jpg)
+![Weinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa](../../images/stolpersteine/c2d6c58ec26f_stolperst_mainstr_10_weinberger_rosa.jpg)
 
 ## Links
 

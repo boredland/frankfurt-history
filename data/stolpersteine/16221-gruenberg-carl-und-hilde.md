@@ -11,7 +11,7 @@ filters:
 
 *Gutleutstraße 85*
 
-![Stolperstein Grünberg, Carl und Hilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/gutleutstr_85.jpg)
+![Stolperstein Grünberg, Carl und Hilde](../../images/stolpersteine/50af88cd006e_gutleutstr_85.jpg)
 
 Carl Grünberg wurde in Focsani in Rumänien geboren, seine Eltern waren österreichische Juden. Er war mit Hilde Ehrenzweig verheiratet, sie hatten zwei Söhne. Er besuchte das Gymnasium in Czernowitz in der damals österreichischen Bukowina, wo er 1881 die Matura absolvierte. Er studierte dann in Wien Rechts- und Sozialwissenschaften. 1886 schloss er mit der Promotion zum Dr.jur. ab. Er betrieb eine Praxis als Advokat, wechselte später zum beamteten k.k. Gerichtssekretär.
 
@@ -82,8 +82,8 @@ Gutleutstraße 85
 ## Gallery
 
 <!-- gallery:standard -->
-![Grünberg, Carl und Hilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/stolperst_gutleutstr_85_gruenberg_dr_carl.jpg)
-![Grünberg, Carl und Hilde](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/stolperst_gutleutstr_85_gruenberg_hilde.jpg)
+![Grünberg, Carl und Hilde](../../images/stolpersteine/d2ba966cac42_stolperst_gutleutstr_85_gruenberg_dr_carl.jpg)
+![Grünberg, Carl und Hilde](../../images/stolpersteine/a849f71c8292_stolperst_gutleutstr_85_gruenberg_hilde.jpg)
 
 ## Links
 

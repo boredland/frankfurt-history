@@ -12,7 +12,7 @@ filters:
 
 *Gaußstraße 16*
 
-![Stolperstein Carlebach, Liesel und Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/gausstrasse_16__300x400.jpg)
+![Stolperstein Carlebach, Liesel und Emil](../../images/stolpersteine/0436db43749e_gausstrasse_16__300x400.jpg)
 
 Liesel und
 
@@ -549,9 +549,9 @@ Gaußstraße 16
 ## Gallery
 
 <!-- gallery:standard -->
-![Carlebach, Liesel und Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/gaussstr_16_carlebach_liesel_1.jpg)
-![Carlebach, Liesel und Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_gaussstr_16_carlebach_emil.jpg)
-![Carlebach, Liesel und Emil](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_gaussstr_16_carlebach_liesel.jpg)
+![Carlebach, Liesel und Emil](../../images/stolpersteine/b8287a63e1d4_gaussstr_16_carlebach_liesel_1.jpg)
+![Carlebach, Liesel und Emil](../../images/stolpersteine/9ec1f3ed0ac3_stolperst_gaussstr_16_carlebach_emil.jpg)
+![Carlebach, Liesel und Emil](../../images/stolpersteine/a382590723e8_stolperst_gaussstr_16_carlebach_liesel.jpg)
 
 ## Links
 

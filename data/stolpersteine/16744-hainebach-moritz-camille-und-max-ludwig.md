@@ -11,7 +11,7 @@ filters:
 
 *Weberstraße 21*
 
-![Stolperstein Hainebach, Moritz, Camille und Max Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/weberstr_21.jpg)
+![Stolperstein Hainebach, Moritz, Camille und Max Ludwig](../../images/stolpersteine/2ecff0646142_weberstr_21.jpg)
 
 Moritz Hainebach wurde in Indianapolis (USA) als Sohn des Lehrers Hermann Hainebach aus Seligenstadt und von Emma Hainebach, geb. Adler, aus Kelsterbach geboren. Die Familie zog 1873 nach Frankfurt am Main und wohnte Am Tiergarten 52. Moritz Hainebach nahm ab dem sechsten Lebensjahr Violinunterricht und war von 1887 bis 1891 Schüler am Dr. Hoch’schen Konservatorium bei Professor Fritz Bassermann, er hatte Unterricht in Klavier, Musiktheorie und Orchesterspiel. Anschließend war er Privatschüler von Johann Naret-Koning, Konzertmeister am Frankfurter Opernhaus, der ihm 1898 eine Mitwirkung im Opernorchester bescheinigte.
 
@@ -452,12 +452,12 @@ Weberstraße 21
 ## Gallery
 
 <!-- gallery:standard -->
-![Hainebach, Moritz, Camille und Max Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/weberstr_21_max_ludwig_hainebach_nach_ankunft_in_usa.jpg)
-![Hainebach, Moritz, Camille und Max Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/weberstr_21_max_ludwig_hainebach_und_david_haines_1984.jpg)
-![Hainebach, Moritz, Camille und Max Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/weberstr_21_max_ludwig_hainebach_1985.jpg)
-![Hainebach, Moritz, Camille und Max Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_weberstr_21_hainebach_moritz.jpg)
-![Hainebach, Moritz, Camille und Max Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_weberstr_21_hainebach_camille.jpg)
-![Hainebach, Moritz, Camille und Max Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_weberstr_21_hainebach_ludwig.jpg)
+![Hainebach, Moritz, Camille und Max Ludwig](../../images/stolpersteine/40adce6412c5_weberstr_21_max_ludwig_hainebach_nach_ankunft_in_usa.jpg)
+![Hainebach, Moritz, Camille und Max Ludwig](../../images/stolpersteine/2cc4240801cb_weberstr_21_max_ludwig_hainebach_und_david_haines_1984.jpg)
+![Hainebach, Moritz, Camille und Max Ludwig](../../images/stolpersteine/96182482b52f_weberstr_21_max_ludwig_hainebach_1985.jpg)
+![Hainebach, Moritz, Camille und Max Ludwig](../../images/stolpersteine/73bea7089fec_stolperst_weberstr_21_hainebach_moritz.jpg)
+![Hainebach, Moritz, Camille und Max Ludwig](../../images/stolpersteine/80fde0bb672f_stolperst_weberstr_21_hainebach_camille.jpg)
+![Hainebach, Moritz, Camille und Max Ludwig](../../images/stolpersteine/9b15513b1156_stolperst_weberstr_21_hainebach_ludwig.jpg)
 
 ## Links
 

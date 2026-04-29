@@ -11,7 +11,7 @@ filters:
 
 *Gaußstraße 16*
 
-![Stolperstein Moses, Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/gaussstrasse_14_haus.jpg)
+![Stolperstein Moses, Hugo](../../images/stolpersteine/e6a5d81e12e9_gaussstrasse_14_haus.jpg)
 
 Hugo Moses aus Mingolsheim in Baden heiratete am 02.08.1923 die Christin Margarete, geb. Saarholz aus Frankfurt. Sie trat nach ihrer Eheschließung zum Judentum über. 1924 eröffnete Hugo Moses in der Braubachstraße 32-34 ein Fahrradgeschäft, das er zunächst auf den Vertrieb von „Sprechgeräten und Schallplatten“ und ab 1927 auch noch auf den Vertrieb von „Nähmaschinen und Sportartikeln“ erweiterte. Bis 1933 war er Anhänger und Wähler der Demokratischen Partei. 1934 zog das Ehepaar in die Parterrewohnung der Gaußstraße 14 ein. Am 1. Juli 1938 musste Hugo Moses sein Geschäft wegen des Nazi-Boykotts aufgeben.
 
@@ -406,7 +406,7 @@ Gaußstraße 14
 ## Gallery
 
 <!-- gallery:standard -->
-![Moses, Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-moses-hugo.jpg)
+![Moses, Hugo](../../images/stolpersteine/5f73d8ad1bf3_stolperstein-moses-hugo.jpg)
 
 ## Links
 

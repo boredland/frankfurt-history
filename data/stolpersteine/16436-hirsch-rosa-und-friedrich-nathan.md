@@ -11,7 +11,7 @@ filters:
 
 *Marktstraße 102*
 
-![Stolperstein Hirsch, Rosa und Friedrich Nathan](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/marktstrasse_102.jpg)
+![Stolperstein Hirsch, Rosa und Friedrich Nathan](../../images/stolpersteine/e7a29f726b97_marktstrasse_102.jpg)
 
 Friedrich Nathan und Rosa Hirsch wurden in Bergen-Enkheim geboren und heirateten 1919.  Rosa Hirsch war die Tochter von Adolf Gruenebaum und Henriette Gruenebaum, geb. Kahn. Sie besuchte die Volksschule in Bergen, anschließend das Philanthropin in Frankfurt und absolvierte bis etwa 1918 eine Ausbildung als Krankenschwester. Sie hatten eine Tochter und einen Sohn, denen die Flucht in das US-amerikanische Exil gelang.
 
@@ -196,7 +196,7 @@ Marktstraße 102
 ## Gallery
 
 <!-- gallery:standard -->
-![Hirsch, Rosa und Friedrich Nathan](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolperstein-hirsch-friedrich-nathan.jpg)
+![Hirsch, Rosa und Friedrich Nathan](../../images/stolpersteine/1afe5ffe69a5_stolperstein-hirsch-friedrich-nathan.jpg)
 
 ## Links
 

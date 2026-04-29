@@ -11,7 +11,7 @@ filters:
 
 *Untere Rützelstraße 1*
 
-![Stolperstein Baum, Clara, Käthe und Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/untere_ruetzelstrasse_1.jpg)
+![Stolperstein Baum, Clara, Käthe und Salomon](../../images/stolpersteine/f69097a469d0_untere_ruetzelstrasse_1.jpg)
 
 Clara Baum (Mitte) mit ihren Töchtern Trude (rechts vorn) und Alice (links)
 
@@ -90,12 +90,12 @@ Untere Rützelstraße 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Baum, Clara, Käthe und Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/opferbilder/clara-baum-mitte-mit-ihren-toechtern-trude-rechts-vorn-und-alice-links.jpg)
-![Baum, Clara, Käthe und Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/opferbilder/baum-kaethe.jpg)
-![Baum, Clara, Käthe und Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/opferbilder/klassenbild-mit-kaethe-baum.jpg)
-![Baum, Clara, Käthe und Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/stolperst_untere_ruetzelstrasse_1_baum_clara.jpg)
-![Baum, Clara, Käthe und Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/stolperst_untere_ruetzelstrasse_1_baum_kaethe.jpg)
-![Baum, Clara, Käthe und Salomon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/stolperst_untere_ruetzelstrasse_1_baum_salomon.jpg)
+![Baum, Clara, Käthe und Salomon](../../images/stolpersteine/cd542696a0c8_clara-baum-mitte-mit-ihren-toechtern-trude-rechts-vorn-und-a.jpg)
+![Baum, Clara, Käthe und Salomon](../../images/stolpersteine/3c244abac986_baum-kaethe.jpg)
+![Baum, Clara, Käthe und Salomon](../../images/stolpersteine/fb992475d65e_klassenbild-mit-kaethe-baum.jpg)
+![Baum, Clara, Käthe und Salomon](../../images/stolpersteine/289db2b71943_stolperst_untere_ruetzelstrasse_1_baum_clara.jpg)
+![Baum, Clara, Käthe und Salomon](../../images/stolpersteine/1e381675909b_stolperst_untere_ruetzelstrasse_1_baum_kaethe.jpg)
+![Baum, Clara, Käthe und Salomon](../../images/stolpersteine/bd29de5ea180_stolperst_untere_ruetzelstrasse_1_baum_salomon.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Kronberger Straße 47*
 
-![Stolperstein Kracauer, Hedwig und Rosette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/kronberger-strasse-47_1.jpg)
+![Stolperstein Kracauer, Hedwig und Rosette](../../images/stolpersteine/56c3e17fc07d_kronberger-strasse-47_1.jpg)
 
 Rosette und Hedwig Kracauer
 
@@ -466,7 +466,7 @@ Kronberger Straße 47
 ## Gallery
 
 <!-- gallery:standard -->
-![Kracauer, Hedwig und Rosette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/rosette-und-hedwig-kracauer.jpg)
+![Kracauer, Hedwig und Rosette](../../images/stolpersteine/70edcde8947c_rosette-und-hedwig-kracauer.jpg)
 
 ## Links
 

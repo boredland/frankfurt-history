@@ -12,7 +12,7 @@ filters:
 
 *Frankenallee 114*
 
-![Stolperstein Knorsch, Lilly](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/frankenallee_114.jpg)
+![Stolperstein Knorsch, Lilly](../../images/stolpersteine/180807da1058_frankenallee_114.jpg)
 
 Lilly Knorsch wurde in Frankfurt am Main geboren.
 
@@ -179,7 +179,7 @@ Frankenallee 114
 ## Gallery
 
 <!-- gallery:standard -->
-![Knorsch, Lilly](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_frankenallee_114_knorsch_lilly.jpg)
+![Knorsch, Lilly](../../images/stolpersteine/37f83e8ff334_stolperst_frankenallee_114_knorsch_lilly.jpg)
 
 ## Links
 

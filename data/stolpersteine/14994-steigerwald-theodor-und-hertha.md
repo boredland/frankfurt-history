@@ -11,7 +11,7 @@ filters:
 
 *Telemannstraße 13*
 
-![Stolperstein Steigerwald, Theodor und Hertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/telemannstrasse-13_1.jpg)
+![Stolperstein Steigerwald, Theodor und Hertha](../../images/stolpersteine/59c4443a5d5d_telemannstrasse-13_1.jpg)
 
 Theodor Steigerwald wurde als Sohn von Minna und Salomon Steigerwald in Frankfurt geboren. Zeitweise arbeitete er im elterlichen Betrieb, einer Viehagentur beim Schlachthof in Frankfurt. Mit seiner aus Dortmund stammenden Ehefrau lebte Theodor Steigerwald in der Telemannstraße 13 a. Eng verbunden war er mit der Familie seines Onkels Moritz, gleichzeitig Geschäftspartner seines Vaters Salomon, dessen aus Oberursel stammender Frau Adelheid und deren Kindern. An Adelheid und Moritz Steigerwald erinnern Stolpersteine in der Ostendstraße 49.
 
@@ -464,8 +464,8 @@ Telemannstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Steigerwald, Theodor und Hertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_telemannstr_13_steigerwald_hertha_2383869.jpg)
-![Steigerwald, Theodor und Hertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_telemannstr_13_steigerwald_theodor.jpg)
+![Steigerwald, Theodor und Hertha](../../images/stolpersteine/a9548022726a_stolperst_telemannstr_13_steigerwald_hertha_2383869.jpg)
+![Steigerwald, Theodor und Hertha](../../images/stolpersteine/02637dc59df3_stolperst_telemannstr_13_steigerwald_theodor.jpg)
 
 ## Links
 

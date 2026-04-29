@@ -11,7 +11,7 @@ filters:
 
 *Alt-Heddernheim 33*
 
-![Stolperstein Schwelm, Berta, Max und Hildegard Ilse](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/alt_heddernheim_33_haus.jpg)
+![Stolperstein Schwelm, Berta, Max und Hildegard Ilse](../../images/stolpersteine/70ef14ac52a5_alt_heddernheim_33_haus.jpg)
 
 Max Schwelm und Berta Schwelm hatten zwei Kinder: Hildegard Ilse und Manfred-Artur, geb. 1.9.1926. Max Schwelm war Handelsvertreter, Berta Schwelm eine Tochter des langjährigen und letzten Heddernheimer Religionslehrers Meier Stern. Die Familie lebte in der Heddernheimer Landstraße 20. Am 9.4.1939 mussten sie in das Haus der israelischen Kultusgemeinde, Alt Heddernheim 33, ziehen.
 

@@ -11,7 +11,7 @@ filters:
 
 *Schwarzburgstraße 26*
 
-![Stolperstein Steinbach, Valentin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/schwarzburgstr_26.jpg)
+![Stolperstein Steinbach, Valentin](../../images/stolpersteine/5fe6f5ab9111_schwarzburgstr_26.jpg)
 
 Valentin Steinbach wurde in Gambach am Main geboren und war der älteste Sohn des Steinhauers Josef Steinbach und dessen Frau Maria. Er hatte fünf Geschwister. Die Familie war katholisch. Von Beruf wurde er Steinmetz. Seit 1909 wohnte er in Frankfurt am Main. Am 12. Juni 1919 heiratete er die verwitwete Stickerin Luise Stemig, geb. Gantert. Sie brachte ihre Tochter Else mit in die Ehe. Gemeinsam hatten sie einen Sohn Helmut, der jung starb, und eine weitere Tochter Irmgard. Etwa 1920/21 traten beide aus der katholischen Kirche aus und schlossen sich den Bibelforschern an. Die Familie wohnte zu dieser Zeit Am Tiergarten 46.
 
@@ -426,10 +426,10 @@ Schwarzburgstraße 26
 ## Gallery
 
 <!-- gallery:standard -->
-![Steinbach, Valentin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/schwarzburgstr_26_steinbach_valentin_um_1950.jpg)
-![Steinbach, Valentin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/schwarzburgstr_26_steinbach_valentin_mit_ehefrau_luise_und_stief-tochter_else_1919.jpg)
-![Steinbach, Valentin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/schwarzburgstr_26_steinbach_mit_ueberlebenden_des_kz_mauthausen.jpg)
-![Steinbach, Valentin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_schwarzburgstr_26_steinbach_valentin.jpg)
+![Steinbach, Valentin](../../images/stolpersteine/6ed5ba17574b_schwarzburgstr_26_steinbach_valentin_um_1950.jpg)
+![Steinbach, Valentin](../../images/stolpersteine/f3c92a7c9d08_schwarzburgstr_26_steinbach_valentin_mit_ehefrau_luise_und_s.jpg)
+![Steinbach, Valentin](../../images/stolpersteine/93c6927e8729_schwarzburgstr_26_steinbach_mit_ueberlebenden_des_kz_mauthau.jpg)
+![Steinbach, Valentin](../../images/stolpersteine/d3e9bc53dce9_stolperst_schwarzburgstr_26_steinbach_valentin.jpg)
 
 ## Links
 

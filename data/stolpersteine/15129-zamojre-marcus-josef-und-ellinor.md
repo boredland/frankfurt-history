@@ -11,7 +11,7 @@ filters:
 
 *Am Weingarten 10*
 
-![Stolperstein Zamojre, Marcus, Josef und Ellinor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/am_weingarten_10.jpg)
+![Stolperstein Zamojre, Marcus, Josef und Ellinor](../../images/stolpersteine/5b37b8437e73_am_weingarten_10.jpg)
 
 Marcus Zamojre wurde in Zalosc/Zborow in Galizien geboren, seine Frau Ellinor, geb. Gefner-Wiesenthalm, in Sikierzynce in Galizien. Ihr Sohn Josef kam in Greiz (Thüringen) zur Welt. Die Familie wohnte Am Weingarten 10, 1939 in der Klingerstraße 5, dazwischen auch Windeckstraße 25/II und zuletzt allein in der Palmstraße 12.
 
@@ -150,10 +150,10 @@ Am Weingarten 10
 ## Gallery
 
 <!-- gallery:standard -->
-![Zamojre, Marcus, Josef und Ellinor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/opferbilder/am_weingarten_10_zamojre.jpg)
-![Zamojre, Marcus, Josef und Ellinor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_am_weingarten_10_zamojre_ellinor.jpg)
-![Zamojre, Marcus, Josef und Ellinor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_am_weingarten_10_zamojre_josef.jpg)
-![Zamojre, Marcus, Josef und Ellinor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_am_weingarten_10_zamojre_marcus.jpg)
+![Zamojre, Marcus, Josef und Ellinor](../../images/stolpersteine/1c45ead88408_am_weingarten_10_zamojre.jpg)
+![Zamojre, Marcus, Josef und Ellinor](../../images/stolpersteine/7e40a1260dc3_stolperst_am_weingarten_10_zamojre_ellinor.jpg)
+![Zamojre, Marcus, Josef und Ellinor](../../images/stolpersteine/14837d62b7fd_stolperst_am_weingarten_10_zamojre_josef.jpg)
+![Zamojre, Marcus, Josef und Ellinor](../../images/stolpersteine/8f0611f2fa65_stolperst_am_weingarten_10_zamojre_marcus.jpg)
 
 ## Links
 

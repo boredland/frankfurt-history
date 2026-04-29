@@ -11,7 +11,7 @@ filters:
 
 *Schönstraße 17*
 
-![Stolperstein Becker, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/schoenstr_17__300x400.jpg)
+![Stolperstein Becker, Martha](../../images/stolpersteine/7d5eb2141da7_schoenstr_17__300x400.jpg)
 
 Martha Becker, geborene Adler, wohnte in der Schönstraße 17, ihre letzte Adresse war die Feldbergstraße 42.
 
@@ -68,7 +68,7 @@ Schönstraße 17
 ## Gallery
 
 <!-- gallery:standard -->
-![Becker, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/stolperst_schoenstr_17_becker_martha__400x400.jpg)
+![Becker, Martha](../../images/stolpersteine/c1e46669d757_stolperst_schoenstr_17_becker_martha__400x400.jpg)
 
 ## Links
 

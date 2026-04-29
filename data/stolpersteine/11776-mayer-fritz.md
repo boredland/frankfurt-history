@@ -11,7 +11,7 @@ filters:
 
 *Beethovenstraße 33*
 
-![Stolperstein Mayer, Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/beethovenstrasse-33_1.jpg)
+![Stolperstein Mayer, Fritz](../../images/stolpersteine/064a71af6e8d_beethovenstrasse-33_1.jpg)
 
 Fritz Mayer wurde in Mainz geboren. Er studierte Chemie, Physik und Mathematik in Berlin, Heidelberg, Würzburg und München. 1898 wurde er in Heidelberg promoviert, 1909 folgte die Habilitation. Er war Privatdozent an der Frankfurter Akademie für Sozial- und Handelswissenschaften, später an der Frankfurter Universität und ab 1919 Honorarprofessor.
 
@@ -442,8 +442,8 @@ Beethovenstraße 33
 ## Gallery
 
 <!-- gallery:standard -->
-![Mayer, Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/mayer-fritz.jpg)
-![Mayer, Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_beethovenstr_33_mayer_fritz.jpg)
+![Mayer, Fritz](../../images/stolpersteine/662ffd15d2b5_mayer-fritz.jpg)
+![Mayer, Fritz](../../images/stolpersteine/c5989aa312b6_stolperst_beethovenstr_33_mayer_fritz.jpg)
 
 ## Links
 

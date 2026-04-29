@@ -11,7 +11,7 @@ filters:
 
 *Feldbergstraße 15*
 
-![Stolperstein Hohenemser, Moritz W.](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/feldbergstrasse-15_1.jpg)
+![Stolperstein Hohenemser, Moritz W.](../../images/stolpersteine/1fa485c6740c_feldbergstrasse-15_1.jpg)
 
 Moritz Wilhelm Hohenemser wurde in Frankfurt am Main geboren; Sohn von
 
@@ -490,7 +490,7 @@ Feldbergstraße 15
 ## Gallery
 
 <!-- gallery:standard -->
-![Hohenemser, Moritz W.](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_feldbergstr_15_hohenemser_moritz_w.jpg)
+![Hohenemser, Moritz W.](../../images/stolpersteine/079ccdc741a6_stolperst_feldbergstr_15_hohenemser_moritz_w.jpg)
 
 ## Links
 

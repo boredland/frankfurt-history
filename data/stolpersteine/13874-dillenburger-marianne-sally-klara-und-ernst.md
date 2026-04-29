@@ -12,7 +12,7 @@ filters:
 
 *Mainstraße 8*
 
-![Stolperstein Dillenburger, Marianne, Sally, Klara und Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/mainstr_8_neu.jpg)
+![Stolperstein Dillenburger, Marianne, Sally, Klara und Ernst](../../images/stolpersteine/152371fd5f48_mainstr_8_neu.jpg)
 
 Marianne Dillenburger wurde in Freudenberg, Sally
 
@@ -245,10 +245,10 @@ Mainstraße 8
 ## Gallery
 
 <!-- gallery:standard -->
-![Dillenburger, Marianne, Sally, Klara und Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_mainstr_8_dillenburger_marianne.jpg)
-![Dillenburger, Marianne, Sally, Klara und Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_mainstr_8_dillenburger_sally.jpg)
-![Dillenburger, Marianne, Sally, Klara und Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_mainstr_8_dillenburger_klara.jpg)
-![Dillenburger, Marianne, Sally, Klara und Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_mainstr_8_dillenburger_ernst.jpg)
+![Dillenburger, Marianne, Sally, Klara und Ernst](../../images/stolpersteine/0a5895a2fa46_stolperst_mainstr_8_dillenburger_marianne.jpg)
+![Dillenburger, Marianne, Sally, Klara und Ernst](../../images/stolpersteine/02d2946f0fa7_stolperst_mainstr_8_dillenburger_sally.jpg)
+![Dillenburger, Marianne, Sally, Klara und Ernst](../../images/stolpersteine/59e57d5d9864_stolperst_mainstr_8_dillenburger_klara.jpg)
+![Dillenburger, Marianne, Sally, Klara und Ernst](../../images/stolpersteine/46cba8de4402_stolperst_mainstr_8_dillenburger_ernst.jpg)
 
 ## Links
 

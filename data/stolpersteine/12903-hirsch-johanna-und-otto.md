@@ -11,7 +11,7 @@ filters:
 
 *Im Sperber 6*
 
-![Stolperstein Hirsch, Johanna und Otto](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/im_sperber_6_haus_2.jpg)
+![Stolperstein Hirsch, Johanna und Otto](../../images/stolpersteine/1e7bdacb7ed0_im_sperber_6_haus_2.jpg)
 
 Otto Hirsch war Sohn des Spirituosen-Kaufmannes Moritz Hirsch, der 1936 starb, und von Betty Hirsch, geb. Reis; Halbbruder von Johanna Hirsch und von zwei weiteren Kindern des Vaters aus erster Ehe. Die Familie lebte in Bergen in der Hauptstraße 48, später Im Sperber 6.
 

@@ -12,7 +12,7 @@ filters:
 
 *Kelsterbacher Straße 24*
 
-![Stolperstein Neumann, Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/kelsterbacher_str_24.jpg)
+![Stolperstein Neumann, Hermann](../../images/stolpersteine/32849abb2d1b_kelsterbacher_str_24.jpg)
 
 Hermann Neumann wurde in Frankfurt-Niederrad geboren
 
@@ -177,7 +177,7 @@ Kelsterbacher Straße 24
 ## Gallery
 
 <!-- gallery:standard -->
-![Neumann, Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperstein-kelsterbacher-strasse-24-neumann-hermann.jpg)
+![Neumann, Hermann](../../images/stolpersteine/c7aca70a5de9_stolperstein-kelsterbacher-strasse-24-neumann-hermann.jpg)
 
 ## Links
 

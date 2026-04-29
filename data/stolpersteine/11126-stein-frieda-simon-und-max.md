@@ -11,7 +11,7 @@ filters:
 
 *Günthersburgallee 43*
 
-![Stolperstein Stein, Frieda, Simon und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/guenthersburgalle_43_haus2.jpg)
+![Stolperstein Stein, Frieda, Simon und Max](../../images/stolpersteine/79765df2bd69_guenthersburgalle_43_haus2.jpg)
 
 Frieda Stein aus Gnodstadt in Unterfranken war mit dem Viehhändler Simon Stein aus Ermetzhofen verheiratet. Dessen Bruder Max Stein war ebenfalls Viehhändler und mit Frieda Steins Schwester Lina (auch Cilly) Stein, geb. Klein, geboren am 10.02.1883, verheiratet. Diese starb am 31.01.1942 in Frankfurt an Magenkrebs. Die Eltern der beiden Brüder waren Lehmann Stein und Ottilie, geb. Reich. Die drei Töchter vom Max und Lina Stein lebten nach dem Zweiten Weltkrieg in Australien, in Großbritannien beziehungsweise in den USA.
 
@@ -436,8 +436,8 @@ Günthersburgallee 43
 ## Gallery
 
 <!-- gallery:standard -->
-![Stein, Frieda, Simon und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-stein-frieda.jpg)
-![Stein, Frieda, Simon und Max](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-stein-simon.jpg)
+![Stein, Frieda, Simon und Max](../../images/stolpersteine/f264bd45bf3c_stolperstein-stein-frieda.jpg)
+![Stein, Frieda, Simon und Max](../../images/stolpersteine/a388117090ad_stolperstein-stein-simon.jpg)
 
 ## Links
 

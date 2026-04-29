@@ -11,7 +11,7 @@ filters:
 
 *Löherstraße 2*
 
-![Stolperstein Mayer, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/loeherstrasse-2_1.jpg)
+![Stolperstein Mayer, Martha](../../images/stolpersteine/3bab6d599124_loeherstrasse-2_1.jpg)
 
 Martha Mayer, geb. Simon, wurde am 1.5.1880 in Enkirch/Zell (Mosel) geboren. Sie stammte aus einer jüdischen Familie und war mit dem evangelischen Peter Mayer (1879-1927) verheiratet. Sie wohnte mit ihrem 1905 geborenen Sohn Hans, der nach NS-Definition als Mischling 1. Grades galt und evangelisch getauft war, in der Brückenstraße 4 (heute Löherstraße 2) und Ende der 30er Jahre in der Offenbacher Landstraße 43. Zuletzt seit 15. März 1943 musste Martha Mayer in der Ostendstraße 18 wohnen, einer „Gemeinschaftsunterkunft für Juden“, in der antisemitisch Verfolgte vor ihrer Deportation zwangsweise konzentriert wurden.
 
@@ -142,7 +142,7 @@ Löherstraße 2
 ## Gallery
 
 <!-- gallery:standard -->
-![Mayer, Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_loeherstr_2_mayer_martha.jpg)
+![Mayer, Martha](../../images/stolpersteine/f1b2ad17eb62_stolperst_loeherstr_2_mayer_martha.jpg)
 
 ## Links
 

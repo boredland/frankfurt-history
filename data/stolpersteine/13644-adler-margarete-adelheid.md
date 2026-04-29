@@ -11,7 +11,7 @@ filters:
 
 *Gervinusstraße 22*
 
-![Stolperstein Adler, Margarete Adelheid](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/gervinusstrasse-22_1.jpg)
+![Stolperstein Adler, Margarete Adelheid](../../images/stolpersteine/4456b4643d03_gervinusstrasse-22_1.jpg)
 
 Margarete Adelheid Adler wurde in Beuthen in Oberschlesien geboren und ist die Tochter von Paul und Hedwig Golisch, einer Juweliersfamilie. Ihr Ehemann Alfred (Fred) Adler war Generalvertreter der Silberwarenfabrik B. Bohrmann im Frankfurter Sandweg 21. 1929 wurde die Tochter Renate geboren. Die Familie wohnte in der Gervinusstr. 22, das Haus wurde im Krieg zerstört.
 
@@ -462,11 +462,11 @@ Gervinusstrasse 22
 ## Gallery
 
 <!-- gallery:standard -->
-![Adler, Margarete Adelheid](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/adler-adelheid.jpg)
-![Adler, Margarete Adelheid](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/adelheid-und-renate-adler.jpg)
-![Adler, Margarete Adelheid](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/adelheid-und-renate-adler-3.jpg)
-![Adler, Margarete Adelheid](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/adelheid-und-renate-adler-2.jpg)
-![Adler, Margarete Adelheid](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_gervinusstr_22_adler_adelheid_margarete.jpg)
+![Adler, Margarete Adelheid](../../images/stolpersteine/269e21efb960_adler-adelheid.jpg)
+![Adler, Margarete Adelheid](../../images/stolpersteine/ac545c9df161_adelheid-und-renate-adler.jpg)
+![Adler, Margarete Adelheid](../../images/stolpersteine/3d7db6445cec_adelheid-und-renate-adler-3.jpg)
+![Adler, Margarete Adelheid](../../images/stolpersteine/b0602565596d_adelheid-und-renate-adler-2.jpg)
+![Adler, Margarete Adelheid](../../images/stolpersteine/a4270c74d6b5_stolperst_gervinusstr_22_adler_adelheid_margarete.jpg)
 
 ## Links
 

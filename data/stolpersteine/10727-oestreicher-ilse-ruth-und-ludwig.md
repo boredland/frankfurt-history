@@ -11,7 +11,7 @@ filters:
 
 *Sonnemannstraße 79*
 
-![Stolperstein Oestreicher, Ilse Ruth und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/sonnemannstrasse-79_1.jpg)
+![Stolperstein Oestreicher, Ilse Ruth und Ludwig](../../images/stolpersteine/4e52b9898b4d_sonnemannstrasse-79_1.jpg)
 
 Ilse Oestreicher wurde in Frankfurt als Tochter von Max Hirsch (Jg.
 
@@ -276,10 +276,10 @@ Sonnemannstraße 79
 ## Gallery
 
 <!-- gallery:standard -->
-![Oestreicher, Ilse Ruth und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/sonnemannstr_79_ilse_hirsch_musste_zwangsarbeit_bei_roever_leisten.jpg)
-![Oestreicher, Ilse Ruth und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/sonnemannstr_79_ilse_hirsch_elfriede_schmitt.jpg)
-![Oestreicher, Ilse Ruth und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_sonnemannstr_79_oestreicher_ilse_ruth.jpg)
-![Oestreicher, Ilse Ruth und Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_sonnemannstr_79_oestreicher_ludwig.jpg)
+![Oestreicher, Ilse Ruth und Ludwig](../../images/stolpersteine/0a82067334cd_sonnemannstr_79_ilse_hirsch_musste_zwangsarbeit_bei_roever_l.jpg)
+![Oestreicher, Ilse Ruth und Ludwig](../../images/stolpersteine/0069699c148f_sonnemannstr_79_ilse_hirsch_elfriede_schmitt.jpg)
+![Oestreicher, Ilse Ruth und Ludwig](../../images/stolpersteine/92779cf74ae2_stolperst_sonnemannstr_79_oestreicher_ilse_ruth.jpg)
+![Oestreicher, Ilse Ruth und Ludwig](../../images/stolpersteine/81e916527fc8_stolperst_sonnemannstr_79_oestreicher_ludwig.jpg)
 
 ## Links
 

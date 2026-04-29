@@ -11,7 +11,7 @@ filters:
 
 *Obermainstraße 11*
 
-![Stolperstein Hirsch, Walter und Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/obermainstr_11.jpg)
+![Stolperstein Hirsch, Walter und Helene](../../images/stolpersteine/0e5ac89ac5b1_obermainstr_11.jpg)
 
 Walter Hirsch wurde in Frankfurt als Sohn von Max Hirsch (Jg. 1883)
 
@@ -240,10 +240,10 @@ Obermainstraße 11
 ## Gallery
 
 <!-- gallery:standard -->
-![Hirsch, Walter und Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_11_helene_hirsch.jpg)
-![Hirsch, Walter und Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_11_walter_hirsch.jpg)
-![Hirsch, Walter und Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_11_hirsch_walter.jpg)
-![Hirsch, Walter und Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_11_hirsch_helene.jpg)
+![Hirsch, Walter und Helene](../../images/stolpersteine/49edd85c006e_obermainstr_11_helene_hirsch.jpg)
+![Hirsch, Walter und Helene](../../images/stolpersteine/100df2bd5ca8_obermainstr_11_walter_hirsch.jpg)
+![Hirsch, Walter und Helene](../../images/stolpersteine/01966d209608_stolperst_obermainstr_11_hirsch_walter.jpg)
+![Hirsch, Walter und Helene](../../images/stolpersteine/e4b3f9a9d9a5_stolperst_obermainstr_11_hirsch_helene.jpg)
 
 ## Links
 

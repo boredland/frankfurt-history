@@ -11,7 +11,7 @@ filters:
 
 *Humboldtstraße 66*
 
-![Stolperstein Simon, Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/humboldtstrasse_66_haus.jpg)
+![Stolperstein Simon, Friedrich](../../images/stolpersteine/0e797b1f04d6_humboldtstrasse_66_haus.jpg)
 
 Friedrich Simons Frau Sophie starb in Frankfurt 1942. Laut seinem Enkel Herbert Kohn, dessen Familie 1940 in die USA emigrieren konnte, starb Friedrich Simon auf dem Transport nach Minsk - laut Theresienstädter Gedenkbuch wurde er nach Theresienstadt deportiert.
 

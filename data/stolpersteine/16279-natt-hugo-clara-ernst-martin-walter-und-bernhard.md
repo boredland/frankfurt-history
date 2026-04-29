@@ -11,7 +11,7 @@ filters:
 
 *Holzhausenstraße 14*
 
-![Stolperstein Natt, Hugo, Clara, Ernst Martin, Walter und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/holzhausenstrasse_14.jpg)
+![Stolperstein Natt, Hugo, Clara, Ernst Martin, Walter und Bernhard](../../images/stolpersteine/f13d2c6a1e80_holzhausenstrasse_14.jpg)
 
 Hugo
 
@@ -558,11 +558,11 @@ Holzhausenstraße 14
 ## Gallery
 
 <!-- gallery:standard -->
-![Natt, Hugo, Clara, Ernst Martin, Walter und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_holzhausenstrasse_14_natt_hugo.jpg)
-![Natt, Hugo, Clara, Ernst Martin, Walter und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_holzhausenstrasse_14_natt_ernst_martin.jpg)
-![Natt, Hugo, Clara, Ernst Martin, Walter und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_holzhausenstrasse_14_natt_bernhard.jpg)
-![Natt, Hugo, Clara, Ernst Martin, Walter und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_holzhausenstrasse_14_natt_walter.jpg)
-![Natt, Hugo, Clara, Ernst Martin, Walter und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_holzhausenstrasse_14_natt_clara.jpg)
+![Natt, Hugo, Clara, Ernst Martin, Walter und Bernhard](../../images/stolpersteine/9c17998b4d80_stolperst_holzhausenstrasse_14_natt_hugo.jpg)
+![Natt, Hugo, Clara, Ernst Martin, Walter und Bernhard](../../images/stolpersteine/9b0692460cad_stolperst_holzhausenstrasse_14_natt_ernst_martin.jpg)
+![Natt, Hugo, Clara, Ernst Martin, Walter und Bernhard](../../images/stolpersteine/66472fbda1be_stolperst_holzhausenstrasse_14_natt_bernhard.jpg)
+![Natt, Hugo, Clara, Ernst Martin, Walter und Bernhard](../../images/stolpersteine/1dc7ca599d30_stolperst_holzhausenstrasse_14_natt_walter.jpg)
+![Natt, Hugo, Clara, Ernst Martin, Walter und Bernhard](../../images/stolpersteine/c629aa6c16f1_stolperst_holzhausenstrasse_14_natt_clara.jpg)
 
 ## Links
 

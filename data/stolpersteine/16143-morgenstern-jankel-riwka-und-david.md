@@ -11,7 +11,7 @@ filters:
 
 *Fischerfeldstraße 16*
 
-![Stolperstein Morgenstern, Jankel, Riwka und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/fischerfeldstr_16__400x300.jpg)
+![Stolperstein Morgenstern, Jankel, Riwka und David](../../images/stolpersteine/7ce34f5d179b_fischerfeldstr_16__400x300.jpg)
 
 Jankel Jakob Morgenstern wurde in Lodz geboren. Anfang des 20. Jh. kam seine Familie aus Polen nach Deutschland und ließ sich in Frankfurt a.M. nieder. Er gehörte der Israelitischen Religionsgesellschaft in der Friedberger Anlage an und war Kaufmann. Riwka Regina,  geb. Friedmann, wurde in Pryluki/Ukraine geboren und kam mit ihrer Familie 1905 aus der Ukraine nach Wiesbaden. Bis 1922 wohnte sie bei ihren Eltern in der Faulbrunnenstr. 7, danach 1923/24 in der Schwalbacher Str. 61. Nach dem Schulbesuch wurde sie Buchhalterin und war als Büroangestellte tätig.
 
@@ -188,8 +188,8 @@ Fischerfeldstraße 16 (eigentlich Kämmereistr. 10)
 ## Gallery
 
 <!-- gallery:standard -->
-![Morgenstern, Jankel, Riwka und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_fischerfeldstr_16_morgenstern_jankel__400x400.jpg)
-![Morgenstern, Jankel, Riwka und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_fischerfeldstr_16_morgenstern_david__400x400.jpg)
+![Morgenstern, Jankel, Riwka und David](../../images/stolpersteine/fbd9d13cbafc_stolperst_fischerfeldstr_16_morgenstern_jankel__400x400.jpg)
+![Morgenstern, Jankel, Riwka und David](../../images/stolpersteine/5e877caf3eb1_stolperst_fischerfeldstr_16_morgenstern_david__400x400.jpg)
 
 ## Links
 

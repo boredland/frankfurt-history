@@ -11,7 +11,7 @@ filters:
 
 *Rüsterstraße 10*
 
-![Stolperstein Merzbach, Rudolf, Paula, Ilse und Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/ruesterstrasse-10.jpg)
+![Stolperstein Merzbach, Rudolf, Paula, Ilse und Wilhelm](../../images/stolpersteine/8ad568f536f5_ruesterstrasse-10.jpg)
 
 Der Anwalt und Bankier
 
@@ -604,12 +604,12 @@ Rüsterstraße 10
 ## Gallery
 
 <!-- gallery:standard -->
-![Merzbach, Rudolf, Paula, Ilse und Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/ruesterstr_10_paula_und_rudolf-merzbach.jpg)
-![Merzbach, Rudolf, Paula, Ilse und Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/ruesterstr_10_ilse_und_willhelm_merzbach.jpg)
-![Merzbach, Rudolf, Paula, Ilse und Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_ruesterstr_10_merzbach_rudolf.jpg)
-![Merzbach, Rudolf, Paula, Ilse und Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_ruesterstr_10_merzbach_paula.jpg)
-![Merzbach, Rudolf, Paula, Ilse und Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_ruesterstr_10_merzbach_ilse.jpg)
-![Merzbach, Rudolf, Paula, Ilse und Wilhelm](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_ruesterstr_10_merzbach_wilhelm.jpg)
+![Merzbach, Rudolf, Paula, Ilse und Wilhelm](../../images/stolpersteine/625d3072e5cc_ruesterstr_10_paula_und_rudolf-merzbach.jpg)
+![Merzbach, Rudolf, Paula, Ilse und Wilhelm](../../images/stolpersteine/139d9ba63cfd_ruesterstr_10_ilse_und_willhelm_merzbach.jpg)
+![Merzbach, Rudolf, Paula, Ilse und Wilhelm](../../images/stolpersteine/3065148d98a0_stolperst_ruesterstr_10_merzbach_rudolf.jpg)
+![Merzbach, Rudolf, Paula, Ilse und Wilhelm](../../images/stolpersteine/36953da5f103_stolperst_ruesterstr_10_merzbach_paula.jpg)
+![Merzbach, Rudolf, Paula, Ilse und Wilhelm](../../images/stolpersteine/d09a76164bcb_stolperst_ruesterstr_10_merzbach_ilse.jpg)
+![Merzbach, Rudolf, Paula, Ilse und Wilhelm](../../images/stolpersteine/8324325d8317_stolperst_ruesterstr_10_merzbach_wilhelm.jpg)
 
 ## Links
 

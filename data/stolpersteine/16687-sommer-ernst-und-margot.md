@@ -11,7 +11,7 @@ filters:
 
 *Taunusstraße 40*
 
-![Stolperstein Sommer, Ernst und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/taunusstr_40.jpg)
+![Stolperstein Sommer, Ernst und Margot](../../images/stolpersteine/a368b49d5f4c_taunusstr_40.jpg)
 
 Sommer, Ernst
 
@@ -114,11 +114,11 @@ Taunusstraße 40
 ## Gallery
 
 <!-- gallery:standard -->
-![Sommer, Ernst und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/sommer-ernst.jpg)
-![Sommer, Ernst und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/sommer-margot.jpg)
-![Sommer, Ernst und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/die-drei-brueder-salomon-ernst-und-julius-sommer.jpg)
-![Sommer, Ernst und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/ernst-sommer.jpg)
-![Sommer, Ernst und Margot](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/margot-sommer.jpg)
+![Sommer, Ernst und Margot](../../images/stolpersteine/81a6d29f1095_sommer-ernst.jpg)
+![Sommer, Ernst und Margot](../../images/stolpersteine/489772aa2b58_sommer-margot.jpg)
+![Sommer, Ernst und Margot](../../images/stolpersteine/516e7cbd0dff_die-drei-brueder-salomon-ernst-und-julius-sommer.jpg)
+![Sommer, Ernst und Margot](../../images/stolpersteine/8f6c80707f53_ernst-sommer.jpg)
+![Sommer, Ernst und Margot](../../images/stolpersteine/d2e9e237f4e7_margot-sommer.jpg)
 
 ## Links
 

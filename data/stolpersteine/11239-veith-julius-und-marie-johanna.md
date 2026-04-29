@@ -11,7 +11,7 @@ filters:
 
 *Kettenhofweg 128*
 
-![Stolperstein Veith Julius und Marie Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/kettenhofweg-128_1.jpg)
+![Stolperstein Veith Julius und Marie Johanna](../../images/stolpersteine/1a382ded7fbf_kettenhofweg-128_1.jpg)
 
 Marie und Julius Veith
 
@@ -464,10 +464,10 @@ Kettenhofweg 128
 ## Gallery
 
 <!-- gallery:standard -->
-![Veith Julius und Marie Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/marie-und-julius-veith.jpg)
-![Veith Julius und Marie Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/kettenhofweg20128veith20mariehaus227x376.jpg)
-![Veith Julius und Marie Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/veith_julius.jpg)
-![Veith Julius und Marie Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/veith_marie_johanna.jpg)
+![Veith Julius und Marie Johanna](../../images/stolpersteine/2eca15523fe9_marie-und-julius-veith.jpg)
+![Veith Julius und Marie Johanna](../../images/stolpersteine/3846410b2e53_kettenhofweg20128veith20mariehaus227x376.jpg)
+![Veith Julius und Marie Johanna](../../images/stolpersteine/856b59276cf5_veith_julius.jpg)
+![Veith Julius und Marie Johanna](../../images/stolpersteine/11c6e7911502_veith_marie_johanna.jpg)
 
 ## Links
 

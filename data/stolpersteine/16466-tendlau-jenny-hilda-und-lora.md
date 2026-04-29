@@ -11,7 +11,7 @@ filters:
 
 *Mittelweg 3*
 
-![Stolperstein Tendlau, Jenny, Hilda und Lora](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/mittelweg_3_haus1.jpg)
+![Stolperstein Tendlau, Jenny, Hilda und Lora](../../images/stolpersteine/23dbaef25bf2_mittelweg_3_haus1.jpg)
 
 Jenny Tendlau aus Fulda lebte mit ihren beiden in Frankfurt geborenen Töchtern Hilda und Lora Marianne seit 1935 im Mittelweg 3/1. Stock. Jenny Tendlau hatte eine Schwester, Sofie Rothschild, geb. am 2.7.1893 in Frankfurt, die nach New York emigrieren konnte.
 

@@ -12,7 +12,7 @@ filters:
 
 *Westendstraße 92*
 
-![Stolperstein Herxheimer, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/westendstrasse-92_1.jpg)
+![Stolperstein Herxheimer, Karl](../../images/stolpersteine/4390ee593b25_westendstrasse-92_1.jpg)
 
 Karl Herxheimer wurde in Wiesbaden geboren. Seine Eltern Hermann und Jeanette Herxheimer, geb. Liebmann, waren jüdischen Glaubens. Nach seinem Abitur absolvierte Herxheimer ein Medizinstudium in Freiburg, Würzburg und Straßburg. Im Jahr 1884 promovierte er in Würzburg zum Doktor der Medizin und bestand dort ein Jahr später das medizinische Staatsexamen. Als Assistent war er von 1884 bis 1886 am bakteriologischen Laboratorium Frankfurt und von 1885 bis 1887 am Senckenbergischen pathologisch-anatomischen Institut Frankfurt tätig. Nach kurzer Zeit in Breslau ließ er sich noch im selben Jahr – wie sein Bruder – als Spezialarzt für Hautkrankheiten in Frankfurt nieder.
 
@@ -453,9 +453,9 @@ Westendstraße 92
 ## Gallery
 
 <!-- gallery:standard -->
-![Herxheimer, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/westendstr_92_rosenthal_henriette_herxheimer_karl.jpg)
-![Herxheimer, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/westendstr_92_rosenthal_henriette_herxheimer_karl_brief.jpg)
-![Herxheimer, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_westendstr_92_herxheimer_karl_jpg_2344584.jpg)
+![Herxheimer, Karl](../../images/stolpersteine/2ecda14d69d6_westendstr_92_rosenthal_henriette_herxheimer_karl.jpg)
+![Herxheimer, Karl](../../images/stolpersteine/0f012cb6ecc4_westendstr_92_rosenthal_henriette_herxheimer_karl_brief.jpg)
+![Herxheimer, Karl](../../images/stolpersteine/fc324285c53b_stolperst_westendstr_92_herxheimer_karl_jpg_2344584.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Auf der Körnerwiese 10*
 
-![Stolperstein Gärtner, Henriette und Ludwig und Wolff, Martha und Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/auf-der-koernerwiese-10_1.jpg)
+![Stolperstein Gärtner, Henriette und Ludwig und Wolff, Martha und Friedrich](../../images/stolpersteine/a83dcdd77213_auf-der-koernerwiese-10_1.jpg)
 
 Ludwig und Henriette Gärtner, geborene Wertheim, wurden in Großostheim und Frankfurt am Main geboren. Seit 1896 war Dr. Gärtner als Privat- und Kassenarzt der Post und der Eisenbahn sowie der Metzger- und Bäckerinnungen und der Allgemeinen Ortskrankenkasse zugelassen. Seine Praxis befand sich in der Stiftstraße. Am 27.9.1936 musste die Praxis verfolgungsbedingt aufgegeben werden, zwei Tage später wurde Dr. Ludwig Gärtner aus dem Ärzteregister gestrichen.
 
@@ -502,9 +502,9 @@ Auf der Körnerwiese 10
 ## Gallery
 
 <!-- gallery:standard -->
-![Gärtner, Henriette und Ludwig und Wolff, Martha und Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/auf_der_koernerwiese_10_wolff-1.jpg)
-![Gärtner, Henriette und Ludwig und Wolff, Martha und Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/auf_der_koernerwiese_10_wolff_2.jpg)
-![Gärtner, Henriette und Ludwig und Wolff, Martha und Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperstein_auf_der_koernerwiese_10_wolff_friedrich.jpg)
+![Gärtner, Henriette und Ludwig und Wolff, Martha und Friedrich](../../images/stolpersteine/6644efaeba54_auf_der_koernerwiese_10_wolff-1.jpg)
+![Gärtner, Henriette und Ludwig und Wolff, Martha und Friedrich](../../images/stolpersteine/ed66a1883259_auf_der_koernerwiese_10_wolff_2.jpg)
+![Gärtner, Henriette und Ludwig und Wolff, Martha und Friedrich](../../images/stolpersteine/67ed47a8808e_stolperstein_auf_der_koernerwiese_10_wolff_friedrich.jpg)
 
 ## Links
 

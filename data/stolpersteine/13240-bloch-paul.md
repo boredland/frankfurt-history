@@ -11,7 +11,7 @@ filters:
 
 *Schützenstraße 2*
 
-![Stolperstein Bloch, Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/schuetzenstr_2.jpg)
+![Stolperstein Bloch, Paul](../../images/stolpersteine/45cec7a522c2_schuetzenstr_2.jpg)
 
 Paul Bloch wurde in
 
@@ -220,7 +220,7 @@ Schützenstraße 2
 ## Gallery
 
 <!-- gallery:standard -->
-![Bloch, Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_schuetzenstr_2_bloch_pa.jpg)
+![Bloch, Paul](../../images/stolpersteine/d68ae7359fad_stolperst_schuetzenstr_2_bloch_pa.jpg)
 
 ## Links
 

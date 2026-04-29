@@ -12,7 +12,7 @@ filters:
 
 *Bockenheimer Landstraße 83*
 
-![Stolperstein Alken, Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/bockenheimer_landstr_83.jpg)
+![Stolperstein Alken, Else](../../images/stolpersteine/03c74ae0131a_bockenheimer_landstr_83.jpg)
 
 Else Alken wurde in Breslau als Tochter jüdischer
 
@@ -507,8 +507,8 @@ Bockenheimer Landstraße 83
 ## Gallery
 
 <!-- gallery:standard -->
-![Alken, Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/bockenheimer_landst_83_alken_else.jpg)
-![Alken, Else](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bockenheimer_landstr_83_alken_else.jpg)
+![Alken, Else](../../images/stolpersteine/37bd3225e816_bockenheimer_landst_83_alken_else.jpg)
+![Alken, Else](../../images/stolpersteine/b8d8a2fa0f14_stolperst_bockenheimer_landstr_83_alken_else.jpg)
 
 ## Links
 

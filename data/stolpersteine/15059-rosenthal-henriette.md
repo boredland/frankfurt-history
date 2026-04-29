@@ -12,7 +12,7 @@ filters:
 
 *Westendstraße 92*
 
-![Stolperstein Rosenthal, Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/westendstrasse-92_1.jpg)
+![Stolperstein Rosenthal, Henriette](../../images/stolpersteine/4390ee593b25_westendstrasse-92_1.jpg)
 
 Henriette Rosenthal wurde in Danzig/Westpreußen geboren. Sie war die Witwe
 
@@ -585,7 +585,7 @@ Westendstraße 92
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenthal, Henriette](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_westendstr_92_rosenthal_henriette.jpg)
+![Rosenthal, Henriette](../../images/stolpersteine/83947d95abb3_stolperst_westendstr_92_rosenthal_henriette.jpg)
 
 ## Links
 

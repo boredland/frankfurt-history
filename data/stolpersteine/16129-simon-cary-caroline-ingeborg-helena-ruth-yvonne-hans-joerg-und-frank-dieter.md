@@ -11,7 +11,7 @@ filters:
 
 *Falkensteiner Straße 1*
 
-![Stolperstein Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/falkensteiner_strasse_1__300x400.jpg)
+![Stolperstein Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](../../images/stolpersteine/918532553bf1_falkensteiner_strasse_1__300x400.jpg)
 
 Cary Caroline Simon, geb. Goldschmidt, war mit dem Rechtsanwalt und Notar Julius Simon, geb. am 21.11.1895, verheiratet. Sie hatten fünf Kinder. Um 1923 wohnte die Familie in der Schäfergasse 29, zuletzt in der Falkensteiner Straße 1. Julius Simon wurde 1933 die Zulassung als Notar entzogen, und er flüchtete nach Straßburg im Elsass. Die Ehefrau und Tochter Ingeborg folgten.
 
@@ -480,14 +480,14 @@ Falkensteiner Straße 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/falkensteiner_str_1_simon_hans_ingeborg_ruth_frank_dietrich.jpg)
-![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/falkensteiner_str_1_simon_die_kinder.jpg)
-![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/falkensteiner_str_1_simon_postkarte.jpg)
-![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_falkensteinerstr_1_simon_cary_caroline.jpg)
-![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_falkensteinerstr_1_simon_ingeborg.jpg)
-![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_falkensteinerstr_1_simon_ruth.jpg)
-![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_falkensteinerstr_1_simon_hans.jpg)
-![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_falkensteinerstr_1_simon_frank_dieter.jpg)
+![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](../../images/stolpersteine/49195c7d01de_falkensteiner_str_1_simon_hans_ingeborg_ruth_frank_dietrich..jpg)
+![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](../../images/stolpersteine/6c8cfe112d16_falkensteiner_str_1_simon_die_kinder.jpg)
+![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](../../images/stolpersteine/53b06c4d6efb_falkensteiner_str_1_simon_postkarte.jpg)
+![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](../../images/stolpersteine/b7d2e0f443ad_stolperst_falkensteinerstr_1_simon_cary_caroline.jpg)
+![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](../../images/stolpersteine/144e1d5541a2_stolperst_falkensteinerstr_1_simon_ingeborg.jpg)
+![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](../../images/stolpersteine/816f3a8e9b7d_stolperst_falkensteinerstr_1_simon_ruth.jpg)
+![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](../../images/stolpersteine/910014da84a6_stolperst_falkensteinerstr_1_simon_hans.jpg)
+![Simon, Cary Caroline, Ingeborg Helena, Ruth Yvonne, Hans Jörg und Frank Dieter](../../images/stolpersteine/317b6bad9dab_stolperst_falkensteinerstr_1_simon_frank_dieter.jpg)
 
 ## Links
 

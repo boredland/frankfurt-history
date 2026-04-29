@@ -11,7 +11,7 @@ filters:
 
 *Eckenheimer Landstraße 84*
 
-![Stolperstein Ebe, Abraham, Selda, Rosa, Leo und Esther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/eckenheimer_landstr_84.jpg)
+![Stolperstein Ebe, Abraham, Selda, Rosa, Leo und Esther](../../images/stolpersteine/c9a78c5322da_eckenheimer_landstr_84.jpg)
 
 Selda und Abraham Ebe
 
@@ -560,20 +560,20 @@ Eckenheimer Landstraße 84
 ## Gallery
 
 <!-- gallery:standard -->
-![Ebe, Abraham, Selda, Rosa, Leo und Esther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/eckenheimer_landstr_84_selda_und_abraham_ebe.jpg)
-![Ebe, Abraham, Selda, Rosa, Leo und Esther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/eckenheimer_landstr_84_vor_dem_geschaeft.jpg)
-![Ebe, Abraham, Selda, Rosa, Leo und Esther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/eckenheimer_landstr_84_leo_ebe_in_warschau.jpg)
-![Ebe, Abraham, Selda, Rosa, Leo und Esther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/eckenheimer_landstr_84_leo_ebe.jpg)
-![Ebe, Abraham, Selda, Rosa, Leo und Esther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/eckenheimer_landstr_84_rosa_ebe.jpg)
-![Ebe, Abraham, Selda, Rosa, Leo und Esther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/eckenheimer_landstr_84_rosa_ebe_in_warschau.jpg)
-![Ebe, Abraham, Selda, Rosa, Leo und Esther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/eckenheimer_landstr_84_esther_ebe_in_fruehen_jahren.jpg)
-![Ebe, Abraham, Selda, Rosa, Leo und Esther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/eckenheimer_landstr_84_jakob_david_rosenthal_sein_enkel_usw.jpg)
-![Ebe, Abraham, Selda, Rosa, Leo und Esther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/eckenheimer_landstr_84_postkarte_aus_warschau.jpg)
-![Ebe, Abraham, Selda, Rosa, Leo und Esther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_eckenheimer_landstr_84_ebe_abraham_.jpg)
-![Ebe, Abraham, Selda, Rosa, Leo und Esther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_eckenheimer_landstr_84_ebe_selda.jpg)
-![Ebe, Abraham, Selda, Rosa, Leo und Esther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_eckenheimer_landstr_84_ebe_rosa.jpg)
-![Ebe, Abraham, Selda, Rosa, Leo und Esther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_eckenheimer_landstr_84_ebe_leo.jpg)
-![Ebe, Abraham, Selda, Rosa, Leo und Esther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_eckenheimer_landstr_84_ebe_esther.jpg)
+![Ebe, Abraham, Selda, Rosa, Leo und Esther](../../images/stolpersteine/8d71c82ddbca_eckenheimer_landstr_84_selda_und_abraham_ebe.jpg)
+![Ebe, Abraham, Selda, Rosa, Leo und Esther](../../images/stolpersteine/81afe58f5dae_eckenheimer_landstr_84_vor_dem_geschaeft.jpg)
+![Ebe, Abraham, Selda, Rosa, Leo und Esther](../../images/stolpersteine/e2743dc7f1e4_eckenheimer_landstr_84_leo_ebe_in_warschau.jpg)
+![Ebe, Abraham, Selda, Rosa, Leo und Esther](../../images/stolpersteine/10f7325197d1_eckenheimer_landstr_84_leo_ebe.jpg)
+![Ebe, Abraham, Selda, Rosa, Leo und Esther](../../images/stolpersteine/f9cef44e570c_eckenheimer_landstr_84_rosa_ebe.jpg)
+![Ebe, Abraham, Selda, Rosa, Leo und Esther](../../images/stolpersteine/2e225a739509_eckenheimer_landstr_84_rosa_ebe_in_warschau.jpg)
+![Ebe, Abraham, Selda, Rosa, Leo und Esther](../../images/stolpersteine/37ecd8b60850_eckenheimer_landstr_84_esther_ebe_in_fruehen_jahren.jpg)
+![Ebe, Abraham, Selda, Rosa, Leo und Esther](../../images/stolpersteine/63e7b3fd0230_eckenheimer_landstr_84_jakob_david_rosenthal_sein_enkel_usw..jpg)
+![Ebe, Abraham, Selda, Rosa, Leo und Esther](../../images/stolpersteine/c83ebe16682c_eckenheimer_landstr_84_postkarte_aus_warschau.jpg)
+![Ebe, Abraham, Selda, Rosa, Leo und Esther](../../images/stolpersteine/1f2e80948f92_stolperst_eckenheimer_landstr_84_ebe_abraham_.jpg)
+![Ebe, Abraham, Selda, Rosa, Leo und Esther](../../images/stolpersteine/396e2c62961b_stolperst_eckenheimer_landstr_84_ebe_selda.jpg)
+![Ebe, Abraham, Selda, Rosa, Leo und Esther](../../images/stolpersteine/aef8730e1f48_stolperst_eckenheimer_landstr_84_ebe_rosa.jpg)
+![Ebe, Abraham, Selda, Rosa, Leo und Esther](../../images/stolpersteine/930b931df63f_stolperst_eckenheimer_landstr_84_ebe_leo.jpg)
+![Ebe, Abraham, Selda, Rosa, Leo und Esther](../../images/stolpersteine/50f4b6303e76_stolperst_eckenheimer_landstr_84_ebe_esther.jpg)
 
 ## Links
 

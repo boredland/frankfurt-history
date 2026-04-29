@@ -11,7 +11,7 @@ filters:
 
 *Kronberger Straße 48*
 
-![Stolperstein Mayer, Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/kronberger_str_48.jpg)
+![Stolperstein Mayer, Hermine](../../images/stolpersteine/092eaf46c3e2_kronberger_str_48.jpg)
 
 Hermine Mayer wurde in Frankfurt am Main geboren, ihre Eltern waren Goetz Rosenfeld und Fanny Rosenfeld, geb. Oppenheim. Sie hatte eine Schwester Bettina, die am 1.September 1863 geboren wurde und einen am 7. Mai 1890 in Landau geborenen Sohn Ernst. Ihr Ehemann war aber bereits gestorben. Sie wohnte in der Liebigstraße 31, dann in der Kronberger Straße 48 und zuletzt in der Scheffelstraße 26/II.
 
@@ -448,7 +448,7 @@ Kronberger Straße 48
 ## Gallery
 
 <!-- gallery:standard -->
-![Mayer, Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_kronberger_str_48_mayer_hermine.jpg)
+![Mayer, Hermine](../../images/stolpersteine/f9b3477a71f9_stolperst_kronberger_str_48_mayer_hermine.jpg)
 
 ## Links
 

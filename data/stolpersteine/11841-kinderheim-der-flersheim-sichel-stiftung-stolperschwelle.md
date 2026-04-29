@@ -11,7 +11,7 @@ filters:
 
 *Ebersheimstraße 5*
 
-![Stolperstein Kinderheim der Flersheim-Sichel-Stiftung  (Stolperschwelle)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/standort/ebersheimstrasse_5.jpg)
+![Stolperstein Kinderheim der Flersheim-Sichel-Stiftung  (Stolperschwelle)](../../images/stolpersteine/4161b6c4bb98_ebersheimstrasse_5.jpg)
 
 HIER STAND AB 1930 DAS JÜDISCHE KINDERHEIM DER FLERSHEIM-SICHEL-STIFTUNG.
 
@@ -108,7 +108,7 @@ Ebersheimstraße 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Kinderheim der Flersheim-Sichel-Stiftung  (Stolperschwelle)](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperst_ebersheimstrasse_5_kinderheim_der_flersheim-sichel-stiftung.jpg)
+![Kinderheim der Flersheim-Sichel-Stiftung  (Stolperschwelle)](../../images/stolpersteine/f3a0971dfde1_stolperst_ebersheimstrasse_5_kinderheim_der_flersheim-sichel.jpg)
 
 ## Links
 

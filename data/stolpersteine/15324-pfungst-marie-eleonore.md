@@ -11,7 +11,7 @@ filters:
 
 *Gärtnerweg 2*
 
-![Stolperstein Pfungst, Marie Eleonore](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/gaertnerweg-2_1.jpg)
+![Stolperstein Pfungst, Marie Eleonore](../../images/stolpersteine/64df35c0c476_gaertnerweg-2_1.jpg)
 
 Marie Eleonore Pfungst, ist in Frankfurt am Main als Tochter von Julius Pfungst und seiner Ehefrau Rosette Pfungst, geb. Barth, zur Welt gekommen. Ihr Vater war Gründer der „Naxos-Union Schleifmittel- und Schleifmaschinenfabrik“ an der Wittelsbacher Allee. Sie selbst wurde Fabrikantin und Stifterin.
 
@@ -460,8 +460,8 @@ Gärtnerweg 2
 ## Gallery
 
 <!-- gallery:standard -->
-![Pfungst, Marie Eleonore](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/pfungst-marie-eleonore.jpg)
-![Pfungst, Marie Eleonore](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_gaertnerweg_2_pfungst_marie_eleonore__400x400.jpg)
+![Pfungst, Marie Eleonore](../../images/stolpersteine/248623d8fa4d_pfungst-marie-eleonore.jpg)
+![Pfungst, Marie Eleonore](../../images/stolpersteine/beda636b7370_stolperst_gaertnerweg_2_pfungst_marie_eleonore__400x400.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Burnitzstraße 1*
 
-![Stolperstein Liebmann, Alma, Ernst und Marianne](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/burnitzstr_1.jpg)
+![Stolperstein Liebmann, Alma, Ernst und Marianne](../../images/stolpersteine/e5c7fb60840b_burnitzstr_1.jpg)
 
 Adolf Ernst Liebmann war der Sohn
 
@@ -194,9 +194,9 @@ Burnitzstraße 1
 ## Gallery
 
 <!-- gallery:standard -->
-![Liebmann, Alma, Ernst und Marianne](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_burnitzstr_1_liebmann_ernst.jpg)
-![Liebmann, Alma, Ernst und Marianne](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_burnitzstr_1_liebmann_alma.jpg)
-![Liebmann, Alma, Ernst und Marianne](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_burnitzstr_1_liebmann_marianne.jpg)
+![Liebmann, Alma, Ernst und Marianne](../../images/stolpersteine/4a6d66290f77_stolperst_burnitzstr_1_liebmann_ernst.jpg)
+![Liebmann, Alma, Ernst und Marianne](../../images/stolpersteine/ba33f7c0088b_stolperst_burnitzstr_1_liebmann_alma.jpg)
+![Liebmann, Alma, Ernst und Marianne](../../images/stolpersteine/7efe7abc9461_stolperst_burnitzstr_1_liebmann_marianne.jpg)
 
 ## Links
 

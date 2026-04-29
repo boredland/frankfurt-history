@@ -12,7 +12,7 @@ filters:
 
 *Moselstraße 46*
 
-![Stolperstein Geiss, Lina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/moselstr_46.jpg)
+![Stolperstein Geiss, Lina](../../images/stolpersteine/0cd68f01f1cf_moselstr_46.jpg)
 
 Lina Geiß wurde in Marburg geboren, seit 28. Februar
 
@@ -155,7 +155,7 @@ Moselstraße 46
 ## Gallery
 
 <!-- gallery:standard -->
-![Geiss, Lina](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_moselstr_46_geiss_lina.jpg)
+![Geiss, Lina](../../images/stolpersteine/acfac8ea8cde_stolperst_moselstr_46_geiss_lina.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Hügelstraße 115*
 
-![Stolperstein Fuchs, Nelly und Rosa Natt-Fuchs](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/huegelstr_115.jpg)
+![Stolperstein Fuchs, Nelly und Rosa Natt-Fuchs](../../images/stolpersteine/a9cb986dc4c6_huegelstr_115.jpg)
 
 Nelly Fuchs (ganz rechts)
 
@@ -124,9 +124,9 @@ Hügelstraße 115
 ## Gallery
 
 <!-- gallery:standard -->
-![Fuchs, Nelly und Rosa Natt-Fuchs](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/nelly-fuchs-ganz-rechts.jpg)
-![Fuchs, Nelly und Rosa Natt-Fuchs](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/nelly-fuchs-in-der-mitte.jpg)
-![Fuchs, Nelly und Rosa Natt-Fuchs](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/huegelstrasse_115_fuchs_nelly_merianschule.jpg)
+![Fuchs, Nelly und Rosa Natt-Fuchs](../../images/stolpersteine/7df08ed5bf96_nelly-fuchs-ganz-rechts.jpg)
+![Fuchs, Nelly und Rosa Natt-Fuchs](../../images/stolpersteine/ac8901264b9e_nelly-fuchs-in-der-mitte.jpg)
+![Fuchs, Nelly und Rosa Natt-Fuchs](../../images/stolpersteine/f89a53c05795_huegelstrasse_115_fuchs_nelly_merianschule.jpg)
 
 ## Links
 

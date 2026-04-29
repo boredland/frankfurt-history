@@ -11,7 +11,7 @@ filters:
 
 *Königsteiner Straße 167*
 
-![Stolperstein Kahn, Elias](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/standorte/koenigsteiner-strasse-167_1.jpg)
+![Stolperstein Kahn, Elias](../../images/stolpersteine/a5d0283a3822_koenigsteiner-strasse-167_1.jpg)
 
 Elias Kahn kam mit seiner Frau Sofia 1910 von Bonbaden bei Wetzlar nach Höchst. Sie gründeten ein Schuhgeschäft in der Bolongarostraße. 1932 zogen die Kahns nach Unterliederbach, das Geschäft war weiterhin in Höchst. Es gibt zwar Erinnerungen an das Geschäft, nicht aber an die Menschen. Möglicherweise lebten sie sehr zurückgezogen, denn auch in den Vereinsschriften tauchen weder ihre Namen als Mitglieder noch als Inserenten für das Schuhgeschäft auf. Nicht vergessen zu erwähnen hat sie die SA mit der Geschäftsadresse im Boykottbuch von 1934.
 
@@ -66,7 +66,7 @@ Königsteiner Straße 167
 ## Gallery
 
 <!-- gallery:standard -->
-![Kahn, Elias](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/unterliederbach/kahn_elias.jpg)
+![Kahn, Elias](../../images/stolpersteine/c365d092c436_kahn_elias.jpg)
 
 ## Links
 

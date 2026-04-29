@@ -11,7 +11,7 @@ filters:
 
 *Rotlintstraße 70*
 
-![Stolperstein Veith, Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/rotlintstr_70.jpg)
+![Stolperstein Veith, Karoline](../../images/stolpersteine/fee835694e4c_rotlintstr_70.jpg)
 
 Karoline Veith wurde in Ober-Wöllstadt/Wetterau geboren und wohnte in Frankfurt in der Rotlintstraße 70. Sie arbeitete als Putzfrau. Ihr Vater, der Zimmermann Philipp Franz Veith, war katholisch, ihre Mutter Karoline Veith, geb. Fenster, evangelisch. Karoline war das fünfte von acht Kindern und wurde katholisch getauft. Ihre beiden ältesten Geschwister (geb. 1874) starben vor ihrer Geburt. Drei weitere Schwestern starben zwischen ihrem 4. und 6. Lebensjahr. Als Karoline elf Jahre alt war, starb auch der Vater. Es blieb die Mutter mit drei Töchtern.
 
@@ -402,7 +402,7 @@ Rotlintstraße 70
 ## Gallery
 
 <!-- gallery:standard -->
-![Veith, Karoline](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-veith-karoline.jpg)
+![Veith, Karoline](../../images/stolpersteine/89b1f3cda1aa_stolperstein-veith-karoline.jpg)
 
 ## Links
 

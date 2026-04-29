@@ -11,7 +11,7 @@ filters:
 
 *Hochstraße 8*
 
-![Stolperstein Altschüler, Ottilie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/hochstr_2.jpg)
+![Stolperstein Altschüler, Ottilie](../../images/stolpersteine/2d19d0b29370_hochstr_2.jpg)
 
 Ottilie
 
@@ -190,8 +190,8 @@ Hochstraße 2
 ## Gallery
 
 <!-- gallery:standard -->
-![Altschüler, Ottilie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/hochstr_2_altschueler_kloster.jpg)
-![Altschüler, Ottilie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_hochstr_2_altschueler_betty.jpg)
+![Altschüler, Ottilie](../../images/stolpersteine/ee059ac8c028_hochstr_2_altschueler_kloster.jpg)
+![Altschüler, Ottilie](../../images/stolpersteine/6c7ab3e150b4_stolperst_hochstr_2_altschueler_betty.jpg)
 
 ## Links
 

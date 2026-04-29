@@ -11,7 +11,7 @@ filters:
 
 *Baustraße 10*
 
-![Stolperstein Auerhan, Camilla, Felix, Heinz und Egon Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/baustrasse_10.jpg)
+![Stolperstein Auerhan, Camilla, Felix, Heinz und Egon Ernst](../../images/stolpersteine/6a7d29e14da2_baustrasse_10.jpg)
 
 Felix
 
@@ -542,10 +542,10 @@ Baustraße 10
 ## Gallery
 
 <!-- gallery:standard -->
-![Auerhan, Camilla, Felix, Heinz und Egon Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baustrasse_10_auerhan_camilla.jpg)
-![Auerhan, Camilla, Felix, Heinz und Egon Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baustrasse_10_auerhan_felix.jpg)
-![Auerhan, Camilla, Felix, Heinz und Egon Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baustrasse_10_auerhan_egon_ernst.jpg)
-![Auerhan, Camilla, Felix, Heinz und Egon Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_baustrasse_10_auerhan_heinz.jpg)
+![Auerhan, Camilla, Felix, Heinz und Egon Ernst](../../images/stolpersteine/336a87b25925_stolperst_baustrasse_10_auerhan_camilla.jpg)
+![Auerhan, Camilla, Felix, Heinz und Egon Ernst](../../images/stolpersteine/8ff1b85d6877_stolperst_baustrasse_10_auerhan_felix.jpg)
+![Auerhan, Camilla, Felix, Heinz und Egon Ernst](../../images/stolpersteine/577a08fea7d7_stolperst_baustrasse_10_auerhan_egon_ernst.jpg)
+![Auerhan, Camilla, Felix, Heinz und Egon Ernst](../../images/stolpersteine/328fc29f1a9d_stolperst_baustrasse_10_auerhan_heinz.jpg)
 
 ## Links
 

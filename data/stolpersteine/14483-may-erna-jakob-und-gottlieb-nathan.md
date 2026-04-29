@@ -11,7 +11,7 @@ filters:
 
 *Gaußstraße 16*
 
-![Stolperstein May, Erna, Jakob und Gottlieb, Nathan](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/gaussstrasse_14_haus.jpg)
+![Stolperstein May, Erna, Jakob und Gottlieb, Nathan](../../images/stolpersteine/e6a5d81e12e9_gaussstrasse_14_haus.jpg)
 
 Nathan, Gottlieb
 
@@ -446,10 +446,10 @@ Gaußstraße 14
 ## Gallery
 
 <!-- gallery:standard -->
-![May, Erna, Jakob und Gottlieb, Nathan](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/nathan-gottlieb.jpg)
-![May, Erna, Jakob und Gottlieb, Nathan](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/may-jacob.jpg)
-![May, Erna, Jakob und Gottlieb, Nathan](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/may-erna.jpg)
-![May, Erna, Jakob und Gottlieb, Nathan](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-may-erna.jpg)
+![May, Erna, Jakob und Gottlieb, Nathan](../../images/stolpersteine/70f2cda87450_nathan-gottlieb.jpg)
+![May, Erna, Jakob und Gottlieb, Nathan](../../images/stolpersteine/1da43638022b_may-jacob.jpg)
+![May, Erna, Jakob und Gottlieb, Nathan](../../images/stolpersteine/c3691847d17c_may-erna.jpg)
+![May, Erna, Jakob und Gottlieb, Nathan](../../images/stolpersteine/6511be6fcbf7_stolperstein-may-erna.jpg)
 
 ## Links
 

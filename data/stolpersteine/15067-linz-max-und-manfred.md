@@ -11,7 +11,7 @@ filters:
 
 *Windeckstraße 17*
 
-![Stolperstein Linz, Max und Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/windeckstr_17.jpg)
+![Stolperstein Linz, Max und Manfred](../../images/stolpersteine/261fad43b1ac_windeckstr_17.jpg)
 
 Max Linz wurde in Rüsselsheim als neuntes Kind von Adele und Abraham Linz geboren und war mit der nichtjüdischen, 1897 in Frankfurt geborenen Anna, geb. Will aus Frankfurt-Seckbach verheiratet. Die beiden hatten am 4.3.1921 geheiratet und hatten zwei Kinder: Gertrud (Jg.1927) und Manfred. Die Familie wohnte in der Windeckstraße 17 im Ostend. Beide Kinder wurden in der Nikolaikirche evangelisch getauft, Manfred am 9.6.1940 von Pfarrer Fritz Petermann. Max Linz war Autohändler, 1934 erhielt der vom Autohandelsfachverband ein Gewerbeverbot. Seitdem war er „Notstandsarbeiter“ und lebte dann von der Fürsorgeunterstützung.
 
@@ -212,8 +212,8 @@ Windeckstraße 17
 ## Gallery
 
 <!-- gallery:standard -->
-![Linz, Max und Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_windeckstr_17_linz_manfred.jpg)
-![Linz, Max und Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_windeckstr_17_linz_max.jpg)
+![Linz, Max und Manfred](../../images/stolpersteine/f979cd37a644_stolperst_windeckstr_17_linz_manfred.jpg)
+![Linz, Max und Manfred](../../images/stolpersteine/eceb1c678ac9_stolperst_windeckstr_17_linz_max.jpg)
 
 ## Links
 

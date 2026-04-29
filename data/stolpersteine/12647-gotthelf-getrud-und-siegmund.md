@@ -11,7 +11,7 @@ filters:
 
 *Böhmerstraße 4*
 
-![Stolperstein Gotthelf, Getrud und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/boehmerstrasse-4_1.jpg)
+![Stolperstein Gotthelf, Getrud und Siegmund](../../images/stolpersteine/9660a4dd7fe5_boehmerstrasse-4_1.jpg)
 
 Siegmund und Gertrud Gotthelf
 
@@ -528,8 +528,8 @@ Böhmerstraße 4
 ## Gallery
 
 <!-- gallery:standard -->
-![Gotthelf, Getrud und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/boehmerstr_4_sigmund_und_gertrud_gotthelf.jpg)
-![Gotthelf, Getrud und Siegmund](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperstein_boehmerstr_4_gotthelf_gertrud.jpg)
+![Gotthelf, Getrud und Siegmund](../../images/stolpersteine/266393994540_boehmerstr_4_sigmund_und_gertrud_gotthelf.jpg)
+![Gotthelf, Getrud und Siegmund](../../images/stolpersteine/8c6c8601e88d_stolperstein_boehmerstr_4_gotthelf_gertrud.jpg)
 
 ## Links
 

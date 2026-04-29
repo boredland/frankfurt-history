@@ -11,7 +11,7 @@ filters:
 
 *Nesenstraße 7*
 
-![Stolperstein Friedmann, Berta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/nesenstr_7__300x400.jpg)
+![Stolperstein Friedmann, Berta](../../images/stolpersteine/96dd0ac386cf_nesenstr_7__300x400.jpg)
 
 Berta Friedmann war mit dem Kaufmann Georg Friedmann verheiratet. Dem Ehemann gelang 1939 die Flucht über England in die USA, wo er später in Hartford/Connecticut lebte. Sie wohnte bis 04.09.1940 in der Fichtestraße 7, dann in der Nesenstraße 7 und war als Hausmädchen in der Pension Markus mit einer Vergütung von 40 RM und freier Verpflegung beschäftigt. Ihre Eltern, der Kaufmann Julius Ziegelmann, geb. 22.04.1877, und Minna Mindel, geb. Feldmann, geb. 07.01.1878, wohnten in der Oscar von Millerstraße 4.
 
@@ -400,7 +400,7 @@ Nesenstraße 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Friedmann, Berta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_nesenstr_7_friedmann_berta.jpg)
+![Friedmann, Berta](../../images/stolpersteine/c87e76f54fec_stolperst_nesenstr_7_friedmann_berta.jpg)
 
 ## Links
 

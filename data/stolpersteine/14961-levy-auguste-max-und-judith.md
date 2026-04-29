@@ -12,7 +12,7 @@ filters:
 
 *Seilerstraße 33*
 
-![Stolperstein Levy, Auguste, Max und Judith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/seilerstr_33.jpg)
+![Stolperstein Levy, Auguste, Max und Judith](../../images/stolpersteine/30a24a22c34d_seilerstr_33.jpg)
 
 Auguste Hella Levi wurde in Warschau als Tochter von
 
@@ -203,9 +203,9 @@ Seilerstraße 33
 ## Gallery
 
 <!-- gallery:standard -->
-![Levy, Auguste, Max und Judith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_seilerstr_33_levy_auguste.jpg)
-![Levy, Auguste, Max und Judith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_seilerstr_33_levy_max.jpg)
-![Levy, Auguste, Max und Judith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_seilerstr_33_levy_judith.jpg)
+![Levy, Auguste, Max und Judith](../../images/stolpersteine/09bf666784d5_stolperst_seilerstr_33_levy_auguste.jpg)
+![Levy, Auguste, Max und Judith](../../images/stolpersteine/5d3e738d6cdb_stolperst_seilerstr_33_levy_max.jpg)
+![Levy, Auguste, Max und Judith](../../images/stolpersteine/55777443198f_stolperst_seilerstr_33_levy_judith.jpg)
 
 ## Links
 

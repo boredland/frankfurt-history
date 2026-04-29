@@ -12,7 +12,7 @@ filters:
 
 *Assenheimer Straße 1*
 
-![Stolperstein Strauß, Selma, Renate und Isidor](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/alt-roedelheim-12_1.jpg)
+![Stolperstein Strauß, Selma, Renate und Isidor](../../images/stolpersteine/cd51af7a576b_alt-roedelheim-12_1.jpg)
 
 Selma Strauß war mit dem Kaufmann Isidor Strauß verheiratet, der in der Assenheimer Straße 1 ein Geschäft für Gemischtwaren betrieb. Dort wohnten auch ihre Eltern Jacob und Sophie Capell und ihre Geschwistern Siegfried und Sybilla, der das Haus bis zum Jahr 1937 gehörte. Ihnen gelang im Jahr 1940 die Flucht, Siegfried lebte bis zu seinem Tod mit seiner Familie in Buffalo.
 

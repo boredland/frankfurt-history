@@ -12,7 +12,7 @@ filters:
 
 *Hessestraße 30*
 
-![Stolperstein Seelig, Felix und Friedel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/hessenstr_30.jpg)
+![Stolperstein Seelig, Felix und Friedel](../../images/stolpersteine/bc748e8e0f04_hessenstr_30.jpg)
 
 Felix Seelig wurde in Schlüchtern, Friede, geb.
 
@@ -139,8 +139,8 @@ Hessestraße 30
 ## Gallery
 
 <!-- gallery:standard -->
-![Seelig, Felix und Friedel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/stolperst_hessenstr_30_seelig_felix.jpg)
-![Seelig, Felix und Friedel](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/stolperst_hessenstr_30_seelig_friedel.jpg)
+![Seelig, Felix und Friedel](../../images/stolpersteine/49f60ab441b7_stolperst_hessenstr_30_seelig_felix.jpg)
+![Seelig, Felix und Friedel](../../images/stolpersteine/347029711f08_stolperst_hessenstr_30_seelig_friedel.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Zeil 92*
 
-![Stolperstein Ackermann, Bella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/zeil_92.jpg)
+![Stolperstein Ackermann, Bella](../../images/stolpersteine/12ea0937b308_zeil_92.jpg)
 
 Bella Ackermann wurde in Rülzheim in der Pfalz geboren und war mit dem jüdischen Lehrer und Kantor Simon Ackermann verheiratet, der am 12. April 1930 starb. Das Ehepaar wohnte in Salzwedel und hatte vier Kinder, die Töchter Caroline und Alice sowie die Söhne Sally und Kurt, die beide im Bankhaus Herman Bacharach in Salzwedel als Bankbeamte tätig waren. Sally starb 1933 im Alter von 26 Jahren. Nach dem Tod ihres Mannes und ihres Sohnes Sally wohnte Bella Ackermann weiterhin in ihrem Haus. 1931 war dort auch die Tochter Alice als „vorübergehend wohnend“ registriert. Alice war verheiratet mit Hugo Feibelmann, der in die Schweiz emigrierte. Alice und ihr 1932 geborener Sohn Hans emigrierten nach Paris. Sie wurden dort bei der Velodrome Action am 16. Juli 1942 festgenommen und am 3. August 1942 über Drancy nach Auschwitz deportiert und ermordet.
 
@@ -156,7 +156,7 @@ Zeil 92
 ## Gallery
 
 <!-- gallery:standard -->
-![Ackermann, Bella](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_zeil_92_ackermann_bella.jpg)
+![Ackermann, Bella](../../images/stolpersteine/8a0f6978f176_stolperst_zeil_92_ackermann_bella.jpg)
 
 ## Links
 

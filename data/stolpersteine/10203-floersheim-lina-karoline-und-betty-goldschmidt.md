@@ -11,7 +11,7 @@ filters:
 
 *Fichtestraße 3*
 
-![Stolperstein Flörsheim, Lina (Karoline) und Betty Goldschmidt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/fichtestr_3.jpg)
+![Stolperstein Flörsheim, Lina (Karoline) und Betty Goldschmidt](../../images/stolpersteine/e5f7ba783de8_fichtestr_3.jpg)
 
 Flörsheim, Lina
 
@@ -430,11 +430,11 @@ Fichtestraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Flörsheim, Lina (Karoline) und Betty Goldschmidt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/florsheim-lina.jpg)
-![Flörsheim, Lina (Karoline) und Betty Goldschmidt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/lina-florsheim-am-hochzeitstag.jpg)
-![Flörsheim, Lina (Karoline) und Betty Goldschmidt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/wohn--und-geschaftshaus-in-gelnhausen.jpg)
-![Flörsheim, Lina (Karoline) und Betty Goldschmidt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/letzter-brief-von-lina-florsheim.jpg)
-![Flörsheim, Lina (Karoline) und Betty Goldschmidt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-floersheim-lina.jpg)
+![Flörsheim, Lina (Karoline) und Betty Goldschmidt](../../images/stolpersteine/1ca13b01feb0_florsheim-lina.jpg)
+![Flörsheim, Lina (Karoline) und Betty Goldschmidt](../../images/stolpersteine/9de1ac19efcf_lina-florsheim-am-hochzeitstag.jpg)
+![Flörsheim, Lina (Karoline) und Betty Goldschmidt](../../images/stolpersteine/14633d1f68ee_wohn--und-geschaftshaus-in-gelnhausen.jpg)
+![Flörsheim, Lina (Karoline) und Betty Goldschmidt](../../images/stolpersteine/99104a8d8d0c_letzter-brief-von-lina-florsheim.jpg)
+![Flörsheim, Lina (Karoline) und Betty Goldschmidt](../../images/stolpersteine/840036bd9a93_stolperstein-floersheim-lina.jpg)
 
 ## Links
 

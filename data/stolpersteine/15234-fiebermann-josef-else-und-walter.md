@@ -12,7 +12,7 @@ filters:
 
 *Eckenheimer Landstraße 238*
 
-![Stolperstein Fiebermann, Josef, Else und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eckenheim/eckenheimer_landstr_238.jpg)
+![Stolperstein Fiebermann, Josef, Else und Walter](../../images/stolpersteine/4f139345f84c_eckenheimer_landstr_238.jpg)
 
 Josef
 
@@ -155,9 +155,9 @@ Eckenheimer Landstraße 238
 ## Gallery
 
 <!-- gallery:standard -->
-![Fiebermann, Josef, Else und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eckenheim/stolperst_eckenheimer_landstr_238_fiebermann_josef.jpg)
-![Fiebermann, Josef, Else und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eckenheim/stolperst_eckenheimer_landstr_238_fiebermann_else.jpg)
-![Fiebermann, Josef, Else und Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eckenheim/stolperst_eckenheimer_landstr_238_fiebermann_walter.jpg)
+![Fiebermann, Josef, Else und Walter](../../images/stolpersteine/e4d95050d354_stolperst_eckenheimer_landstr_238_fiebermann_josef.jpg)
+![Fiebermann, Josef, Else und Walter](../../images/stolpersteine/37e3c65d007e_stolperst_eckenheimer_landstr_238_fiebermann_else.jpg)
+![Fiebermann, Josef, Else und Walter](../../images/stolpersteine/caa8d9e8479b_stolperst_eckenheimer_landstr_238_fiebermann_walter.jpg)
 
 ## Links
 

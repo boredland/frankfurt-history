@@ -11,7 +11,7 @@ filters:
 
 *Oberweg 58*
 
-![Stolperstein Levi, Kathinka, Karl und Isaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/oberweg_58.jpg)
+![Stolperstein Levi, Kathinka, Karl und Isaak](../../images/stolpersteine/6bf564396697_oberweg_58.jpg)
 
 Familie Levi
 
@@ -434,7 +434,7 @@ Oberweg 58
 ## Gallery
 
 <!-- gallery:standard -->
-![Levi, Kathinka, Karl und Isaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/familie-levi.jpg)
+![Levi, Kathinka, Karl und Isaak](../../images/stolpersteine/a2845434de53_familie-levi.jpg)
 
 ## Links
 

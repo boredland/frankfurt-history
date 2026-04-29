@@ -12,7 +12,7 @@ filters:
 
 *Spielsgasse 8*
 
-![Stolperstein Schott, Pauline, Lina, Wanda und Denny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederursel/standorte/spielsgasse_8.jpg)
+![Stolperstein Schott, Pauline, Lina, Wanda und Denny](../../images/stolpersteine/7d882ef7e728_spielsgasse_8.jpg)
 
 Pauline Marx wurde in Reichelsheim geboren. Am 15.
 
@@ -157,11 +157,11 @@ Spielsgasse 8
 ## Gallery
 
 <!-- gallery:standard -->
-![Schott, Pauline, Lina, Wanda und Denny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederursel/opferbilder/spielsgasse_8_schott_pauline_1.jpg)
-![Schott, Pauline, Lina, Wanda und Denny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederursel/stolpersteine/stolperst_spielsgasse_8_schott_paula.jpg)
-![Schott, Pauline, Lina, Wanda und Denny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederursel/stolpersteine/stolperst_spielsgasse_8_schott_lina.jpg)
-![Schott, Pauline, Lina, Wanda und Denny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederursel/stolpersteine/stolperst_spielsgasse_8_schott_wanda.jpg)
-![Schott, Pauline, Lina, Wanda und Denny](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederursel/stolpersteine/stolperst_spielsgasse_8_schott_denny.jpg)
+![Schott, Pauline, Lina, Wanda und Denny](../../images/stolpersteine/2c8294ea8d71_spielsgasse_8_schott_pauline_1.jpg)
+![Schott, Pauline, Lina, Wanda und Denny](../../images/stolpersteine/ed33eb03d2f2_stolperst_spielsgasse_8_schott_paula.jpg)
+![Schott, Pauline, Lina, Wanda und Denny](../../images/stolpersteine/296010c7aa41_stolperst_spielsgasse_8_schott_lina.jpg)
+![Schott, Pauline, Lina, Wanda und Denny](../../images/stolpersteine/4e383e2dce52_stolperst_spielsgasse_8_schott_wanda.jpg)
+![Schott, Pauline, Lina, Wanda und Denny](../../images/stolpersteine/ad3f6814f2cd_stolperst_spielsgasse_8_schott_denny.jpg)
 
 ## Links
 

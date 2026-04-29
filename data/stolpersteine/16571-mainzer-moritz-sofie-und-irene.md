@@ -11,7 +11,7 @@ filters:
 
 *Rhönstraße 2*
 
-![Stolperstein Mainzer, Moritz, Sofie und Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/rhoenstrasse-2_1.jpg)
+![Stolperstein Mainzer, Moritz, Sofie und Irene](../../images/stolpersteine/c78372f33541_rhoenstrasse-2_1.jpg)
 
 Dr. Moritz Mainzer wurde in Lorsch am Rhein geboren, besuchte das Rabbiner-Seminar in Würzburg, promovierte im Fach Philosophie und arbeitete als Lehrer und Rabbiner bei der jüdischen Gemeinde in Frankfurt am Main. Seine Frau Sophie Mainzer, geborene Kahn, stammte aus Hollenbach (Württemberg). Sie hatten drei Töchter: Helene, geboren am 4. Januar 1923, Irene und Rose, geboren am 1. Februar 1928. Alle drei Töchter wurden in Frankfurt am Main geboren.
 
@@ -230,8 +230,8 @@ Rhönstraße 2
 ## Gallery
 
 <!-- gallery:standard -->
-![Mainzer, Moritz, Sofie und Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-mainzer-irene.jpg)
-![Mainzer, Moritz, Sofie und Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-mainzer-moritz.jpg)
+![Mainzer, Moritz, Sofie und Irene](../../images/stolpersteine/8b6ebaa2e626_stolperstein-mainzer-irene.jpg)
+![Mainzer, Moritz, Sofie und Irene](../../images/stolpersteine/cc6477fca4a6_stolperstein-mainzer-moritz.jpg)
 
 ## Links
 

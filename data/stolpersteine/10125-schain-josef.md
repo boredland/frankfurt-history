@@ -11,7 +11,7 @@ filters:
 
 *Brüningstraße 34*
 
-![Stolperstein Schain, Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/brueningstr_34__300x400.jpg)
+![Stolperstein Schain, Josef](../../images/stolpersteine/44259af52592_brueningstr_34__300x400.jpg)
 
 Josef Schain und Familie
 
@@ -146,8 +146,8 @@ Brüningstraße 34
 ## Gallery
 
 <!-- gallery:standard -->
-![Schain, Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/josef-schain-und-familie.jpg)
-![Schain, Josef](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/schain-josef.jpg)
+![Schain, Josef](../../images/stolpersteine/bcd0f22241c3_josef-schain-und-familie.jpg)
+![Schain, Josef](../../images/stolpersteine/a2d403fc1159_schain-josef.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Zuckschwerdtstraße 1*
 
-![Stolperstein de Beer, Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/zuckschwerdtstr_1.jpg)
+![Stolperstein de Beer, Ernst](../../images/stolpersteine/27a82dc6c717_zuckschwerdtstr_1.jpg)
 
 Ernst de Beer stammte aus Meisenheim und war Sohn des Kantors Heimann de Beer, der aus Holland stammte, und der Modistin Franziska. geb. Unrich. Von den neun Kindern der de Beer’s lebten drei nur wenige Tage. Bereits 1909 zog die Familie nach Frankfurt am Main.
 
@@ -146,8 +146,8 @@ Zuckschwerdtstraße 1
 ## Gallery
 
 <!-- gallery:standard -->
-![de Beer, Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/annonce.jpg)
-![de Beer, Ernst](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_zuckschwerdtstr_1_beer_ernst_de.jpg)
+![de Beer, Ernst](../../images/stolpersteine/3ff0b52f9206_annonce.jpg)
+![de Beer, Ernst](../../images/stolpersteine/f7dd3bed85c7_stolperst_zuckschwerdtstr_1_beer_ernst_de.jpg)
 
 ## Links
 

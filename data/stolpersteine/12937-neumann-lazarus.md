@@ -11,7 +11,7 @@ filters:
 
 *Klapperfeldstraße 8*
 
-![Stolperstein Neumann, Lazarus](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/klapperfeldstr_8.jpg)
+![Stolperstein Neumann, Lazarus](../../images/stolpersteine/8773820be752_klapperfeldstr_8.jpg)
 
 Lazarus (Leiser) Benjamin Neumann  wurde  in Wielun geboren. Er war verheiratet mit Hanche Neumann, geb. Lind, die am 12.11.1868 in Crainsfeld geboren wurde. Sie starb am 12.10.1938 und wurde auf dem Jüdischen Friedhof Eckenheimer Landstraße 238 im Block 5 Gruppe B Grab Nr. 85 beerdigt.
 
@@ -154,7 +154,7 @@ Klapperfeldstrasse 8
 ## Gallery
 
 <!-- gallery:standard -->
-![Neumann, Lazarus](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_klapperfeldstr_8_neumann_lazarus.jpg)
+![Neumann, Lazarus](../../images/stolpersteine/d700daecdba7_stolperst_klapperfeldstr_8_neumann_lazarus.jpg)
 
 ## Links
 

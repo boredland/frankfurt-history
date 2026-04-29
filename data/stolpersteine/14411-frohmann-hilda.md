@@ -11,7 +11,7 @@ filters:
 
 *Eschenheimer Anlage 20*
 
-![Stolperstein Frohmann, Hilda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/eschenheimer_anlage_20__300x400.jpg)
+![Stolperstein Frohmann, Hilda](../../images/stolpersteine/7cf00369e32f_eschenheimer_anlage_20__300x400.jpg)
 
 Hilda Frohmann als junges Mädchen in Gießen, privat Robert B. Goldmann
 
@@ -410,8 +410,8 @@ Eschenheimer Anlage 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Frohmann, Hilda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/hilda-frohmann-als-junges-maedchen-in-giessen.jpg)
-![Frohmann, Hilda](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-frohmann-hilda.jpg)
+![Frohmann, Hilda](../../images/stolpersteine/8bc9289e2a1d_hilda-frohmann-als-junges-maedchen-in-giessen.jpg)
+![Frohmann, Hilda](../../images/stolpersteine/1d878cc5fed6_stolperstein-frohmann-hilda.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Uhlandstraße 38*
 
-![Stolperstein Bergmann, Israel, Gustel Ester, Leopold und Nora](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/uhlandstr_38.jpg)
+![Stolperstein Bergmann, Israel, Gustel Ester, Leopold und Nora](../../images/stolpersteine/07aaa768d38b_uhlandstr_38.jpg)
 
 Israel Bergmann wurde in Nevisanz (Polen), Gustel Esther Bergmann,
 
@@ -284,10 +284,10 @@ Uhlandstraße 38
 ## Gallery
 
 <!-- gallery:standard -->
-![Bergmann, Israel, Gustel Ester, Leopold und Nora](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstr_38_bergmann_israel.jpg)
-![Bergmann, Israel, Gustel Ester, Leopold und Nora](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstr_38_bergmann_gustel_ester.jpg)
-![Bergmann, Israel, Gustel Ester, Leopold und Nora](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstr_38_bergmann_leopold.jpg)
-![Bergmann, Israel, Gustel Ester, Leopold und Nora](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_uhlandstr_38_bergmann_nora.jpg)
+![Bergmann, Israel, Gustel Ester, Leopold und Nora](../../images/stolpersteine/82f73bbce002_stolperst_uhlandstr_38_bergmann_israel.jpg)
+![Bergmann, Israel, Gustel Ester, Leopold und Nora](../../images/stolpersteine/57f1b890bb31_stolperst_uhlandstr_38_bergmann_gustel_ester.jpg)
+![Bergmann, Israel, Gustel Ester, Leopold und Nora](../../images/stolpersteine/4602b3fc67d5_stolperst_uhlandstr_38_bergmann_leopold.jpg)
+![Bergmann, Israel, Gustel Ester, Leopold und Nora](../../images/stolpersteine/b4adfc886052_stolperst_uhlandstr_38_bergmann_nora.jpg)
 
 ## Links
 

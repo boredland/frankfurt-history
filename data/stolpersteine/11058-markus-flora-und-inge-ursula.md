@@ -11,7 +11,7 @@ filters:
 
 *Flußgasse 5*
 
-![Stolperstein Markus, Flora und Inge Ursula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/flussgasse-5-7_1.jpg)
+![Stolperstein Markus, Flora und Inge Ursula](../../images/stolpersteine/92b9b110c62d_flussgasse-5-7_1.jpg)
 
 Markus, Flora
 
@@ -112,10 +112,10 @@ Flußgasse 5-7
 ## Gallery
 
 <!-- gallery:standard -->
-![Markus, Flora und Inge Ursula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/markus-flora.jpg)
-![Markus, Flora und Inge Ursula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/markus-inge.jpg)
-![Markus, Flora und Inge Ursula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/markus-ferdinand.jpg)
-![Markus, Flora und Inge Ursula](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/stolperst_flussgasse_5_markus_flora__400x400.jpg)
+![Markus, Flora und Inge Ursula](../../images/stolpersteine/abd3096348dc_markus-flora.jpg)
+![Markus, Flora und Inge Ursula](../../images/stolpersteine/e0faafc4667d_markus-inge.jpg)
+![Markus, Flora und Inge Ursula](../../images/stolpersteine/a79a031ef35f_markus-ferdinand.jpg)
+![Markus, Flora und Inge Ursula](../../images/stolpersteine/5d70e57d236a_stolperst_flussgasse_5_markus_flora__400x400.jpg)
 
 ## Links
 

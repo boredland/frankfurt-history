@@ -11,7 +11,7 @@ filters:
 
 *Triftstraße 9*
 
-![Stolperstein Beisel,  Johann Michael](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/triftstr_9.jpg)
+![Stolperstein Beisel,  Johann Michael](../../images/stolpersteine/1be8796aa5aa_triftstr_9.jpg)
 
 Johann Michael Beisel
 
@@ -152,7 +152,7 @@ Triftstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Beisel,  Johann Michael](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_triftstr_9_beisel_johann_michael.jpg)
+![Beisel,  Johann Michael](../../images/stolpersteine/ee2b6c73816f_stolperst_triftstr_9_beisel_johann_michael.jpg)
 
 ## Links
 

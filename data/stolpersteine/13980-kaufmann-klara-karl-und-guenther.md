@@ -11,7 +11,7 @@ filters:
 
 *Oberweg 4*
 
-![Stolperstein Kaufmann, Klara, Karl und Günther](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/oberweg_4_haus.jpg)
+![Stolperstein Kaufmann, Klara, Karl und Günther](../../images/stolpersteine/90952ea598ea_oberweg_4_haus.jpg)
 
 Karl Kaufmann aus Langendiebach war der Sohn des Handelsmannes Gustav Kaufmann und von Sophie Kaufmann, geb. Strauß, geboren. Die Geschäftsfrau Klara Kaufmann aus Wertheim am Main war die Tochter des Handelsmannes Gabriel Diebach und von Minna Diebach, geb. Stumpf, die Anfang 1942 starb. Karl und Klara Kaufmann waren seit etwa 1922 verheiratet. Ihr Sohn Günter wurde in Büdingen geboren, eine 1927 geborenen Tochter lebte nach dem Zweiten Weltkrieg in den Niederlanden.
 

@@ -11,7 +11,7 @@ filters:
 
 *Korffstraße 9*
 
-![Stolperstein Kullmann, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/harheim/korffstr_9.jpg)
+![Stolperstein Kullmann, Karl](../../images/stolpersteine/98554a5c9b59_korffstr_9.jpg)
 
 Karl
 
@@ -124,7 +124,7 @@ Korffstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Kullmann, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/harheim/stolperst_korffstr_9_kullmann_karl-1.jpg)
+![Kullmann, Karl](../../images/stolpersteine/eefec2874cb2_stolperst_korffstr_9_kullmann_karl-1.jpg)
 
 ## Links
 

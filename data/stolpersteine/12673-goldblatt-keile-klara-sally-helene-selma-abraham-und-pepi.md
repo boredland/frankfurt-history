@@ -11,7 +11,7 @@ filters:
 
 *Carl-Theodor-Reiffenstein-Platz 5*
 
-![Stolperstein Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/carl-theodor-reiffensteinplatz-5.jpg)
+![Stolperstein Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/76f23ab57bb2_carl-theodor-reiffensteinplatz-5.jpg)
 
 Klara (Kajla, Kaile) Goldblatt wurde in
 
@@ -504,29 +504,29 @@ Carl-Theodor-Reiffenstein-Platz 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-keile.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-sali.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-helene.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-helene-und-sali.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-sali-2.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-keile-klara-2.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-keile-klara-3.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-helene-3.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-keile-klara-4.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-selma.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-pepi.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-helene-4.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-sally-3.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-helene-5.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-helene-6.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-helene-7.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/goldblatt-helene-8.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/goldblatt-keile-klara.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/goldblatt-sally.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/goldblatt-helene.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/goldblatt-selma.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/goldblatt-abraham.jpg)
-![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/goldblatt-pepi.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/a927cbf59112_goldblatt-keile.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/b1601017ad56_goldblatt-sali.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/2e0aa31e054d_goldblatt-helene.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/b30055afd22d_goldblatt-helene-und-sali.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/6ae651a1f41a_goldblatt-sali-2.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/81a0384a6de2_goldblatt-keile-klara-2.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/2aa4c0398121_goldblatt-keile-klara-3.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/ecf40a7bd0b5_goldblatt-helene-3.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/df48f6b49ce2_goldblatt-keile-klara-4.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/8acd1f12e255_goldblatt-selma.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/ff4d82dc0201_goldblatt-pepi.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/8ab97f878510_goldblatt-helene-4.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/82ae33547fe7_goldblatt-sally-3.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/6b60dd7e4e51_goldblatt-helene-5.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/e426103e2d86_goldblatt-helene-6.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/1b94886050b6_goldblatt-helene-7.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/dd967b6301ff_goldblatt-helene-8.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/2e0c99b25b37_goldblatt-keile-klara.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/4b50cde8f14c_goldblatt-sally.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/7107daba6816_goldblatt-helene.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/d987d6f64b57_goldblatt-selma.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/62dea8b41368_goldblatt-abraham.jpg)
+![Goldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi](../../images/stolpersteine/4cce43e5a948_goldblatt-pepi.jpg)
 
 ## Links
 

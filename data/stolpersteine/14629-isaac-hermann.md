@@ -11,7 +11,7 @@ filters:
 
 *Kettenhofweg 112*
 
-![Stolperstein Isaac, Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/kettenhofweg-112_1.jpg)
+![Stolperstein Isaac, Hermann](../../images/stolpersteine/a741269df157_kettenhofweg-112_1.jpg)
 
 Hermann Isaac und Klaus Bock
 
@@ -446,8 +446,8 @@ Kettenhofweg 112
 ## Gallery
 
 <!-- gallery:standard -->
-![Isaac, Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/hermann-isaac-und-klaus-bock.jpg)
-![Isaac, Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_kettenhofweg112_isaac_hermann_400x400.jpg)
+![Isaac, Hermann](../../images/stolpersteine/eefed94b2a17_hermann-isaac-und-klaus-bock.jpg)
+![Isaac, Hermann](../../images/stolpersteine/f3fb591eb154_stolperst_kettenhofweg112_isaac_hermann_400x400.jpg)
 
 ## Links
 

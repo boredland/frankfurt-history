@@ -12,7 +12,7 @@ filters:
 
 *Dreieichstraße 43*
 
-![Stolperstein Margulies, Wolf B., Cilly, Jenny und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/dreieichstr_43.jpg)
+![Stolperstein Margulies, Wolf B., Cilly, Jenny und Moritz](../../images/stolpersteine/1d5f1bbc7ea9_dreieichstr_43.jpg)
 
 Wolf Benjamin Margulies wurde in Romanow
 
@@ -223,7 +223,7 @@ Dreieichstraße 43
 ## Gallery
 
 <!-- gallery:standard -->
-![Margulies, Wolf B., Cilly, Jenny und Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_dreieichstr_43_margulies_cilly.jpg)
+![Margulies, Wolf B., Cilly, Jenny und Moritz](../../images/stolpersteine/a1d1693bd7d6_stolperst_dreieichstr_43_margulies_cilly.jpg)
 
 ## Links
 

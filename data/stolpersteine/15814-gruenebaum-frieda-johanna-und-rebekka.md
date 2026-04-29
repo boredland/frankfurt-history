@@ -11,7 +11,7 @@ filters:
 
 *Sonnemannstraße 79*
 
-![Stolperstein Gruenebaum, Frieda, Johanna und Rebekka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/sonnemannstrasse-79_1.jpg)
+![Stolperstein Gruenebaum, Frieda, Johanna und Rebekka](../../images/stolpersteine/4e52b9898b4d_sonnemannstrasse-79_1.jpg)
 
 Johanna Gruenebaum, geb. Hahn, wurde in Bergen als Tochter von Louis und Elise Hahn, geb. Hahn, geboren. Sie war mit dem Kaufmann Salli Gruenebaum verheiratet. Die beiden hatten zwei Töchter  - Rebekka und Frieda -  und einen Sohn, dem 1939 die Flucht in das US-amerikanische Exil gelang. Der Sohn betrieb in der Großmarkthalle einen Obst- und Gemüsestand, in dem auch Rebekka Gruenebaum mitarbeitete. Im Zusammenhang mit dem November-Pogrom 1938 musste der Betrieb eingestellt werden.
 
@@ -224,8 +224,8 @@ Sonnemannstrasse 79
 ## Gallery
 
 <!-- gallery:standard -->
-![Gruenebaum, Frieda, Johanna und Rebekka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-gruenebaum-johanna.jpg)
-![Gruenebaum, Frieda, Johanna und Rebekka](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-gruenebaum-rebekka.jpg)
+![Gruenebaum, Frieda, Johanna und Rebekka](../../images/stolpersteine/8a4c1c974d5d_stolperstein-gruenebaum-johanna.jpg)
+![Gruenebaum, Frieda, Johanna und Rebekka](../../images/stolpersteine/1459e998e91e_stolperstein-gruenebaum-rebekka.jpg)
 
 ## Links
 

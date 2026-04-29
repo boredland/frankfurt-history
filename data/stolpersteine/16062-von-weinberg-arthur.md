@@ -11,7 +11,7 @@ filters:
 
 *Buchenrodestraße None*
 
-![Stolperstein von Weinberg, Arthur](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/buchenrodestr_26.jpg)
+![Stolperstein von Weinberg, Arthur](../../images/stolpersteine/b5dc117cc039_buchenrodestr_26.jpg)
 
 Arthur von Weinberg war Leiter der Cassella-Werke, Mitbegründer der IG Farben, großer Mäzen und Gründungsstifter der Frankfurter Universität sowie ein Ehrenbürger der Stadt Frankfurt. Der Chemiker  Arthur und sein Bruder, der  Kaufmann Carl von Weinberg (geb. 18.09.1861) führten das Chemieunternehmen Cassella zu Weltruhm. 1908 wurden die beiden Brüder von Kaiser Wilhelm II. in den erblichen preußischen Adelsstand erhoben.
 
@@ -130,8 +130,8 @@ Buchenrodestraße 26
 ## Gallery
 
 <!-- gallery:standard -->
-![von Weinberg, Arthur](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/opferbilder/von-weinberg-arthur.jpg)
-![von Weinberg, Arthur](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/weinberg_arthur_von.jpg)
+![von Weinberg, Arthur](../../images/stolpersteine/4840c707ad39_von-weinberg-arthur.jpg)
+![von Weinberg, Arthur](../../images/stolpersteine/3f6ca49af6b9_weinberg_arthur_von.jpg)
 
 ## Links
 

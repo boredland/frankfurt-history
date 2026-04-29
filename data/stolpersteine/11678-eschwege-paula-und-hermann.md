@@ -11,7 +11,7 @@ filters:
 
 *Wittelsbacherallee 4*
 
-![Stolperstein Eschwege, Paula und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/wittelsbacher-allee-4_1.jpg)
+![Stolperstein Eschwege, Paula und Hermann](../../images/stolpersteine/a7c52a8daeaa_wittelsbacher-allee-4_1.jpg)
 
 Paula Eschwege stammte aus München und war die Tochter des Kaufmannes Ludwig Wertheimer und von Bertha, geb. Hirschberger. Der Vater war Kunstsammler und Mitbegründer der Alten Pinakothek in München, wo Paula Eschwege ihre Kindheit verbrachte, und war laut Angaben der Enkelin Inhaber des „Kaufhaus Wertheimer“ in München.
 
@@ -214,7 +214,7 @@ Wittelsbacher Allee 4
 ## Gallery
 
 <!-- gallery:standard -->
-![Eschwege, Paula und Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-eschwege-hermann.jpg)
+![Eschwege, Paula und Hermann](../../images/stolpersteine/e1d68d218bab_stolperstein-eschwege-hermann.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Linkstraße 6*
 
-![Stolperstein Rosenblum, Josef Simon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/linkstrasse_6.jpg)
+![Stolperstein Rosenblum, Josef Simon](../../images/stolpersteine/627ef6e17089_linkstrasse_6.jpg)
 
 Josef Simon Rosenblum kam als 16-Jähriger, wahrscheinlich auf Anwerbung, 1917 aus Polen nach Griesheim und arbeitete im dortigen Werk. Er heiratete die Griesheimerin Louise Christiane Fuchs und ließ sich evangelisch taufen. Die beiden hatten einen Sohn namens Walter. Als Josef Rosenblum einen Antrag auf Einbürgerung stellte, er war bereits zehn Jahre in Deutschland, wurde das vom damaligen Bürgermeister und der örtlichen Polizeibehörde wohlwollend unterstützt. Auch der Landrat befürwortete die Einbürgerung, trotzdem lehnte der Regierungspräsident ab. Sein Arbeitgeber, inzwischen die IG.-Farben, entließ ihn als Juden nach 1933 und er konnte nur noch mit Gelegenheitsjobs und der Hilfe seiner Frau, die bei anderen geputzt und die Wäsche gewaschen hat, seine Familie ernähren.
 
@@ -62,8 +62,8 @@ Linkstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenblum, Josef Simon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/opferbilder/rosenblum-josef-simon.jpg)
-![Rosenblum, Josef Simon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/stolperst_linkstrasse_6_rosenblum_josef_simon.jpg)
+![Rosenblum, Josef Simon](../../images/stolpersteine/8aef7683c16d_rosenblum-josef-simon.jpg)
+![Rosenblum, Josef Simon](../../images/stolpersteine/d863556c727b_stolperst_linkstrasse_6_rosenblum_josef_simon.jpg)
 
 ## Links
 

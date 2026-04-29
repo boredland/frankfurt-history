@@ -11,7 +11,7 @@ filters:
 
 *Liebigstraße 27b*
 
-![Stolperstein Katz, Ludwig, Hedwig Jenny und Walter Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/liebigstrasse-27-b_1.jpg)
+![Stolperstein Katz, Ludwig, Hedwig Jenny und Walter Leo](../../images/stolpersteine/c696bbd5a710_liebigstrasse-27-b_1.jpg)
 
 Hedwig Jenny Katz, geb. Strauss, stammt aus Wachenbuchen, Ludwig Katz vermutlich aus Frankfurt am Main. Beide heirateten 1905. Ludwig Katz arbeitete als Kaufmann und war vereidigter Sachverständiger am Oberlandesgericht Frankfurt. Einem 1905 geborenen Bruder von Walter Leo Katz gelang die Flucht in das US-amerikanische Exil. Walter Leo Katz zog zu einem nicht bekannten Zeitpunkt nach Berlin. Die Frankfurter Adressen der Eheleute waren die Liebigstraße 27 b, zuletzt Friedberger Landstraße 21/II.
 
@@ -474,7 +474,7 @@ Liebigstraße 27b
 ## Gallery
 
 <!-- gallery:standard -->
-![Katz, Ludwig, Hedwig Jenny und Walter Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_liebigstr27b_katz_walterleo_400x400.jpg)
+![Katz, Ludwig, Hedwig Jenny und Walter Leo](../../images/stolpersteine/36f97425d1e4_stolperst_liebigstr27b_katz_walterleo_400x400.jpg)
 
 ## Links
 

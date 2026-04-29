@@ -11,7 +11,7 @@ filters:
 
 *Robert-Mayer-Straße 48*
 
-![Stolperstein Sonntag, Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/robert_mayer_str_48.jpg)
+![Stolperstein Sonntag, Paul](../../images/stolpersteine/24e4232d4661_robert_mayer_str_48.jpg)
 
 Paul Sonntag wurde in Leipzig geboren. Im ersten Weltkrieg diente er an der Westfront und wurde mit dem EK II ausgezeichnet. Von Beruf war er Buchdrucker, Mitglied im Verband der Deutschen Buchdrucker bis 1931. Anfang der 1930er Jahre kam er nach Frankfurt und war zuletzt verheiratet mit Gertrud, geb. Köhler. Das Ehepaar bekam 1939 einen Sohn namens Anton.
 
@@ -116,8 +116,8 @@ Robert-Mayer-Straße 48
 ## Gallery
 
 <!-- gallery:standard -->
-![Sonntag, Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/sonntag-paul.jpg)
-![Sonntag, Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolpersteine_robert_mayer_str_48.jpg)
+![Sonntag, Paul](../../images/stolpersteine/80ed3a58e651_sonntag-paul.jpg)
+![Sonntag, Paul](../../images/stolpersteine/40a11f8876c6_stolpersteine_robert_mayer_str_48.jpg)
 
 ## Links
 

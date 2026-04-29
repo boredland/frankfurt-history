@@ -11,7 +11,7 @@ filters:
 
 *Obermainanlage 20*
 
-![Stolperstein Liebhold, Emil und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/obermainanlage-20_1.jpg)
+![Stolperstein Liebhold, Emil und Charlotte](../../images/stolpersteine/1b4f8ffc6aa9_obermainanlage-20_1.jpg)
 
 Liebhold, Emil
 
@@ -232,14 +232,14 @@ Obermainanlage 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Liebhold, Emil und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/liebhold-emil.jpg)
-![Liebhold, Emil und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/emil-und-charlotte-liebhold.jpg)
-![Liebhold, Emil und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/liebhold-franz.jpg)
-![Liebhold, Emil und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/geschaeftsanzeige-und-bekanntmachung-goldenes-berufsjubilaeum.jpg)
-![Liebhold, Emil und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/liebhold-abschiedsbrief-1.jpg)
-![Liebhold, Emil und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/liebhold-abschiedsbrief-2.jpg)
-![Liebhold, Emil und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-liebhold-emil.jpg)
-![Liebhold, Emil und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-liebhold-charlotte.jpg)
+![Liebhold, Emil und Charlotte](../../images/stolpersteine/ec0e248d62f2_liebhold-emil.jpg)
+![Liebhold, Emil und Charlotte](../../images/stolpersteine/74a2fc6c95f6_emil-und-charlotte-liebhold.jpg)
+![Liebhold, Emil und Charlotte](../../images/stolpersteine/d0e0aef377df_liebhold-franz.jpg)
+![Liebhold, Emil und Charlotte](../../images/stolpersteine/dd0755544730_geschaeftsanzeige-und-bekanntmachung-goldenes-berufsjubilaeu.jpg)
+![Liebhold, Emil und Charlotte](../../images/stolpersteine/25bcf6efbc5c_liebhold-abschiedsbrief-1.jpg)
+![Liebhold, Emil und Charlotte](../../images/stolpersteine/601686ef0c80_liebhold-abschiedsbrief-2.jpg)
+![Liebhold, Emil und Charlotte](../../images/stolpersteine/fd213032eed6_stolperstein-liebhold-emil.jpg)
+![Liebhold, Emil und Charlotte](../../images/stolpersteine/86b35670894f_stolperstein-liebhold-charlotte.jpg)
 
 ## Links
 

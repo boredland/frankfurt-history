@@ -11,7 +11,7 @@ filters:
 
 *Obermainstraße 6*
 
-![Stolperstein Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/obermainstr_6.jpg)
+![Stolperstein Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/d25d86c9b319_obermainstr_6.jpg)
 
 Sabine Einhorn wurde in Rzochow im Kreis Mielic in Polen geboren. 1907 kam sie nach Frankfurt und arbeitete als Hausiererin für Kurzwaren. Sie hatte nach eigenen Angaben sieben Geschwister, von denen zwei nach „America gefahren“ seien. Ihr an TBC gestorbener Vater sei Kaufmann in Rzochow und „sehr religiös und gelehrt“ gewesen. Ihre Mutter Minna Bletz flüchtete nach dem Tod ihres Mannes während des Ersten Weltkrieges aus Galizien nach Frankfurt. Im Jahr 1919 heiratete Sabine Einhorn den Handelsreisenden Philipp Einhorn. Sie hatten fünf Kinder: Mendel, Bertha/Betty, Josef Karniel, Edith und David. David wurde in Hadamar geboren und wenige Tage nach seiner Geburt seiner Mutter weggenommen.
 
@@ -314,23 +314,23 @@ Obermainstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_6_einhorn_-bertha.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_6_einhorn_edith.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_6_einhorn_david1.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_6_einhorn_david2.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_6_einhorn_schulkinder_in_der_villa_1939_vorne_david_einhorn_hinten_edith_einhorn.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_6_einhorn_maedchengruppe_zwischen_ende_1938_und_april_1939_hintere_-reihe_edith_einhorn.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_6_einhorn_josef.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_6_einhorn_poesiealbum1.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_6_einhorn_poesiealbum2.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_6_einhorn_poesiealbum3.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_6_einhorn_sabine.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_6_einhorn_philipp.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_6_einhorn_mendel.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_6_einhorn_bertha.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_6_einhorn_josef.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_6_einhorn_edith.jpg)
-![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_6_einhorn_david.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/69084fb9a85e_obermainstr_6_einhorn_-bertha.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/e28ff3f6345b_obermainstr_6_einhorn_edith.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/61e7892357e4_obermainstr_6_einhorn_david1.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/aeab7d0994ec_obermainstr_6_einhorn_david2.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/76e1964b1529_obermainstr_6_einhorn_schulkinder_in_der_villa_1939_vorne_da.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/33f04fa711de_obermainstr_6_einhorn_maedchengruppe_zwischen_ende_1938_und_.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/1473c1a82c5e_obermainstr_6_einhorn_josef.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/f431407632e8_obermainstr_6_einhorn_poesiealbum1.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/aa73114614f2_obermainstr_6_einhorn_poesiealbum2.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/ed40e544c2bb_obermainstr_6_einhorn_poesiealbum3.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/6699d44ce331_stolperst_obermainstr_6_einhorn_sabine.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/09b93fc122cb_stolperst_obermainstr_6_einhorn_philipp.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/c9b0c0c009ea_stolperst_obermainstr_6_einhorn_mendel.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/7256aeb34218_stolperst_obermainstr_6_einhorn_bertha.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/4b44a5f76dc2_stolperst_obermainstr_6_einhorn_josef.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/613542a2177e_stolperst_obermainstr_6_einhorn_edith.jpg)
+![Einhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David](../../images/stolpersteine/14e80dcf600c_stolperst_obermainstr_6_einhorn_david.jpg)
 
 ## Links
 

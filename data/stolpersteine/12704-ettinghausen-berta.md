@@ -11,7 +11,7 @@ filters:
 
 *Emmerich-Josef-Straße 39*
 
-![Stolperstein Ettinghausen, Berta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/emmerich_josef_str_39_400x300.jpg)
+![Stolperstein Ettinghausen, Berta](../../images/stolpersteine/9849fe7c6bd2_emmerich_josef_str_39_400x300.jpg)
 
 Berta Feitler stammte aus Seeheim bei Darmstadt und heiratete am 15.2.1881 den Kaufmann Max Ettinghausen. Die Ettinghausens gehören zu den ältesten jüdischen Familien und waren seit Beginn des 19. Jahrhunderts in Höchst ansässig. Die Brüder Max und Siegmund Ettinghausen waren angesehene Höchster Bürger, Stadtverordnete und Mäzene. Max Ettinghausen gehörte zu denen, die den Synagogenneubau 1905 anregten und förderten. Aus der Walzenmühle in Kriftel hatten die Brüder der Höchster Bevölkerung während des 1. Weltkrieges billiges Mehl zur Verfügung gestellt, um Wucherpreise zu verhindern.
 
@@ -132,7 +132,7 @@ Emmerich-Josef-Straße 39
 ## Gallery
 
 <!-- gallery:standard -->
-![Ettinghausen, Berta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_emmjosefstr39_ettinghausen_berta_400x400.jpg)
+![Ettinghausen, Berta](../../images/stolpersteine/4fbeef824028_stolperst_emmjosefstr39_ettinghausen_berta_400x400.jpg)
 
 ## Links
 

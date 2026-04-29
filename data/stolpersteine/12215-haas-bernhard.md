@@ -11,7 +11,7 @@ filters:
 
 *Mendelssohnstraße 69*
 
-![Stolperstein Haas, Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/mendelssohnstr_69.jpg)
+![Stolperstein Haas, Bernhard](../../images/stolpersteine/bb137f2290ac_mendelssohnstr_69.jpg)
 
 Bernhard Haas wurde in Frankfurt am Main als Sohn von Benjamin und Clara Haas, geb. Grünebaum, geboren. Sein Bruder Fritz Haas (1886-1969) war Zoologe und von 1911 bis zu seiner Entlassung 1936 Kurator an der Abteilung für Wirbellose am Senckenberg Museum in Frankfurt. Bernhard Haas blieb ledig und wohnte in der Altkönigstraße 10, dann in der Joseph-Haydn-Straße 69/I (heute Mendelssohnstraße), und zuletzt, seit etwa Oktober 1941, im Mittelweg 12/II. Sein Vermögen unterlag einer „Sicherungsanordnung“ der Devisenstelle, die für ihn am 25. Januar 1941 einen monatlichen „Freibetrag“ auf 300 Reichsmark festsetzte. Sein Vermögen belief sich damals laut Devisenakten auf 166 Reichsmark.
 
@@ -448,7 +448,7 @@ Mendelssohnstraße 69
 ## Gallery
 
 <!-- gallery:standard -->
-![Haas, Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_mendelssohnstr_69_haas_bernhard.jpg)
+![Haas, Bernhard](../../images/stolpersteine/1e80c0145756_stolperst_mendelssohnstr_69_haas_bernhard.jpg)
 
 ## Links
 

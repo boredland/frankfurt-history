@@ -12,7 +12,7 @@ filters:
 
 *Herderstraße 36*
 
-![Stolperstein Weiss, Eugen, Jeanette und Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/herderstr_36.jpg)
+![Stolperstein Weiss, Eugen, Jeanette und Martha](../../images/stolpersteine/282c09eee345_herderstr_36.jpg)
 
 Jeanette Weiss mit Julia und Martha
 
@@ -475,11 +475,11 @@ Herderstraße 36
 ## Gallery
 
 <!-- gallery:standard -->
-![Weiss, Eugen, Jeanette und Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/jeanette-weiss-mit-julia-und-martha.jpg)
-![Weiss, Eugen, Jeanette und Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/jeanette-und-eugen-und-julia-weiss.jpg)
-![Weiss, Eugen, Jeanette und Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_herderstr_36_weiss_eugen.jpg)
-![Weiss, Eugen, Jeanette und Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_herderstr_36_weiss_jeanette.jpg)
-![Weiss, Eugen, Jeanette und Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_herderstr_36_weiss_martha.jpg)
+![Weiss, Eugen, Jeanette und Martha](../../images/stolpersteine/2bc5944d9f14_jeanette-weiss-mit-julia-und-martha.jpg)
+![Weiss, Eugen, Jeanette und Martha](../../images/stolpersteine/9db8132e4e20_jeanette-und-eugen-und-julia-weiss.jpg)
+![Weiss, Eugen, Jeanette und Martha](../../images/stolpersteine/fc425911da2b_stolperst_herderstr_36_weiss_eugen.jpg)
+![Weiss, Eugen, Jeanette und Martha](../../images/stolpersteine/c5dcca934c4f_stolperst_herderstr_36_weiss_jeanette.jpg)
+![Weiss, Eugen, Jeanette und Martha](../../images/stolpersteine/eb6c6821d56a_stolperst_herderstr_36_weiss_martha.jpg)
 
 ## Links
 

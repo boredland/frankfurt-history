@@ -11,7 +11,7 @@ filters:
 
 *Sandweg 11*
 
-![Stolperstein Stutzmann, Amalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/sandweg_11.jpg)
+![Stolperstein Stutzmann, Amalie](../../images/stolpersteine/c7d87e588e40_sandweg_11.jpg)
 
 Amalie Stutzmann wurde in Kekastel/Lothringen geboren. Sie war Diplom-Krankenschwester. 1928 wurde der nicht-eheliche Sohn Markus in Darmstadt geboren, dem 1939 mit einem „Kindertransport" die Flucht in das Exil nach Palästina gelang.
 
@@ -408,7 +408,7 @@ Sandweg 11
 ## Gallery
 
 <!-- gallery:standard -->
-![Stutzmann, Amalie](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-stutzmann-amalie.jpg)
+![Stutzmann, Amalie](../../images/stolpersteine/bb5a5dc01495_stolperstein-stutzmann-amalie.jpg)
 
 ## Links
 

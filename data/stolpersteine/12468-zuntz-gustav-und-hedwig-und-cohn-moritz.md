@@ -11,7 +11,7 @@ filters:
 
 *Uhlandstraße 2*
 
-![Stolperstein Zuntz, Gustav und Hedwig und Cohn, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/uhlandstrasse-2_1.jpg)
+![Stolperstein Zuntz, Gustav und Hedwig und Cohn, Moritz](../../images/stolpersteine/4902b4e90d0d_uhlandstrasse-2_1.jpg)
 
 Zuntz, Gustav
 
@@ -236,10 +236,10 @@ Uhlandstraße 2
 ## Gallery
 
 <!-- gallery:standard -->
-![Zuntz, Gustav und Hedwig und Cohn, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/zuntz-gustav.jpg)
-![Zuntz, Gustav und Hedwig und Cohn, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/postkarte-von-gustav-zuntz.jpg)
-![Zuntz, Gustav und Hedwig und Cohn, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-cohn-moritz.jpg)
-![Zuntz, Gustav und Hedwig und Cohn, Moritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-zuntz-hedwig.jpg)
+![Zuntz, Gustav und Hedwig und Cohn, Moritz](../../images/stolpersteine/e02aee111b43_zuntz-gustav.jpg)
+![Zuntz, Gustav und Hedwig und Cohn, Moritz](../../images/stolpersteine/4484ef85754b_postkarte-von-gustav-zuntz.jpg)
+![Zuntz, Gustav und Hedwig und Cohn, Moritz](../../images/stolpersteine/2ddb0f9f328d_stolperstein-cohn-moritz.jpg)
+![Zuntz, Gustav und Hedwig und Cohn, Moritz](../../images/stolpersteine/5991c0ca3ab5_stolperstein-zuntz-hedwig.jpg)
 
 ## Links
 

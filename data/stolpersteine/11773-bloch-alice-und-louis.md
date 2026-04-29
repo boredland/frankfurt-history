@@ -11,7 +11,7 @@ filters:
 
 *Beethovenstraße 11*
 
-![Stolperstein Bloch, Alice und Louis](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/beethovenstrasse_11.jpg)
+![Stolperstein Bloch, Alice und Louis](../../images/stolpersteine/7a70b73e970c_beethovenstrasse_11.jpg)
 
 Emma Alice Bloch aus Mainz und Lippmann, genannt Louis Bloch aus Mühlheim (Baden) heirateten am 22.11.1896 in Frankfurt. Alice Blochs Eltern waren der Weinhändler Heinrich Simon und Franziska, geb. Strauß. Alice und Louis Bloch hatten vier Kinder: Mary (1896-1901); Oscar Kurt (1899-1927), Else (1902-195?) und Walter (1910-2004).
 

@@ -11,7 +11,7 @@ filters:
 
 *Melemstraße 6*
 
-![Stolperstein Sondheim, Hermann, Fanny Margarete und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/melemstr_6.jpg)
+![Stolperstein Sondheim, Hermann, Fanny Margarete und Kurt](../../images/stolpersteine/f49da1efe189_melemstr_6.jpg)
 
 Hermann Sondheim
 
@@ -494,11 +494,11 @@ Melemstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Sondheim, Hermann, Fanny Margarete und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/melemstr_6_hermann_sondheim.jpg)
-![Sondheim, Hermann, Fanny Margarete und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/melemstr_6_hermann_und_grete_sondheim.jpg)
-![Sondheim, Hermann, Fanny Margarete und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_melemstr_6_sondheim_hermann.jpg)
-![Sondheim, Hermann, Fanny Margarete und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_melemstr_6_sondheim_fanny_margarete.jpg)
-![Sondheim, Hermann, Fanny Margarete und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_melemstr_6_sondheim_kurt.jpg)
+![Sondheim, Hermann, Fanny Margarete und Kurt](../../images/stolpersteine/a9d73089db2f_melemstr_6_hermann_sondheim.jpg)
+![Sondheim, Hermann, Fanny Margarete und Kurt](../../images/stolpersteine/c44f2d6851fd_melemstr_6_hermann_und_grete_sondheim.jpg)
+![Sondheim, Hermann, Fanny Margarete und Kurt](../../images/stolpersteine/863172fc5107_stolperst_melemstr_6_sondheim_hermann.jpg)
+![Sondheim, Hermann, Fanny Margarete und Kurt](../../images/stolpersteine/79e6289155a5_stolperst_melemstr_6_sondheim_fanny_margarete.jpg)
+![Sondheim, Hermann, Fanny Margarete und Kurt](../../images/stolpersteine/b1f949b46ee3_stolperst_melemstr_6_sondheim_kurt.jpg)
 
 ## Links
 

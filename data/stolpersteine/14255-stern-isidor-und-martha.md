@@ -11,7 +11,7 @@ filters:
 
 *Alt-Heddernheim 33*
 
-![Stolperstein Stern, Isidor und Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/alt_heddernheim_33_haus.jpg)
+![Stolperstein Stern, Isidor und Martha](../../images/stolpersteine/70ef14ac52a5_alt_heddernheim_33_haus.jpg)
 
 Isidor Stern wurde in Heddernheim geboren. Er war einer der Söhne des Religionslehrers Meier Stern, der über 34 Jahre in Heddernheim für die Gemeinde wirkte und am 8. Januar 1916 verstarb. Isidor Sterns Ehefrau Martha wurde in Ostrowo/Posen geboren.
 
@@ -118,7 +118,7 @@ Alt-Heddernheim 33
 ## Gallery
 
 <!-- gallery:standard -->
-![Stern, Isidor und Martha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/stern-martha.jpg)
+![Stern, Isidor und Martha](../../images/stolpersteine/7f1e69fe7628_stern-martha.jpg)
 
 ## Links
 

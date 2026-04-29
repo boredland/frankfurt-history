@@ -11,7 +11,7 @@ filters:
 
 *Holzgraben 11*
 
-![Stolperstein Appel, Franziska und Herta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/holzgraben_11_300x400.jpg)
+![Stolperstein Appel, Franziska und Herta](../../images/stolpersteine/77b2d887ce3a_holzgraben_11_300x400.jpg)
 
 Franziska Appel und ihre Tochter Herta wurden in Wellmich, heute ein Ortsteil von St. Goarshausen am Rhein, geboren. Franziska Appels Ehe mit Adolf Wolf Appel (geb. 1890) war geschieden. Adolf Wolf Appel war anschließend noch zweimal verheiratet. Aus der dritten Ehe hatte er drei Kinder. Er starb am 31. Juli 1936 nach schweren Misshandlungen durch nationalsozialistische Schläger im Koblenzer Krankenhaus Kemperhof.
 
@@ -98,7 +98,7 @@ Holzgraben 11
 ## Gallery
 
 <!-- gallery:standard -->
-![Appel, Franziska und Herta](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/stolperst_holzgraben_11_appel_franziska__400x400.jpg)
+![Appel, Franziska und Herta](../../images/stolpersteine/dd106d4f5349_stolperst_holzgraben_11_appel_franziska__400x400.jpg)
 
 ## Links
 

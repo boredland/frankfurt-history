@@ -11,7 +11,7 @@ filters:
 
 *Küferstraße 3*
 
-![Stolperstein Altmann, Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sindlingen/standort/kueferstrasse-3_1.jpg)
+![Stolperstein Altmann, Erich](../../images/stolpersteine/110790e5cf63_kueferstrasse-3_1.jpg)
 
 Erich A. Altmann wurde als jüngstes von vier Geschwistern in Höchst geboren und evangelisch getauft. Seine Eltern, Martha Elisabeth Altmann geb. Helwig und Johannes Andreas Altmann kamen aus Hersfeld-Rotenburg und dem Schwalm-Eder-Kreis nach Sindlingen, um den ärmlichen ländlichen Verhältnissen zu entfliehen. Sie waren vorher Tagelöhner und fanden bei der "Rotfabrik“ (Farbwerke Höchst) verlässliche Arbeitsbedingungen. Dafür waren sie dankbar und dem Arbeitgeber sowie der Obrigkeit verpflichtet, was auch ein Regime, wie das der Nationalsozialisten, einschloss.
 
@@ -60,7 +60,7 @@ Küferstraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Altmann, Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sindlingen/stolperst_kueferstrasse_3_altmann_erich_andreas.jpg)
+![Altmann, Erich](../../images/stolpersteine/01d6818310d3_stolperst_kueferstrasse_3_altmann_erich_andreas.jpg)
 
 ## Links
 

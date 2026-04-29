@@ -11,7 +11,7 @@ filters:
 
 *Unter den Eichen 7*
 
-![Stolperstein Hess, Carry, Lina und Nini](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/unter-den-eichen-7_1.jpg)
+![Stolperstein Hess, Carry, Lina und Nini](../../images/stolpersteine/83df050010bb_unter-den-eichen-7_1.jpg)
 
 Nini (Stefanie) Hess und ihre jüngere Schwester Carry (Cornelia) wuchsen in Frankfurt am Main in einer gut situierten, liberalen jüdischen Kaufmannsfamilie auf. Ihre Eltern waren Samuel und Lina Hess, geb. Salomon aus Koblenz. 1914 eröffneten Nini und Carry Hess im 5. Stock des eleganten Geschäftshauses „Siegmund Strauß Haus“ in der Börsenstraße 2-4 ein Studio für Porträtfotografie. Ihre Privatwohnung, in der sie bis 1935 mit ihrer Mutter lebten, befand sich „Unter den Eichen“ 7 in Sachsenhausen.
 
@@ -172,8 +172,8 @@ Unter den Eichen 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Hess, Carry, Lina und Nini](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_unter_den_eichen_7_hess_nini.jpg)
-![Hess, Carry, Lina und Nini](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_unter_den_eichen_7_hess_lina.jpg)
+![Hess, Carry, Lina und Nini](../../images/stolpersteine/86eb8b417d77_stolperst_unter_den_eichen_7_hess_nini.jpg)
+![Hess, Carry, Lina und Nini](../../images/stolpersteine/b744a640b8ef_stolperst_unter_den_eichen_7_hess_lina.jpg)
 
 ## Links
 

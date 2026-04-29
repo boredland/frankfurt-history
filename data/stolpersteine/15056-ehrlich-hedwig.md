@@ -11,7 +11,7 @@ filters:
 
 *Westendstraße 62*
 
-![Stolperstein Ehrlich, Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/westendstr_62.jpg)
+![Stolperstein Ehrlich, Hedwig](../../images/stolpersteine/6a1a84b94991_westendstr_62.jpg)
 
 Hedwig Ehrlich, 1908
 
@@ -616,12 +616,12 @@ Westendstraße 62
 ## Gallery
 
 <!-- gallery:standard -->
-![Ehrlich, Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/westendstr_62_hedwig_ehrlich_1908.jpg)
-![Ehrlich, Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/westendstr_62_hedwig_ehrlich_1941.jpg)
-![Ehrlich, Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/westendstr_62_hedwig_ehrlich_1944.jpg)
-![Ehrlich, Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/westendstr_62_hedwig_und_paul_ehrlich_ca_1883.jpg)
-![Ehrlich, Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/westendstr_62_hedwig_ehrlich_und_enkelsohn_hans_wolfgang_schwerin_usw.jpg)
-![Ehrlich, Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_westendstr_62_ehrlich_hedwig.jpg)
+![Ehrlich, Hedwig](../../images/stolpersteine/38e6e00fcd18_westendstr_62_hedwig_ehrlich_1908.jpg)
+![Ehrlich, Hedwig](../../images/stolpersteine/a869e3178f94_westendstr_62_hedwig_ehrlich_1941.jpg)
+![Ehrlich, Hedwig](../../images/stolpersteine/a811402a017b_westendstr_62_hedwig_ehrlich_1944.jpg)
+![Ehrlich, Hedwig](../../images/stolpersteine/ed72fd38233e_westendstr_62_hedwig_und_paul_ehrlich_ca_1883.jpg)
+![Ehrlich, Hedwig](../../images/stolpersteine/e6de5897d798_westendstr_62_hedwig_ehrlich_und_enkelsohn_hans_wolfgang_sch.jpg)
+![Ehrlich, Hedwig](../../images/stolpersteine/15047473e8b1_stolperst_westendstr_62_ehrlich_hedwig.jpg)
 
 ## Links
 

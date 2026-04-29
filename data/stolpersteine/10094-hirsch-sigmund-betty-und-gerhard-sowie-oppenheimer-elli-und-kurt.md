@@ -11,7 +11,7 @@ filters:
 
 *Bockenheimer Landstraße 107*
 
-![Stolperstein Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/bockenheimer_landstrasse_107.jpg)
+![Stolperstein Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](../../images/stolpersteine/2364640ced22_bockenheimer_landstrasse_107.jpg)
 
 Sigmund Hirsch wurde in Speyer als Sohn von Elias
 
@@ -780,16 +780,16 @@ Bockenheimer Landstraße 107
 ## Gallery
 
 <!-- gallery:standard -->
-![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/bockenheimer_landstrasse_107_hirsch_elli_links_neben_rabbiner_bar_mitzwa.jpg)
-![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/bockenheimer_landstrasse_107_oppenheimer_elli_und_kurt_verlobungsfoto.jpg)
-![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/bockenheimer_landstrasse_107_hirsch_sigmund_-80_-geburtstag_mit_kindern_und_enkeln_1958.jpg)
-![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/bockenheimer_landstrasse_107_oppenheimer_elli_und_kurt_1977.jpg)
-![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/bockenheimer_landstrasse_107_hirsch_gerhard.jpg)
-![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bockenheimer_landstrasse_107_hirsch_sigmund.jpg)
-![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bockenheimer_landstrasse_107_hirsch_karl.jpg)
-![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bockenheimer_landstrasse_107_hirsch_gerhard.jpg)
-![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bockenheimer_landstrasse_107_oppenheimer_elli.jpg)
-![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_bockenheimer_landstrasse_107_oppenheimer_kurt.jpg)
+![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](../../images/stolpersteine/3c067f38bbd8_bockenheimer_landstrasse_107_hirsch_elli_links_neben_rabbine.jpg)
+![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](../../images/stolpersteine/c7bebeddf3a8_bockenheimer_landstrasse_107_oppenheimer_elli_und_kurt_verlo.jpg)
+![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](../../images/stolpersteine/5e397d16beef_bockenheimer_landstrasse_107_hirsch_sigmund_-80_-geburtstag_.jpg)
+![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](../../images/stolpersteine/48924ffe12e6_bockenheimer_landstrasse_107_oppenheimer_elli_und_kurt_1977..jpg)
+![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](../../images/stolpersteine/44121374a4c5_bockenheimer_landstrasse_107_hirsch_gerhard.jpg)
+![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](../../images/stolpersteine/e85f53e2b109_stolperst_bockenheimer_landstrasse_107_hirsch_sigmund.jpg)
+![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](../../images/stolpersteine/adbfd6eb7652_stolperst_bockenheimer_landstrasse_107_hirsch_karl.jpg)
+![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](../../images/stolpersteine/a026875e2d91_stolperst_bockenheimer_landstrasse_107_hirsch_gerhard.jpg)
+![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](../../images/stolpersteine/8fd15681856b_stolperst_bockenheimer_landstrasse_107_oppenheimer_elli.jpg)
+![Hirsch, Sigmund, Betty und Gerhard, sowie Oppenheimer, Elli und Kurt](../../images/stolpersteine/a09a70317629_stolperst_bockenheimer_landstrasse_107_oppenheimer_kurt.jpg)
 
 ## Links
 

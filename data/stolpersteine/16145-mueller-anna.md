@@ -11,7 +11,7 @@ filters:
 
 *Flußgasse 4*
 
-![Stolperstein Müller, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/flussgasse_4.jpg)
+![Stolperstein Müller, Anna](../../images/stolpersteine/31801bb59863_flussgasse_4.jpg)
 
 Anna Müller wurde in Herdorf im Kreis Altenkirchen als Tochter des Bergmannes Wilhelm Becker und seiner Ehefrau Emilia Becker, geb. Fries, geboren. Am 15. Dezember 1895 wurde sie in der evangelischen Kirche getauft, der Psalm37 Vers 4 ist ihr Taufspruch gewesen. Sie besuchte die evangelische Schule in Herdorf. Am 19. März 1910 wurde sie in der evangelischen Kirche in Herdorf konfirmiert und heiratete am 24. Dezember 1926 Anton Josef Müller in Frankfurt am Main - Rödelheim. Das kinderlose Paar wohnte in der Flußgasse 4 in Rödelheim mit einer engen Bindung an die Familie des Mannes. In der Nähe wohnten die Eltern ihres Ehemanns und die Brüder, zum Teil mit deren Kindern und Kindeskindern.
 
@@ -98,7 +98,7 @@ Flußgasse 4
 ## Gallery
 
 <!-- gallery:standard -->
-![Müller, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/stolperst_flussgasse_4_mueller_anna.jpg)
+![Müller, Anna](../../images/stolpersteine/1e59e8ff1631_stolperst_flussgasse_4_mueller_anna.jpg)
 
 ## Links
 

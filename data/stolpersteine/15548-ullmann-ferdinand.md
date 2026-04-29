@@ -11,7 +11,7 @@ filters:
 
 *Liebigstraße 27b*
 
-![Stolperstein Ullmann, Ferdinand](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/liebigstrasse-27-b_1.jpg)
+![Stolperstein Ullmann, Ferdinand](../../images/stolpersteine/c696bbd5a710_liebigstrasse-27-b_1.jpg)
 
 Familie Hammel
 
@@ -462,9 +462,9 @@ Liebigstraße 27b
 ## Gallery
 
 <!-- gallery:standard -->
-![Ullmann, Ferdinand](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/familie-hammel.jpg)
-![Ullmann, Ferdinand](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/ullmann_324x272.jpg)
-![Ullmann, Ferdinand](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_liebigstr27b_ullmann_ferdinand_400x400.jpg)
+![Ullmann, Ferdinand](../../images/stolpersteine/cfe5cc5d38ae_familie-hammel.jpg)
+![Ullmann, Ferdinand](../../images/stolpersteine/105ab2aa019f_ullmann_324x272.jpg)
+![Ullmann, Ferdinand](../../images/stolpersteine/d440bcfd557c_stolperst_liebigstr27b_ullmann_ferdinand_400x400.jpg)
 
 ## Links
 

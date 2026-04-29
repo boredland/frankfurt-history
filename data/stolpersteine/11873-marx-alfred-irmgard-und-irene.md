@@ -12,7 +12,7 @@ filters:
 
 *Eschersheimer Landstraße 39*
 
-![Stolperstein Marx, Alfred, Irmgard, und Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/eschersheimer_landstr_39.jpg)
+![Stolperstein Marx, Alfred, Irmgard, und Irene](../../images/stolpersteine/592456003317_eschersheimer_landstr_39.jpg)
 
 Alfred Valentin Marx wurde in
 
@@ -577,9 +577,9 @@ Eschersheimer Landstraße 39
 ## Gallery
 
 <!-- gallery:standard -->
-![Marx, Alfred, Irmgard, und Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eschersheimer_landstr_39_marx_alfred.jpg)
-![Marx, Alfred, Irmgard, und Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eschersheimer_landstr_39_marx_irmgard.jpg)
-![Marx, Alfred, Irmgard, und Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eschersheimer_landstr_39_marx_irene.jpg)
+![Marx, Alfred, Irmgard, und Irene](../../images/stolpersteine/691fd95cb6fd_stolperst_eschersheimer_landstr_39_marx_alfred.jpg)
+![Marx, Alfred, Irmgard, und Irene](../../images/stolpersteine/de117c8e4dbf_stolperst_eschersheimer_landstr_39_marx_irmgard.jpg)
+![Marx, Alfred, Irmgard, und Irene](../../images/stolpersteine/c09bee80a137_stolperst_eschersheimer_landstr_39_marx_irene.jpg)
 
 ## Links
 

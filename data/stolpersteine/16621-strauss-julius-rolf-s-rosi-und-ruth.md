@@ -11,7 +11,7 @@ filters:
 
 *Scheffelstraße 9*
 
-![Stolperstein Strauss, Julius, Rolf S., Rosi und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/scheffelstr_9.jpg)
+![Stolperstein Strauss, Julius, Rolf S., Rosi und Ruth](../../images/stolpersteine/3a4dea2d5896_scheffelstr_9.jpg)
 
 Nathan
 
@@ -550,17 +550,17 @@ Scheffelstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauss, Julius, Rolf S., Rosi und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstr_9_strauss_rosi.jpg)
-![Strauss, Julius, Rolf S., Rosi und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstr_9_strauss_julius.jpg)
-![Strauss, Julius, Rolf S., Rosi und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstr_9_ruth_strauss_schulklasse_1937.jpg)
-![Strauss, Julius, Rolf S., Rosi und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstr_9_strauss_rolf_schulklasse_1931.jpg)
-![Strauss, Julius, Rolf S., Rosi und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstr_9_strauss_rolf_theaterauffuehrung_vierte-volksschulklasse_1.jpg)
-![Strauss, Julius, Rolf S., Rosi und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstr_9_strauss_rolf_theaterauffuehrung_vierte-volksschulklasse_2.jpg)
-![Strauss, Julius, Rolf S., Rosi und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/scheffelstr_9_strauss_julius_und_rosi_heimatschein_ausgestellt_1937.jpg)
-![Strauss, Julius, Rolf S., Rosi und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_scheffelstr_9_strauss_julius.jpg)
-![Strauss, Julius, Rolf S., Rosi und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_scheffelstr_9_strauss_rosi.jpg)
-![Strauss, Julius, Rolf S., Rosi und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_scheffelstr_9_strauss_ruth.jpg)
-![Strauss, Julius, Rolf S., Rosi und Ruth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_scheffelstr_9_strauss_rolf_s.jpg)
+![Strauss, Julius, Rolf S., Rosi und Ruth](../../images/stolpersteine/62a340b2bde0_scheffelstr_9_strauss_rosi.jpg)
+![Strauss, Julius, Rolf S., Rosi und Ruth](../../images/stolpersteine/60e30bce2d84_scheffelstr_9_strauss_julius.jpg)
+![Strauss, Julius, Rolf S., Rosi und Ruth](../../images/stolpersteine/87d97a161e2d_scheffelstr_9_ruth_strauss_schulklasse_1937.jpg)
+![Strauss, Julius, Rolf S., Rosi und Ruth](../../images/stolpersteine/d14730750739_scheffelstr_9_strauss_rolf_schulklasse_1931.jpg)
+![Strauss, Julius, Rolf S., Rosi und Ruth](../../images/stolpersteine/93223810c444_scheffelstr_9_strauss_rolf_theaterauffuehrung_vierte-volkssc.jpg)
+![Strauss, Julius, Rolf S., Rosi und Ruth](../../images/stolpersteine/f29478d9a655_scheffelstr_9_strauss_rolf_theaterauffuehrung_vierte-volkssc.jpg)
+![Strauss, Julius, Rolf S., Rosi und Ruth](../../images/stolpersteine/6a60fe438ec7_scheffelstr_9_strauss_julius_und_rosi_heimatschein_ausgestel.jpg)
+![Strauss, Julius, Rolf S., Rosi und Ruth](../../images/stolpersteine/f062da2d4e5a_stolperst_scheffelstr_9_strauss_julius.jpg)
+![Strauss, Julius, Rolf S., Rosi und Ruth](../../images/stolpersteine/151cda3cffb7_stolperst_scheffelstr_9_strauss_rosi.jpg)
+![Strauss, Julius, Rolf S., Rosi und Ruth](../../images/stolpersteine/a451eabef70f_stolperst_scheffelstr_9_strauss_ruth.jpg)
+![Strauss, Julius, Rolf S., Rosi und Ruth](../../images/stolpersteine/bcc37e5cd821_stolperst_scheffelstr_9_strauss_rolf_s.jpg)
 
 ## Links
 

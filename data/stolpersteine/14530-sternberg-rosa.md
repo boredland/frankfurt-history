@@ -11,7 +11,7 @@ filters:
 
 *Haeberlinstraße 6*
 
-![Stolperstein Sternberg, Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/hauberlinstrasse_6__300x400.jpg)
+![Stolperstein Sternberg, Rosa](../../images/stolpersteine/1c953ddde513_hauberlinstrasse_6__300x400.jpg)
 
 Rosa Sternberg, geb. Dreydel, wurde in Frankfurt am Main geboren. Sie nahm sich vermutlich angesichts der für den 8. Mai 1942 geplanten Deportation „nach Osten“ in ein Vernichtungs- oder Konzentrationslager das Leben. Ihr Grab befindet sich auf dem Neuen Jüdischen Friedhof, Eckenheimer Landstraße.
 
@@ -82,7 +82,7 @@ Haeberlinstraße 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Sternberg, Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/stolperst_haeberlinstrasse_6_sternberg_rosa__400x400.jpg)
+![Sternberg, Rosa](../../images/stolpersteine/f3436cd44a95_stolperst_haeberlinstrasse_6_sternberg_rosa__400x400.jpg)
 
 ## Links
 

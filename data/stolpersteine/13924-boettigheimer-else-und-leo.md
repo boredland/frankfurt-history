@@ -11,7 +11,7 @@ filters:
 
 *Mittelweg 5*
 
-![Stolperstein Böttigheimer, Else und Leo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/mittelweg_5_haus1.jpg)
+![Stolperstein Böttigheimer, Else und Leo](../../images/stolpersteine/1f664f518cf1_mittelweg_5_haus1.jpg)
 
 Else Böttigheimer aus Köln  und Leo Böttigheimer aus Miltenberg lebten nur kurze Zeit im Mittelweg 5/Parterre. Else Böttigheimer war bis 1937 als Stenotypistin bei den Kölner Firmen „Rheinische Druckwarengesellschaft Renè Friedmann“ und dann bis November 1938 bei „Gebrüder Heidenheim. Handschuhgroßhandel“. Sie hatte vier Geschwister: Annelie Gossels, Jg. 1907, war wahrscheinlich die Flucht von Köln nach Frankreich gelungen, von Drancy wurde sie am 14.08.1942 nach Auschwitz deportiert und dort ermordet. Die anderen Geschwister überlebten den Holocaust. Hedwig Hänichen, Buchhalterin, blieb wohl in Köln, lebte nach dem Krieg in Köln-Lindenthal und starb 1962. Julius Levy, Kaufmann, Jg. 1895, lebte in Bilthoven bei Utrecht/Niederlande, Carola Levy, Kontoristin, Jg. 1894, in Utrecht.
 

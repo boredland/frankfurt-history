@@ -11,7 +11,7 @@ filters:
 
 *Hebelstraße 13*
 
-![Stolperstein Rothschild, Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/hebelstrasse_13_haus.jpg)
+![Stolperstein Rothschild, Hugo](../../images/stolpersteine/74755b251c7b_hebelstrasse_13_haus.jpg)
 
 Hugo Rothschild war der Sohn von Jakob Rothschild II und Jettchen Rothschild, geb. Braunschweiger. Er war Kaufmann und zog am 17. Juni 1939 von Schlüchtern, Krämerstraße 4, nach Frankfurt, Hebelstraße 13/EG.
 
@@ -402,7 +402,7 @@ Hebelstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Rothschild, Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-rothschild-hugo.jpg)
+![Rothschild, Hugo](../../images/stolpersteine/3c4cc09efff6_stolperstein-rothschild-hugo.jpg)
 
 ## Links
 

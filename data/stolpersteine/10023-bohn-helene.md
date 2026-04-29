@@ -11,7 +11,7 @@ filters:
 
 *Altkönigstraße 13*
 
-![Stolperstein Bohn, Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/altkoenigstrasse-13_1.jpg)
+![Stolperstein Bohn, Helene](../../images/stolpersteine/ac698830c25e_altkoenigstrasse-13_1.jpg)
 
 Helene Bohn ist in Frankfurt am Main geboren und war Grafikerin. Sie war zwar Kind jüdischer Eltern, gehörte selbst jedoch nicht der Jüdischen Glaubensgemeinschaft an. Ihr nichtjüdischer und wohl evangelischer Ehemann Hans Bohn stammte aus Oberlahnstein und war Soldat im Ersten Weltkrieg gewesen. Die 1919 erfolgte Heirat war nach späterer nationalsozialistischer Definition eine "Mischehe“. Der 1921 geborene Sohn wurde evangelisch getauft. Auch Hans Bohn war Maler und Grafiker, 1937 erhielt er wegen seiner Ehe mit einer Jüdin Berufsverbot durch die Kulturkammer.
 
@@ -446,7 +446,7 @@ Altkönigstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Bohn, Helene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/bohn_helene_400x400_jpg_553678.jpg)
+![Bohn, Helene](../../images/stolpersteine/8cd0e5c807f4_bohn_helene_400x400_jpg_553678.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Unterlindau 57*
 
-![Stolperstein Hichberger, Paula und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/unterlindau-57_1.jpg)
+![Stolperstein Hichberger, Paula und Bernhard](../../images/stolpersteine/b04bbe87b9d2_unterlindau-57_1.jpg)
 
 Bernhard Hichberger aus Kitzingen, war Vertreter für Lederwaren, vermutlich ein Bruder von Sophie Hichberger, die im Vernichtungslager Treblinka ermordet wurde. Er war seit 1920 mit Paula, geb. Baum, aus Bosen im Bezirk Birkenfeld verheiratet. Die 1921 geborene Tochter besuchte die Victoria-Schule (Bettina-Schule) und zuletzt verfolgungsbedingt das Philanthropin. Sie entschloss sich wegen der Studienbeschränkungen für Juden zur Emigration. 1937 gelang ihr die Flucht in das US-amerikanische Exil, dem Sohn war die Emigration in die USA bereits 1936 geglückt. Nach der Wohnung in der Unterlindau 45 lebten sie zuletzt in der Scheffelstraße 24.
 
@@ -460,7 +460,7 @@ Unterlindau 57
 ## Gallery
 
 <!-- gallery:standard -->
-![Hichberger, Paula und Bernhard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_unterlindau_57_hichberger_bernhard__400x400.jpg)
+![Hichberger, Paula und Bernhard](../../images/stolpersteine/d06d1f115dea_stolperst_unterlindau_57_hichberger_bernhard__400x400.jpg)
 
 ## Links
 

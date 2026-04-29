@@ -11,7 +11,7 @@ filters:
 
 *Linnéstraße 27*
 
-![Stolperstein Hugo, Wilhelm Adam](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/linnestr_27_neu.jpg)
+![Stolperstein Hugo, Wilhelm Adam](../../images/stolpersteine/a55b0d147ec5_linnestr_27_neu.jpg)
 
 1934 bauten Hugo und Breitinger eine kleine Gruppe Gleichgesinnter auf, die politische Texte lasen und diskutierten. Hier diente Hugo als Kassierer und als „illegaler Organisationsleiter“. In den Jahren danach, mit einem Höhepunkt im Jahre 1936, gelang es der Gestapo, viele Spitzel in den Widerstandsgruppen zu etablieren und sie durch Verhaftungen und Enttarnung zu zerschlagen. Die Gruppe um Hugo und Breitinger stellte ihre Aktivitäten zunächst ein, aber die Mitglieder blieben in Verbindung.
 
@@ -214,7 +214,7 @@ Linnéstraße 27
 ## Gallery
 
 <!-- gallery:standard -->
-![Hugo, Wilhelm Adam](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_linnestr_27_hugo_wilhelm_adam_neu.jpg)
+![Hugo, Wilhelm Adam](../../images/stolpersteine/b5a72a9b503f_stolperst_linnestr_27_hugo_wilhelm_adam_neu.jpg)
 
 ## Links
 

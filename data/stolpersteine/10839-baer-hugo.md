@@ -11,7 +11,7 @@ filters:
 
 *Zeil 29*
 
-![Stolperstein Bär, Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/zeil_29__300x400.jpg)
+![Stolperstein Bär, Hugo](../../images/stolpersteine/b30dfcea1c5e_zeil_29__300x400.jpg)
 
 Hugo Bär
 
@@ -158,9 +158,9 @@ Zeil 29
 ## Gallery
 
 <!-- gallery:standard -->
-![Bär, Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/baer-hugo-2.jpg)
-![Bär, Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/baer-hugo.jpg)
-![Bär, Hugo](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_zeil_29_baer_hugo__400x400.jpg)
+![Bär, Hugo](../../images/stolpersteine/8fe1f84a36a0_baer-hugo-2.jpg)
+![Bär, Hugo](../../images/stolpersteine/af857bcdf747_baer-hugo.jpg)
+![Bär, Hugo](../../images/stolpersteine/4a7778fb95af_stolperst_zeil_29_baer_hugo__400x400.jpg)
 
 ## Links
 

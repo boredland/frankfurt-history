@@ -11,7 +11,7 @@ filters:
 
 *Große Friedberger Straße 29*
 
-![Stolperstein Wetzlar, Heinrich und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/grosse_friedberger_str_29.jpg)
+![Stolperstein Wetzlar, Heinrich und Rosa](../../images/stolpersteine/5add4cae548b_grosse_friedberger_str_29.jpg)
 
 Wetzlar, Heinrich
 
@@ -176,10 +176,10 @@ Große Friedberger Straße 29
 ## Gallery
 
 <!-- gallery:standard -->
-![Wetzlar, Heinrich und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/wetzlar-heinrich.jpg)
-![Wetzlar, Heinrich und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/heinrich-wetzlar-hedwig-nussbaum-geb-wetzlar-und-rosa-wetzlar.jpg)
-![Wetzlar, Heinrich und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/schreiben-an-devisenstelle-1939.jpg)
-![Wetzlar, Heinrich und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_grosse_friedberger_strasse_29_wetzlar_heinrich.jpg)
+![Wetzlar, Heinrich und Rosa](../../images/stolpersteine/18132dfd2f21_wetzlar-heinrich.jpg)
+![Wetzlar, Heinrich und Rosa](../../images/stolpersteine/404797a4a7f9_heinrich-wetzlar-hedwig-nussbaum-geb-wetzlar-und-rosa-wetzla.jpg)
+![Wetzlar, Heinrich und Rosa](../../images/stolpersteine/78745195b74e_schreiben-an-devisenstelle-1939.jpg)
+![Wetzlar, Heinrich und Rosa](../../images/stolpersteine/177bdd79fbd8_stolperst_grosse_friedberger_strasse_29_wetzlar_heinrich.jpg)
 
 ## Links
 

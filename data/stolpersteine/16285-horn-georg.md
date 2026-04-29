@@ -11,7 +11,7 @@ filters:
 
 *Hostatostraße 9*
 
-![Stolperstein Horn, Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/hostatostr_9.jpg)
+![Stolperstein Horn, Georg](../../images/stolpersteine/ef728b6c62a0_hostatostr_9.jpg)
 
 Georg Horn wurde in Höchst geboren. Sein Vater Georg
 
@@ -222,8 +222,8 @@ Hostatostraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Horn, Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/opferbilder/hostatostr_9_ehepaar_horn.jpg)
-![Horn, Georg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_-hostatostr_9_horn_georg.jpg)
+![Horn, Georg](../../images/stolpersteine/f062ebe04ec6_hostatostr_9_ehepaar_horn.jpg)
+![Horn, Georg](../../images/stolpersteine/7108aa760cf9_stolperst_-hostatostr_9_horn_georg.jpg)
 
 ## Links
 

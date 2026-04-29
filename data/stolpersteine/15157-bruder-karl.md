@@ -11,7 +11,7 @@ filters:
 
 *Bathgartenweg 6*
 
-![Stolperstein Bruder, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/standort/bathgartenweg_6.jpg)
+![Stolperstein Bruder, Karl](../../images/stolpersteine/73b56ae21f23_bathgartenweg_6.jpg)
 
 Karl Bruder
 
@@ -144,8 +144,8 @@ Bathgartenweg 6
 ## Gallery
 
 <!-- gallery:standard -->
-![Bruder, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/opferbilder/bathgartenweg_6_bruder_karl.jpg)
-![Bruder, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nieder-eschbach/stolperst_bathgartenweg_6_bruder_karl.jpg)
+![Bruder, Karl](../../images/stolpersteine/258deee20d8d_bathgartenweg_6_bruder_karl.jpg)
+![Bruder, Karl](../../images/stolpersteine/338d04b9ec1e_stolperst_bathgartenweg_6_bruder_karl.jpg)
 
 ## Links
 

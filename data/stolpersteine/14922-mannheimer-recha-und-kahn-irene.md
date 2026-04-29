@@ -11,7 +11,7 @@ filters:
 
 *Scheffelstraße 22*
 
-![Stolperstein Mannheimer, Recha und Kahn, Irene](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/scheffelstr_22.jpg)
+![Stolperstein Mannheimer, Recha und Kahn, Irene](../../images/stolpersteine/2d0cedfb0459_scheffelstr_22.jpg)
 
 Recha Mannheimer, geboren in Rieneck, hatte bis 1918 in Frankfurt-Heddernheim das Haushalts- und Wäschewarenhaus Nawratzki & Co. Geführt. Bereits verwitwet übernahm sie dann in Oberursel in der Unteren Hainstraße 22 ein Haushaltswarengeschäft. Mit nach Oberursel zogen auch ihr Bruder Josef Kahn, dessen Frau Betty und deren Kinder Leonie, Irene und Helga. Josef Kahn war Religionslehrer und Prediger in Paris, er starb 1920, seine Frau starb 1929. Recha Mannheimer übernahm die Vormundschaft für ihre Nichten, die in Oberursel aufwuchsen.
 

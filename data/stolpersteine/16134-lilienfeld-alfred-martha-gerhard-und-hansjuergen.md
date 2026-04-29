@@ -11,7 +11,7 @@ filters:
 
 *Fellnerstraße 11*
 
-![Stolperstein Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/fellnerstr_11.jpg)
+![Stolperstein Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](../../images/stolpersteine/619345f25b2c_fellnerstr_11.jpg)
 
 Alfred Lilienfeld wurde in Frankfurt geboren. Er heiratete am 27. August 1931 die in Bremen geborene evangelische Martha Stampe. Die beiden hatten zwei Söhne, Gerhard und Hansjürgen. Die Familie wohnte in der Fellnerstraße 11, dann in der Eckenheimer Landstraße 109, der Adalbertstraße 13a und zuletzt 1943 in der Feststraße. Die Ehe wurde am 2. März 1943 geschieden. Martha Lilienfeld musste, wie sie später berichtete, unter Druck und fälschlicherweise angeben, die Ehe mit einem Juden solle wegen der NS-Grundsätze gelöst werden und ihr Ehemann habe sie im Sommer 1942 und bei späteren Gelegenheiten misshandelt.
 
@@ -498,16 +498,16 @@ Fellnerstraße 11
 ## Gallery
 
 <!-- gallery:standard -->
-![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fellnerstr_11_alfred_lilienfeld.jpg)
-![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fellnerstr_11_martha_lilienfeld.jpg)
-![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fellnerstr_11_gerhard_lilienfeld_kurz_vor_abtransport_ins_kz.jpg)
-![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fellnerstr_11_hansjuergen_lilienfeld_kurz_vor_abtransport_ins_kz.jpg)
-![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fellnerstr_11_lilienfeld_briefe_aus_dem_kz.jpg)
-![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fellnerstr_11_lilienfeld_letzte_nachricht_aus_dem_kz.jpg)
-![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_fellnerstr_11_lilienfeld_alfred.jpg)
-![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_fellnerstr_11_lilienfeld_martha.jpg)
-![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_fellnerstr_11_lilienfeld_gerhard.jpg)
-![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_fellnerstr_11_lilienfeld_hansjuergen.jpg)
+![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](../../images/stolpersteine/021e284e46ad_fellnerstr_11_alfred_lilienfeld.jpg)
+![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](../../images/stolpersteine/887563ba6698_fellnerstr_11_martha_lilienfeld.jpg)
+![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](../../images/stolpersteine/f1ecfc26b175_fellnerstr_11_gerhard_lilienfeld_kurz_vor_abtransport_ins_kz.jpg)
+![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](../../images/stolpersteine/9596e2acf20a_fellnerstr_11_hansjuergen_lilienfeld_kurz_vor_abtransport_in.jpg)
+![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](../../images/stolpersteine/3527e62f2ca9_fellnerstr_11_lilienfeld_briefe_aus_dem_kz.jpg)
+![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](../../images/stolpersteine/808231e98cbc_fellnerstr_11_lilienfeld_letzte_nachricht_aus_dem_kz.jpg)
+![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](../../images/stolpersteine/d5598a171023_stolperst_fellnerstr_11_lilienfeld_alfred.jpg)
+![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](../../images/stolpersteine/f39a68c7aa7f_stolperst_fellnerstr_11_lilienfeld_martha.jpg)
+![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](../../images/stolpersteine/e15abb1393bc_stolperst_fellnerstr_11_lilienfeld_gerhard.jpg)
+![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](../../images/stolpersteine/26135f21d146_stolperst_fellnerstr_11_lilienfeld_hansjuergen.jpg)
 
 ## Links
 

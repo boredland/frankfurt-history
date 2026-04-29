@@ -11,7 +11,7 @@ filters:
 
 *Grüne Straße 30*
 
-![Stolperstein Hirsch, Hermann, Mathilde, Roseline und Werner](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/gruene-strasse-30_1.jpg)
+![Stolperstein Hirsch, Hermann, Mathilde, Roseline und Werner](../../images/stolpersteine/a82d86007573_gruene-strasse-30_1.jpg)
 
 Hermann Hirsch wurde in Frankfurt am Main geboren. Er heiratete Mathilde, geb. Auerbach, geb. in Hamburg. Sie hatten drei Töchter und drei Söhne und ein weiteres Kind, dessen Schicksal unbekannt ist. Zwei Söhnen und zwei Töchtern gelang im Dezember 1938 über Paris (Frankreich) die Flucht in das US-amerikanische Exil.
 
@@ -242,8 +242,8 @@ Grüne Straße 30
 ## Gallery
 
 <!-- gallery:standard -->
-![Hirsch, Hermann, Mathilde, Roseline und Werner](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-hirsch-mathilde.jpg)
-![Hirsch, Hermann, Mathilde, Roseline und Werner](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-hirsch-roseline.jpg)
+![Hirsch, Hermann, Mathilde, Roseline und Werner](../../images/stolpersteine/2b9c81f1b7ad_stolperstein-hirsch-mathilde.jpg)
+![Hirsch, Hermann, Mathilde, Roseline und Werner](../../images/stolpersteine/9466ee3a71eb_stolperstein-hirsch-roseline.jpg)
 
 ## Links
 

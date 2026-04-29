@@ -11,7 +11,7 @@ filters:
 
 *Leunastraße 18*
 
-![Stolperstein Nachmann, Ludwig, Paula und Hertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/leunastr_18.jpg)
+![Stolperstein Nachmann, Ludwig, Paula und Hertha](../../images/stolpersteine/d86f2dc46ab4_leunastr_18.jpg)
 
 Ludwig Nachmann aus Kelsterbach heiratete 1918 Ilse Paula Strumpf, die aus Krotoschin in Posen stammte. Ihre beiden Töchter Ruth und Hertha kamen 1920 und 1922 in Frankfurt zur Welt. Im August 1924 zog die Familie nach Höchst, zuerst in die Oberfeldstraße, dann 1927 in die Dalbergstraße 6. Hier befand sich auch das Geschäft mit Kleiderstoffen, die man in Raten bezahlen konnte. Man nannte das damals „Abzahlungsgeschäft“. Ludwig Nachmann war Kaufmann. Ein weiteres Geschäft soll es in Zeilsheim gegeben haben, das jedoch  nur kurz existierte. Paula Nachmann arbeitete im Geschäft, so dass für Haushalt und Kinder die christliche Elisabeth Halfsmann zuständig war. Sie zog 1932 mit in die Leunastraße 18 um und blieb bis April 1934. In diesem Jahr war Ludwig Nachmann mit seinem Geschäft im Boykottbuch der Nazis verzeichnet.
 
@@ -172,10 +172,10 @@ Leunastraße 18
 ## Gallery
 
 <!-- gallery:standard -->
-![Nachmann, Ludwig, Paula und Hertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/ludwig-und-ilsa-nachmann-mit-tochter.jpg)
-![Nachmann, Ludwig, Paula und Hertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/ruth-und-hertha-nachmann.jpg)
-![Nachmann, Ludwig, Paula und Hertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/nachmann-paula-ilse-stolperstein.jpg)
-![Nachmann, Ludwig, Paula und Hertha](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/nachmann-hertha-stolperstein.jpg)
+![Nachmann, Ludwig, Paula und Hertha](../../images/stolpersteine/3985da41bca5_ludwig-und-ilsa-nachmann-mit-tochter.jpg)
+![Nachmann, Ludwig, Paula und Hertha](../../images/stolpersteine/f5521ec6d032_ruth-und-hertha-nachmann.jpg)
+![Nachmann, Ludwig, Paula und Hertha](../../images/stolpersteine/c83a634e80b5_nachmann-paula-ilse-stolperstein.jpg)
+![Nachmann, Ludwig, Paula und Hertha](../../images/stolpersteine/c3035c6b132a_nachmann-hertha-stolperstein.jpg)
 
 ## Links
 

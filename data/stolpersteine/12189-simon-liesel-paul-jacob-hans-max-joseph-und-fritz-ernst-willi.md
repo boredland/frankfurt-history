@@ -11,7 +11,7 @@ filters:
 
 *Marbachweg 333*
 
-![Stolperstein Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/marbachweg_333.jpg)
+![Stolperstein Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](../../images/stolpersteine/2d1c4b204248_marbachweg_333.jpg)
 
 Liesel Simon,
 
@@ -292,18 +292,18 @@ Marbachweg 333
 ## Gallery
 
 <!-- gallery:standard -->
-![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/marbachweg_333_simon_familienbild_um_1914.jpg)
-![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/marbachweg_333_simon_liesel_1920er_jahre.jpg)
-![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/marbachweg_333_simon_liesel_im_publikum_1920er-1930er_jahre.jpg)
-![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/marbachweg_333_simon_liesel_mit_kasperlpuppe_und_schallplatte_1920er_jahre.jpg)
-![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/marbachweg_333_simon_liesel_1937-_berlin.jpg)
-![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/marbachweg_333_simon_liesel_beim_suedwestrundfunk_1920er_jahre.jpg)
-![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/marbachweg_333_simon_liesel_1950er_jahre.jpg)
-![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/marbachweg_333_simon_liesel_ausstellung_historisches_museum.jpg)
-![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperst_marbachweg_333_simon_liesel.jpg)
-![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperst_marbachweg_333_simon_paul_jacob.jpg)
-![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperst_marbachweg_333_simon_hans.jpg)
-![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperst_marbachweg_333_simon_fritz.jpg)
+![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](../../images/stolpersteine/de022d0707ea_marbachweg_333_simon_familienbild_um_1914.jpg)
+![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](../../images/stolpersteine/6f61cd6214bc_marbachweg_333_simon_liesel_1920er_jahre.jpg)
+![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](../../images/stolpersteine/e7d867dc59e2_marbachweg_333_simon_liesel_im_publikum_1920er-1930er_jahre..jpg)
+![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](../../images/stolpersteine/424dd336a339_marbachweg_333_simon_liesel_mit_kasperlpuppe_und_schallplatt.jpg)
+![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](../../images/stolpersteine/0c770ceec882_marbachweg_333_simon_liesel_1937-_berlin.jpg)
+![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](../../images/stolpersteine/72f54b59bb05_marbachweg_333_simon_liesel_beim_suedwestrundfunk_1920er_jah.jpg)
+![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](../../images/stolpersteine/8efe710335da_marbachweg_333_simon_liesel_1950er_jahre.jpg)
+![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](../../images/stolpersteine/5779fec61ed5_marbachweg_333_simon_liesel_ausstellung_historisches_museum..jpg)
+![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](../../images/stolpersteine/9846609c8fa8_stolperst_marbachweg_333_simon_liesel.jpg)
+![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](../../images/stolpersteine/1a2260534880_stolperst_marbachweg_333_simon_paul_jacob.jpg)
+![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](../../images/stolpersteine/d9fd893c56ab_stolperst_marbachweg_333_simon_hans.jpg)
+![Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](../../images/stolpersteine/59d4e860e841_stolperst_marbachweg_333_simon_fritz.jpg)
 
 ## Links
 

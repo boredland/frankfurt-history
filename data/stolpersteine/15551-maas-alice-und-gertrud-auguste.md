@@ -11,7 +11,7 @@ filters:
 
 *Liebigstraße 3*
 
-![Stolperstein Maas, Alice und Gertrud Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/liebigstrasse-3.jpg)
+![Stolperstein Maas, Alice und Gertrud Auguste](../../images/stolpersteine/25141e5e8b6c_liebigstrasse-3.jpg)
 
 Alice Maas und ihre Kinder Adolf F.  und Gertrud Auguste Maas wurden in Frankfurt
 
@@ -506,8 +506,8 @@ Liebigstraße 3
 ## Gallery
 
 <!-- gallery:standard -->
-![Maas, Alice und Gertrud Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_liebigstrasse_3_maas_gertrud_auguste.jpg)
-![Maas, Alice und Gertrud Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_liebigstrasse_3_maas_alice.jpg)
+![Maas, Alice und Gertrud Auguste](../../images/stolpersteine/4fbc0e18512e_stolperst_liebigstrasse_3_maas_gertrud_auguste.jpg)
+![Maas, Alice und Gertrud Auguste](../../images/stolpersteine/fa304deb8c08_stolperst_liebigstrasse_3_maas_alice.jpg)
 
 ## Links
 

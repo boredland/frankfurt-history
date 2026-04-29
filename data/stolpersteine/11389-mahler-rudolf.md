@@ -11,7 +11,7 @@ filters:
 
 *Münchener Straße 20*
 
-![Stolperstein Mahler, Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/muenchnerstr_20.jpg)
+![Stolperstein Mahler, Rudolf](../../images/stolpersteine/90d21937ebe8_muenchnerstr_20.jpg)
 
 Rudolf Mahler wurde in Selz als Sohn von Oliva Köhler aus Baden-Baden geboren. Er war Kaufmann, unverheiratet und katholisch. Seit 18.10.1926 wohnte er in der Frankfurter Kronprinzenstraße 20 (heute: Münchner Straße). Laut Hausstandsbuch zog er am 3.6.1936 mit unbekanntem Ziel dort aus.
 
@@ -94,10 +94,10 @@ Münchener Straße 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Mahler, Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/familie-mahler.jpg)
-![Mahler, Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/toetungsanstalt-pirna-schloss-sonnen.jpg)
-![Mahler, Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/opferbilder/mahlers-haeftlingsfragebogen.jpg)
-![Mahler, Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/mahler.jpg)
+![Mahler, Rudolf](../../images/stolpersteine/54d51550decf_familie-mahler.jpg)
+![Mahler, Rudolf](../../images/stolpersteine/4379670a2f8b_toetungsanstalt-pirna-schloss-sonnen.jpg)
+![Mahler, Rudolf](../../images/stolpersteine/22efb548a833_mahlers-haeftlingsfragebogen.jpg)
+![Mahler, Rudolf](../../images/stolpersteine/43a4d9a144a5_mahler.jpg)
 
 ## Links
 

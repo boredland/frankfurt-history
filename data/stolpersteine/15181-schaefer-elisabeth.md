@@ -11,7 +11,7 @@ filters:
 
 *Bockenheimer Landstraße 104*
 
-![Stolperstein Schaefer, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/bockenheimer_landstr_104.jpg)
+![Stolperstein Schaefer, Elisabeth](../../images/stolpersteine/82e4e1153f26_bockenheimer_landstr_104.jpg)
 
 Elisabeth
 
@@ -420,7 +420,7 @@ Fichardstraße 63
 ## Gallery
 
 <!-- gallery:standard -->
-![Schaefer, Elisabeth](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_fichardstrasse_63_schaefer_elisabeth.jpg)
+![Schaefer, Elisabeth](../../images/stolpersteine/00bdce76117f_stolperst_fichardstrasse_63_schaefer_elisabeth.jpg)
 
 ## Links
 

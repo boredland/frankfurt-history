@@ -11,7 +11,7 @@ filters:
 
 *Eppsteiner Straße 5*
 
-![Stolperstein Strauss, Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/eppsteiner-strasse-5_1.jpg)
+![Stolperstein Strauss, Auguste](../../images/stolpersteine/a0a66536279b_eppsteiner-strasse-5_1.jpg)
 
 Die in Weilburg oder in Freiburg im Breisgau geborene Auguste Strauss war die Tochter von Aaron Marcus und Johanne, geb. Goldenberg. Sie war mit dem Kaufmann Isaak Strauss verheiratet, der am 18. Januar 1939 in Frankfurt starb. Dem 1899 in Alsfeld zur Welt gekommenen Sohn gelang die Flucht in das US-amerikanische Exil.
 
@@ -452,7 +452,7 @@ Eppsteiner Straße 5
 ## Gallery
 
 <!-- gallery:standard -->
-![Strauss, Auguste](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_eppsteinerstr_5_strauss_auguste__400x400.jpg)
+![Strauss, Auguste](../../images/stolpersteine/ce3a8eb82199_stolperst_eppsteinerstr_5_strauss_auguste__400x400.jpg)
 
 ## Links
 

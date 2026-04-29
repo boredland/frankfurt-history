@@ -11,7 +11,7 @@ filters:
 
 *Sonnemannstraße 57*
 
-![Stolperstein Treumann, Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/sonnemannstr_57_neu.jpg)
+![Stolperstein Treumann, Erich](../../images/stolpersteine/babebf9793ad_sonnemannstr_57_neu.jpg)
 
 Erich Treumann wurde in Jutroschin geboren. Er war mit der evangelischen, aus Kellinghusen stammenden Else Treumann, geb. Stave, verheiratet. Die beiden hatten eine 1917 geborene Tochter. Die Familie wohnte laut Adressbuch von 1935 in der Sonnemannallee 57, laut Volkszählung von 1939 im Sandweg 47. Erich Treumann wurde nach Angaben seiner Frau am 22. Januar 1943 verhaftet.
 
@@ -192,7 +192,7 @@ Sonnemannstraße 57
 ## Gallery
 
 <!-- gallery:standard -->
-![Treumann, Erich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_sonnemannstr_57_treumann_erich_neu.jpg)
+![Treumann, Erich](../../images/stolpersteine/d631a809688b_stolperst_sonnemannstr_57_treumann_erich_neu.jpg)
 
 ## Links
 

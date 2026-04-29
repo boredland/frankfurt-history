@@ -11,7 +11,7 @@ filters:
 
 *Paul-Ehrlich-Straße 41*
 
-![Stolperstein Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/paul-ehrlich-strasse_41.jpg)
+![Stolperstein Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](../../images/stolpersteine/5eca8eafb3ea_paul-ehrlich-strasse_41.jpg)
 
 Jakob
 
@@ -352,13 +352,13 @@ Paul-Ehrlich-Straße 41
 ## Gallery
 
 <!-- gallery:standard -->
-![Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/paul-ehrlich-strasse_41_jakob_nussbaum_selbstportraet_1927_staedel_museum.jpg)
-![Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/paul_ehrlich_strasse_41_jakob_nussbaum_portrait_von_ottilie_roederstein_1909.jpg)
-![Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_paul-ehrlich-strasse_41_nussbaum_jakob.jpg)
-![Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_paul-ehrlich-strasse_41_nussbaum_marie.jpg)
-![Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_paul-ehrlich-strasse_41_nussbaum_bernhard.jpg)
-![Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_paul-ehrlich-strasse_41_nussbaum_elisabeth.jpg)
-![Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_paul-ehrlich-strasse_41_nussbaum_reinhold.jpg)
+![Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](../../images/stolpersteine/c981b9f7ef40_paul-ehrlich-strasse_41_jakob_nussbaum_selbstportraet_1927_s.jpg)
+![Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](../../images/stolpersteine/b4c986cd67c4_paul_ehrlich_strasse_41_jakob_nussbaum_portrait_von_ottilie_.jpg)
+![Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](../../images/stolpersteine/02229c22e6d7_stolperst_paul-ehrlich-strasse_41_nussbaum_jakob.jpg)
+![Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](../../images/stolpersteine/7278935b4347_stolperst_paul-ehrlich-strasse_41_nussbaum_marie.jpg)
+![Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](../../images/stolpersteine/49062f8043f7_stolperst_paul-ehrlich-strasse_41_nussbaum_bernhard.jpg)
+![Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](../../images/stolpersteine/7895d1233b0e_stolperst_paul-ehrlich-strasse_41_nussbaum_elisabeth.jpg)
+![Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold](../../images/stolpersteine/1a3ae6a3b73d_stolperst_paul-ehrlich-strasse_41_nussbaum_reinhold.jpg)
 
 ## Links
 

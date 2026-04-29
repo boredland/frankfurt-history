@@ -11,7 +11,7 @@ filters:
 
 *Wolfsgangstraße 51*
 
-![Stolperstein Erlanger, Albert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/wolfsgangstr_51.jpg)
+![Stolperstein Erlanger, Albert](../../images/stolpersteine/87bcc00fb7fc_wolfsgangstr_51.jpg)
 
 Albert Erlanger wurde in Frankfurt geboren. Seine Eltern waren Hermann Erlanger und Anna, geb. Mayer. Er war promovierter Jurist und Notar und wohnte bis 1932 in der Wolfsgangstraße 51.
 
@@ -408,10 +408,10 @@ Wolfsgangstraße 51
 ## Gallery
 
 <!-- gallery:standard -->
-![Erlanger, Albert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/erlanger-albert.jpg)
-![Erlanger, Albert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/franz-und-anneliese-erlanger.jpg)
-![Erlanger, Albert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/brueder-erlanger.jpg)
-![Erlanger, Albert](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-erlanger-albert.jpg)
+![Erlanger, Albert](../../images/stolpersteine/21a5e86a1311_erlanger-albert.jpg)
+![Erlanger, Albert](../../images/stolpersteine/c63b4508ee9a_franz-und-anneliese-erlanger.jpg)
+![Erlanger, Albert](../../images/stolpersteine/e8a25e0ae069_brueder-erlanger.jpg)
+![Erlanger, Albert](../../images/stolpersteine/5ad3bdb5a214_stolperstein-erlanger-albert.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Rechneigrabenstraße 18-20*
 
-![Stolperstein Schwab, Fanny, Hanna, Klara und Seligmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/rechneigrabenstr_18-20.jpg)
+![Stolperstein Schwab, Fanny, Hanna, Klara und Seligmann](../../images/stolpersteine/4b70ee973604_rechneigrabenstr_18-20.jpg)
 
 Seligmann Siegmund
 
@@ -264,11 +264,11 @@ Rechneigrabenstraße 18-20
 ## Gallery
 
 <!-- gallery:standard -->
-![Schwab, Fanny, Hanna, Klara und Seligmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_rechneigrabenstr_18-20_kopfstein.jpg)
-![Schwab, Fanny, Hanna, Klara und Seligmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_rechneigrabenstr_18-20_schwab_seligmann.jpg)
-![Schwab, Fanny, Hanna, Klara und Seligmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_rechneigrabenstr_18-20_schwab_klara.jpg)
-![Schwab, Fanny, Hanna, Klara und Seligmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_rechneigrabenstr_18-20_schwab_fanny.jpg)
-![Schwab, Fanny, Hanna, Klara und Seligmann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_rechneigrabenstr_18-20_schwab_hanna.jpg)
+![Schwab, Fanny, Hanna, Klara und Seligmann](../../images/stolpersteine/0725e4ebc42c_stolperst_rechneigrabenstr_18-20_kopfstein.jpg)
+![Schwab, Fanny, Hanna, Klara und Seligmann](../../images/stolpersteine/a5b4a4a1cb55_stolperst_rechneigrabenstr_18-20_schwab_seligmann.jpg)
+![Schwab, Fanny, Hanna, Klara und Seligmann](../../images/stolpersteine/848c9da652e2_stolperst_rechneigrabenstr_18-20_schwab_klara.jpg)
+![Schwab, Fanny, Hanna, Klara und Seligmann](../../images/stolpersteine/bedc0a97a317_stolperst_rechneigrabenstr_18-20_schwab_fanny.jpg)
+![Schwab, Fanny, Hanna, Klara und Seligmann](../../images/stolpersteine/07c4ddf17489_stolperst_rechneigrabenstr_18-20_schwab_hanna.jpg)
 
 ## Links
 

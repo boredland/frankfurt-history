@@ -11,7 +11,7 @@ filters:
 
 *Alt-Heddernheim 33*
 
-![Stolperstein Stern, Helene und Siegfried](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/alt_heddernheim_33_haus.jpg)
+![Stolperstein Stern, Helene und Siegfried](../../images/stolpersteine/70ef14ac52a5_alt_heddernheim_33_haus.jpg)
 
 Siegfried und Helene Stern wohnten bis zum 2.12.1938 mit ihren zwei Kindern in der Römerstadt 91 und mussten dann nach Alt Heddernheim 33 ziehen. Die beiden Kinder Ruth Carola, geb.28.10.1924, und Manfred Leo, geb.15.9.1926, konnten mit ihrem Cousin Manfred Schwelm am 18.3.1939 mit einem Kindertransport nach England entkommen.
 

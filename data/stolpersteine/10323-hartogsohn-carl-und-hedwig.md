@@ -11,7 +11,7 @@ filters:
 
 *Heimchenweg 47*
 
-![Stolperstein Hartogsohn, Carl und Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/heimchenweg_47.jpg)
+![Stolperstein Hartogsohn, Carl und Hedwig](../../images/stolpersteine/e7033c863a5e_heimchenweg_47.jpg)
 
 Carl Hartogsohn wurde als sechstes von sieben Kindern der Eheleute Isaak und Rosa Hartogsohn, geb. Polack, in Emden geboren. Isaak Hartogsohn war Schächter und hatte eine Metzgerei. Auch seine Frau kam aus einer Metzgerfamilie; sie verstarb bereits 1917.  Die Kinder besuchten die jüdische Volksschule. Mit 14 Jahren begann Carl Hartogsohn eine Lehre als Klempner und Installateur in Emden, die er 1923 mit dem Gesellenbrief abschloss.
 
@@ -168,7 +168,7 @@ Heimchenweg 47
 ## Gallery
 
 <!-- gallery:standard -->
-![Hartogsohn, Carl und Hedwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperstein_heimchenweg_47_hartogsohn_carl.jpg)
+![Hartogsohn, Carl und Hedwig](../../images/stolpersteine/ad7dc994108f_stolperstein_heimchenweg_47_hartogsohn_carl.jpg)
 
 ## Links
 

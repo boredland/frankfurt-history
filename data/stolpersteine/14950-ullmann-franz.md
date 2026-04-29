@@ -11,7 +11,7 @@ filters:
 
 *Schumannstraße 56*
 
-![Stolperstein Ullmann, Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/schumannstrasse-56_1.jpg)
+![Stolperstein Ullmann, Franz](../../images/stolpersteine/9cbb03c8ce5e_schumannstrasse-56_1.jpg)
 
 Franz Julius Moritz Ullmann wurde in Frankfurt am Main als Sohn des Chemikers und IG Farben AG Direktors (Cassella) Carl Ullmann und Flora Ullmann, geb. Desenberg, geboren. Er und sein Bruder Richard Ulllmann stammten aus einer jüdischen Familie, die ursprünglich aus Pfersee bei Ulm kam. Im 17. Jahrhundert heiratete einer der Vorfahren eine Frankfurterin. Nachgewiesen werden kann die Familie in der Judengasse in Frankfurt in den Häusern Goldener Spiegel und Goldener Brunnen. Die Ullmanns hatten eine offene Haltung in religiösen Fragen. Der Großvater von Franz und Richard schickte seine Kinder in den evangelischen Religionsunterricht, da er Kenntnisse des Neuen Testaments für ein wichtiges Bildungsgut hielt. Streitigkeiten zwischen liberalen und orthodoxen Kräften in der jüdischen Gemeinde führten dazu, dass die beiden Söhne aus der jüdischen Gemeinde austraten und ihre Kinder taufen ließen.
 
@@ -454,10 +454,10 @@ Schumannstraße 56
 ## Gallery
 
 <!-- gallery:standard -->
-![Ullmann, Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/ullmann-franz.jpg)
-![Ullmann, Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/schumannstrasse_56_ullmann_haus.jpg)
-![Ullmann, Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/ullmann-arbeitszeugnis.jpg)
-![Ullmann, Franz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/ullmann_franz.jpg)
+![Ullmann, Franz](../../images/stolpersteine/f7f1911a285c_ullmann-franz.jpg)
+![Ullmann, Franz](../../images/stolpersteine/22a99e3fb195_schumannstrasse_56_ullmann_haus.jpg)
+![Ullmann, Franz](../../images/stolpersteine/7281e41c5399_ullmann-arbeitszeugnis.jpg)
+![Ullmann, Franz](../../images/stolpersteine/437f5436e910_ullmann_franz.jpg)
 
 ## Links
 

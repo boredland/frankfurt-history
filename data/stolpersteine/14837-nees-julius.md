@@ -11,7 +11,7 @@ filters:
 
 *Offenbacher Landstraße 9*
 
-![Stolperstein Nees, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/offenbacher-landstrasse-9_1.jpg)
+![Stolperstein Nees, Julius](../../images/stolpersteine/fbe9ca3a3d9b_offenbacher-landstrasse-9_1.jpg)
 
 In der Anklageschrift heißt es zur politischen Überzeugung dieser Männer: „Stalin habe den Krieg zwischen Deutschland und den Westmächten begünstigt, damit diese Völker – also Deutschland, England und Frankreich – sich verbluteten und dann von den Sowjets mit Leichtigkeit überwältigt werden könnten“, womit das Ziel, die Weltrevolution, in nächste Nähe gerückt sei. Um diese Überzeugung unters Volk bringen zu können, habe sich die Gruppe im Herstellen von Flugblättern geübt. Zitat aus der Anklage: „Zu einer Herstellung von kommunistischen Schriften im größeren Umfange und zur Verbreitung an Außenstehende kam es nicht mehr.“
 
@@ -152,7 +152,7 @@ Offenbacher Landstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Nees, Julius](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_offenbacher_landstr_9_nees_julius.jpg)
+![Nees, Julius](../../images/stolpersteine/ae630fba59dd_stolperst_offenbacher_landstr_9_nees_julius.jpg)
 
 ## Links
 

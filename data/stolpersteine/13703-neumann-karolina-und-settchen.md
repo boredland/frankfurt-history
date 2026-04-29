@@ -11,7 +11,7 @@ filters:
 
 *Hebelstraße 13*
 
-![Stolperstein Neumann, Karolina und Settchen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/hebelstrasse_13_haus.jpg)
+![Stolperstein Neumann, Karolina und Settchen](../../images/stolpersteine/74755b251c7b_hebelstrasse_13_haus.jpg)
 
 Settchen Neumann aus Völkersleier war das sechste Kind von Josef Wolf Stern und Karolina, geb. Tannebaum. Sie war verheiratet mit Simon Neumann, der 1912 starb. Sie hatten zwei Töchter, Karolina eine weitere, geboren 1897, sowie zwei Söhne. In Schöllkrippen besaß die Familie Grundbesitz, drei Grundstücke wurden am 6. Mai 1938 verkauft.
 
@@ -418,7 +418,7 @@ Hebelstraße 13
 ## Gallery
 
 <!-- gallery:standard -->
-![Neumann, Karolina und Settchen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-neumann-settchen.jpg)
+![Neumann, Karolina und Settchen](../../images/stolpersteine/b4b12d64df83_stolperstein-neumann-settchen.jpg)
 
 ## Links
 

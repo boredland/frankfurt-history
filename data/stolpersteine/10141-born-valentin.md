@@ -11,7 +11,7 @@ filters:
 
 *Dominikanergasse 7*
 
-![Stolperstein Born, Valentin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/dominikanergasse_7.jpg)
+![Stolperstein Born, Valentin](../../images/stolpersteine/8abc4d414545_dominikanergasse_7.jpg)
 
 Valentin
 
@@ -148,8 +148,8 @@ Dominikanergasse 7
 ## Gallery
 
 <!-- gallery:standard -->
-![Born, Valentin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/opferfotos/dominikanergasse_7_born_valentin_transport_ins_kz_natzweiler.jpg)
-![Born, Valentin](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/altstadt/stolperst_dominikanergasse_7_born_valentin.jpg)
+![Born, Valentin](../../images/stolpersteine/e83c96b03f79_dominikanergasse_7_born_valentin_transport_ins_kz_natzweiler.jpg)
+![Born, Valentin](../../images/stolpersteine/6fee137428d1_stolperst_dominikanergasse_7_born_valentin.jpg)
 
 ## Links
 

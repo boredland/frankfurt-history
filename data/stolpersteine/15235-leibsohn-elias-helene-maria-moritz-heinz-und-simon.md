@@ -11,7 +11,7 @@ filters:
 
 *Eckenheimer Landstraße 36*
 
-![Stolperstein Leibsohn, Elias, Helene, Maria, Moritz, Heinz und Simon](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/eckenheimer_landstr_36.jpg)
+![Stolperstein Leibsohn, Elias, Helene, Maria, Moritz, Heinz und Simon](../../images/stolpersteine/d169489abfd3_eckenheimer_landstr_36.jpg)
 
 Elias und
 

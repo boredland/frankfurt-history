@@ -11,7 +11,7 @@ filters:
 
 *Stresemannallee 36*
 
-![Stolperstein Dessauer, Friedrich, Elisabeth, Maria und Christoph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/standorte/stresemannallee_36.jpg)
+![Stolperstein Dessauer, Friedrich, Elisabeth, Maria und Christoph](../../images/stolpersteine/47f24952d3c3_stresemannallee_36.jpg)
 
 Friedrich Dessauer wurde in Aschaffenburg geboren.
 
@@ -254,14 +254,14 @@ Stresemannallee 36
 ## Gallery
 
 <!-- gallery:standard -->
-![Dessauer, Friedrich, Elisabeth, Maria und Christoph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/stresemannallee_36_dessauer_friedrich.jpg)
-![Dessauer, Friedrich, Elisabeth, Maria und Christoph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/stresemannallee_36_dessauer_friedrich_uni-bibliothek_ffm.jpg)
-![Dessauer, Friedrich, Elisabeth, Maria und Christoph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/stresemannallee_36_dessauer_maria.jpg)
-![Dessauer, Friedrich, Elisabeth, Maria und Christoph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/opferbilder/stresemannallee_36_dessauer_maria_2.jpg)
-![Dessauer, Friedrich, Elisabeth, Maria und Christoph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_stresemannalle_36_dessauer_elisabeth.jpg)
-![Dessauer, Friedrich, Elisabeth, Maria und Christoph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_stresemannalle_36_dessauer_maria.jpg)
-![Dessauer, Friedrich, Elisabeth, Maria und Christoph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_stresemannallee_36_dessauer_christoph.jpg)
-![Dessauer, Friedrich, Elisabeth, Maria und Christoph](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/sachsenhausen/stolperst_stresemannallee_36_dessauer_friedrich.jpg)
+![Dessauer, Friedrich, Elisabeth, Maria und Christoph](../../images/stolpersteine/952eff43fa38_stresemannallee_36_dessauer_friedrich.jpg)
+![Dessauer, Friedrich, Elisabeth, Maria und Christoph](../../images/stolpersteine/edd3c5a9a48a_stresemannallee_36_dessauer_friedrich_uni-bibliothek_ffm.jpg)
+![Dessauer, Friedrich, Elisabeth, Maria und Christoph](../../images/stolpersteine/c277607ee3d3_stresemannallee_36_dessauer_maria.jpg)
+![Dessauer, Friedrich, Elisabeth, Maria und Christoph](../../images/stolpersteine/03786d2a8fc5_stresemannallee_36_dessauer_maria_2.jpg)
+![Dessauer, Friedrich, Elisabeth, Maria und Christoph](../../images/stolpersteine/7ca07cad45d2_stolperst_stresemannalle_36_dessauer_elisabeth.jpg)
+![Dessauer, Friedrich, Elisabeth, Maria und Christoph](../../images/stolpersteine/29a06ae19409_stolperst_stresemannalle_36_dessauer_maria.jpg)
+![Dessauer, Friedrich, Elisabeth, Maria und Christoph](../../images/stolpersteine/b0c143c6215b_stolperst_stresemannallee_36_dessauer_christoph.jpg)
+![Dessauer, Friedrich, Elisabeth, Maria und Christoph](../../images/stolpersteine/808e4f7e871a_stolperst_stresemannallee_36_dessauer_friedrich.jpg)
 
 ## Links
 

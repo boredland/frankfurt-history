@@ -11,7 +11,7 @@ filters:
 
 *Kronberger Straße 33*
 
-![Stolperstein David, Dagobert, Ernst und Klara sowie Brumlik, Therese](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/kronberger_str_33.jpg)
+![Stolperstein David, Dagobert, Ernst und Klara sowie Brumlik, Therese](../../images/stolpersteine/5830e7c6287a_kronberger_str_33.jpg)
 
 Therese
 
@@ -590,10 +590,10 @@ Kronberger Straße 33
 ## Gallery
 
 <!-- gallery:standard -->
-![David, Dagobert, Ernst und Klara sowie Brumlik, Therese](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_kronberger_str_33_brumlik_therese.jpg)
-![David, Dagobert, Ernst und Klara sowie Brumlik, Therese](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_kronberger_str_33_david_dagobert.jpg)
-![David, Dagobert, Ernst und Klara sowie Brumlik, Therese](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_kronberger_str_33_david_klara.jpg)
-![David, Dagobert, Ernst und Klara sowie Brumlik, Therese](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_kronberger_str_33_david_ernst.jpg)
+![David, Dagobert, Ernst und Klara sowie Brumlik, Therese](../../images/stolpersteine/2e52c1370179_stolperst_kronberger_str_33_brumlik_therese.jpg)
+![David, Dagobert, Ernst und Klara sowie Brumlik, Therese](../../images/stolpersteine/04b9af45b2e7_stolperst_kronberger_str_33_david_dagobert.jpg)
+![David, Dagobert, Ernst und Klara sowie Brumlik, Therese](../../images/stolpersteine/0e4493392bcd_stolperst_kronberger_str_33_david_klara.jpg)
+![David, Dagobert, Ernst und Klara sowie Brumlik, Therese](../../images/stolpersteine/7e21a4c64ba7_stolperst_kronberger_str_33_david_ernst.jpg)
 
 ## Links
 

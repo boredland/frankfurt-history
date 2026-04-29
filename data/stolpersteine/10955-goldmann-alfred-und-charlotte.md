@@ -11,7 +11,7 @@ filters:
 
 *Böttgerstraße 17*
 
-![Stolperstein Goldmann, Alfred und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/boettgerstr_17.jpg)
+![Stolperstein Goldmann, Alfred und Charlotte](../../images/stolpersteine/be2761be22c6_boettgerstr_17.jpg)
 
 Alfred Goldmann wurde in Hindenburg, Charlotte Goldmann in Berlin geboren. Alfred Goldmann war Oberbaurat bei der Reichsbahn. Zuletzt wohnten die beiden in der Telemannstraße 18, ein „Judenhaus“, in dem antisemitisch verfolgte Personen vor ihrer Verschleppung leben mussten, und wurden von dort mit rund 18 Personen von dort deportiert.
 
@@ -418,8 +418,8 @@ Böttgerstraße 17
 ## Gallery
 
 <!-- gallery:standard -->
-![Goldmann, Alfred und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_boettgerstr_17_goldmann_alfred.jpg)
-![Goldmann, Alfred und Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperst_boettgerstr_17_goldmann_charlotte.jpg)
+![Goldmann, Alfred und Charlotte](../../images/stolpersteine/f771b83653de_stolperst_boettgerstr_17_goldmann_alfred.jpg)
+![Goldmann, Alfred und Charlotte](../../images/stolpersteine/595724d9277f_stolperst_boettgerstr_17_goldmann_charlotte.jpg)
 
 ## Links
 

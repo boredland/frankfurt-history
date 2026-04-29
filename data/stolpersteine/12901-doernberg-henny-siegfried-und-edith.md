@@ -11,7 +11,7 @@ filters:
 
 *Im Sachsenlager 20*
 
-![Stolperstein Doernberg, Henny, Siegfried und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/im_sachsenlager_20.jpg)
+![Stolperstein Doernberg, Henny, Siegfried und Edith](../../images/stolpersteine/aada6c6df99c_im_sachsenlager_20.jpg)
 
 Siegfried und Henni Doernberg wurden beide in Eschwege geboren. Die Eltern
 
@@ -522,9 +522,9 @@ Im Sachsenlager 20
 ## Gallery
 
 <!-- gallery:standard -->
-![Doernberg, Henny, Siegfried und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_im_sachsenlager_20_doernberg_henny.jpg)
-![Doernberg, Henny, Siegfried und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_im_sachsenlager_20_doernberg_siegfried.jpg)
-![Doernberg, Henny, Siegfried und Edith](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_im_sachsenlager_20_doernberg_edith.jpg)
+![Doernberg, Henny, Siegfried und Edith](../../images/stolpersteine/bc30ef368cfa_stolperst_im_sachsenlager_20_doernberg_henny.jpg)
+![Doernberg, Henny, Siegfried und Edith](../../images/stolpersteine/5e8e63d0fb19_stolperst_im_sachsenlager_20_doernberg_siegfried.jpg)
+![Doernberg, Henny, Siegfried und Edith](../../images/stolpersteine/5b94ddadc002_stolperst_im_sachsenlager_20_doernberg_edith.jpg)
 
 ## Links
 

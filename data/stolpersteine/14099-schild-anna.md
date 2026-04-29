@@ -11,7 +11,7 @@ filters:
 
 *Schumannstraße 43*
 
-![Stolperstein Schild, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/schumannstrasse-43_1.jpg)
+![Stolperstein Schild, Anna](../../images/stolpersteine/2b28225beac4_schumannstrasse-43_1.jpg)
 
 Anna Schild wurde in Ludwigsburg geboren und war seit 1939 Witwe. Nachdem sie 1940 ihre Wohnung in der Schumannstraße 42 verlassen musste, führte sie die „Pension Atlantik“ in der Eppsteiner Straße 43. Es handelte sich bei dieser Anschrift um ein „Judenhaus“, in dem antisemitisch Verfolgte vor ihrer Deportation aus Frankfurt zwangsweise konzentriert wurden.
 
@@ -444,7 +444,7 @@ Schumannstraße 43
 ## Gallery
 
 <!-- gallery:standard -->
-![Schild, Anna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstr_43_schild_anna.jpg)
+![Schild, Anna](../../images/stolpersteine/3aa39240d232_stolperst_schumannstr_43_schild_anna.jpg)
 
 ## Links
 

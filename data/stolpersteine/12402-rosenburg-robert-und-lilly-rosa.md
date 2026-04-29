@@ -11,7 +11,7 @@ filters:
 
 *Schumannstraße 36*
 
-![Stolperstein Rosenburg, Robert und Lilly Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/schumannstrasse-36_1.jpg)
+![Stolperstein Rosenburg, Robert und Lilly Rosa](../../images/stolpersteine/848ffaa4cade_schumannstrasse-36_1.jpg)
 
 Lilly Rosa Rosenburg wurde in Darmstadt geboren. Sie war die Tochter des Bankiers Samuel Benjamin und von Johanna Benjamin, geb. Heichelheim. 1889 heiratete sie den Bankier William Rosenburg. Der Ehemann war in Baltimore geboren und hatte die amerikanische Staatsbürgerschaft, er starb 1911. Das Ehepaar hatte vier Söhne: Albert Rosenburg war Chirurg und starb 1935, Richard Rosenburg	 fiel 1914 als amerikanischer Staatsbürger, Gustav Rosenburg, ebenfalls Chirurg, lebte 1954 in den USA und Robert Rosenburg. Bebel Rosenburg, die Ehefrau von Albert Rosenburg, konnte mit ihrer 1933 geborenen Tochter Inge Ruth Sarah Rosenburg nach Argentinien auswandern.
 
@@ -468,8 +468,8 @@ Schumannstraße 36
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenburg, Robert und Lilly Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstr_36_rosenberg_robert.jpg)
-![Rosenburg, Robert und Lilly Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_schumannstr_36_rosenberg_rosalie.jpg)
+![Rosenburg, Robert und Lilly Rosa](../../images/stolpersteine/aa453cce36f9_stolperst_schumannstr_36_rosenberg_robert.jpg)
+![Rosenburg, Robert und Lilly Rosa](../../images/stolpersteine/807710e08926_stolperst_schumannstr_36_rosenberg_rosalie.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Am Erlenbruch 10*
 
-![Stolperstein Waßmann, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/standorte/am-erlenbruch-10_1.jpg)
+![Stolperstein Waßmann, Karl](../../images/stolpersteine/0706f90cb872_am-erlenbruch-10_1.jpg)
 
 Karl Waßmann - Karikatur von Lino Salini um 1918
 
@@ -74,10 +74,10 @@ Am Erlenbruch 10
 ## Gallery
 
 <!-- gallery:standard -->
-![Waßmann, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/opferbilder/am_erlenbruch_10_wassmann_1.jpg)
-![Waßmann, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/opferbilder/am_erlenbruch_10_wassmann_2.jpg)
-![Waßmann, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/opferbilder/am_erlenbruch_10_wassmann_3.jpg)
-![Waßmann, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/wassmann-karl.jpg)
+![Waßmann, Karl](../../images/stolpersteine/e0decb1b3c27_am_erlenbruch_10_wassmann_1.jpg)
+![Waßmann, Karl](../../images/stolpersteine/748f21e105ee_am_erlenbruch_10_wassmann_2.jpg)
+![Waßmann, Karl](../../images/stolpersteine/9dfebf74dcd2_am_erlenbruch_10_wassmann_3.jpg)
+![Waßmann, Karl](../../images/stolpersteine/996bca3b82dd_wassmann-karl.jpg)
 
 ## Links
 

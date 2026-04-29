@@ -11,7 +11,7 @@ filters:
 
 *Steuernagelstraße 60*
 
-![Stolperstein Heilmann, Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/standorte/steuernagelstr_60.jpg)
+![Stolperstein Heilmann, Friedrich](../../images/stolpersteine/e8e2c1e6c62e_steuernagelstr_60.jpg)
 
 Friedrich Heilmann wurde in Frankfurt am Main als
 
@@ -168,7 +168,7 @@ Steuernagelstraße 60
 ## Gallery
 
 <!-- gallery:standard -->
-![Heilmann, Friedrich](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_steuernagelstr_60_heilmann_friedrich.jpg)
+![Heilmann, Friedrich](../../images/stolpersteine/7f288f707638_stolperst_steuernagelstr_60_heilmann_friedrich.jpg)
 
 ## Links
 

@@ -12,7 +12,7 @@ filters:
 
 *Wolfsgangstraße 81*
 
-![Stolperstein Goldmann, Trudl und Vera](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/wolfsgangstr_81.jpg)
+![Stolperstein Goldmann, Trudl und Vera](../../images/stolpersteine/3611972526b6_wolfsgangstr_81.jpg)
 
 Vera Goldmann
 
@@ -505,9 +505,9 @@ Wolfsgangstraße 81
 ## Gallery
 
 <!-- gallery:standard -->
-![Goldmann, Trudl und Vera](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/wolfsgangstr_81_goldmann_vera.jpg)
-![Goldmann, Trudl und Vera](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_wolfsgangstr_81_goldmann_vera.jpg)
-![Goldmann, Trudl und Vera](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_wolfsgangstr_81_goldmann_trudl.jpg)
+![Goldmann, Trudl und Vera](../../images/stolpersteine/bf93ca0d7c72_wolfsgangstr_81_goldmann_vera.jpg)
+![Goldmann, Trudl und Vera](../../images/stolpersteine/91bbb96074be_stolperst_wolfsgangstr_81_goldmann_vera.jpg)
+![Goldmann, Trudl und Vera](../../images/stolpersteine/5a2a78ae71ac_stolperst_wolfsgangstr_81_goldmann_trudl.jpg)
 
 ## Links
 

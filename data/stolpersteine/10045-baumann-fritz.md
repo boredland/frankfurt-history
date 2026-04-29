@@ -11,7 +11,7 @@ filters:
 
 *An der Ringmauer 62*
 
-![Stolperstein Baumann, Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/an_der_ringmauer_62__400x300.jpg)
+![Stolperstein Baumann, Fritz](../../images/stolpersteine/01eced7dce9f_an_der_ringmauer_62__400x300.jpg)
 
 Fritz Baumann
 
@@ -116,9 +116,9 @@ An der Ringmauer 62
 ## Gallery
 
 <!-- gallery:standard -->
-![Baumann, Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/opferbilder/an_der_ringmauer_-62_baumann_fritz_247x400.jpg)
-![Baumann, Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/opferbilder/an_der_ringmauer_-62_baumann_fritz_247x400.jpg)
-![Baumann, Fritz](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/baumann-fritz.jpg)
+![Baumann, Fritz](../../images/stolpersteine/78e59ce55902_an_der_ringmauer_-62_baumann_fritz_247x400.jpg)
+![Baumann, Fritz](../../images/stolpersteine/78e59ce55902_an_der_ringmauer_-62_baumann_fritz_247x400.jpg)
+![Baumann, Fritz](../../images/stolpersteine/b64065150d48_baumann-fritz.jpg)
 
 ## Links
 

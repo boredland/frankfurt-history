@@ -11,7 +11,7 @@ filters:
 
 *Sandweg 31*
 
-![Stolperstein Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/sandweg_31.jpg)
+![Stolperstein Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](../../images/stolpersteine/aa9ed624196f_sandweg_31.jpg)
 
 Isidor Rosenstein
 
@@ -508,14 +508,14 @@ Sandweg 31
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/sandweg_31_rosenstein_isidor.jpg)
-![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/sandweg_31_rosenstein_therese.jpg)
-![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/sandweg_31_rosenstein_susanne.jpg)
-![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-rosenstein-isidior.jpg)
-![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-rosenstein-therese.jpg)
-![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-rosenstein-renate.jpg)
-![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-kahn-helmut.jpg)
-![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-kahn-susanne.jpg)
+![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](../../images/stolpersteine/5759d9b005df_sandweg_31_rosenstein_isidor.jpg)
+![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](../../images/stolpersteine/f727f881e047_sandweg_31_rosenstein_therese.jpg)
+![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](../../images/stolpersteine/6bb774d15e1c_sandweg_31_rosenstein_susanne.jpg)
+![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](../../images/stolpersteine/ae2ad06c3c90_stolperstein-rosenstein-isidior.jpg)
+![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](../../images/stolpersteine/dda733396883_stolperstein-rosenstein-therese.jpg)
+![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](../../images/stolpersteine/ae132ecf19e2_stolperstein-rosenstein-renate.jpg)
+![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](../../images/stolpersteine/312a4619c76a_stolperstein-kahn-helmut.jpg)
+![Rosenstein, Isidor, Renate und Therese sowie Kahn, Hellmuth und Susanne](../../images/stolpersteine/41ca7f6c0c28_stolperstein-kahn-susanne.jpg)
 
 ## Links
 

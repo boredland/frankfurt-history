@@ -12,7 +12,7 @@ filters:
 
 *Obermainstraße 28*
 
-![Stolperstein Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/obermainstr_28.jpg)
+![Stolperstein Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/596c7dabfbaa_obermainstr_28.jpg)
 
 Siegfried
 
@@ -377,27 +377,27 @@ Obermainstraße 28
 ## Gallery
 
 <!-- gallery:standard -->
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_28_risch_golda_hanna_1.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_28_risch_siegfried_1.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_28_risch_siegfried_2.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_28_risch_siegfried_3.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_28_risch_golda_hanna_2.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_28_risch_lea_kela_1.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_28_risch_lea_kela_2.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_28_risch_lea_kela_3.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_28_risch_mirjam.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_28_risch_lea_kela_4.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_28_risch_lea_kela_5.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_28_risch_edith_1.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_28_risch_edith_2.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_28_risch_siegfried_4.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/obermainstr_28_risch_siegfried_5.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_28_risch_siegfried.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_28_risch_golda_hanna.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_28_risch_lea_kela.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_28_risch_edith.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_28_risch_mirjam.jpg)
-![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_obermainstr_28_risch_jsaak.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/cff3ba4a2013_obermainstr_28_risch_golda_hanna_1.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/82fdbe0ed80f_obermainstr_28_risch_siegfried_1.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/2face27a2402_obermainstr_28_risch_siegfried_2.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/16f4b65dfb59_obermainstr_28_risch_siegfried_3.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/44fda56c8271_obermainstr_28_risch_golda_hanna_2.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/4217f983643a_obermainstr_28_risch_lea_kela_1.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/7022cb591ef2_obermainstr_28_risch_lea_kela_2.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/d941fd5b34d2_obermainstr_28_risch_lea_kela_3.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/bff504374ccf_obermainstr_28_risch_mirjam.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/510ee8afa871_obermainstr_28_risch_lea_kela_4.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/87d002d07dbd_obermainstr_28_risch_lea_kela_5.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/4ee912b836c1_obermainstr_28_risch_edith_1.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/7b1e7367569a_obermainstr_28_risch_edith_2.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/d761b878b5ae_obermainstr_28_risch_siegfried_4.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/d70323dfbc2f_obermainstr_28_risch_siegfried_5.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/a3a46682cdcc_stolperst_obermainstr_28_risch_siegfried.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/463d08af5f10_stolperst_obermainstr_28_risch_golda_hanna.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/c0a018081448_stolperst_obermainstr_28_risch_lea_kela.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/1f42dff23e60_stolperst_obermainstr_28_risch_edith.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/4f61d75d1cbd_stolperst_obermainstr_28_risch_mirjam.jpg)
+![Risch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak](../../images/stolpersteine/ea2ae43ee4ad_stolperst_obermainstr_28_risch_jsaak.jpg)
 
 ## Links
 

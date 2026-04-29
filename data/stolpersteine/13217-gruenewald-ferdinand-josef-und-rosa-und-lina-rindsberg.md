@@ -11,7 +11,7 @@ filters:
 
 *Sandweg 40*
 
-![Stolperstein Grünewald, Ferdinand, Josef und Rosa, und Lina Rindsberg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/sandweg-40_1.jpg)
+![Stolperstein Grünewald, Ferdinand, Josef und Rosa, und Lina Rindsberg](../../images/stolpersteine/abf13168f6e4_sandweg-40_1.jpg)
 
 Josef Grünewald wurde in Frankfurt am Main geboren, seine Ehefrau Rosa Grünewald in Uehlfeld (Aisch). 1920 wurde die Tochter Irma geboren und 1922 der Sohn Ferdinand. Der Tochter gelang 1939 die Flucht in das Exil. Die Familie wohnte zuletzt im Sandweg 40.
 
@@ -250,10 +250,10 @@ Sandweg 40
 ## Gallery
 
 <!-- gallery:standard -->
-![Grünewald, Ferdinand, Josef und Rosa, und Lina Rindsberg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/opferbilde/lina-und-david-rindsberg-und-zwei-enkel.jpg)
-![Grünewald, Ferdinand, Josef und Rosa, und Lina Rindsberg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/josef-und-rosa-gruenewald-mit-sohn-ferdinand.jpg)
-![Grünewald, Ferdinand, Josef und Rosa, und Lina Rindsberg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-gruenewald-josef.jpg)
-![Grünewald, Ferdinand, Josef und Rosa, und Lina Rindsberg](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperstein-rindsberg-lina.jpg)
+![Grünewald, Ferdinand, Josef und Rosa, und Lina Rindsberg](../../images/stolpersteine/02efc48bf352_lina-und-david-rindsberg-und-zwei-enkel.jpg)
+![Grünewald, Ferdinand, Josef und Rosa, und Lina Rindsberg](../../images/stolpersteine/49136938a1b0_josef-und-rosa-gruenewald-mit-sohn-ferdinand.jpg)
+![Grünewald, Ferdinand, Josef und Rosa, und Lina Rindsberg](../../images/stolpersteine/83f39d260c52_stolperstein-gruenewald-josef.jpg)
+![Grünewald, Ferdinand, Josef und Rosa, und Lina Rindsberg](../../images/stolpersteine/7954e93ff293_stolperstein-rindsberg-lina.jpg)
 
 ## Links
 

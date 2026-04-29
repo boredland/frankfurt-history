@@ -12,7 +12,7 @@ filters:
 
 *Waldschmidtstraße 9*
 
-![Stolperstein Richter, Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/waldschmidtstr_9.jpg)
+![Stolperstein Richter, Rosa](../../images/stolpersteine/a27d9a220bab_waldschmidtstr_9.jpg)
 
 Rosa
 
@@ -225,7 +225,7 @@ Waldschmidtstraße 9
 ## Gallery
 
 <!-- gallery:standard -->
-![Richter, Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_waldschmidtstr_9_richter_rosa.jpg)
+![Richter, Rosa](../../images/stolpersteine/cfb37e3cbd35_stolperst_waldschmidtstr_9_richter_rosa.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Fuchshohl 67*
 
-![Stolperstein Kantorowicz, Margarete, Ernst und Levita, Marion Ellen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ginnheim/fuchshohl_67_haus.jpg)
+![Stolperstein Kantorowicz, Margarete, Ernst und Levita, Marion Ellen](../../images/stolpersteine/52ecc345a686_fuchshohl_67_haus.jpg)
 
 Ernst Kantorowicz aus Forst (Lausitz) ging in Hannover zur Schule und studierte Rechtswissenschaften in Lausanne (Schweiz), Heidelberg, Berlin und Göttingen, wo er 1917 promovierte. Von 1920 bis 1930 lebte er in Kiel, wo er unter anderem (seit 1928) Leiter des Jugendamtes und der Volkshochschule und Dozent für Jugendrecht an der Universität Kiel war. 1930 wurde er nach Frankfurt am Main berufen und wurde Professor für Staatsbürgerkunde und Sozialwissenschaften und Leiter der pädagogischen Sektion des „Freien Deutschen Hochstifts“. Hier kam es zu einer heftigen Auseinandersetzung zwischen ihm und Vertretern der NS-Pädagogik (besonders mit Prof. Ernst Kriek).
 

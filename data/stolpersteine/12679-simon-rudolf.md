@@ -12,7 +12,7 @@ filters:
 
 *Damaschkeanger 128*
 
-![Stolperstein Simon, Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/praunheim/damaschkeanger_128.jpg)
+![Stolperstein Simon, Rudolf](../../images/stolpersteine/9226653d9871_damaschkeanger_128.jpg)
 
 Rudolf Simon stammte aus Hanau und war seit 5.
 
@@ -99,7 +99,7 @@ Damaschkeanger 128
 ## Gallery
 
 <!-- gallery:standard -->
-![Simon, Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/praunheim/stolperst_damaschkeanger_128_simon_rudolf.jpg)
+![Simon, Rudolf](../../images/stolpersteine/6158d32e2d0d_stolperst_damaschkeanger_128_simon_rudolf.jpg)
 
 ## Links
 

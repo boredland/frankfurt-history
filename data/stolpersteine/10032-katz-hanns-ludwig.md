@@ -12,7 +12,7 @@ filters:
 
 *Am Kirchberg 27*
 
-![Stolperstein Katz, Hanns Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/am_kirchberg_27.jpg)
+![Stolperstein Katz, Hanns Ludwig](../../images/stolpersteine/2a5a5fb9871e_am_kirchberg_27.jpg)
 
 Hanns
 
@@ -219,11 +219,11 @@ Am Kirchberg 27
 ## Gallery
 
 <!-- gallery:standard -->
-![Katz, Hanns Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/opferbilder/am_kirchberg_27_katz_hans_ludwig_1.jpg)
-![Katz, Hanns Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/opferbilder/am_kirchberg_27_katz_hans_ludwig_2.jpg)
-![Katz, Hanns Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/opferbilder/am_kirchberg_27_katz_hans_ludwig_4.jpg)
-![Katz, Hanns Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/opferbilder/am_kirchberg_27_katz_hans_ludwig_5.jpg)
-![Katz, Hanns Ludwig](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/stolperst_am_kirchberg_27_katz_hans_ludwig.jpg)
+![Katz, Hanns Ludwig](../../images/stolpersteine/23abda3fac3b_am_kirchberg_27_katz_hans_ludwig_1.jpg)
+![Katz, Hanns Ludwig](../../images/stolpersteine/f332ff4c4c0a_am_kirchberg_27_katz_hans_ludwig_2.jpg)
+![Katz, Hanns Ludwig](../../images/stolpersteine/5e8a6e699dde_am_kirchberg_27_katz_hans_ludwig_4.jpg)
+![Katz, Hanns Ludwig](../../images/stolpersteine/9c16c4ce23e5_am_kirchberg_27_katz_hans_ludwig_5.jpg)
+![Katz, Hanns Ludwig](../../images/stolpersteine/7817779762c9_stolperst_am_kirchberg_27_katz_hans_ludwig.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Neuhofstraße 25*
 
-![Stolperstein Stogniew, Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/neuhofstr_25__300x400.jpg)
+![Stolperstein Stogniew, Hermine](../../images/stolpersteine/aff252fba9cd_neuhofstr_25__300x400.jpg)
 
 von Hasseln, Hermine (2.v.l.)
 
@@ -402,8 +402,8 @@ Neuhofstraße 25
 ## Gallery
 
 <!-- gallery:standard -->
-![Stogniew, Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/von-hasseln-hermine-2vl.jpg)
-![Stogniew, Hermine](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-stogniew-hermine.jpg)
+![Stogniew, Hermine](../../images/stolpersteine/a8dfd1284b9d_von-hasseln-hermine-2vl.jpg)
+![Stogniew, Hermine](../../images/stolpersteine/5c4ef66b252e_stolperstein-stogniew-hermine.jpg)
 
 ## Links
 

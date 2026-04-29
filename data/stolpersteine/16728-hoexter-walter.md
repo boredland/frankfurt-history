@@ -11,7 +11,7 @@ filters:
 
 *Varrentrappstraße 47*
 
-![Stolperstein Höxter, Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/varrentrappstr_47.jpg)
+![Stolperstein Höxter, Walter](../../images/stolpersteine/1c326157bca4_varrentrappstr_47.jpg)
 
 Walter Höxter wurde in Frankfurt am Main geboren. Seine Eltern waren Moritz Höxter und Sofie Elisabeth Höxter, geb. Hausmann. Walters ältere Schwester hieß Irene. Die Familie wohnte zunächst in der Sophienstraße 60 und zog 1932 in die Feuerbachstraße 49. Der Vater war Inhaber einer gut gehenden Metallwarenfirma in Frankfurt.
 
@@ -114,7 +114,7 @@ Varrentrappstraße 47
 ## Gallery
 
 <!-- gallery:standard -->
-![Höxter, Walter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_varrentrappstr_47_hoexter_walter.jpg)
+![Höxter, Walter](../../images/stolpersteine/69a7e3034f09_stolperst_varrentrappstr_47_hoexter_walter.jpg)
 
 ## Links
 

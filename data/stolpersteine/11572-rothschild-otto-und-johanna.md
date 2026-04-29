@@ -11,7 +11,7 @@ filters:
 
 *Siesmayerstraße 8*
 
-![Stolperstein Rothschild, Otto und Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/siesmayerstrasse-8.jpg)
+![Stolperstein Rothschild, Otto und Johanna](../../images/stolpersteine/37f4564ed16b_siesmayerstrasse-8.jpg)
 
 Otto Robert und Johanna Rothschild wurden in Frankfurt
 
@@ -514,10 +514,10 @@ Siesmayerstraße 8
 ## Gallery
 
 <!-- gallery:standard -->
-![Rothschild, Otto und Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/rothschild-ott.jpg)
-![Rothschild, Otto und Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/rothschild-johanna.jpg)
-![Rothschild, Otto und Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/rotschild-otto.jpg)
-![Rothschild, Otto und Johanna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/rothschild-johanna.jpg)
+![Rothschild, Otto und Johanna](../../images/stolpersteine/2daf59be17b4_rothschild-ott.jpg)
+![Rothschild, Otto und Johanna](../../images/stolpersteine/a6dcc165fc82_rothschild-johanna.jpg)
+![Rothschild, Otto und Johanna](../../images/stolpersteine/336b35d32ff4_rotschild-otto.jpg)
+![Rothschild, Otto und Johanna](../../images/stolpersteine/4064f63d312b_rothschild-johanna.jpg)
 
 ## Links
 

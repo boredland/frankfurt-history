@@ -11,7 +11,7 @@ filters:
 
 *Schwanheimer Straße 14*
 
-![Stolperstein Buttler, Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/standorte/schwanheimer_str_14.jpg)
+![Stolperstein Buttler, Paul](../../images/stolpersteine/2994869fa8c5_schwanheimer_str_14.jpg)
 
 Paul Buttler wurde 1910
 
@@ -160,7 +160,7 @@ Schwanheimer Straße 14
 ## Gallery
 
 <!-- gallery:standard -->
-![Buttler, Paul](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/niederrad/stolperst_schwanheimer_str_14_buttler_paul.jpg)
+![Buttler, Paul](../../images/stolpersteine/81bbaa4c687a_stolperst_schwanheimer_str_14_buttler_paul.jpg)
 
 ## Links
 

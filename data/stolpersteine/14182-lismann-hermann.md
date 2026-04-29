@@ -11,7 +11,7 @@ filters:
 
 *Untermainkai 68-72*
 
-![Stolperstein Lismann, Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/untermainkai_68-72.jpg)
+![Stolperstein Lismann, Hermann](../../images/stolpersteine/511acb21fecf_untermainkai_68-72.jpg)
 
 Hermann Lismann wurde in München geboren. Seine Eltern waren der Kupferhütten- und Walzwerkbesitzer Benjamin Lismann und Julie, geb. Ganz. Nach dem Abitur 1897 in München studierte Hermann Lismann von 1898 bis 1903 an der Münchner Kunstakademie, anschließend ging er zum Studium der Kunstgeschichte und Philosophie nach Lausanne. In München hatte er Maria, geb. Merken, eine katholische Christin, geheiratet. Aus dieser Ehe stammen die beiden Kinder, Franziska, geb.1906, und Peter, geb. 1920. Die Jahre 1904 bis 1914 verbrachte er in Paris, nach einer kurzen künstlerischen Lehrzeit in Rom. Überwiegend war die Landschaftsmalerei sein Metier. Er gehörte zum Kreise der Maler Pascin Moll, Weissgerber und Rudolf Levi. Seine beste Entfaltung fand er in der Landschaftsmalerei.
 
@@ -74,8 +74,8 @@ Untermainkai 68-72
 ## Gallery
 
 <!-- gallery:standard -->
-![Lismann, Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/opferbilder/lismann-hermann.jpg)
-![Lismann, Hermann](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gutleutviertel/stolperst_untermainkai_68-72_lismann_hermann.jpg)
+![Lismann, Hermann](../../images/stolpersteine/8bd645c2108b_lismann-hermann.jpg)
+![Lismann, Hermann](../../images/stolpersteine/bc535f2aba2f_stolperst_untermainkai_68-72_lismann_hermann.jpg)
 
 ## Links
 

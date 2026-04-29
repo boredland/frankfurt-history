@@ -11,7 +11,7 @@ filters:
 
 *Gaußstraße 16*
 
-![Stolperstein Neuhaus, Helene, Justin und Peter David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/gaussstrasse_14_haus.jpg)
+![Stolperstein Neuhaus, Helene, Justin und Peter David](../../images/stolpersteine/e6a5d81e12e9_gaussstrasse_14_haus.jpg)
 
 Neuhaus, Helene
 
@@ -450,10 +450,10 @@ Gaußstraße 14
 ## Gallery
 
 <!-- gallery:standard -->
-![Neuhaus, Helene, Justin und Peter David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/neuhaus-helene.jpg)
-![Neuhaus, Helene, Justin und Peter David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/neuhaus-justin-jakob.jpg)
-![Neuhaus, Helene, Justin und Peter David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/neuhaus-peter-dawid.jpg)
-![Neuhaus, Helene, Justin und Peter David](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-neuhaus-helene.jpg)
+![Neuhaus, Helene, Justin und Peter David](../../images/stolpersteine/508d6fa81d77_neuhaus-helene.jpg)
+![Neuhaus, Helene, Justin und Peter David](../../images/stolpersteine/434f6d5b1aff_neuhaus-justin-jakob.jpg)
+![Neuhaus, Helene, Justin und Peter David](../../images/stolpersteine/d3c34ca1c60d_neuhaus-peter-dawid.jpg)
+![Neuhaus, Helene, Justin und Peter David](../../images/stolpersteine/4323885e65e6_stolperstein-neuhaus-helene.jpg)
 
 ## Links
 

@@ -11,7 +11,7 @@ filters:
 
 *Lindenstraße 39*
 
-![Stolperstein Bloch, Arthur, Else und Peter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/lindenstr_39.jpg)
+![Stolperstein Bloch, Arthur, Else und Peter](../../images/stolpersteine/d56f18766871_lindenstr_39.jpg)
 
 Arthur
 
@@ -634,10 +634,10 @@ Lindenstraße 39
 ## Gallery
 
 <!-- gallery:standard -->
-![Bloch, Arthur, Else und Peter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/lindenstr_39_bloch_else_2.jpg)
-![Bloch, Arthur, Else und Peter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_lindenstr_39_bloch_arthur.jpg)
-![Bloch, Arthur, Else und Peter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_lindenstr_39_bloch_else.jpg)
-![Bloch, Arthur, Else und Peter](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_lindenstr_39_bloch_peter.jpg)
+![Bloch, Arthur, Else und Peter](../../images/stolpersteine/b58fc7293496_lindenstr_39_bloch_else_2.jpg)
+![Bloch, Arthur, Else und Peter](../../images/stolpersteine/a87ea5bc168f_stolperst_lindenstr_39_bloch_arthur.jpg)
+![Bloch, Arthur, Else und Peter](../../images/stolpersteine/b78889de43ee_stolperst_lindenstr_39_bloch_else.jpg)
+![Bloch, Arthur, Else und Peter](../../images/stolpersteine/9cb711aa321d_stolperst_lindenstr_39_bloch_peter.jpg)
 
 ## Links
 

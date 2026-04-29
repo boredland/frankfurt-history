@@ -11,7 +11,7 @@ filters:
 
 *Musikantenweg 21*
 
-![Stolperstein Rosenthal, Julius und Fanny, geb. Sulzbacher](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/musikantenweg_21.jpg)
+![Stolperstein Rosenthal, Julius und Fanny, geb. Sulzbacher](../../images/stolpersteine/fd361cd273a2_musikantenweg_21.jpg)
 
 Julius Rosenthal und seine Frau Fanny wohnten mit den 1924 und 1928 geborenen Söhnen Walter und Erich im dritten Stock des Hauses Musikantenweg 21, wahrscheinlich ihrer letzten frei gewählten Wohnung. Mit im Haus wohnten Hugo und Hedwig Bollmann mit ihren Kindern, die aufgrund politischer Verfolgung Wohnung und Geschäftsräume in der Spohrstraße 34 verloren hatten. Nach der Freilassung aus der Haft zogen sie etwa 1935 in den Musikantenweg. Die jüngste Tochter der Bollmanns, Elisabeth, spielte oft mit den Rosenthal Söhnen und erinnerte sich anlässlich einer Stolpersteinverlegung 2011 für einen Verwandten an die Familie Rosenthal.
 
@@ -406,7 +406,7 @@ Musikantenweg 21
 ## Gallery
 
 <!-- gallery:standard -->
-![Rosenthal, Julius und Fanny, geb. Sulzbacher](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-rosenthal-julius.jpg)
+![Rosenthal, Julius und Fanny, geb. Sulzbacher](../../images/stolpersteine/5822be1707a8_stolperstein-rosenthal-julius.jpg)
 
 ## Links
 

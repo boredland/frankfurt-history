@@ -11,7 +11,7 @@ filters:
 
 *Emmerich-Josef-Straße 19*
 
-![Stolperstein Baum, Martha und Wallega, Erna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/emmerich_josef_str_19_gruen_400x300_neu.jpg)
+![Stolperstein Baum, Martha und Wallega, Erna](../../images/stolpersteine/0b4fd7ff22f0_emmerich_josef_str_19_gruen_400x300_neu.jpg)
 
 Marta Baum wurde in Massenheim bei Wiesbaden geboren. Sie heiratete 29-jährig den Witwer und Metzgermeister Hermann Baum, der aus seiner ersten Ehe drei Kinder hatte, die siebenjährige Alma, den fünfjährigen Albert und die zweijährige Erna. Das gemeinsame Kind Berthold wurde 1911 geboren. Allen vier Kindern war sie eine gute Mutter, die zusätzlich die pflegebedürftige Schwiegermutter versorgte.
 
@@ -162,8 +162,8 @@ Emmerich-Josef-Straße 19
 ## Gallery
 
 <!-- gallery:standard -->
-![Baum, Martha und Wallega, Erna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/martha-baum-mit-claire-adler-auf-dem-arm.jpg)
-![Baum, Martha und Wallega, Erna](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/hoechst/stolperst_emmjosefstr21_baum_martha_400x400.jpg)
+![Baum, Martha und Wallega, Erna](../../images/stolpersteine/6a6d3ff5bd49_martha-baum-mit-claire-adler-auf-dem-arm.jpg)
+![Baum, Martha und Wallega, Erna](../../images/stolpersteine/6f15e906129d_stolperst_emmjosefstr21_baum_martha_400x400.jpg)
 
 ## Links
 

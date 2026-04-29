@@ -12,7 +12,7 @@ filters:
 
 *Robert-Mayer-Straße 47*
 
-![Stolperstein Tellgmann, Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/robert-mayer-str_47.jpg)
+![Stolperstein Tellgmann, Gustav](../../images/stolpersteine/68e8427da501_robert-mayer-str_47.jpg)
 
 Tellgmann
 
@@ -137,7 +137,7 @@ Robert-Mayer-Straße 47
 ## Gallery
 
 <!-- gallery:standard -->
-![Tellgmann, Gustav](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_robert-mayer-str_47_tellgmann_gustav.jpg)
+![Tellgmann, Gustav](../../images/stolpersteine/c6f784299d4b_stolperst_robert-mayer-str_47_tellgmann_gustav.jpg)
 
 ## Links
 

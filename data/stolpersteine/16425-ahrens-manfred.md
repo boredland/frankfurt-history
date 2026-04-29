@@ -11,7 +11,7 @@ filters:
 
 *Mainzer Landstraße 418*
 
-![Stolperstein Ahrens, Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/mainzer_landstr_418.jpg)
+![Stolperstein Ahrens, Manfred](../../images/stolpersteine/ee3850c8db55_mainzer_landstr_418.jpg)
 
 Elisabeth und Manfred Ahrens
 
@@ -92,9 +92,9 @@ Mainzer Landstraße 418
 ## Gallery
 
 <!-- gallery:standard -->
-![Ahrens, Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/elisabeth-und-manfred-ahrens.jpg)
-![Ahrens, Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/eintrittsbescheinigung-in-die-religionsgemeinschaft-des-judentums.jpg)
-![Ahrens, Manfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/gallus/stolperst_mainzer_landstr_418_ahrens_manfred.jpg)
+![Ahrens, Manfred](../../images/stolpersteine/470abfc2db18_elisabeth-und-manfred-ahrens.jpg)
+![Ahrens, Manfred](../../images/stolpersteine/bd45b003ec44_eintrittsbescheinigung-in-die-religionsgemeinschaft-des-jude.jpg)
+![Ahrens, Manfred](../../images/stolpersteine/119def4195fe_stolperst_mainzer_landstr_418_ahrens_manfred.jpg)
 
 ## Links
 

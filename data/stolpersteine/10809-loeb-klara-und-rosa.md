@@ -11,7 +11,7 @@ filters:
 
 *Weberstraße 29*
 
-![Stolperstein Loeb, Klara und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/standorte/weberstr_29.jpg)
+![Stolperstein Loeb, Klara und Rosa](../../images/stolpersteine/11bd84dd6481_weberstr_29.jpg)
 
 Familie Loeb
 
@@ -420,8 +420,8 @@ Weberstraße 29
 ## Gallery
 
 <!-- gallery:standard -->
-![Loeb, Klara und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/opferbilder/familie-loeb.jpg)
-![Loeb, Klara und Rosa](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/nordend/stolperstein-loeb-klara.jpg)
+![Loeb, Klara und Rosa](../../images/stolpersteine/d2d069fc8936_familie-loeb.jpg)
+![Loeb, Klara und Rosa](../../images/stolpersteine/677957e5096b_stolperstein-loeb-klara.jpg)
 
 ## Links
 

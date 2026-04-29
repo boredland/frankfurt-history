@@ -12,7 +12,7 @@ filters:
 
 *Alt-Heddernheim 63*
 
-![Stolperstein Salomon, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/alt_heddernheim_63.jpg)
+![Stolperstein Salomon, Karl](../../images/stolpersteine/2e7751545e13_alt_heddernheim_63.jpg)
 
 Karl Salomon wurde in Beerfelden im Odenwald geboren
 
@@ -153,7 +153,7 @@ Alt-Heddernheim 63
 ## Gallery
 
 <!-- gallery:standard -->
-![Salomon, Karl](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/stolperst_alt_heddernheim_63_salomon_karl.jpg)
+![Salomon, Karl](../../images/stolpersteine/d6eca167d0f9_stolperst_alt_heddernheim_63_salomon_karl.jpg)
 
 ## Links
 

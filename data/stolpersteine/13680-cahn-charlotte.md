@@ -11,7 +11,7 @@ filters:
 
 *Hadrianstraße 19*
 
-![Stolperstein Cahn, Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/hadrianstrasse_19__300x400.jpg)
+![Stolperstein Cahn, Charlotte](../../images/stolpersteine/3f3e9a079b18_hadrianstrasse_19__300x400.jpg)
 
 Charlotte Sofie Cahn ist in Frankfurt am Main geboren und war seit 1890 mit Julius Cahn (1844-1909) verheiratet. Das Ehepaar hatte zwei Kinder. Ihr am 1.7.1891 geborener Sohn Fritz Hartwig besuchte die Wöhlerschule bis zum „Einjährigen“, später die Höhere Handelsschule in Frankfurt und absolvierte eine Ausbildung in der Lederwarenfabrik „Cahn Valerie & Co.“ in Offenbach. Nach einer Dolmetschertätigkeit im Ersten Weltkrieg kehrte er 1918 nach Frankfurt zurück, zunächst erneut Beschäftigung in der Lederwarenfabrik, dann Umzug nach Berlin, wo er nach kurzer Tätigkeit in der Kravattenfabrik „Kerb & Co.“ Verbindungen zum Filmgeschäft knüpfte. Er wurde dann Direktor der „Aafa-Filmgesellschaft“. Verfolgungsbedingt kehrte er 1933 nach Frankfurt zurück und wurde Leiter des Jüdischen Hilfsvereins in der Unterlindau 31. Er wohnte zuletzt in der Feldbergstraße 5.Von dort wurde er am 19. Oktober 1941 bei der ersten großen Deportation aus Frankfurt in das Ghetto Lodz verschleppt, wo er am 31.12.1942 ums Leben kam.
 
@@ -102,8 +102,8 @@ Hadrianstraße 19
 ## Gallery
 
 <!-- gallery:standard -->
-![Cahn, Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/cahn-charlotte.jpg)
-![Cahn, Charlotte](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/cahn-charlotte-stolperstein.jpg)
+![Cahn, Charlotte](../../images/stolpersteine/0a0e91d78a91_cahn-charlotte.jpg)
+![Cahn, Charlotte](../../images/stolpersteine/f2d869769e3a_cahn-charlotte-stolperstein.jpg)
 
 ## Links
 

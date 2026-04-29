@@ -11,7 +11,7 @@ filters:
 
 *Leerbachstraße 71*
 
-![Stolperstein Laengsdorff, Julia Virginia und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/leerbachstr_71.jpg)
+![Stolperstein Laengsdorff, Julia Virginia und Richard](../../images/stolpersteine/b9da75fd2592_leerbachstr_71.jpg)
 
 Julia Virginia Laengsdorff und Richard Laengsdorff wurden in Frankfurt geboren. Ihre Eltern waren der Gerichtsrat Wilhelm Scheuermann (1842-1911) und Ida Helene Wilhelmine Louise, geb. Bromm (1853-1927), seine Eltern waren der Kaufmann Albert Laengsdorff (1836-1879) und dessen Ehefrau Paulina Gida, geb. Trier (1845-1894).
 
@@ -488,13 +488,13 @@ Leerbachstraße 71
 ## Gallery
 
 <!-- gallery:standard -->
-![Laengsdorff, Julia Virginia und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/leerbachstr_71_laengsdorff_julia.jpg)
-![Laengsdorff, Julia Virginia und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/leerbachstr_71_laengsdorff_richard.jpg)
-![Laengsdorff, Julia Virginia und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/leerbachstr_71_laengsdorff_julia_portraet_von_ottilie_w_roederstein.jpg)
-![Laengsdorff, Julia Virginia und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/leerbachstr_71_laengsdorff_julia_halbakt.jpg)
-![Laengsdorff, Julia Virginia und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/leerbachstr_71_laengsdorff_julia_halbakt_von_franz_von_lenbach_1912.jpg)
-![Laengsdorff, Julia Virginia und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_leerbachstr_71_laengsdorff_julia_virginia.jpg)
-![Laengsdorff, Julia Virginia und Richard](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_leerbachstr_71_laengsdorff_richard.jpg)
+![Laengsdorff, Julia Virginia und Richard](../../images/stolpersteine/d08cec0b25b6_leerbachstr_71_laengsdorff_julia.jpg)
+![Laengsdorff, Julia Virginia und Richard](../../images/stolpersteine/37cf15d4a76b_leerbachstr_71_laengsdorff_richard.jpg)
+![Laengsdorff, Julia Virginia und Richard](../../images/stolpersteine/fd970aaf7397_leerbachstr_71_laengsdorff_julia_portraet_von_ottilie_w_roed.jpg)
+![Laengsdorff, Julia Virginia und Richard](../../images/stolpersteine/ec7bf441ce82_leerbachstr_71_laengsdorff_julia_halbakt.jpg)
+![Laengsdorff, Julia Virginia und Richard](../../images/stolpersteine/6c4c441e6487_leerbachstr_71_laengsdorff_julia_halbakt_von_franz_von_lenba.jpg)
+![Laengsdorff, Julia Virginia und Richard](../../images/stolpersteine/a005bbb2274f_stolperst_leerbachstr_71_laengsdorff_julia_virginia.jpg)
+![Laengsdorff, Julia Virginia und Richard](../../images/stolpersteine/c8edf8716d91_stolperst_leerbachstr_71_laengsdorff_richard.jpg)
 
 ## Links
 

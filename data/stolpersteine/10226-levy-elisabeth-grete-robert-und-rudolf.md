@@ -11,7 +11,7 @@ filters:
 
 *Friedrichstraße 19*
 
-![Stolperstein Levy, Elisabeth, Grete, Robert und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/friedrichstrasse-19_1.jpg)
+![Stolperstein Levy, Elisabeth, Grete, Robert und Rudolf](../../images/stolpersteine/10bba23cbf78_friedrichstrasse-19_1.jpg)
 
 Robert Levy wurde in Blieskastel als Sohn des Kaufmanns
 
@@ -606,12 +606,12 @@ Friedrichstraße 19
 ## Gallery
 
 <!-- gallery:standard -->
-![Levy, Elisabeth, Grete, Robert und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/friedrichstr_19_levy_grete_lateinschule_bergzabern_schuljahr_1933_1934_grete_ganz_rechts_unten.jpg)
-![Levy, Elisabeth, Grete, Robert und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/friedrichstr_19_levy_transportliste_nach_chelmno_kulmhof.jpg)
-![Levy, Elisabeth, Grete, Robert und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_friedrichstr_19_levy_robert.jpg)
-![Levy, Elisabeth, Grete, Robert und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_friedrichstr_19_levy_elisabeth.jpg)
-![Levy, Elisabeth, Grete, Robert und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_friedrichstr_19_levy_grete.jpg)
-![Levy, Elisabeth, Grete, Robert und Rudolf](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_friedrichstr_19_levy_rudolf.jpg)
+![Levy, Elisabeth, Grete, Robert und Rudolf](../../images/stolpersteine/12250a7bdec2_friedrichstr_19_levy_grete_lateinschule_bergzabern_schuljahr.jpg)
+![Levy, Elisabeth, Grete, Robert und Rudolf](../../images/stolpersteine/61b4d6d15147_friedrichstr_19_levy_transportliste_nach_chelmno_kulmhof.jpg)
+![Levy, Elisabeth, Grete, Robert und Rudolf](../../images/stolpersteine/c78a4fb4c94e_stolperst_friedrichstr_19_levy_robert.jpg)
+![Levy, Elisabeth, Grete, Robert und Rudolf](../../images/stolpersteine/2bc0efdb150d_stolperst_friedrichstr_19_levy_elisabeth.jpg)
+![Levy, Elisabeth, Grete, Robert und Rudolf](../../images/stolpersteine/da8c0dc22539_stolperst_friedrichstr_19_levy_grete.jpg)
+![Levy, Elisabeth, Grete, Robert und Rudolf](../../images/stolpersteine/2a58f9e3bcab_stolperst_friedrichstr_19_levy_rudolf.jpg)
 
 ## Links
 

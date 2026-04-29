@@ -11,7 +11,7 @@ filters:
 
 *Gervinusstraße 22*
 
-![Stolperstein Adler, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/standorte/gervinusstrasse-22_1.jpg)
+![Stolperstein Adler, Alfred](../../images/stolpersteine/4456b4643d03_gervinusstrasse-22_1.jpg)
 
 Adler, Fred
 
@@ -464,11 +464,11 @@ Gervinusstraße 22
 ## Gallery
 
 <!-- gallery:standard -->
-![Adler, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/adler-fred.jpg)
-![Adler, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/adler-fred-2.jpg)
-![Adler, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fred-adlers-buchenwald-geldkarte.jpg)
-![Adler, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/fred-adler-und-tochter-renate-oberreifenberg-1935.jpg)
-![Adler, Alfred](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_gervinusstr_22_adler_alfred.jpg)
+![Adler, Alfred](../../images/stolpersteine/531e9b3488ee_adler-fred.jpg)
+![Adler, Alfred](../../images/stolpersteine/d686e88b5352_adler-fred-2.jpg)
+![Adler, Alfred](../../images/stolpersteine/4412fc84efd0_fred-adlers-buchenwald-geldkarte.jpg)
+![Adler, Alfred](../../images/stolpersteine/07a26a77bd60_fred-adler-und-tochter-renate-oberreifenberg-1935.jpg)
+![Adler, Alfred](../../images/stolpersteine/918b01180833_stolperst_gervinusstr_22_adler_alfred.jpg)
 
 ## Links
 
