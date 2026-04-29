@@ -34,6 +34,7 @@ export const THEME_SLUGS = [
   "leichte-sprache",
   "neues-frankfurt",
   "revolution-1848-49",
+  "stolpersteine",
 ] as const;
 
 export const SNAP_TOLERANCE = {
