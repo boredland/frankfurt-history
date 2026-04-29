@@ -167,10 +167,18 @@ def main():
     coord_cache = load_coord_cache()
 
     existing_ids = set()
+    existing_keys: dict[tuple[str, str], Path] = {}
     for f in THEME_DIR.glob("*.md"):
-        m = re.match(r"(\d+)", f.stem)
-        if m:
-            existing_ids.add(int(m.group(1)))
+        if f.stem == "_index":
+            continue
+        m = re.match(r"(\d+)-(.+)$", f.stem)
+        if not m:
+            continue
+        existing_ids.add(int(m.group(1)))
+        slug = m.group(2)
+        sub_match = re.search(r'^subtitle:\s*"([^"]*)"', f.read_text(), re.M)
+        address_key = sub_match.group(1) if sub_match else ""
+        existing_keys[(address_key, slug)] = f
     poi_id = max(existing_ids, default=10000)
 
     created = 0
@@ -204,12 +212,11 @@ def main():
                 person_name = address
 
             bio_slug = slugify(person_name)
-            md_name = f"{poi_id + 1}-{bio_slug}.md"
-
-            if (THEME_DIR / md_name).exists():
+            if (address, bio_slug) in existing_keys:
                 continue
 
             poi_id += 1
+            md_name = f"{poi_id}-{bio_slug}.md"
             md = build_markdown(
                 person_name=person_name,
                 address=address,
