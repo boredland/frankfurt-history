@@ -127,6 +127,8 @@ function extractImagesFromLines(
           "gebaeude",
           "fassade",
           "strasse",
+          "straße",
+          "str",
         ];
         const genericWords = [
           ...houseWords,
