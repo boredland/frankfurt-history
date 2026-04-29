@@ -101,7 +101,8 @@ function extractImagesFromLines(
 
         const housePattern =
           /\b(haus|ansicht|gebaeude|fassade|strasse|straße|str|platz|allee|weg)\b/i;
-        const streetSuffixPattern = /(str|strasse|straße|gasse|damm)$/i;
+        const streetSuffixPattern =
+          /(str|strasse|straße|gasse|damm|weg|allee|platz|wall|markt)$/i;
         const isHouse =
           housePattern.test(rawCleaned) ||
           rawCleaned.split(" ").some((w) => streetSuffixPattern.test(w));
