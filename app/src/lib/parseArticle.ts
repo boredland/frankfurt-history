@@ -29,51 +29,11 @@ function markdownBlockToHtml(md: string): string {
   html = html.replace(/^- (.+)$/gm, "<li>$1</li>");
   html = html.replace(/(<li>.*<\/li>\n?)+/g, (match) => `<ul>${match}</ul>`);
 
-  const blocks = html
+  const paragraphs = html
     .split(/\n{2,}/)
-    .map((block) => block.trim())
-    .filter(Boolean);
-
-  const joinedBlocks: string[] = [];
-  for (let i = 0; i < blocks.length; i++) {
-    const current = blocks[i];
-    if (joinedBlocks.length > 0) {
-      const prev = joinedBlocks[joinedBlocks.length - 1];
-      // Only join if neither is an HTML block (heading, list, etc)
-      if (!prev.startsWith("<") && !current.startsWith("<")) {
-        const prevText = prev.replace(/<[^>]+>/g, "").trim();
-        const lastChar = prevText.slice(-1);
-        const firstChar = current.charAt(0);
-
-        const isSentenceEnd = /[.!?:]/.test(lastChar);
-        const isAbbreviation =
-          /\b(?:Jg|geb|ca|u|v|Dr|Chr|Nr|Bd|S|orig)\.$/i.test(prevText);
-
-        const startsWithLowercase =
-          firstChar === firstChar.toLowerCase() &&
-          firstChar !== firstChar.toUpperCase();
-        const startsWithDigit = /^\d/.test(current);
-        const endsWithComma = lastChar === ",";
-        const isBraceJoin = lastChar === "(" || firstChar === ")";
-
-        if (
-          endsWithComma ||
-          !isSentenceEnd ||
-          isAbbreviation ||
-          startsWithLowercase ||
-          startsWithDigit ||
-          isBraceJoin
-        ) {
-          joinedBlocks[joinedBlocks.length - 1] = `${prev} ${current}`;
-          continue;
-        }
-      }
-    }
-    joinedBlocks.push(current);
-  }
-
-  const paragraphs = joinedBlocks
     .map((block) => {
+      block = block.trim();
+      if (!block) return "";
       if (
         block.startsWith("<h") ||
         block.startsWith("<ul") ||
@@ -81,8 +41,7 @@ function markdownBlockToHtml(md: string): string {
         block.startsWith("<a ")
       )
         return block;
-      // Replace single newlines within a block with spaces
-      return `<p>${block.replace(/\n/g, " ")}</p>`;
+      return `<p>${block}</p>`;
     })
     .filter(Boolean);
   return paragraphs.join("\n");

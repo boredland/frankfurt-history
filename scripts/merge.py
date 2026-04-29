@@ -73,10 +73,94 @@ def serialize_frontmatter(fm: dict[str, str], body: str) -> str:
     return "\n".join(lines) + "\n"
 
 
+def clean_body(body: str) -> str:
+    """Join fragmented paragraphs and replace single newlines with spaces."""
+    if not body:
+        return ""
+
+    # Heuristic for joining lines within a block
+    # We want to identify blocks separated by double newlines first
+    blocks = re.split(r'\n\s*\n', body)
+    processed_blocks = []
+    
+    for block in blocks:
+        block = block.strip()
+        if not block:
+            continue
+        
+        # If it's a structural element (heading, list), keep as is
+        if block.startswith('#') or block.startswith('-'):
+            processed_blocks.append(block)
+            continue
+            
+        # If it's a sequence of images, keep them on separate lines
+        if '![' in block:
+            # Join non-image lines, but keep images on their own lines
+            lines = block.splitlines()
+            new_lines = []
+            for line in lines:
+                line = line.strip()
+                if not line: continue
+                if line.startswith('!['):
+                    new_lines.append(line)
+                else:
+                    if new_lines and not new_lines[-1].startswith('!['):
+                        new_lines[-1] = f"{new_lines[-1]} {line}"
+                    else:
+                        new_lines.append(line)
+            processed_blocks.append("\n".join(new_lines))
+            continue
+            
+        # Replace single newlines with spaces within the block
+        cleaned_block = re.sub(r'(?<!\n)\n(?!\n)', ' ', block)
+        processed_blocks.append(cleaned_block)
+    
+    # Heuristic for joining blocks that were split mid-sentence
+    final_blocks = []
+    for block in processed_blocks:
+        if not final_blocks:
+            final_blocks.append(block)
+            continue
+            
+        prev = final_blocks[-1]
+        # Don't join if either is a structural element or contains images
+        if (prev.startswith('#') or prev.startswith('-') or '![' in prev or 
+            block.startswith('#') or block.startswith('-') or '![' in block):
+            final_blocks.append(block)
+            continue
+            
+        prev_clean = re.sub(r'<[^>]+>', '', prev).strip()
+        if not prev_clean:
+            final_blocks.append(block)
+            continue
+            
+        last_char = prev_clean[-1]
+        first_char = block[0]
+        
+        is_sentence_end = last_char in '.!?:'
+        is_abbreviation = re.search(r'\b(?:Jg|geb|ca|u|v|Dr|Chr|Nr|Bd|S|orig)\.$', prev_clean, re.I)
+        starts_with_lowercase = first_char.islower()
+        starts_with_digit = first_char.isdigit()
+        ends_with_comma = last_char == ','
+        is_brace_join = last_char == '(' or first_char == ')'
+
+        # Join if it clearly continues (comma, abbreviation, lowercase, digit, brace)
+        # OR if the previous block just didn't end with a proper sentence terminator.
+        if (ends_with_comma or is_abbreviation or 
+            starts_with_lowercase or starts_with_digit or is_brace_join or
+            not is_sentence_end):
+            final_blocks[-1] = f"{prev} {block}"
+        else:
+            final_blocks.append(block)            
+    return "\n\n".join(final_blocks)
+
+
 def merge_file(base_path: Path, override_path: Path | None) -> str:
     base_text = base_path.read_text() if base_path.exists() else ""
     if not override_path or not override_path.exists():
-        return base_text
+        # Even if no override, we might want to clean the base body
+        base_fm, base_body = parse_frontmatter(base_text)
+        return serialize_frontmatter(base_fm, clean_body(base_body))
 
     override_text = override_path.read_text()
     base_fm, base_body = parse_frontmatter(base_text)
@@ -90,7 +174,7 @@ def merge_file(base_path: Path, override_path: Path | None) -> str:
             merged_fm[key] = val
 
     merged_body = override_body if override_body else base_body
-    return serialize_frontmatter(merged_fm, merged_body)
+    return serialize_frontmatter(merged_fm, clean_body(merged_body))
 
 
 def merge_lang(lang: str):
