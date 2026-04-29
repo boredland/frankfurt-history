@@ -303,9 +303,6 @@ function ArticleContent({
               className="w-full max-h-64 object-cover"
             />
           </button>
-          {hero.caption && (
-            <p className="text-xs text-faded px-5 mt-1">{hero.caption}</p>
-          )}
           {allImages.length > 1 && (
             <div className="mt-2">
               <GalleryThumbs
