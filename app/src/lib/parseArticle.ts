@@ -62,6 +62,10 @@ function extractImagesFromLines(
   fallbackCaption?: string,
 ): ImageRef[] {
   const images: ImageRef[] = [];
+  const cleanTitle = fallbackCaption
+    ? fallbackCaption.replace(/^(Stolpersteine?\s*[—–-]\s*)/i, "").trim()
+    : "";
+
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
     if (!line) continue;
@@ -79,18 +83,47 @@ function extractImagesFromLines(
       if (!img.caption) {
         // Fallback 1: Extract from filename
         const filename = img.src.split("/").pop()?.split(".")[0] || "";
-        const cleaned = filename
+        const rawCleaned = filename
           .replace(/^[a-f0-9]{8,12}_/, "")
           .replace(/_[a-f0-9]{32}/, "")
           .replace(/_original|_medium|_small|_thumbnail/, "")
           .replace(/_/g, " ")
           .trim();
 
-        if (cleaned && cleaned.length > 3 && !/^[a-f0-9]+$/.test(cleaned)) {
-          img.caption = cleaned;
-        } else if (fallbackCaption) {
-          // Fallback 2: Article Title
-          img.caption = fallbackCaption;
+        const genericWords = [
+          "haus",
+          "ansicht",
+          "gebaeude",
+          "stolperstein",
+          "portrait",
+          "bild",
+          "foto",
+        ];
+        const isGeneric =
+          rawCleaned.length < 3 ||
+          genericWords.some((w) => rawCleaned.toLowerCase().includes(w));
+
+        if (isGeneric && cleanTitle) {
+          img.caption = cleanTitle;
+        } else if (rawCleaned) {
+          // Fallback 2: Interpolate with title casing
+          const titleWords = cleanTitle
+            .split(/[\s,.;:—–-]+/)
+            .filter((w) => w.length > 1);
+          const captionWords = rawCleaned.split(/\s+/);
+
+          const refinedWords = captionWords.map((cWord) => {
+            const match = titleWords.find(
+              (tWord) => tWord.toLowerCase() === cWord.toLowerCase(),
+            );
+            if (match) return match;
+            // Basic capitalization
+            return cWord.charAt(0).toUpperCase() + cWord.slice(1).toLowerCase();
+          });
+
+          img.caption = refinedWords.join(" ");
+        } else if (cleanTitle) {
+          img.caption = cleanTitle;
         }
       }
       images.push(img);
