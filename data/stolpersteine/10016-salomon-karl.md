@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Salomon, Karl](../../images/stolpersteine/2e7751545e13_alt_heddernheim_63.jpg)
 
-Karl Salomon wurde in Beerfelden im Odenwald geboren
-
 und entstammte einer dort seit Generationen ansässigen Metzger- und
 
 Viehhandelsfamilie. Seine Eltern, Joseph Salomon, geb. am 12. August 1846, und
@@ -75,80 +73,6 @@ Friedhof in Heddernheim, der seit dieser Zeit ruht.
 Der Stolperstein
 
 wurde initiiert von Christa Fischer und Gabi Kunhenn.
-
-Karl Salomon
-
-Geburtsdatum:
-
-Todesdatum:
-
-5.5.1877
-
-21.6.1941 (Suizid)
-
-Stolperstein Alt-Heddernheim 63, Karl Salomon
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baumann, Fritz
-
-Berentzen, Lore und Karl
-
-Bohrmann, Alice und Richard
-
-Cahn, Charlotte
-
-Fabisch, Emma und Heinrich Heilmann
-
-Flörsheim, Ida und Isidor
-
-Goldschmidt, Helene und Alfred
-
-Goldschmidt, Max und Erna
-
-Gottlieb, Alice und Jeanette
-
-Höxter, Kurt Leo
-
-Jakob, Anna und Adolf
-
-Loeb, Jenny
-
-Richard, Louis und Johanna
-
-Rothenberger, Ludwig
-
-Saalfeld, Elisabeth
-
-Salomon, Karl
-
-Schwelm, Berta, Max und Hildegard Ilse
-
-Seelig, Felix und Friedel
-
-Simenauer, Kaethe
-
-Simon, Sigmund und Johanna
-
-Steiner, Fanny und Goldschmidt, Hermann
-
-Stern, Helene und Siegfried
-
-Stern, Isidor und Martha
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Alt-Heddernheim 63
 
 ## Gallery
 

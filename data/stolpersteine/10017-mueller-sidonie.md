@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Müller, Sidonie](../../images/stolpersteine/2a868b32697b_alt-niedereschbach_15.jpg)
 
-Sidonie
-
 Hess wurde in Nieder-Eschbach geboren. Am 2. Juli 1905 verheiratete sie sich
 
 mit dem Metzger Adolf Müller aus Bönstadt-Niddatal, der in Nieder-Eschbach ein
@@ -72,32 +70,6 @@ Deportation:
 Todesdatum:
 
 28.9.1942
-
-Stolperstein Alt-Niedereschbach 15, Müller, Sidonie
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Bruder, Karl
-
-Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf
-
-Ehrlich, Siegmund, Malchen, Frieda und Ilse
-
-Müller, Sidonie
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Alt-Niedereschbach 15
 
 ## Gallery
 

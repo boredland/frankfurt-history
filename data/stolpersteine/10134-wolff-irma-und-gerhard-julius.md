@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Wolff, Irma und Gerhard Julius](../../images/stolpersteine/9cb5cf4a80fa_dalbergstr_2a.jpg)
 
-Irma
-
 Hirsch wurde in Bergen geboren und heiratete im November 1928 den aus
 
 Pfungstadt stammenden Kaufmann Simon Wolff.  Simon Wolff, Jahrgang 1894, hatte in Pfungstadt die höhere Bürgerschule
@@ -53,130 +51,6 @@ vielleicht noch aus Deutschland flüchten wollten.
 Irma Wolff,
 
 geb. Hirsch
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-27.6.1902
-
-11.6.1942 Region Lublin
-
-unbekannt
-
-Gerhard Julius Wolff
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-28.1.1930
-
-11.6.1942 Region Lublin
-
-unbekannt
-
-Stolpersteine Dalbergstraße 2a Irma Wolff
-
-Stolpersteine Dalbergstraße 2a Gerhard Julius Wolff
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Abermann, Jettchen
-
-Adler, Rosa, Sally, Alma und Claire
-
-Baum, Martha und Wallega, Erna
-
-Blumenthal, Meta und Fritz Günther
-
-Cohen, Bernhard, Theresia, Helene und Alice
-
-Cohen, David, Betti, Fritz und Paul
-
-de Beer, Ernst
-
-Ettinghausen, Berta
-
-Freudenthal, Julius, Margot und Betty
-
-Gerson, Gustav und Berta
-
-Grünspahn, Nathan, Esther Martha, Katharina und Leo
-
-Hahn, Rosa, Meta und Emanuel
-
-Hahn, Siegfried
-
-Hainebach, Emma und Lehmann, Emil
-
-Hammerschlag, Jenny
-
-Hartmann, Fritz
-
-Hartogsohn,  Carl und Hedwig
-
-Hirsch, Hugo
-
-Hirsch, Karl
-
-Horn, Georg
-
-Kahn, Ludwig und Nanette
-
-Königsberger, Jenny und Lewin, Felix, Sidonie und Henry
-
-Kühn, Hermann und Klara und Julia Hamlet
-
-Levi, Rosa und Kalmann und Frank, Else
-
-Levy, Amalie und Hugo
-
-Lubowitzky, Paula
-
-Mannheimer, Meta und David
-
-Marx, Hermann
-
-Mayer, Hermine und Gertrude
-
-Mayer, Julie
-
-Michalson, Franz
-
-Nachmann, Ludwig, Paula und Hertha
-
-Neumann, Amalie, Wolf und Herta
-
-Odenbach, Georg und Mina
-
-Schain, Josef
-
-Schuhmann, Friedrich
-
-Stern, Manfred
-
-Wehrle, Herrmann Joseph
-
-Wolff, Irma und Gerhard Julius
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Dalbergstraße 2a
 
 ## Gallery
 

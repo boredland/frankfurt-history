@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Krieg, Oscar](../../images/stolpersteine/c9b3a183fe3d_hedderichstr_42.jpg)
 
-Oscar Krieg wurde in Frankfurt am
-
 Main geboren. Er besuchte die Bethmann-Mittelschule und übte anschließend
 
 verschiedene Berufe aus, unter anderem als Elektriker bei den Main-Gas-Werken.
@@ -90,130 +88,6 @@ Toten auf dem Ehrenfriedhof der KZ-Gedenkstätte Flossenbürg beigesetzt.
 Die Stolpersteine wurden initiiert von den Zeugen
 
 Jehovas, Frankfurt.
-
-Oscar Kriegs Grab
-
-Oscar Kriegs Einlieferung in die "Schutzhaft"
-
-Oscar Krieg
-
-Geburtsdatum:
-
-Haft:
-
-Todesdatum:
-
-24.11.1884
-
-März 1937, Buchenwald, Wewelsburg, Flossenbürg
-
-29.5.1945
-
-Stolperstein Hedderichstraße 42, Oscar Krieg
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula
-
-Amram, Frida und Julie, und Goldine und Seligmann Hirschberg
-
-Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß
-
-Berberich, Erna und Moses
-
-Berndt, Gretel
-
-Blüthenthal, Paul
-
-Dessauer, Friedrich, Elisabeth, Maria und Christoph
-
-Embden, Gustav
-
-Fiege, Caroline
-
-Haase, Josef
-
-Habermehl, Martha
-
-Halle, Isidor von
-
-Häuslein, Otto
-
-Heinemann, Julius
-
-Herpe, Selma und Gisela
-
-Hess, Carry, Lina und Nini
-
-Hesse, Kurt Josef, Meta und Käthe
-
-Jacobi, Margit, Erwin und Dora
-
-Jakobi, Oswald Herbert und Ermann, Isaac und Sara
-
-Kalischer, Georg
-
-Kramer, Ferdinand und Beate
-
-Krieg, Oscar
-
-Leiffmann, Else, Kurt Joachim und Rolf Herbert
-
-Liebmann, Alma, Ernst und Marianne
-
-Löbenstein, Siegmund, Mally, Luise und Helmut
-
-Margulies, Cilly, Jenny, Moritz und Wolf B.
-
-Marx, Selma, Kurt und Walter
-
-Mayer, Martha
-
-Meister, Elisabeth
-
-Nees, Julius
-
-Neumann, Walter
-
-Neumann, Walter und Charlotte
-
-Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold
-
-Oppenheimer, Kurt
-
-Perlhefter, Günther
-
-Sass, Georg und Laura sowie Tuch, Charlotte
-
-Schmid, Katharina
-
-Stadel, Frieda
-
-Stern, Alfred Siegfried, Antonie und Ilse
-
-Ullmann, Heinrich
-
-Wahl, Otto
-
-Weis, Hedwig
-
-Weiss, Ludwig und Helene
-
-Wertheimer, Lydia und Martha
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Hedderichstraße 42
 
 ## Gallery
 

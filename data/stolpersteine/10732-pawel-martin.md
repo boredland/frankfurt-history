@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Pawel, Martin](../../images/stolpersteine/2fd70dd56438_sophienstr_29.jpg)
 
-Familie Pawel
-
 Dr. Martin Pawel wurde in Oppeln geboren. Seine Eltern waren Heinrich Rafael Hirsch Pawel und Hedwig, geb. Goldschmidt. Der Vater war Kaufmann und besaß in Oppeln ein großes Wäschegeschäft. Martin Pawel besuchte in Stettin das Gymnasium, das er am 2.3.1912 mit dem Abitur abschloss.
 
 Pawel, Hedwig
@@ -32,100 +30,6 @@ Wegen eines Nervenleidens, das er sich im Ersten Weltkrieg an der Front in Frank
 Martin Pawel mit Mutter und Schwester
 
 Der Stolperstein wurde initiiert von dem Urenkel David Weigend und der Enkelin Christine Pawel-Weigend, Frankfurt.
-
-Martin Pawel mit Sohn Heinz
-
-Martin Pawel
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-5.12.1893
-
-Einweisung: 25.9.1940 Gießener Heil- und Pflegeanstalt,
-
-Deportation: 1.10.1940 Landes-Pflegeanstalt Brandenburg
-
-1.10.1940 (Aktion T4)
-
-Stolperstein Sophienstraße 29 Martin Pawel
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie; sowie Schauss, Karoline
-
-Bär, Karl S und Gretel
-
-Bernard, Georg
-
-Bienes, Arthur, Hermine, Marion und René
-
-Breslau, Klara, Lore und Paul
-
-Brown, Hagar Martin
-
-Cohn, Richard Gerson, Margot, Kurt und Helga Jenny
-
-Finkernagel, Karl
-
-Führ, Theresa
-
-Haag, Adam
-
-Hirschmann, Hedwig, Helmut Martin und Margot
-
-Höxter, Ernst, Werner und Alma
-
-Höxter, Hilde
-
-Höxter, Walter
-
-Kell, Bernhard
-
-Lehmann, Alma Rosa, Erich Leo, Julius und Richard
-
-Maaß, Siegmund und Gertrud
-
-May, Hugo und Johanna
-
-Pawel, Martin
-
-Rosenthal, Gustav und Rosa
-
-Roth, Salomon
-
-Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz
-
-Sonntag, Paul
-
-Steinthal, Moritz
-
-Tellgmann, Gustav
-
-Wagner, Georg
-
-Weil, Linda, Henny und Ludwig
-
-Wetterhahn, Emma, Siegmund und Ruth
-
-Zamojre, Marcus, Josef und Ellinor
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Sophienstraße 29
 
 ## Gallery
 

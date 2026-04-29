@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Neumann, Hermann](../../images/stolpersteine/32849abb2d1b_kelsterbacher_str_24.jpg)
 
-Hermann Neumann wurde in Frankfurt-Niederrad geboren
-
 und wohnte in der Kelsterbacher Straße 24. Der Bauarbeiter/ Hilfsarbeiter war
 
 Mitglied der KPD. Im August 1933 wurde er zu einer Woche Haft wegen „groben
@@ -69,110 +67,6 @@ Der Stolperstein wurde initiiert von Robert Gilcher,
 Frankfurt-Niederrad.
 
 Hermann
-
-Neumann
-
-Geburtsdatum:
-
-Todesdatum:
-
-16.3.1901
-
-15.2.1940
-
-Haft: 7.11.1934 – 30.5.1935 Gerichtsgefängnis
-
-Frankfurt, 1935 – 1939 „Hochverrat“ Zuchthaus Kassel-Wehlheiden, 5.1.1939
-
-„Schutzhaft“ Gerichtsgefängnis Hammelgasse, 13.3.1939 Dachau, 27.9.1939
-
-Mauthausen
-
-Stolperstein Kelsterbacher Strasse 24 Neumann Hermann
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Alberti, Karl
-
-Bechhold, Heinrich
-
-Beisel, Johann Michael
-
-Blasius, Martha
-
-Buttler, Paul
-
-Chocholous, Sara
-
-Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek
-
-Ehrenfeld, Emil W.
-
-Eichhorn, Ludwig
-
-Gans, Ludwig von
-
-Gerhardt, Wilhelm
-
-Gerst, Ella und Gustav
-
-Greiff, Philipp
-
-Gumbmann, Wilhelm
-
-Haymann, Kläre
-
-Henrich, Helene
-
-Itzstein, Josef
-
-Klee, Ester
-
-Neumann, Hermann
-
-Oppenheimer, Gustav und Toni
-
-Pivovarczik, Helena
-
-Raab, Anton
-
-Schabinger, Heinrich
-
-Schabinger, Ludwig
-
-Schellhaas, Margarete und Schmitt, Karl
-
-Schneider, Karl
-
-Simon, Fritz und Lotte sowie Oswalt, Alfred
-
-Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil und Prochorow, Nikolai
-
-Stern, Kurt
-
-von Weinberg, Arthur
-
-von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander
-
-Weisbecker, Walter
-
-Weishaupt, Heinrich
-
-Wissenbach, Erwin
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Kelsterbacher Straße 24
 
 ## Gallery
 

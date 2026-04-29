@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Saalfeld, Elisabeth](../../images/stolpersteine/b10a198cc8fb_im_heidenfeld_18.jpg)
 
-Elisabeth Saalfeld wurde in Dessau geboren und lebte
-
 mit ihrer verwitweten Mutter Hedwig Saalfeld und ihrer am 7. April 1896
 
 geborenen Schwester Margarete seit April 1932 in der Römerstadt. Die Schwester
@@ -47,84 +45,6 @@ liegen keine weiteren Erkenntnisse vor.
 Der Stolperstein
 
 wurde initiiert von Christa Fischer und Gabi Kunhenn.
-
-Elisabeth Saalfeld
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-30.1.1894
-
-22.11.1941 Kaunas
-
-25.11.1941
-
-Stolperstein Im Heidenfeld 18, Elisabeth Saalfeld
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baumann, Fritz
-
-Berentzen, Lore und Karl
-
-Bohrmann, Alice und Richard
-
-Cahn, Charlotte
-
-Fabisch, Emma und Heinrich Heilmann
-
-Flörsheim, Ida und Isidor
-
-Goldschmidt, Helene und Alfred
-
-Goldschmidt, Max und Erna
-
-Gottlieb, Alice und Jeanette
-
-Höxter, Kurt Leo
-
-Jakob, Anna und Adolf
-
-Loeb, Jenny
-
-Richard, Louis und Johanna
-
-Rothenberger, Ludwig
-
-Saalfeld, Elisabeth
-
-Salomon, Karl
-
-Schwelm, Berta, Max und Hildegard Ilse
-
-Seelig, Felix und Friedel
-
-Simenauer, Kaethe
-
-Simon, Sigmund und Johanna
-
-Steiner, Fanny und Goldschmidt, Hermann
-
-Stern, Helene und Siegfried
-
-Stern, Isidor und Martha
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Im Heidenfeld 18
 
 ## Gallery
 

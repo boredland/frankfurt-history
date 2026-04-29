@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Löwensberg, Käthe sowie Mainzer, Grete, Gustav, Irma und Erich](../../images/stolpersteine/3d8945032e86_windmuehlstr_5.jpg)
 
-Gustav
-
 Mainzer wurde in Zwingenberg (Odenwald), Grete Mainzer, geb. Löwensberg, in
 
 Igstadt bei Wiesbaden geboren. Sie heirateten am 15.12.1910 in Montabaur im
@@ -91,128 +89,6 @@ Käthe Löwensberg
 Käthe Löwensberg,
 
 geb. Stern
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-3.1.1853
-
-18.8.1942 Theresienstadt
-
-31.8.1942
-
-Grete Mainzer,
-
-geb. Löwensberg
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-15.7.1883
-
-19.10.1941 Lodz/Litzmannstadt, Chelmno
-
-22.8.1942
-
-Gustav Mainzer
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-13.6.1873
-
-19.10.1941 Lodz/Litzmannstadt, Chelmno/Kulmnof
-
-4.8.1942
-
-Irma Mainzer
-
-Geburtsdatum:
-
-Flucht:
-
-19.11.1911
-
-15.8.1933 Chile, Palästina
-
-Erich Mainzer
-
-Geburtsdatum:
-
-Flucht:
-
-5.10.1919
-
-15.8.1938 USA
-
-Stolpersteine Windmühlstraße 5, Käthe Löwensberg
-
-Stolpersteine Windmühlstraße 5, Grete Mainzer
-
-Stolpersteine Windmühlstraße 5, Gustav Mainzer
-
-Stolpersteine Windmühlstraße 5, Irma Mainzer
-
-Stolpersteine Windmühlstraße 5, Erich Mainzer
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander
-
-Geiss, Lina
-
-Gerlinger, Anna Lina
-
-Germann, Edmund
-
-Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen
-
-Löwensberg, Käthe sowie Mainzer, Erich, Grete, Gustav und Irma
-
-Luwisch, Etli, Arthur, Lilly und Hermann
-
-Mahler, Rudolf
-
-Ochs, Heinrich
-
-Pauli, Paula
-
-Poser Erna
-
-Schmidt-Fellner, Carola und Hermann
-
-Sommer, Ernst und Margot
-
-Steinschneider, Adolf Moritz
-
-Strauß, Josef
-
-Weichbrodt, Raphael und Dorrit
-
-Wolfgang, Toni
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Windmühlstraße 5
 
 ## Gallery
 

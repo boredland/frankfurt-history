@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Eichhorn, Ludwig](../../images/stolpersteine/0e723be15c77_breubergstr_25.jpg)
 
-Ludwig
-
 Heinrich Eichhorn wurde in Büdesheim im Main-Kinzig-Kreis geboren und wuchs
 
 dort auf. Seit Anfang November 1925 war er bei der Firma Hochtief in Frankfurt
@@ -223,110 +221,6 @@ Anwesend waren der Sohn Lothar Eichhorn und die Enkelin Linda
 Eichhorn-Born sowie Monika und Werner Hescher mit Mutter Ilse Ebert, die mit
 
 dem Ehepaar Eichhorn befreundet war.
-
-Ludwig Eichhorn, Passfoto Verfolgtenausweis
-
-Ludwig Eichhorn (vorn) und Ehefrau mit der Gemeinde auf Missionsfahrt vor 1933
-
-Elisabeth Eichhorn mit den beiden Söhnen während der Ehemann im KZ war
-
-Ludwig Eichhorns Entlassungsausweis aus dem KZ Buchenwald
-
-Ludwig Eichhorn
-
-Geburtsdatum:
-
-Haft:
-
-31.10.1899
-
-24.3.1937 Frankfurt-Preungesheim, 2.9.1937-11.4.1945 Buchenwald
-
-Stolperstein Breubergstraße 26, Ludwig Eichhorn
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Alberti, Karl
-
-Bechhold, Heinrich
-
-Beisel, Johann Michael
-
-Blasius, Martha
-
-Buttler, Paul
-
-Chocholous, Sara
-
-Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek
-
-Ehrenfeld, Emil W.
-
-Eichhorn, Ludwig
-
-Gans, Ludwig von
-
-Gerhardt, Wilhelm
-
-Gerst, Ella und Gustav
-
-Greiff, Philipp
-
-Gumbmann, Wilhelm
-
-Haymann, Kläre
-
-Henrich, Helene
-
-Itzstein, Josef
-
-Klee, Ester
-
-Neumann, Hermann
-
-Oppenheimer, Gustav und Toni
-
-Pivovarczik, Helena
-
-Raab, Anton
-
-Schabinger, Heinrich
-
-Schabinger, Ludwig
-
-Schellhaas, Margarete und Schmitt, Karl
-
-Schneider, Karl
-
-Simon, Fritz und Lotte sowie Oswalt, Alfred
-
-Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil und Prochorow, Nikolai
-
-Stern, Kurt
-
-von Weinberg, Arthur
-
-von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander
-
-Weisbecker, Walter
-
-Weishaupt, Heinrich
-
-Wissenbach, Erwin
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Breubergstraße 26
 
 ## Gallery
 

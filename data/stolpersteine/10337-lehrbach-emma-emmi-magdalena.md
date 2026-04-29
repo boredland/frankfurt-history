@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Lehrbach, Emma (Emmi) Magdalena](../../images/stolpersteine/9a58d05ac8a5_hinter_den_ulmen_22.jpg)
 
-Emma Magdalena Dentzer, genannt Emmy,
-
 wurde in Albersweiler geboren. Ihr Vater war Sattler und Tapezierer. Sie war
 
 das zweite von sieben Kindern. Die Familie war evangelisch. Mit 14 Jahren ging
@@ -140,72 +138,6 @@ Lehrbach
 ,
 
 geb. Dentzer
-
-Geburtsdatum:
-
-Haft:
-
-Befreiung:
-
-8.7.1896
-
-26.1.1937 Frankfurt, 23.6.1937 Moringen, 15.12.1937 Lichtenburg,
-
-15.5.1939 Ravensbrück, Sommer 1943 Außenstellen Ravensbrück
-
-April
-
-1945
-
-Stolperstein Hinter den Ulmen 22, Emmi Lehrbach
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Berge, Ignatz
-
-Breslau, Ignatz
-
-Flörsheimer, Elli, Franziska und Jakob
-
-Froehlich, Siegfried und Rosa
-
-Gerlach, Magarethe
-
-Goldschmidt, Rosette
-
-Henle, Franz
-
-Isaac, Gustav
-
-Katz, Hanns Ludwig
-
-Keller, Ludwig, Jeruschalmis und Max
-
-Klausing, Friedrich Karl
-
-Lehrbach, Emma (Emmi) Magdalena
-
-Stern, Paula und Hermann
-
-Sternberg, Rosa
-
-Wolf, Hermann
-
-Wolfskehl, Henry
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Hinter den Ulmen 22
 
 ## Gallery
 

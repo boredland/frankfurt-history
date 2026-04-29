@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Lehrberger, Emil, Lina und Rose](../../images/stolpersteine/fb2c02134c7e_karlsruher_str_9.jpg)
 
-Emil Lehrberger
-
 Emil
 
 Lehrberger wurde in Borken, Lina Lehrberger, geb. Michel,
@@ -65,84 +63,6 @@ befindet.
 Die
 
 Stolpersteine wurden initiiert von Charles Scheidt/USA, einem Großneffen.
-
-Lina Lehrberger
-
-Emil Lehrberger
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-25.6.1880
-
-15.9.1942 Theresienstadt
-
-9.2.1943
-
-Lina Lehrberger,
-
-geb. Michel
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-25.11.1882
-
-15.9.1942 Theresienstadt, 16.5.1944 Auschwitz
-
-unbekannt
-
-Rose Lehrberger
-
-Geburtsdatum:
-
-Flucht:
-
-2.5.1916
-
-1938 USA
-
-Stolpersteine Karlsruher Straße 9 Emil Lehrberger
-
-Stolpersteine Karlsruher Straße 9 Lina Lehrberger
-
-Stolpersteine Karlsruher Straße 9 Rose Lehrberger
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Becker, Martha
-
-Grünberg, Carl und Hilde
-
-Kaufmann, Moritz Moses
-
-Lehr, Klara
-
-Lehrberger, Emil, Lina und Rose
-
-Lismann, Hermann
-
-Valfer, Frieda und Heinrich
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Karlsruher Straße 9
 
 ## Gallery
 

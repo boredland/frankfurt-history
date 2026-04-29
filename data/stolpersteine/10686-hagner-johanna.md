@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Hagner, Johanna](../../images/stolpersteine/ad59e34547dd_scheidswaldstr_41.jpg)
 
-Johanna
-
 Hagner wurde in Langendiebach als Tochter von Herz Reis und Adelinde Reis, geb.
 
 Seligmann, geboren. Sie war eine verwitwete oder geschiedene Joseph. Aus der
@@ -95,68 +93,6 @@ Stolperstein wurde initiiert von Tina Strassburg aus der Scheidswaldstraße.
 Johanna Hagner,
 
 geb. Reis
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-28.2.1878
-
-8.1.1944 Theresienstadt, 15.5.1944 Auschwitz
-
-unbekannt
-
-Stolperstein Scheidswaldstraße 41, Johanner Hagner
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baer, Rebekka, Fanny und Emil
-
-Breitinger, Anton
-
-Durlacher, Dina, Julius, Leo und Hermine
-
-Hagner, Johanna
-
-Levitus, Regina und Jossel
-
-Löwenstein, Siegfried
-
-Rothschild, Bernhard, Lina und Else
-
-Salomons, Arnold, Mina, Dagobert und Hanna
-
-Schöps, Selma
-
-Seeger, Marie
-
-Steigerwald, Abraham und Hannchen
-
-Steinhardt, Ernst und Bertha
-
-Strauss, Else
-
-Strauss, Auguste und Dina
-
-Wertheim, Paul
-
-Wohl, Lotte
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Scheidswaldstraße 41
 
 ## Gallery
 

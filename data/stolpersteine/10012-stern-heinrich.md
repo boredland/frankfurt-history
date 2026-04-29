@@ -23,52 +23,6 @@ Im Juni 1938 wird Heinrich Stern in das KZ Buchenwald verschleppt, wo er am 10.7
 
 Else Stern ist dort 1955 verstorben. Tochter Edith lebt noch in Dallas. Heinrich Sterns Bruder Sally und seiner Familie gelingt die Flucht nach Südafrika, wo sie den Holocaust überleben. Heinrich Sterns Neffe, Arthur Stern, lebt heute im Rodgau bei Frankfurt am Main.
 
-Heinrich Stern
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-21.11.1883
-
-Juni 1938 nach Buchenwald
-
-10.07.1938
-
-Stolperstein Alt Fechenheim 89 Heinrich Stern
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Ebert, Wilhelm
-
-Hahn, Gustav, Recha und Hertha
-
-Nebel, Georg
-
-Schönfeld, Hertha, Hugo, Ilsa und Paul
-
-Stern, Heinrich
-
-Strauss, Salomon, Johanna und Hedwig
-
-Weisenseel, Eugen
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Alt-Fechenheim 89
-
 ## Gallery
 
 <!-- gallery:standard -->

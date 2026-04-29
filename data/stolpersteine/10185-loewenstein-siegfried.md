@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Löwenstein, Siegfried](../../images/stolpersteine/052a91f80b8d_eulengasse_3.jpg)
 
-Siegfried Löwenstein wurde in Frankfurt am Main geboren als
-
 Sohn des Metzgers Adolf Loewenstein und von Ida Loewenstein, geb. Gruenebaum.
 
 Er besuchte die Klinger-Oberrealschule und legte anschließend das „Einjährige“
@@ -66,74 +64,6 @@ Der
 Stolperstein wurde initiiert von Alexis Passadakis, Bewohner der
 
 Eulengasse.
-
-Siegfried Löwenstein
-
-Geburtsdatum:
-
-Flucht:
-
-Internierung:
-
-Todesdatum:
-
-22.10.1893
-
-1935 Belgien
-
-1940 Gurs, Récébédou, Saint Cyprien, La Guiche
-
-17.3.1944
-
-Stolperstein Eulengasse 3, Siegfried Löwenstein
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baer, Rebekka, Fanny und Emil
-
-Breitinger, Anton
-
-Durlacher, Dina, Julius, Leo und Hermine
-
-Hagner, Johanna
-
-Levitus, Regina und Jossel
-
-Löwenstein, Siegfried
-
-Rothschild, Bernhard, Lina und Else
-
-Salomons, Arnold, Mina, Dagobert und Hanna
-
-Schöps, Selma
-
-Seeger, Marie
-
-Steigerwald, Abraham und Hannchen
-
-Steinhardt, Ernst und Bertha
-
-Strauss, Else
-
-Strauss, Auguste und Dina
-
-Wertheim, Paul
-
-Wohl, Lotte
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Eulengasse 3
 
 ## Gallery
 

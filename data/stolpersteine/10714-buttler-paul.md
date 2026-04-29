@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Buttler, Paul](../../images/stolpersteine/2994869fa8c5_schwanheimer_str_14.jpg)
 
-Paul Buttler wurde 1910
-
 in Frankfurt geboren und evangelisch getauft. Nach dem Besuch der Volksschule
 
 in Niederrad erlernte er das Schneiderhandwerk. 1931/32 arbeitete er in der
@@ -56,106 +54,6 @@ Der Stolperstein wurde initiiert vom
 Stadtteilhistoriker Robert Gilcher und finanziert von Harald Will.
 
 Paul
-
-Buttler
-
-Geburtsdatum:
-
-26.4.1910
-
-Haft:
-
-Prozess 1937, 1938-1940 F-Preungesheim und Freiendiez, danach Arbeitskommando
-
-Todesdatum:
-
-25.9.1944
-
-Stolperstein Schwanheimer Str. 14, Buttler, Paul
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Alberti, Karl
-
-Bechhold, Heinrich
-
-Beisel, Johann Michael
-
-Blasius, Martha
-
-Buttler, Paul
-
-Chocholous, Sara
-
-Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek
-
-Ehrenfeld, Emil W.
-
-Eichhorn, Ludwig
-
-Gans, Ludwig von
-
-Gerhardt, Wilhelm
-
-Gerst, Ella und Gustav
-
-Greiff, Philipp
-
-Gumbmann, Wilhelm
-
-Haymann, Kläre
-
-Henrich, Helene
-
-Itzstein, Josef
-
-Klee, Ester
-
-Neumann, Hermann
-
-Oppenheimer, Gustav und Toni
-
-Pivovarczik, Helena
-
-Raab, Anton
-
-Schabinger, Heinrich
-
-Schabinger, Ludwig
-
-Schellhaas, Margarete und Schmitt, Karl
-
-Schneider, Karl
-
-Simon, Fritz und Lotte sowie Oswalt, Alfred
-
-Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil und Prochorow, Nikolai
-
-Stern, Kurt
-
-von Weinberg, Arthur
-
-von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander
-
-Weisbecker, Walter
-
-Weishaupt, Heinrich
-
-Wissenbach, Erwin
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Schwanheimer Straße 14
 
 ## Gallery
 

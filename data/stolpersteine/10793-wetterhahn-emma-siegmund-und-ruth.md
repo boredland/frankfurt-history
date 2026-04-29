@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Wetterhahn, Emma, Siegmund und Ruth](../../images/stolpersteine/1c326157bca4_varrentrappstr_47.jpg)
 
-Ruth mit ihren Eltern Emma und Siegmund Wetterhahn
-
 Emma Wetterhahn, geborene Blumenfeld, wurde in Momberg bei Marburg geboren. Am 20. August 1923 heiratete sie in Frankfurt den Kaufmann Sigmund Wetterhahn. Dieser wurde in Rimbach geboren und lebte seit dem 3. Juni 1922 in Frankfurt. Die beiden hatten eine Tochter namens Ruth Friederike.
 
 Ruth und Emma Wetterhahn
@@ -30,126 +28,6 @@ Die Stolpersteine wurden initiiert von der Frankfurter Taxifahrerin Armgard Wise
 Klassenfoto mit Ruth Wetterhahn (6. von links vorne stehend) und Magda Schulz (rechts dahinter)
 
 Ruth Wettermann
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-9.4.1925
-
-2.3.1943 Auschwitz
-
-unbekannt
-
-Emma Wetterhahn, geb. Blumenfeld
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-7.11.1892
-
-22.11.1942 Kaunas
-
-25.11.1942
-
-Siegmund Wetterhahn
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-20.2.1892
-
-22.11.1942 Kaunas
-
-25.11.1942
-
-Stolperstein Varrentrappstraße 49 Emma Wetterhahn
-
-Stolperstein Varrentrappstraße 49 Ruth Wetterhahn
-
-Stolperstein Varrentrappstraße 49 Sigmund Wetterhahn
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie; sowie Schauss, Karoline
-
-Bär, Karl S und Gretel
-
-Bernard, Georg
-
-Bienes, Arthur, Hermine, Marion und René
-
-Breslau, Klara, Lore und Paul
-
-Brown, Hagar Martin
-
-Cohn, Richard Gerson, Margot, Kurt und Helga Jenny
-
-Finkernagel, Karl
-
-Führ, Theresa
-
-Haag, Adam
-
-Hirschmann, Hedwig, Helmut Martin und Margot
-
-Höxter, Ernst, Werner und Alma
-
-Höxter, Hilde
-
-Höxter, Walter
-
-Kell, Bernhard
-
-Lehmann, Alma Rosa, Erich Leo, Julius und Richard
-
-Maaß, Siegmund und Gertrud
-
-May, Hugo und Johanna
-
-Pawel, Martin
-
-Rosenthal, Gustav und Rosa
-
-Roth, Salomon
-
-Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz
-
-Sonntag, Paul
-
-Steinthal, Moritz
-
-Tellgmann, Gustav
-
-Wagner, Georg
-
-Weil, Linda, Henny und Ludwig
-
-Wetterhahn, Emma, Siegmund und Ruth
-
-Zamojre, Marcus, Josef und Ellinor
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Varrentrappstraße 49
 
 ## Gallery
 

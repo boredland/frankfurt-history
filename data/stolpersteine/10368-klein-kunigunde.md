@@ -17,62 +17,6 @@ Kunigunde Klein, geb. Winterstein, wurde in Döringstadt, Amt Staffelstein, gebo
 
 Die Verlegung des Stolpersteines erfolgte auf Initiative des Frauenprojektes Frankfurt –Ravensbrück des Studienkreises Deutscher Widerstand.
 
-Kunigunde Klein, geb. Winterstein
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-02.03.1884
-
-17.08.1940 nach Ravensbrück
-
-unbekannt
-
-Stolperstein Kannengießergasse 6, Kunigunde Klein
-
-Stolperstein Kannengießergasse 6, Kunigunde Klein © Initiative Stolpersteine Frankfurt am Main
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Appel, Franziska und Herta
-
-Born, Valentin
-
-Geis, Franziska und Hermann
-
-Hess, Jakob
-
-Kipp Karl
-
-Klein, Kunigunde
-
-Nohl, Emma
-
-Perlhefter, Elsa, Emil und Manfred
-
-Strauß, Josef und Robert
-
-von Halle, Siegfried, Rosa und Friedel
-
-Zuntz, Karl, Ella, Miriam, Esther und Harry
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Kannengießergasse 6
-
 ## Gallery
 
 <!-- gallery:standard -->

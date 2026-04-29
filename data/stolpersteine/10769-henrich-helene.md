@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Henrich, Helene](../../images/stolpersteine/d7639927698d_trifelsstr_4.jpg)
 
-Oppenheimer, Helene
-
 Helene „Lenchen" Henrich, geb. Oppenheimer wurde in Düsseldorf geboren. Ihre Eltern waren Jakob Oppenheimer und Minna, geb. Levy. 1920 heiratete sie den Zollsekretär Gottfried Friedrich „Fritz" Henrich aus Runkel an der Lahn. Die Ehe blieb kinderlos.
 
 Ende der zwanziger Jahre wurde Fritz Henrich nach Frankfurt in das Hauptzollamt am Dom versetzt. Das Ehepaar Henrich zog in die Trifelsstraße 4 in Frankfurt-Niederrad. Weil sich Fritz Henrich weigerte, sich von seiner jüdischen Frau zu trennen, durfte er die Zollinspektorenprüfung nicht ablegen.
@@ -34,106 +32,6 @@ Henrich, Helene
 Oppenheimer, Helene 2
 
 Todesanzeige in der Emigrantenzeitung "Aufbruch" vom August 1942
-
-Helene Henrich, geb. Oppenheimer
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-15.01.1895
-
-07.06.1943 nach Auschwitz
-
-10.07.1943
-
-Stolperstein Trifelsstaße 4 Helene Henrich
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Alberti, Karl
-
-Bechhold, Heinrich
-
-Beisel, Johann Michael
-
-Blasius, Martha
-
-Buttler, Paul
-
-Chocholous, Sara
-
-Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek
-
-Ehrenfeld, Emil W.
-
-Eichhorn, Ludwig
-
-Gans, Ludwig von
-
-Gerhardt, Wilhelm
-
-Gerst, Ella und Gustav
-
-Greiff, Philipp
-
-Gumbmann, Wilhelm
-
-Haymann, Kläre
-
-Henrich, Helene
-
-Itzstein, Josef
-
-Klee, Ester
-
-Neumann, Hermann
-
-Oppenheimer, Gustav und Toni
-
-Pivovarczik, Helena
-
-Raab, Anton
-
-Schabinger, Heinrich
-
-Schabinger, Ludwig
-
-Schellhaas, Margarete und Schmitt, Karl
-
-Schneider, Karl
-
-Simon, Fritz und Lotte sowie Oswalt, Alfred
-
-Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil und Prochorow, Nikolai
-
-Stern, Kurt
-
-von Weinberg, Arthur
-
-von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander
-
-Weisbecker, Walter
-
-Weishaupt, Heinrich
-
-Wissenbach, Erwin
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Trifelsstraße 4
 
 ## Gallery
 

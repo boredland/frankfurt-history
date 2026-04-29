@@ -27,60 +27,6 @@ Wilhelmine Kaltwasser war bereits krank aus dem Gefängnis gekommen. Ihre haftbe
 
 Die Stolpersteine wurden initiiert von den Zeugen Jehovas Frankfurt.
 
-Wilhelmine Kaltwasser, geb. Heid
-
-Geburtsdatum:
-
-Deportation:
-
-09.06.1890
-
-Haft: 25.03.1937
-
-Adam Kaltwasser
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-22.02.1891
-
-Haft: 10.03.1937 Papenburg-Walchum, Dachau, 1939 Mauthausen
-
-19.04.1940
-
-Stolperstein Ginnheimer Landstraße 198 Adam Kaltwasser
-
-Stolperstein Ginnheimer Landstraße 198 Wilhelmine Kaltwasser
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Kaltwasser, Adam und Wilhelmine
-
-Kantorowicz, Margarete, Ernst und Levita, Marion Ellen
-
-Maier, Hans
-
-Schmidt, Karoline Johanna
-
-Schmitt, Bertha, Werner, Elfriede und Johann
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Ginnheimer Landstraße 198
-
 ## Gallery
 
 <!-- gallery:standard -->

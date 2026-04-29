@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Kanne, Anna und Oechler, Anna](../../images/stolpersteine/c6490784acbb_marbachweg_328.jpg)
 
-Anna Kanne wurde in
-
 Detmold geboren und wohnte seit 1906 in Frankfurt am Main. Als Kontoristin war
 
 sie von 1907 bis 1919 in kaufmännischen Stellungen tätig. 1913 kam sie erstmals
@@ -114,108 +112,6 @@ wurden initiiert von Erika und Günter.
 Anna Oechler
 
 Anna Oechler
-
-Haftbefehl für Anna Kanne
-
-Ausweis von Anna Kanne
-
-Anna Kanne
-
-Geburtsdatum:
-
-Haft:
-
-Befreiung:
-
-19.8.1882
-
-2.12.1936
-
-Frankfurt, 23.8.1937 Moringen, 21.2.1938 Lichtenburg, 15.5.1939 Ravensbrück
-
-April 1945
-
-Anna Oechler
-
-Geburtsdatum:
-
-Haft:
-
-Befreiung:
-
-30.11.1900
-
-30.10.1936 Frankfurt, 7.7.1937 Moringen, 21.2.1938 Lichtenburg, Mai
-
-1939 Ravensbrück,
-
-Sommer 1943 Ravensbrück-Außenlager Hartzwalde
-
-April 1945
-
-Stolperstein Marbachweg 328, Anna Kanne
-
-Stolperstein Marbachweg 328, Anna Oechler
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Beicht, Karl und Edith
-
-Burgheim, Clara
-
-Cahn, Mathilde und Robert
-
-Epstein, Alice Betty und Fritz
-
-Epstein, Paul
-
-Fuchs, Nelly und Rosa Natt-Fuchs
-
-Goldstern, Susanne und Ottilie Janik
-
-Grünebaum, Rosa, Gerson und Alfred
-
-Held, Jella
-
-Hild, Willy und Frieda
-
-Hofmann, Babette und Alfred Max
-
-Kaiser, Siegmund
-
-Kanne Anna und Oechler Anna
-
-Kinderheim der Flersheim-Sichel-Stiftung
-
-Mokrauer, Fanny und Lotte
-
-Neumann, Kurt
-
-Reinheimer, Ludwig
-
-Reutlinger, Hanna, Gerd und Rolf
-
-Rosenberg, Paula
-
-Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi
-
-Westheim, Gottfried und Julius
-
-Zehden, Artur und Alma
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Marbachweg 328
 
 ## Gallery
 

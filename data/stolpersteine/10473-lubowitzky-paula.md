@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Lubowitzky, Paula](../../images/stolpersteine/e50eb0999b64_stolpersteine_loreleistr_6.jpg)
 
-Paula Lubowitzky wurde in
-
 Oberndorf am Neckar geboren. Sie wuchs mit zwei Geschwistern auf. Ihr Vater
 
 starb, als sie elf Jahre alt war. Am 21. August 1921 heiratete sie Adolf
@@ -137,110 +135,6 @@ internationalen Kongresses der Zeugen Jehovas in New York ermöglicht hat.
 Paula Lubowitzky
 
 , geb. Walheim
-
-Geburtsdatum:
-
-Haft:
-
-10.1.1884
-
-18.3.1937 Frankfurt-Preungesheim, 28.7.1937 Moringen, 21.2.1938 Lichtenburg, 15.5.1939 - 30.4.1945 Ravensbrück
-
-Stolpersteine Loreleistraße 6, Paula Lubowitzky
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Abermann, Jettchen
-
-Adler, Rosa, Sally, Alma und Claire
-
-Baum, Martha und Wallega, Erna
-
-Blumenthal, Meta und Fritz Günther
-
-Cohen, Bernhard, Theresia, Helene und Alice
-
-Cohen, David, Betti, Fritz und Paul
-
-de Beer, Ernst
-
-Ettinghausen, Berta
-
-Freudenthal, Julius, Margot und Betty
-
-Gerson, Gustav und Berta
-
-Grünspahn, Nathan, Esther Martha, Katharina und Leo
-
-Hahn, Rosa, Meta und Emanuel
-
-Hahn, Siegfried
-
-Hainebach, Emma und Lehmann, Emil
-
-Hammerschlag, Jenny
-
-Hartmann, Fritz
-
-Hartogsohn,  Carl und Hedwig
-
-Hirsch, Hugo
-
-Hirsch, Karl
-
-Horn, Georg
-
-Kahn, Ludwig und Nanette
-
-Königsberger, Jenny und Lewin, Felix, Sidonie und Henry
-
-Kühn, Hermann und Klara und Julia Hamlet
-
-Levi, Rosa und Kalmann und Frank, Else
-
-Levy, Amalie und Hugo
-
-Lubowitzky, Paula
-
-Mannheimer, Meta und David
-
-Marx, Hermann
-
-Mayer, Hermine und Gertrude
-
-Mayer, Julie
-
-Michalson, Franz
-
-Nachmann, Ludwig, Paula und Hertha
-
-Neumann, Amalie, Wolf und Herta
-
-Odenbach, Georg und Mina
-
-Schain, Josef
-
-Schuhmann, Friedrich
-
-Stern, Manfred
-
-Wehrle, Herrmann Joseph
-
-Wolff, Irma und Gerhard Julius
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Loreleistraße 6
 
 ## Gallery
 

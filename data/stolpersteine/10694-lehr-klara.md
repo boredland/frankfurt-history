@@ -21,54 +21,6 @@ Im Juli 1943 wurde sie von der Geheimen Staatspolizei verhaftet und am 30.7.1943
 
 Der Stolperstein wurde initiiert von der Evangelischen Dreikönigsgemeinde.
 
-Klara Lehr, geb. Loeb
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum
-
-09.10.1892
-
-31.01.1944 nach Auschwitz
-
-27.05.1944
-
-Stolperstein Schönstraße 6 Klara Lehr
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Becker, Martha
-
-Grünberg, Carl und Hilde
-
-Kaufmann, Moritz Moses
-
-Lehr, Klara
-
-Lehrberger, Emil, Lina und Rose
-
-Lismann, Hermann
-
-Valfer, Frieda und Heinrich
-
-<br>
-
-Initiative Stolpersteine in Frankfurt am Main
-
-Standort Stolperstein
-
-Schönstraße 6
-
 ## Gallery
 
 <!-- gallery:standard -->

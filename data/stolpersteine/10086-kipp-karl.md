@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Kipp, Karl](../../images/stolpersteine/97fe3011b40d_berliner_str_32.jpg)
 
-Karl
-
 Kipp wurde als jüngstes von neun Kindern in Schwefe bei Soest (Westfalen)
 
 geboren. Nach dem Besuch der Volksschule in Schwefe absolvierte er bei der
@@ -102,68 +100,6 @@ Stolpersteine Frankfurt am Main und finanziert von Stefan Diefenbach,
 Frankfurt.
 
 Dank an Rainer Hoffschildt (Schwullesbisches Archiv, Hannover, SARCH) für die Hinweise zum Verfolgungsschicksal von Karl Kipp.
-
-Polizeiliche Anordnung der Vorbeugungshaft für Karl Kipp
-
-Karl Kipp
-
-Geburtsdatum:
-
-27.9.1902
-
-Verurteilt
-
-§ 175
-
-Haft:
-
-8.12.1939 Frankfurt, 30.6.1940 Diez,
-
-28.1.1942 KZ Flossenbürg
-
-Todesdatum:
-
-25.4.1942
-
-Stolperstein Berliner Straße 32, Kipp, Karl
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Appel, Franziska und Herta
-
-Born, Valentin
-
-Geis, Franziska und Hermann
-
-Hess, Jakob
-
-Kipp Karl
-
-Klein, Kunigunde
-
-Nohl, Emma
-
-Perlhefter, Elsa, Emil und Manfred
-
-Strauß, Josef und Robert
-
-von Halle, Siegfried, Rosa und Friedel
-
-Zuntz, Karl, Ella, Miriam, Esther und Harry
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Berliner Straße 32
 
 ## Gallery
 

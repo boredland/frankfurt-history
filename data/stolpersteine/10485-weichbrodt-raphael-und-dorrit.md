@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Weichbrodt, Raphael und Dorrit](../../images/stolpersteine/6eabcf631d3d_mainzer_landstrasse_23.jpg)
 
-Weichbrodt, Raphael
-
 Raphael Weichbrodt wurde in Labischin bei Bromberg geboren. Er stammte aus einer jüdischen Familie, seine Eltern waren Wolf Weichbrodt und Therese, geb. Moses. Der Vater war als Kaufmann tätig, die Familie gehörte dem gutsituierten Mittelstand an. Raphael Weichbrodt war seit 1919 mit Meta, geb. Markus, geb. 20. Juni 1895 in Mühlheim/Ruhr, verheiratet. Das Ehepaar hatte zwei Töchter, die 1920 geborene Ruth und Dorrit. Raphael Weichbrodt war gehbehindert (Klumpfüße).
 
 Das Ehepaar wohnte zuerst in der Feldstraße 78, einer Dienstwohnung der Klinik, ab 1921 in der Eschersheimer Landstraße 237. Ein Jahr später zog die Familie in die Savignystraße 6 und 1926 in eine Erdgeschosswohnung in die Mainzer Landstraße 21. Im Jahr 1940 war Raphael Weichbrodt am Blittersdorfplatz 33 gemeldet.
@@ -34,84 +32,6 @@ Als 1940 Raphael Weichbrodts Werk über den „Versicherungsbetrug“ in der Sch
 Raphael Weichbrodt wurde im Mai 1942 von Frankfurt aus in den Osten deportiert, wahrscheinlich mit dem Transport vom 24. Mai 1942 in die Region Lublin nach Groß Rosen. Er wurde am 31. Mai 1942 ermordet. Seine Tochter Dorrit wurde zur selben Zeit nach Mauthausen deportiert. Für sie wurde dasselbe Todesdatum festgelegt.
 
 Die Tochter Ruth Weichbrodt, verheiratete Josel, lebte später in Sao Paulo/Brasilien. Nach ihrer 1992 bei einem Besuch in Frankfurt erfolgten Darstellung hat ihr Vater wenige Tage nach seiner Festnahme Selbstmord begangen habe. Er hätte immer Gift bei sich getragen.
-
-Raphael Weichbrodt
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-21.09.1886
-
-1942 Groß-Rossen, Mauthausen
-
-31.05.1942
-
-Dorrit Weichbrodt
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-27.09.1921
-
-1942 Mauthausen
-
-unbekannt
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander
-
-Geiss, Lina
-
-Gerlinger, Anna Lina
-
-Germann, Edmund
-
-Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen
-
-Löwensberg, Käthe sowie Mainzer, Erich, Grete, Gustav und Irma
-
-Luwisch, Etli, Arthur, Lilly und Hermann
-
-Mahler, Rudolf
-
-Ochs, Heinrich
-
-Pauli, Paula
-
-Poser Erna
-
-Schmidt-Fellner, Carola und Hermann
-
-Sommer, Ernst und Margot
-
-Steinschneider, Adolf Moritz
-
-Strauß, Josef
-
-Weichbrodt, Raphael und Dorrit
-
-Wolfgang, Toni
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Mainzer Landstraße 23
 
 ## Gallery
 

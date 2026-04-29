@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Strauss, Siegfried, Irma Irene, Doris und Mathilde](../../images/stolpersteine/f81e257c3aca_koenigsteiner-strasse-84_1.jpg)
 
-Irma und Siegfried Strauss
-
 Irma und Siegfried Strauss zogen 1932 mit dem Vater Issak und seiner Frau Frau Mathilde von der Kurmainzerstraße kommend in die Königsteiner Straße 84. Siegfried, 1903 geboren, war wie sein Vater Viehhändler.
 
 1930 hatte er Irma Isselbächer aus Limburg geheiratet. 1935 kam Töchterchen Doris Karoline zur Welt. Im Jahr zuvor erwähnte die SA Siegfried Strauss in ihrem Boykottbuch.Im Juli 1938 zog die Familie in den Sandweg um. Hier starb 1940 Issak Strauss.
@@ -24,96 +22,6 @@ Ein weiterer Umzug muss noch erfolgt sein, denn im Oktober 1940 werden Irma, Sie
 Die 70-jährige Mathilde Strauss wurde einen Monat später aus der Kantstraße 5 nach Kowno/Kaunas verschleppt und wahrscheinlich direkt nach der Ankunft am 25.11.1941 ermordet.
 
 Im April 1942 entschied die NS-Führung, die nicht arbeitsfähigen Menschen nach Chelmno zu transportieren. Siegfried starb im August 1942 mit nur 39 Jahren. Im September kam es zu weiteren Deportationen, die vor allem Kinder unter 10 Jahren betrafen. In diesen Transport nach Chelmno kam auch die 7-jährige Doris. In einem Gaswagen wurden dort alle ermordet. Ob Irma Strauss auch nach Chelmno kam oder in Lodz starb, wissen wir nicht.
-
-Mathilde Strauss, geb. Halberstadt
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-30.03.1871
-
-22.11.1941 Kaunas
-
-25.11.1941
-
-Doris Strauss
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-23.05.1935
-
-19.10.1941 Lodz, 10.09.1942 Chelmo
-
-unbekannt
-
-Irma Irene Strauss, geb. Isselbacher
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-24.11.1908
-
-19.10.1941 Lodz
-
-unbekannt
-
-Siegfried Strauss
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-20.03.1903
-
-19.10.1941 Lodz
-
-06.08.1942
-
-Stolperstein Königsteiner Straße 84 Mathilde Strauss
-
-Stolperstein Königsteiner Straße 84 Karoline Doris Strauss
-
-Stolperstein Königsteiner Straße 84 Irma Strauss
-
-Stolperstein Königsteiner Straße 84 Siegfried Strauss
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Hartogsohn, Carl und Hedwig
-
-Kahn, Elias
-
-Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette
-
-Strauss, Siegfried, Irma Irene, Doris und Mathilde
-
-Zakowski, Josef und Elisabeth
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Königsteiner Straße 84
 
 ## Gallery
 

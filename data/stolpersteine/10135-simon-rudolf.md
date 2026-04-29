@@ -58,44 +58,6 @@ Evangelischen Auferstehungsgemeinde, Volker
 
 Hofmann, hielt eine Ansprache.
 
-Rudolf Simon
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-1.8.1901
-
-9.3.1943 Auschwitz, Buchenwald
-
-1.3.1945
-
-Stolperstein Damaschkeanger 128 Rudolf Simon
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Ege, Albrecht
-
-Simon, Rudolf
-
-Zins, Selma
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Damaschkeanger 128
-
 ## Gallery
 
 <!-- gallery:standard -->

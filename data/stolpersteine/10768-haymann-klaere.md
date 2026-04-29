@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Haymann, Kläre](../../images/stolpersteine/d86ef26be110_treburer_str_25_neu.jpg)
 
-Kläre Haymann war die
-
 Tochter des Frauenarztes Alfred Haymann und seiner Frau Martha. Sie wuchs in
 
 Wiesbaden auf, studierte Medizin in Heidelberg, München und Freiburg. Nach
@@ -132,104 +130,6 @@ Der Stolperstein wurde initiiert vom
 Stadtteilhistoriker Robert Gilcher und finanziert von Juliana Schwachhöfer.
 
 Kläre
-
-Haymann
-
-Geburtsdatum:
-
-16.05.1897
-
-Flucht:
-
-1933
-
-Spanien, 1937 Argentinien
-
-Stolperstein Treburer Straße 25, Haymann, Kläre
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Alberti, Karl
-
-Bechhold, Heinrich
-
-Beisel, Johann Michael
-
-Blasius, Martha
-
-Buttler, Paul
-
-Chocholous, Sara
-
-Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek
-
-Ehrenfeld, Emil W.
-
-Eichhorn, Ludwig
-
-Gans, Ludwig von
-
-Gerhardt, Wilhelm
-
-Gerst, Ella und Gustav
-
-Greiff, Philipp
-
-Gumbmann, Wilhelm
-
-Haymann, Kläre
-
-Henrich, Helene
-
-Itzstein, Josef
-
-Klee, Ester
-
-Neumann, Hermann
-
-Oppenheimer, Gustav und Toni
-
-Pivovarczik, Helena
-
-Raab, Anton
-
-Schabinger, Heinrich
-
-Schabinger, Ludwig
-
-Schellhaas, Margarete und Schmitt, Karl
-
-Schneider, Karl
-
-Simon, Fritz und Lotte sowie Oswalt, Alfred
-
-Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil und Prochorow, Nikolai
-
-Stern, Kurt
-
-von Weinberg, Arthur
-
-von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander
-
-Weisbecker, Walter
-
-Weishaupt, Heinrich
-
-Wissenbach, Erwin
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Treburer Straße 25
 
 ## Gallery
 

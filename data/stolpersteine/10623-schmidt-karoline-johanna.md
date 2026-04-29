@@ -89,50 +89,6 @@ Karoline Johanna Schmidt
 
 , geb. Müller
 
-Geburtsdatum:
-
-21.4.1886
-
-Eingewiesen:
-
-6.2.1925-26.2.1942 Eichberg,
-
-26.2.1942 Hadamar
-
-Todesdatum:
-
-26.2.1942,
-
-"AktionT4"
-
-Stolperstein Raimundstraße 68, Schmidt, Karoline Johanna
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Kaltwasser, Adam und Wilhelmine
-
-Kantorowicz, Margarete, Ernst und Levita, Marion Ellen
-
-Maier, Hans
-
-Schmidt, Karoline Johanna
-
-Schmitt, Bertha, Werner, Elfriede und Johann
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Raimundstraße 68
-
 ## Gallery
 
 <!-- gallery:standard -->

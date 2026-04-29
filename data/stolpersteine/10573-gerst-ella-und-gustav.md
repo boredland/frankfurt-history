@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Gerst, Ella und Gustav](../../images/stolpersteine/9f09d646cccd_niederraeder_landstr_36.jpg)
 
-Gustav Gerst wurde in
-
 Bamberg in Oberfranken als Sohn des Hopfenhändlers Simon Gerst (1839-1915) und
 
 seiner Frau Marie Gerst, geb. Biermann (1848-1928), geboren. Er wuchs mit zwei
@@ -250,118 +248,6 @@ Die Stifter-Tafel am Goetheturm
 Mit der Familie Gerst eng verbunden: William Bill Rudolf mit seiner Tochter Margaret und Enkel Alex
 
 Gustav
-
-Gerst
-
-Geburtsdatum:
-
-15.08.1871
-
-Flucht:
-
-26.4.1939 Schweden
-
-Ella
-
-Gerst
-
-, geb. Tietz
-
-Geburtsdatum:
-
-06.01.1881
-
-Flucht:
-
-26.4.1939 Schweden
-
-Stolperstein Niederräder Landstraße 36, Gerst, Gustav
-
-Stolperstein Niederräder Landstraße 36, Gerst, Ella
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Alberti, Karl
-
-Bechhold, Heinrich
-
-Beisel, Johann Michael
-
-Blasius, Martha
-
-Buttler, Paul
-
-Chocholous, Sara
-
-Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek
-
-Ehrenfeld, Emil W.
-
-Eichhorn, Ludwig
-
-Gans, Ludwig von
-
-Gerhardt, Wilhelm
-
-Gerst, Ella und Gustav
-
-Greiff, Philipp
-
-Gumbmann, Wilhelm
-
-Haymann, Kläre
-
-Henrich, Helene
-
-Itzstein, Josef
-
-Klee, Ester
-
-Neumann, Hermann
-
-Oppenheimer, Gustav und Toni
-
-Pivovarczik, Helena
-
-Raab, Anton
-
-Schabinger, Heinrich
-
-Schabinger, Ludwig
-
-Schellhaas, Margarete und Schmitt, Karl
-
-Schneider, Karl
-
-Simon, Fritz und Lotte sowie Oswalt, Alfred
-
-Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil und Prochorow, Nikolai
-
-Stern, Kurt
-
-von Weinberg, Arthur
-
-von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander
-
-Weisbecker, Walter
-
-Weishaupt, Heinrich
-
-Wissenbach, Erwin
-
-Initiative Stolpersteine
-
-Stolpersteine Standorte
-
-Niederräder Landstraße 36
 
 ## Gallery
 

@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Katz, Hanns Ludwig](../../images/stolpersteine/2a5a5fb9871e_am_kirchberg_27.jpg)
 
-Hanns
-
 Ludwig Katz wurde in Karlsruhe geboren. Sein Vater Julius Katz war Redakteur in
 
 München, später dann als politischer Redakteur für das „Politische Journal“ in
@@ -151,70 +149,6 @@ Dachwohnung in der Großen Friedberger Straße 27
 Hanns Ludwig Katz in Johannesburg
 
 Grab in Johannesburg
-
-Hanns Ludwig Katz
-
-Geburtsdatum:
-
-Flucht:
-
-Todesdatum:
-
-24.7.1892
-
-1936 Südafrika
-
-17.11.1940
-
-Stolperstein Am Kirchberg 27, Hans Ludwig Katz
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Berge, Ignatz
-
-Breslau, Ignatz
-
-Flörsheimer, Elli, Franziska und Jakob
-
-Froehlich, Siegfried und Rosa
-
-Gerlach, Magarethe
-
-Goldschmidt, Rosette
-
-Henle, Franz
-
-Isaac, Gustav
-
-Katz, Hanns Ludwig
-
-Keller, Ludwig, Jeruschalmis und Max
-
-Klausing, Friedrich Karl
-
-Lehrbach, Emma (Emmi) Magdalena
-
-Stern, Paula und Hermann
-
-Sternberg, Rosa
-
-Wolf, Hermann
-
-Wolfskehl, Henry
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Am Kirchberg 27
 
 ## Gallery
 

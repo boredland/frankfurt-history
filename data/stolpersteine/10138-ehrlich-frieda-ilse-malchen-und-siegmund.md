@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Ehrlich, Frieda, Ilse, Malchen und Siegmund](../../images/stolpersteine/45bb9af02cb2_deuil-la-barre-strasse_44.jpg)
 
-Siegmund
-
 Ehrlich wurde 1879 in Nieder-Eschbach als zweites Kind von Jonas Ehrlich und
 
 dessen Ehefrau Friederike, geb. Strauß, geboren. Drei Jahre zuvor, am 5. Juli
@@ -214,96 +212,6 @@ sowie von Dr. Hansjörg Ast.
 Nazi-Aufmarsch in der Borngasse in Nieder-Eschbach
 
 Nieder-Eschbach: Umzug unter Hakenkreuzfahnen
-
-Siegmund Ehrlich
-
-Geburtsdatum:
-
-2.8.1879
-
-Haft:
-
-3.2.-3.5.1936
-
-Gießen,
-
-Juni-Juli
-
-1938 KZ Sachsenhausen
-
-Flucht:
-
-10.10.1938 USA
-
-Malchen Ehrlich
-
-, geb.
-
-Grünebaum
-
-Geburtsdatum:
-
-.2.1879
-
-Flucht:
-
-18.10.1938 USA
-
-Frieda Ehrlich
-
-Geburtsdatum:
-
-27.6.1910
-
-Flucht:
-
-29.8.1935 USA
-
-I
-
-lse Ehrlich
-
-Geburtsdatum:
-
-17.12.1913
-
-Flucht:
-
-6.8.1935
-
-USA
-
-Stolperstein Deuil-la-Barre-Straße 44, Ehrlich, Frieda
-
-Stolperstein Deuil-la-Barre-Straße 44, Ehrlich, Ilse
-
-Stolperstein Deuil-la-Barre-Straße 44, Ehrlich, Malchen
-
-Stolperstein Deuil-la-Barre-Straße 44, Ehrlich, Siegmund
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Bruder, Karl
-
-Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf
-
-Ehrlich, Siegmund, Malchen, Frieda und Ilse
-
-Müller, Sidonie
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Deuil-la-Barre-Straße 44
 
 ## Gallery
 

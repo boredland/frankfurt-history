@@ -23,40 +23,6 @@ Nach etwa fünfeinhalb Monaten kam Erich Altmann am 13. Oktober 1944 in das KZ S
 
 In Buchenwald starb Erich Altmann laut Häftlingspersonalkarte aus Buchenwald an "Herzinnenwandentzündung bei Lungentuberkulose“. Von Herbert Holzmann, einem Höchster, der als 17-Jähriger im Rahmen des Novemberpogroms 1938 nach Buchenwald verschleppt wurde, wissen wir, dass in Buchenwald auch medizinische Versuche durchgeführt und Tuberkulinbakterien gespritzt wurden; er hatte sein Leben lang unter dieser Krankheit zu leiden. Erich Altmanns Asche wurde an die Familie geschickt.
 
-Erich Andreas Altmann
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-10.08.1916
-
-Mai 1944 Sachsenhausen, Buchenwald
-
-24.02.1945
-
-Stolperstein Küferstraße 3 Erich Altmann
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Altmann, Erich
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Küferstraße 3
-
 ## Gallery
 
 <!-- gallery:standard -->

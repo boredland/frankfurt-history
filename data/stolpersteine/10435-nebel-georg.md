@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Nebel, Georg](../../images/stolpersteine/8142ae7f34f3_lachnerstr_4.jpg)
 
-Der  Schreiner
-
 Georg Nebel gehörte zu den zahlreichen Frankfurter Kommunisten, die schon 1933 festgenommen
 
 und inhaftiert wurden. Er arbeitete damals in einer Schreinerei in Fechenheim,
@@ -117,56 +115,6 @@ Dinges gibt in seinem Bericht von 1972 auch zu Protokoll, Gulbinat habe sich
 beim „Arisieren“ beteiligt und bei jüdischen Familien Möbel beschlagnahmt,
 
 die  Georg Nebel für ihn aufarbeitete.
-
-Georg Nebel
-
-Geburtsdatum:
-
-Haft:
-
-Todesdatum:
-
-7.8.1896
-
-1937
-
-Dachau, 30.4.1941 F-Preungesheim Brandenburg-Görden
-
-14.8.1944,
-
-Hinrichtung
-
-Stolperstein Lachner Straße 4 Georg Nebel
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Ebert, Wilhelm
-
-Hahn, Gustav, Recha und Hertha
-
-Nebel, Georg
-
-Schönfeld, Hertha, Hugo, Ilsa und Paul
-
-Stern, Heinrich
-
-Strauss, Salomon, Johanna und Hedwig
-
-Weisenseel, Eugen
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Lachnerstraße 4
 
 ## Gallery
 

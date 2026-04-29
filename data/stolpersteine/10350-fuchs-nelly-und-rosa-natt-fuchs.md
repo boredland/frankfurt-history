@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Fuchs, Nelly und Rosa Natt-Fuchs](../../images/stolpersteine/a9cb986dc4c6_huegelstr_115.jpg)
 
-Nelly Fuchs (ganz rechts)
-
 Nelly Fuchs wurde in Chemnitz geboren, sie war eine Tochter aus der ersten Ehe von Rosa Natt-Fuchs mit dem Fabrikanten Alfred Fuchs. Sie hatte eine 1895 geborene Schwester. Nelly Fuchs besuchte die Elisabethenschule. Ab 1908 arbeitete sie als Lehrerin im Stadtschuldienst. Sie erteilte Musikunterricht an der Liebfrauen-, Schiller-, Dahlmann-, Battonn-, Holbein-, Deutschherren- sowie an der Niederurseler Schule. Von 1914 bis 1933 war sie Lehrerin an der Merianschule.
 
 Nelly Fuchs (in der Mitte)
@@ -32,94 +30,6 @@ In der Burgstraße 21 erinnert seit 1989 eine Gedenktafel an jüdische Lehrer de
 In der Merianstraße erinnert seit 1989 eine Gedenktafel an Nelly Fuchs:
 
 „Hier unterrichteten eine jüdische Lehrerin, Nelly Fuchs, geb.1891, und 2 jüdische Lehrer, Aron Albrecht, geb.1885, Carl Beicht, geb.1895. Sie wurden unter der nationalsozialistischen Gewaltherrschaft im Jahre 1942 in ein Konzentrationslager verschleppt und ermordet. Zur Erinnerung an den November-Pogrom 1938 Frankfurt am Main im Jahre 1988“.
-
-Nelly Fuchs
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-14.07.1891
-
-06.05.1942 Region Lublin
-
-unbekannt
-
-Rosa Natt-Fuchs, geb. Ohlmann
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-24.02.1864
-
-18.08.1942 Theresienstadt
-
-12.09.1942
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Beicht, Karl und Edith
-
-Burgheim, Clara
-
-Cahn, Mathilde und Robert
-
-Epstein, Alice Betty und Fritz
-
-Epstein, Paul
-
-Fuchs, Nelly und Rosa Natt-Fuchs
-
-Goldstern, Susanne und Ottilie Janik
-
-Grünebaum, Rosa, Gerson und Alfred
-
-Held, Jella
-
-Hild, Willy und Frieda
-
-Hofmann, Babette und Alfred Max
-
-Kaiser, Siegmund
-
-Kanne Anna und Oechler Anna
-
-Kinderheim der Flersheim-Sichel-Stiftung
-
-Mokrauer, Fanny und Lotte
-
-Neumann, Kurt
-
-Reinheimer, Ludwig
-
-Reutlinger, Hanna, Gerd und Rolf
-
-Rosenberg, Paula
-
-Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi
-
-Westheim, Gottfried und Julius
-
-Zehden, Artur und Alma
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Hügelstraße 115
 
 ## Gallery
 

@@ -47,48 +47,6 @@ am 29. April 1944 in Dachau eingeäschert.
 
 Der Stolperstein wurde initiiert von Peter Hankiewicz, Sossenheim.
 
-Johann Josef Weber
-
-Geburtsdatum:
-
-Haft:
-
-Todesdatum:
-
-29.12.1893
-
-1936 Gefängnis Klapperfeld, „Hochverrat“ 1937–1942 Zuchthaus
-
-Freiendiez, Butzbach, Kassel-Wehlheiden, 3.9.1942 KZ Dachau
-
-25.4.1944
-
-Stolperstein Michaelstraße 66, Johann Josef Weber
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Allfeld, Dora, Hans und Walter
-
-Roth, Mathilde
-
-Weber, Johann Josef
-
-Weinreiter, Josef
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Michaelstraße 66
-
 ## Gallery
 
 <!-- gallery:standard -->

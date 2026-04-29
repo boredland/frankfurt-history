@@ -37,60 +37,6 @@ Bei der Verlegung des Stolpersteins anwesend waren seine Nichten Eva Pelkner aus
 
 Im Rahmen der Frankfurter "Neuen Altstadt" wurde die originale Adresse von Jakob Hess, "Hinter dem Lämmchen 4", rekonstruiert. Der zuvor vor dem Technischen Rathaus verlegte Stein konnte nun an den Ort des letzten freiwilligen Wohnorts überführt werden. Bei der erneuten "Enthüllung" des Steins am 09.05.2018 war sein 90-jährige Bruder Heinrich anwesend.
 
-Jakob Hess
-
-Geburtsdatum:
-
-Einweisung:
-
-Todesdatum:
-
-07.04.1916
-
-1934 in "Heilanstalt" Idstein-Kalmenhof
-
-19.08.1939
-
-Stolperstein Hinter dem Lämmchen 4, Jakob Hess
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Appel, Franziska und Herta
-
-Born, Valentin
-
-Geis, Franziska und Hermann
-
-Hess, Jakob
-
-Kipp Karl
-
-Klein, Kunigunde
-
-Nohl, Emma
-
-Perlhefter, Elsa, Emil und Manfred
-
-Strauß, Josef und Robert
-
-von Halle, Siegfried, Rosa und Friedel
-
-Zuntz, Karl, Ella, Miriam, Esther und Harry
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Hinter dem Lämmchen 4
-
 ## Gallery
 
 <!-- gallery:standard -->

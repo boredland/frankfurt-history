@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Klausing, Friedrich Karl](../../images/stolpersteine/fe4972acca03_willibrachtstr_13.jpg)
 
-Friedrich Karl Klausing wurde
-
 in München geboren als Sohn von Friedrich Klausing
 
 und Marie-Sibylle; geborene
@@ -142,70 +140,6 @@ Sabine Hock: Klausing, Friedrich Karl. In: Frankfurter Personenlexikon: http://f
 Friedrich Karl Klausing
 
 Friedrich Karl Klausing vor dem Volksgerichtshof, 7. August 1944
-
-Friedrich Karl Klausing
-
-Geburtsdatum:
-
-24.5.1920
-
-Widerstand:
-
-20.7.1944
-
-Todesdatum:
-
-8.8.1944
-
-Stolperstein Willibrachtstraße 13, Klausing, Friedrich Karl
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Berge, Ignatz
-
-Breslau, Ignatz
-
-Flörsheimer, Elli, Franziska und Jakob
-
-Froehlich, Siegfried und Rosa
-
-Gerlach, Magarethe
-
-Goldschmidt, Rosette
-
-Henle, Franz
-
-Isaac, Gustav
-
-Katz, Hanns Ludwig
-
-Keller, Ludwig, Jeruschalmis und Max
-
-Klausing, Friedrich Karl
-
-Lehrbach, Emma (Emmi) Magdalena
-
-Stern, Paula und Hermann
-
-Sternberg, Rosa
-
-Wolf, Hermann
-
-Wolfskehl, Henry
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Willibrachtstraße 13
 
 ## Gallery
 

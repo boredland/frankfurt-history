@@ -190,62 +190,6 @@ Triebel. Lebensbilder zum kommunistischen Widerstand gegen den
 
 Nationalsozialismus in Frankfurt/Main
 
-Josef Zakowski
-
-Geburtsdatum:
-
-Haft:
-
-Todesdatum:
-
-12.2.1895
-
-31.8.-2.9.1936 Frankfurt Polizeigefängnis, 16.9.1936 Gefängnis Hammelsgasse 6-10
-
-25./26.11.1936
-
-Elisabeth Zakowski
-
-geb. Triebel
-
-Geburtsdatum:
-
-Haft:
-
-18.2.1897
-
-6.9.1936-6.3.1940, Frauenstrafanstalt Aichach
-
-Stolpersteine Karl-König-Straße 36, Josef Zakowski
-
-Stolpersteine Karl-König-Weg 36, Elisabeth Zakowski
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Hartogsohn, Carl und Hedwig
-
-Kahn, Elias
-
-Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette
-
-Strauss, Siegfried, Irma Irene, Doris und Mathilde
-
-Zakowski, Josef und Elisabeth
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Karl-König-Weg 36
-
 ## Gallery
 
 <!-- gallery:standard -->

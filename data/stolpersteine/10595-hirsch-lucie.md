@@ -21,50 +21,6 @@ Im Januar 1939 zogen Lucie und Willy Hirsch in die Oeserstraße 54, in das Haus,
 
 Eine Zeitzeugin berichtete, dass Lucie Hirsch im März 1942 in der Oeserstraße „abgeholt" wurde. Dr. Kahn habe ihr etwas gegeben, das sie in den Rocksaum einnähte. „Wenn du es nicht mehr ertragen kannst, dann nimm das", habe er gesagt. Im Melderegister steht: „14.03.42 ausgewandert, Herkunftsland nicht bekannt, auch Zeugnis nach Cuba". Zu dieser Emigration konnte es nicht mehr kommen. Durch den Angriff der Japaner auf Pearl Harbor Ende 1941 und den Kriegseintritt der USA, konnten keine Schiffe mehr über den Atlantik verkehren. Am 01.06.1942 wurde das Vermögen von Lucie Hirsch zu Gunsten des Reiches eingezogen und „verwertet", wie dieser Raub genannt wurde.
 
-Lucie Hirsch, geb. Mayer
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-25.02.1892
-
-Mai 1942 in Region Lublin
-
-unbekannt
-
-Stolperstein Oeserstraße 54 Lucie Hirsch
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Bender, Helene und Georg
-
-Heps, Heinrich
-
-Herger, Therese, Henriette und Alfred
-
-Hirsch, Lucie
-
-Kahn, Carl und Jenny
-
-Salomon, Walter, Amalie, Hannelore und Lutz
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Oeserstraße 54
-
 ## Gallery
 
 <!-- gallery:standard -->

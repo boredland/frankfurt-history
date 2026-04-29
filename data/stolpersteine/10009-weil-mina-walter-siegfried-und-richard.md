@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Weil, Mina, Walter Siegfried und Richard](../../images/stolpersteine/a396da56a539_stolpersteine_alt-bergen_6.jpg)
 
-Mina (Minna) Weil
-
 wurde in Bergen als Tochter des Pferdehändlers Herrmann Heß und dessen zweiter
 
 Ehefrau Zerline Hirsch geboren. Seit dem 22. März 1918 war sie mit dem Maler
@@ -58,108 +56,6 @@ wurden Mina Weil und ihre 11- und 13-jährige Söhne sofort nach der
 Ankunft ermordet.
 
 Minna Weil am Tag der Deportation mit ihren beiden Söhnen Walter Siegfried und Richard auf dem Bahnhof in Hanau
-
-Walter Siegfried  Weil
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-21.1.1928
-
-30.5.1942 nach Region Lublin und Sobiborr
-
-unbekannt
-
-Richard  Weil
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-09.11.1930
-
-30.5.1942 nach Region Lublin und Sobibor
-
-unbekannt
-
-Mina  Weil
-
-, geb. Heß
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-25.3.1890
-
-30.5.1942 nach Region Lublin und Sobibor
-
-unbekannt
-
-Stolperstein für Mina Weil, Alt-Bergen 6
-
-Stolperstein für Walter Siegfried Weil, Alt-Bergen 6
-
-Stolperstein für Richard Weil, Alt-Bergen 6
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Ehrmann, Leopold und Henny
-
-Grünebaum, Emma und Bella
-
-Hahn, Emma und Hermann
-
-Hahn, Frieda und Jenny
-
-Hahn, Karoline
-
-Hess, Johanna und Raphael Rudolf
-
-Heß, Jettchen, Klara und Nathan
-
-Heß, Paula
-
-Hirsch, Frieda, Jettchen, Joachim und Wilhelm
-
-Hirsch, Johanna und Otto
-
-Hirsch, Rosa und Friedrich Nathan
-
-Metz, Johannes Ludwig
-
-Levi, Sophie und Emil
-
-Schäfer, Jean Karl
-
-Seligmann, Ella und Meier
-
-Strauss, Emma und Moritz
-
-Strauss, Julius
-
-Weil, Mina, Walter Siegfried und Richard
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Alt Bergen 6
 
 ## Gallery
 

@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Mayer, Balthasar](../../images/stolpersteine/92a30f152726_fabriciusstr_11.jpg)
 
-Luzerner Resolution
-
 Adolf Krämer aus Frankfurt-Höchst arbeitete mit dem Ehepaar Mayer bei der Verteilung der „Luzerner Resolution“ zusammen, die am 12. Dezember 1936 um 17.00 Uhr zeitgleich im ganzen Reichsgebiet verteilt wurde. Mit dieser Protestaktion machten sie die Öffentlichkeit auf die grausame Misshandlung der Zeugen Jehovas und anderer Verfolgtengruppen aufmerksam und forderten das NS-Regime in scharfen Worten auf, diese brutalen Übergriffe einzustellen. Das Ehepaar Krämer wurde während der Aktion nicht gefasst. Anders jedoch das Ehepaar Mayer. Hausbewohner hatten Balthasar Mayer während der Verteilung der Resolution in der Elektronstraße, der Fabriciusstraße und auch  in Alt-Griesheim angezeigt. Die Ortsgruppe der NSDAP wurde benachrichtigt, stellte Nachforschungen an und fand  noch weitere Umschläge mit der Resolution in den Briefkästen. Noch am gleichen Abend nahm man das Ehepaar Mayer fest und durchsuchte ihre Wohnung und ihre Gartenlaube.
 
 Von der Verhaftung der Mayers war auch ihre 12jährige Nichte betroffen, die bei ihnen lebte. Sie wurde tags darauf zu einem Bruder von Balthasar Mayer gebracht. Am 4. Juni 1937 verhandelte das Sondergericht in Frankfurt gegen Balthasar und Elisabeth Mayer und andere. Balthasar Mayer wurde „wegen illegaler Betätigung für die IBV [Internationale Bibelforscher Vereinigung]“ zu zehn Monaten Gefängnis verurteilt, die er im Strafgefängnis Frankfurt-Preungesheim und im Gerichtsgefängnis Frankfurt-Höchst verbüßte. Bei seiner Entlassung am 4. Januar 1938 wurde er sofort der Polizei überstellt und am 20. Januar 1938 ins KZ Buchenwald verschleppt. Dort musste er alle persönlichen Dinge abgeben, selbst Schuhe und Unterwäsche. Nach 15 Monaten wurde er am 20. April 1939 entlassen – offenbar nachdem er eine Verpflichtungserklärung abgegeben hatte, dass er sich nicht weiter als Bibelforscher betätigen würde.
@@ -26,50 +24,6 @@ Am 10. April 1943 verhaftete man Balthasar Mayer erneut für einen angeblichen �
 Das Sondergericht Frankfurt verurteilte ihn am 5. Juli 1943 zu acht Monaten Gefängnis, die er in Frankfurt-Preungesheim verbüßte. Bei der Aufnahmeuntersuchung wurden „keine gesundheitlichen Mängel festgestellt“ – mit einem Gewicht von 48 kg bei 156 cm Körpergröße. Außerdem wurde untersucht, ob er „vollzugstauglich, einzelhafttauglich, arbeitsfähig und moorarbeitsfähig“ sei. Die Gestapo übernahm ihn am 10. Dezember 1943 und lieferte ihn im Januar 1944 ins KZ Dachau ein. Als Todesursache wurde dort „Herzmuskelschwäche“ eingetragen. Der Stolperstein wurde initiiert von den Zeugen Jehovas,  Frankfurt.
 
 Liste aus Buchenwald
-
-Balthasar Mayer
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-07.08.1878
-
-Verhaftung: 1936 Frankfurt, 1938 Buchenwald, 1943 Dachau
-
-22.01.1945
-
-Stolperstein Fabriciusstraße 11 Balthasar Mayer
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baum, Clara, Käthe und Salomon
-
-Krämer, Adolf
-
-Mayer, Balthasar
-
-Mayer, Elisabeth
-
-Rosenblum, Josef Simon
-
-Schmidt, Heinrich
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Fabriciusstraße 11
 
 ## Gallery
 

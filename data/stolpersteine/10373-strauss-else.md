@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Strauss, Else](../../images/stolpersteine/12c7e85b86de_karl-flesch-str_27.jpg)
 
-Else
-
 Elisabeth Strauss wurde in Offenbach geboren. Sie war die Tochter des
 
 Frankfurter Kaufmanns Siegfried Strauss und seiner Frau Flora, geb. Liffmann.
@@ -50,72 +48,6 @@ der Deutschen Bank.
 Schreiben an die Geschäftsleitung der Deutschen Bank
 
 Else
-
-Elisabeth Strauss
-
-Geburtsdatum:
-
-30.7.1896
-
-Deportation:
-
-18.8.1942
-
-Theresienstadt
-
-Todesdatum:
-
-29.1.1943
-
-Stolperstein Karl-Flesch-Straße 27, Strauss, Else
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baer, Rebekka, Fanny und Emil
-
-Breitinger, Anton
-
-Durlacher, Dina, Julius, Leo und Hermine
-
-Hagner, Johanna
-
-Levitus, Regina und Jossel
-
-Löwenstein, Siegfried
-
-Rothschild, Bernhard, Lina und Else
-
-Salomons, Arnold, Mina, Dagobert und Hanna
-
-Schöps, Selma
-
-Seeger, Marie
-
-Steigerwald, Abraham und Hannchen
-
-Steinhardt, Ernst und Bertha
-
-Strauss, Else
-
-Strauss, Auguste und Dina
-
-Wertheim, Paul
-
-Wohl, Lotte
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Karl-Flesch-Straße 27
 
 ## Gallery
 

@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Wolfgang, Toni](../../images/stolpersteine/aeff0714cbe8_wilhelm-leuschner-str_12.jpg)
 
-Ernst Jakob Wolfgang
-
 Toni Wolfgang wurde in Weilburg geboren und lebte
 
 seit 1898 in Frankfurt am Main. Am 25. November 1897 heiratete sie in Weilburg
@@ -145,70 +143,6 @@ Paula und Ernst Jakob Wolfgang
 Toni Wolfgang,
 
 geb. Feist
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-2.10.1875
-
-1.9.1942 Theresienstadt
-
-8.5.1943
-
-Stolperstein Wilhelm-Leuschner-Straße 12 Toni Wolfgang
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander
-
-Geiss, Lina
-
-Gerlinger, Anna Lina
-
-Germann, Edmund
-
-Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen
-
-Löwensberg, Käthe sowie Mainzer, Erich, Grete, Gustav und Irma
-
-Luwisch, Etli, Arthur, Lilly und Hermann
-
-Mahler, Rudolf
-
-Ochs, Heinrich
-
-Pauli, Paula
-
-Poser Erna
-
-Schmidt-Fellner, Carola und Hermann
-
-Sommer, Ernst und Margot
-
-Steinschneider, Adolf Moritz
-
-Strauß, Josef
-
-Weichbrodt, Raphael und Dorrit
-
-Wolfgang, Toni
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Wilhelm-Leuschner-Straße 12
 
 ## Gallery
 

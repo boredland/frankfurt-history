@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Perlhefter, Emil, Elsa und Manfred](../../images/stolpersteine/5e05d57dbf6c_fahrgasse_6.jpg)
 
-Emil
-
 Perlhefter wurde in Frankfurt-Rödelheim als Sohn des
 
 Händlers und Schriftsetzers Samuel Perlhefter von Emma Perlhefter, geb. Jonas,
@@ -93,98 +91,6 @@ Bei der
 Verlegung anwesend waren Petra Weber, Klaus-Dieter Perlhefter sowie Annette und
 
 Sepp Gürster, Landshut.
-
-Emil Perlhefter
-
-Geburtsdatum:
-
-Haft:
-
-Deportation:
-
-Todesdatum:
-
-27.2.1905
-
-13.11.1938 - 20.2.1939
-
-Mai 1942
-
-unbekannt
-
-Elsa Perlhefter,
-
-geb. Levi
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-24.7.1903
-
-Mai 1942
-
-unbekannt
-
-Manfred Perlhefter
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-28.11.1936
-
-Mai 1942
-
-unbekannt
-
-Stolpersteine Fahrgasse 6 (12), Emil Perlhefter
-
-Stolpersteine Fahrgasse 6 (12), Elsa Perlhefter
-
-Stolpersteine Fahrgasse 6 (12), Manfred Perlhefter
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Appel, Franziska und Herta
-
-Born, Valentin
-
-Geis, Franziska und Hermann
-
-Hess, Jakob
-
-Kipp Karl
-
-Klein, Kunigunde
-
-Nohl, Emma
-
-Perlhefter, Elsa, Emil und Manfred
-
-Strauß, Josef und Robert
-
-von Halle, Siegfried, Rosa und Friedel
-
-Zuntz, Karl, Ella, Miriam, Esther und Harry
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Fahrgasse 6 (12)
 
 ## Gallery
 

@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Maaß, Siegmund und Gertrud](../../images/stolpersteine/dabe96d0c779_leipziger_strasse_34.jpg)
 
-Siegmund
-
 Maaß wurde als Sohn von Alexander Maaß, Goldschmied und Juwelier (1841-1924) und
 
 Johanna Hess (1831-1915) in Friedberg geboren. Er war Kaufmann und Inhaber der
@@ -86,114 +84,6 @@ der Nationalsozialismus die Lebensgrundlage beider zerstörte.
 Die Stolpersteine wurden
 
 initiiert von der Frankfurter Rudergemeinschaft Germania.
-
-Siegmund Maaß
-
-Geburtsdatum:
-
-27.3.1869
-
-Deportation:
-
-Juli 1942 Theresienstadt, September 1942
-
-Treblinka
-
-Todesdatum:
-
-unbekannt
-
-Gertrud Maaß, geb. Heidenfeld
-
-Geburtsdatum:
-
-15.4.1876
-
-Flucht:
-
-Februar 1941 Shanghai
-
-Todesdatum:
-
-30.12.1941
-
-Stolperstein Leipziger Straße 34, Maaß, Siegmund
-
-Stolperstein Leipziger Straße 34, Maaß, Gertrud
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie; sowie Schauss, Karoline
-
-Bär, Karl S und Gretel
-
-Bernard, Georg
-
-Bienes, Arthur, Hermine, Marion und René
-
-Breslau, Klara, Lore und Paul
-
-Brown, Hagar Martin
-
-Cohn, Richard Gerson, Margot, Kurt und Helga Jenny
-
-Finkernagel, Karl
-
-Führ, Theresa
-
-Haag, Adam
-
-Hirschmann, Hedwig, Helmut Martin und Margot
-
-Höxter, Ernst, Werner und Alma
-
-Höxter, Hilde
-
-Höxter, Walter
-
-Kell, Bernhard
-
-Lehmann, Alma Rosa, Erich Leo, Julius und Richard
-
-Maaß, Siegmund und Gertrud
-
-May, Hugo und Johanna
-
-Pawel, Martin
-
-Rosenthal, Gustav und Rosa
-
-Roth, Salomon
-
-Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz
-
-Sonntag, Paul
-
-Steinthal, Moritz
-
-Tellgmann, Gustav
-
-Wagner, Georg
-
-Weil, Linda, Henny und Ludwig
-
-Wetterhahn, Emma, Siegmund und Ruth
-
-Zamojre, Marcus, Josef und Ellinor
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Leipziger Straße 34
 
 ## Gallery
 

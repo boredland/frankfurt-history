@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Altenheim der Budge-Stiftung (Stolperschwelle)](../../images/stolpersteine/ffef5bd4557b_hansaallee_146a.jpg)
 
-HIER
-
 STAND VON 1930 BIS 1939 DAS „HENRY UND EMMA BUDGE-HEIM“
 
 IN
@@ -496,12 +494,6 @@ Würzburger, Gertrude, Hans und Siegfried
 Erl Sofie und Hans
 
 Merzbach, Rudolf, Paula, Ilse und Wilhelm
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Hansaallee 146a
 
 ## Gallery
 

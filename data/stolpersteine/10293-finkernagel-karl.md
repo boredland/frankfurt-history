@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Finkernagel, Karl](../../images/stolpersteine/4220f4cdc226_hamburger_allee_58.jpg)
 
-Karl Heinrich Finkernagel wurde in Altenstadt bei Gießen
-
 geboren. Am 22. Juni 1904 heiratete er in Frankfurt die Köchin Karoline
 
 Wilhelmine (Mina) Mayer. Der gemeinsame Sohn Karl Friedrich wurde
@@ -135,96 +133,6 @@ Hottelstedt, ist als Sterbeort „Hottelstedt K L Bu“ eingetragen.
 Der Stolperstein
 
 wurde initiiert von den Zeugen Jehovas Frankfurt.
-
-Karl Heinrich Finkernagel
-
-Geburtsdatum:
-
-Haft:
-
-Todesdatum:
-
-29.8.1869
-
-15.12.1936 Gefängnis Frankfurt, 7.8.1937 Buchenwald
-
-24.8.1937
-
-Stolperstein Hamburger Allee 58 Karl Finkernagel
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie; sowie Schauss, Karoline
-
-Bär, Karl S und Gretel
-
-Bernard, Georg
-
-Bienes, Arthur, Hermine, Marion und René
-
-Breslau, Klara, Lore und Paul
-
-Brown, Hagar Martin
-
-Cohn, Richard Gerson, Margot, Kurt und Helga Jenny
-
-Finkernagel, Karl
-
-Führ, Theresa
-
-Haag, Adam
-
-Hirschmann, Hedwig, Helmut Martin und Margot
-
-Höxter, Ernst, Werner und Alma
-
-Höxter, Hilde
-
-Höxter, Walter
-
-Kell, Bernhard
-
-Lehmann, Alma Rosa, Erich Leo, Julius und Richard
-
-Maaß, Siegmund und Gertrud
-
-May, Hugo und Johanna
-
-Pawel, Martin
-
-Rosenthal, Gustav und Rosa
-
-Roth, Salomon
-
-Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz
-
-Sonntag, Paul
-
-Steinthal, Moritz
-
-Tellgmann, Gustav
-
-Wagner, Georg
-
-Weil, Linda, Henny und Ludwig
-
-Wetterhahn, Emma, Siegmund und Ruth
-
-Zamojre, Marcus, Josef und Ellinor
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Hamburger Allee 58
 
 ## Gallery
 

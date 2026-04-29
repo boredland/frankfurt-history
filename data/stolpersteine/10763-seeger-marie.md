@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Seeger, Marie](../../images/stolpersteine/7c2777d55569_thronerstr_8.jpg)
 
-Marie Seeger wurde in Frankfurt am Main
-
 als zweites von insgesamt acht Kindern der Eltern Ludwig Seeger und Maria
 
 Magdalena Seeger, geborene Diener, geboren. Die Familie war evangelischen
@@ -124,70 +122,6 @@ Stolperstein wurde initiiert von Martina Hartmann-Menz und finanziert durch die 
 Marie Seege
 
 r
-
-Geburtsdatum:
-
-6.11.1900
-
-Einweisungen:
-
-1931
-
-Nervenklinik Frankfurt, 1933 Hadamar, 1939 Herborn, 13.2.1941 Hadamar
-
-Todesdatum:
-
-13.2.1941
-
-Stolperstein Throner Straße 8, Seeger, Marie
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baer, Rebekka, Fanny und Emil
-
-Breitinger, Anton
-
-Durlacher, Dina, Julius, Leo und Hermine
-
-Hagner, Johanna
-
-Levitus, Regina und Jossel
-
-Löwenstein, Siegfried
-
-Rothschild, Bernhard, Lina und Else
-
-Salomons, Arnold, Mina, Dagobert und Hanna
-
-Schöps, Selma
-
-Seeger, Marie
-
-Steigerwald, Abraham und Hannchen
-
-Steinhardt, Ernst und Bertha
-
-Strauss, Else
-
-Strauss, Auguste und Dina
-
-Wertheim, Paul
-
-Wohl, Lotte
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Throner Straße 8
 
 ## Gallery
 

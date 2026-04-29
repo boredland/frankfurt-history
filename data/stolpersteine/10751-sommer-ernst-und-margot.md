@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Sommer, Ernst und Margot](../../images/stolpersteine/a368b49d5f4c_taunusstr_40.jpg)
 
-Sommer, Ernst
-
 Die Familie Sommer stammte aus Heinebach in Nordhessen. Dort wurde Ernst Sommer geboren. Sein Vater, der Metzger Moses Sommer, dessen Onkel sowie einer seiner Brüder nahmen 1870/71 als Soldaten an dem Krieg gegen Frankreich teil und waren stolz auf ihre Auszeichnungen. Anfang des 20. Jahrhunderts zogen etliche Kinder von Moses Sommer nach Frankfurt, darunter auch Ernst Sommer, seine Brüder Julius und Salomon und die Schwester Miriam, genannt Mimi. Ernst Sommer arbeitete in Frankfurt als Kaufmann, zeitweise auch im Geschäft seines Bruders Julius und seines Schwagers Alfred Mayer. Den beiden gehörte die Wittwe-Hassan-Kette.
 
 Sommer, Margot
@@ -32,84 +30,6 @@ Auch Salomon Sommer und seine Frau Betty wurden 1942 deportiert. An sie erinnern
 Initiiert wurden die Stolpersteine von Angelika Rieber.
 
 Anwesend bei der Verlegung waren Ernst Sommers Großnichte Nancy Sommers und ihr Lebensgefährte Joshua Alper.
-
-Ernst Sommer
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-6.3.1885
-
-15.9.1943 Auschwitz
-
-unbekannt
-
-Margot Sommer
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-23.5.1924
-
-unbekannt
-
-unbekannt
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander
-
-Geiss, Lina
-
-Gerlinger, Anna Lina
-
-Germann, Edmund
-
-Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen
-
-Löwensberg, Käthe sowie Mainzer, Erich, Grete, Gustav und Irma
-
-Luwisch, Etli, Arthur, Lilly und Hermann
-
-Mahler, Rudolf
-
-Ochs, Heinrich
-
-Pauli, Paula
-
-Poser Erna
-
-Schmidt-Fellner, Carola und Hermann
-
-Sommer, Ernst und Margot
-
-Steinschneider, Adolf Moritz
-
-Strauß, Josef
-
-Weichbrodt, Raphael und Dorrit
-
-Wolfgang, Toni
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Taunusstraße 40
 
 ## Gallery
 

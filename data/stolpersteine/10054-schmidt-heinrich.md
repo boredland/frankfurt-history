@@ -25,54 +25,6 @@ Er sei im Zuchthaus Kassel-Wehlheiden bis zu seinem Tod „ununterbrochen in Haf
 
 Der Stolperstein wurde initiiert von Thomas Laufer aus Frankfurt, einem Enkel von Heinrich Schmidt, und finanziert von Hans Christoph Stoodt / Frankfurt.
 
-Heinrich Schmidt
-
-Geburtsdatum:
-
-13.3.1909
-
-Flucht:
-
-1935 Frankreich
-
-Haft:
-
-11.9.1943 Frankfurt, 1.8.1941 Urteil wegen „Hochverrat“, 10.7.1943 Strafbataillon 999, 17.1.1944 Kassel-Wehlheiden
-
-Todesdatum:
-
-13.3.1944
-
-Stolperstein Auf dem Schafberg 8, Schmidt, Heinrich
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baum, Clara, Käthe und Salomon
-
-Krämer, Adolf
-
-Mayer, Balthasar
-
-Mayer, Elisabeth
-
-Rosenblum, Josef Simon
-
-Schmidt, Heinrich
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Auf dem Schafberg 8
-
 ## Gallery
 
 <!-- gallery:standard -->

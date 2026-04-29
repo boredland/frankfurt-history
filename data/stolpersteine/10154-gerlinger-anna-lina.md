@@ -15,8 +15,6 @@ filters:
 
 Anna Lina Gerlinger
 
-Anna Lina Gerlinger
-
 wurde in Frankfurt am Main geboren. Sie kam aus einer begüterten Familie. Ihre
 
 Mutter starb früh, zu ihrer Stiefmutter soll sie kein gutes Verhältnis gehabt
@@ -78,80 +76,6 @@ Der Stolperstein
 wurde initiiert von der Enkelin Gisela und dem Urenkel Armin Stadler,
 
 Frankfurt, der auch bei der Verlegung anwesend war.
-
-Familie Gerlinger
-
-Anna Lina Gerlinger
-
-Geburtsdatum:
-
-2.12.1884
-
-Haft:
-
-1943 Polizeigefängnis Frankfurt, Rittergut Weißbrot in Kötten
-
-Deportation:
-
-1943
-
-Auschwitz
-
-Todesdatum:
-
-17.12.1943
-
-Stolpersteine Elbestraße 15, Anna Lina Gerlinger
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander
-
-Geiss, Lina
-
-Gerlinger, Anna Lina
-
-Germann, Edmund
-
-Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen
-
-Löwensberg, Käthe sowie Mainzer, Erich, Grete, Gustav und Irma
-
-Luwisch, Etli, Arthur, Lilly und Hermann
-
-Mahler, Rudolf
-
-Ochs, Heinrich
-
-Pauli, Paula
-
-Poser Erna
-
-Schmidt-Fellner, Carola und Hermann
-
-Sommer, Ernst und Margot
-
-Steinschneider, Adolf Moritz
-
-Strauß, Josef
-
-Weichbrodt, Raphael und Dorrit
-
-Wolfgang, Toni
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Elbestraße 15
 
 ## Gallery
 

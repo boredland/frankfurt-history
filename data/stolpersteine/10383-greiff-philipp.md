@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Greiff, Philipp](../../images/stolpersteine/e32bf3fe4173_kelsterbacher_strasse_63.jpg)
 
-Philipp Greiff wurde in Sinsheim, Kreis Heidelberg als
-
 Sohn des Schlossers Philipp Greiff und seiner Frau Anna, geb. Apfel geboren und
 
 evangelisch getauft. Wie sein Vater erlernte er den Schlosserberuf. Im Ersten
@@ -104,110 +102,6 @@ Der
 Stolperstein wurde von Robert Gilcher initiiert und von Waltraud Umbach und
 
 Benno Mayer finanziert.
-
-Lina Greiff mit den Kindern Heinz, Sonja und Anneliese, um 1940
-
-Philipp Greiff
-
-Geburtsdatum:
-
-29.3.1897
-
-Haft:
-
-3.4.1935
-
-– 2.10.1940 Polizeigefängnis Frankfurt, Untersuchungsgefängnis Hammelsgasse,
-
-Gerichtsgefängnis Kassel, Zuchthaus Kassel-Wehlheiden;
-
-3.10.1940 KZ Dachau, April 1945 Todesmarsch, 2.5.1945 befreit
-
-Stolperstein Kelsterbacher Straße 63, Greiff, Philipp
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Alberti, Karl
-
-Bechhold, Heinrich
-
-Beisel, Johann Michael
-
-Blasius, Martha
-
-Buttler, Paul
-
-Chocholous, Sara
-
-Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek
-
-Ehrenfeld, Emil W.
-
-Eichhorn, Ludwig
-
-Gans, Ludwig von
-
-Gerhardt, Wilhelm
-
-Gerst, Ella und Gustav
-
-Greiff, Philipp
-
-Gumbmann, Wilhelm
-
-Haymann, Kläre
-
-Henrich, Helene
-
-Itzstein, Josef
-
-Klee, Ester
-
-Neumann, Hermann
-
-Oppenheimer, Gustav und Toni
-
-Pivovarczik, Helena
-
-Raab, Anton
-
-Schabinger, Heinrich
-
-Schabinger, Ludwig
-
-Schellhaas, Margarete und Schmitt, Karl
-
-Schneider, Karl
-
-Simon, Fritz und Lotte sowie Oswalt, Alfred
-
-Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil und Prochorow, Nikolai
-
-Stern, Kurt
-
-von Weinberg, Arthur
-
-von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander
-
-Weisbecker, Walter
-
-Weishaupt, Heinrich
-
-Wissenbach, Erwin
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Kelsterbacher Straße 63
 
 ## Gallery
 

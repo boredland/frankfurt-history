@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi](../../images/stolpersteine/2d1c4b204248_marbachweg_333.jpg)
 
-Liesel Simon,
-
 geb. Goldschmidt, stammte aus Neumarkt in der Oberpfalz, der Kaufmann Paul
 
 Jacob Simon aus Frankfurt. Liesel war das jüngste von zehn Kindern des Herd-,
@@ -164,130 +162,6 @@ Liesel Simon
 , geb.
 
 Goldschmidt
-
-Geburtsdatum:
-
-15.8.1887
-
-Flucht:
-
-1941
-
-USA, 1944 Ecuador
-
-Paul Jacob Simon
-
-Geburtsdatum:
-
-7.1.1885
-
-Flucht:
-
-1937 Frankreich
-
-Deportation:
-
-8.8.1942
-
-Drancy, 24.8.1942 Auschwitz
-
-Todesdatum:
-
-unbekannt
-
-Hans Max Joseph Simon
-
-Geburtsdatum:
-
-11.9.1911
-
-Flucht:
-
-1933
-
-Palästina, Spanien, Frankreich, 1938 Ecuador
-
-Fritz Ernst
-
-Willi Simon
-
-Geburtsdatum:
-
-28.11.1913
-
-28.11.1913
-
-1933
-
-Frankreich, Ecuador
-
-Stolperstein Marbachweg 333, Simon, Liesel
-
-Stolperstein Marbachweg 333, Simon, Paul Jacob
-
-Stolperstein Marbachweg 333, Simon, Hans
-
-Stolperstein Marbachweg 333, Simon, Fritz
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Beicht, Karl und Edith
-
-Burgheim, Clara
-
-Cahn, Mathilde und Robert
-
-Epstein, Alice Betty und Fritz
-
-Epstein, Paul
-
-Fuchs, Nelly und Rosa Natt-Fuchs
-
-Goldstern, Susanne und Ottilie Janik
-
-Grünebaum, Rosa, Gerson und Alfred
-
-Held, Jella
-
-Hild, Willy und Frieda
-
-Hofmann, Babette und Alfred Max
-
-Kaiser, Siegmund
-
-Kanne Anna und Oechler Anna
-
-Kinderheim der Flersheim-Sichel-Stiftung
-
-Mokrauer, Fanny und Lotte
-
-Neumann, Kurt
-
-Reinheimer, Ludwig
-
-Reutlinger, Hanna, Gerd und Rolf
-
-Rosenberg, Paula
-
-Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi
-
-Westheim, Gottfried und Julius
-
-Zehden, Artur und Alma
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Marbachweg 333
 
 ## Gallery
 

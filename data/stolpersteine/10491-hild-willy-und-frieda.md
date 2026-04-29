@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Hild, Willy und Frieda](../../images/stolpersteine/65894ed7c10f_marbachweg_291.jpg)
 
-Hild, Willy
-
 Wilhelm Heinrich Hild wurde in Frankfurt-Höchst geboren, besuchte von 1900 bis 1908 die Meisterschule in Frankfurt-Höchst und absolvierte danach eine musikalische Ausbildung am Konservatorium in Göttingen mit den Hauptinstrumenten Geige und Flügelhorn. Ab Frühjahr 1912 spielte er in verschiedenen Orchestern, u. a. auf der „Windhuk“, die Afrika umrundete, in Breslau, Königsberg und Memel. Während des Ersten Weltkrieges war er beim Militär. Eine Kriegsverletzung führte später zur Epilepsie.
 
 Hild, Frieda
@@ -42,98 +40,6 @@ Im August 1941 erhielt Willy Hild eine Nachricht von seiner Tochter, dass sie pl
 In Buchenwald transponierte und schrieb Willy Hild Noten für die Lagerkapelle und spielte selbst ein Bandonion, eine Ziehharmonika. Ein Mithäftling berichtete: „Mehrmals erlebte ich, dass wir früh, kurz vor dem Wecken, von der einschmeichelnden Melodie des Brahms’schen Wiegenliedes aus dem Schlaf geweckt wurden. Wieder hatte ein Kamerad Geburtstag, und seine Freunde hatten den ‚Kapellmeister‘ der Lagerkapelle, den Kameraden Held [Willy Hild], bestellt, der sich in den Schlafsaal schlich und seiner Ziehharmonika leise die wehmütigen Töne entlockte.“ Spätere Berichte zeigen, dass Willy Hild auch für die heimlichen Treffen der Bibelforscher Lieder schrieb und sie auf seinem Bandonion begleitete. Dieses Instrument hat nach der Befreiung seinen Weg aus Buchenwald in das Preußen-Museum Wesel gefunden (Sammlung Abresch).
 
 Nach der Befreiung des KZ Buchenwald am 11. April 1945 kehrte Willy Hild nach Frankfurt zu seiner Tochter zurück und lernte nun auch seinen Schwiegersohn und seinen Enkel kennen. Am 29. Mai 1945 stellte er den Antrag auf Wiedereinstellung in das Opernorchester, die zum 1. Juni 1945 mit vollen Dienstbezügen erfolgte. Doch die KZ-Haft hatte seine Epilepsie derart verschlimmert, dass er nicht mehr als Musiker arbeiten konnte. Am 1. September 1946 ging er in Rente. Im Februar 1947 heiratete Willy Hild eine ehemalige Kollegin, die Opernsängerin Martha Grässler. Sie wohnten erst in Frankfurt-Sossenheim, ab Mitte der 1960er Jahre dann in Mespelbrunn im Spessart. Martha verstarb am 14. November 1973 in Mespelbrunn, Willy am 23. September 1977 in Bessenbach. Die Tochter, von Beruf Kinderpflegerin, wohnte im Oberweg 42 und später in Modena/Italien.
-
-Willy Hild
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-30.12.1894
-
-Haft: 25.05.1938 Schutzhaft, 29.07.1938 Buchenwald
-
-überlebt/befreit
-
-Frieda Hild, geb. Buck
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-14.09.1892
-
-Haft: 1938 Frankfurt
-
-30.04.1939
-
-Stolperstein Marbachweg 291 Willy Hild
-
-Stolperstein Marbachweg 291 Frieda Hild
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Beicht, Karl und Edith
-
-Burgheim, Clara
-
-Cahn, Mathilde und Robert
-
-Epstein, Alice Betty und Fritz
-
-Epstein, Paul
-
-Fuchs, Nelly und Rosa Natt-Fuchs
-
-Goldstern, Susanne und Ottilie Janik
-
-Grünebaum, Rosa, Gerson und Alfred
-
-Held, Jella
-
-Hild, Willy und Frieda
-
-Hofmann, Babette und Alfred Max
-
-Kaiser, Siegmund
-
-Kanne Anna und Oechler Anna
-
-Kinderheim der Flersheim-Sichel-Stiftung
-
-Mokrauer, Fanny und Lotte
-
-Neumann, Kurt
-
-Reinheimer, Ludwig
-
-Reutlinger, Hanna, Gerd und Rolf
-
-Rosenberg, Paula
-
-Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi
-
-Westheim, Gottfried und Julius
-
-Zehden, Artur und Alma
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Marbachweg 291
 
 ## Gallery
 

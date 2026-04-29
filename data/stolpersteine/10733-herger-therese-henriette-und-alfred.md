@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Herger, Therese, Henriette und Alfred](../../images/stolpersteine/1ccbd1e851e4_spielmannstr_6__400x300.jpg)
 
-Herger, Therese
-
 Therese Herger wurde in London geboren und stammte aus einer polnisch-jüdischen Familie. Sie heiratete 1915 in Höchst den nichtjüdischen Arbeiter Johann Herger aus Sendelbach in Bayern und hatte zwei Kinder: Alfred wurde in Berlin und Henriette in Höchst geboren. Wie die Mutter hatten sie die israelitische Religionszugehörigkeit. Von der Franz-Simon-Straße 6a zog die Familie 1933 in die Spielmannstraße 6.
 
 Henriette zog im Mai 1939 nach Berlin. Dort musste sie von 1941—1943 in einem Arbeitslager von Siemens in Berlin Zwangsarbeit verrichten. Sie habe eine Chance gehabt, vor Kriegsbeginn nach England zu gehen, aber sie wollte ihre Eltern nicht verlassen. Laut Melderegister kommt sie 1943, kurz vor der Verhaftung ihrer Mutter, aus Berlin zurück. Ihr Bruder Alfred war bereits 1942 von Berlin nach Riga deportiert worden und dort umgekommen.
@@ -26,84 +24,6 @@ Im Dezember 1943 zogen Johann Herger und seine Tochter Henriette auf Gestapobefe
 Alfred Herger konnte sich zuerst in Berlin verstecken, wurde dann möglicherweise denunziert und dann nach Riga deportiert und dort ermordet.
 
 Auf dem Nieder Mahnmal von 1947 steht der Name von Therese Herger; 1994 wurde in Nied eine Anlage nach ihr benannt.
-
-Henriette Wiesenberg, geb. Herger, und Hermann Wiesenberg
-
-Alfred Herger
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-13.04.1913
-
-13.01.1942 von Berlin nach Riga
-
-unbekannt
-
-Henriette Herger
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-21.04.1923
-
-18.02.1945 nach Theresienstadt
-
-Befreit
-
-Therese Herger, geb. Studinski
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-17.12.1890
-
-August 1943 nach Ravensbrück
-
-unbekannt
-
-Stolperstein Spielmannstraße 6 Therese Herger
-
-Stolperstein Spielmannstraße 6 Henriette Herger
-
-Stolperstein Spielmannstraße 6 Alfred Herger
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Bender, Helene und Georg
-
-Heps, Heinrich
-
-Herger, Therese, Henriette und Alfred
-
-Hirsch, Lucie
-
-Kahn, Carl und Jenny
-
-Salomon, Walter, Amalie, Hannelore und Lutz
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Spielmannstraße 6
 
 ## Gallery
 

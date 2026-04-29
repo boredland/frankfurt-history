@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Kahn, Carl und Jenny](../../images/stolpersteine/1b9cb6fe9e6a_oeserstr_54__400x300.jpg)
 
-Kahn, Carl
-
 Dr. Carl Kahn wurde im hessischen Ranstadt geboren und kam 1904 nach Nied. Hier heiratete er die aus Biebrich stammende Jenny Marx. Ihre Wohnung und Arztpraxis waren damals in der Hauptstraße 15, die heute „Alt Nied" heißt. Hier kam auch die Tochter Else 1904 zur Welt, die in Nied die Volksschule und später in Höchst das Lyzeum besuchte.
 
 Dr. Kahn meldete sich im August 1914 zu Beginn des Ersten Weltkrieg sofort als Freiwilliger. Für seinen Einsatz wurde er mit dem „Eisernen Kreuz" erster Klasse ausgezeichnet. Er gehörte in Nied verschiedenen Vereinen und Ehrenausschüssen an, so der freiwilligen Feuerwehr, dem „Liederzweig" (heute Männergesangverein) und der Turnerschaft von 1877 (heute SG-Nied), hier als Sportarzt.
@@ -34,58 +32,6 @@ Nach der Vermögensanmeldung erfolgte für Juden der Zwang zum Verkauf von Häus
 Am 20.04.1942 schrieben die Kahns einen Brief an ihre Kinder, indem sie ankündigten, dass sie sich das Leben nehmen wollen. Da sie evtl. noch Hoffnung hatten, heben sie diesen Brief noch auf. Am 10.06.1942 schrieb   Carl Kahn auf den linken Rand des Briefes: „Das Maß ist voll, es bleibt uns kein Ausweg mehr. Freut Euch, daß wir heute unser Leben beenden konnten."
 
 Begraben wurde das Ehepaar Kahn auf dem jüdischen Friedhof in Eckenheim. Auf dem Mahnmal für die Opfer des Faschismus, das in Nied bereits 1947 vor dem Friedhof aufgestellt wurde, sind Carl und Jenny Kahn verzeichnet; 1992 wurde der Platz vor dem Friedhof nach ihnen benannt.
-
-Carl Kahn
-
-Geburtsdatum:
-
-Todesdatum:
-
-11.08.1878
-
-10.06.1942 (Suizid)
-
-Jenny Kahn, Geb. Marx
-
-Geburtsdatum:
-
-Todesdatum:
-
-26.01.1879
-
-10.06.1942 (Suizid)
-
-Stolperstein Oeserstraße 54 Dr. Carl Kahn
-
-Stolperstein Oeserstraße 54 Jenny Kahn
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Bender, Helene und Georg
-
-Heps, Heinrich
-
-Herger, Therese, Henriette und Alfred
-
-Hirsch, Lucie
-
-Kahn, Carl und Jenny
-
-Salomon, Walter, Amalie, Hannelore und Lutz
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Oeserstraße 54
 
 ## Gallery
 

@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Zinkes, Fanny und Julius Joel](../../images/stolpersteine/3cc2fe4502b8_auf_der_insel_2.jpg)
 
-Zinkes, Julius Joel
-
 Julius Joel Zinkes stammte aus Tarnopol in Polen und war mit der gebürtigen Rödelheimerin Fanny, geb. Stern verheiratet. Sie wohnten im Inselgäßchen 12 neben der Synagoge.
 
 Julius Zinkes hatte zwischen 1913 und 1922 vier Anträge auf Einbürgerung (Naturalisation) an den preußischen Staatsverband gestellt, die alle abgelehnt wurden.
@@ -37,90 +35,6 @@ Seit dem Jahr 1730 besaßen die Rödelheimer Juden eine eigene Synagoge im Insel
 In der Progromnacht 1938 wurde die Synagoge von SA-Leuten aus Frankfurt angegriffen und der Innenraum zerstört. Der von diesen gelegte Brand wurde sofort wieder gelöscht, da sich in der Nachbarschaft eine Tankstelle befand. So blieb die Synagoge äußerlich zwar unbeschädigt, durfte aber als Gotteshaus nicht mehr genutzt werden. Am 3.11.1939 wurde der Vorstand der Gemeinde gezwungen, das Gebäude zu verkaufen. Es ging an die Besitzer der benachbarten Autowerkstatt über und wurde als Lagerraum für Autos genutzt. Am 22.3.1944 wurde das Gebäude durch einen Bombenangriff völlig zerstört.
 
 Heute erinnert ein am 8.11.1979 errichtetes Mahnmal im Brentanopark am Inselgäßchen an die Synagoge und die Menschen der Jüdischen Gemeinde Rödelheim.
-
-Fanny Zinkes, geb. Stern
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-10.04.1869
-
-1938 nach Bentschen
-
-1942
-
-Julius (Joel) Zinkes
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-02.08.1870
-
-1938 nach Bentschen
-
-14.01.1942
-
-Stolperstein Auf der Insel 12, Fanny Zinkes
-
-Stolperstein Auf der Insel 12, Julius Joel Zinkes
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Brandenstein, Karl
-
-Dreyfuss, Amalie, Albert und Siegbert
-
-Eisemann, Johanette
-
-Fleisch, Sally und Selma
-
-Grünebaum, Martha, Max und Kurt
-
-Hofmann, Elisabeth
-
-Knauf, Karl
-
-Markus, Ferdinand
-
-Markus, Flora und Inge Ursula
-
-Markus, Rosalie
-
-Marx, Rebekka
-
-May, Julius und Hermine
-
-Meier, Hermann (Maier, Hermann)
-
-Müller, Anna
-
-Stein, Alice
-
-Strauß, Selma, Renate und Isidor
-
-Wallerstein, Emma und Henriette
-
-Zinkes, Fanny und Julius Joel
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Auf der Insel 12
 
 ## Gallery
 

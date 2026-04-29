@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Zins, Selma](../../images/stolpersteine/464ad0b54ac4_ludwig_landmann_str_46.jpg)
 
-Selma und Friedel Zins
-
 Selma Zins wurde in Frankfurt geboren und war die
 
 Tochter von Karl Gustav Schwanthaler und Jenny, geb. Loewenthal. Ihre Schwester
@@ -113,42 +111,6 @@ Die Eltern Jenny und Berhold Bär
 Selma Zins,
 
 geb. Schwanthaler
-
-Geburtsdatum:
-
-Deportation:
-
-Befreiung:
-
-3.10.1907
-
-9.8. oder 28./29.10.1943 Ravensbrück
-
-1945
-
-Stolperstein Ludwig-Landmann-Straße 46 Selma Zins
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Ege, Albrecht
-
-Simon, Rudolf
-
-Zins, Selma
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Ludwig-Landmann-Straße 46
 
 ## Gallery
 

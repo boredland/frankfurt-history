@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Heps, Heinrich](../../images/stolpersteine/7809ed09e4e6_schmidtbornstr_1.jpg)
 
-Heinrich Heps stammte aus einer einfachen
-
 Arbeiterfamilie. Er besuchte die  Volksschule und machte anschließend eine Schlosserlehre. Im November
 
 1934 zog Heps von Sossenheim nach Nied in den Grünen Winkel 36.
@@ -199,56 +197,6 @@ Regine Wolfart.
 Lina und Heinrich Heps
 
 Mahnmal für die Nieder Juden und Widerstandskämpfer vor dem Friedhof Nied. Heinrich Heps wurde im August 2015 eingefügt.
-
-Heinrich Heps
-
-Geburtsdatum:
-
-Todesdatum:
-
-11.12.1908
-
-26.3.1944
-
-1933/1934
-
-Arbeitslager Mühlbergschule
-
-1935-1940 Zuchthaus Kassel wegen „Hochverrat“
-
-3.12.1942 Strafdivision
-
-999
-
-Stolperstein Heinrich Heps Schmidtborstraße
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Bender, Helene und Georg
-
-Heps, Heinrich
-
-Herger, Therese, Henriette und Alfred
-
-Hirsch, Lucie
-
-Kahn, Carl und Jenny
-
-Salomon, Walter, Amalie, Hannelore und Lutz
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Schmidtbornstraße 1
 
 ## Gallery
 

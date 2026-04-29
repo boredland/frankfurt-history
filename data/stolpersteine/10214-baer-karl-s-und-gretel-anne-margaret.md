@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Bär, Karl S. und Gretel (Anne Margaret)](../../images/stolpersteine/fff839bd91d9_frauenlobstr_13.jpg)
 
-Karl Bär (1952)
-
 Karl S. Bär wurde in Bruchsal, seine
 
 Ehefrau Anne Margaret Bär in Frankfurt geboren. Er arbeitete zunächst bei der
@@ -98,108 +96,6 @@ Familie Bär im Steingarten
 Auf der Terrasse
 
 Karl S. Bär
-
-Geburtsdatum:
-
-1.3.1886
-
-Flucht:
-
-Mai 1937
-
-Schweiz, 1941 USA
-
-Anne Margaret Bär
-
-, geb. Kuch
-
-Geburtsdatum:
-
-23.7.1900
-
-Flucht:
-
-Mai 1937
-
-Schweiz, 1941 USA
-
-Stolperstein Frauenlobstraße 13, Bär, Karl S.
-
-Stolperstein Frauenlobstraße 13, Bär, Gretel
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie; sowie Schauss, Karoline
-
-Bär, Karl S und Gretel
-
-Bernard, Georg
-
-Bienes, Arthur, Hermine, Marion und René
-
-Breslau, Klara, Lore und Paul
-
-Brown, Hagar Martin
-
-Cohn, Richard Gerson, Margot, Kurt und Helga Jenny
-
-Finkernagel, Karl
-
-Führ, Theresa
-
-Haag, Adam
-
-Hirschmann, Hedwig, Helmut Martin und Margot
-
-Höxter, Ernst, Werner und Alma
-
-Höxter, Hilde
-
-Höxter, Walter
-
-Kell, Bernhard
-
-Lehmann, Alma Rosa, Erich Leo, Julius und Richard
-
-Maaß, Siegmund und Gertrud
-
-May, Hugo und Johanna
-
-Pawel, Martin
-
-Rosenthal, Gustav und Rosa
-
-Roth, Salomon
-
-Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz
-
-Sonntag, Paul
-
-Steinthal, Moritz
-
-Tellgmann, Gustav
-
-Wagner, Georg
-
-Weil, Linda, Henny und Ludwig
-
-Wetterhahn, Emma, Siegmund und Ruth
-
-Zamojre, Marcus, Josef und Ellinor
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Frauenlobstraße 13
 
 ## Gallery
 

@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Neuser, Edgar](../../images/stolpersteine/50e0896115d6_kostheimer_str_15.jpg)
 
-Edgar Neuser wurde in Frankfurt als Sohn
-
 des Hilfsarbeiters Adolf Neuser und von Käthe Neuser geb. Blum, geboren und
 
 evangelisch getauft. Er litt an der
@@ -178,74 +176,6 @@ täuschen.
 Der
 
 Stolperstein wurde initiiert von der Historikerin Martina Hartmann-Menz, Elz, und finanziert durch Johanna Tietze.
-
-Edgar Neuser
-
-Geburtsdatum:
-
-14.1.1922
-
-Einweisung:
-
-10.3.1926
-
-Heilanstalt Scheuern. 29.1.1934 Filiale Langau, 19.3.1941 Hadamar
-
-Todesdatum:
-
-19.3.1941
-
-Stolperstein Kostheimer Straße 15, Neuser, Edgar
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Ahrens, Manfred
-
-Begemann, August
-
-Bild, Hans
-
-Engelbrecht, Frida und Hans
-
-Fehler, Karl
-
-Heilmann, Friedrich
-
-Knorsch, Lilly
-
-Kopp, Nikolaus
-
-Neuser, Edgar
-
-Pappenheimer, Ruth
-
-Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni
-
-Rosenthal, Karl, Frieda und Irene
-
-Schwemmer, Karlheinz, Eduard und Rosa
-
-Stecker, Karl
-
-Stern, Paula und Hilde
-
-Strauß, Rebecka
-
-Weisbecker, Karl Johann
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Kostheimer Straße 15
 
 ## Gallery
 

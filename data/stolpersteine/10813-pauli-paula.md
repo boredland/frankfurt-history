@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Pauli, Paula](../../images/stolpersteine/3b94efc856da_weserstr_46.jpg)
 
-Paula
-
 Pauli wurde in Frankfurt geboren und war mit dem evangelischen Dr. Heinrich
 
 Pauli (1852-1925) verheiratet. Sie ließ sich und ihre Tochter Mathilde, geb. am
@@ -45,66 +43,6 @@ Paula Pauli
 geb.
 
 Hohenemser
-
-Geburtsdatum:
-
-Todesdatum:
-
-12.9.1874
-
-30.9.1944 (Suizid)
-
-Stolperstein Weserstraße 46 Paula Pauli
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander
-
-Geiss, Lina
-
-Gerlinger, Anna Lina
-
-Germann, Edmund
-
-Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen
-
-Löwensberg, Käthe sowie Mainzer, Erich, Grete, Gustav und Irma
-
-Luwisch, Etli, Arthur, Lilly und Hermann
-
-Mahler, Rudolf
-
-Ochs, Heinrich
-
-Pauli, Paula
-
-Poser Erna
-
-Schmidt-Fellner, Carola und Hermann
-
-Sommer, Ernst und Margot
-
-Steinschneider, Adolf Moritz
-
-Strauß, Josef
-
-Weichbrodt, Raphael und Dorrit
-
-Wolfgang, Toni
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Weserstraße 46
 
 ## Gallery
 

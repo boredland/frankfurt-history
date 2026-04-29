@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Raab, Anton](../../images/stolpersteine/05f24417282e_goldsteinstrasse_65.jpg)
 
-Anton Raab war der jüngste Sohn von Peter Anton Raab
-
 und seiner Ehefrau Gertrud, geb. Pfaff. Er hatte drei ältere Geschwister:
 
 Frieda (Jg. 1907), Karl (Jg. 1909) und Georg (Jg. 1911). Die Familie lebte in ärmlichen
@@ -306,114 +304,6 @@ Der
 Stolperstein wurde von Robert Gilcher initiiert und von der Niederräder
 
 Wohngenossenschaft BeTrift finanziert.
-
-Anton Raab als Fußballer bei Stade Rennes 1939
-
-Gefälschte Ausweise von Anton Raab
-
-Anton Raab
-
-Geburtsdatum:
-
-16.7.1913
-
-Haft:
-
-3.4.1935-17.4.1937,
-
-Gerichtsgefängnis Frankfurt, Strafgefängnis Frankfurt-Preungesheim, Zuchthaus Kassel-Wehlheiden
-
-Flucht:
-
-17.4.1937
-
-Frankreich
-
-Stolperstein Goldsteinstraße 65, Raab, Anton
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Alberti, Karl
-
-Bechhold, Heinrich
-
-Beisel, Johann Michael
-
-Blasius, Martha
-
-Buttler, Paul
-
-Chocholous, Sara
-
-Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek
-
-Ehrenfeld, Emil W.
-
-Eichhorn, Ludwig
-
-Gans, Ludwig von
-
-Gerhardt, Wilhelm
-
-Gerst, Ella und Gustav
-
-Greiff, Philipp
-
-Gumbmann, Wilhelm
-
-Haymann, Kläre
-
-Henrich, Helene
-
-Itzstein, Josef
-
-Klee, Ester
-
-Neumann, Hermann
-
-Oppenheimer, Gustav und Toni
-
-Pivovarczik, Helena
-
-Raab, Anton
-
-Schabinger, Heinrich
-
-Schabinger, Ludwig
-
-Schellhaas, Margarete und Schmitt, Karl
-
-Schneider, Karl
-
-Simon, Fritz und Lotte sowie Oswalt, Alfred
-
-Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil und Prochorow, Nikolai
-
-Stern, Kurt
-
-von Weinberg, Arthur
-
-von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander
-
-Weisbecker, Walter
-
-Weishaupt, Heinrich
-
-Wissenbach, Erwin
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Goldsteinstraße 65
 
 ## Gallery
 

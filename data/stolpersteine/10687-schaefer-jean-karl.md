@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Schaefer, Jean Karl](../../images/stolpersteine/5ef1462108af_schiessgraben_19.jpg)
 
-Jean
-
 Karl Schäfer wurde in Bergen (heute Bergen-Enkheim) im Schießgraben 19 geboren.
 
 Aufgrund einer Erkrankung wurde er bereits 1938 in die Landesheilanstalt
@@ -50,78 +48,6 @@ von der Initiative Stolperstein Bergen-Enkheim und finanziert von Karla Nowak
 (Bergen-Enkheim).
 
 Jean Karl Schäfer
-
-Geburtsdatum:
-
-16.12.1912
-
-Einweisung:
-
-14.12.1938
-
-Heilanstalt Weilmünster,
-
-"verlegt"
-
-24.2.1941 Hadamar
-
-Todesdatum:
-
-24.2.1941
-
-Stolperstein Schießgraben 19, Schäfer, Jean Karl
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Ehrmann, Leopold und Henny
-
-Grünebaum, Emma und Bella
-
-Hahn, Emma und Hermann
-
-Hahn, Frieda und Jenny
-
-Hahn, Karoline
-
-Hess, Johanna und Raphael Rudolf
-
-Heß, Jettchen, Klara und Nathan
-
-Heß, Paula
-
-Hirsch, Frieda, Jettchen, Joachim und Wilhelm
-
-Hirsch, Johanna und Otto
-
-Hirsch, Rosa und Friedrich Nathan
-
-Metz, Johannes Ludwig
-
-Levi, Sophie und Emil
-
-Schäfer, Jean Karl
-
-Seligmann, Ella und Meier
-
-Strauss, Emma und Moritz
-
-Strauss, Julius
-
-Weil, Mina, Walter Siegfried und Richard
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Schießgraben 19
 
 ## Gallery
 

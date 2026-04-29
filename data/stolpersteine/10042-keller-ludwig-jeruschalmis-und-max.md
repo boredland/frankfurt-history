@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Keller, Ludwig Jeruschalmis und Max](../../images/stolpersteine/1fc91243e1b4_am_weissen_stein_19.jpg)
 
-Max Keller
-
 Ludwig und Max Keller wurde
 
 als Söhne des Kaufmanns Julius Keller und seiner Frau Jeruschalmis, geb.
@@ -50,100 +48,6 @@ Die
 Stolpersteine wurden initiiert von Angela
 
 Beitlich, Eschersheim.
-
-Ludwig Keller
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-16.09.1897
-
-22.11.1941 Kaunas
-
-25.11.1941
-
-Jeruschalmis Keller, geb.
-
-Crailsheimer
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-6.2.1869
-
-18.8.1942 Theresienstadt
-
-26.9.1942
-
-Max Keller
-
-Geburtsdatum:
-
-Deportation:
-
-30.4.1893
-
-14.2.1945
-
-Stolpersteine Am Weißen Stein 19, Ludwig Keller
-
-Stolpersteine Am Weißen Stein 19, Jeruschalmis Keller
-
-Stolpersteine Am Weißen Stein19, Max Keller
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Berge, Ignatz
-
-Breslau, Ignatz
-
-Flörsheimer, Elli, Franziska und Jakob
-
-Froehlich, Siegfried und Rosa
-
-Gerlach, Magarethe
-
-Goldschmidt, Rosette
-
-Henle, Franz
-
-Isaac, Gustav
-
-Katz, Hanns Ludwig
-
-Keller, Ludwig, Jeruschalmis und Max
-
-Klausing, Friedrich Karl
-
-Lehrbach, Emma (Emmi) Magdalena
-
-Stern, Paula und Hermann
-
-Sternberg, Rosa
-
-Wolf, Hermann
-
-Wolfskehl, Henry
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Am Weißen Stein 19
 
 ## Gallery
 

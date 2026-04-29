@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Wissenbach, Erwin](../../images/stolpersteine/b9b4ed8ecff7_kelsterbacher_str_58.jpg)
 
-Erwin Wissenbach wurde
-
 in Frankfurt-Niederrad geboren. Seit 1929 war er mit kurzen Unterbrechungen
 
 erwerbslos, im Jahr 1930 wurde er Mitglied der KPD. Er war verheiratet mit
@@ -72,108 +70,6 @@ Stolperstein wurde initiiert vom Stadtteilhistoriker Robert Gilcher und
 finanziert von Margarethe Druschel.
 
 Erwin
-
-Wissenbach
-
-Geburtsdatum:
-
-9.5.1907
-
-Haft:
-
-1935 Zuchthaus Kassel-Wehlheiden
-
-1942 "Strafbataillon 999"
-
-Todesdatum:
-
-1.9.1943
-
-Stolperstein Kelsterbacher Straße 58, Wissenbach, Erwin
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Alberti, Karl
-
-Bechhold, Heinrich
-
-Beisel, Johann Michael
-
-Blasius, Martha
-
-Buttler, Paul
-
-Chocholous, Sara
-
-Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek
-
-Ehrenfeld, Emil W.
-
-Eichhorn, Ludwig
-
-Gans, Ludwig von
-
-Gerhardt, Wilhelm
-
-Gerst, Ella und Gustav
-
-Greiff, Philipp
-
-Gumbmann, Wilhelm
-
-Haymann, Kläre
-
-Henrich, Helene
-
-Itzstein, Josef
-
-Klee, Ester
-
-Neumann, Hermann
-
-Oppenheimer, Gustav und Toni
-
-Pivovarczik, Helena
-
-Raab, Anton
-
-Schabinger, Heinrich
-
-Schabinger, Ludwig
-
-Schellhaas, Margarete und Schmitt, Karl
-
-Schneider, Karl
-
-Simon, Fritz und Lotte sowie Oswalt, Alfred
-
-Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil und Prochorow, Nikolai
-
-Stern, Kurt
-
-von Weinberg, Arthur
-
-von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander
-
-Weisbecker, Walter
-
-Weishaupt, Heinrich
-
-Wissenbach, Erwin
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Kelsterbacher Strasse 58
 
 ## Gallery
 

@@ -19,42 +19,6 @@ Sie gehört zu den Opfern der sogenannten "zweiten Mordphase" in der Tötungsans
 
 Der Stolperstein wurde initiiert vom Heimatverein Eckenheim.
 
-Elisabeth Kersten
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-23.12.1905
-
-"Landesheilanstalt" Hadamar
-
-20.04.1943
-
-Stolperstein Am Eckenheimer Friedhof 1a Elisabeth Kersten
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Fiebermann, Josef, Else und Walter
-
-Kersten, Elisabeth
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Am Eckenheimer Friedhof 1a
-
 ## Gallery
 
 <!-- gallery:standard -->

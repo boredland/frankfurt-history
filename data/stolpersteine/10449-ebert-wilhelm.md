@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Ebert, Wilhelm](../../images/stolpersteine/397a266a1c57_leo-gans-str_21.jpg)
 
-Wilhelm Ebert
-
 Wilhelm Ebert wurde in Fechenheim
 
 geboren. Seit 25.1.1934 war er mit Karoline Maria Susanna Ebert, geb. Böhm,
@@ -93,64 +91,6 @@ aufgeschnitten worden war. Wahrscheinlich wurden seine Organe für die sogenannt
 nationalsozialistische Wissenschaft benutzt. So geschah es mit vielen
 
 Hingerichteten und Getöteten.
-
-Wilhelm Ebert
-
-Karoline, Alfred und Wilhelm Ebert
-
-Wilhelm Ebert mit Sohn Alfred
-
-Wilhelm Ebert als Turner
-
-Wilhelm Ebert als Turner
-
-Wilhelm Ebert als Turner
-
-Wilhelm Ebert
-
-Geburtsdatum:
-
-Haft:
-
-Todesdatum:
-
-11.8.1901
-
-15.6.1942
-
-17.6.1942
-
-Stolpersteine Leo-Gans-Straße 21, Wilhelm Ebert
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Ebert, Wilhelm
-
-Hahn, Gustav, Recha und Hertha
-
-Nebel, Georg
-
-Schönfeld, Hertha, Hugo, Ilsa und Paul
-
-Stern, Heinrich
-
-Strauss, Salomon, Johanna und Hedwig
-
-Weisenseel, Eugen
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Leo-Gans-Straße 21
 
 ## Gallery
 

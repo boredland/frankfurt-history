@@ -23,62 +23,6 @@ Ein Schlaganfall zwang ihn 1928, das Amt niederzulegen. Er wurde in den Ruhestan
 
 Carl Grünberg, dem es gesundheitlich sehr schlecht ging, wurde am 2. Februar 1940 zur Geheimen Staatspolizei bestellt. Er starb dort am gleichen Tag, die Umstände sind nicht bekannt. Seine Ehefrau konnte im selben Jahr nach Genf zu den Kindern emigrieren. Sie erhielt bis zu ihrem Tod die ihr zustehende Witwenrente. Ein Sohn arbeitete später an der Universität Pittsburgh. Der 1901 geborene Sohn Karl Stefan blieb in Genf.
 
-Carl Grünberg
-
-Geburtsdatum:
-
-Todesdatum:
-
-10.02.1861
-
-02.02.1940
-
-Hilde Grünberg, geb. Ehrenzweig
-
-Geburtsdatum:
-
-Deportation:
-
-29.06.1975
-
-Flucht: 1940 Schweiz
-
-Stolperstein Gutleutstraße 85 Dr. Carl Grünberg
-
-Stolperstein Gutleutstraße 85 Hilde Grünberg
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Becker, Martha
-
-Grünberg, Carl und Hilde
-
-Kaufmann, Moritz Moses
-
-Lehr, Klara
-
-Lehrberger, Emil, Lina und Rose
-
-Lismann, Hermann
-
-Valfer, Frieda und Heinrich
-
-<br>
-
-Initiative Stolpersteine in Frankfurt am Main
-
-Standort Stolpersteine
-
-Gutleutstraße 85
-
 ## Gallery
 
 <!-- gallery:standard -->

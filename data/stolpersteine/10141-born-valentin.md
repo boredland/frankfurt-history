@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Born, Valentin](../../images/stolpersteine/8abc4d414545_dominikanergasse_7.jpg)
 
-Valentin
-
 Born wurde in Partenstein bei Lohr in Unterfranken geboren. Er war
 
 Fabrikarbeiter und hatte seine letzte Beschäftigung bei den I. G. Farben Werken
@@ -82,68 +80,6 @@ wurde initiiert von Martin Dill und Heidi Stögbauer von der Initiative
 Stolpersteine Frankfurt am Main und finanziert von Stefan Diefenbach,
 
 Frankfurt.
-
-Valentin Born - Transport ins KZ Natzweiler
-
-Valentin Born
-
-Geburtsdatum:
-
-18.11.1891
-
-Verurteilt
-
-§175
-
-Haft:
-
-18.3.1942 Bad Nauheim, 30.5.1942
-
-Diez, 8.9.1943 F-Preungesheim, 10.11.1943 KZ Natzweiler, 29.11.1943 KZ Flossenbürg
-
-Todesdatum:
-
-5.3.1945
-
-Stolperstein Dominikanergasse 7, Born, Valentin
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Appel, Franziska und Herta
-
-Born, Valentin
-
-Geis, Franziska und Hermann
-
-Hess, Jakob
-
-Kipp Karl
-
-Klein, Kunigunde
-
-Nohl, Emma
-
-Perlhefter, Elsa, Emil und Manfred
-
-Strauß, Josef und Robert
-
-von Halle, Siegfried, Rosa und Friedel
-
-Zuntz, Karl, Ella, Miriam, Esther und Harry
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Dominikanergasse 7
 
 ## Gallery
 

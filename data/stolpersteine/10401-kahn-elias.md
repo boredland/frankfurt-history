@@ -21,48 +21,6 @@ Aus der Devisenakte von 1940 wissen wir, dass Elias Kahn keine Einnahmen mehr ha
 
 Der 57-jährige Elias Kahn und seine 53-jährige Frau Sibilla wurden am 11. November 1941 in das Ghetto Minsk verschleppt und dort ermordet.
 
-Elias Kahn
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-15.6.1884
-
-11.12./11.1941. Minsk, Ghetto
-
-unbekannt
-
-Stolperstein Königsteiner Straße 167 Elias Kahn
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Hartogsohn, Carl und Hedwig
-
-Kahn, Elias
-
-Neustädter, Siegmund, Jenny, Ilse, Ruth und Henriette
-
-Strauss, Siegfried, Irma Irene, Doris und Mathilde
-
-Zakowski, Josef und Elisabeth
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Königsteiner Straße 167
-
 ## Gallery
 
 <!-- gallery:standard -->

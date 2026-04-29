@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Beisel,  Johann Michael](../../images/stolpersteine/1be8796aa5aa_triftstr_9.jpg)
 
-Johann Michael Beisel
-
 wurde in Mannheim geboren. Er war von Beruf Dreher und Mitglied der SPD. Mit
 
 seiner Ehefrau Karoline hatte er eine Tochter. Er arbeitete im
@@ -44,110 +42,6 @@ Der Stolperstein wurde initiiert vom
 Stadtteilhistoriker Robert Gilcher und finanziert von Holger Otto.
 
 Johann
-
-Michael Beisel
-
-Geburtsdatum:
-
-27.10.1876
-
-Verfolgung:
-
-18.6.1935
-
-Reichsbahn-Entlassung, Haft 5.8.1940-14.2.1941 F-Hammelsgasse, Polizeigefängnis
-
-Frankfurt
-
-Todesdatum:
-
-18.4.1941
-
-Stolperstein Triftstraße 9, Beisel, Johann Michael
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Alberti, Karl
-
-Bechhold, Heinrich
-
-Beisel, Johann Michael
-
-Blasius, Martha
-
-Buttler, Paul
-
-Chocholous, Sara
-
-Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek
-
-Ehrenfeld, Emil W.
-
-Eichhorn, Ludwig
-
-Gans, Ludwig von
-
-Gerhardt, Wilhelm
-
-Gerst, Ella und Gustav
-
-Greiff, Philipp
-
-Gumbmann, Wilhelm
-
-Haymann, Kläre
-
-Henrich, Helene
-
-Itzstein, Josef
-
-Klee, Ester
-
-Neumann, Hermann
-
-Oppenheimer, Gustav und Toni
-
-Pivovarczik, Helena
-
-Raab, Anton
-
-Schabinger, Heinrich
-
-Schabinger, Ludwig
-
-Schellhaas, Margarete und Schmitt, Karl
-
-Schneider, Karl
-
-Simon, Fritz und Lotte sowie Oswalt, Alfred
-
-Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil und Prochorow, Nikolai
-
-Stern, Kurt
-
-von Weinberg, Arthur
-
-von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander
-
-Weisbecker, Walter
-
-Weishaupt, Heinrich
-
-Wissenbach, Erwin
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Triftstraße 9
 
 ## Gallery
 

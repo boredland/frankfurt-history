@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Begemann, August](../../images/stolpersteine/9fc318193251_mainzer_landstr_121.jpg)
 
-Konrad
-
 August Adolph Karl Begemann wurde in Waddenhausen, heute Lage in Lippe, geboren
 
 und am 10. Februar 1895 evangelisch-reformiert getauft. Seine Eltern waren der
@@ -200,74 +198,6 @@ von Stosch finanziert.
 August Begemann
 
 August
-
-Begemann
-
-Geburtsdatum:
-
-2.2.1895
-
-Eingewiesen:
-
-30.5.1940
-
-„Heilanstalt“ Herborn, 21.7.1941 Hadamar
-
-Todesdatum:
-
-21.7.1941
-
-Stolperstein Mainzer Landstraße 121. August Begemann
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Ahrens, Manfred
-
-Begemann, August
-
-Bild, Hans
-
-Engelbrecht, Frida und Hans
-
-Fehler, Karl
-
-Heilmann, Friedrich
-
-Knorsch, Lilly
-
-Kopp, Nikolaus
-
-Neuser, Edgar
-
-Pappenheimer, Ruth
-
-Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni
-
-Rosenthal, Karl, Frieda und Irene
-
-Schwemmer, Karlheinz, Eduard und Rosa
-
-Stecker, Karl
-
-Stern, Paula und Hilde
-
-Strauß, Rebecka
-
-Weisbecker, Karl Johann
-
-Initiative Stolpersteine
-
-Stolpersteine im Stadtteil
-
-Stolpersteine im Gallus
 
 ## Gallery
 

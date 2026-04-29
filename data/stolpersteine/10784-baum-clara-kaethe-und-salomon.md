@@ -25,68 +25,6 @@ Klassenbild mit Käthe Baum
 
 Die Baums wollten emigrieren, aber nur die beiden älteren Töchter und der Sohn haben es geschafft. Ein Zeitzeuge erzählte, dass das Geschäft am 10. November 1938 beschmiert worden sei und SA-Männer davor standen. Anfang Dezember 1938 wurde das Geschäft abgemeldet. Die Nutznießer dieser „Arisierung“ genannten Quasi-Enteignung führten das Geschäft weiter. Im Dezember 1938 verließen die Baums auch ihre Wohnung oder mussten sie verlassen und zogen in die Innenstadt. Über ihre Ersparnisse durften sie nicht mehr verfügen; sie bekamen nur einen gewissen Betrag pro Monat zur Verfügung gestellt.
 
-Salomon Baum
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-19.07.1875
-
-19.10.1941 nach Lodz
-
-unbekannt
-
-Clara Baum, geb. Sichel
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-23.03.1884
-
-19.10.1941 nach Lodz
-
-unbekannt
-
-Stolperstein Untere Rützelstraße 1 Clara Baum
-
-Stolperstein untere Rützelstraße 1 Käthe Baum
-
-Stolperstein Untere Rützelstraße 1 Salomon Baum
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baum, Clara, Käthe und Salomon
-
-Krämer, Adolf
-
-Mayer, Balthasar
-
-Mayer, Elisabeth
-
-Rosenblum, Josef Simon
-
-Schmidt, Heinrich
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Untere Rützelstraße 1
-
 ## Gallery
 
 <!-- gallery:standard -->

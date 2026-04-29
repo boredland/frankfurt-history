@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Wohl, Lotte](../../images/stolpersteine/730606713da2_bornheimer_landwehr_85.jpg)
 
-Lotte
-
 Wohl wurde in Stettin als Tochter von Margaret und Adolf Wohl geboren. Sie kam
 
 wahrscheinlich 1938 nach Frankfurt, um in der Krankenpflege zu arbeiten. Sie
@@ -76,70 +74,6 @@ Der Stolperstein wurde
 initiiert von Lesley Urbach, dessen Mutter eine Tante von Lotte Wohl war, und
 
 finanziert von Bettina Eichhorn.
-
-Lotte Wohl
-
-Geburtsdatum:
-
-2.10.1908
-
-Deportation:
-
-24.9.1942 Raasiku /Estland
-
-Todesdatum:
-
-unbekannt
-
-Stolperstein Bornheimer Landwehr 85, Wohl, Lotte
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baer, Rebekka, Fanny und Emil
-
-Breitinger, Anton
-
-Durlacher, Dina, Julius, Leo und Hermine
-
-Hagner, Johanna
-
-Levitus, Regina und Jossel
-
-Löwenstein, Siegfried
-
-Rothschild, Bernhard, Lina und Else
-
-Salomons, Arnold, Mina, Dagobert und Hanna
-
-Schöps, Selma
-
-Seeger, Marie
-
-Steigerwald, Abraham und Hannchen
-
-Steinhardt, Ernst und Bertha
-
-Strauss, Else
-
-Strauss, Auguste und Dina
-
-Wertheim, Paul
-
-Wohl, Lotte
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Bornheimer Landwehr 85
 
 ## Gallery
 

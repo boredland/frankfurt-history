@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Schellhaas, Margarete und Schmitt, Karl](../../images/stolpersteine/a1d30e59bb41_hahnstr_18.jpg)
 
-Margarete
-
 Schellhaas, geb. Reuel wurde in Ötingen bei Forbach in
 
 Elsass-Lothringen in eine Bergmannsfamile geboren. Im Jahr 1918 zog die Familie
@@ -101,122 +99,6 @@ Dieter Schmitt aus Hanau, Enkel von Karl Schmitt, der bei der Verlegung
 anwesend war.
 
 Karl Schmitt
-
-Geburtsdatum:
-
-Haft:
-
-Todesdatum:
-
-23.10.1894
-
-26.1.1939 Frankfurt, 10.2.1939 Buchenwald
-
-24.12.1939
-
-Margarete Schellhaas
-
-, geb. Reuel
-
-Geburtsdatum:
-
-Haft:
-
-Todesdatum:
-
-27.10.1910
-
-9.-14.6.1942 Gefängnis Frankfurt, 30.10.1944 Ravensbrück, 16.11.1944 Sachsenhausen
-
-7.1.1945
-
-Stolpersteine Hahnstraße 18, Karl Schmitt
-
-Stolpersteine Hahnstraße 18, Margarete Schellhaas
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Alberti, Karl
-
-Bechhold, Heinrich
-
-Beisel, Johann Michael
-
-Blasius, Martha
-
-Buttler, Paul
-
-Chocholous, Sara
-
-Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek
-
-Ehrenfeld, Emil W.
-
-Eichhorn, Ludwig
-
-Gans, Ludwig von
-
-Gerhardt, Wilhelm
-
-Gerst, Ella und Gustav
-
-Greiff, Philipp
-
-Gumbmann, Wilhelm
-
-Haymann, Kläre
-
-Henrich, Helene
-
-Itzstein, Josef
-
-Klee, Ester
-
-Neumann, Hermann
-
-Oppenheimer, Gustav und Toni
-
-Pivovarczik, Helena
-
-Raab, Anton
-
-Schabinger, Heinrich
-
-Schabinger, Ludwig
-
-Schellhaas, Margarete und Schmitt, Karl
-
-Schneider, Karl
-
-Simon, Fritz und Lotte sowie Oswalt, Alfred
-
-Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil und Prochorow, Nikolai
-
-Stern, Kurt
-
-von Weinberg, Arthur
-
-von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander
-
-Weisbecker, Walter
-
-Weishaupt, Heinrich
-
-Wissenbach, Erwin
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Hahnstraße 18
 
 ## Gallery
 

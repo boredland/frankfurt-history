@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Tellgmann, Gustav](../../images/stolpersteine/68e8427da501_robert-mayer-str_47.jpg)
 
-Tellgmann
-
 wurde in Weida/Thüringen geboren und wohnte in Frankfurt unter anderem in der
 
 Robert-Mayer-Straße 47. Er war Offizier der Wehrmacht, Angehöriger des
@@ -43,96 +41,6 @@ Volksgerichtshofs verurteile Tellgmann am 18. Januar 1945 zum Tode. Nach
 Ablehnung seines Gnadengesuchs wurde er im Zuchthaus Brandenburg/Havel-Görden
 
 hingerichtet.
-
-Gustav Tellgmann
-
-Geburtsdatum:
-
-Verhaftung:
-
-Todesdatum:
-
-22.10.1891
-
-19.8.1944 Gefängnis Berlin, "Wehrkraftersetzung", Brandenburg-Görden
-
-26.2.1945 Hinrichtung
-
-Stolperstein Robert-Mayer-Straße 47 Gustav Tellgmann
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie; sowie Schauss, Karoline
-
-Bär, Karl S und Gretel
-
-Bernard, Georg
-
-Bienes, Arthur, Hermine, Marion und René
-
-Breslau, Klara, Lore und Paul
-
-Brown, Hagar Martin
-
-Cohn, Richard Gerson, Margot, Kurt und Helga Jenny
-
-Finkernagel, Karl
-
-Führ, Theresa
-
-Haag, Adam
-
-Hirschmann, Hedwig, Helmut Martin und Margot
-
-Höxter, Ernst, Werner und Alma
-
-Höxter, Hilde
-
-Höxter, Walter
-
-Kell, Bernhard
-
-Lehmann, Alma Rosa, Erich Leo, Julius und Richard
-
-Maaß, Siegmund und Gertrud
-
-May, Hugo und Johanna
-
-Pawel, Martin
-
-Rosenthal, Gustav und Rosa
-
-Roth, Salomon
-
-Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz
-
-Sonntag, Paul
-
-Steinthal, Moritz
-
-Tellgmann, Gustav
-
-Wagner, Georg
-
-Weil, Linda, Henny und Ludwig
-
-Wetterhahn, Emma, Siegmund und Ruth
-
-Zamojre, Marcus, Josef und Ellinor
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Robert-Mayer-Straße 47
 
 ## Gallery
 

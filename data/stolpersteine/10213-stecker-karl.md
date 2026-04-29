@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Stecker, Karl](../../images/stolpersteine/9ff54d255f84_frankenallee_60.jpg)
 
-Karl
-
 Stecker wurde in Frankfurt am Main geboren. Seine Eltern hatten in Bockenheim
 
 eine Trinkhalle. Er war evangelisch getauft, ledig und wohnte zuletzt in der
@@ -116,82 +114,6 @@ wurde initiiert von Martin Dill und Heidi Stögbauer von der Initiative
 Stolpersteine Frankfurt am Main und finanziert vom Männerchor „Die Mainsirenen e.V.“
 
 Dank an Rainer Hoffschildt (Schwullesbisches Archiv, Hannover, SARCH) für die Hinweise zum Verfolgungsschicksal von Karl Stecker.
-
-Bericht der Kripo Gießen zum Verbleib von Karl Stecker, 1948
-
-Karl Stecker
-
-Geburtsdatum:
-
-13.1.1900
-
-Verurteilt
-
-§ 175
-
-Haft:
-
-4.1.1934 Frankfurt, Gefängnis Freiendiez,
-
-1936 Ziegenhain, 1938 Schwäbisch Hall, 1939 Lager Esterwegen, 1940 Butzbach, 1942
-
-KZ Mauthausen-Gusen
-
-Todesdatum:
-
-Dezember 1942
-
-Stolperstein Frankenallee 60, Stecker, Karl
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Ahrens, Manfred
-
-Begemann, August
-
-Bild, Hans
-
-Engelbrecht, Frida und Hans
-
-Fehler, Karl
-
-Heilmann, Friedrich
-
-Knorsch, Lilly
-
-Kopp, Nikolaus
-
-Neuser, Edgar
-
-Pappenheimer, Ruth
-
-Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni
-
-Rosenthal, Karl, Frieda und Irene
-
-Schwemmer, Karlheinz, Eduard und Rosa
-
-Stecker, Karl
-
-Stern, Paula und Hilde
-
-Strauß, Rebecka
-
-Weisbecker, Karl Johann
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Frankenallee 60
 
 ## Gallery
 

@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Schain, Josef](../../images/stolpersteine/44259af52592_brueningstr_34__300x400.jpg)
 
-Josef Schain und Familie
-
 Meyer Szajn wurde in Chmielnik, Kreis Kielce geboren und kam 1917 aus Lodz nach Höchst, wo er wegen des kriegsbedingten Arbeitskräfteausfalls angeworben worden war. In den Farbwerken sollte er sechs Wochen bleiben. Nach Ablauf dieser Zeit wollte er nach Polen zurück. Von den Behörden wurde ihm gesagt, dass er erst nach Kriegsende zurückkehren könnte. 1918 hatte er einen sehr schweren Arbeitsunfall und war über ein Jahr im Krankenhaus. Danach blieb er in Höchst, zumal er durch den Unfall Rechte erworben hatte, die er nicht aufgeben wollte. In den Farbwerken wurde er dann zum Glasbläser ausgebildet und hatte eine sitzende Tätigkeit.
 
 Er heiratete 1920 die katholische Katharina Moos trotz Schwierigkeiten seitens des Staates wie auch des Schwiegervaters. Er trat dabei zum Katholizismus über, sein Name wurde in Josef Schain entpolnisiert, seine Frau musste ihre deutsche Staatsangehörigkeit aufgeben und die polnische annehmen. 1921 kam ihre Tochter, Josefine, zur Welt. Diese besuchte bis 1935 die Hostatoschule, 1935 wurde ihr als „Ausländerin“ die Aufnahme in die Berufsschule verweigert. In dieser Zeit wurde der Name auch wieder in die polnische Schreibweise Szajn geändert. Eine Lehrstelle fand sie erst über die Vermittlung des Kantors Levi im Kaufhaus Schiff, das jüdische Eigentümer hatte.
@@ -32,116 +30,6 @@ Nach dem deutschen Überfall auf Polen am 01.09.1939 wurde in die jetzt „staat
 Josefine, die als „Halbjüdin“ galt, aber im katholischen Glauben aufgewachsen und zur Kommunion gegangen war, suchte Hilfe auch bei der Kirche. Den damaligen Pfarrer Schweikert konnte sie im Büro nie erreichen. Als sie ihn auf der Straße sah, wechselte er die Seite. Auch der Arisierer des Kaufhauses Schiff, Conrady, entließ sie 1940. Große Unterstützung fand Josefine durch ihren späteren Mann Fritz Walter und dessen Eltern sowie dem Polizeiobermeister Karl Koch, der Nachbar der Schains war. Immer wenn Transporte vorgesehen waren, die auch Josefine betrafen, warnte sie Herr Koch und sie konnte untertauchen. „Dies geschah vier- oder fünfmal und als beim letzten Transport die Zeit ganz kurz war, versteckten Herr und Frau Koch mich in ihrer Wohnung.“ So entging sie durch mutige und moralisch handelnde Menschen dem Schicksal ihres Vaters und dessen Familie.
 
 In ihrem Bericht von 1989 schrieb Josefine in den Vorbemerkungen: „Wie soll man schildern was Not, Sorge und Angst in dieser Zeit gewesen ist? Ein Beispiel dafür: Wenn man aus tiefstem Schlaf aufrecht im Bett sitzt, weil Schritte die Treppe hoch kamen und vor der Tür stehen blieben. Wie kann man erklären was es bedeutet, aus einem vollkommen normalen Familienleben, Zusammenleben mit den Nachbarn, herausgerissen wird, um als Aussätziger behandelt zu werden? Wie kann man damit fertig werden, dass gute Nachbarn plötzlich zu hässlichen Feinden werden oder was noch schlimmer ist, dich plötzlich nicht mehr kennen und verschämt wegsehen? Noch härter trifft es, wenn dies angeblich gute Freunde tun. Umgekehrt: Welche großartigen, menschlichen Regungen wach werden bei Menschen, an denen man vorbeiging, oder die man gar nicht kannte, oder bei denen man es gar nicht vermutet hätte, die plötzlich zu Helfern in der Not werden und ein immenses Risiko auf sich nahmen.“
-
-Josef  Schain
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-07.09.1895
-
-28.10.1938 nach Bentschen und Lodz
-
-05.04.1941
-
-Stolperstein Brüningstraße 34 - Josef Schain
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Abermann, Jettchen
-
-Adler, Rosa, Sally, Alma und Claire
-
-Baum, Martha und Wallega, Erna
-
-Blumenthal, Meta und Fritz Günther
-
-Cohen, Bernhard, Theresia, Helene und Alice
-
-Cohen, David, Betti, Fritz und Paul
-
-de Beer, Ernst
-
-Ettinghausen, Berta
-
-Freudenthal, Julius, Margot und Betty
-
-Gerson, Gustav und Berta
-
-Grünspahn, Nathan, Esther Martha, Katharina und Leo
-
-Hahn, Rosa, Meta und Emanuel
-
-Hahn, Siegfried
-
-Hainebach, Emma und Lehmann, Emil
-
-Hammerschlag, Jenny
-
-Hartmann, Fritz
-
-Hartogsohn,  Carl und Hedwig
-
-Hirsch, Hugo
-
-Hirsch, Karl
-
-Horn, Georg
-
-Kahn, Ludwig und Nanette
-
-Königsberger, Jenny und Lewin, Felix, Sidonie und Henry
-
-Kühn, Hermann und Klara und Julia Hamlet
-
-Levi, Rosa und Kalmann und Frank, Else
-
-Levy, Amalie und Hugo
-
-Lubowitzky, Paula
-
-Mannheimer, Meta und David
-
-Marx, Hermann
-
-Mayer, Hermine und Gertrude
-
-Mayer, Julie
-
-Michalson, Franz
-
-Nachmann, Ludwig, Paula und Hertha
-
-Neumann, Amalie, Wolf und Herta
-
-Odenbach, Georg und Mina
-
-Schain, Josef
-
-Schuhmann, Friedrich
-
-Stern, Manfred
-
-Wehrle, Herrmann Joseph
-
-Wolff, Irma und Gerhard Julius
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Brüningstraße 34
 
 ## Gallery
 

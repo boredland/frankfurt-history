@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen](../../images/stolpersteine/53a143951a11_wilhelm-leuschner-strasse-83.jpg)
 
-Herbert Kastellan
-
 Herbert Kastellan wurde am 3.
 
 Mai 1885 in Koschmin (Posen) als Sohn des Händlers Adolf Kastellan und seiner
@@ -258,110 +256,6 @@ Bürgerstraße 87
 Anna Rosa Kastellan
 
 , geb. Schönhof
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-1.6.1892
-
-19.10.1941 Lodz/Litzmannstadt
-
-unbekannt
-
-Herbert Kastellan
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-3.5.1885
-
-19.10.1941 Lodz/Litzmannstadt
-
-unbekannt
-
-Ellen Goldschmidt
-
-Geburtsdatum:
-
-Flucht:
-
-2.3.1914
-
-1939 England, 1940 USA
-
-Lotte Kastellan
-
-Geburtsdatum:
-
-Flucht:
-
-17.8.1922
-
-1938 England, 1940 USA
-
-Stolperstein Kastellan, Anna Rosa
-
-Stolperstein Kastellan, Herbert
-
-Stolperstein Goldschmidt, Ellen
-
-Stolperstein Kastellan, Lotte
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander
-
-Geiss, Lina
-
-Gerlinger, Anna Lina
-
-Germann, Edmund
-
-Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen
-
-Löwensberg, Käthe sowie Mainzer, Erich, Grete, Gustav und Irma
-
-Luwisch, Etli, Arthur, Lilly und Hermann
-
-Mahler, Rudolf
-
-Ochs, Heinrich
-
-Pauli, Paula
-
-Poser Erna
-
-Schmidt-Fellner, Carola und Hermann
-
-Sommer, Ernst und Margot
-
-Steinschneider, Adolf Moritz
-
-Strauß, Josef
-
-Weichbrodt, Raphael und Dorrit
-
-Wolfgang, Toni
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Wilhelm-Leuschner-Straße 83
 
 ## Gallery
 

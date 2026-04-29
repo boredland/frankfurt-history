@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Bruder, Karl](../../images/stolpersteine/73b56ae21f23_bathgartenweg_6.jpg)
 
-Karl Bruder
-
 wurde in Nieder-Eschbach als Sohn des Schreiners Christian Wilhelm Bruder (geb.
 
 17. Februar 1887 in Nieder-Eschbach, gest. 26. August 1931 in Nieder-Eschbach)
@@ -98,48 +96,6 @@ Der Stolperstein wurde initiiert von
 Frau Inge Appel (Nieder-Eschbach) und dem Neffen von Karl Bruder, Herrn Jürgen
 
 Karl Bruder (Nieder-Eschbach), der den Stein auch finanziert.
-
-Karl Bruder
-
-Karl Bruder
-
-Geburtsdatum:
-
-8.2.1917
-
-Einweisung:
-
-13.11.1940 Universitäts-Nervenklinik
-
-Gießen,
-
-Zwangssterilisation, überlebt
-
-Stolperstein Bathgartenweg 6, Bruder, Karl
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Bruder, Karl
-
-Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf
-
-Ehrlich, Siegmund, Malchen, Frieda und Ilse
-
-Müller, Sidonie
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Bathgartenweg 6
 
 ## Gallery
 

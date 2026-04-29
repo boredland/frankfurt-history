@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Welzenheimer, Peter Anton](../../images/stolpersteine/b79eba07ffb0_im_eichwaeldchen_32.jpg)
 
-Peter Anton
-
 Welzenheimer wurde in Frankfurt- Sossenheim als Sohn von Lorenz Welzenheimer
 
 und seiner Ehefrau Margarete, geb. Weidenfeller, geboren und katholisch
@@ -50,36 +48,6 @@ nach Aussage der Tochter Angst, dass sie mit dem Namen Welzenheimer weiter
 verfolgt werden würden.
 
 Der Stolperstein wurde initiiert von Peter Hankiewicz, Sossenheim
-
-Peter Anton Welzenheimer
-
-Geburtsdatum:
-
-Hingerichtet:
-
-6.10.1906
-
-19.4.1944  Frankfurt Preungesheim
-
-Stolperstein Im Eichwäldchen 32, Peter Anton Welzenheimer
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Welzenheimer, Peter Anton
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Am Eichwäldchen 32
 
 ## Gallery
 

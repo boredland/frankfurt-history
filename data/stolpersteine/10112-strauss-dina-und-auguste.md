@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Strauss, Dina und Auguste](../../images/stolpersteine/730606713da2_bornheimer_landwehr_85.jpg)
 
-Auguste
-
 Strauss wurde in Gießen geboren, ihre Eltern waren Abraham und Dina
 
 Wallenstein. Sie wuchs in Ruppertsburg bei Gießen auf, war
@@ -66,96 +64,6 @@ Die Stolpersteine wurden initiiert
 von Ken Krug, Urenkel von Auguste
 
 Strauss, der auch bei der Verlegung anwesend war.
-
-Auguste und Simon Strauss, um 1930
-
-Dina Strauss
-
-Dina Strauss im Jüdischen Krankenhaus, 1935
-
-Dina Strauss mit Hannelore Strauss, um 1936
-
-Dina und Auguste Strauss, um 1935
-
-Dina mit Bruder David (Theo) Strauss (links), um 1933
-
-Dina Strauss mit Kollegen im Jüdischen Krankenhaus um 1925
-
-Dina Strauss
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-27.4.1892
-
-15.9.1942 Theresienstadt
-
-24.9.1942
-
-Auguste Strauss
-
-Geburtsdatum:
-
-Flucht:
-
-22.1.1864
-
-1941 USA
-
-Stolpersteine Bornheimer Landwehr 85, Dina Strauss
-
-Stolpersteine Bornheimer Landwehr 85, Dina Strauss
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baer, Rebekka, Fanny und Emil
-
-Breitinger, Anton
-
-Durlacher, Dina, Julius, Leo und Hermine
-
-Hagner, Johanna
-
-Levitus, Regina und Jossel
-
-Löwenstein, Siegfried
-
-Rothschild, Bernhard, Lina und Else
-
-Salomons, Arnold, Mina, Dagobert und Hanna
-
-Schöps, Selma
-
-Seeger, Marie
-
-Steigerwald, Abraham und Hannchen
-
-Steinhardt, Ernst und Bertha
-
-Strauss, Else
-
-Strauss, Auguste und Dina
-
-Wertheim, Paul
-
-Wohl, Lotte
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Bornheimer Landwehr 85
 
 ## Gallery
 

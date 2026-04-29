@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Oppenheimer Kurt](../../images/stolpersteine/d6cb699bc128_hans-thoma-str_3.jpg)
 
-Kurt
-
 Oppenheimer wurde in Frankfurt am Main als Sohn von David Oppenheimer und
 
 Elisabeth Oppenheimer, geb. Klag (geb. 17.6.1867) geboren. Er hatte eine am 24
@@ -113,124 +111,6 @@ Aus dem Entschädigungsantrag (1)
 Aus dem Entschädigungsantrag (2)
 
 Kurt Oppenheimer
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-4.5.1904
-
-14.6.1943 Auschwitz
-
-30.10.1943
-
-Stolperstein Hans-Thoma-Straße 3/II Kurt Oppenheimer
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula
-
-Amram, Frida und Julie, und Goldine und Seligmann Hirschberg
-
-Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß
-
-Berberich, Erna und Moses
-
-Berndt, Gretel
-
-Blüthenthal, Paul
-
-Dessauer, Friedrich, Elisabeth, Maria und Christoph
-
-Embden, Gustav
-
-Fiege, Caroline
-
-Haase, Josef
-
-Habermehl, Martha
-
-Halle, Isidor von
-
-Häuslein, Otto
-
-Heinemann, Julius
-
-Herpe, Selma und Gisela
-
-Hess, Carry, Lina und Nini
-
-Hesse, Kurt Josef, Meta und Käthe
-
-Jacobi, Margit, Erwin und Dora
-
-Jakobi, Oswald Herbert und Ermann, Isaac und Sara
-
-Kalischer, Georg
-
-Kramer, Ferdinand und Beate
-
-Krieg, Oscar
-
-Leiffmann, Else, Kurt Joachim und Rolf Herbert
-
-Liebmann, Alma, Ernst und Marianne
-
-Löbenstein, Siegmund, Mally, Luise und Helmut
-
-Margulies, Cilly, Jenny, Moritz und Wolf B.
-
-Marx, Selma, Kurt und Walter
-
-Mayer, Martha
-
-Meister, Elisabeth
-
-Nees, Julius
-
-Neumann, Walter
-
-Neumann, Walter und Charlotte
-
-Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold
-
-Oppenheimer, Kurt
-
-Perlhefter, Günther
-
-Sass, Georg und Laura sowie Tuch, Charlotte
-
-Schmid, Katharina
-
-Stadel, Frieda
-
-Stern, Alfred Siegfried, Antonie und Ilse
-
-Ullmann, Heinrich
-
-Wahl, Otto
-
-Weis, Hedwig
-
-Weiss, Ludwig und Helene
-
-Wertheimer, Lydia und Martha
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Hans-Thoma-Straße 3/II
 
 ## Gallery
 

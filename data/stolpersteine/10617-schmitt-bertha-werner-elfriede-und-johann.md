@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Schmitt, Bertha, Werner, Elfriede und Johann](../../images/stolpersteine/da47ad471036_praechterstr_21.jpg)
 
-Bertha Schmitt wurde
-
 in Coenen bei Trier geboren. Ihre Eltern waren der Händler Jakob Hayum und
 
 Johanna, geb.Mayer. Seit dem 10. Dezember 1914 war sie mit dem katholischen
@@ -88,84 +86,6 @@ Ilse Hirsch (2. von links) und Elfriede Schmitt (3. von rechts
 Bertha Schmitt
 
 , geb. Hayum
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-3.4.1886
-
-28.8.1942 Ravensbrück, Oktober 1942 Auschwitz
-
-28.8.1942 Ravensbrück, Oktober 1942 Auschwitz
-
-Werner Schmitt
-
-Geburtsdatum:
-
-Flucht:
-
-Jg. 1915
-
-1936 Italien/USA
-
-Elfriede Schmitt
-
-Geburtsdatum:
-
-Deportation:
-
-2.1.1919
-
-14.2.1945
-
-Theresienstadt, befreit
-
-Johann Schmitt
-
-Geburtsdatum:
-
-Zwangsarbeit:
-
-9.2.1885
-
-1944 Einberufung zur Organisation Todt, befreit
-
-Stolperstein Prächterstraße 21, Bertha Schmitt
-
-Stolperstein Prächterstraße 21, Werner Schmitt
-
-Stolperstein Prächterstraße 21, Elfriede Schmitt
-
-Stolperstein Prächterstraße 21, Johann Schmitt
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Kaltwasser, Adam und Wilhelmine
-
-Kantorowicz, Margarete, Ernst und Levita, Marion Ellen
-
-Maier, Hans
-
-Schmidt, Karoline Johanna
-
-Schmitt, Bertha, Werner, Elfriede und Johann
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Prächterstraße 21
 
 ## Gallery
 

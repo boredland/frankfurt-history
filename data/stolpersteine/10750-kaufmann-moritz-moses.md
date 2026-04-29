@@ -36,52 +36,6 @@ Der
 
 Stolperstein wurde initiiert von der Nichte Daniela Epstein, Jerusalem.
 
-Moritz Moses Kaufmann
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-16.2.1873
-
-1.9.1942 Theresienstadt
-
-26.10.1942
-
-Stolperstein Stuttgarter Straße 34 Moritz Moses Kaufmann
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Becker, Martha
-
-Grünberg, Carl und Hilde
-
-Kaufmann, Moritz Moses
-
-Lehr, Klara
-
-Lehrberger, Emil, Lina und Rose
-
-Lismann, Hermann
-
-Valfer, Frieda und Heinrich
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Stuttgarter Straße 24
-
 ## Gallery
 
 <!-- gallery:standard -->

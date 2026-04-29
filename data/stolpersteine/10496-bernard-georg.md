@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Bernard, Georg](../../images/stolpersteine/cc2184df30ee_marburger_strasse_16.jpg)
 
-Georg
-
 Bernard wurde in Dobersdorf in Oberschlesien geboren. Am 18. Oktober 1937
 
 heiratete er die Hotelangestellte Albertine Luis Schiller.
@@ -72,100 +70,6 @@ verstarb er in Dachau.
 Der Stolperstein wurde
 
 initiiert von Marion Goers/Berlin und finanziert von IG Metall Frankfurt.
-
-Georg Bernard
-
-Geburtsdatum:
-
-29.4.1876
-
-Haft:
-
-29.5.1934
-
-Frankfurter Polizeigefängnis, 7.11.1934  Esterwegen, Haft 4.9.1941, 22. 8. 1944 Frankfurter
-
-Polizeigefängnis, 16.9.1944 „Schutzhaft“ Dachau
-
-Todesdatum:
-
-4. 3.1945
-
-Stolperstein Marburger Straße 16, Bernard, Georg
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Abeles, Moritz, Else Hilde, Max Günther und Anne-Marie; sowie Schauss, Karoline
-
-Bär, Karl S und Gretel
-
-Bernard, Georg
-
-Bienes, Arthur, Hermine, Marion und René
-
-Breslau, Klara, Lore und Paul
-
-Brown, Hagar Martin
-
-Cohn, Richard Gerson, Margot, Kurt und Helga Jenny
-
-Finkernagel, Karl
-
-Führ, Theresa
-
-Haag, Adam
-
-Hirschmann, Hedwig, Helmut Martin und Margot
-
-Höxter, Ernst, Werner und Alma
-
-Höxter, Hilde
-
-Höxter, Walter
-
-Kell, Bernhard
-
-Lehmann, Alma Rosa, Erich Leo, Julius und Richard
-
-Maaß, Siegmund und Gertrud
-
-May, Hugo und Johanna
-
-Pawel, Martin
-
-Rosenthal, Gustav und Rosa
-
-Roth, Salomon
-
-Schwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz
-
-Sonntag, Paul
-
-Steinthal, Moritz
-
-Tellgmann, Gustav
-
-Wagner, Georg
-
-Weil, Linda, Henny und Ludwig
-
-Wetterhahn, Emma, Siegmund und Ruth
-
-Zamojre, Marcus, Josef und Ellinor
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Marburger Straße 16
 
 ## Gallery
 

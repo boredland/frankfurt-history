@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Burgheim, Clara](../../images/stolpersteine/ca429e5f8e38_henry_budge_str_54.jpg)
 
-Clara Burgheim, Vornamen auch Klara Louise
-
 Margarethe, wurde in Frankfurt am Main geboren. Sie blieb ledig, hatte einen
 
 Bruder, der bereits in den 1920er Jahren nach Südamerika auswanderte, und
@@ -51,84 +49,6 @@ engste Bezugsperson gewesen sein. Für Otto und Johanna Rothschild wurden
 Stolpersteine in der Siesmayerstraße 8 verlegt.
 
 Der
-
-Stolperstein wurde initiiert von Udi Rothschild aus Brit-Ytzhak/Israel
-
-Clara Burgheim
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-19.10.1888
-
-19.10.1941 Lodz
-
-unbekannt
-
-Stolperstein Henry-Budge-Straße 54, Clara Burgheim
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Beicht, Karl und Edith
-
-Burgheim, Clara
-
-Cahn, Mathilde und Robert
-
-Epstein, Alice Betty und Fritz
-
-Epstein, Paul
-
-Fuchs, Nelly und Rosa Natt-Fuchs
-
-Goldstern, Susanne und Ottilie Janik
-
-Grünebaum, Rosa, Gerson und Alfred
-
-Held, Jella
-
-Hild, Willy und Frieda
-
-Hofmann, Babette und Alfred Max
-
-Kaiser, Siegmund
-
-Kanne Anna und Oechler Anna
-
-Kinderheim der Flersheim-Sichel-Stiftung
-
-Mokrauer, Fanny und Lotte
-
-Neumann, Kurt
-
-Reinheimer, Ludwig
-
-Reutlinger, Hanna, Gerd und Rolf
-
-Rosenberg, Paula
-
-Simon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi
-
-Westheim, Gottfried und Julius
-
-Zehden, Artur und Alma
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Henry-Budge-Straße 54
 
 ## Gallery
 

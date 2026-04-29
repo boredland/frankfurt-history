@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Neumann, Walter](../../images/stolpersteine/70f6e358d927_stegstr_36.jpg)
 
-Walter Neumann
-
 Walter Neumann wurde in Kattowitz geboren und verzog als Kind mit
 
 seinen Eltern 1887 nach Krakau, von dort zwei Jahre später nach
@@ -74,126 +72,6 @@ Walter Neumanns Witwe starb in den 1970er Jahren in einem Altersheim
 in Norddeutschland.
 
 Der Stolperstein wurde initiiert von Hanna und Diether Eckardt.
-
-Walter Neumann
-
-Geburtsdatum:
-
-Haft:
-
-Todesdatum:
-
-14.6.1881
-
-1938 Buchenwald
-
-14.11.1938
-
-Stolperstein Stegstraße 36, Walter Neumann
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Adler, Reinhold, Margarethe, Wanda, Getrud, Gisela, Heinz, Herbert, Rolf und Ursula
-
-Amram, Frida und Julie, und Goldine und Seligmann Hirschberg
-
-Bauer, Hugo, Wilhelm Caspari, Erwin Stilling, Ferdinand Blum und Eduard Strauß
-
-Berberich, Erna und Moses
-
-Berndt, Gretel
-
-Blüthenthal, Paul
-
-Dessauer, Friedrich, Elisabeth, Maria und Christoph
-
-Embden, Gustav
-
-Fiege, Caroline
-
-Haase, Josef
-
-Habermehl, Martha
-
-Halle, Isidor von
-
-Häuslein, Otto
-
-Heinemann, Julius
-
-Herpe, Selma und Gisela
-
-Hess, Carry, Lina und Nini
-
-Hesse, Kurt Josef, Meta und Käthe
-
-Jacobi, Margit, Erwin und Dora
-
-Jakobi, Oswald Herbert und Ermann, Isaac und Sara
-
-Kalischer, Georg
-
-Kramer, Ferdinand und Beate
-
-Krieg, Oscar
-
-Leiffmann, Else, Kurt Joachim und Rolf Herbert
-
-Liebmann, Alma, Ernst und Marianne
-
-Löbenstein, Siegmund, Mally, Luise und Helmut
-
-Margulies, Cilly, Jenny, Moritz und Wolf B.
-
-Marx, Selma, Kurt und Walter
-
-Mayer, Martha
-
-Meister, Elisabeth
-
-Nees, Julius
-
-Neumann, Walter
-
-Neumann, Walter und Charlotte
-
-Nussbaum, Jakob, Marie, Bernhard, Elisabeth und Reinhold
-
-Oppenheimer, Kurt
-
-Perlhefter, Günther
-
-Sass, Georg und Laura sowie Tuch, Charlotte
-
-Schmid, Katharina
-
-Stadel, Frieda
-
-Stern, Alfred Siegfried, Antonie und Ilse
-
-Ullmann, Heinrich
-
-Wahl, Otto
-
-Weis, Hedwig
-
-Weiss, Ludwig und Helene
-
-Wertheimer, Lydia und Martha
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Stegstraße 36
 
 ## Gallery
 

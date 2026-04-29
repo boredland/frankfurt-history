@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Allfeld, Dora Hans und Walter](../../images/stolpersteine/1102feffdf79_renneroder_str_23.jpg)
 
-Walter Allfeld wurde in Sossenheim
-
 als Sohn von Johannes Allfeld und Pauline, geb. Blumenthal, geboren, war
 
 protestantisch und von Beruf Maschinenschlosser. Der Vater starb 1935. Dora
@@ -82,80 +80,6 @@ Dora Allfeld starb 1975 im Queens General Hospital in New York.
 Der
 
 Stolperstein wurde initiiert von Heinz Hupfer und finanziert vom Heimat- und Geschichtsverein Sossenheim.
-
-Karteieintrag für Dora Allfeld im "Ghetto" Theresienstadt
-
-Walter Allfeld auf dem Wahlvorschlag der KPD, Sossenheimer Zeitung, 26.4.1924
-
-Walter Allfeld
-
-Geburtsdatum:
-
-5.5.1894
-
-Haft:
-
-17.1.1945,
-
-18.2.1945-17.4.1945 Clausthal-Zellerfeld, Befreit
-
-Dora Allfeld
-
-, geb. Adler
-
-Geburtsdatum:
-
-6.4.1889
-
-Haft:
-
-17.1.1945
-
-Deportation:
-
-14.2.1945 Theresienstadt, Befreit
-
-Hans Allfeld
-
-Geburtsdatum:
-
-8.6.1921
-
-Haft:
-
-17.1.1945,
-
-18.2.1945-17.4.1945 Clausthal-Zellerfeld, Befreit
-
-Stolperstein Renneroder Straße 23, Allfeld, Walter
-
-Stolperstein Renneroder Straße 23, Allfeld, Dora
-
-Stolperstein Renneroder Straße 23, Allfeld, Hans
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Allfeld, Dora, Hans und Walter
-
-Roth, Mathilde
-
-Weber, Johann Josef
-
-Weinreiter, Josef
-
-Initiative Stolpersteine
-
-Stolpersteine Standorte
-
-Renneroder Straße 23
 
 ## Gallery
 

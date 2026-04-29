@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Heilmann, Friedrich](../../images/stolpersteine/e8e2c1e6c62e_steuernagelstr_60.jpg)
 
-Friedrich Heilmann wurde in Frankfurt am Main als
-
 Sohn von Johann Adam Heilmann und dessen Ehefrau geboren. Er heiratete am 15.
 
 10. 1910 Marie Luise Zeiss. Aus dieser Ehe ging der Sohn Karl Friedrich hervor. Wie seine Eltern und seine Geschwister engagierte er
@@ -102,68 +100,6 @@ Hanna und
 Dieter Eckhardt, Ich bin radical bis auf die Knochen. Biografie Meta
 
 Quarck-Hammerschlag. Frankfurt am Main 2016.
-
-Friedrich Heilmann
-
-Geburtsdatum:
-
-Todesdatum:
-
-27.10.1886
-
-10.5.1933 (Suizid)
-
-Stolperstein Steuernagelstraße 60, Friedrich Heilmann
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Ahrens, Manfred
-
-Begemann, August
-
-Bild, Hans
-
-Engelbrecht, Frida und Hans
-
-Fehler, Karl
-
-Heilmann, Friedrich
-
-Knorsch, Lilly
-
-Kopp, Nikolaus
-
-Neuser, Edgar
-
-Pappenheimer, Ruth
-
-Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni
-
-Rosenthal, Karl, Frieda und Irene
-
-Schwemmer, Karlheinz, Eduard und Rosa
-
-Stecker, Karl
-
-Stern, Paula und Hilde
-
-Strauß, Rebecka
-
-Weisbecker, Karl Johann
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Steuernagelstraße 60
 
 ## Gallery
 

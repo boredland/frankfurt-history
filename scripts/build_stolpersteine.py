@@ -71,6 +71,74 @@ def extract_person_name(bio_text: str) -> str:
     return ""
 
 
+STOP_MARKERS = {
+    "Geburtsdatum:", "Geburtsdaten:", "Geburtsdatum", "Sterbedatum:",
+    "teilen", "tweet", "mitteilen", "mail",
+    "Initiative Stolpersteine", "Stolperstein Standort", "Standort Stolpersteine",
+}
+
+# Lines like "Stolperstein <street> <name>" that appear before the share buttons.
+_CAPTION_PREFIX = re.compile(r"^Stolperstein(e)?\b")
+
+
+def clean_bio_text(bio_text: str, person_name: str) -> tuple[str, dict[str, str]]:
+    """Trim share/nav cruft and pull birth/deport/death meta from the tail.
+
+    Returns (clean_text, meta) where meta has keys 'birth', 'deportation', 'death'
+    when found.
+    """
+    paragraphs = [p.strip() for p in bio_text.split("\n\n") if p.strip()]
+
+    # Drop leading title duplicates (e.g. first line == person_name)
+    while paragraphs and paragraphs[0] in {person_name, person_name.replace(",", "")}:
+        paragraphs.pop(0)
+    # Drop a leading short image-caption-ish line (no sentence punctuation, < 60 chars)
+    if paragraphs and len(paragraphs[0]) < 60 and not re.search(r"[.!?]", paragraphs[0]):
+        paragraphs.pop(0)
+
+    cut = len(paragraphs)
+    for i, p in enumerate(paragraphs):
+        if p in STOP_MARKERS or any(p.startswith(m) for m in ("Geburtsdatum", "Sterbedatum")):
+            cut = i
+            break
+
+    body_paragraphs = paragraphs[:cut]
+    tail = paragraphs[cut:]
+
+    meta: dict[str, str] = {}
+    labels = {"Geburtsdatum:": "birth", "Deportation:": "deportation", "Todesdatum:": "death"}
+    pending: list[str] = []
+    values: list[str] = []
+    for p in tail:
+        if p in labels:
+            pending.append(labels[p])
+        elif pending and p not in STOP_MARKERS and not _CAPTION_PREFIX.match(p):
+            if re.match(r"\d", p) or "deportiert" in p.lower() or "auschwitz" in p.lower():
+                values.append(p)
+    for key, val in zip(pending, values):
+        meta[key] = val
+
+    last_name = person_name.split(",")[0].strip() if "," in person_name else person_name
+    abbrev_re = re.compile(r"\b(?:geb|geboren|verh|verstorben|Dr|Prof|St|Jr|Sr|Nr|jr)\.")
+
+    def is_caption_like(s: str) -> bool:
+        if len(s) >= 100:
+            return False
+        stripped = abbrev_re.sub("", s)
+        return not re.search(r"[.!?](?:\s|$)", stripped)
+
+    while body_paragraphs:
+        last = body_paragraphs[-1]
+        if not is_caption_like(last):
+            break
+        if _CAPTION_PREFIX.match(last) or (last_name and last_name in last):
+            body_paragraphs.pop()
+            continue
+        break
+
+    return "\n\n".join(body_paragraphs), meta
+
+
 def build_markdown(person_name: str, address: str, laying_date: str,
                    bio_text: str, bio_images: list[str],
                    location_images: list[str], source_url: str,
@@ -99,17 +167,9 @@ def build_markdown(person_name: str, address: str, laying_date: str,
         lines.append(f"![Stolperstein {person_name}]({location_images[0]})")
         lines.append("")
 
-    # Clean up bio text: skip the title lines and navigation
-    bio_lines = bio_text.split("\n\n")
-    skip_start = 0
-    for i, line in enumerate(bio_lines):
-        if line.strip() == person_name or "Stolperstein-" in line:
-            skip_start = i + 1
-        else:
-            break
-    clean_bio = "\n\n".join(bio_lines[skip_start:])
-    if clean_bio.strip():
-        lines.append(clean_bio.strip())
+    clean_bio, _ = clean_bio_text(bio_text, person_name)
+    if clean_bio:
+        lines.append(clean_bio)
         lines.append("")
 
     if bio_images:

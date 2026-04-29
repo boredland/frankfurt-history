@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Kullmann, Karl](../../images/stolpersteine/98554a5c9b59_korffstr_9.jpg)
 
-Karl
-
 Kullmann wurde in Harheim, damals im Kreis Friedberg, als Sohn von Franz Jakob
 
 Lorenz Kullmann (1865-1930) und Katharine Agnes Kullmann, geb. Seib (1875-1928)
@@ -86,40 +84,6 @@ Harheimer Gefallenen, Frankfurt am Main 2017, Selbstverlag.
 Dieter Zakowski und Margot Schäfer,
 
 Himmelfahrtskommando. Karl Heinrich Kullmann im nationalsozialistischen Widerstand, Ellwangen 2021.
-
-Karl Kullmann
-
-Geburtsdatum:
-
-31.10.1907
-
-Haft:
-
-26.6.1934 Polizeigefängnis Klapperfeldgasse, 1.11.1934 Zuchthaus Kassel-Wehlheiden
-
-Todesdatum:
-
-17.10.1941
-
-Stolperstein Korffstraße 9, Kullmann, Karl
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Kullmann, Karl
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Korffstraße 9
 
 ## Gallery
 

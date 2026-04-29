@@ -29,48 +29,6 @@ Anni Ege überlebte ihren Mann nicht lange, sie starb in seelischer Zerrüttung 
 
 An Albrecht Ege erinnert in Frankfurt die Egestraße in der Siedlung Westhausen und ein kleines Denkmal auf dem Friedhof Westhausen neben dem Grab seiner Frau. Eine kniende Figur aus Sandstein, die Hände gebunden, mit der Inschrift „Die Frankfurter Arbeiterbewegung gedenkt seiner“ auf einer Metallplatte.
 
-Albrecht Ege
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-31.01.1878
-
-Verhaftung 22.06.1942
-
-23.01.1943 Hinrichtung im Stafgefängnis Frankfurt - Preungesheim
-
-Quelle
-
-Literatur: Michael Bermejo, Die Opfer der Diktatur. Frankfurter Stadtverordnete und Magistratsmitglieder als Verfolgte des NS-Staates. Geschichte der Frankfurter Stadtverordnetenversammlung Band III, Frankfurt a.M. 2006
-
-Stolperstein Am Treutengraben 3 Albrecht Ege
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Ege, Albrecht
-
-Simon, Rudolf
-
-Zins, Selma
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Am Treutengraben 3
-
 ## Gallery
 
 <!-- gallery:standard -->

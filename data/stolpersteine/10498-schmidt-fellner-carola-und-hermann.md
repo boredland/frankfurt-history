@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Schmidt-Fellner, Carola und Hermann](../../images/stolpersteine/b454bd278b16_marienstr_9.jpg)
 
-Schmidt-Fellner, Hermann
-
 Hermann Schmidt-Fellner wurde am 20.10.1892 in Frankfurt geboren. Er war evangelisch und ein Nachkomme des letzten Bürgermeisters der Freien Stadt Frankfurt, Karl Konstanz Viktor Fellner (1807-1866), der angesichts der preußischen Okkupation Selbstmord beging.
 
 Carola Schmidt-Fellner, geb. Liebmann, wurde am 14.8.1902 geboren und stammte aus einer jüdischen Familie. Ihr Vater war Jakob Liebmann (1854-1926), die Mutter Luise, geb. Leo-Wolf (Jg. 1970). Diese ließen ihre Tochter Carola am 27.3.1903 taufen. Der Mutter, 1939 in der Rossertstraße 7 gemeldet, gelang die Flucht in die USA. Carola und Hermann Schmidt-Fellner heirateten am 27.9.1922 und wurden am 28.9.1922 von Pfarrer Urspruch in der Weißfrauenkirche getraut.
@@ -36,84 +34,6 @@ Schmidt-Fellner schrieb am 19.9.1938 an einen befreundeten Rechtsanwalt aus dem 
 Carola Schmidt-Fellner musste die Wohnung in der Marienstraße 9 räumen. Die Familie lebte ab 17.3.1943 in der Weiherstraße 6 im Ostend, einem so genannten Judenhaus, in dem die jüdischen Bürger oft erst wenige Monate vor der Deportation bei anderen Juden Unterkunft fanden. Carola Schmidt-Fellner war bereits ab 8.2.1943 zur Zwangsarbeit bei der Druckerei Osterrieth in der Frankestraße verpflichtet worden und musste am Arbeitsplatz den Judenstern tragen. Am 6.1.1944 wurde sie nach Theresienstadt deportiert. Dort war sie als Briefträgerin eingesetzt und erlebte 1945 die Befreiung. Da sie die Rücktransporte nicht abwarten wollte, machte sie sich selbst auf den Weg. Auf Güterzügen gelangte sie im Juni 1945 wieder nach Frankfurt. Sie starb 1982. Der Sohn Alexander Schmidt-Fellner lebte in Berlin und musste zuletzt noch Zwangsarbeit leisten. Er emigrierte 1946 in die USA. Die Tochter Herta Leip besuchte die Anna-Schmidt-Schule, heiratete 1956 und lebt in Bad Vilbel.
 
 Die Stolpersteine wurden initiiert von der Evangelischen Dreikönigsgemeinde. An der Verlegung nahmen die Tochter Herta Leip (Bad Vilbel), der Enkel Alexander (Bad Vilbel) und die Enkelinnen Martina Leip (Berlin) und Kathrin Leip (Windsbach) teil.
-
-Hermann Schmidt-Fellner
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-20.10.1892
-
-3.6.1939 Dachau und 27.9.1939 Mauthausen
-
-22.1.1940
-
-Carola Schmidt-Fellner, geb. Liebmann
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-14.8.1902
-
-6.1.1944 nach Theresienstadt
-
-befreit
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Buseck, Karoline und Loeb, Margarete, Ottilie und Alexander
-
-Geiss, Lina
-
-Gerlinger, Anna Lina
-
-Germann, Edmund
-
-Kastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen
-
-Löwensberg, Käthe sowie Mainzer, Erich, Grete, Gustav und Irma
-
-Luwisch, Etli, Arthur, Lilly und Hermann
-
-Mahler, Rudolf
-
-Ochs, Heinrich
-
-Pauli, Paula
-
-Poser Erna
-
-Schmidt-Fellner, Carola und Hermann
-
-Sommer, Ernst und Margot
-
-Steinschneider, Adolf Moritz
-
-Strauß, Josef
-
-Weichbrodt, Raphael und Dorrit
-
-Wolfgang, Toni
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Marienstraße 9
 
 ## Gallery
 

@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Henle, Franz](../../images/stolpersteine/392fe0b6beb9_am_lindenbaum_4__400x300.jpg)
 
-Franz Henle
-
 Dr. Franz Henle entstammte einer alteingesessenen jüdischen Familie aus München. Sein Vater, Carl Henle, Oberst-Leutnant im Königlich Bayerischen Infantrie-Leibregiment, ließ sich, seine Frau und seine beiden Söhne Franz und Ernst anlässlich der Geburt des jüngeren Sohnes evangelisch taufen. Franz Henle studierte Chemie in München und promovierte als Chemiker an der Universität Straßburg (Elsass) zum Dr.phil.
 
 Franz Henle heiratete im Jahr 1907 Helene Vogt aus einer christlichen Familie stammend. Das Ehepaar hatte zwei Kinder. Der ältere Sohn Karl fiel als Hauptmann im 2. Weltkrieg im August 1942 in Russland. Der jüngere Sohn Oskar studierte Physik mit dem Abschluss als Dipl.-Ing. Er lebt heute 96-jährig in Konstanz.
@@ -30,70 +28,6 @@ Im März 1944 kam es zu einer Denunziation. Henle soll angeblich unberechtigt am
 Helene Henle erklärte später in einer Notiz, dass die Gestapo ausdrücklich den Ausgebombten jüdischer Abstammung die Teilnahme am Essen gestattet hatte. Sie beantragte die Feuerbestattung ihres Ehemannes. Die Asche wurde auf dem jüdischen Friedhof beigesetzt. Eine Trauerfeier wurde verboten. Nach Ende des Krieges wurde auf Wunsch der Witwe die Urne auf den Höchster Friedhof überführt. Helene Henle wohnte bis zu ihrem Tod 1954 im Haus „Am Lindenbaum 4“. In Höchst ist eine Straße nach Dr. Franz Henle benannt.
 
 Die beiden Enkel Harald Henle (Konstanz) und Hartmut Henle (Reinheim), Söhne von Oskar Henle, waren bei der Verlegung des Stolpersteines anwesend.
-
-Franz Henle
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-9.1.1876
-
-Verhaftung: 1.4.1944, Flucht in den Tod/Suizid
-
-1.4.1944
-
-Stolperstein Am Lindenbaum, Franz Henle
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Berge, Ignatz
-
-Breslau, Ignatz
-
-Flörsheimer, Elli, Franziska und Jakob
-
-Froehlich, Siegfried und Rosa
-
-Gerlach, Magarethe
-
-Goldschmidt, Rosette
-
-Henle, Franz
-
-Isaac, Gustav
-
-Katz, Hanns Ludwig
-
-Keller, Ludwig, Jeruschalmis und Max
-
-Klausing, Friedrich Karl
-
-Lehrbach, Emma (Emmi) Magdalena
-
-Stern, Paula und Hermann
-
-Sternberg, Rosa
-
-Wolf, Hermann
-
-Wolfskehl, Henry
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Am Lindenbaum 4
 
 ## Gallery
 

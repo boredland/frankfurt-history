@@ -63,48 +63,6 @@ tot.
 
 Der Stolperstein wurde initiiert von Peter Hankiewicz, Sossenheim.
 
-Josef Weinreiter
-
-Geburtsdatum:
-
-Haft:
-
-Todesdatum:
-
-26.4.1899
-
-4.5.–10.7.1937 Frankfurt-Preungesheim, Kassel-Wehlheiden, 20.7.1937
-
-Buchenwald
-
-1.12.1937
-
-Stolperstein Thomestraße 3, Josef Weinreiter
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Allfeld, Dora, Hans und Walter
-
-Roth, Mathilde
-
-Weber, Johann Josef
-
-Weinreiter, Josef
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Thomestraße 3
-
 ## Gallery
 
 <!-- gallery:standard -->

@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Durlacher, Dina, Julius, Leo und Hermine](../../images/stolpersteine/543ff84e0572_bergerstrasse_204.jpg)
 
-Dina und Julius Durlacher
-
 Dina Durlacher wurde in Schondra geboren und war mit dem in Baden-Baden geborenen Bäcker Julius Durlacher verheiratet. Sie hatten drei Kinder: Karoline (geb. 15.6.1909), Meta (geb. 1.2.1911) und Leo (geb. 2.8.1912). Die Familie wohnte von 1911 bis 1937  in der Frankfurter Bergerstraße 204, um 1939 im Sandweg 30. Julius Durlacher war 1920 aus der Kriegsgefangenschaft zurückgekehrt und arbeitete etwa fünf Jahre bei der Post. 1925 nahm er den erlernten Bäckerberuf wieder auf und war in der „Osthafen-Bäckerei“ im Hermesweg beschäftigt. Um 1933 wurde er verfolgungsbedingt entlassen. Er war dann im Hausierergewerbe mit Öl und Seife tätig. Nach dem Novemberpogrom 1938 musste er seine Erwerbstätigkeit aufgeben und Zwangsarbeit auf dem jüdischen Friedhof leisten. Julius Schwester Hermine Durlacher wurde wie ihr Bruder in Baden-Baden geboren. Sie wohnte zuletzt in der Obermainanlage 24.
 
 Durlacher, Albert
@@ -34,118 +32,6 @@ Heinz Georg, Karoline und Alfred Daum
 Durlacher, Leo
 
 Meta und Alfred Eichengrün
-
-Dina Durlacher, geb. Frank
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-08.11.1881
-
-22.11.1941 Kaunas
-
-25.11.1941
-
-Hermine Durlacher
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-25.07.1884
-
-11.11.1941 Minsk
-
-20.08.1942
-
-Leo Durlacher
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-12.8.1912
-
-6.7.1943 Westerbork nach Sobibor
-
-9.7.1943
-
-Julius Durlacher
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-10.11.1882
-
-22.11.1941 Kaunas
-
-25.11.1941
-
-Stolperstein Berger Str. 204 Julius Durlacher
-
-Stolperstein Berger Str. 204 Dina Durchlacher
-
-Stolperstein Berger Str. 204 Leo Durlacher
-
-Stolperstein Berger Str. 204 Hermine Durlacher
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baer, Rebekka, Fanny und Emil
-
-Breitinger, Anton
-
-Durlacher, Dina, Julius, Leo und Hermine
-
-Hagner, Johanna
-
-Levitus, Regina und Jossel
-
-Löwenstein, Siegfried
-
-Rothschild, Bernhard, Lina und Else
-
-Salomons, Arnold, Mina, Dagobert und Hanna
-
-Schöps, Selma
-
-Seeger, Marie
-
-Steigerwald, Abraham und Hannchen
-
-Steinhardt, Ernst und Bertha
-
-Strauss, Else
-
-Strauss, Auguste und Dina
-
-Wertheim, Paul
-
-Wohl, Lotte
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Berger Straße 204
 
 ## Gallery
 

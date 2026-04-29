@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Ehrenfeld, Emil](../../images/stolpersteine/301ade075755_kelsterbacher_str_8.jpg)
 
-Emil Ehrenfeld wurde
-
 in Frankfurt geboren. Er war Schneider und wohnte seit seiner Heirat im Jahr
 
 1928 mit der am 23.9.1903 geborenen Frieda Bär in der Kelsterbacherstraße 8.
@@ -122,102 +120,6 @@ ermordet, an sie erinnern Stolpersteine in der Rechneigrabenstraße 18-20.
 Der Stolperstein
 
 wurde initiiert von Robert Gilcher.
-
-Emil Ehrenfeld
-
-Geburtsdatum:
-
-Deportation:
-
-27.12.1899
-
-14.2.1945 Theresienstadt, befreit
-
-Stolperstein Kelsterbacher Straße 8, Emil W. Ehrenfeld
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Alberti, Karl
-
-Bechhold, Heinrich
-
-Beisel, Johann Michael
-
-Blasius, Martha
-
-Buttler, Paul
-
-Chocholous, Sara
-
-Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek
-
-Ehrenfeld, Emil W.
-
-Eichhorn, Ludwig
-
-Gans, Ludwig von
-
-Gerhardt, Wilhelm
-
-Gerst, Ella und Gustav
-
-Greiff, Philipp
-
-Gumbmann, Wilhelm
-
-Haymann, Kläre
-
-Henrich, Helene
-
-Itzstein, Josef
-
-Klee, Ester
-
-Neumann, Hermann
-
-Oppenheimer, Gustav und Toni
-
-Pivovarczik, Helena
-
-Raab, Anton
-
-Schabinger, Heinrich
-
-Schabinger, Ludwig
-
-Schellhaas, Margarete und Schmitt, Karl
-
-Schneider, Karl
-
-Simon, Fritz und Lotte sowie Oswalt, Alfred
-
-Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil und Prochorow, Nikolai
-
-Stern, Kurt
-
-von Weinberg, Arthur
-
-von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander
-
-Weisbecker, Walter
-
-Weishaupt, Heinrich
-
-Wissenbach, Erwin
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Kelsterbacher Straße 8
 
 ## Gallery
 

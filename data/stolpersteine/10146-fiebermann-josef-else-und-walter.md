@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Fiebermann, Josef, Else und Walter](../../images/stolpersteine/4f139345f84c_eckenheimer_landstr_238.jpg)
 
-Josef
-
 Fiebermann wurde in
 
 Frankfurt am Main geboren und war ein Sohn des Kaufmanns Emil Fiebermann. Seit
@@ -85,72 +83,6 @@ Die
 Stolpersteine wurden initiiert durch den Neffen Dr. Jossi Kohn aus Haifa, der
 
 auch bei der Verlegung anwesend war.
-
-Josef Fiebermann
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-1.8.1897
-
-24.9.1942 Raasiku
-
-unbekannt
-
-Else Fiebermann,
-
-geb. Levigard
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-11.12.1900
-
-24.9.1942 Raasiku
-
-unbekannt
-
-Walter Fiebermann
-
-Geburtsdatum:
-
-Flucht:
-
-24.6.1926
-
-Juli 1939 England
-
-Stolperstein Eckenheimer Landstraße 238, Josef Fiebermann
-
-Stolperstein Eckenheimer Landstraße 238, Else Fiebermann
-
-Stolperstein Eckenheimer Landstraße 238, Walter Fiebermann
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Fiebermann, Josef, Else und Walter
-
-Kersten, Elisabeth
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Eckenheimer Landstraße 238
 
 ## Gallery
 

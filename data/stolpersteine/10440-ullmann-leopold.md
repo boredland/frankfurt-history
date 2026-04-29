@@ -15,44 +15,6 @@ filters:
 
 Der Kaufmann Leopold Ullmann beging unmittelbar nach der Pogromnacht aus Verzweiflung Selbstmord. Sein Grab befindet sich auf dem Neuen Jüdischen Friedhof in der Eckenheimer Landstraße.
 
-Leopold Ullmann
-
-Geburtsdatum:
-
-Todesdatum:
-
-26.061871
-
-11.12.1938 Suizid
-
-Stolperstein Lassallestraße 3 Leopold Ullmann
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Breckheimer, Caecilie
-
-Lehmann, Julius und Max
-
-Ochs, Bertha, Max, Irmgard und Edgar
-
-Ullmann, Leopold
-
-Waßmann, Karl
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Lassallestraße 3
-
 ## Gallery
 
 <!-- gallery:standard -->

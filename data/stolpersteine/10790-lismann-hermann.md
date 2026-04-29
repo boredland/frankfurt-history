@@ -23,54 +23,6 @@ Von 1930 bis 1935 hatte er einen Lehrauftrag an der Universität Frankfurt inne:
 
 Die meisten Werke von Hermann Lismann sind durch Kriegseinwirkung zerstört oder verschwunden. Im Kupferstichkabinett des Städelschen Kunstinstituts finden sich noch einige Zeichnungen des Künstlers und südfranzösische Landschaftsbilder; ein Ölbild konnte gerettet werden. Im Frühjahr 1959 gab es im Frankfurter Kunstverein eine Gedächtnisausstellung „Hermann Lismann 1879-1943“. Im Katalog ist erwähnt, dass seine Frau Maria und seine Tochter Fränzi am Zustandekommen dieser Ausstellung mitgewirkt haben.
 
-Hermann Lismann
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-04.05.1878
-
-04.03.1942 von Drancy nach Majdanek
-
-unbekannt
-
-Stolperstein Untermainkai 68-72 Hermann Lismann
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Becker, Martha
-
-Grünberg, Carl und Hilde
-
-Kaufmann, Moritz Moses
-
-Lehr, Klara
-
-Lehrberger, Emil, Lina und Rose
-
-Lismann, Hermann
-
-Valfer, Frieda und Heinrich
-
-<br>
-
-Initiative Stolpersteine in Frankfurt am Main
-
-Standort Stolperstein
-
-Untermainkai 68-72
-
 ## Gallery
 
 <!-- gallery:standard -->

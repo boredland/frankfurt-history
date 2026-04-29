@@ -28,6 +28,10 @@ R2_PUBLIC_URL = os.environ.get(
     "R2_PUBLIC_URL", "https://pub-d6ff75a2458a49e5b81457a2e7841032.r2.dev"
 )
 MANIFEST_PATH = Path(__file__).resolve().parent.parent / "data" / "images.json"
+LOCAL_IMAGE_DIRS = [
+    # (local subdir under data/images/, R2 key prefix)
+    ("stolpersteine", "images/stolpersteine"),
+]
 WORKERS = int(os.environ.get("SYNC_WORKERS", "8"))
 RETRY_ATTEMPTS = 3
 RETRY_DELAY = 2
@@ -84,7 +88,70 @@ def sync_one(filename: str, source_url: str) -> str:
         tmp_path.unlink(missing_ok=True)
 
 
+def upload_local(path: Path, key: str) -> str:
+    """Upload a local file to R2 if not already present. Returns 'ok', 'skip', 'fail'."""
+    r2_url = f"{R2_PUBLIC_URL}/{key}"
+    try:
+        head = httpx.head(r2_url, timeout=10, follow_redirects=True)
+        if head.status_code == 200:
+            return "skip"
+    except httpx.TransportError:
+        pass
+
+    result = subprocess.run(
+        [
+            "wrangler", "r2", "object", "put",
+            f"{R2_BUCKET}/{key}",
+            f"--file={path}",
+            "--remote",
+        ],
+        capture_output=True,
+        text=True,
+    )
+    return "ok" if result.returncode == 0 else "fail"
+
+
+def sync_local_dirs():
+    """Upload files from data/images/<subdir>/ to R2 at the configured key prefix."""
+    base = Path(__file__).resolve().parent.parent / "data" / "images"
+    for subdir, key_prefix in LOCAL_IMAGE_DIRS:
+        src = base / subdir
+        if not src.is_dir():
+            continue
+        files = sorted(p for p in src.iterdir() if p.is_file())
+        if not files:
+            continue
+        print(f"Local dir {subdir}/: {len(files)} files → {key_prefix}/")
+        ok = skip = fail = 0
+        t0 = time.time()
+        with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
+            futures = {
+                pool.submit(upload_local, p, f"{key_prefix}/{p.name}"): p
+                for p in files
+            }
+            for i, future in enumerate(concurrent.futures.as_completed(futures)):
+                result = future.result()
+                if result == "ok":
+                    ok += 1
+                elif result == "skip":
+                    skip += 1
+                else:
+                    fail += 1
+                    print(f"  Failed: {futures[future].name}")
+                done = i + 1
+                if done % 100 == 0 or done == len(files):
+                    elapsed = time.time() - t0
+                    rate = done / elapsed if elapsed > 0 else 0
+                    eta = (len(files) - done) / rate if rate > 0 else 0
+                    print(
+                        f"  [{done}/{len(files)}] {ok} new, {skip} exist, {fail} fail — {rate:.1f}/s, ETA {eta:.0f}s"
+                    )
+        print(f"  Done: {ok} uploaded, {skip} already in R2, {fail} failed")
+
+
 def main():
+    sync_local_dirs()
+
     if not MANIFEST_PATH.exists():
         print(f"No manifest at {MANIFEST_PATH} — run archive.py first.")
         sys.exit(1)

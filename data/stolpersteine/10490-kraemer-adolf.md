@@ -98,48 +98,6 @@ Adolf Krämers Ausweis
 
 Antwort Stadt Frankfurt 1949
 
-Adolf Krämer
-
-Geburtsdatum:
-
-Haft:
-
-Befreit
-
-27.7.1900
-
-16.3.1937 Gefängnis Frankfurt - Höchst, 5.8.1937 Buchenwald
-
-Stolperstein Mainzer Landstraße 606, Adolf Krämer
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baum, Clara, Käthe und Salomon
-
-Krämer, Adolf
-
-Mayer, Balthasar
-
-Mayer, Elisabeth
-
-Rosenblum, Josef Simon
-
-Schmidt, Heinrich
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Mainzer Landstraße 606
-
 ## Gallery
 
 <!-- gallery:standard -->

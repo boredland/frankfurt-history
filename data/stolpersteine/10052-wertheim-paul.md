@@ -27,66 +27,6 @@ Erklärung der Witwe 1946
 
 Erklärung der Witwe 1946
 
-Paul Wertheim
-
-Geburtsdatum:
-
-Deportation:
-
-13.06.1867
-
-04.07.1938 (Suizid)
-
-Stolperstein Arnsburger Straße 1 Paul Wertheim
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baer, Rebekka, Fanny und Emil
-
-Breitinger, Anton
-
-Durlacher, Dina, Julius, Leo und Hermine
-
-Hagner, Johanna
-
-Levitus, Regina und Jossel
-
-Löwenstein, Siegfried
-
-Rothschild, Bernhard, Lina und Else
-
-Salomons, Arnold, Mina, Dagobert und Hanna
-
-Schöps, Selma
-
-Seeger, Marie
-
-Steigerwald, Abraham und Hannchen
-
-Steinhardt, Ernst und Bertha
-
-Strauss, Else
-
-Strauss, Auguste und Dina
-
-Wertheim, Paul
-
-Wohl, Lotte
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Arnsburger Straße 1
-
 ## Gallery
 
 <!-- gallery:standard -->

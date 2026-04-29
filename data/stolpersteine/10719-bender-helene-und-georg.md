@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Bender, Helene und Georg](../../images/stolpersteine/7b50bcf60876_schwedenpfad_21.jpg)
 
-Bender, Helene (links)
-
 Helene und Georg Bender wohnten im eigenen Haus im Schwedenpfad 21. Das Haus hatte Georg Benders Vater, der Maurerpolier war, gebaut. Sie hatten einen am 2. April 1935 geborenen Sohn Georg. Georg Bender arbeitete nach dem Besuch der Volksschule zuerst in den Adler-Werken und dann in den Farbwerken Hoechst, später wieder als Stanzer bei den Adler-Werken. Helene und Georg Bender waren beide aktiv bei den „Naturfreunden“ und den „Freien Turnern“ in Nied, wo sich auch Mitglieder des „Reichsbanner“ trafen. Georg Bender war ab 1927 einige Jahre Mitglied des „Reichsbanner“. Treffpunkte waren u.a. Lokalitäten des Ausbesserungswerks der Reichsbahn in Nied an der Oeserstraße und verschiedene Ausflugsorte der „Naturfreunde“ im Taunus.
 
 Bender, Georg
@@ -38,66 +36,6 @@ Später lernte sie hier Georg Bender kennen. Die beiden heirateten. 1949 wurde R
 Ein Mahnmal vor dem Friedhof in Frankfurt-Nied erinnert an die Opfer des Nationalsozialismus in diesem Stadtteil, unter den elf dort aufgeführten Namen steht auch Helene Bender. „Meine Söhne und ich sind stolz, dass er in dieser Zeit den Mut hatte, sich gegen das Regime zur Wehr zu setzen“, sagte Ilona Bender bei der Verlegung.
 
 Anwesend bei der Verlegung war Ilona Bender, die Schwiegertochter Georg Benders, die die Geschichte ihrer Familie vortrug.
-
-Georg Bender
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-23.10.1902
-
-Verurteilung: 14.10.1938 Volksgerichthof "Hochverrat"
-
-Befreit/überlebt
-
-Helene Bender, geb. Grau
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-18.07.1907
-
-Verhaftung: 1938
-
-04.05.1938 (Suizid)
-
-Stolperstein Schwedenpfad 21 Helene Bender
-
-Stolperstein Schwedenpfad 21 Georg Bender
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Bender, Helene und Georg
-
-Heps, Heinrich
-
-Herger, Therese, Henriette und Alfred
-
-Hirsch, Lucie
-
-Kahn, Carl und Jenny
-
-Salomon, Walter, Amalie, Hannelore und Lutz
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Schwedenpfad 21
 
 ## Gallery
 

@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni](../../images/stolpersteine/37e8f9491066_koelner_strasse_71.jpg)
 
-Rosenthal, Jakob
-
 Jakob Rosenthal wurde wie seine Schwester Ruth Rebecka Strauß und sein Bruder Karl in Niederweidbach (jetzt: Bischoffen) geboren. Er war mit Rosa Rosenthal, geb. Bachenheimer, aus Wetter verheiratet. Sie hatten vier in Marburg geborene Kinder: Harry Rosenthal und Toni Gruenebaum, geb. Rosenthal und die 1906 und 1912 geborenen Töchter. Die Familie lebte in einer Zwei-Zimmer-Wohnung mit Mansarde in der Kölner Straße 71/II, am 4.10.1938 musste sie zwangsweise in eine Zwei-Zimmer-Wohnung mit Geschäftsraum in der Ingolstädter Straße 36/EG umziehen.
 
 Rosenthal, Rosa
@@ -28,120 +26,6 @@ Harry Rosenthal besuchte die Westend-Mittelschule und absolvierte anschließend 
 Grünebaum, Toni
 
 Toni Grünebaum war mit einem Kaufmann verheiratet, dem die Flucht in das Exil nach Shanghai gelang und der nach dem Zweiten Weltkrieg in den USA lebte.
-
-Jakob Rosenthal
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-15.01.1876
-
-22.11.1941 Kaunas
-
-25.11.1941
-
-Rosa Rosenthal, geb. Bachenheim
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-05.12.1880
-
-22.11.1941 Kaunas
-
-25.11.1941
-
-Toni Grünebaum, geb. Rosenthal
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-11.07.1910
-
-22.11.1941 Kaunas
-
-25.11.1941
-
-Harry Rosenthal
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-01.10.1908
-
-22.11.1941 Kaunas
-
-25.11.1941
-
-Stolperstein Kölner Straße 71 Toni Grünebaum
-
-Stolperstein Kölner Straße 71 Harry Rosenthal
-
-Stolperstein Kölner Straße 71 Jakob Rosenthal
-
-Stolperstein Kölner Straße 71 Rosa Rosenthal
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Ahrens, Manfred
-
-Begemann, August
-
-Bild, Hans
-
-Engelbrecht, Frida und Hans
-
-Fehler, Karl
-
-Heilmann, Friedrich
-
-Knorsch, Lilly
-
-Kopp, Nikolaus
-
-Neuser, Edgar
-
-Pappenheimer, Ruth
-
-Rosenthal, Jakob, Rosa und Harry und Grünebaum, Toni
-
-Rosenthal, Karl, Frieda und Irene
-
-Schwemmer, Karlheinz, Eduard und Rosa
-
-Stecker, Karl
-
-Stern, Paula und Hilde
-
-Strauß, Rebecka
-
-Weisbecker, Karl Johann
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Kölner Straße 71
 
 ## Gallery
 

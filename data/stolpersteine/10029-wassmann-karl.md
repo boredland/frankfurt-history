@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Waßmann, Karl](../../images/stolpersteine/0706f90cb872_am-erlenbruch-10_1.jpg)
 
-Karl Waßmann - Karikatur von Lino Salini um 1918
-
 Karl Waßmann stammte aus Berlin und wurde in Frankfurt zum stadtbekannten Original. Etwa im Sommer 1909 kam er nach Frankfurt und bot hier wie schon zuvor in Karlsruhe seine Druckschriften und Gedichte in Gaststätten feil. "Aber niemand oder nur wenige kauften“, schrieb Waßmann in seinem autobiographischen Roman "Die Abenteuer des Karlchen Ungeraten“. Seit 1911 gab er zweimal monatlich sein Blatt "Deutscher Freigeist“ heraus, eine "Frankfurter Zeitschrift für alle kulturellen Interessen“. Darin attackierte er echte und vermeintliche Missstände, etwa die Einführung des von Paul Ehrlich erfundenen Medikaments "Salvarsan“, des ersten Heilmittels gegen die Syphilis. Er erhob Einspruch gegen die zwangsweise Verabreichung an Prostituierte. Im "Frankfurter Salvarsanprozesses“ wurde er 1914 zu einer einjährigen Gefängnisstrafe wegen schwerer Beleidigung verurteilt.
 
 1918 erschien sein Roman "Die Abenteuer des Karlchen Ungeraten : Humorist. Roman nach durchaus wahren Begebenheiten“. Nach dem 1. Weltkrieg propagierte  er die "innere Demokratisierung Preußen-Deutschlands“ und forderte das Frauenstimmrecht (1917). Anfang 1919 kandidierte er erfolglos für die verfassunggebende Weimarer Nationalversammlung. Aus seinem Blatt "Freigeist“ wurde "Die Liebe“, sein neues "Organ im Dienste Aller“, das er bei seinen Altstadtrundgängen vertrieb. 1930 veröffentlichte er einen Band "Eigene Gedichte“.
@@ -28,48 +26,6 @@ Die falsche Beurkundung des Todes von Karl Waßmann geht auf den so genannten Ak
 Karl Waßmann (Richter 1928)
 
 Die Abenteuer des Karlchen Ungeraten
-
-Karl Waßmann
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-25.12.1885
-
-1942 "Heilanstalt" Hadamar
-
-14.03.1941
-
-Stolperstein Am Erlenbruch 10 Karl Wassmann
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Breckheimer, Caecilie
-
-Lehmann, Julius und Max
-
-Ochs, Bertha, Max, Irmgard und Edgar
-
-Ullmann, Leopold
-
-Waßmann, Karl
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Am Erlenbruch 10
 
 ## Gallery
 

@@ -35,40 +35,6 @@ Mathilde Roth
 
 , geb. Studzinski
 
-Geburtsdatum:
-
-4.2.1889
-
-Todesdatum:
-
-17.11.1943 (Suizid)
-
-Stolperstein Schaumburger Straße 19, Roth, Mathilde
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Allfeld, Dora, Hans und Walter
-
-Roth, Mathilde
-
-Weber, Johann Josef
-
-Weinreiter, Josef
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-Schaumburger Straße 19
-
 ## Gallery
 
 <!-- gallery:standard -->

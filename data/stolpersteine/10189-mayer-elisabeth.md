@@ -145,50 +145,6 @@ Elisabeth Mayer
 
 , geb. Blamm
 
-Geburtsdatum:
-
-25.5.1882
-
-Haft:
-
-12.12.1936 Frankfurt, 4.8.1937 Moringen,
-
-21.2.1938 Lichtenburg, Mai 1939 Ravensbrück
-
-Befreiung:
-
-28.4.1945
-
-Stolperstein Fabriciusstraße 11, Mayer, Elisabeth
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baum, Clara, Käthe und Salomon
-
-Krämer, Adolf
-
-Mayer, Balthasar
-
-Mayer, Elisabeth
-
-Rosenblum, Josef Simon
-
-Schmidt, Heinrich
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Fabriciusstraße 11
-
 ## Gallery
 
 <!-- gallery:standard -->

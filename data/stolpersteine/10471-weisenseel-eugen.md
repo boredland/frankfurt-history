@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Weisenseel, Eugen](../../images/stolpersteine/fdf75e4a5ebe_loenungsgasse_19.jpg)
 
-Eugen Weisenseel, Ausweis
-
 Eugen Weisenseel
 
 wurde in Fechenheim geboren. Er war mit Helene Weisenseel, geb. Kiefer, verheiratet, die am
@@ -115,62 +113,6 @@ Gaststätte "Stadt Schwalbach"
 Garküchenplatz
 
 Garküchenplatz
-
-Eugen Weisenseel
-
-Geburtsdatum:
-
-Haft:
-
-Todesdatum:
-
-7.6.1899
-
-1943 Straßburg, Leonberg, 1945 Dachau
-
-unbekannt
-
-Stolperstein Löhnunggasse 19, Eugen Weisenseel
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Stolpersteine Löhnunggasse 19
-
-Löhnunggasse
-
-19
-
-60386
-
-Frankfurt am Main
-
-Ebert, Wilhelm
-
-Hahn, Gustav, Recha und Hertha
-
-Nebel, Georg
-
-Schönfeld, Hertha, Hugo, Ilsa und Paul
-
-Stern, Heinrich
-
-Strauss, Salomon, Johanna und Hedwig
-
-Weisenseel, Eugen
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Löhnunggasse 19
 
 ## Gallery
 

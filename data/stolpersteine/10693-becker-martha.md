@@ -17,54 +17,6 @@ Martha Becker, geborene Adler, wohnte in der Schönstraße 17, ihre letzte Adres
 
 Der Stolpersteine wurde initiiert von Norbert Meyer/Frankfurt, der Martha Becker gut kannte.
 
-Martha Becker, geb. Adler
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-31.01.1885
-
-19.10.1941 nach Lodz
-
-unbekannt
-
-Stolperstein Schönstraße 17 Martha Becker
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Becker, Martha
-
-Grünberg, Carl und Hilde
-
-Kaufmann, Moritz Moses
-
-Lehr, Klara
-
-Lehrberger, Emil, Lina und Rose
-
-Lismann, Hermann
-
-Valfer, Frieda und Heinrich
-
-<br>
-
-Initiative Stolpersteine in Frankfurt am Main
-
-Standort Stolperstein
-
-Schönstraße 17
-
 ## Gallery
 
 <!-- gallery:standard -->

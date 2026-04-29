@@ -14,8 +14,6 @@ filters:
 
 ![Stolperstein Richard, Louis und Johanna](../../images/stolpersteine/cf77f2b73368_nistergasse_5.jpg)
 
-Louis Richard wurde in Altenmühr bei Gunzenhausen in
-
 Bayern geboren. Er heiratete 1906 Mechthild Stern, geb. am 1. Januar 1879 in
 
 Altenhinden. Der gemeinsame Sohn Rudy wurde 1907 geboren. Am 4. Mai 1930  starb Mechthild Richard
@@ -59,100 +57,6 @@ in Forest Hills /State New York. In einem Entschädigungsantrag aus dem Jahre
 1941/bzw. Anfang 1942 erhalten habe.
 
 Die Stolpersteine wurden initiiert von Christa Fischer und Gabi Kunhenn.
-
-Louis Richard
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-13.7.1880
-
-1938 Buchenwald, Juni 1939 Flucht Frankreich, 11.2.1943 Drancy, 4.3.1943 Maidanek
-
-unbekannt
-
-Johanna Richard
-
-Geburtsdatum:
-
-Deportation:
-
-Todesdatum:
-
-20.7.1887
-
-Juni 1939 Flucht Frankreich, 11.2.1943 Drancy, 4.3.1943 Maidanek
-
-unbekannt
-
-Stolpersteine Nistergasse 5, Louis Richard
-
-Stolpersteine Nistergasse 5, Johanna Richard
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Baumann, Fritz
-
-Berentzen, Lore und Karl
-
-Bohrmann, Alice und Richard
-
-Cahn, Charlotte
-
-Fabisch, Emma und Heinrich Heilmann
-
-Flörsheim, Ida und Isidor
-
-Goldschmidt, Helene und Alfred
-
-Goldschmidt, Max und Erna
-
-Gottlieb, Alice und Jeanette
-
-Höxter, Kurt Leo
-
-Jakob, Anna und Adolf
-
-Loeb, Jenny
-
-Richard, Louis und Johanna
-
-Rothenberger, Ludwig
-
-Saalfeld, Elisabeth
-
-Salomon, Karl
-
-Schwelm, Berta, Max und Hildegard Ilse
-
-Seelig, Felix und Friedel
-
-Simenauer, Kaethe
-
-Simon, Sigmund und Johanna
-
-Steiner, Fanny und Goldschmidt, Hermann
-
-Stern, Helene und Siegfried
-
-Stern, Isidor und Martha
-
-Initiative Stolpersteine
-
-Standort Stolpersteine
-
-Nistergasse 5
 
 ## Gallery
 

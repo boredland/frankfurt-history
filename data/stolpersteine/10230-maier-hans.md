@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Maier, Hans](../../images/stolpersteine/4c3159624450_fuchshohl_27.jpg)
 
-Hans Maier
-
 Hans
 
 Maier wurde in Frankfurt am Main als älterer Sohn des Direktors der Deutschen
@@ -162,48 +160,6 @@ www.frankfurter-personenlexikon.de
 External Link
 
 Der
-
-Stolperstein wurde initiiert von Hanna und Dieter Eckhardt, Frankfurt
-
-Hans Maier
-
-Hans Maier
-
-Geburtsdatum:
-
-Todesdatum:
-
-23.4.1889
-
-18.12.1937 (Suizid)
-
-Stolperstein Fuchshohl 27 Hans Maier
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Kaltwasser, Adam und Wilhelmine
-
-Kantorowicz, Margarete, Ernst und Levita, Marion Ellen
-
-Maier, Hans
-
-Schmidt, Karoline Johanna
-
-Schmitt, Bertha, Werner, Elfriede und Johann
-
-Initiative Stolpersteine
-
-Standort Stolperstein
-
-Fuchshohl 27
 
 ## Gallery
 

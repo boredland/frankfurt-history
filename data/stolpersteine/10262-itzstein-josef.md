@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Itzstein, Josef](../../images/stolpersteine/7305abde2b39_goldsteinstr_77.jpg)
 
-Josef Itzstein wurde
-
 als Sohn von Fritz Itzstein und Martha Itzstein, geb. Metz,  in Johannisberg im Rheingau geboren. Josef
 
 Itzstein heiratete 1931, seine Frau starb jedoch bereits 1932. Im September
@@ -72,104 +70,6 @@ Stadtteilhistoriker Robert Gilcher und finanziert von Olivia Niehenke.
 Josef Itzstein
 
 Josef
-
-Itzstein
-
-Geburtsdatum:
-
-29.3.1896
-
-Haft:
-
-1935 Zuchthaus Kassel-Wehlheiden; 1937 Aschendorfer Moor Lager 2;
-
-Februar 1938 - April 1941 KZ Buchenwald
-
-Stolperstein Goldsteinstraße 77, Itzstein, Josef
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Alberti, Karl
-
-Bechhold, Heinrich
-
-Beisel, Johann Michael
-
-Blasius, Martha
-
-Buttler, Paul
-
-Chocholous, Sara
-
-Dymkowetz, Alexander, Schelakin, Alexander, Swiridenko, Michail und Switek, Zdenek
-
-Ehrenfeld, Emil W.
-
-Eichhorn, Ludwig
-
-Gans, Ludwig von
-
-Gerhardt, Wilhelm
-
-Gerst, Ella und Gustav
-
-Greiff, Philipp
-
-Gumbmann, Wilhelm
-
-Haymann, Kläre
-
-Henrich, Helene
-
-Itzstein, Josef
-
-Klee, Ester
-
-Neumann, Hermann
-
-Oppenheimer, Gustav und Toni
-
-Pivovarczik, Helena
-
-Raab, Anton
-
-Schabinger, Heinrich
-
-Schabinger, Ludwig
-
-Schellhaas, Margarete und Schmitt, Karl
-
-Schneider, Karl
-
-Simon, Fritz und Lotte sowie Oswalt, Alfred
-
-Slabtschenko, Alexandr; Bagno, Iwan; Nikitenko, Wasil und Prochorow, Nikolai
-
-Stern, Kurt
-
-von Weinberg, Arthur
-
-von Weinberg, Carl, Reiss, Wera und von Szilvinyi, Alexander
-
-Weisbecker, Walter
-
-Weishaupt, Heinrich
-
-Wissenbach, Erwin
-
-Initiative Stolpersteine
-
-Stolperstein Standort
-
-Goldsteinstraße 77
 
 ## Gallery
 

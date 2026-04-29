@@ -13,8 +13,6 @@ filters:
 
 ![Stolperstein Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf](../../images/stolpersteine/abcb0bdf6981_an_der_walkmuehle_19a.jpg)
 
-Seligmann,
-
 genannt Sally, Ehrlich wurde 1887 als drittes Kind des in Nieder-Eschbach niedergelassenen
 
 Viehhändlers Jonas Ehrlich und seiner zweiten Ehefrau, Dorothea geb. Benedikt,
@@ -208,88 +206,6 @@ Tom Kühlthau sowie der Evangelischen Kirchengemeinde Nieder-Eschbach.
 Nieder-Eschbach: Umzug unter Hakenkreuzfahnen
 
 Nieder-Eschbach: Umzug unter Hakenkreuzfahnen
-
-Seligmann „Sally“ Ehrlich
-
-Geburtsdatum:
-
-26.4.1887
-
-Haft:
-
-15.6.-1.9.1938
-
-KZ Sachsenhausen
-
-Flucht:
-
-26.5.1939 Argentinien
-
-Carolina („Lina“) Ehrlich
-
-,
-
-geb. Jacoby
-
-Geburtsdatum:
-
-1.3.1893
-
-Flucht:
-
-26.5.1939 Argentinien
-
-Bernhard Ehrlich
-
-Geburtsdatum:
-
-6.10.1921
-
-Flucht:
-
-26.5.1939 Argentinien
-
-Rudolf Ehrlich
-
-Geburtsdatum:
-
-6.7.1925
-
-Flucht:
-
-26.5.1939 Argentinien
-
-Stolperstein An der Walkmühle 19a, Ehrlich, Seligmann
-
-Stolperstein An der Walkmühle 19a, Ehrlich, Caroline
-
-Stolperstein An der Walkmühle 19a, Ehrlich, Bernhard
-
-Stolperstein An der Walkmühle 19a, Ehrlich, Rudolf
-
-teilen
-
-tweet
-
-mitteilen
-
-teilen
-
-mail
-
-Bruder, Karl
-
-Ehrlich, Seligmann "Sally", Caroline "Lina", Bernhard und Rudolf
-
-Ehrlich, Siegmund, Malchen, Frieda und Ilse
-
-Müller, Sidonie
-
-Initiative Stolpersteine
-
-Stolpersteine Standort
-
-An der Walkmühle 19a
 
 ## Gallery
 
