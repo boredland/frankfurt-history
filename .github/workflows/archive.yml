@@ -38,6 +38,11 @@ jobs:
       - name: Build Stolpersteine articles
         run: uv run scripts/build_stolpersteine.py
 
+      - name: Download Stolpersteine images
+        continue-on-error: true
+        timeout-minutes: 15
+        run: uv run scripts/download_stolperstein_images.py
+
       - name: Reverse geocode addresses
         env:
           GEOCODE_PROXY_URL: ${{ secrets.GEOCODE_PROXY_URL }}
