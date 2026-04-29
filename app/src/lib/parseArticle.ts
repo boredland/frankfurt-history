@@ -60,6 +60,7 @@ function parseCaptionLine(line: string): string | undefined {
 function extractImagesFromLines(
   lines: string[],
   fallbackCaption?: string,
+  fallbackSubtitle?: string,
 ): ImageRef[] {
   const images: ImageRef[] = [];
   const cleanTitle = fallbackCaption
@@ -90,10 +91,15 @@ function extractImagesFromLines(
           .replace(/_/g, " ")
           .trim();
 
-        const genericWords = [
+        const houseWords = [
           "haus",
           "ansicht",
           "gebaeude",
+          "fassade",
+          "strasse",
+        ];
+        const genericWords = [
+          ...houseWords,
           "stolperstein",
           "portrait",
           "bild",
@@ -103,7 +109,13 @@ function extractImagesFromLines(
           rawCleaned.length < 3 ||
           genericWords.some((w) => rawCleaned.toLowerCase().includes(w));
 
-        if (isGeneric && cleanTitle) {
+        const isHouse = houseWords.some((w) =>
+          rawCleaned.toLowerCase().includes(w),
+        );
+
+        if (isHouse && fallbackSubtitle) {
+          img.caption = fallbackSubtitle;
+        } else if (isGeneric && cleanTitle) {
           img.caption = cleanTitle;
         } else if (rawCleaned) {
           // Fallback 2: Interpolate with title casing
@@ -127,9 +139,13 @@ function extractImagesFromLines(
             });
 
             img.caption = refinedWords.join(" ");
+          } else if (fallbackSubtitle) {
+            img.caption = fallbackSubtitle;
           } else if (cleanTitle) {
             img.caption = cleanTitle;
           }
+        } else if (fallbackSubtitle) {
+          img.caption = fallbackSubtitle;
         } else if (cleanTitle) {
           img.caption = cleanTitle;
         }
@@ -148,6 +164,7 @@ export interface ParsedArticle {
 export function parseArticleBody(
   body: string,
   fallbackCaption?: string,
+  fallbackSubtitle?: string,
 ): ParsedArticle {
   const sections: ArticleSection[] = [];
   const allImages: ImageRef[] = [];
@@ -177,7 +194,11 @@ export function parseArticleBody(
   function flushText() {
     const raw = currentTextLines.join("\n").trim();
     if (raw) {
-      const images = extractImagesFromLines(currentTextLines, fallbackCaption);
+      const images = extractImagesFromLines(
+        currentTextLines,
+        fallbackCaption,
+        fallbackSubtitle,
+      );
       if (images.length > 0) {
         addImages(images);
         sections.push({ type: "gallery", images });
@@ -191,7 +212,11 @@ export function parseArticleBody(
   }
 
   function flushGallery() {
-    const images = extractImagesFromLines(galleryLines, fallbackCaption);
+    const images = extractImagesFromLines(
+      galleryLines,
+      fallbackCaption,
+      fallbackSubtitle,
+    );
     if (images.length === 0) {
       inGallery = false;
       galleryLines = [];

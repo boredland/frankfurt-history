@@ -423,10 +423,11 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
           );
         }
         const title = json.frontmatter.title || slug;
-        const parsed = parseArticleBody(json.body, title);
+        const subtitle = json.frontmatter.subtitle;
+        const parsed = parseArticleBody(json.body, title, subtitle);
         setArticle({
           title,
-          subtitle: json.frontmatter.subtitle,
+          subtitle,
           sections: parsed.sections,
           allImages: parsed.allImages,
           plainText,
