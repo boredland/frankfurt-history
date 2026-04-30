@@ -78,24 +78,43 @@ def clean_body(body: str) -> str:
     if not body:
         return ""
 
+    # Strip duplicated title (H1) and subtitle (Italic line) from the top
+    lines = body.splitlines()
+    while lines:
+        line = lines[0].strip()
+        if not line:
+            lines.pop(0)
+            continue
+        if line.startswith('# '):
+            lines.pop(0)
+            continue
+        if line.startswith('*') and line.endswith('*') and len(line) < 100:
+            lines.pop(0)
+            continue
+        break
+
+    body = "\n".join(lines).strip()
+
     # Heuristic for joining lines within a block
-    # We want to identify blocks separated by double newlines first
     blocks = re.split(r'\n\s*\n', body)
     processed_blocks = []
-    
+
     for block in blocks:
         block = block.strip()
         if not block:
             continue
-        
+
         # If it's a structural element (heading, list), keep as is
         if block.startswith('#') or block.startswith('-'):
             processed_blocks.append(block)
             continue
-            
+
+        # Strip filename-like lines (e.g., kueferstrasse-3)
+        if re.match(r'^[a-z0-9]+(?:-[a-z0-9]+)+$', block, re.I) and len(block) < 50:
+            continue
+
         # If it's a sequence of images, keep them on separate lines
         if '![' in block:
-            # Join non-image lines, but keep images on their own lines
             lines = block.splitlines()
             new_lines = []
             for line in lines:
@@ -110,14 +129,48 @@ def clean_body(body: str) -> str:
                         new_lines.append(line)
             processed_blocks.append("\n".join(new_lines))
             continue
-            
+
         # Replace single newlines with spaces within the block
         cleaned_block = re.sub(r'(?<!\n)\n(?!\n)', ' ', block)
         processed_blocks.append(cleaned_block)
-    
+
+    # Table reconstruction logic
+    # Look for sequences of labels followed by sequences of values
+    interleaved_blocks = []
+    i = 0
+    while i < len(processed_blocks):
+        # Find a sequence of labels
+        labels = []
+        j = i
+        while j < len(processed_blocks) and processed_blocks[j].endswith(':'):
+            labels.append(processed_blocks[j])
+            j += 1
+
+        if labels and j < len(processed_blocks):
+            # Check if we have a matching number of value blocks
+            values = []
+            k = j
+            while k < len(processed_blocks) and len(values) < len(labels) and not processed_blocks[k].endswith(':'):
+                # Ensure it's not a structural element
+                if (processed_blocks[k].startswith('#') or 
+                    processed_blocks[k].startswith('-')):
+                    break
+                values.append(processed_blocks[k])
+                k += 1
+
+            if len(labels) == len(values):
+                # Interleave them!
+                for label, value in zip(labels, values):
+                    interleaved_blocks.append(f"{label} {value}")
+                i = k # Skip processed labels AND values
+                continue
+
+        interleaved_blocks.append(processed_blocks[i])
+        i += 1
+
     # Heuristic for joining blocks that were split mid-sentence
     final_blocks = []
-    for block in processed_blocks:
+    for block in interleaved_blocks:
         if not final_blocks:
             final_blocks.append(block)
             continue
@@ -126,6 +179,11 @@ def clean_body(body: str) -> str:
         # Don't join if either is a structural element or contains images
         if (prev.startswith('#') or prev.startswith('-') or '![' in prev or 
             block.startswith('#') or block.startswith('-') or '![' in block):
+            final_blocks.append(block)
+            continue
+
+        # Don't join if either looks like an interleaved KV pair
+        if ': ' in prev or ': ' in block:
             final_blocks.append(block)
             continue
 
@@ -144,8 +202,7 @@ def clean_body(body: str) -> str:
         ends_with_comma = last_char == ','
         is_brace_join = last_char == '(' or first_char == ')'
 
-        # Join if it clearly continues (comma, abbreviation, lowercase, digit, brace)
-        # OR if the previous block just didn't end with a proper sentence terminator.
+        # Join if it clearly continues OR if previous didn't end with proper terminator
         if (ends_with_comma or is_abbreviation or 
             starts_with_lowercase or starts_with_digit or is_brace_join or
             not is_sentence_end):
@@ -154,16 +211,16 @@ def clean_body(body: str) -> str:
             final_blocks.append(block)            
 
     # Final cleanup: strip very short fragments from the end of the blocks
-    # that appear before structural elements or at the very end
     cleaned_final = []
     for i, block in enumerate(final_blocks):
         is_structural = block.startswith('#') or block.startswith('-') or '![' in block
-        if not is_structural and len(block) < 20 and not block.endswith('.') and not block.endswith(':'):
+        # Aggressively strip short fragments that don't end in punctuation
+        if not is_structural and len(block) < 30 and not block.endswith('.') and not block.endswith(':'):
             # Check if it's followed by a structural element or it's the last block
             is_last = i == len(final_blocks) - 1
             next_is_structural = not is_last and (final_blocks[i+1].startswith('#') or '![' in final_blocks[i+1])
             if is_last or next_is_structural:
-                continue # Skip this fragment
+                continue 
         cleaned_final.append(block)
 
     # Rename "## Links" to "## Sources" for consistent UI

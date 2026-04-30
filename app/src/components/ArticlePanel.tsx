@@ -445,8 +445,41 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
     });
   }, [navigate, lang, setRouteGeometry, setActivePoiCoords]);
 
+  const sourceLink = article?.sections
+    .filter((s) => s.type === "html")
+    .map(
+      (s) =>
+        (s as { type: "html"; content: string }).content.match(
+          /href="(https?:\/\/[^"]*frankfurt\.de[^"]*)"/,
+        )?.[1],
+    )
+    .find(Boolean);
+
   const toolbarButtons = article ? (
     <div className="flex items-center gap-1">
+      {sourceLink && (
+        <a
+          href={sourceLink}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="p-1.5 text-faded hover:text-sepia rounded cursor-pointer"
+          aria-label="View original source on frankfurt.de"
+          title="Original Source"
+        >
+          <svg
+            width="16"
+            height="16"
+            viewBox="0 0 16 16"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="1.5"
+            role="img"
+          >
+            <title>Original Source</title>
+            <path d="M9 3h4v4M7 9l6-6M4 4H2v10h10v-2" />
+          </svg>
+        </a>
+      )}
       <button
         type="button"
         onClick={() => handleShare(lang, theme, slug, article.title)}
@@ -533,11 +566,23 @@ export function ArticlePanel({ lang, theme, slug }: ArticlePanelProps) {
               Loading...
             </div>
           ) : article ? (
-            <ArticleContent
-              sections={article.sections}
-              allImages={article.allImages}
-              onOpenLightbox={setLightboxIdx}
-            />
+            <>
+              <ArticleContent
+                sections={article.sections}
+                allImages={article.allImages}
+                onOpenLightbox={setLightboxIdx}
+              />
+              <div className="mt-6 border-t border-sepia-light pt-6">
+                <h1 className="font-serif text-2xl text-ink leading-tight mb-1">
+                  {article.title}
+                </h1>
+                {article.subtitle && (
+                  <p className="text-sm text-faded font-medium italic mb-4">
+                    {article.subtitle}
+                  </p>
+                )}
+              </div>
+            </>
           ) : (
             <div className="text-faded text-center py-8">
               Article not found.
