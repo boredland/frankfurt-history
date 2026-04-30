@@ -196,7 +196,7 @@ def clean_body(body: str) -> str:
         first_char = block[0]
 
         is_sentence_end = last_char in '.!?:'
-        is_abbreviation = re.search(r'\b(?:Jg|geb|ca|u|v|Dr|Chr|Nr|Bd|S|orig)\.$', prev_clean, re.I)
+        is_abbreviation = re.search(r'\b(?:Jg|geb|ca|u|v|Dr|Chr|Nr|Bd|S|orig|[A-Z])\.$', prev_clean, re.I)
         starts_with_lowercase = first_char.islower()
         starts_with_digit = first_char.isdigit()
         ends_with_comma = last_char == ','
@@ -206,7 +206,10 @@ def clean_body(body: str) -> str:
         if (ends_with_comma or is_abbreviation or 
             starts_with_lowercase or starts_with_digit or is_brace_join or
             not is_sentence_end):
-            final_blocks[-1] = f"{prev} {block}"
+            if block.startswith(','):
+                final_blocks[-1] = f"{prev}{block}"
+            else:
+                final_blocks[-1] = f"{prev} {block}"
         else:
             final_blocks.append(block)            
 
@@ -215,7 +218,7 @@ def clean_body(body: str) -> str:
     for i, block in enumerate(final_blocks):
         is_structural = block.startswith('#') or block.startswith('-') or '![' in block
         # Aggressively strip short fragments that don't end in punctuation
-        if not is_structural and len(block) < 30 and not block.endswith('.') and not block.endswith(':'):
+        if not is_structural and len(block) < 30 and not block.endswith('.') and not block.endswith(':') and ': ' not in block:
             # Check if it's followed by a structural element or it's the last block
             is_last = i == len(final_blocks) - 1
             next_is_structural = not is_last and (final_blocks[i+1].startswith('#') or '![' in final_blocks[i+1])
