@@ -121,22 +121,22 @@ def clean_body(body: str) -> str:
         if not final_blocks:
             final_blocks.append(block)
             continue
-            
+
         prev = final_blocks[-1]
         # Don't join if either is a structural element or contains images
         if (prev.startswith('#') or prev.startswith('-') or '![' in prev or 
             block.startswith('#') or block.startswith('-') or '![' in block):
             final_blocks.append(block)
             continue
-            
+
         prev_clean = re.sub(r'<[^>]+>', '', prev).strip()
         if not prev_clean:
             final_blocks.append(block)
             continue
-            
+
         last_char = prev_clean[-1]
         first_char = block[0]
-        
+
         is_sentence_end = last_char in '.!?:'
         is_abbreviation = re.search(r'\b(?:Jg|geb|ca|u|v|Dr|Chr|Nr|Bd|S|orig)\.$', prev_clean, re.I)
         starts_with_lowercase = first_char.islower()
@@ -152,8 +152,24 @@ def clean_body(body: str) -> str:
             final_blocks[-1] = f"{prev} {block}"
         else:
             final_blocks.append(block)            
-    return "\n\n".join(final_blocks)
 
+    # Final cleanup: strip very short fragments from the end of the blocks
+    # that appear before structural elements or at the very end
+    cleaned_final = []
+    for i, block in enumerate(final_blocks):
+        is_structural = block.startswith('#') or block.startswith('-') or '![' in block
+        if not is_structural and len(block) < 20 and not block.endswith('.') and not block.endswith(':'):
+            # Check if it's followed by a structural element or it's the last block
+            is_last = i == len(final_blocks) - 1
+            next_is_structural = not is_last and (final_blocks[i+1].startswith('#') or '![' in final_blocks[i+1])
+            if is_last or next_is_structural:
+                continue # Skip this fragment
+        cleaned_final.append(block)
+
+    # Rename "## Links" to "## Sources" for consistent UI
+    content = "\n\n".join(cleaned_final)
+    content = re.sub(r'^## Links\s*$', '## Sources', content, flags=re.M)
+    return content
 
 def merge_file(base_path: Path, override_path: Path | None) -> str:
     base_text = base_path.read_text() if base_path.exists() else ""

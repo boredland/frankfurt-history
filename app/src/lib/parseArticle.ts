@@ -197,7 +197,7 @@ export function parseArticleBody(
   const galleryPattern =
     /^## (?:Gallery|Before & After|Interactive Before & After|Timeline)\s*$/;
   const galleryTypePattern = /^<!-- gallery:([\w-]+) -->$/;
-  const skipSectionPattern = /^## (?:Audio|Video|Links)\s*$/;
+  const skipSectionPattern = /^## (?:Audio|Video)\s*$/;
 
   const lines = body.split("\n");
   let currentTextLines: string[] = [];
