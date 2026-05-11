@@ -133,7 +133,7 @@ Andreas Baum
 
 <!-- gallery:standard -->
 ![Telemannstraße 5](../../images/stolpersteine/d1fb121b6495_stolperst_telemannstr_5_baum_andreas.jpg)
-![Telemannstraße 5](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/stolperst_telemannstr_5_baum_dorothea.jpg)
+![Telemannstraße 5](../../images/stolpersteine/e398ea63a17a_stolperst_telemannstr_5_baum_dorothea.jpg)
 ![Telemannstraße 5](../../images/stolpersteine/2ab732ff8d83_stolperst_telemannstr_5_baum_siegfried.jpg)
 ![Telemannstraße 5](../../images/stolpersteine/f160be1d6d8d_stolperst_telemannstr_5_hirsch_johanne.jpg)
 ![Telemannstraße 5](../../images/stolpersteine/21b3b60b6a75_stolperst_telemannstr_5_mayer_frida.jpg)

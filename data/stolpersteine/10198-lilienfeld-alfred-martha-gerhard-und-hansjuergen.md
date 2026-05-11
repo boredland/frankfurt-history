@@ -36,7 +36,7 @@ Letzte Nachricht aus dem KZ
 ## Gallery
 
 <!-- gallery:standard -->
-![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/westend/opferbilder/fellnerstr_11_alfred_lilienfeld.jpg)
+![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](../../images/stolpersteine/021e284e46ad_fellnerstr_11_alfred_lilienfeld.jpg)
 ![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](../../images/stolpersteine/887563ba6698_fellnerstr_11_martha_lilienfeld.jpg)
 ![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](../../images/stolpersteine/f1ecfc26b175_fellnerstr_11_gerhard_lilienfeld_kurz_vor_abtransport_ins_kz.jpg)
 ![Lilienfeld, Alfred, Martha, Gerhard und Hansjürgen](../../images/stolpersteine/9596e2acf20a_fellnerstr_11_hansjuergen_lilienfeld_kurz_vor_abtransport_in.jpg)

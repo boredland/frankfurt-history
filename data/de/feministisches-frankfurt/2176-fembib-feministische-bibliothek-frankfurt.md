@@ -2,8 +2,8 @@
 id: 2176
 title: "Fembib (Feministische Bibliothek Frankfurt)"
 subtitle: "Schau vorbei und entdecke feministische Literatur!"
-coordinates: [50.11877, 8.65103]
-updated_at: "2026-04-08 12:36:54"
+coordinates: [50.118541493922436, 8.650722267486685]
+updated_at: "2026-05-06 15:23:32"
 categories:
   - "Feminismen der Gegenwart Erfahre mehr"
 filters:
@@ -16,9 +16,6 @@ filters:
 
 ![Entdecke die Fembib von innen.](../../images/2c022aff8c9bbc5b2bb88f708e92a236_original.jpg)
 *2024 — Author: Fembib Kollektiv | License: Fembib/Gemeinfrei | Description: Entdecke die Fembib von innen.*
-
-Fembib (Feministische Bibliothek Frankfurt)
-Schau vorbei und entdecke feministische Literatur!
 
 Die Fembib liegt auf den Schultern der Frankfurter Feminist*innen, die schon Jahrzehnte vor uns gekämpft haben!
 
