@@ -3,7 +3,7 @@ id: 1477
 title: "Römer"
 subtitle: "Römerberg 21"
 coordinates: [50.110497, 8.681742]
-updated_at: "2026-03-11 11:39:14"
+updated_at: "2026-05-13 11:42:50"
 categories:
   - "19th century"
 filters:

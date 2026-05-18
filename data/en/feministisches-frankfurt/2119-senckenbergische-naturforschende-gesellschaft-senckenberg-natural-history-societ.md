@@ -3,7 +3,7 @@ id: 2119
 title: "Senckenbergische Naturforschende Gesellschaft  (Senckenberg Natural History Society)"
 subtitle: "Elisabeth Johanna Friederike Schultz – At the heart of natural science"
 coordinates: [50.1175, 8.65247]
-updated_at: "2026-04-17 11:15:16"
+updated_at: "2026-05-11 14:57:21"
 filters:
   - "Places of labour"
 ---
@@ -26,12 +26,12 @@ As a woman, she was long denied access to university research and scientific soc
 ## Gallery
 
 <!-- gallery:standard -->
-![](../../images/C03271%2B001_9db07b548e5dfee205d6607155298c8f_original.jpg)
-*Author: Carl Freidrich Mylius | License: HMF/Gemeinfrei*
+![Das Senckenbergische Krankenhospital vom Botanischen Garten aus](../../images/C03271%2B001_9db07b548e5dfee205d6607155298c8f_original.jpg)
+*Author: Carl Friedrich Mylius | License: HMF/Gemeinfrei | Description: Das Senckenbergische Krankenhospital vom Botanischen Garten aus*
 
-![](../../images/C09731_001_20bbcd1f154d374cfd34f1673287a195_original.jpg)
-*Author: Carl Freidrich Mylius | License: HMF/Gemeinfrei*
+![Das alte Senckenbergische Haus in der Eschenheimergasse, Abgerissen, Hintere Ansicht.](../../images/C09731_001_20bbcd1f154d374cfd34f1673287a195_original.jpg)
+*Author: Carl Friedrich Mylius | License: HMF/Gemeinfrei | Description: Das alte Senckenbergische Haus in der Eschenheimergasse, Abgerissen, Hintere Ansicht.*
 
-![](../../images/C03272%2B001_563e990cb0f36fe13f7cbf4df3e04fd0_original.jpg)
-*Author: Carl Freidrich Mylius | License: HMF/Gemeinfrei*
+![Senckenbergische Stiftung am Eschenheimer Turm, die Treibhäuser im Botanischen Garten des Senckenbergischen Institut](../../images/C03272%2B001_563e990cb0f36fe13f7cbf4df3e04fd0_original.jpg)
+*Author: Carl Friedrich Mylius | License: HMF/Gemeinfrei | Description: Senckenbergische Stiftung am Eschenheimer Turm, die Treibhäuser im Botanischen Garten des Senckenbergischen Institut*
 
