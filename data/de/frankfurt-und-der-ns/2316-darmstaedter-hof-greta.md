@@ -3,7 +3,7 @@ id: 2316
 title: "Darmstädter Hof („Greta\")"
 subtitle: "An der Walkmühle 1"
 coordinates: [50.199543, 8.672102]
-updated_at: "2026-04-14 18:31:54"
+updated_at: "2026-05-21 14:14:31"
 categories:
   - "Orte"
 filters:
@@ -14,8 +14,8 @@ filters:
 
 *An der Walkmühle 1*
 
-![Darmstädter Hof, Seitenansicht](../../images/9cf3e28a271e462c7577150dfe22d0d2_original.jpg)
-*2026 — Author: Peter Brosche | License: Privat | Description: Darmstädter Hof, Seitenansicht*
+![Blick auf den Darmstädter Hof.](../../images/d304de818cff07534dc029ecc9273f2a_original.jpg)
+*ca. 1930 — Author: Unbekannt | License: Heimat- und Geschichtsverein Nieder-Eschbach | Description: Blick auf den Darmstädter Hof.*
 
 Unterkunft für Zwangsarbeitende
 
@@ -50,6 +50,9 @@ Ab dem 1.August 1972 gehörte Nieder-Eschbach als Ortsbezirk 15 zu Frankfurt. Di
 ## Gallery
 
 <!-- gallery:standard -->
+![Blick auf den Darmstädter Hof.](../../images/Darmst%C3%A4dt_d7b7b1a75057ab048b9669ec1c880d68_original.jpg)
+*ca. 1930 — Author: Unbekannt | License: Heimat- und Geschichtsverein Nieder-Eschbach | Description: Blick auf den Darmstädter Hof.*
+
 ![Darmstädter Hof, Seitenansicht](../../images/Darmst%C3%A4dt_923dfa2a0648a52ee2498b877df78eae_original.jpg)
 *2026 — Author: Peter Brosche | License: Privat | Description: Darmstädter Hof, Seitenansicht*
 

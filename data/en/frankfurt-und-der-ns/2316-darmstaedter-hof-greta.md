@@ -3,7 +3,7 @@ id: 2316
 title: "Darmstädter Hof („Greta\")"
 subtitle: "An der Walkmühle 1"
 coordinates: [50.199543, 8.672102]
-updated_at: "2026-04-14 18:31:54"
+updated_at: "2026-05-21 14:14:31"
 categories:
   - "Places"
 filters:
@@ -14,8 +14,8 @@ filters:
 
 *An der Walkmühle 1*
 
-![Darmstädter Hof, side view](../../images/9cf3e28a271e462c7577150dfe22d0d2_original.jpg)
-*2026 — Author: Peter Brosche | License: Privat | Description: Darmstädter Hof, side view*
+![View of the Darmstädter Hof.](../../images/d304de818cff07534dc029ecc9273f2a_original.jpg)
+*approx. 1930 — Author: Unbekannt | License: Heimat- und Geschichtsverein Nieder-Eschbach | Description: View of the Darmstädter Hof.*
 
 Forced Labor Camp
 
@@ -50,6 +50,9 @@ On August 1, 1972, Nieder-Eschbach was incorporated into Frankfurt as administra
 ## Gallery
 
 <!-- gallery:standard -->
+![View of the Darmstädter Hof.](../../images/Darmst%C3%A4dt_d7b7b1a75057ab048b9669ec1c880d68_original.jpg)
+*approx. 1930 — Author: Unbekannt | License: Heimat- und Geschichtsverein Nieder-Eschbach | Description: View of the Darmstädter Hof.*
+
 ![Darmstädter Hof, side view](../../images/Darmst%C3%A4dt_923dfa2a0648a52ee2498b877df78eae_original.jpg)
 *2026 — Author: Peter Brosche | License: Privat | Description: Darmstädter Hof, side view*
 

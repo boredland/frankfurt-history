@@ -2460,7 +2460,7 @@
     "type": "classic",
     "subtitle": "Das Displaced Persons Lager für Überlebende der Schoah",
     "description": "Rundgang durch den Frankfurter Stadtteil Zeilsheim",
-    "prologue": " ",
+    "prologue": "",
     "steps": [
       {
         "id": 726,
@@ -2541,7 +2541,7 @@
     ],
     "thumbnail": {
       "type": null,
-      "originalName": "f8fb40adc58cd9c23499648ccfa13fc5_original.jpg",
+      "originalName": "79e00c475649b80be00948816fee2825_original.jpg",
       "date": null,
       "dateString": "",
       "weight": null,
@@ -2549,14 +2549,14 @@
         {
           "type": "original",
           "width": 1024,
-          "height": 1024,
-          "url": "https://api.frankfurthistory.app/storage/images/79e00c475649b80be00948816fee2825_original.jpg"
+          "height": 576,
+          "url": "https://api.frankfurthistory.app/storage/images/511e4de5afafb29778f2cb67630db09c_original.jpg"
         },
         {
           "type": "small",
           "width": 800,
-          "height": 800,
-          "url": "https://api.frankfurthistory.app/storage/images/79e00c475649b80be00948816fee2825_small.jpg"
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/511e4de5afafb29778f2cb67630db09c_small.jpg"
         }
       ],
       "metadata": null,
@@ -2575,7 +2575,7 @@
     "categories": [],
     "zoomLevel": 17,
     "hasToken": false,
-    "updatedAt": "2025-12-17 16:32:17"
+    "updatedAt": "2026-05-18 16:51:15"
   },
   {
     "id": 77,
