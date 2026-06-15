@@ -3,7 +3,7 @@ id: 1969
 title: "Main customs office (today: Haus am Dom)"
 subtitle: "Domstraße 3"
 coordinates: [50.111394, 8.684399]
-updated_at: "2026-06-03 13:24:25"
+updated_at: "2026-06-09 14:03:50"
 categories:
   - "Before-After-Camera Then and now"
 filters:

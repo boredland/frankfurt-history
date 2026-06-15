@@ -268,6 +268,8 @@
             "updatedAt": "2025-04-25 08:03:14"
           }
         ],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
         "linkContents": [],
         "quizContents": [],
         "filters": [
@@ -276,7 +278,8 @@
             "title": "Frankfurt",
             "subtitle": "and the revolution",
             "colour": "olive",
-            "icon": null
+            "icon": null,
+            "published": 1
           }
         ]
       }
@@ -318,12 +321,14 @@
         "title": "Frankfurt",
         "subtitle": "and the revolution",
         "colour": "olive",
-        "icon": null
+        "icon": null,
+        "published": 1
       }
     ],
     "categories": [],
     "zoomLevel": 18,
     "hasToken": false,
+    "globalPos": null,
     "updatedAt": "2025-04-25 08:03:21"
   },
   {
@@ -595,6 +600,8 @@
             "updatedAt": "2025-11-27 17:32:12"
           }
         ],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
         "linkContents": [],
         "quizContents": [],
         "filters": [
@@ -603,7 +610,8 @@
             "title": "Places with multiple",
             "subtitle": "perspectives",
             "colour": "colored",
-            "icon": null
+            "icon": null,
+            "published": 1
           }
         ]
       }
@@ -645,12 +653,14 @@
         "title": "Frankfurt",
         "subtitle": "and the NS",
         "colour": "red",
-        "icon": null
+        "icon": null,
+        "published": 1
       }
     ],
     "categories": [],
     "zoomLevel": 15,
     "hasToken": false,
+    "globalPos": null,
     "updatedAt": "2025-11-27 18:27:13"
   }
 ]

@@ -3,7 +3,7 @@ id: 1952
 title: "Siedlung Bornheimer Hang"
 subtitle: "Wittelsbacherallee 157"
 coordinates: [50.124934023298266, 8.712893835193569]
-updated_at: "2025-06-02 06:26:06"
+updated_at: "2026-06-09 14:05:34"
 categories:
   - "Vorher-Nachher-Kamera Damals und Heute"
 filters:

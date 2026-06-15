@@ -64,6 +64,8 @@
         "arContents": [],
         "videoContents": [],
         "galleryContents": [],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
         "linkContents": [],
         "quizContents": [],
         "filters": [
@@ -72,7 +74,8 @@
             "title": "Theatres",
             "subtitle": "of the Revolution",
             "colour": "orange",
-            "icon": null
+            "icon": null,
+            "published": 1
           }
         ]
       }
@@ -114,12 +117,14 @@
         "title": "Theatres",
         "subtitle": "of the Revolution",
         "colour": "orange",
-        "icon": null
+        "icon": null,
+        "published": 1
       }
     ],
     "categories": [],
     "zoomLevel": 18,
     "hasToken": false,
+    "globalPos": null,
     "updatedAt": "2026-03-12 14:53:51"
   },
   {
@@ -247,6 +252,8 @@
             "updatedAt": "2023-04-16 14:57:33"
           }
         ],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
         "linkContents": [],
         "quizContents": [],
         "filters": [
@@ -255,7 +262,8 @@
             "title": "Meeting points",
             "subtitle": "of the political groups",
             "colour": "purple",
-            "icon": null
+            "icon": null,
+            "published": 1
           }
         ]
       }
@@ -297,12 +305,14 @@
         "title": "Meeting points",
         "subtitle": "of the political groups",
         "colour": "purple",
-        "icon": null
+        "icon": null,
+        "published": 1
       }
     ],
     "categories": [],
     "zoomLevel": 18,
     "hasToken": false,
+    "globalPos": null,
     "updatedAt": "2026-03-11 10:37:39"
   },
   {
@@ -433,7 +443,8 @@
                   "title": "Scenes from",
                   "subtitle": "the September Riots",
                   "colour": "winered",
-                  "icon": null
+                  "icon": null,
+                  "published": 1
                 }
               ]
             },
@@ -443,7 +454,8 @@
                 "title": "Scenes from",
                 "subtitle": "the September Riots",
                 "colour": "winered",
-                "icon": null
+                "icon": null,
+                "published": 1
               }
             ],
             "categories": [],
@@ -504,7 +516,8 @@
                     "title": "Scenes from",
                     "subtitle": "the September Riots",
                     "colour": "winered",
-                    "icon": null
+                    "icon": null,
+                    "published": 1
                   }
                 ]
               }
@@ -513,6 +526,8 @@
             "updatedAt": "2026-01-08 11:06:02"
           }
         ],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
         "linkContents": [],
         "quizContents": [],
         "filters": [
@@ -521,7 +536,8 @@
             "title": "Scenes from",
             "subtitle": "the September Riots",
             "colour": "winered",
-            "icon": null
+            "icon": null,
+            "published": 1
           }
         ]
       }
@@ -557,12 +573,14 @@
         "title": "Scenes from",
         "subtitle": "the September Riots",
         "colour": "winered",
-        "icon": null
+        "icon": null,
+        "published": 1
       }
     ],
     "categories": [],
     "zoomLevel": 18,
     "hasToken": false,
+    "globalPos": null,
     "updatedAt": "2026-01-08 11:06:02"
   },
   {
@@ -609,6 +627,8 @@
         "arContents": [],
         "videoContents": [],
         "galleryContents": [],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
         "linkContents": [],
         "quizContents": [],
         "filters": [
@@ -617,7 +637,8 @@
             "title": "Theatres",
             "subtitle": "of the Revolution",
             "colour": "orange",
-            "icon": null
+            "icon": null,
+            "published": 1
           }
         ]
       }
@@ -659,12 +680,14 @@
         "title": "Theatres",
         "subtitle": "of the Revolution",
         "colour": "orange",
-        "icon": null
+        "icon": null,
+        "published": 1
       }
     ],
     "categories": [],
     "zoomLevel": 18,
     "hasToken": false,
+    "globalPos": null,
     "updatedAt": "2026-03-12 14:53:51"
   },
   {
@@ -771,6 +794,8 @@
             "updatedAt": "2023-06-28 11:26:01"
           }
         ],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
         "linkContents": [],
         "quizContents": [],
         "filters": [
@@ -779,7 +804,8 @@
             "title": "Meeting points",
             "subtitle": "of the political groups",
             "colour": "purple",
-            "icon": null
+            "icon": null,
+            "published": 1
           }
         ]
       }
@@ -821,12 +847,14 @@
         "title": "Meeting points",
         "subtitle": "of the political groups",
         "colour": "purple",
-        "icon": null
+        "icon": null,
+        "published": 1
       }
     ],
     "categories": [],
     "zoomLevel": 18,
     "hasToken": false,
+    "globalPos": null,
     "updatedAt": "2026-03-11 10:37:39"
   },
   {
@@ -868,12 +896,14 @@
         "title": "Scenes from",
         "subtitle": "the September Riots",
         "colour": "winered",
-        "icon": null
+        "icon": null,
+        "published": 1
       }
     ],
     "categories": [],
     "zoomLevel": 18,
     "hasToken": false,
+    "globalPos": null,
     "updatedAt": "2026-01-08 11:06:02"
   }
 ]

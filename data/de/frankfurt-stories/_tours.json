@@ -64,6 +64,8 @@
         "arContents": [],
         "videoContents": [],
         "galleryContents": [],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
         "linkContents": [],
         "quizContents": [],
         "filters": [
@@ -72,7 +74,8 @@
             "title": "125 Jahre FSV",
             "subtitle": "(1899-2024)",
             "colour": "darkgray",
-            "icon": null
+            "icon": null,
+            "published": 1
           }
         ]
       }
@@ -108,12 +111,14 @@
         "title": "125 Jahre FSV",
         "subtitle": "(1899-2024)",
         "colour": "darkgray",
-        "icon": null
+        "icon": null,
+        "published": 1
       }
     ],
     "categories": [],
     "zoomLevel": 18,
     "hasToken": false,
+    "globalPos": null,
     "updatedAt": "2026-03-11 11:12:42"
   },
   {
@@ -337,6 +342,8 @@
             "updatedAt": "2024-02-29 11:03:44"
           }
         ],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
         "linkContents": [],
         "quizContents": [],
         "filters": [
@@ -345,7 +352,8 @@
             "title": "Reiffensteins Frankfurt",
             "subtitle": "(1820-1893)",
             "colour": "lightblue",
-            "icon": null
+            "icon": null,
+            "published": 1
           }
         ]
       }
@@ -387,12 +395,14 @@
         "title": "Reiffensteins Frankfurt",
         "subtitle": "(1820-1893)",
         "colour": "lightblue",
-        "icon": null
+        "icon": null,
+        "published": 1
       }
     ],
     "categories": [],
     "zoomLevel": 18,
     "hasToken": false,
+    "globalPos": null,
     "updatedAt": "2026-03-11 11:38:40"
   },
   {
@@ -499,6 +509,8 @@
             "updatedAt": "2025-10-24 11:17:07"
           }
         ],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
         "linkContents": [],
         "quizContents": [],
         "filters": [
@@ -507,7 +519,8 @@
             "title": "Short Stories",
             "subtitle": "",
             "colour": "firered",
-            "icon": null
+            "icon": null,
+            "published": 1
           }
         ]
       }
@@ -549,12 +562,14 @@
         "title": "Short Stories",
         "subtitle": "",
         "colour": "firered",
-        "icon": null
+        "icon": null,
+        "published": 1
       }
     ],
     "categories": [],
     "zoomLevel": 18,
     "hasToken": false,
+    "globalPos": null,
     "updatedAt": "2026-02-06 14:06:19"
   }
 ]
