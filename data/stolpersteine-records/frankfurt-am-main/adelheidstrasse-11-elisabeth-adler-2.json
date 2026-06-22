@@ -11,7 +11,7 @@
     "death_date": null,
     "birth_place": null,
     "death_place": null,
-    "birth_name": null,
+    "birth_name": "Kuttner",
     "fate": "1933 England, Frankreich, 1938 Türkei",
     "victim_group": "jüdisch verfolgt"
   },
@@ -41,9 +41,15 @@
   "images": [],
   "enrichers": {
     "stolpersteine_frankfurt_de": {
-      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "fetched_at": "2026-06-22T22:20:22+00:00",
       "list_stand": "2026-06-16",
       "found": true
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T22:18:58+00:00",
+      "found": false,
+      "bios": 0,
+      "images": 0
     }
   }
 }
