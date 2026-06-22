@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/moselstrasse-5-erna-poser",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1063155,
+    8.6687263
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Erna Poser",
+    "birth_date": "1930-03-09",
+    "death_date": "1941-02-10",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"T4\" - 1933 Kalmenhof Idstein, 10.2.1941 Tötungsanstalt Hadamar",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Moselstraße",
+    "house_number": "5",
+    "postcode": null,
+    "district": "Bahnhofsviertel",
+    "formatted": "Moselstraße 5"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2020-06-20",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

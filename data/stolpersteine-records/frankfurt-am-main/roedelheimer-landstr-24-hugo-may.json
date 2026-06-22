@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/roedelheimer-landstr-24-hugo-may",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.122803,
+    8.6316629
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Hugo May",
+    "birth_date": "1880-01-25",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "15.9.1942 Theresienstadt, 1944 Auschwitz"
+  },
+  "address": {
+    "street": "Rödelheimer Landstr.",
+    "house_number": "24",
+    "postcode": null,
+    "district": "Rödelheim",
+    "formatted": "Rödelheimer Landstr. 24"
+  },
+  "inscription": "Hier wohnte Hugo May;Deportation 15.9.1942 nach Theresienstadt und Auschwitz",
+  "laying_date": "2008-04-24",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 975659657,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Bockenheim",
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-bockenheim/familien/may-hugo-und-johanna",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:44+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/schuetzenstrasse-7-rudolf-reinhardt",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1100559,
+    8.691161
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Rudolf Reinhardt",
+    "birth_date": "1886-05-20",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Zeuge Jehovas - Haft 1937 Frankfurt, Lichtenburg, KZ Buchenwald, befreit 11.4.1945",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Schützenstraße",
+    "house_number": "7",
+    "postcode": null,
+    "district": "Innenstadt",
+    "formatted": "Schützenstraße 7"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2019-06-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/tevesstrasse-43-karl-fehler",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.0976182,
+    8.6262642
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Karl Fehler",
+    "birth_date": "1905-03-24",
+    "death_date": "1941-12-19",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" - 25.8.1941 KZ Sachsenhausen",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Tevesstraße",
+    "house_number": "43",
+    "postcode": null,
+    "district": "Gallus",
+    "formatted": "Tevesstraße 43"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2008-09-03",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

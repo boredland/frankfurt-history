@@ -1,0 +1,77 @@
+{
+  "id": "frankfurt-am-main/im-burgfeld-153",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1512232,
+    8.6305624
+  ],
+  "coords_source": "wfs",
+  "person": {
+    "name": null,
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Im Burgfeld",
+    "house_number": "153",
+    "postcode": "60439",
+    "district": null,
+    "formatted": "Im Burgfeld 153"
+  },
+  "commemorates": [
+    "Loeb, Jenny"
+  ],
+  "inscription": null,
+  "laying_date": null,
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "wfs_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-heddernheim/standorte/im-burgfeld-153",
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-heddernheim/standorte/im-burgfeld-153",
+    "network": null
+  },
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-heddernheim/familien/loeb-jenny",
+      "lang": "de",
+      "text": "Loeb, Jenny\n\nJenny Loeb wurde in Frankfurt geboren und lebte seit 1932 in der Hadrianstraße 13, ab 1934 im Burgfeld 153 als ledige Hausgehilfin zur Untermiete. Zum 4.6.1941 ist sie dort abgemeldet mit neuer Adresse Bäckerweg 36. Bei dieser Adresse handelt es sich um ein sogenanntes Judenhaus, in dem jüdische Bürger zusammengepfercht wurden, bis sie zur Deportation abgeholt wurden.\n\nJenny Loeb\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n19.11.1874\n\n15.09.1942 nach Theresienstadt\n\n31.01.1943\n\nStolperstein Im Burgfeld 153 Jenny Löb\n\nteilen\n\ntweet\n\nmitteilen\n\nteilen\n\nmail\n\nBaumann, Fritz\n\nBerentzen, Lore und Karl\n\nBohrmann, Alice und Richard\n\nCahn, Charlotte\n\nFabisch, Emma und Heinrich Heilmann\n\nFlörsheim, Ida und Isidor\n\nGoldschmidt, Helene und Alfred\n\nGoldschmidt, Max und Erna\n\nGottlieb, Alice und Jeanette\n\nHöxter, Kurt Leo\n\nJakob, Anna und Adolf\n\nLoeb, Jenny\n\nRichard, Louis und Johanna\n\nRothenberger, Ludwig\n\nSaalfeld, Elisabeth\n\nSalomon, Karl\n\nSchwelm, Berta, Max und Hildegard Ilse\n\nSeelig, Felix und Friedel\n\nSimenauer, Kaethe\n\nSimon, Sigmund und Johanna\n\nSteiner, Fanny und Goldschmidt, Hermann\n\nStern, Helene und Siegfried\n\nStern, Isidor und Martha\n\nInitiative Stolpersteine\n\nStolperstein Standort\n\nIm Burgfeld 153",
+      "text_en": "Loeb, Jenny\n\nJenny Loeb was born in Frankfurt and lived at Hadrianstraße 13 from 1932, from 1934 at Burgfeld 153 as an unmarried housemaid for subletting. On June 4, 1941, she was deregistered there with the new address Bäckerweg 36. This address was a so-called Jews' house in which Jewish citizens were crammed together until they were picked up for deportation.\n\nJenny Loeb\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n19.11.1874\n\n15.09.1942 to Theresienstadt\n\n31.01.1943\n\nStumbling stone Im Burgfeld 153 Jenny Löb\n\nshare\n\ntweet\n\nshare\n\nshare\n\nmail\n\nBaumann, Fritz\n\nBerentzen, Lore and Karl\n\nBohrmann, Alice and Richard\n\nCahn, Charlotte\n\nFabisch, Emma and Heinrich Heilmann\n\nFlörsheim, Ida and Isidor\n\nGoldschmidt, Helene and Alfred\n\nGoldschmidt, Max and Erna\n\nGottlieb, Alice and Jeanette\n\nHöxter, Kurt Leo\n\nJakob, Anna and Adolf\n\nLoeb, Jenny\n\nRichard, Louis and Johanna\n\nRothenberger, Ludwig\n\nSaalfeld, Elisabeth\n\nSalomon, Karl\n\nSchwelm, Berta, Max and Hildegard Ilse\n\nSeelig, Felix and Friedel\n\nSimenauer, Kaethe\n\nSimon, Sigmund and Johanna\n\nSteiner, Fanny and Goldschmidt, Hermann\n\nStern, Helene and Siegfried\n\nStern, Isidor and Martha\n\nStumbling Stones Initiative\n\nStumbling stone location\n\nIm Burgfeld 153"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/im_burgfeld_153__400x300.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/stolpersteine_im_burgfeld_153__400x300.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/loeb-jenny.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    }
+  ],
+  "enrichers": {
+    "wfs": {
+      "fetched_at": "2026-06-22T21:34:48+00:00"
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T21:34:48+00:00",
+      "found": true
+    }
+  }
+}

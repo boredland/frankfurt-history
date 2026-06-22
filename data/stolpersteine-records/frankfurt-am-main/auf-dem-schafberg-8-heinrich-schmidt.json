@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/auf-dem-schafberg-8-heinrich-schmidt",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.0915425,
+    8.6119574
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Heinrich Schmidt",
+    "birth_date": "1909-03-13",
+    "death_date": "1944-03-13",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" - 1935 Frankreich, Haft: 1943 Frankfurt, 1943 Strafbataillon 999, 1944 Kassel-Wehlheiden",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Auf dem Schafberg",
+    "house_number": "8",
+    "postcode": null,
+    "district": "Griesheim",
+    "formatted": "Auf dem Schafberg 8"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2020-10-23",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

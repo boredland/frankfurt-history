@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/kronberger-strasse-28-hedwig-kohn",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.119823,
+    8.6672427
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Hedwig Kohn",
+    "birth_date": "1885-05-24",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Hamburger",
+    "fate": "15.2.1941 von Wien nach Opole",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Kronberger Straße",
+    "house_number": "28",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Kronberger Straße 28"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2012-05-13",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

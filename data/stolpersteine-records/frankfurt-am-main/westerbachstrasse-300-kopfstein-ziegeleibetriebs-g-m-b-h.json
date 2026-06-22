@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/westerbachstrasse-300-kopfstein-ziegeleibetriebs-g-m-b-h",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Ziegeleibetriebs-G.m.b.H",
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Hier in Zwangsarbeit 1940-1941; 18 jüdische Deutsche, die meisten deportiert und ermordet, 1942-1945 27 Russen und Ukrainer",
+    "victim_group": null
+  },
+  "address": {
+    "street": "Westerbachstraße",
+    "house_number": "300",
+    "postcode": null,
+    "district": "Sossenheim",
+    "formatted": "Westerbachstraße 300"
+  },
+  "marker_type": "kopfstein",
+  "inscription": null,
+  "laying_date": "2024-10-30",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

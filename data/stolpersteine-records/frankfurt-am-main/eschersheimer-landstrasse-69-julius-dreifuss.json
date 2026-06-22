@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/eschersheimer-landstrasse-69-julius-dreifuss",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1228924,
+    8.6754945
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Julius Dreifuss",
+    "birth_date": "1870-05-29",
+    "death_date": "1942-12-01",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1940 Luxemburg, 30.7.1942 Theresienstadt",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Eschersheimer Landstraße",
+    "house_number": "69",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Eschersheimer Landstraße 69"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2018-05-17",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/linkstrasse-6-josef-simon-rosenblum",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.0924088,
+    8.6113518
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Josef Simon Rosenblum",
+    "birth_date": "1901-03-16",
+    "death_date": "1940-11-05",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1938 KZ Buchenwald, September 1939 F- Preungesheim, Juli 1940 Mauthausen/Gusen",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Linkstraße",
+    "house_number": "6",
+    "postcode": null,
+    "district": "Griesheim",
+    "formatted": "Linkstraße 6"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2014-07-10",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

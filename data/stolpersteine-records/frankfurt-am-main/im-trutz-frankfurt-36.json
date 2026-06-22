@@ -1,0 +1,47 @@
+{
+  "id": "frankfurt-am-main/im-trutz-frankfurt-36",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1198457,
+    8.673924
+  ],
+  "coords_source": "wfs",
+  "person": {
+    "name": null,
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Im Trutz Frankfurt",
+    "house_number": "36",
+    "postcode": "60322",
+    "district": null,
+    "formatted": "Im Trutz Frankfurt 36"
+  },
+  "commemorates": [],
+  "inscription": null,
+  "laying_date": null,
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "wfs_url": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": null,
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "wfs": {
+      "fetched_at": "2026-06-22T21:34:48+00:00"
+    }
+  }
+}

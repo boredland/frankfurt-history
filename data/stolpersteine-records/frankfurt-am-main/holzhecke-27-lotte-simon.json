@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/holzhecke-27-lotte-simon",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.089501,
+    8.6538008
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Lotte Simon",
+    "birth_date": "1884-11-20",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Sonntag",
+    "fate": "1940 Brasilien",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Holzhecke",
+    "house_number": "27",
+    "postcode": null,
+    "district": "Niederrad",
+    "formatted": "Holzhecke 27"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2021-09-05",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/boehmerstrasse-60-selma-lewin",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1226676,
+    8.6685375
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Selma Lewin",
+    "birth_date": "1899-07-20",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Heppenheimer",
+    "fate": "Gedemütigt, entrechtet",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Böhmerstraße",
+    "house_number": "60",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Böhmerstraße 60"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2014-06-21",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

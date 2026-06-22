@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/am-kirchberg-27-hans-ludwig-katz",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1557663,
+    8.6549596
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Hans Ludwig Katz",
+    "birth_date": "1892-07-24",
+    "death_date": "1940-11-17",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1936 Südafrika",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Am Kirchberg",
+    "house_number": "27",
+    "postcode": null,
+    "district": "Eschersheim",
+    "formatted": "Am Kirchberg 27"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2015-05-17",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

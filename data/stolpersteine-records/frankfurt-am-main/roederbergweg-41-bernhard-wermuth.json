@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/roederbergweg-41-bernhard-wermuth",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1142605,
+    8.7043033
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Bernhard Wermuth",
+    "birth_date": "1896-06-20",
+    "death_date": "1945-04-27",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1938 Bentschen \"Polenaktion\", 1940 Ghetto Bochnia, 1942 Klej, Krakau-Plaszow, Kielce, Auschwitz-Monowitz, 1945 Nordhausen, Osterode",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Röderbergweg",
+    "house_number": "41",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Röderbergweg 41"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2008-04-25",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

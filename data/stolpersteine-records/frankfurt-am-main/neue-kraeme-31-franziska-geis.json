@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/neue-kraeme-31-franziska-geis",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1125055,
+    8.6811438
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Franziska Geis",
+    "birth_date": "1902-05-20",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Levi",
+    "fate": "10.6.1942 Vernichtungslager Majdanek",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Neue Kräme",
+    "house_number": "31",
+    "postcode": null,
+    "district": "Innenstadt",
+    "formatted": "Neue Kräme 31"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2017-11-13",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

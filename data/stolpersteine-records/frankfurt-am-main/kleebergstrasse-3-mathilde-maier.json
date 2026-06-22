@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/kleebergstrasse-3-mathilde-maier",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1308306,
+    8.6770619
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Mathilde Maier",
+    "birth_date": "1905-03-10",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Wormser",
+    "fate": "10.11.1938 Brasilien",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Kleebergstraße",
+    "house_number": "3",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Kleebergstraße 3"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2017-06-23",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

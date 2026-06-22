@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/michaelstrasse-66-johann-josef-weber",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1240946,
+    8.5622274
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Johann Josef Weber",
+    "birth_date": "1893-12-29",
+    "death_date": "1944-04-25",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" KPD - 1936 Gefängnis Klapperfeld,1937–1942 Zuchthaus Freiendiez, Butzbach, Kassel- Wehlheiden,1942 KZ Dachau",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Michaelstraße",
+    "house_number": "66",
+    "postcode": null,
+    "district": "Sossenheim",
+    "formatted": "Michaelstraße 66"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2018-05-18",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

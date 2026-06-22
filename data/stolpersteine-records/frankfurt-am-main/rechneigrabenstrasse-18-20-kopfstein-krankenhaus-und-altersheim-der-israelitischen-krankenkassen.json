@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/rechneigrabenstrasse-18-20-kopfstein-krankenhaus-und-altersheim-der-israelitischen-krankenkassen",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1115294,
+    8.6905921
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Krankenhaus und Altersheim der Israelitischen Krankenkassen",
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1829-1942; 1983 enteignet, ab August/September 1942 Sammelpunkt für Deportationen; 166 Jüdinnen und Juden von hier verschleppt und ermordet",
+    "victim_group": null
+  },
+  "address": {
+    "street": "Rechneigrabenstraße",
+    "house_number": "18-20",
+    "postcode": null,
+    "district": "Innenstadt",
+    "formatted": "Rechneigrabenstraße 18-20"
+  },
+  "marker_type": "kopfstein",
+  "inscription": null,
+  "laying_date": "2019-10-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

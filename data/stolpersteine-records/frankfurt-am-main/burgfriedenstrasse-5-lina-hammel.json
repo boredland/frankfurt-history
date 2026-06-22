@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/burgfriedenstrasse-5-lina-hammel",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1248111,
+    8.6119755
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Lina Hammel",
+    "birth_date": "1875-08-07",
+    "death_date": "1941-06-09",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Ehrlich",
+    "fate": "gedemütigt/entrechtet",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Burgfriedenstraße",
+    "house_number": "5",
+    "postcode": null,
+    "district": "Rödelheim",
+    "formatted": "Burgfriedenstraße 5"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2026-06-03",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

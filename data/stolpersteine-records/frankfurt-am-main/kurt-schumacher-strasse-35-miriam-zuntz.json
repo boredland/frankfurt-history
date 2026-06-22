@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/kurt-schumacher-strasse-35-miriam-zuntz",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1132135,
+    8.6877168
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Miriam Zuntz",
+    "birth_date": "1934-05-15",
+    "death_date": "1944",
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "15.9.1942 Theresienstadt, Auschwitz"
+  },
+  "address": {
+    "street": "Kurt-Schumacher-Straße",
+    "house_number": "35",
+    "postcode": null,
+    "district": "Altstadt",
+    "formatted": "Kurt-Schumacher-Straße 35"
+  },
+  "inscription": "Hier wohnte Miriam Zuntz geb. 15.5.1934 deportiert 1942 Theresienstadt 1944 Auschwitz ermordet",
+  "laying_date": "2010-05-07",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 2576272907,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Altstadt",
+    "wikimedia_commons": null,
+    "image": "File:Stolperst_kurt_schumacher_strasse_35_zuntz_mirjam_400x400.jpg",
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-der-altstadt/familien/zuntz-karl-ella-miriam-esther-und-harry",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:44+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

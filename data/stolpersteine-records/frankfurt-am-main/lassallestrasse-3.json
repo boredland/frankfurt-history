@@ -1,0 +1,77 @@
+{
+  "id": "frankfurt-am-main/lassallestrasse-3",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1306299,
+    8.7377683
+  ],
+  "coords_source": "wfs",
+  "person": {
+    "name": null,
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Lassallestraße",
+    "house_number": "3",
+    "postcode": "60386",
+    "district": null,
+    "formatted": "Lassallestraße 3"
+  },
+  "commemorates": [
+    "Ullmann, Leopold"
+  ],
+  "inscription": null,
+  "laying_date": null,
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "wfs_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-riederwald/standorte/lassallestrasse-3",
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-riederwald/standorte/lassallestrasse-3",
+    "network": null
+  },
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-riederwald/familien/ullmann-leopold",
+      "lang": "de",
+      "text": "Ullmann, Leopold\n\nDer Kaufmann Leopold Ullmann beging unmittelbar nach der Pogromnacht aus Verzweiflung Selbstmord. Sein Grab befindet sich auf dem Neuen Jüdischen Friedhof in der Eckenheimer Landstraße.\n\nLeopold Ullmann\n\nGeburtsdatum:\n\nTodesdatum:\n\n26.061871\n\n11.12.1938 Suizid\n\nStolperstein Lassallestraße 3 Leopold Ullmann\n\nteilen\n\ntweet\n\nmitteilen\n\nteilen\n\nmail\n\nBreckheimer, Caecilie\n\nLehmann, Julius und Max\n\nOchs, Bertha, Max, Irmgard und Edgar\n\nUllmann, Leopold\n\nWaßmann, Karl\n\nInitiative Stolpersteine\n\nStolperstein Standort\n\nLassallestraße 3",
+      "text_en": "Ullmann, Leopold\n\nThe merchant Leopold Ullmann committed suicide out of despair immediately after the pogrom night. His grave is located in the New Jewish Cemetery in Eckenheimer Landstraße.\n\nLeopold Ullmann\n\nDate of birth:\n\nDate of death:\n\n26.061871\n\n11.12.1938 Suicide\n\nStumbling stone Lassallestrasse 3 Leopold Ullmann\n\nshare\n\ntweet\n\nshare\n\nshare\n\nmail\n\nBreckheimer, Caecilie\n\nLehmann, Julius and Max\n\nOchs, Bertha, Max, Irmgard and Edgar\n\nUllmann, Leopold\n\nWaßmann, Karl\n\nStumbling Stones Initiative\n\nStumbling stone location\n\nLassallestrasse 3"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/standorte/lassallestrasse-3_1.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/standorte/lassallestrasse-3_2.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/riederwald/stolperstein_lassallestr_3_ullmann_leopold.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    }
+  ],
+  "enrichers": {
+    "wfs": {
+      "fetched_at": "2026-06-22T21:34:48+00:00"
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T21:34:48+00:00",
+      "found": true
+    }
+  }
+}

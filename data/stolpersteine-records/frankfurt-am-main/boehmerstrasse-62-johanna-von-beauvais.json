@@ -1,0 +1,54 @@
+{
+  "id": "frankfurt-am-main/boehmerstrasse-62-johanna-von-beauvais",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1225917,
+    8.6684276
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Johanna von Beauvais",
+    "birth_date": "1897",
+    "death_date": "1943-06-28",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Seligmann",
+    "victim_group": "jüdisch verfolgt",
+    "fate": "26.4.1943 Auschwitz"
+  },
+  "address": {
+    "street": "Böhmerstraße",
+    "house_number": "62",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Böhmerstraße 62"
+  },
+  "inscription": "Hier wohnte Johanna von Beauvais, JG. 1897 , Deportiert 1943 Auschwitz , Ermordet 28.6.1943",
+  "laying_date": "2013-06-20",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 11071498289,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": null,
+    "network": "Stolpersteine Frankfurt am Main"
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:45+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

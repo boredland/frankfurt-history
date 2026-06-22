@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/voltastrasse-55-bernhard-kell",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1168323,
+    8.6353009
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Bernhard Kell",
+    "birth_date": "1874-01-21",
+    "death_date": "1944-02-18",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Zeuge Jehovas - Haft 20.5.1938 Frankfurt, KZ Buchenwald, Dachau, Lublin",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Voltastraße",
+    "house_number": "55",
+    "postcode": null,
+    "district": "Bockenheim",
+    "formatted": "Voltastraße 55"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2015-05-18",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

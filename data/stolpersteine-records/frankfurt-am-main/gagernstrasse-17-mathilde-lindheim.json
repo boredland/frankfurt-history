@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/gagernstrasse-17-mathilde-lindheim",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1214726,
+    8.7135674
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Mathilde Lindheim",
+    "birth_date": "1892-02-14",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1937 Belgien, Sammellager Mechelen (Malines) 15.1.1943 Auschwitz",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Gagernstraße",
+    "house_number": "17",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Gagernstraße 17"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2020-06-20",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/wilhelm-leuschner-strasse-69-77-stolperschwelle-gewerkschaftshaus",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1037457,
+    8.6668253
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Gewerkschaftshaus",
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Gewerkschaftshaus erbaut 1931. Wir gedenken den Erbauern. Vielen von ihnen opferten Leben und Freiheit im Kampf gegen die Naziherrschaft",
+    "victim_group": null
+  },
+  "address": {
+    "street": "Wilhelm-Leuschner-Straße",
+    "house_number": "69-77",
+    "postcode": null,
+    "district": "Bahnhofsviertel",
+    "formatted": "Wilhelm-Leuschner-Straße 69-77"
+  },
+  "marker_type": "stolperschwelle",
+  "inscription": null,
+  "laying_date": null,
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

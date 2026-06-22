@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/koenigswarterstrasse-13-walther-de-jong",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1173756,
+    8.6975062
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Walther de Jong",
+    "birth_date": "1925-09-04",
+    "death_date": "1943-02-28",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1939 Holland, 3.10.1942 Durchgangslager Westerbork, 12.10.1942 Auschwitz",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Königswarterstraße",
+    "house_number": "13",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Königswarterstraße 13"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2020-10-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

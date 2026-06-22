@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/kueferstrasse-3-erich-andreas-altmann",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.080452,
+    8.5156893
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Erich Andreas Altmann",
+    "birth_date": "1916-08-10",
+    "death_date": "1945-02-24",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Mai 1944 KZ Sachsenhausen, KZ Buchenwald",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Küferstraße",
+    "house_number": "3",
+    "postcode": null,
+    "district": "Sindlingen",
+    "formatted": "Küferstraße 3"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2014-07-07",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

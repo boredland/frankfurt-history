@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/roederbergweg-53-ludwig-rosenwald",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1146201,
+    8.705023
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Ludwig Rosenwald",
+    "birth_date": "1002-12-28",
+    "death_date": "1942-03-07",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1933 Frankreich, Montfaret",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Röderbergweg",
+    "house_number": "53",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Röderbergweg 53"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2021-10-05",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

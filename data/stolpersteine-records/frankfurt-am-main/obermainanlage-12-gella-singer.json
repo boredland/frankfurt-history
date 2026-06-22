@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/obermainanlage-12-gella-singer",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Gella Singer",
+    "birth_date": "1894-05-20",
+    "death_date": "1944-10-19",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Scheindlinger",
+    "fate": "15.9.1942 Theresienstadt, Auschwitz",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Obermainanlage",
+    "house_number": "12",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Obermainanlage 12"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2023-07-01",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

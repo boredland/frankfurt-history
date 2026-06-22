@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/kurt-schumacher-strasse-35-esther-zuntz",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1132989,
+    8.6876836
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Esther Zuntz",
+    "birth_date": "1928-03-06",
+    "death_date": "1943-07-29",
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "1938 Holland, Durchgangslager Westerbork, 6.7.1943 Vernichtungslager Sobibor"
+  },
+  "address": {
+    "street": "Kurt-Schumacher-Straße",
+    "house_number": "35",
+    "postcode": null,
+    "district": "Altstadt",
+    "formatted": "Kurt-Schumacher-Straße 35"
+  },
+  "inscription": "Hier wohnte Esther Zuntz Jg. 1928 Flucht 1938 Holland interniert Westerbork deportiert 1943 Sobibor ermordet 29.7.1943",
+  "laying_date": "2010-05-07",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 2576272902,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Altstadt",
+    "wikimedia_commons": null,
+    "image": "File:Stolperst_kurt_schumacher_strasse_35_zuntz_esther_400x400.jpg",
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-der-altstadt/familien/zuntz-karl-ella-miriam-esther-und-harry",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:44+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

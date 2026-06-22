@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/mainzer-landstrasse-123-august-begemann",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1080995,
+    8.6575108
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "August Begemann",
+    "birth_date": "1895-02-02",
+    "death_date": "1941-07-21",
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "\"T4\" - Herborn, 21.7.1941 Tötungsanstalt Hadamar"
+  },
+  "address": {
+    "street": "Mainzer Landstraße",
+    "house_number": "123",
+    "postcode": null,
+    "district": "Gallus",
+    "formatted": "Mainzer Landstraße 123"
+  },
+  "inscription": "HIER WOHNTE AUGUST BEGEMANN JG. 1895 EINGEWIESEN 1940 HEILANSTALT HERBORN VERLEGT 21.7.1941 HADAMAR ERMORDET 21.7.1941 AKTION T4",
+  "laying_date": "2021-10-13",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 13376398630,
+    "osm_version": null,
+    "wikidata": "Q135295677",
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": "https://de.wikipedia.org/wiki/Datei:Stolperst_mainzer_landstr_121_begemann_august.jpg",
+    "website": null,
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:46+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

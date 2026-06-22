@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/stresemannallee-36-maria-dessauer",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.0950343,
+    8.6709988
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Maria Dessauer",
+    "birth_date": "1920-08-03",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"politisch\" - 1934 Türkei",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Stresemannallee",
+    "house_number": "36",
+    "postcode": null,
+    "district": "Sachsenhausen",
+    "formatted": "Stresemannallee 36"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2022-06-11",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "frankfurt-am-main/linkstrasse-6",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.0924088,
+    8.6113518
+  ],
+  "coords_source": "wfs",
+  "person": {
+    "name": null,
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Linkstraße",
+    "house_number": "6",
+    "postcode": "65933",
+    "district": null,
+    "formatted": "Linkstraße 6"
+  },
+  "commemorates": [
+    "Rosenblum, Josef Simon"
+  ],
+  "inscription": null,
+  "laying_date": null,
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "wfs_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-griesheim/standorte/linkstrasse-6",
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-griesheim/standorte/linkstrasse-6",
+    "network": null
+  },
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-griesheim/familien/rosenblum-josef-simon",
+      "lang": "de",
+      "text": "Rosenblum, Josef Simon\n\nRosenblum, Josef Simon\n\nJosef Simon Rosenblum kam als 16-Jähriger, wahrscheinlich auf Anwerbung, 1917 aus Polen nach Griesheim und arbeitete im dortigen Werk. Er heiratete die Griesheimerin Louise Christiane Fuchs und ließ sich evangelisch taufen. Die beiden hatten einen Sohn namens Walter. Als Josef Rosenblum einen Antrag auf Einbürgerung stellte, er war bereits zehn Jahre in Deutschland, wurde das vom damaligen Bürgermeister und der örtlichen Polizeibehörde wohlwollend unterstützt. Auch der Landrat befürwortete die Einbürgerung, trotzdem lehnte der Regierungspräsident ab. Sein Arbeitgeber, inzwischen die IG.-Farben, entließ ihn als Juden nach 1933 und er konnte nur noch mit Gelegenheitsjobs und der Hilfe seiner Frau, die bei anderen geputzt und die Wäsche gewaschen hat, seine Familie ernähren.\n\nJosef Simon Rosenblum\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n16.03.1901\n\n1938 Buchenwald, September 1939 F-Preungesheim, Juli 1940 Nauthausen/Gusen\n\n05.11.1940\n\nStolperstein Linkstraße 6 Josef Rosenblum\n\nteilen\n\ntweet\n\nmitteilen\n\nteilen\n\nmail\n\nBaum, Clara, Käthe und Salomon\n\nKrämer, Adolf\n\nMayer, Balthasar\n\nMayer, Elisabeth\n\nRosenblum, Josef Simon\n\nSchmidt, Heinrich\n\nInitiative Stolpersteine\n\nStandort Stolperstein\n\nLinkstraße 6",
+      "text_en": "Rosenblum, Josef Simon\n\nRosenblum, Josef Simon\n\nJosef Simon Rosenblum came to Griesheim from Poland in 1917 at the age of 16, probably as a recruit, and worked at the factory there. He married Louise Christiane Fuchs from Griesheim and was baptized a Protestant. The couple had a son named Walter. When Josef Rosenblum applied for naturalization - he had already been in Germany for ten years - the mayor at the time and the local police authority supported his application. The district administrator was also in favour of naturalization, but the district president still refused. His employer, now IG Farben, dismissed him as a Jew after 1933 and he was only able to support his family with odd jobs and the help of his wife, who cleaned and did the laundry for others.\n\nJosef Simon Rosenblum\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n16.03.1901\n\n1938 Buchenwald, September 1939 F-Preungesheim, July 1940 Nauthausen/Gusen\n\n05.11.1940\n\nStumbling stone Linkstraße 6 Josef Rosenblum\n\nshare\n\ntweet\n\nshare\n\nshare\n\nmail\n\nBaum, Clara, Käthe and Salomon\n\nKrämer, Adolf\n\nMayer, Balthasar\n\nMayer, Elisabeth\n\nRosenblum, Josef Simon\n\nSchmidt, Heinrich\n\nStumbling Stones Initiative\n\nStumbling stone location\n\nLinkstraße 6"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/linkstrasse_6.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/stolpersteine_linkstrasse_6.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/opferbilder/rosenblum-josef-simon.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/griesheim/stolperst_linkstrasse_6_rosenblum_josef_simon.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    }
+  ],
+  "enrichers": {
+    "wfs": {
+      "fetched_at": "2026-06-22T21:34:48+00:00"
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T21:34:48+00:00",
+      "found": true
+    }
+  }
+}

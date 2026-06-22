@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/scheidswaldstrasse-41-johanna-hagner",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1214646,
+    8.7059367
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Johanna Hagner",
+    "birth_date": "1878-02-28",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Reis",
+    "fate": "8.1.1944 Theresienstadt, 15.5.1944 Auschwitz",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Scheidswaldstraße",
+    "house_number": "41",
+    "postcode": null,
+    "district": "Bornheim",
+    "formatted": "Scheidswaldstraße 41"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2015-10-19",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

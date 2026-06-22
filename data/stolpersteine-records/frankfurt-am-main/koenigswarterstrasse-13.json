@@ -1,0 +1,97 @@
+{
+  "id": "frankfurt-am-main/koenigswarterstrasse-13",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1173756,
+    8.6975062
+  ],
+  "coords_source": "wfs",
+  "person": {
+    "name": null,
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Königswarterstraße",
+    "house_number": "13",
+    "postcode": "60316",
+    "district": null,
+    "formatted": "Königswarterstraße 13"
+  },
+  "commemorates": [
+    "de Jong, Izaak, Meta, Walther, Hans und Kurt"
+  ],
+  "inscription": null,
+  "laying_date": null,
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "wfs_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-ostend/standorte/koenigswarterstrasse-13",
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-ostend/standorte/koenigswarterstrasse-13",
+    "network": null
+  },
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-ostend/familien/de-jong-izaak-meta-walther-hans-und-kurt",
+      "lang": "de",
+      "text": "de Jong, Izaak, Meta, Walther, Hans und Kurt\n\nIzaak de Jong wurde in Millingen in Holland geboren, lebte seit 1913 in Deutschland und seit etwa 1921 in Frankfurt am Main, seine Ehefrau Meta de Jong, geb. Neuhaus, wurde in Nesselröden geboren. Sie hatten drei Söhne Hans, Walter und Kurt. Die Kinder besuchten die Jüdische Volksschule im Röderbergweg. Die Familie lebte im Sandweg 30 und in der Quinckestraße 13 (heute Königswarter Straße 13).\n\nMeta de Jong war Inhaberin eines Hutgeschäftes, das sie zunächst im Hause ihrer Eltern im Sandweg 36, später in der Quinckestraße 13, heute Königswarterstraße 13, führte. 1938 musste die Firma verfolgungsbedingt aufgegeben werden.\n\nDie Familie flüchtete nach dem November-Pogrom am 8. Dezember 1938 nach Rotterdam und lebte dort in der Vliesridderstraat 156 oder 15 b. Walter begann dort eine Lehre in der Elektrobranche. Hans machte eine kaufmännische Lehre in der Lack- und Farben-Branche; später war er Gelegenheitsarbeiter im Rotterdamer Hafen. Die gesamte Familie wurde 1942 in Westerbork interniert und von dort nach Auschwitz verschleppt.\n\nHans de Jong hatte in Auschwitz die Häftlingsnummer 68030, wurde zur Zwangsarbeit ausgewählt und soll am 29. Oktober 1942 in das Lagerkrankenhaus eingewiesen worden sein, wo er zwei Wochen später starb, so der KZ-Arzt und verurteilte Kriegsverbrecher Johann Paul Kremer (1883-1965) in seinem Tagebuch.\n\nIzaak de Jong wurde als Koch für die Wachmannschaften eingesetzt und durch das russische Militär in Peterswaldau befreit. Im dortigen Lager hatte er Eleonore Gutmann (1921-2018) kennen gelernt. Die beiden heirateten 1945 in Frankfurt. Nach seiner Rückkehr leitete Izaak de Jong eine Auffangstation für Überlebende auf dem Gelände des ehemaligen jüdischen Krankenhauses in der Gagernstraße. Am 13. Juli 1946 wurde mit Hans das erste jüdische Kind nach dem Krieg in Frankfurt geboren, der zweite Sohn Kurt wurde und am 24. Juli 1947 geboren. Kurt wurde Orthopädiemechaniker, hatte einen eigenen Betrieb in Offenbach, war 14 Jahre lang im Gemeinderat, davon neun Jahre im Vorstand der jüdischen Gemeinde Frankfurt tätig, und ist seit 1967 mit Vera de Jong, geb. Krotoschiner-Radzewski, verheiratet, deren Eltern 1938 nach Chile geflüchtet waren.\n\nIzaak de Jong erholte sich nie von den Leiden im KZ, war nie wieder voll arbeitsfähig, litt unter starken nervlichen Beeinträchtigungen und starb im Januar 1970. Eine „Wiedergutmachung“ (Entschädigung) für seine drei ermordeten Söhne lehnte er ab.\n\nDie Stolpersteine wurden initiiert von Kurt de Jong, dem Sohn von Izaak de Jong, und finanziert von Tobias und Irmgard von Stosch, Hartmut Schmidt, Patrick Ulmer, Claudia Horn und Thomas Hartung/alle Frankfurt.\n\nBei der Verlegung nahmen Kurt und Vera de Jong, ihre Tochter Aviva mit Ehemann Franzisko Villar, die jüngste Tochter Bianca de Jong und die Cousine Hanna Cremer mit Ehemann Ulli und ihr Sohn Tobias teil.\n\nIzaak de Jong\n\nGeburtsdatum:\n\n23.1.1893\n\nFlucht:\n\n8.12.1938 Holland\n\nDeportation:\n\n3.10.1942 Westerbork, 12.10.1942 Auschwitz, befreit\n\nMeta de Jong\n\nGeburtsdatum:\n\n17.8.1896\n\nFlucht:\n\n8.12.1938 Holland\n\nDeportation:\n\n3.-16.10.1942 Westerbork, 16.10.1942 Auschwitz\n\nTodesdatum:\n\n19.10.1942\n\nWalther de Jong\n\nGeburtsdatum:\n\n4.9.1925\n\nFlucht:\n\n8.12.1938 Holland\n\nDeportation:\n\n3.-12.10.1942 Westerbork, 12.10.1942 Auschwitz\n\nTodesdatum:\n\n28.2.1943\n\nKurt de Jong\n\nGeburtsdatum:\n\n8.5.1932\n\nFlucht:\n\n8.12.1938 Holland\n\nDeportation:\n\n3.-12.10.1942 Westerbork, 16.10.1942 Auschwitz\n\nTodesdatum:\n\n19.10.1942\n\nHans de Jong\n\nGeburtsdatum:\n\n18.2.1924\n\nFlucht:\n\n8.12.1938 Holland\n\nDeportation:\n\n3.-12.10.1942 Westerbork, 12.10.1942 Auschwitz\n\nTodesdatum:\n\n13.11.1942\n\nStolperstein Königswarterstraße 13, de Jong, Izaak\n\nStolperstein Königswarterstraße 13, de Jong, Meta\n\nStolperstein Königswarterstraße 13, de Jong, Walther\n\nStolperstein Königswarterstraße 13, de Jong, Kurt\n\nStolperstein Königswarterstraße 13, de Jong, Hans\n\nteilen\n\ntweet\n\nmitteilen\n\nteilen\n\nmail\n\nAbt, Roeschen\n\nAnschel, Betty und Jakob\n\nAuerbacher, Jacob, Martha und Alfred\n\nBergmann, Israel, Gustel Ester, Leopold und Nora\n\nBerlinger, Christine\n\nde Jong, Izaak, Meta, Walther, Hans und Kurt\n\nDroller, Bella, David, Gustav, Jenny und Max\n\nDukat, Joseph und Selma\n\nEinhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith und David\n\nEschwege, Paula und Hermann\n\nFederlein, Auguste Gitel, Anni, Hilde und Max\n\nFiebermann, Emil und Adolf\n\nFried, Meier, Fanny und Max\n\nFriedmann, Amalie\n\nFriedmann, Ernestine, Judith und Moritz\n\nFürth, Leopold\n\nGawrylowicz, Esther Frümet, geb. Fischow\n\nGoldschmidt, Lina, Sally, Johanna und Klara\n\nGriesheimer, Joseph Harry und Thekla\n\nGross, Gertrud\n\nGruenebaum, Frieda, Johanna und Rebekka\n\nGrünewald, Ferdinand, Josef und Rosa, und Lina Rindsberg\n\nGrynblatt, Benzijan und Tscharka\n\nHauser, Meier, Rachel, Ruth Rebekka, Berta, Rosel, sowie Abraham, Leo, Frieda, Erna, Josef, Fanny Nurith und Selma Shulamit\n\nHellmann, Hanna und Julius\n\nHess, Julius und Emma\n\nHess, Robert und Selma\n\nHirsch, Hermann, Mathilde, Roseline und Werner\n\nHirsch, Walter und Helene\n\nHugo, Wilhelm Adam\n\nJankelowitz, Leah und Mausche\n\nKarpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. und Zysie Aron\n\nKatz, Lieselotte und Wilhelm\n\nKaufmann, Abraham und Ida, und Susi und Adolf Dukat\n\nKlausner, Hans, Heinrich, Israel Mendel und Lea\n\nKlein, Leia Lotte, Albert und Sally\n\nKönigsberger, Rudolf, Berta und Siegfried\n\nKrause, Adelheid und Irma\n\nLedermann, Bernhard, Ilse, Max, Minna und Moritz\n\nLevi, Bernhard und Geta\n\nLevi, Isaak, Jettchen und Irmgard\n\nLiebhold, Emil und Charlotte\n\nLindheim, Hugo, Laura Lore und Mathilde\n\nLinz, Max und Manfred\n\nLoeser, Menasse, Charlotte und Eva Lane Junghans\n\nMainzer, Aron, Ida, Helene, Ruth, Jona und Dina\n\nMainzer, Moritz, Sofie und Irene\n\nNeumann, Max\n\nOestreicher, Ilse Ruth und Ludwig\n\nPetitjean, Raymond sowie Stolperschwelle Zwangsarbeiterlager Fa. Messer & Co\n\nPolitzer, Kurt und Adelheid\n\nRichter, Rosa\n\nRies, Alice und Bella\n\nRisch, Siegfried, Golda, Lea, Edith, Mirjam und Jsaak\n\nRoos, Dorette, Jakob, Judith und Ester\n\nRosenbaum, Sally und Lina\n\nRosenwald, Carola, David, Klara und Ludwig\n\nSchoen, Johanna und Frieda Ruth\n\nSlutzky, Selig und Paula\n\nSokal, Isidor, Benno und Sabine\n\nSonnenfeld, Leonie\n\nStark, Aron, Breindel Rena und Rebecka\n\nSteigerwald, Adelheid und Moritz\n\nStiebel, Cilly\n\nTreumann, Erich\n\nWeil, Max\n\nWermuth, Bernhard und Ida und Hanna und Heinz\n\nWormser, Bertha\n\nZuntz, Gustav und Hedwig und Cohn, Moritz\n\nZunz, Wilhelm Albert\n\nInitiative Stolpersteine\n\nStolpersteine Standort\n\nKönigswarterstraße 13",
+      "text_en": "de Jong, Izaak, Meta, Walther, Hans and Kurt\n\nIzaak de Jong was born in Millingen in Holland, lived in Germany from 1913 and in Frankfurt am Main from around 1921; his wife Meta de Jong, née Neuhaus, was born in Nesselröden. They had three sons Hans, Walter and Kurt. The children attended the Jewish elementary school in Röderbergweg. The family lived at Sandweg 30 and Quinckestraße 13 (today Königswarter Straße 13).\n\nMeta de Jong was the owner of a hat store, which she initially ran in her parents' house at Sandweg 36 and later at Quinckestraße 13, now Königswarterstraße 13. The company had to be closed down in 1938 due to persecution.\n\nThe family fled to Rotterdam after the November pogrom on December 8, 1938 and lived there at Vliesridderstraat 156 or 15b. Walter began an apprenticeship in the electrical industry there. Hans did a commercial apprenticeship in the paint and varnish industry; later he was a casual worker in the port of Rotterdam. The whole family was interned in Westerbork in 1942 and deported from there to Auschwitz.\n\nHans de Jong had the prisoner number 68030 in Auschwitz, was selected for forced labor and is said to have been admitted to the camp hospital on 29 October 1942, where he died two weeks later, according to the concentration camp doctor and convicted war criminal Johann Paul Kremer (1883-1965) in his diary.\n\nIzaak de Jong was deployed as a cook for the guards and liberated by the Russian military in Peterswaldau. He met Eleonore Gutmann (1921-2018) in the camp there. The two married in Frankfurt in 1945. After his return, Izaak de Jong ran a reception center for survivors on the grounds of the former Jewish hospital in Gagernstraße. On July 13, 1946, Hans, the first Jewish child after the war, was born in Frankfurt, the second son Kurt was born on July 24, 1947. Kurt became an orthopaedic mechanic, had his own business in Offenbach, was a member of the local council for 14 years, nine of which he spent on the board of the Jewish community in Frankfurt, and has been married to Vera de Jong, née Krotoschiner-Radzewski, whose parents had fled to Chile in 1938, since 1967.\n\nIzaak de Jong never recovered from his suffering in the concentration camp, was never fully able to work again, suffered from severe nervous disorders and died in January 1970. He refused to receive \"reparations\" (compensation) for his three murdered sons.\n\nThe Stolpersteine were initiated by Kurt de Jong, the son of Izaak de Jong, and financed by Tobias and Irmgard von Stosch, Hartmut Schmidt, Patrick Ulmer, Claudia Horn and Thomas Hartung/all Frankfurt.\n\nKurt and Vera de Jong, their daughter Aviva with her husband Franzisko Villar, their youngest daughter Bianca de Jong and their cousin Hanna Cremer with her husband Ulli and their son Tobias attended the ceremony.\n\nIzaak de Jong\n\nDate of birth:\n\n23.1.1893\n\nEscape:\n\n8.12.1938 Holland\n\nDeportation:\n\n3.10.1942 Westerbork, 12.10.1942 Auschwitz, liberated\n\nMeta de Jong\n\nDate of birth:\n\n17.8.1896\n\nEscape:\n\n8.12.1938 Holland\n\nDeportation:\n\n3-16.10.1942 Westerbork, 16.10.1942 Auschwitz\n\nDate of death:\n\n19.10.1942\n\nWalther de Jong\n\nDate of birth:\n\n4.9.1925\n\nEscape:\n\n8.12.1938 Holland\n\nDeportation:\n\n3-12.10.1942 Westerbork, 12.10.1942 Auschwitz\n\nDate of death:\n\n28.2.1943\n\nKurt de Jong\n\nDate of birth:\n\n8.5.1932\n\nEscape:\n\n8.12.1938 Holland\n\nDeportation:\n\n3-12.10.1942 Westerbork, 16.10.1942 Auschwitz\n\nDate of death:\n\n19.10.1942\n\nHans de Jong\n\nDate of birth:\n\n18.2.1924\n\nEscape:\n\n8.12.1938 Holland\n\nDeportation:\n\n3-12.10.1942 Westerbork, 12.10.1942 Auschwitz\n\nDate of death:\n\n13.11.1942\n\nStumbling stone Königswarterstraße 13, de Jong, Izaak\n\nStumbling Stone Königswarterstraße 13, de Jong, Meta\n\nStumbling Stone Königswarterstraße 13, de Jong, Walther\n\nStumbling Stone Königswarterstraße 13, de Jong, Kurt\n\nStumbling Stone Königswarterstraße 13, de Jong, Hans\n\nshare\n\ntweet\n\nshare\n\nshare\n\nmail\n\nAbbot, Roeschen\n\nAnschel, Betty and Jakob\n\nAuerbacher, Jacob, Martha and Alfred\n\nBergmann, Israel, Gustel Ester, Leopold and Nora\n\nBerlinger, Christine\n\nde Jong, Izaak, Meta, Walther, Hans and Kurt\n\nDroller, Bella, David, Gustav, Jenny and Max\n\nDukat, Joseph and Selma\n\nEinhorn, Sabine, Philipp Mendel, Bertha, Josef Karniel, Edith and David\n\nEschwege, Paula and Hermann\n\nFederlein, Auguste Gitel, Anni, Hilde and Max\n\nFiebermann, Emil and Adolf\n\nFried, Meier, Fanny and Max\n\nFriedmann, Amalie\n\nFriedmann, Ernestine, Judith and Moritz\n\nFürth, Leopold\n\nGawrylowicz, Esther Frümet, née Fischow\n\nGoldschmidt, Lina, Sally, Johanna and Klara\n\nGriesheimer, Joseph Harry and Thekla\n\nGross, Gertrud\n\nGruenebaum, Frieda, Johanna and Rebekka\n\nGrünewald, Ferdinand, Josef and Rosa, and Lina Rindsberg\n\nGrynblatt, Benzijan and Tscharka\n\nHauser, Meier, Rachel, Ruth Rebekka, Berta, Rosel, as well as Abraham, Leo, Frieda, Erna, Josef, Fanny Nurith and Selma Shulamit\n\nHellmann, Hanna and Julius\n\nHess, Julius and Emma\n\nHess, Robert and Selma\n\nHirsch, Hermann, Mathilde, Roseline and Werner\n\nHirsch, Walter and Helene\n\nHugo, Wilhelm Adam\n\nJankelowitz, Leah and Mausche\n\nKarpf, Chaim, Faiga, Viktor Avigdor, Meilech Hermann, Moses L. and Zysie Aron\n\nKatz, Lieselotte and Wilhelm\n\nKaufmann, Abraham and Ida, and Susi and Adolf Dukat\n\nKlausner, Hans, Heinrich, Israel Mendel and Lea\n\nKlein, Leia Lotte, Albert and Sally\n\nKönigsberger, Rudolf, Berta and Siegfried\n\nKrause, Adelheid and Irma\n\nLedermann, Bernhard, Ilse, Max, Minna and Moritz\n\nLevi, Bernhard and Geta\n\nLevi, Isaak, Jettchen and Irmgard\n\nLiebhold, Emil and Charlotte\n\nLindheim, Hugo, Laura Lore and Mathilde\n\nLinz, Max and Manfred\n\nLoeser, Menasse, Charlotte and Eva Lane Junghans\n\nMainzer, Aron, Ida, Helene, Ruth, Jona and Dina\n\nMainzer, Moritz, Sofie and Irene\n\nNeumann, Max\n\nOestreicher, Ilse Ruth and Ludwig\n\nPetitjean, Raymond and Stolperschwelle forced labor camp Messer & Co\n\nPolitzer, Kurt and Adelheid\n\nRichter, Rosa\n\nRies, Alice and Bella\n\nRisch, Siegfried, Golda, Lea, Edith, Mirjam and Jsaak\n\nRoos, Dorette, Jakob, Judith and Ester\n\nRosenbaum, Sally and Lina\n\nRosenwald, Carola, David, Klara and Ludwig\n\nSchoen, Johanna and Frieda Ruth\n\nSlutzky, Selig and Paula\n\nSokal, Isidor, Benno and Sabine\n\nSonnenfeld, Leonie\n\nStark, Aron, Breindel Rena and Rebecka\n\nSteigerwald, Adelheid and Moritz\n\nStiebel, Cilly\n\nTreumann, Erich\n\nWeil, Max\n\nWermuth, Bernhard and Ida and Hanna and Heinz\n\nWormser, Bertha\n\nZuntz, Gustav and Hedwig and Cohn, Moritz\n\nZunz, Wilhelm Albert\n\nStumbling Stones Initiative\n\nStumbling Stones Location\n\nKönigswarterstraße 13"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/standorte/koenigswarterstr_13.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolpersteine_koenigswarterstr_13.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_koenigswarterstr_13_de-jong_izaak.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_koenigswarterstr_13_de-jong_meta.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_koenigswarterstr_13_de-jong_walther.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_koenigswarterstr_13_de-jong_kurt.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_koenigswarterstr_13_de-jong_hans.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    }
+  ],
+  "enrichers": {
+    "wfs": {
+      "fetched_at": "2026-06-22T21:34:48+00:00"
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T21:34:48+00:00",
+      "found": true
+    }
+  }
+}

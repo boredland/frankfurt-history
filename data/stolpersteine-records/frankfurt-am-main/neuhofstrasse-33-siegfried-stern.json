@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/neuhofstrasse-33-siegfried-stern",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1255097,
+    8.6886693
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Siegfried Stern",
+    "birth_date": "1875-11-13",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1937 Holland, Juli 1942 Durchgangslager Westerbork, Schicksal unbekannt",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Neuhofstraße",
+    "house_number": "33",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Neuhofstraße 33"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2018-05-18",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

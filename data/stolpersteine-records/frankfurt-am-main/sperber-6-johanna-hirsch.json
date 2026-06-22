@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/sperber-6-johanna-hirsch",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1544864,
+    8.7534048
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Johanna Hirsch",
+    "birth_date": "1887-04-20",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "7.9.1942 Theresienstadt, 23.1.1943 Auschwitz"
+  },
+  "address": {
+    "street": "Sperber",
+    "house_number": "6",
+    "postcode": null,
+    "district": "Bergen-Enkheim",
+    "formatted": "Sperber 6"
+  },
+  "inscription": "Hier wohnte Johanna Hirsch;Deportation 7.9.1942 nach Theresienstadt, 23.1.1943 nach Auschwitz",
+  "laying_date": "2007-03-05",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 926925613,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Bergen-Enkheim",
+    "wikimedia_commons": null,
+    "image": null,
+    "website": null,
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:44+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

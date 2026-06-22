@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/leo-gans-strasse-21-wilhelm-ebert",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.124766,
+    8.7616292
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Wilhelm Ebert",
+    "birth_date": "1901-08-11",
+    "death_date": "1942-06-17",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" - 1942 Haft Frankfurt",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Leo-Gans-Straße",
+    "house_number": "21",
+    "postcode": null,
+    "district": "Fechenheim",
+    "formatted": "Leo-Gans-Straße 21"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2016-05-28",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

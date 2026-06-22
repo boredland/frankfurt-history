@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/boehmerstrasse-23-moses-max-lebrecht",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Moses Max Lebrecht",
+    "birth_date": "1863-11-18",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Haft 1.11.1937-13.1.1938 Gefängnis Mainz, 1938 Schweiz",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Böhmerstraße",
+    "house_number": "23",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Böhmerstraße 23"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2026-06-02",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/uhlandstrasse-38-rachel-hauser",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.111402,
+    8.6968586
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Rachel Hauser",
+    "birth_date": "1889-12-06",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Steinbock",
+    "fate": "1938 „Polen-Aktion\", Bentschen/Zbaszyn",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Uhlandstraße",
+    "house_number": "38",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Uhlandstraße 38"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2022-06-11",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

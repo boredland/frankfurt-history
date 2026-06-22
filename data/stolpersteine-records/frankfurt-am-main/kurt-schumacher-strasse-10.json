@@ -1,0 +1,97 @@
+{
+  "id": "frankfurt-am-main/kurt-schumacher-strasse-10",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1118983,
+    8.6884638
+  ],
+  "coords_source": "wfs",
+  "person": {
+    "name": null,
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Kurt-Schumacher-Straße",
+    "house_number": "10",
+    "postcode": "60311",
+    "district": null,
+    "formatted": "Kurt-Schumacher-Straße 10"
+  },
+  "commemorates": [
+    "Edelmann, Irma und Inge"
+  ],
+  "inscription": null,
+  "laying_date": null,
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "wfs_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-der-innenstadt/standorte/kurt-schumacher-strasse-10",
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-der-innenstadt/standorte/kurt-schumacher-strasse-10",
+    "network": null
+  },
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-der-innenstadt/familien/edelmann-irma-und-inge",
+      "lang": "de",
+      "text": "Edelmann, Irma und Inge\n\nEdelmann, Inge 2\n\nIrma Edelmann stammte aus einer jüdischen Familie und wurde als Tochter von Daniel Loeb und von Berta Loeb, geb. Mayer, in Reichelsheim (Odenwald) geboren. Sie hatte zwei Schwestern und einen Bruder: eine Schwester starb in Antwerpen (Belgien), die zweite 1980 in Madrid (Spanien), das Schicksal ihres Bruders Max Loeb ist jedoch unbekannt. Der Vater betrieb die großelterliche Metzgerei „Daniel Loeb“ in der Schnurgasse 30. Irma besuchte die Anna-Schule, war Verkäuferin und mit dem evangelischen Georg Edelmann (1912-1964) nach NS-Definition in „Mischehe“ verheiratet. Die Familie wohnte im Kleinen Wollgraben 7 (heute etwa bei der Kurt-Schumacher-Straße 10 gelegen).\n\nEdelmann, Irma\n\nAm 31.03.1934 wurde die Tochter Inge geboren und von Pfarrer Georg Struckmeier in der evangelischen St. Paulsgemeinde getauft. Irma Edelmann wurde am 8.2.1943 von der Gestapo verhaftet und in ein Frankfurter Gefängnis verschleppt, wo sie etwa vier bis sechs Wochen festgehalten wurde.\n\nLaut Todesurkunde starb sie in Auschwitz an „Grippe und Herzschwäche“. Ihre Tochter Inge wurde noch 1945 nach Theresienstadt deportiert, am 23.6.1945 konnte sie nach Frankfurt zurückkehren.\n\nEdelmann, Inge\n\nInge Edelmann\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n31.03.1934\n\n14.02.1945 Theresienstadt\n\nüberlebt/ befreit\n\nIrma Edelmann, geb. Loeb\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n16.10.1913\n\n1943 Auschwitz\n\n12.09.1943\n\nStolperstein Kurt-Schumacher-Straße 10 Irma Edelmann\n\nStolperstein Kurt-Schumacher-Straße 10 Inge Edelmann\n\nteilen\n\ntweet\n\nmitteilen\n\nteilen\n\nmail\n\nAckermann, Bella\n\nAltschüler, Ottilie\n\nBär, Hugo\n\nBär, Paula und Fanny\n\nBendkower, Regina\n\nBloch, Paul\n\nBukspan, Moshe, Toni, Ruth und Edith\n\nDillenburger, Marianne, Sally, Klara und Ernst\n\nEdelmann, Irma und Inge\n\nElison, Emma und Fritz\n\nFalk, Samuel, Karoline, Flora und Norman\n\nGingold, David, Ester, Fanny, Moritz, Peter und Siegmund\n\nGingold, Leo und Buchband, Dora\n\nGirgulski, Maria, Max und Salomon, Eichberg, Berta sowie Hagel, Josef\n\nGoldblatt, Keile Klara, Sally, Helene, Selma, Abraham und Pepi\n\nGoldschmidt, Jenny und Isaak\n\nHahn, Jenny\n\nHeinrich, Emilie, Philipp, Zilli, Jonas, Martha, Max, Julius, Elisabeth, Edith, Arthur, Josef und Flora\n\nJanke, Paul Heinrich\n\nKahn, Jakob\n\nKatz, Loebel und Dina und Mali und Abraham\n\nKatzenellenbogen, Albert und Cornelia\n\nLandau, Toni und Gitta Frimmet\n\nLatsch, Wilhelm\n\nLevi, Erwin\n\nLevi, Isidor, Rosa, Hildegard und Bela Judis\n\nLevy, Auguste, Max und Judith\n\nMay, Hugo und Johanna\n\nMeyer, Friedrich und Margarete\n\nMink, Johanna\n\nMorgenstern, Jankel, Riwka und David\n\nNeumann, Lazarus\n\nNussbaum, Josef und Karoline\n\nPappenheim, Jonas und Irma, Goldschmidt, Malchen\n\nPaul, Elisabeth, Helene und Hermann\n\nPerlhefter, Samuel, Emma, Heinrich, Ludwig, Max, Albert, Karola, Erna, Jenny und Tana sowie Süß, Josef\n\nRaaf, Cornelis van der\n\nReinhardt, Karl Rudolf\n\nRoman, Emanuel, Helene, David Wilhelm und Hermann sowie Berger, Betti\n\nRosenthal, Max und Lina\n\nRothschild, Eduard und Clotilde\n\nSauer, Balthasar\n\nSchermann, Henny, Herbert, Regina und Selma\n\nSchindel, Dora, Mendel, Frida, Rosa, Isidor und Susi\n\nSchwab, Fanny, Hanna, Klara und Seligmann\n\nWeinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni und Rosa\n\nWetzlar, Heinrich und Rosa\n\nWronker, Hermann und Ida\n\nZehn, Anna Melanie\n\nInitiative Stolpersteine\n\nStolperstein Standort\n\nKurt-Schumacher-Straße 10",
+      "text_en": "Edelmann, Irma and Inge\n\nEdelmann, Inge 2\n\nIrma Edelmann came from a Jewish family and was born the daughter of Daniel Loeb and Berta Loeb, née Mayer, in Reichelsheim (Odenwald). She had two sisters and a brother: one sister died in Antwerp (Belgium), the second in Madrid (Spain) in 1980, but the fate of her brother Max Loeb is unknown. Her father ran the grandparents' butcher's shop \"Daniel Loeb\" at Schnurgasse 30. Irma attended the Anna School, was a sales clerk and married the Protestant Georg Edelmann (1912-1964) in what the Nazis defined as a \"mixed marriage\". The family lived at Kleiner Wollgraben 7 (today at about Kurt-Schumacher-Straße 10).\n\nEdelmann, Irma\n\nTheir daughter Inge was born on 31.03.1934 and baptized by Pastor Georg Struckmeier in the Protestant St. Paul's parish. Irma Edelmann was arrested by the Gestapo on February 8, 1943 and deported to a Frankfurt prison, where she was held for about four to six weeks.\n\nAccording to her death certificate, she died in Auschwitz of \"influenza and cardiac insufficiency\". Her daughter Inge was deported to Theresienstadt in 1945 and was able to return to Frankfurt on June 23, 1945.\n\nEdelmann, Inge\n\nInge Edelmann\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n31.03.1934\n\n14.02.1945 Theresienstadt\n\nSurvived/ liberated\n\nIrma Edelmann, née Loeb\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n16.10.1913\n\n1943 Auschwitz\n\n12.09.1943\n\nStumbling Stone Kurt-Schumacher-Straße 10 Irma Edelmann\n\nStumbling Stone Kurt-Schumacher-Straße 10 Inge Edelmann\n\nshare\n\ntweet\n\nshare\n\nshare\n\nmail\n\nAckermann, Bella\n\nAltschüler, Ottilie\n\nBear, Hugo\n\nBear, Paula and Fanny\n\nBendkower, Regina\n\nBloch, Paul\n\nBukspan, Moshe, Toni, Ruth and Edith\n\nDillenburger, Marianne, Sally, Klara and Ernst\n\nEdelmann, Irma and Inge\n\nElison, Emma and Fritz\n\nFalk, Samuel, Karoline, Flora and Norman\n\nGingold, David, Ester, Fanny, Moritz, Peter and Siegmund\n\nGingold, Leo and Buchband, Dora\n\nGirgulski, Maria, Max and Salomon, Eichberg, Berta and Hagel, Josef\n\nGoldblatt, Keile Klara, Sally, Helene, Selma, Abraham and Pepi\n\nGoldschmidt, Jenny and Isaak\n\nHahn, Jenny\n\nHeinrich, Emilie, Philipp, Zilli, Jonas, Martha, Max, Julius, Elisabeth, Edith, Arthur, Josef and Flora\n\nJanke, Paul Heinrich\n\nKahn, Jakob\n\nKatz, Loebel and Dina and Mali and Abraham\n\nKatzenellenbogen, Albert and Cornelia\n\nLandau, Toni and Gitta Frimmet\n\nLatsch, Wilhelm\n\nLevi, Erwin\n\nLevi, Isidor, Rosa, Hildegard and Bela Judis\n\nLevy, Auguste, Max and Judith\n\nMay, Hugo and Johanna\n\nMeyer, Friedrich and Margarete\n\nMink, Johanna\n\nMorgenstern, Jankel, Riwka and David\n\nNeumann, Lazarus\n\nNussbaum, Josef and Karoline\n\nPappenheim, Jonas and Irma, Goldschmidt, Malchen\n\nPaul, Elisabeth, Helene and Hermann\n\nPerlhefter, Samuel, Emma, Heinrich, Ludwig, Max, Albert, Karola, Erna, Jenny and Tana and Süß, Josef\n\nRaaf, Cornelis van der\n\nReinhardt, Karl Rudolf\n\nRoman, Emanuel, Helene, David Wilhelm and Hermann and Berger, Betti\n\nRosenthal, Max and Lina\n\nRothschild, Eduard and Clotilde\n\nSauer, Balthasar\n\nSchermann, Henny, Herbert, Regina and Selma\n\nSchindel, Dora, Mendel, Frida, Rosa, Isidor and Susi\n\nSchwab, Fanny, Hanna, Klara and Seligmann\n\nWeinberger, Jakob, Glicka, Sally, Hermann, Ruth, Toni and Rosa\n\nWetzlar, Heinrich and Rosa\n\nWronker, Hermann and Ida\n\nTen, Anna Melanie\n\nStumbling Stones Initiative\n\nStumbling stone location\n\nKurt-Schumacher-Straße 10"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/kurt_schumacher_str_10.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolpersteine_kurt-schumacher-str_10.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/edelmann-inge-2.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/edelmann-irma.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/opferbilder/edelmann-inge.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_kurt-schumacher-str_10_edelmann_irma.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/innenstadt/stolperst_kurt-schumacher-str_10_edelmann_inge.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    }
+  ],
+  "enrichers": {
+    "wfs": {
+      "fetched_at": "2026-06-22T21:34:48+00:00"
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T21:34:48+00:00",
+      "found": true
+    }
+  }
+}

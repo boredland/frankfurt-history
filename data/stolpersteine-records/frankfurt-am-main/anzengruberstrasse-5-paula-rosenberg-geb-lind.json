@@ -1,0 +1,87 @@
+{
+  "id": "frankfurt-am-main/anzengruberstrasse-5-paula-rosenberg-geb-lind",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1415892,
+    8.6682377
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Paula Rosenberg geb. Lind",
+    "birth_date": "1890-08-19",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Lind",
+    "victim_group": "jüdisch verfolgt",
+    "fate": "11.11.1941 Ghetto Minsk"
+  },
+  "address": {
+    "street": "Anzengruberstraße",
+    "house_number": "5",
+    "postcode": null,
+    "district": "Dornbusch",
+    "formatted": "Anzengruberstraße 5"
+  },
+  "inscription": "Hier wohnte Paula Rosenberg geb. Lind Jg. 1890 deportiert 1941 Minsk ermordet",
+  "laying_date": "2013-06-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 2596838329,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Dornbusch",
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-dornbusch/familien/rosenberg-paula",
+    "network": null
+  },
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-dornbusch/familien/rosenberg-paula",
+      "lang": "de",
+      "text": "Rosenberg, Paula\n\nPaula Rosenberg\n\nPaula Rosenberg wurde in Frankfurt am Main geboren und war mit dem Musikschriftsteller und Komponisten Dr. Richard Rosenberg verheiratet. Dem Ehemann gelang 1938 die Flucht in das Schweizer Exil. Zuletzt wohnte Paula Rosenberg in der Beethovenstraße 64.\n\nPaula Rosenberg, geb. Lind\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n19.08.1890\n\n12.11.1941 Minsk\n\nunbekannt\n\nStolperstein Anzengruberstraße 5 Paula Rosenberg\n\nteilen\n\ntweet\n\nmitteilen\n\nteilen\n\nmail\n\nBeicht, Karl und Edith\n\nBurgheim, Clara\n\nCahn, Mathilde und Robert\n\nEpstein, Alice Betty und Fritz\n\nEpstein, Paul\n\nFuchs, Nelly und Rosa Natt-Fuchs\n\nGoldstern, Susanne und Ottilie Janik\n\nGrünebaum, Rosa, Gerson und Alfred\n\nHeld, Jella\n\nHild, Willy und Frieda\n\nHofmann, Babette und Alfred Max\n\nKaiser, Siegmund\n\nKanne Anna und Oechler Anna\n\nKinderheim der Flersheim-Sichel-Stiftung\n\nMokrauer, Fanny und Lotte\n\nNeumann, Kurt\n\nReinheimer, Ludwig\n\nReutlinger, Hanna, Gerd und Rolf\n\nRosenberg, Paula\n\nSimon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi\n\nWestheim, Gottfried und Julius\n\nZehden, Artur und Alma\n\nInitiative Stolpersteine\n\nStolperstein Standort\n\nAnzengruberstraße 5",
+      "text_en": "Rosenberg, Paula\n\nPaula Rosenberg\n\nPaula Rosenberg was born in Frankfurt am Main and was married to the music writer and composer Dr. Richard Rosenberg. Her husband managed to flee into exile in Switzerland in 1938. Paula Rosenberg last lived at Beethovenstraße 64.\n\nPaula Rosenberg, née Lind\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n19.08.1890\n\n12.11.1941 Minsk\n\nunknown\n\nStumbling stone Anzengruberstraße 5 Paula Rosenberg\n\nshare\n\ntweet\n\nshare\n\nshare\n\nmail\n\nBeicht, Karl and Edith\n\nBurgheim, Clara\n\nCahn, Mathilde and Robert\n\nEpstein, Alice Betty and Fritz\n\nEpstein, Paul\n\nFuchs, Nelly and Rosa Natt-Fuchs\n\nGoldstern, Susanne and Ottilie Janik\n\nGrünebaum, Rosa, Gerson and Alfred\n\nHeld, Jella\n\nHild, Willy and Frieda\n\nHofmann, Babette and Alfred Max\n\nKaiser, Siegmund\n\nKanne Anna and Oechler Anna\n\nChildren's home of the Flersheim-Sichel Foundation\n\nMokrauer, Fanny and Lotte\n\nNeumann, Kurt\n\nReinheimer, Ludwig\n\nReutlinger, Hanna, Gerd and Rolf\n\nRosenberg, Paula\n\nSimon, Liesel, Paul Jacob, Hans Max Joseph and Fritz Ernst Willi\n\nWestheim, Gottfried and Julius\n\nZehden, Artur and Alma\n\nStumbling Stones Initiative\n\nStumbling stone location\n\nAnzengruberstrasse 5"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/anzengruberstr_5.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolpersteine_anzengruberstr_5.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/opferbilder/anzengruberstrasse_5_rosenberg_paula.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/dornbusch/stolperst_anzengruberstr_5_rosenberg_paula.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    }
+  ],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:44+00:00"
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T21:34:47+00:00",
+      "found": true
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

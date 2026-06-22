@@ -1,0 +1,72 @@
+{
+  "id": "frankfurt-am-main/weserstrasse-46",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1105375,
+    8.6677823
+  ],
+  "coords_source": "wfs",
+  "person": {
+    "name": null,
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Weserstraße",
+    "house_number": "46",
+    "postcode": "60329",
+    "district": null,
+    "formatted": "Weserstraße 46"
+  },
+  "commemorates": [
+    "Pauli, Paula"
+  ],
+  "inscription": null,
+  "laying_date": "16.5.2015",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "wfs_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-bahnhofsviertel/standorte/weserstrasse-46",
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-bahnhofsviertel/standorte/weserstrasse-46",
+    "network": null
+  },
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-bahnhofsviertel/familien/pauli-paula",
+      "lang": "de",
+      "text": "Pauli, Paula\n\nPaula\n\nPauli wurde in Frankfurt geboren und war mit dem evangelischen Dr. Heinrich\n\nPauli (1852-1925) verheiratet. Sie ließ sich und ihre Tochter Mathilde, geb. am\n\n14. Oktober 1909 in Düsseldorf, evangelisch taufen. Die Witwe wohnte mit ihrer\n\nTochter in der Weserstraße 44. Die Tochter erhielt Berufsverbot als\n\nKindergärtnerin. 1939 wohnten beide bis April 1940 in der Liebigstraße\n\n32 im\n\ngemeinsamen Haushalt mit Paulas Schwester Julie S. Hohenemser, geb. am 29.\n\nDezember 1868, die am 1. August 1940 in ein Altersheim zog.\n\nDer\n\nStolperstein wurde initiiert von Ralph\n\nDelhees, der sich an Paula\n\nPauli als Haushaltshilfe bei seinen Eltern erinnert.\n\nPaula Pauli\n\ngeb.\n\nHohenemser\n\nGeburtsdatum:\n\nTodesdatum:\n\n12.9.1874\n\n30.9.1944 (Suizid)\n\nStolperstein Weserstraße 46 Paula Pauli\n\nteilen\n\ntweet\n\nmitteilen\n\nteilen\n\nmail\n\nBuseck, Karoline und Loeb, Margarete, Ottilie und Alexander\n\nGeiss, Lina\n\nGerlinger, Anna Lina\n\nGermann, Edmund\n\nKastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen\n\nLöwensberg, Käthe sowie Mainzer, Erich, Grete, Gustav und Irma\n\nLuwisch, Etli, Arthur, Lilly und Hermann\n\nMahler, Rudolf\n\nOchs, Heinrich\n\nPauli, Paula\n\nPoser Erna\n\nSchmidt-Fellner, Carola und Hermann\n\nSommer, Ernst und Margot\n\nSteinschneider, Adolf Moritz\n\nStrauß, Josef\n\nWeichbrodt, Raphael und Dorrit\n\nWolfgang, Toni\n\nInitiative Stolpersteine\n\nStandort Stolperstein\n\nWeserstraße 46",
+      "text_en": "Pauli, Paula\n\nPaula\n\nPauli was born in Frankfurt and was married to the Protestant Dr. Heinrich\n\nPauli (1852-1925). She had herself and her daughter Mathilde, born on\n\n14 October 1909 in Düsseldorf, were baptized Protestant. The widow lived with her\n\ndaughter at Weserstraße 44. The daughter was banned from working as a\n\nkindergarten teacher. In 1939, they both lived in Liebigstrasse until April 1940\n\n32 in the\n\nshared household with Paula's sister Julie S. Hohenemser, born on 29.\n\nDecember 1868, who moved into a retirement home on August 1, 1940.\n\nThe\n\nStumbling Stone was initiated by Ralph\n\nDelhees, who remembers Paula\n\nPauli as a domestic help with his parents.\n\nPaula Pauli\n\nborn\n\nHohenemser\n\nDate of birth:\n\nDate of death:\n\n12.9.1874\n\n30.9.1944 (suicide)\n\nStumbling stone Weserstraße 46 Paula Pauli\n\nshare\n\ntweet\n\nshare\n\nshare\n\nmail\n\nBuseck, Karoline and Loeb, Margarete, Ottilie and Alexander\n\nGeiss, Lina\n\nGerlinger, Anna Lina\n\nGermann, Edmund\n\nKastellan, Anna Rosa, Herbert and Lotte and Goldschmidt, Ellen\n\nLöwensberg, Käthe and Mainzer, Erich, Grete, Gustav and Irma\n\nLuwisch, Etli, Arthur, Lilly and Hermann\n\nMahler, Rudolf\n\nOchs, Heinrich\n\nPauli, Paula\n\nPoser Erna\n\nSchmidt-Fellner, Carola and Hermann\n\nSommer, Ernst and Margot\n\nSteinschneider, Adolf Moritz\n\nStrauss, Josef\n\nWeichbrodt, Raphael and Dorrit\n\nWolfgang, Toni\n\nStumbling Stones Initiative\n\nStumbling stone location\n\nWeserstrasse 46"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/weserstr_46.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_weserstr_46_pauli_paula.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    }
+  ],
+  "enrichers": {
+    "wfs": {
+      "fetched_at": "2026-06-22T21:34:48+00:00"
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T21:34:48+00:00",
+      "found": true
+    }
+  }
+}

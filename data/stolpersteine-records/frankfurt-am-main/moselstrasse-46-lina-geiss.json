@@ -1,0 +1,54 @@
+{
+  "id": "frankfurt-am-main/moselstrasse-46-lina-geiss",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1093244,
+    8.665013
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Lina Geiss",
+    "birth_date": "1894-05-07",
+    "death_date": "1941-03-07",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Heimbächer",
+    "victim_group": "jüdisch verfolgt",
+    "fate": "\"T4\" - 1941 Anstalt Herborn, 7.3.1941 Tötungsanstalt Hadamar"
+  },
+  "address": {
+    "street": "Moselstraße",
+    "house_number": "46",
+    "postcode": null,
+    "district": "Bahnhofsviertel",
+    "formatted": "Moselstraße 46"
+  },
+  "inscription": "HIER WOHNTE LINA GEISS GEB. HEIMBÄCHER JG. 1894 'EINGEWIESEN' 7.3.1941 HADAMAR ERMORDET 7.3.1941 'AKTION T4'",
+  "laying_date": "2017-07-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 12950000140,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": "https://de.wikipedia.org/wiki/Datei:Stolperstein_f%C3%BCr_Lina_Geiss_(Frankfurt_(Main)).jpg",
+    "website": null,
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:45+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

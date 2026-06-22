@@ -1,0 +1,54 @@
+{
+  "id": "frankfurt-am-main/scheffelstrasse-22-recha-mannheimer-geb-kahn",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1214273,
+    8.6889698
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Recha Mannheimer geb. Kahn",
+    "birth_date": "1867-08-27",
+    "death_date": "1942-09-26",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Kahn",
+    "victim_group": "jüdisch verfolgt",
+    "fate": "18.8.1942 Theresienstadt, 26.9.1942 Vernichtungslager Treblinka"
+  },
+  "address": {
+    "street": "Scheffelstraße",
+    "house_number": "22",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Scheffelstraße 22"
+  },
+  "inscription": "Hier wohnte Recha Mannheimer geb. Kahn geb. 27.8.1867 deportiert 18.8.1942 Theresienstadt und am 26.9.1942 Treblinka ermordet",
+  "laying_date": "2004-10-15",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 2607436943,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Nordend",
+    "wikimedia_commons": null,
+    "image": "File:Stolperstein_Scheffelstraße_22_Recha_Mannheimer.jpg",
+    "website": "http://www.frankfuhttps://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-nordend/familien/mannheimer-recha-und-kahn-irene",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:44+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

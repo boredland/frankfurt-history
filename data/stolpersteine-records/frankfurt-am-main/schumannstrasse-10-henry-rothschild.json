@@ -1,0 +1,46 @@
+{
+  "id": "frankfurt-am-main/schumannstrasse-10-henry-rothschild",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1137392,
+    8.6547592
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Henry Rothschild",
+    "birth_date": "1870",
+    "death_date": "1936-07-04",
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Schumannstraße",
+    "house_number": "10",
+    "postcode": "60325",
+    "district": null,
+    "formatted": "Schumannstraße 10"
+  },
+  "inscription": "Hier wohnte|Henry|Rothschild|Jg. 1870|gedemütigt/entrechtet|tot 4. Juli 1936",
+  "laying_date": "2025-07-02",
+  "artist": "Gunter Demnig",
+  "material": "brass",
+  "refs": {
+    "osm_id": 13142528640,
+    "osm_version": null,
+    "wikidata": "Q135224932",
+    "wikipedia": null,
+    "wikimedia_commons": "File:Stolperstein Henry Rothschild, 1, Schumannstraße 10, Westend, Frankfurt am Main.jpg",
+    "image": "https://commons.wikimedia.org/wiki/File:Stolpersteinlage,_8,_Schumannstra%C3%9Fe_10,_Westend,_Frankfurt_am_Main.jpg",
+    "website": "https://www.stolpersteine-frankfurt.de/media/pages/aktuell/27b0f2db6a-1750415136/infoblatt_01-02_juli_2025_de_final1.pdf#page=17&zoom=auto,-81,576",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:46+00:00"
+    }
+  }
+}

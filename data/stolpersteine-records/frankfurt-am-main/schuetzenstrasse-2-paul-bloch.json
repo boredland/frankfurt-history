@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/schuetzenstrasse-2-paul-bloch",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1096154,
+    8.6912338
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Paul Bloch",
+    "birth_date": "1911-10-16",
+    "death_date": "1942-06-16",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" - Haft 1933 und 1935, 20.4.1942 \"Schutzhaft\" Frankfurt, 19.5.1942 KZ Mauthausen-Gusen",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Schützenstraße",
+    "house_number": "2",
+    "postcode": null,
+    "district": "Innenstadt",
+    "formatted": "Schützenstraße 2"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2018-10-23",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

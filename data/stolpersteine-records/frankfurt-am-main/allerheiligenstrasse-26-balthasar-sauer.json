@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/allerheiligenstrasse-26-balthasar-sauer",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1134798,
+    8.6915433
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Balthasar Sauer",
+    "birth_date": "1883-02-10",
+    "death_date": "1945-01-07",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" - 1942 KZ Dachau, 1944 Lublin, Januar 1945 Auschwitz",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Allerheiligenstraße",
+    "house_number": "26",
+    "postcode": null,
+    "district": "Innenstadt",
+    "formatted": "Allerheiligenstraße 26"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2004-10-15",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

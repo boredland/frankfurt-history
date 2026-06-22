@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/stettenstrasse-4-alice-ehrenfeld",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Alice Ehrenfeld",
+    "birth_date": "1894-08-20",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Blüthenthal",
+    "fate": "1939 USA",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Stettenstraße",
+    "house_number": "4",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Stettenstraße 4"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2025-07-01",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

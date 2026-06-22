@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/alte-gasse-55-marie-beilacher",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Marie Beilacher",
+    "birth_date": "1884-03-22",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Kellermann",
+    "fate": "Zeugin Jevovas, Haft: Juni 1938 Gefängnis Frankfurt, KZ Lichtenburg, 1939 KZ Ravensbrück, befreit",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Alte Gasse",
+    "house_number": "55",
+    "postcode": null,
+    "district": "Innenstadt",
+    "formatted": "Alte Gasse 55"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2024-06-16",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

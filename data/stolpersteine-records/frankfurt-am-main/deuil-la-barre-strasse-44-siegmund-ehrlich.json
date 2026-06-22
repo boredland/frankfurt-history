@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/deuil-la-barre-strasse-44-siegmund-ehrlich",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1994677,
+    8.673434
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Siegmund Ehrlich",
+    "birth_date": "1879-08-02",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Haft 1936 Gießen, 1938 KZ Sachsenhausen, 1938 USA",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Deuil-la-Barre-Straße",
+    "house_number": "44",
+    "postcode": null,
+    "district": "Nieder-Eschbach",
+    "formatted": "Deuil-la-Barre-Straße 44"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2022-12-12",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

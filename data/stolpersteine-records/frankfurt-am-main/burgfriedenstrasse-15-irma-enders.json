@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/burgfriedenstrasse-15-irma-enders",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Irma Enders",
+    "birth_date": "1907-12-25",
+    "death_date": "1945-04-07",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "May",
+    "fate": "\"Widerstand\", 1939 Belgien; Haft 1943 Brüssel, Saint Gilles, Auschwitz, befreit, Tod an Haftfolgen",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Burgfriedenstraße",
+    "house_number": "15",
+    "postcode": null,
+    "district": "Rödelheim",
+    "formatted": "Burgfriedenstraße 15"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2026-06-03",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

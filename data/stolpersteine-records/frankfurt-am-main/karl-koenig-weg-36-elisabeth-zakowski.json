@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/karl-koenig-weg-36-elisabeth-zakowski",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1060033,
+    8.5350331
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Elisabeth Zakowski",
+    "birth_date": "1897-02-18",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" KPD - Haft: 6.9.1936 Frauenstrafanstalt Aichach, Zuchthaus, 1940 entlassen",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Karl-König-Weg",
+    "house_number": "36",
+    "postcode": null,
+    "district": "Unterliederbach",
+    "formatted": "Karl-König-Weg 36"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2017-06-24",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

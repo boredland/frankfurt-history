@@ -1,0 +1,54 @@
+{
+  "id": "frankfurt-am-main/hahnstrasse-18-margarete-schellhaas",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.0856939,
+    8.6323939
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Margarete Schellhaas",
+    "birth_date": "1910-07-27",
+    "death_date": "1945-01-07",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Reuel",
+    "victim_group": "politisch verfolgt",
+    "fate": "\"asozial\", \"Widerstand\" - 9.–14.6.1942 Gefängnis Frankfurt, 30.10.1944 KZ Ravensbrück"
+  },
+  "address": {
+    "street": "Hahnstraße",
+    "house_number": "18",
+    "postcode": null,
+    "district": "Niederrad",
+    "formatted": "Hahnstraße 18"
+  },
+  "inscription": "Hier wohnte Margarete Schellhaas geb. Ruel, Jg. 1910, Als asozial stigmatisiert, Verhaftet 1942, Gefängnis Frankfurt, 1944 Ravensbrüc, k Sachsenhausen, Ermordet 7.1.1945",
+  "laying_date": "2017-06-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 6482381712,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": "File:Stolperstein Margarete Schellhaas, 1, Hahnstraße 18, Niederrad, Frankfurt am Main.jpg",
+    "image": null,
+    "website": null,
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:45+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

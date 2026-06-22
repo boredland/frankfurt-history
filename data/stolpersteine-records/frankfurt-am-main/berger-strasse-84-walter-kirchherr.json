@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/berger-strasse-84-walter-kirchherr",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1213164,
+    8.6981957
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Walter Kirchherr",
+    "birth_date": "1913-12-01",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" - Haft: 1937 -1938 Breitenau, 1941 Frankfurt, Ludwigsburg, befreit",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Berger Straße",
+    "house_number": "84",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Berger Straße 84"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2021-09-05",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

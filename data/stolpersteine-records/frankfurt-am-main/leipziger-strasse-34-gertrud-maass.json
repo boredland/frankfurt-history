@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/leipziger-strasse-34-gertrud-maass",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1218222,
+    8.6476563
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Gertrud Maaß",
+    "birth_date": "1876-04-15",
+    "death_date": "1941-12-30",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Heidenfeld",
+    "fate": "1941 Shanghai/China",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Leipziger Straße",
+    "house_number": "34",
+    "postcode": null,
+    "district": "Bockenheim",
+    "formatted": "Leipziger Straße 34"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2022-05-11",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/blanchardstrasse-20-walter-ellinger",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1249849,
+    8.6505527
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Walter Ellinger",
+    "birth_date": "1899",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "12.11.1938 KZ Buchenwald, 1939 England/USA"
+  },
+  "address": {
+    "street": "Blanchardstraße",
+    "house_number": "20",
+    "postcode": null,
+    "district": "Bockenheim",
+    "formatted": "Blanchardstraße 20"
+  },
+  "inscription": "Hier wohnte Walter Ellinger; Jg. 1998, 'Schutzhaft' 1938, Buchenwald, Flucht 1939, USA",
+  "laying_date": "2023-03-04",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 10727596224,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Bockenheim",
+    "wikimedia_commons": null,
+    "image": "File:Stolperstein_Oberlindau_65_Inge_Eisenstein.jpg",
+    "website": null,
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:45+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

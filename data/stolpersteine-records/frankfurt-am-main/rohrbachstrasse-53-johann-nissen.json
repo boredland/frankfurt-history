@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/rohrbachstrasse-53-johann-nissen",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1275131,
+    8.6930695
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Johann Nissen",
+    "birth_date": "1869-06-12",
+    "death_date": "1944-04-24",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"T4\" - 18.04.1944 Weilmünster",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Rohrbachstraße",
+    "house_number": "53",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Rohrbachstraße 53"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2021-12-06",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

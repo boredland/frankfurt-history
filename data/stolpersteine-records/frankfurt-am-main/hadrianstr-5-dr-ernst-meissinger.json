@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/hadrianstr-5-dr-ernst-meissinger",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1530113,
+    8.6357548
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Dr. Ernst Meissinger",
+    "birth_date": "1910",
+    "death_date": "1940-06-11",
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "gedemütigt, entrechtet; zur Wehrmacht, tot Bouilly/Frankreich"
+  },
+  "address": {
+    "street": "Hadrianstr.",
+    "house_number": "5",
+    "postcode": null,
+    "district": "Römerstadt",
+    "formatted": "Hadrianstr. 5"
+  },
+  "inscription": "Hier wohnte Rosa Meissinger Jg. 1910 Gedemütigt / Entrechtet / Unfreiwillig verzogen 1937 Berlin zur Wehrmacht eingezogen Tot 11.6.1940 Buoilly / Frankreich",
+  "laying_date": "2025-06-29",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 12952501325,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Römerstadt",
+    "wikimedia_commons": null,
+    "image": null,
+    "website": null,
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:45+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

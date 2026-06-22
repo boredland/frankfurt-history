@@ -1,0 +1,54 @@
+{
+  "id": "frankfurt-am-main/gruene-strasse-42-lina-rosenbaum",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1155995,
+    8.6965365
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Lina Rosenbaum",
+    "birth_date": "1886-10-04",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Schwarzschild",
+    "victim_group": "jüdisch verfolgt",
+    "fate": "19.10.1941 Ghetto Lodz/Litzmannstadt"
+  },
+  "address": {
+    "street": "Grüne Straße",
+    "house_number": "42",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Grüne Straße 42"
+  },
+  "inscription": "Hier wohnte Lina Rosenbaum geb. Schwarzschild Jg. 1886 Deportiert 1941 Ermordet in Łódź/Litzmannstadt",
+  "laying_date": "2016-05-19",
+  "artist": null,
+  "material": "brass",
+  "refs": {
+    "osm_id": 9513322506,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_gruene_str_42_rosenbaum_lina.ashx?la=de-de&v=262369296&mw=1184&mh=650&hash=9DAA6251E00024708D7880D512A21C88A5DF9E8B",
+    "website": "https://frankfurt.de/de-de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-ostend/familien/rosenbaum-sally-und-lina",
+    "network": "Stolpersteine Frankfurt am Main"
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:45+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/kelsterbacher-strasse-58-erwin-wissenbach",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.0884678,
+    8.6417098
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Erwin Wissenbach",
+    "birth_date": "1907-05-09",
+    "death_date": "1905-04-26",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" - KPD, Haft 1932 F- Hammelgasse, 1935, 2 Jahre 6 Monate Gefängnis, \"Bewährungsbataillon 999\"",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Kelsterbacher Straße",
+    "house_number": "58",
+    "postcode": null,
+    "district": "Niederrad",
+    "formatted": "Kelsterbacher Straße 58"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2021-12-05",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

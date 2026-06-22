@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/eckenheimer-landstrasse-36-helene-leibsohn",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.121955,
+    8.6863518
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Helene Leibsohn",
+    "birth_date": "1889-02-02",
+    "death_date": "1941-11-25",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Geber",
+    "fate": "22.11.1941 Ghetto/KZ Kaunas",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Eckenheimer Landstraße",
+    "house_number": "36",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Eckenheimer Landstraße 36"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2017-06-23",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

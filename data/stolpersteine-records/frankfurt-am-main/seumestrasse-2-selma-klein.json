@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/seumestrasse-2-selma-klein",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1202809,
+    8.6986888
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Selma Klein",
+    "birth_date": "1909-06-08",
+    "death_date": "1942-04-26",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Haft 10.5.1939–26.4.1942, KZ Ravensbrück, 26.4.1942, Tötungsanstalt Bernburg a. d. Saale",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Seumestraße",
+    "house_number": "2",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Seumestraße 2"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2017-06-24",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

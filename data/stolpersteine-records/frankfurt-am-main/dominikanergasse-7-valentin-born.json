@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/dominikanergasse-7-valentin-born",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1117261,
+    8.6868286
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Valentin Born",
+    "birth_date": "1891-11-18",
+    "death_date": "1945-03-05",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "§175, \"asozial\" - Haft 18.3.1942, 1943 Natzweiler, Flossenbürg",
+    "victim_group": "§175 (homosexuell verfolgt)"
+  },
+  "address": {
+    "street": "Dominikanergasse",
+    "house_number": "7",
+    "postcode": null,
+    "district": "Altstadt",
+    "formatted": "Dominikanergasse 7"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2019-06-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

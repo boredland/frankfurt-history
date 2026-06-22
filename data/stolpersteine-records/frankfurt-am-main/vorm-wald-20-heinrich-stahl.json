@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/vorm-wald-20-heinrich-stahl",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Heinrich Stahl",
+    "birth_date": "1908-07-06",
+    "death_date": "1945-01-22",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\", 23.8.1943 \"Wehrkraftzersetzung\" Gefängnis Berlin- Tegel, Hinrichtung Zuchthaus Brandenburg- Görden",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Vorm Wald",
+    "house_number": "20",
+    "postcode": null,
+    "district": "Nied",
+    "formatted": "Vorm Wald 20"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2025-10-30",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

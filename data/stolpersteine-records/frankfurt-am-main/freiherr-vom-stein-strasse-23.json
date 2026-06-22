@@ -1,0 +1,47 @@
+{
+  "id": "frankfurt-am-main/freiherr-vom-stein-strasse-23",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1206252,
+    8.6639015
+  ],
+  "coords_source": "wfs",
+  "person": {
+    "name": null,
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Freiherr-vom-Stein-Straße",
+    "house_number": "23",
+    "postcode": "60323",
+    "district": null,
+    "formatted": "Freiherr-vom-Stein-Straße 23"
+  },
+  "commemorates": [],
+  "inscription": null,
+  "laying_date": null,
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "wfs_url": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": null,
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "wfs": {
+      "fetched_at": "2026-06-22T21:34:48+00:00"
+    }
+  }
+}

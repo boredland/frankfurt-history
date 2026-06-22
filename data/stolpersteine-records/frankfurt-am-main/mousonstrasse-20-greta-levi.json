@@ -1,0 +1,54 @@
+{
+  "id": "frankfurt-am-main/mousonstrasse-20-greta-levi",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1180172,
+    8.6983485
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Greta Levi",
+    "birth_date": "1888",
+    "death_date": "1943-12-22",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Landau",
+    "victim_group": "jüdisch verfolgt",
+    "fate": "1942 Region Lublin"
+  },
+  "address": {
+    "street": "Mousonstraße",
+    "house_number": "20",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Mousonstraße 20"
+  },
+  "inscription": "Hier wohnte|Bernhard Levi|geb. Landau|Jg. 1907|defportiert 1942|ermordet in|Majdanek",
+  "laying_date": "2016-05-20",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 12612795208,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Ostend",
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://de.wikipedia.org/wiki/Liste_der_Stolpersteine_in_Frankfurt-Ostendtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-ostend/familien/friedmann-amalie",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:45+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/jordanstrasse-13-erna-reinheimer",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1184698,
+    8.6484435
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Erna Reinheimer",
+    "birth_date": "1905-03-19",
+    "death_date": "1939-03-22",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Gedemütigt/entrechtet",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Jordanstraße",
+    "house_number": "13",
+    "postcode": null,
+    "district": "Bockenheim",
+    "formatted": "Jordanstraße 13"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2023-05-16",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

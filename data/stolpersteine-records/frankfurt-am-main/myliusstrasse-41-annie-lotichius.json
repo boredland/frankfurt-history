@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/myliusstrasse-41-annie-lotichius",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.120911,
+    8.6612716
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Annie Lotichius",
+    "birth_date": "1887-08-18",
+    "death_date": "1943-05-28",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Weinschenk",
+    "fate": "Haft: 8.2.1943 Gefängnis Klapperfeldstraße, Kassel, Flucht in den Tod",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Myliusstraße",
+    "house_number": "41",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Myliusstraße 41"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2021-12-06",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

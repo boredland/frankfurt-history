@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/paul-ehrlich-strasse-40-katharina-schmid",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.095599,
+    8.665845
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Katharina Schmid",
+    "birth_date": "1889-01-01",
+    "death_date": "1945-02-22",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Reimann",
+    "fate": "Zeugin Jehovas - 1937 KZ Moringen, KZ Ravensbrück, 1941 Auschwitz, 1945 KZ Bergen-Belsen",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Paul-Ehrlich-Straße",
+    "house_number": "40",
+    "postcode": null,
+    "district": "Sachsenhausen",
+    "formatted": "Paul-Ehrlich-Straße 40"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2013-06-20",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

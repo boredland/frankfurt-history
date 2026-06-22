@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/klapperfeldstrasse-8-lazarus-neumann",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1156009,
+    8.69031
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Lazarus Neumann",
+    "birth_date": "1864-04-13",
+    "death_date": "1943-01-17",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "18.8.1942 Theresienstadt",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Klapperfeldstraße",
+    "house_number": "8",
+    "postcode": null,
+    "district": "Innenstadt",
+    "formatted": "Klapperfeldstraße 8"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2012-05-13",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

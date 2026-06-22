@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/schumannstrasse-10-catherine-mentzel",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1137388,
+    8.6547549
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Catherine Mentzel",
+    "birth_date": "1937",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "Versteckt 1944 Fronton, mit Hilfe Überlebt"
+  },
+  "address": {
+    "street": "Schumannstraße",
+    "house_number": "10",
+    "postcode": "60325",
+    "district": "Westend",
+    "formatted": "Schumannstraße 10"
+  },
+  "inscription": "Catherine|Mentzel|geb. 1937 Frankreich|versteckt 1944 Fronton|mit Hilfe überlebt",
+  "laying_date": "2025-07-02",
+  "artist": "Gunter Demnig",
+  "material": "brass",
+  "refs": {
+    "osm_id": 13142528642,
+    "osm_version": null,
+    "wikidata": "Q135224953",
+    "wikipedia": null,
+    "wikimedia_commons": "File:Stolperstein Catherine Mentzel, 1, Schumannstraße 10, Westend, Frankfurt am Main.jpg",
+    "image": "https://commons.wikimedia.org/wiki/File:Stolpersteinlage,_8,_Schumannstra%C3%9Fe_10,_Westend,_Frankfurt_am_Main.jpg",
+    "website": "https://www.stolpersteine-frankfurt.de/media/pages/aktuell/27b0f2db6a-1750415136/infoblatt_01-02_juli_2025_de_final1.pdf#page=17&zoom=auto,-81,576",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:46+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

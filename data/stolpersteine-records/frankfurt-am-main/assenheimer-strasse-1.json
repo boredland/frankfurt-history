@@ -1,0 +1,72 @@
+{
+  "id": "frankfurt-am-main/assenheimer-strasse-1",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1250673,
+    8.6132813
+  ],
+  "coords_source": "wfs",
+  "person": {
+    "name": null,
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Assenheimer Straße",
+    "house_number": "1",
+    "postcode": "60489",
+    "district": null,
+    "formatted": "Assenheimer Straße 1"
+  },
+  "commemorates": [
+    "Strauß, Selma, Renate und Isidor"
+  ],
+  "inscription": null,
+  "laying_date": "23.02.2006",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "wfs_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-roedelheim/standorte/assenheimer-strasse-1",
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-roedelheim/standorte/assenheimer-strasse-1",
+    "network": null
+  },
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-roedelheim/familien/strauss-selma-renate-und-isidor",
+      "lang": "de",
+      "text": "Strauß, Selma, Renate und Isidor\n\nSelma Strauß war mit dem Kaufmann Isidor Strauß verheiratet, der in der Assenheimer Straße 1 ein Geschäft für Gemischtwaren betrieb. Dort wohnten auch ihre Eltern Jacob und Sophie Capell und ihre Geschwistern Siegfried und Sybilla, der das Haus bis zum Jahr 1937 gehörte. Ihnen gelang im Jahr 1940 die Flucht, Siegfried lebte bis zu seinem Tod mit seiner Familie in Buffalo.\n\nSelma und Isidor Strauß und ihre Tochter Renate mussten die Wohnung in Rödelheim verlassen und zogen in die Scheffelstraße 27 zur Familie Goldschmidt. Isidor Strauß gelang zunächst die Flucht nach Belgien. Dort wurde er jedoch verhaftet und in das Durchgangslager Gurs in Frankreich verschleppt.\n\nSelma Strauß, geb. Capell\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n28.02.1900\n\n23.05.1942 nach Izbica\n\nunbekannt\n\nRenate Strauß\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n06.04.1926\n\n23.05.1942 nach Izbica\n\nunbekannt\n\nIsidor Strauß\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n21.05.1894\n\ndeportiert nach Gurs und nach Polen\n\nunbekannt\n\nteilen\n\ntweet\n\nmitteilen\n\nteilen\n\nmail\n\nBrandenstein, Karl\n\nDreyfuss, Amalie, Albert und Siegbert\n\nEisemann, Johanette\n\nFleisch, Sally und Selma\n\nGrünebaum, Martha, Max und Kurt\n\nHofmann, Elisabeth\n\nKnauf, Karl\n\nMarkus, Ferdinand\n\nMarkus, Flora und Inge Ursula\n\nMarkus, Rosalie\n\nMarx, Rebekka\n\nMay, Julius und Hermine\n\nMeier, Hermann (Maier, Hermann)\n\nMüller, Anna\n\nStein, Alice\n\nStrauß, Selma, Renate und Isidor\n\nWallerstein, Emma und Henriette\n\nZinkes, Fanny und Julius Joel\n\nInitiative Stolpersteine\n\nStolperstein Standort\n\nAssenheimer Straße 1",
+      "text_en": "Strauss, Selma, Renate and Isidor\n\nSelma Strauß was married to the merchant Isidor Strauß, who ran a general store at Assenheimer Straße 1. Her parents Jacob and Sophie Capell and her siblings Siegfried and Sybilla, who owned the house until 1937, also lived there. They managed to escape in 1940 and Siegfried lived with his family in Buffalo until his death.\n\nSelma and Isidor Strauß and their daughter Renate had to leave the apartment in Rödelheim and moved in with the Goldschmidt family at Scheffelstraße 27. Isidor Strauß initially managed to escape to Belgium. However, he was arrested there and deported to the Gurs transit camp in France.\n\nSelma Strauß, née Capell\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n28.02.1900\n\n23.05.1942 to Izbica\n\nUnknown\n\nRenate Strauss\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n06.04.1926\n\n23.05.1942 to Izbica\n\nUnknown\n\nIsidor Strauss\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n21.05.1894\n\nDeported to Gurs and Poland\n\nunknown\n\nshare\n\ntweet\n\nshare\n\nshare\n\nmail\n\nBrandenstein, Karl\n\nDreyfuss, Amalie, Albert and Siegbert\n\nEisemann, Johanette\n\nFleisch, Sally and Selma\n\nGrünebaum, Martha, Max and Kurt\n\nHofmann, Elisabeth\n\nKnauf, Karl\n\nMarkus, Ferdinand\n\nMarkus, Flora and Inge Ursula\n\nMarkus, Rosalie\n\nMarx, Rebekka\n\nMay, Julius and Hermine\n\nMeier, Hermann (Maier, Hermann)\n\nMüller, Anna\n\nStein, Alice\n\nStrauß, Selma, Renate and Isidor\n\nWallerstein, Emma and Henriette\n\nZinkes, Fanny and Julius Joel\n\nStumbling Stones Initiative\n\nStumbling stone location\n\nAssenheimer Street 1"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/alt-roedelheim-12_1.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/roedelheim/standorte/alt-roedelheim-12_2.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    }
+  ],
+  "enrichers": {
+    "wfs": {
+      "fetched_at": "2026-06-22T21:34:48+00:00"
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T21:34:48+00:00",
+      "found": true
+    }
+  }
+}

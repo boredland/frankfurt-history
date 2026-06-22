@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/schumannstrasse-10-gerald-flegenheimer",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1137331,
+    8.6547578
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Gerald Flegenheimer",
+    "birth_date": "1933",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "1938 USA"
+  },
+  "address": {
+    "street": "Schumannstraße",
+    "house_number": "10",
+    "postcode": "60325",
+    "district": "Westend",
+    "formatted": "Schumannstraße 10"
+  },
+  "inscription": "Hier wohnte|Gerald|Flegenheimer|Jg. 1933|Flucht 1938|USA",
+  "laying_date": "2024-06-19",
+  "artist": "Gunter Demnig",
+  "material": "brass",
+  "refs": {
+    "osm_id": 13142528645,
+    "osm_version": null,
+    "wikidata": "Q131924806",
+    "wikipedia": null,
+    "wikimedia_commons": "File:Stolperstein Gerald Flegenheimer, 1, Schumannstraße 10, Westend, Frankfurt am Main.jpg",
+    "image": "https://commons.wikimedia.org/wiki/File:Stolpersteinlage,_8,_Schumannstra%C3%9Fe_10,_Westend,_Frankfurt_am_Main.jpg",
+    "website": "https://www.stolpersteine-frankfurt.de/media/pages/aktuell/72de98d2cb-1718022225/infoblatt_stolpersteine_frankfurt_19_juni_2024_final-en.pdf#page=5&zoom=auto,-81,520",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:46+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

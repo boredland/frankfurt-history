@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/schumannstrasse-10-stella-luise-rothschild",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1137395,
+    8.6547577
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Stella Luise Rothschild",
+    "birth_date": "1906",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "1933 England, Frankreich, 1937 Holland, Durchgangslager Westerbork, 1944 KZ Bergen-Belsen, befreit"
+  },
+  "address": {
+    "street": "Schumannstraße",
+    "house_number": "10",
+    "postcode": "60325",
+    "district": "Westend",
+    "formatted": "Schumannstraße 10"
+  },
+  "inscription": "Hier wohnte|Stella Luise|Rothschild|Jg. 1906|Flucht 1933|England, Frankreich|1937 Holland|interniert Westerbork|deportiert 1944|KZ Bergen-Belsen|befreit",
+  "laying_date": "2025-07-02",
+  "artist": "Gunter Demnig",
+  "material": "brass",
+  "refs": {
+    "osm_id": 13142528653,
+    "osm_version": null,
+    "wikidata": "Q135224939",
+    "wikipedia": null,
+    "wikimedia_commons": "File:Stolperstein Stella Luise Rothschild, 1, Schumannstraße 10, Westend, Frankfurt am Main.jpg",
+    "image": "https://commons.wikimedia.org/wiki/File:Stolpersteinlage,_8,_Schumannstra%C3%9Fe_10,_Westend,_Frankfurt_am_Main.jpg",
+    "website": "https://www.stolpersteine-frankfurt.de/media/pages/aktuell/27b0f2db6a-1750415136/infoblatt_01-02_juli_2025_de_final1.pdf#page=17&zoom=auto,-81,576",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:46+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/bockenheimer-landstrasse-69-dora-graef",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1181782,
+    8.6621198
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Dora Gräf",
+    "birth_date": "1889-01-12",
+    "death_date": "1942-03-05",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Marx",
+    "fate": "15.9.1941 KZ Ravensbrück, 5.3.1942 Tötungsanstalt Bernburg",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Bockenheimer Landstraße",
+    "house_number": "69",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Bockenheimer Landstraße 69"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2016-05-20",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

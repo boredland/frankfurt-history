@@ -1,0 +1,54 @@
+{
+  "id": "frankfurt-am-main/eckenheimer-landstrasse-84-selda-ebe",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1247985,
+    8.6864018
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Selda Ebe",
+    "birth_date": "1884",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Eyba",
+    "victim_group": "jüdisch verfolgt",
+    "fate": "28.10.1938 Beuthen \"Polenaktion\", Bentschen, 12.2.1940 Ghetto Warschau"
+  },
+  "address": {
+    "street": "Eckenheimer Landstraße",
+    "house_number": "84",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Eckenheimer Landstraße 84"
+  },
+  "inscription": "Hier wohnte SELDA EBE Geb. Eyba Jg. 1884 \"Polenaktion\" 1938 Bentschen/Zbaszyn 1940 Ghetto Warschau Schicksal unbekannt",
+  "laying_date": "2018-05-17",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 7098485248,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": "File:Stolperstein Eckenheimer Landstraße 71, Selda Ebe, Nordend West, Frankfurt am Main.jpg",
+    "image": null,
+    "website": null,
+    "network": "Stolpersteine Frankfurt am Main"
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:45+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

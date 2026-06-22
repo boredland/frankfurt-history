@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/eckenheimer-landstrasse-84-esther-ebe",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1247941,
+    8.6863954
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Esther Ebe",
+    "birth_date": "1884",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "28.10.1938 Beuthen \"Polenaktion\", Rückkehr Frankfurt, 1939 England"
+  },
+  "address": {
+    "street": "Eckenheimer Landstraße",
+    "house_number": "84",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Eckenheimer Landstraße 84"
+  },
+  "inscription": "Hier wohnte ESTHER EBE Jg. 1920 \"Polenaktion\" 1938 Bentschen/Zbaszyn Heimgekehrt Frankfurt Flucht 1939 England",
+  "laying_date": "2018-05-17",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 7098485251,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": "File:Stolperstein Eckenheimer Landstraße 71, Esther Ebe, Nordend West, Frankfurt am Main.jpg",
+    "image": null,
+    "website": null,
+    "network": "Stolpersteine Frankfurt am Main"
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:45+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "frankfurt-am-main/schlossstrasse-120-paul-breslau",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1165468,
+    8.6460704
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Paul Breslau",
+    "birth_date": "1877-10-19",
+    "death_date": "1942-04-06",
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "19.10.1941 Ghetto Lodz/Litzmannstadt"
+  },
+  "address": {
+    "street": "Schloßstraße",
+    "house_number": "120",
+    "postcode": null,
+    "district": "Bockenheim",
+    "formatted": "Schloßstraße 120"
+  },
+  "inscription": "Hier wohnte Paul Breslau;Deportation 19.10.1941 nach Lodz",
+  "laying_date": "2005-09-13",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 927805904,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Bockenheim",
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-bockenheim/familien/wagner-georg",
+    "network": null
+  },
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-bockenheim/familien/wagner-georg",
+      "lang": "de",
+      "text": "Wagner, Georg\n\nGeorg Wagner wurde in Kempen (Posen) geboren. Er war seit 1925 nach späterer nationalsozialistischer Definition in „Mischehe“ verheiratet, die Ehe wurde 1942 auf Druck geschieden. Georg Wagner arbeitete als kaufmännischer Angestellter.\n\nNach dem November-Pogrom wurde er vom 12. November bis 17. Dezember 1938 im Konzentrationslager Buchenwald (Häftlingsnummer 26175) inhaftiert. Nach der Freilassung verlor er seinen Arbeitsplatz und wurde zuletzt zur Zwangsarbeit verpflichtet. Seine letzte Wohnadresse war der Sandweg 79.\n\nDer Stolperstein wurde initiiert von Bettina Weber, Bewohnerin der Varrentrappstraße 57\n\nGeorg Wagner\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n19.3.1892\n\n11.11.1941 Minsk\n\nunbekannt\n\nStolperstein Varrentrappstraße 57 Georg Wagner\n\nteilen\n\ntweet\n\nmitteilen\n\nteilen\n\nmail\n\nAbeles, Moritz, Else Hilde, Max Günther und Anne-Marie; sowie Schauss, Karoline\n\nBär, Karl S und Gretel\n\nBernard, Georg\n\nBienes, Arthur, Hermine, Marion und René\n\nBreslau, Klara, Lore und Paul\n\nBrown, Hagar Martin\n\nCohn, Richard Gerson, Margot, Kurt und Helga Jenny\n\nFinkernagel, Karl\n\nFühr, Theresa\n\nHaag, Adam\n\nHirschmann, Hedwig, Helmut Martin und Margot\n\nHöxter, Ernst, Werner und Alma\n\nHöxter, Hilde\n\nHöxter, Walter\n\nKell, Bernhard\n\nLehmann, Alma Rosa, Erich Leo, Julius und Richard\n\nMaaß, Siegmund und Gertrud\n\nMay, Hugo und Johanna\n\nPawel, Martin\n\nRosenthal, Gustav und Rosa\n\nRoth, Salomon\n\nSchwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz\n\nSonntag, Paul\n\nSteinthal, Moritz\n\nTellgmann, Gustav\n\nWagner, Georg\n\nWeil, Linda, Henny und Ludwig\n\nWetterhahn, Emma, Siegmund und Ruth\n\nZamojre, Marcus, Josef und Ellinor\n\nInitiative Stolpersteine\n\nStolperstein Standort\n\nVarrentrappstraße 57",
+      "text_en": "Wagner, Georg\n\nGeorg Wagner was born in Kempen (Poznan). He had been married since 1925 in a \"mixed marriage\" according to the later National Socialist definition; the marriage was divorced under pressure in 1942. Georg Wagner worked as a commercial clerk.\n\nAfter the November pogrom, he was imprisoned in the Buchenwald concentration camp (prisoner number 26175) from November 12 to December 17, 1938. After his release, he lost his job and was finally conscripted into forced labor. His last residential address was Sandweg 79.\n\nThe Stumbling Stone was initiated by Bettina Weber, a resident of Varrentrappstraße 57\n\nGeorg Wagner\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n19.3.1892\n\n11.11.1941 Minsk\n\nUnknown\n\nStumbling stone Varrentrappstraße 57 Georg Wagner\n\nshare\n\ntweet\n\nshare\n\nshare\n\nmail\n\nAbeles, Moritz, Else Hilde, Max Günther and Anne-Marie; and Schauss, Karoline\n\nBär, Karl S and Gretel\n\nBernard, Georg\n\nBienes, Arthur, Hermine, Marion and René\n\nBreslau, Klara, Lore and Paul\n\nBrown, Hagar Martin\n\nCohn, Richard Gerson, Margot, Kurt and Helga Jenny\n\nFinkernagel, Karl\n\nFühr, Theresa\n\nHaag, Adam\n\nHirschmann, Hedwig, Helmut Martin and Margot\n\nHöxter, Ernst, Werner and Alma\n\nHöxter, Hilde\n\nHöxter, Walter\n\nKell, Bernhard\n\nLehmann, Alma Rosa, Erich Leo, Julius and Richard\n\nMaaß, Siegmund and Gertrud\n\nMay, Hugo and Johanna\n\nPawel, Martin\n\nRosenthal, Gustav and Rosa\n\nRoth, Salomon\n\nSchwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz and Franz\n\nSunday, Paul\n\nSteinthal, Moritz\n\nTellgmann, Gustav\n\nWagner, Georg\n\nWeil, Linda, Henny and Ludwig\n\nWetterhahn, Emma, Siegmund and Ruth\n\nZamojre, Marcus, Josef and Ellinor\n\nStumbling Stones Initiative\n\nStumbling stone location\n\nVarrentrappstrasse 57"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/varrentrappstr_57.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolpersteine_varrentrappstr_57.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bockenheim/stolperst_varrentrappstr_57_wagner_georg.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    }
+  ],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:44+00:00"
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T21:34:47+00:00",
+      "found": true
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

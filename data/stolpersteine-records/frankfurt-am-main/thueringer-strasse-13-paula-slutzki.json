@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/thueringer-strasse-13-paula-slutzki",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1170979,
+    8.6999232
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Paula Slutzki",
+    "birth_date": "1876-11-04",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Fürth",
+    "fate": "15.9.1942 Theresienstadt, 18.12.1943 Auschwitz",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Thüringer Straße",
+    "house_number": "13",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Thüringer Straße 13"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2011-06-03",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

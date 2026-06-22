@@ -1,0 +1,54 @@
+{
+  "id": "frankfurt-am-main/weberstrasse-13-elise-kaufmann-geb-klein",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1226442,
+    8.6877983
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Elise Kaufmann geb. Klein",
+    "birth_date": "1902-11-25",
+    "death_date": "1942-02-01",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Klein",
+    "victim_group": "jüdisch verfolgt",
+    "fate": "26.1.1942 KZ Ravensbrück, 26.3.1942 Auschwitz"
+  },
+  "address": {
+    "street": "Weberstraße",
+    "house_number": "13",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Weberstraße 13"
+  },
+  "inscription": "Hier wohnte Elise Kaufmann geb. Klein Jg. 1902 deportiert 26.1.1942 Ravensbrück 26.3.1942 Auschwitz ermordet 1.2.1942",
+  "laying_date": "2009-02-17",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 2607503995,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Nordend",
+    "wikimedia_commons": null,
+    "image": "File:Stolperstein_Weberstraße_13_Elise_Kaufmann.jpg",
+    "website": "http://www.frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-nordend/familien/kaufmann-elise?",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:44+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

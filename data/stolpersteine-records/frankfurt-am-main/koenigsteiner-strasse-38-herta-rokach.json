@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/koenigsteiner-strasse-38-herta-rokach",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1044337,
+    8.5457107
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Herta Rokach",
+    "birth_date": "1920-01-16",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Neumann",
+    "fate": "1939 Belgien, Sammellager Mechelen, 19.4.1943 Auschwitz, 1945 KZ Bergen Belsen, befreit",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Königsteiner Straße",
+    "house_number": "38",
+    "postcode": null,
+    "district": "Höchst",
+    "formatted": "Königsteiner Straße 38"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2011-11-01",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

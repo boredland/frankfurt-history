@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/goldsteinstrasse-47-ludwig-schabinger",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.0850168,
+    8.6429002
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Ludwig Schabinger",
+    "birth_date": "1908-12-15",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" - KPD, Haft: 1935 Kassel, Hannover, Papenburg; 1941 Frankfurt, 1942 Celle; April 1945 Todesmarsch, befreit",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Goldsteinstraße",
+    "house_number": "47",
+    "postcode": null,
+    "district": "Niederrad",
+    "formatted": "Goldsteinstraße 47"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2021-12-05",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

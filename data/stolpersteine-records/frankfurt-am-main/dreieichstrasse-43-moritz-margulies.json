@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/dreieichstrasse-43-moritz-margulies",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1045451,
+    8.6921598
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Moritz Margulies",
+    "birth_date": "1920-04-28",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1939 England",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Dreieichstraße",
+    "house_number": "43",
+    "postcode": null,
+    "district": "Sachsenhausen",
+    "formatted": "Dreieichstraße 43"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2015-10-19",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/ostendstrasse-63-65-christine-berlinger",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1121154,
+    8.7014415
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Christine Berlinger",
+    "birth_date": "1938-08-20",
+    "death_date": "1943-04-07",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "26.3.1943 Heilanstalt Eichberg",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Ostendstraße",
+    "house_number": "63/65",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Ostendstraße 63/65"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2020-10-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

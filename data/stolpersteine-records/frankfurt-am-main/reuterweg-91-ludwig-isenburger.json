@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/reuterweg-91-ludwig-isenburger",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1232045,
+    8.6697567
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Ludwig Isenburger",
+    "birth_date": "1885-12-14",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "9.11.–11.12.1938 KZ Buchenwald, 12.7.1939 Brasilienn",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Reuterweg",
+    "house_number": "91",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Reuterweg 91"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2017-06-23",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

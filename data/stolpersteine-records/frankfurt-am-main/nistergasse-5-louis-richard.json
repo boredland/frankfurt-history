@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/nistergasse-5-louis-richard",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1590579,
+    8.6492857
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Louis Richard",
+    "birth_date": "1880-07-13",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1938 KZ Buchenwald, 1939 Frankreich, 11.2.1943 Durchgangslager Drancy, 4.3.1943 Vernichtungslager Majdanek",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Nistergasse",
+    "house_number": "5",
+    "postcode": null,
+    "district": "Heddernheim",
+    "formatted": "Nistergasse 5"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2016-11-27",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

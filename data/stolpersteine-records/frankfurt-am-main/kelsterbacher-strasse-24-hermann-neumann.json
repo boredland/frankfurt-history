@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/kelsterbacher-strasse-24-hermann-neumann",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.0888631,
+    8.6449067
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Hermann Neumann",
+    "birth_date": "1901-03-16",
+    "death_date": "1940-02-15",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" - Haft: 1934–1935 Frankfurt, 1935–39 Kassel-Wehlheiden, 1939 F- Hammelgasse, KZ Dachau, KZ Mauthausen",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Kelsterbacher Straße",
+    "house_number": "24",
+    "postcode": null,
+    "district": "Niederrad",
+    "formatted": "Kelsterbacher Straße 24"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2017-06-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

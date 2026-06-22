@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/koernerstrasse-16-otto-buetschli",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1219356,
+    8.67427
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Otto Bütschli",
+    "birth_date": "1907-08-11",
+    "death_date": "1941-11-03",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "§175 - Haft: 1939 Lager Rodgau, 1940 Gefängnis Preungesheim, 1941 KZ Buchenwald, Groß-Rosen",
+    "victim_group": "§175 (homosexuell verfolgt)"
+  },
+  "address": {
+    "street": "Körnerstraße",
+    "house_number": "16",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Körnerstraße 16"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2019-06-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

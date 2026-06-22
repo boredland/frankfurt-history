@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/gaussstrasse-16-emil-carlebach",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1208068,
+    8.6925661
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Emil Carlebach",
+    "birth_date": "1914-07-10",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" - 1934 Hameln, 1937 KZ Dachau, 1939 KZ Buchenwald, befreit",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Gaußstraße",
+    "house_number": "16",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Gaußstraße 16"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2016-05-19",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

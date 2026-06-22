@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/hadrianstr-5-hans-meissinger",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1530088,
+    8.6357545
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Hans Meissinger",
+    "birth_date": "1918",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "gedemütigt, entrechtet, mit Hilfe überlebt"
+  },
+  "address": {
+    "street": "Hadrianstr.",
+    "house_number": "5",
+    "postcode": null,
+    "district": "Römerstadt",
+    "formatted": "Hadrianstr. 5"
+  },
+  "inscription": "Hier wohnte Hans Meissinger Jg. 1918 Gedemütigt / Entrechtet / Unfreiwillig verzogen 1938 Berlin mit Hilfe überlebt",
+  "laying_date": "2025-06-29",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 12952501327,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Römerstadt",
+    "wikimedia_commons": null,
+    "image": null,
+    "website": null,
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:45+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

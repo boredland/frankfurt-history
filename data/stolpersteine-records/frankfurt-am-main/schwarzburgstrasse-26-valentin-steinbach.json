@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/schwarzburgstrasse-26-valentin-steinbach",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1281747,
+    8.6897153
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Valentin Steinbach",
+    "birth_date": "1891-07-15",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Zeuge Jehovas - Haft 1936 Frankfurt, 1937 F-Preungesheim, 1937 Lichtenburg, 1937 KZ Buchenwald, 1942 KZ Mauthausen",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Schwarzburgstraße",
+    "house_number": "26",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Schwarzburgstraße 26"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2019-06-23",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/odenwaldstrasse-10-wilhelm-gerhardt",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.0868878,
+    8.6418437
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Wilhelm Gerhardt",
+    "birth_date": "1905-07-21",
+    "death_date": "1943-10-10",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" - Wehrmacht 8.10.1942, \"Bewährungseinheit\" 57. Division",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Odenwaldstraße",
+    "house_number": "10",
+    "postcode": null,
+    "district": "Niederrad",
+    "formatted": "Odenwaldstraße 10"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2017-06-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

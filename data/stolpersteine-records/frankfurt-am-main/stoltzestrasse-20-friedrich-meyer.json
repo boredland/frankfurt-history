@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/stoltzestrasse-20-friedrich-meyer",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1131442,
+    8.690099
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Friedrich Meyer",
+    "birth_date": "1887-03-27",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Zeuge Jehovas - Haft: 1.3.1937 Frankfurt, 17.10.1939 KZ Buchenwald, 8.3.1941 Wewelsburg, 6.4.1943 KZ Ravensbrück, befreit",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Stoltzestraße",
+    "house_number": "20",
+    "postcode": null,
+    "district": "Innenstadt",
+    "formatted": "Stoltzestraße 20"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2021-06-26",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

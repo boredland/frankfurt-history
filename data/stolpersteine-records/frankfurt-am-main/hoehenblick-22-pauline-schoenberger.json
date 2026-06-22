@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/hoehenblick-22-pauline-schoenberger",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Pauline Schönberger",
+    "birth_date": "1860-02-10",
+    "death_date": "1940-04-20",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Mayer",
+    "fate": "Gedemütigt, entrechtet",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Höhenblick",
+    "house_number": "22",
+    "postcode": null,
+    "district": "Ginnheim",
+    "formatted": "Höhenblick 22"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2024-06-19",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "frankfurt-am-main/bruehlstrasse-15",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1606184,
+    8.6480533
+  ],
+  "coords_source": "wfs",
+  "person": {
+    "name": null,
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Brühlstraße",
+    "house_number": "15",
+    "postcode": "60439",
+    "district": null,
+    "formatted": "Brühlstraße 15"
+  },
+  "commemorates": [
+    "Gottlieb, Alice und Jeanette"
+  ],
+  "inscription": null,
+  "laying_date": null,
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "wfs_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-heddernheim/standorte/bruehlstrasse-15",
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-heddernheim/standorte/bruehlstrasse-15",
+    "network": null
+  },
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-heddernheim/familien/gottlieb-alice-und-jeanette",
+      "lang": "de",
+      "text": "Gottlieb, Alice und Jeanette\n\nJeanette Gottlieb und ihre Tochter Alice Gottlieb wohnten in der Heddernheimer Brühlstraße 15. Die Familie Gottlieb hatte bereits Einreisevisa für die USA erhalten, aber durch Krankeit von Alice blieben Mutter und Tochter in Deutschland. Die Tochter Else, die in Heddernheim zur Schule ging, emigrierte 1938 nach New York, wo sie auch heiratete. Ihre Tochter, Linda Kates, lebt in New Jersey/USA. Sie war bei der Verlegung der Stolpersteine am 20.10.2006 anwesend.\n\nAlice Gottlieb\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n06.12.1918\n\nRegion Lublin und nach Majdanek\n\nunbekannt\n\nJeanette Gottlieb\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n02.11.1883\n\nu.a. nach Auschwitz\n\nunbekannt\n\nteilen\n\ntweet\n\nmitteilen\n\nteilen\n\nmail\n\nBaumann, Fritz\n\nBerentzen, Lore und Karl\n\nBohrmann, Alice und Richard\n\nCahn, Charlotte\n\nFabisch, Emma und Heinrich Heilmann\n\nFlörsheim, Ida und Isidor\n\nGoldschmidt, Helene und Alfred\n\nGoldschmidt, Max und Erna\n\nGottlieb, Alice und Jeanette\n\nHöxter, Kurt Leo\n\nJakob, Anna und Adolf\n\nLoeb, Jenny\n\nRichard, Louis und Johanna\n\nRothenberger, Ludwig\n\nSaalfeld, Elisabeth\n\nSalomon, Karl\n\nSchwelm, Berta, Max und Hildegard Ilse\n\nSeelig, Felix und Friedel\n\nSimenauer, Kaethe\n\nSimon, Sigmund und Johanna\n\nSteiner, Fanny und Goldschmidt, Hermann\n\nStern, Helene und Siegfried\n\nStern, Isidor und Martha\n\nInitiative Stolpersteine\n\nStandort Stolpersteine\n\nBrühlstraße 15",
+      "text_en": "Gottlieb, Alice and Jeanette\n\nJeanette Gottlieb and her daughter Alice Gottlieb lived at Heddernheimer Brühlstraße 15. The Gottlieb family had already received entry visas for the USA, but due to Alice's illness, mother and daughter remained in Germany. Daughter Else, who went to school in Heddernheim, emigrated to New York in 1938, where she also married. Her daughter, Linda Kates, lives in New Jersey/USA. She was present at the laying of the Stumbling Stones on October 20, 2006.\n\nAlice Gottlieb\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n06.12.1918\n\nLublin region and to Majdanek\n\nunknown\n\nJeanette Gottlieb\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n02.11.1883\n\namong others to Auschwitz\n\nUnknown\n\nshare\n\ntweet\n\nshare\n\nshare\n\nmail\n\nBaumann, Fritz\n\nBerentzen, Lore and Karl\n\nBohrmann, Alice and Richard\n\nCahn, Charlotte\n\nFabisch, Emma and Heinrich Heilmann\n\nFlörsheim, Ida and Isidor\n\nGoldschmidt, Helene and Alfred\n\nGoldschmidt, Max and Erna\n\nGottlieb, Alice and Jeanette\n\nHöxter, Kurt Leo\n\nJakob, Anna and Adolf\n\nLoeb, Jenny\n\nRichard, Louis and Johanna\n\nRothenberger, Ludwig\n\nSaalfeld, Elisabeth\n\nSalomon, Karl\n\nSchwelm, Berta, Max and Hildegard Ilse\n\nSeelig, Felix and Friedel\n\nSimenauer, Kaethe\n\nSimon, Sigmund and Johanna\n\nSteiner, Fanny and Goldschmidt, Hermann\n\nStern, Helene and Siegfried\n\nStern, Isidor and Martha\n\nStumbling Stones Initiative\n\nLocation Stolpersteine\n\nBrühlstrasse 15"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/bruehlstrasse_15_haus.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/heddernheim/bruehlstrasse_15.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    }
+  ],
+  "enrichers": {
+    "wfs": {
+      "fetched_at": "2026-06-22T21:34:48+00:00"
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T21:34:48+00:00",
+      "found": true
+    }
+  }
+}

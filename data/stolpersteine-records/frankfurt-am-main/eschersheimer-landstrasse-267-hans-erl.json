@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/eschersheimer-landstrasse-267-hans-erl",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1368889,
+    8.6709583
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Hans Erl",
+    "birth_date": "1882-10-08",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "10.5.1942 Vernichtungslager Sobibor"
+  },
+  "address": {
+    "street": "Eschersheimer Landstraße",
+    "house_number": "267",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Eschersheimer Landstraße 267"
+  },
+  "inscription": "Hier wohnte Hans Erl Jg. 1882 deportiert 1942 Sobibor ermordet",
+  "laying_date": "2011-06-04",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 2596838291,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Westend",
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-dornbusch/familien/erl-hans-und-sofie",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:44+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

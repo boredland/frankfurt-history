@@ -1,0 +1,72 @@
+{
+  "id": "frankfurt-am-main/moselstrasse-5",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1063155,
+    8.6687263
+  ],
+  "coords_source": "wfs",
+  "person": {
+    "name": null,
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Moselstraße",
+    "house_number": "5",
+    "postcode": "60329",
+    "district": null,
+    "formatted": "Moselstraße 5"
+  },
+  "commemorates": [
+    "Poser, Erna"
+  ],
+  "inscription": null,
+  "laying_date": null,
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "wfs_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-bahnhofsviertel/standorte/moselstrasse-5",
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-bahnhofsviertel/standorte/moselstrasse-5",
+    "network": null
+  },
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-bahnhofsviertel/familien/poser-erna",
+      "lang": "de",
+      "text": "Poser, Erna\n\nErna Poser lebte mit einer Behinderung und wurde im Dezember 1933 im Idsteiner Kalmenhof in Heilerziehungspflege gegeben. Das Frankfurter Fürsorgeamt hatte das Kind der Mutter, die als „asozial“ galt, weggenommen. Nach der Ehescheidung unternahm Erna Posers Mutter viele Versuche, ihre Tochter aus Idstein wieder nach Hause zu holen. Die Krankenakte zeigt auf, unter welchen Umständen Erna Poser im Kalmenhof untergebracht war. So wurden ihr wegen Läusebefalls alle Haare abrasiert. Erwähnt wird, dass die Mutter unangemeldet in Idstein anreiste, um ihr Kind zu besuchen. Erna Poser wurde am 10. Februar 1941 aus Idstein nach Hadamar gebracht und am gleichen Tag in der Gaskammer ermordet.  Die Urne mit der Asche von Erna Poser wurde auf dem Gräberfeld (Hauptfriedhof) beigesetzt.\n\nDer Stolperstein wurde von Martina Hartmann-Menz/Elz initiiert und finanziert von Petra Peters-Becker\n\nErna Poser\n\nGeburtsdatum:\n\n9.3.1930\n\nEingewiesen:\n\n1933 Kalmenhof Idstein, 10. 2. 1941 Hadamar\n\nTodesdatum:\n\n10. 2. 1941\n\nStolperstein Moselstraße 5, Erna Poser\n\nteilen\n\ntweet\n\nmitteilen\n\nteilen\n\nmail\n\nBuseck, Karoline und Loeb, Margarete, Ottilie und Alexander\n\nGeiss, Lina\n\nGerlinger, Anna Lina\n\nGermann, Edmund\n\nKastellan, Anna Rosa, Herbert und Lotte sowie Goldschmidt, Ellen\n\nLöwensberg, Käthe sowie Mainzer, Erich, Grete, Gustav und Irma\n\nLuwisch, Etli, Arthur, Lilly und Hermann\n\nMahler, Rudolf\n\nOchs, Heinrich\n\nPauli, Paula\n\nPoser Erna\n\nSchmidt-Fellner, Carola und Hermann\n\nSommer, Ernst und Margot\n\nSteinschneider, Adolf Moritz\n\nStrauß, Josef\n\nWeichbrodt, Raphael und Dorrit\n\nWolfgang, Toni\n\nInitiative Stolpersteine\n\nStolperstein Standort\n\nMoselstraße 5",
+      "text_en": "Poser, Erna\n\nErna Poser lived with a disability and was placed in curative care at the Kalmenhof in Idstein in December 1933. The Frankfurt welfare office had taken the child away from her mother, who was considered \"asocial\". After the divorce, Erna Poser's mother made many attempts to bring her daughter back home from Idstein. The medical records show the circumstances under which Erna Poser was kept at the Kalmenhof. All her hair was shaved off because of lice infestation. It is mentioned that the mother traveled to Idstein unannounced to visit her child. Erna Poser was taken from Idstein to Hadamar on February 10, 1941 and murdered in the gas chamber on the same day.  The urn containing Erna Poser's ashes was buried in the cemetery (main cemetery).\n\nThe Stumbling Stone was initiated by Martina Hartmann-Menz/Elz and financed by Petra Peters-Becker\n\nErna Poser\n\nDate of birth:\n\n9.3.1930\n\nCommitted:\n\n1933 Kalmenhof Idstein, 10. 2. 1941 Hadamar\n\nDate of death:\n\n10. 2. 1941\n\nStumbling stone Moselstraße 5, Erna Poser\n\nshare\n\ntweet\n\nshare\n\nshare\n\nmail\n\nBuseck, Karoline and Loeb, Margarete, Ottilie and Alexander\n\nGeiss, Lina\n\nGerlinger, Anna Lina\n\nGermann, Edmund\n\nKastellan, Anna Rosa, Herbert and Lotte and Goldschmidt, Ellen\n\nLöwensberg, Käthe and Mainzer, Erich, Grete, Gustav and Irma\n\nLuwisch, Etli, Arthur, Lilly and Hermann\n\nMahler, Rudolf\n\nOchs, Heinrich\n\nPauli, Paula\n\nPoser Erna\n\nSchmidt-Fellner, Carola and Hermann\n\nSommer, Ernst and Margot\n\nSteinschneider, Adolf Moritz\n\nStrauss, Josef\n\nWeichbrodt, Raphael and Dorrit\n\nWolfgang, Toni\n\nStumbling Stones Initiative\n\nStumbling stone location\n\nMoselstrasse 5"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolpersteine_moselstr_5.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bahnhofsviertel/stolperst_moselstr_5_poser_erna.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    }
+  ],
+  "enrichers": {
+    "wfs": {
+      "fetched_at": "2026-06-22T21:34:48+00:00"
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T21:34:48+00:00",
+      "found": true
+    }
+  }
+}

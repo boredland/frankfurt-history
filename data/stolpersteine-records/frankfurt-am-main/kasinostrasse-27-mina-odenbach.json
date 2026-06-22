@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/kasinostrasse-27-mina-odenbach",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1028643,
+    8.5490103
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Mina Odenbach",
+    "birth_date": "1898-12-25",
+    "death_date": "1942-10-12",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Mester",
+    "fate": "21.3.1942 KZ Ravensbrück, Auschwitz",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Kasinostraße",
+    "house_number": "27",
+    "postcode": null,
+    "district": "Höchst",
+    "formatted": "Kasinostraße 27"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2010-10-25",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

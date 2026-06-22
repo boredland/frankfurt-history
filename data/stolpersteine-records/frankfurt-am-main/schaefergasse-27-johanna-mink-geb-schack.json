@@ -1,0 +1,54 @@
+{
+  "id": "frankfurt-am-main/schaefergasse-27-johanna-mink-geb-schack",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1169108,
+    8.6850853
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Johanna Mink, geb. Schack",
+    "birth_date": "1889-11-15",
+    "death_date": "1942-05-29",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Schack",
+    "victim_group": "jüdisch verfolgt",
+    "fate": "8.3.1941 KZ Ravensbrück, 1942 Tötungsanstalt Bernburg"
+  },
+  "address": {
+    "street": "Schäfergasse",
+    "house_number": "27",
+    "postcode": null,
+    "district": "Innenstadt",
+    "formatted": "Schäfergasse 27"
+  },
+  "inscription": "HIER WOHNTE JOHANNA MINK, GEB. SCHACK JG. 1889 DEPORTIERT 1941 RAVENSBRÜCK VERLEGT 29.5.1942 BERNBURG ERMORDET 29.5.1942",
+  "laying_date": "2005-05-17",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 11905891677,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Nordend",
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-der-innenstadt/standorte/schaefergasse-27",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:45+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

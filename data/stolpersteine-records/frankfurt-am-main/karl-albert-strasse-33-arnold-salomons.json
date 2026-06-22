@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/karl-albert-strasse-33-arnold-salomons",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1256723,
+    8.7170539
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Arnold Salomons",
+    "birth_date": "1883-06-15",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "14.11.–21.12.1938 KZ Dachau, Mai 1939 Holland, 5.10.1942 Durchgangslager Westerbork, 1944 Auschwitz",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Karl-Albert-Straße",
+    "house_number": "33",
+    "postcode": null,
+    "district": "Bornheim",
+    "formatted": "Karl-Albert-Straße 33"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2018-05-19",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/diesterwegstrasse-7-heinrich-ullmann",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1016044,
+    8.6818353
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Heinrich Ullmann",
+    "birth_date": "1888-02-20",
+    "death_date": "1945-05-01",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "12.11.1938 KZ Buchenwald, 29.5.1943 Auschwitz, Mauthausen",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Diesterwegstraße",
+    "house_number": "7",
+    "postcode": null,
+    "district": "Sachsenhausen",
+    "formatted": "Diesterwegstraße 7"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2014-06-23",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

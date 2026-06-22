@@ -1,0 +1,54 @@
+{
+  "id": "frankfurt-am-main/schleidenstrasse-26-betty-sommer-geb-mayer",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1209181,
+    8.6833687
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Betty Sommer geb. Mayer",
+    "birth_date": "1888",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Mayer",
+    "victim_group": "jüdisch verfolgt",
+    "fate": "Frühjahr 1942 Ghetto Izbica und Zamosc"
+  },
+  "address": {
+    "street": "Schleidenstraße",
+    "house_number": "26",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Schleidenstraße 26"
+  },
+  "inscription": "Hier wohnte Betty Sommer geb. Mayer Jg. 1888 deportiert Frühjahr 1942 Izbica Zamość ermordert",
+  "laying_date": "2010-05-09",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 2609253630,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Nordend",
+    "wikimedia_commons": null,
+    "image": "File:Stolperstein_Schleidenstraße_26_Betty_Sommer.jpg",
+    "website": "https://www.frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-nordend/familien/sommer-betty-und-salomon",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:44+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/hostatostrasse-9-georg-horn",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1019282,
+    8.5467684
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Georg Horn",
+    "birth_date": "1882-04-10",
+    "death_date": "1941-01-29",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"T4\" - 1922 Psychiatrie Gießen, 1922 Heilanstalt Hadamar, 1924 Heilanstalt Eichberg, 29.1.1941 Tötungsanstalt Hadamar",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Hostatostraße",
+    "house_number": "9",
+    "postcode": null,
+    "district": "Höchst",
+    "formatted": "Hostatostraße 9"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2019-06-23",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

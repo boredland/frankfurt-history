@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/hansaallee-7-wilhelm-cohnstaedt",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1231156,
+    8.6749055
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Wilhelm Cohnstaedt",
+    "birth_date": "1880-11-09",
+    "death_date": "1937-10-03",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1934 USA Suizid",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Hansaallee",
+    "house_number": "7",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Hansaallee 7"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2018-05-17",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

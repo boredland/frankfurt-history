@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/heimchenweg-47-carl-hartogsohn",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.103502,
+    8.5351661
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Carl Hartogsohn",
+    "birth_date": "1905-07-27",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "11.11.1941 Ghetto Minsk",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Heimchenweg",
+    "house_number": "47",
+    "postcode": null,
+    "district": "Unterliederbach",
+    "formatted": "Heimchenweg 47"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2011-11-01",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

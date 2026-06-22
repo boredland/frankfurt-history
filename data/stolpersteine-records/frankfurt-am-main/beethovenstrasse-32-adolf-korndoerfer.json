@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/beethovenstrasse-32-adolf-korndoerfer",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.115291,
+    8.656188
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Adolf Korndörfer",
+    "birth_date": "1880-05-02",
+    "death_date": "1939-07-27",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"§175\" - Haft: 16.5.1939, Frankfurt, Flucht in den Tod",
+    "victim_group": "§175 (homosexuell verfolgt)"
+  },
+  "address": {
+    "street": "Beethovenstraße",
+    "house_number": "32",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Beethovenstraße 32"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2019-06-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

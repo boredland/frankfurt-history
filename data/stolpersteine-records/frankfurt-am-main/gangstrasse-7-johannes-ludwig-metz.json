@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/gangstrasse-7-johannes-ludwig-metz",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1563556,
+    8.752801
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Johannes Ludwig Metz",
+    "birth_date": "1911-11-23",
+    "death_date": "1941-06-26",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"T4\" - 1941 Anstalt Weilmünster, 26.6.1941 Tötungsanstalt Hadamar",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Gangstraße",
+    "house_number": "7",
+    "postcode": null,
+    "district": "Bergen Enkheim",
+    "formatted": "Gangstraße 7"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2022-12-12",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

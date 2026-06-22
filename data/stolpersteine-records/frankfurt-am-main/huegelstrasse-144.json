@@ -1,0 +1,77 @@
+{
+  "id": "frankfurt-am-main/huegelstrasse-144",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1477912,
+    8.664157
+  ],
+  "coords_source": "wfs",
+  "person": {
+    "name": null,
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Hügelstraße",
+    "house_number": "144",
+    "postcode": "60431",
+    "district": null,
+    "formatted": "Hügelstraße 144"
+  },
+  "commemorates": [
+    "Goldschmidt, Rosette"
+  ],
+  "inscription": null,
+  "laying_date": null,
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "wfs_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-eschersheim/standorte/huegelstrasse-144",
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-eschersheim/standorte/huegelstrasse-144",
+    "network": null
+  },
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-eschersheim/familien/goldschmidt-rosette",
+      "lang": "de",
+      "text": "Goldschmidt, Rosette\n\nRosette Goldschmidt  wurde in Frankfurt am Main geboren und war ledig. Sie wohnte im Damenheim der Freiherrlich Wilhelm\n\nCarl von Rothschild'schen Stiftung für wohltätige und gemeinnützige Zwecke in der\n\nHügelstraße 144. Um 1941 musste sie in das Jüdische Altersheim in der Niedenau  25 umziehen, das zusetzt als\n\n„Judenhaus“ galt, in dem antisemitisch Verfolgte vor ihrer Deportation aus\n\nFrankfurt zwangsweise konzentriert wurden. Insgesamt wurden 57 Personen, die in\n\ndiesem Altersheim lebten, Opfer des Holocaust.\n\nDer\n\nStolperstein wurde initiiert von Maria Theobald / Liebenswertes Eschersheim\n\nRosette\n\nGoldschmidt\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n10.04.1868\n\n18.8.1942 Theresienstadt, 23. 9. 1942 Treblinka\n\nunbekannt\n\nStolperstein Hügelstraße 144, Rosette Goldschmidt\n\nteilen\n\ntweet\n\nmitteilen\n\nteilen\n\nmail\n\nBerge, Ignatz\n\nBreslau, Ignatz\n\nFlörsheimer, Elli, Franziska und Jakob\n\nFroehlich, Siegfried und Rosa\n\nGerlach, Magarethe\n\nGoldschmidt, Rosette\n\nHenle, Franz\n\nIsaac, Gustav\n\nKatz, Hanns Ludwig\n\nKeller, Ludwig, Jeruschalmis und Max\n\nKlausing, Friedrich Karl\n\nLehrbach, Emma (Emmi) Magdalena\n\nStern, Paula und Hermann\n\nSternberg, Rosa\n\nWolf, Hermann\n\nWolfskehl, Henry\n\nInitiative Stolpersteine\n\nStandort Stolperstein\n\nHügelstraße 144",
+      "text_en": "Goldschmidt, Rosette\n\nRosette Goldschmidt was born in Frankfurt am Main and was unmarried. She lived in the ladies' home of the Freiherrlich Wilhelm\n\nCarl von Rothschild Foundation for charitable and non-profit purposes in the\n\nAround 1941, she was forced to move to the Jewish old people's home at Niedenau 25, which was then used as a\n\n\"Jews' house\", where anti-Semitic persecutees were housed before their deportation from\n\nFrankfurt were forcibly concentrated. A total of 57 people who had been\n\nliving in this old people's home were victims of the Holocaust.\n\nThe\n\nStumbling Stone was initiated by Maria Theobald / Liebenswertes Eschersheim\n\nRosette\n\nGoldschmidt\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n10.04.1868\n\n18.8.1942 Theresienstadt, 23. 9. 1942 Treblinka\n\nunknown\n\nStumbling stone Hügelstraße 144, Rosette Goldschmidt\n\nshare\n\ntweet\n\nshare\n\nshare\n\nmail\n\nMountains, Ignatz\n\nWroclaw, Ignatz\n\nFlörsheimer, Elli, Franziska and Jakob\n\nFroehlich, Siegfried and Rosa\n\nGerlach, Magarethe\n\nGoldschmidt, Rosette\n\nHenle, Franz\n\nIsaac, Gustav\n\nKatz, Hanns Ludwig\n\nKeller, Ludwig, Jeruschalmis and Max\n\nKlausing, Friedrich Karl\n\nLehrbach, Emma (Emmi) Magdalena\n\nStern, Paula and Hermann\n\nSternberg, Rosa\n\nWolf, Hermann\n\nWolfskehl, Henry\n\nStumbling Stones Initiative\n\nStumbling stone location\n\nHill Road 144"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/huegelstr_144.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/stolpersteine_huegelstr_144.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/stolperst_huegelstr_144_goldschmidt_rosette.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    }
+  ],
+  "enrichers": {
+    "wfs": {
+      "fetched_at": "2026-06-22T21:34:48+00:00"
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T21:34:48+00:00",
+      "found": true
+    }
+  }
+}

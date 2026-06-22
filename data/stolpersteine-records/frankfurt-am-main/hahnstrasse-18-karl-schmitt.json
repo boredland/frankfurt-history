@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/hahnstrasse-18-karl-schmitt",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.0856938,
+    8.6323926
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Karl Schmitt",
+    "birth_date": "1894-10-23",
+    "death_date": "1939-12-24",
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "politisch verfolgt",
+    "fate": "\"asozial\", \"Widerstand\" - 26.1.1939 Haft Frankfurt, 10.2.1939 KZ Buchenwald"
+  },
+  "address": {
+    "street": "Hahnstraße",
+    "house_number": "18",
+    "postcode": null,
+    "district": "Niederrad",
+    "formatted": "Hahnstraße 18"
+  },
+  "inscription": "Hier wohnte Karl Schmitt, Jjg. 1894, Als asozial stigmatisiert, Verhaftet 1939, Buchenwald , Ermordet 24.12.1939",
+  "laying_date": "2017-06-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 6482379867,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": "File:Stolperstein Karl Schmitt, 1, Hahnstraße 18, Niederrad, Frankfurt am Main.jpg",
+    "image": null,
+    "website": null,
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:45+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

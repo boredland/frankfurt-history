@@ -1,0 +1,77 @@
+{
+  "id": "frankfurt-am-main/marktstrasse-45",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.155479,
+    8.7542565
+  ],
+  "coords_source": "wfs",
+  "person": {
+    "name": null,
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Marktstraße",
+    "house_number": "45",
+    "postcode": "60388",
+    "district": null,
+    "formatted": "Marktstraße 45"
+  },
+  "commemorates": [
+    "Grünebaum, Emma und Bella"
+  ],
+  "inscription": null,
+  "laying_date": null,
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "wfs_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-bergen-enkheim/standorte/marktstrasse-45",
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-bergen-enkheim/standorte/marktstrasse-45",
+    "network": null
+  },
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-bergen-enkheim/familien/gruenebaum-emma-und-bella",
+      "lang": "de",
+      "text": "Grünebaum, Emma und Bella\n\nEmma Grünebaum, geb. Wetterhahn, aus Niederweisel war mit dem Täschner Moritz Grünebaum verheiratet, der im Vorstand des Berger Krankenpflegeschwesternvereins war und 1939 in Bergen starb.\n\nIhr Sohn Feist, genannt Fredy, starb 1933.\n\nDie Tochter Bella war ledig und Verkäuferin. Die Familie lebte in der Marktstraße 45, ab dem 06.10.1941 in der Steingasse 28.\n\nBella  Grünebaum\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n13.11.1901\n\n30.05.1942 in der Region Lublin und nach Sobibor\n\nunbekannt\n\nEmma  Grünebaum, geb. Wetterhahn\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n23.10.1875\n\n05.09.1942 nach Theresienstadt und Treblinka\n\nunbekannt\n\nStolpertsein Marktstraße 45 Emma Grünebaum\n\nStolperstein Marktstraße 45 Bella Grünebaum\n\nteilen\n\ntweet\n\nmitteilen\n\nteilen\n\nmail\n\nEhrmann, Leopold und Henny\n\nGrünebaum, Emma und Bella\n\nHahn, Emma und Hermann\n\nHahn, Frieda und Jenny\n\nHahn, Karoline\n\nHess, Johanna und Raphael Rudolf\n\nHeß, Jettchen, Klara und Nathan\n\nHeß, Paula\n\nHirsch, Frieda, Jettchen, Joachim und Wilhelm\n\nHirsch, Johanna und Otto\n\nHirsch, Rosa und Friedrich Nathan\n\nMetz, Johannes Ludwig\n\nLevi, Sophie und Emil\n\nSchäfer, Jean Karl\n\nSeligmann, Ella und Meier\n\nStrauss, Emma und Moritz\n\nStrauss, Julius\n\nWeil, Mina, Walter Siegfried und Richard\n\nInitiative Stolpersteine\n\nStolperstein Standort\n\nMarktstraße 45",
+      "text_en": "Grünebaum, Emma and Bella\n\nEmma Grünebaum, née Wetterhahn, from Niederweisel was married to the bag maker Moritz Grünebaum, who was on the board of the Berger Krankenpflegeschwesternverein and died in Bergen in 1939.\n\nTheir son Feist, called Fredy, died in 1933.\n\nTheir daughter Bella was unmarried and a sales clerk. The family lived at Marktstraße 45, from 06.10.1941 at Steingasse 28.\n\nBella Grünebaum\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n13.11.1901\n\n30.05.1942 in the Lublin region and to Sobibor\n\nUnknown\n\nEmma Grünebaum, née Wetterhahn\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n23.10.1875\n\n05.09.1942 to Theresienstadt and Treblinka\n\nUnknown\n\nStolpertsein Marktstraße 45 Emma Grünebaum\n\nStumbling Stone Marktstraße 45 Bella Grünebaum\n\nshare\n\ntweet\n\nshare\n\nshare\n\nmail\n\nEhrmann, Leopold and Henny\n\nGrünebaum, Emma and Bella\n\nHahn, Emma and Hermann\n\nHahn, Frieda and Jenny\n\nHahn, Karoline\n\nHess, Johanna and Raphael Rudolf\n\nHeß, Jettchen, Klara and Nathan\n\nHess, Paula\n\nHirsch, Frieda, Jettchen, Joachim and Wilhelm\n\nHirsch, Johanna and Otto\n\nHirsch, Rosa and Friedrich Nathan\n\nMetz, Johannes Ludwig\n\nLevi, Sophie and Emil\n\nSchäfer, Jean Karl\n\nSeligmann, Ella and Meier\n\nStrauss, Emma and Moritz\n\nStrauss, Julius\n\nWeil, Mina, Walter Siegfried and Richard\n\nStumbling Stones Initiative\n\nStumbling stone location\n\nMarket Street 45"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/haus_marktstra_45__400x300.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolpersteine_marltstr_45__400x300.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolperstein-gruenebaum-emma.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    }
+  ],
+  "enrichers": {
+    "wfs": {
+      "fetched_at": "2026-06-22T21:34:48+00:00"
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T21:34:48+00:00",
+      "found": true
+    }
+  }
+}

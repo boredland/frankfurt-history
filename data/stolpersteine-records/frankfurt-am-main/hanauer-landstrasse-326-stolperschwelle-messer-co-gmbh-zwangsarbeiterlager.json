@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/hanauer-landstrasse-326-stolperschwelle-messer-co-gmbh-zwangsarbeiterlager",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1212558,
+    8.7396795
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Messer & Co., GmbH Zwangsarbeiterlager",
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1941-1945 hier in Zwangsarbeit Frauen und Männer aus Russland 145, Russinnen und Russen, Weißruthenien 27, Bulgarien 5, Litauen 50, Frankreich 120, Belgien 25, Niederlande 65 Italien 7",
+    "victim_group": null
+  },
+  "address": {
+    "street": "Hanauer Landstraße",
+    "house_number": "326",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Hanauer Landstraße 326"
+  },
+  "marker_type": "stolperschwelle",
+  "inscription": null,
+  "laying_date": "2021-06-27",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

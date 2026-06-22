@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/schuetzenstrasse-12-jonas-pappenheim",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1107606,
+    8.6914062
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Jonas Pappenheim",
+    "birth_date": "1877-08-13",
+    "death_date": "1941-11-25",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "22.11.1941 Ghetto/KZ Kaunas",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Schützenstraße",
+    "house_number": "12",
+    "postcode": null,
+    "district": "Innenstadt",
+    "formatted": "Schützenstraße 12"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2011-06-04",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

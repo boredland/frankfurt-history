@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/linnestrasse-27-wilhelm-adam-hugo",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1216755,
+    8.7075715
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Wilhelm Adam Hugo",
+    "birth_date": "1906-07-18",
+    "death_date": "1942-09-17",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" - Haft: 25.6.1941 F- Preungesheim, Hinrichtung",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Linnéstraße",
+    "house_number": "27",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Linnéstraße 27"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2014-06-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/buchenrodestrasse-24-arthur-von-weinberg",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.089345,
+    8.6596066
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Arthur von Weinberg",
+    "birth_date": "1880",
+    "death_date": "1943-03-20",
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "4.6.1942 München nach Theresienstadt"
+  },
+  "address": {
+    "street": "Buchenrodestraße",
+    "house_number": "24",
+    "postcode": null,
+    "district": "Niederrad",
+    "formatted": "Buchenrodestraße 24"
+  },
+  "inscription": "Hier wohnte Arthur von Weinberg Jg. 1880 deportiert 1942 Theresienstadt Tot 20.3.1943",
+  "laying_date": "2012-05-12",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 2593817572,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "https://de.wikipedia.org/wiki/Liste_der_Stolpersteine_in_Frankfurt-Niederrad",
+    "wikimedia_commons": null,
+    "image": null,
+    "website": null,
+    "network": "Stolpersteine Frankfurt am Main"
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:44+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

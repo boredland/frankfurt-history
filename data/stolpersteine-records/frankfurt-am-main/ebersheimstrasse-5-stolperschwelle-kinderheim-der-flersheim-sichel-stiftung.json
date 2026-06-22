@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/ebersheimstrasse-5-stolperschwelle-kinderheim-der-flersheim-sichel-stiftung",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1391871,
+    8.6767934
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Kinderheim der Flersheim- Sichel-Stiftung",
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Jüdisches Kinderheim der Flersheim-Sichel- Stiftung, ab 1941 etwa 80 Kinder und Mitarbeiter deportiert und ermordet",
+    "victim_group": null
+  },
+  "address": {
+    "street": "Ebersheimstraße",
+    "house_number": "5",
+    "postcode": null,
+    "district": "Dornbusch",
+    "formatted": "Ebersheimstraße 5"
+  },
+  "marker_type": "stolperschwelle",
+  "inscription": null,
+  "laying_date": "2022-05-10",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

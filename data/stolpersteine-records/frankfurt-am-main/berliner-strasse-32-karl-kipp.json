@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/berliner-strasse-32-karl-kipp",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1120746,
+    8.6826585
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Karl Kipp",
+    "birth_date": "1902-09-27",
+    "death_date": "1942-04-25",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "§175, \"asozial\" - Haft: 8.12.1939, 30.6.1940 Diez, 28.1.1942 Flossenbürg",
+    "victim_group": "§175 (homosexuell verfolgt)"
+  },
+  "address": {
+    "street": "Berliner Straße",
+    "house_number": "32",
+    "postcode": null,
+    "district": "Altstadt",
+    "formatted": "Berliner Straße 32"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2019-06-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

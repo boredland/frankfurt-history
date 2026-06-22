@@ -1,0 +1,77 @@
+{
+  "id": "frankfurt-am-main/gangstrasse-7",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": "DE",
+  "coords": [
+    50.1563556,
+    8.752801
+  ],
+  "coords_source": "wfs",
+  "person": {
+    "name": null,
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Gangstraße",
+    "house_number": "7",
+    "postcode": "60388",
+    "district": null,
+    "formatted": "Gangstraße 7"
+  },
+  "commemorates": [
+    "Metz, Ludwig Johannes"
+  ],
+  "inscription": null,
+  "laying_date": null,
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "wfs_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-bergen-enkheim/standorte/gangstrasse-7",
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-bergen-enkheim/standorte/gangstrasse-7",
+    "network": null
+  },
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-bergen-enkheim/familien/metz-johannes-ludwig",
+      "lang": "de",
+      "text": "Metz, Ludwig Johannes\n\nJohannes\n\nLudwig Metz wurde in Bergen (heute Bergen-Enkheim) in der Gangstraße 7 geboren.\n\nAufgrund einer Erkrankung kam er 1941 zunächst in die Landesheilanstalt\n\nWeilmünster. Am 26. Juni 1941 wurde er in die Tötungsanstalt Hadamar\n\n\"verlegt\" und dort noch am selben Tag im Rahmen der \"Aktion\n\nT4\" ermordet.\n\nDie\n\nMutter von Johannes Ludwig Metz wohnte noch bis Anfang der 1960er Jahre in dem\n\nHaus in der Gangstraße 7.\n\nInitiiert\n\nwurde der Stein von der Initiative Stolpersteine Bergen-Enkheim und finanziert\n\nvon der Katholischen Kirchengemeinde Bergen-Enkheim, Pfarrer Uwe Hahner.\n\nJohannes Ludwig Metz\n\nGeburtsdatum:\n\n23.11.1911\n\nEinweisung:\n\n1941 Heilanstalt Weilmünster,\n\n\"verlegt\" 26.6.1941\n\nHadamar\n\nTodesdatum:\n\n26.6.1941\n\nStolperstein Gangstraße 7, Metz; Johannes Ludwig\n\nteilen\n\ntweet\n\nmitteilen\n\nteilen\n\nmail\n\nEhrmann, Leopold und Henny\n\nGrünebaum, Emma und Bella\n\nHahn, Emma und Hermann\n\nHahn, Frieda und Jenny\n\nHahn, Karoline\n\nHess, Johanna und Raphael Rudolf\n\nHeß, Jettchen, Klara und Nathan\n\nHeß, Paula\n\nHirsch, Frieda, Jettchen, Joachim und Wilhelm\n\nHirsch, Johanna und Otto\n\nHirsch, Rosa und Friedrich Nathan\n\nMetz, Johannes Ludwig\n\nLevi, Sophie und Emil\n\nSchäfer, Jean Karl\n\nSeligmann, Ella und Meier\n\nStrauss, Emma und Moritz\n\nStrauss, Julius\n\nWeil, Mina, Walter Siegfried und Richard\n\nInitiative Stolpersteine\n\nStandort Stolpersteine\n\nGangstraße 7",
+      "text_en": "Metz, Ludwig Johannes\n\nJohn\n\nLudwig Metz was born in Bergen (today Bergen-Enkheim) at Gangstraße 7.\n\nDue to an illness, he was initially sent to the state sanatorium in 1941\n\nWeilmünster. On June 26, 1941, he was sent to the Hadamar killing center.\n\nand \"transferred\" there on the same day as part of the \"Aktion\n\nT4\".\n\nThe\n\nmother of Johannes Ludwig Metz lived in the building until the early 1960s.\n\nhouse at Gangstraße 7 until the beginning of the 1960s.\n\nInitiated\n\nby the Bergen-Enkheim Stumbling Stones Initiative and financed by the\n\nby the Catholic parish of Bergen-Enkheim, pastor Uwe Hahner.\n\nJohannes Ludwig Metz\n\nDate of birth:\n\n23.11.1911\n\nInduction:\n\n1941 Weilmünster sanatorium,\n\n\"transferred\" 6/26/1941\n\nHadamar\n\nDate of death:\n\n26.6.1941\n\nStumbling stone Gangstraße 7, Metz; Johannes Ludwig\n\nshare\n\ntweet\n\nshare\n\nshare\n\nmail\n\nEhrmann, Leopold and Henny\n\nGrünebaum, Emma and Bella\n\nHahn, Emma and Hermann\n\nHahn, Frieda and Jenny\n\nHahn, Karoline\n\nHess, Johanna and Raphael Rudolf\n\nHeß, Jettchen, Klara and Nathan\n\nHess, Paula\n\nHirsch, Frieda, Jettchen, Joachim and Wilhelm\n\nHirsch, Johanna and Otto\n\nHirsch, Rosa and Friedrich Nathan\n\nMetz, Johannes Ludwig\n\nLevi, Sophie and Emil\n\nSchäfer, Jean Karl\n\nSeligmann, Ella and Meier\n\nStrauss, Emma and Moritz\n\nStrauss, Julius\n\nWeil, Mina, Walter Siegfried and Richard\n\nStumbling Stones Initiative\n\nLocation Stolpersteine\n\nGangway 7"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/standort/gangstr_7_.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/standort/stolpersteine_gangstr_7.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/bergen-enkheim/stolperst_gangstrasse_7_metz_johannes_ludwig.jpg",
+      "source": "frankfurt.de",
+      "kind": "biography"
+    }
+  ],
+  "enrichers": {
+    "wfs": {
+      "fetched_at": "2026-06-22T21:34:48+00:00"
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T21:34:48+00:00",
+      "found": true
+    }
+  }
+}

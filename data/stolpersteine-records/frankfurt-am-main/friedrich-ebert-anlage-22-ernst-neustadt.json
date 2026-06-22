@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/friedrich-ebert-anlage-22-ernst-neustadt",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1109559,
+    8.6580876
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Ernst Neustadt",
+    "birth_date": "1883",
+    "death_date": "1942-04-25",
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "1939 Schottland, Suizid"
+  },
+  "address": {
+    "street": "Friedrich-Ebert-Anlage",
+    "house_number": "22",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Friedrich-Ebert-Anlage 22"
+  },
+  "inscription": "Hier lehrte Ernst Neustadt Jg. 1883 Flucht 1939 Schottland Flucht in den Tod 25.4.1942",
+  "laying_date": "2020-10-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 13094961443,
+    "osm_version": null,
+    "wikidata": "Q95250790",
+    "wikipedia": "de:Ernst Neustadt",
+    "wikimedia_commons": null,
+    "image": "https://de.wikipedia.org/wiki/Datei:Stolperst_friedrich-ebert-anlage_22_neustadt_ernst.jpg",
+    "website": null,
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:46+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

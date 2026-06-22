@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/hattsteiner-strasse-6-karl-brandenstein",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1297,
+    8.616252
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Karl Brandenstein",
+    "birth_date": "1907-05-27",
+    "death_date": "1941-02-19",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "§175, \"T4\" - Haft 16.3.1939, F- Preungesheim, 23.8.1939 Heilanstalt Eichberg, 19.2.1941 Tötungsanstalt Hadamar",
+    "victim_group": "§175 (homosexuell verfolgt)"
+  },
+  "address": {
+    "street": "Hattsteiner Straße",
+    "house_number": "6",
+    "postcode": null,
+    "district": "Rödelheim",
+    "formatted": "Hattsteiner Straße 6"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2019-06-24",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

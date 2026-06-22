@@ -1,0 +1,54 @@
+{
+  "id": "frankfurt-am-main/fuerstenbergerstrasse-139-clara-stern-geb-jessel",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1251712,
+    8.6765657
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Clara Stern geb. Jessel",
+    "birth_date": "1884",
+    "death_date": "1944-03-03",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Jessel",
+    "victim_group": "jüdisch verfolgt",
+    "fate": "22.11.1941 Ghetto/KZ Kaunas"
+  },
+  "address": {
+    "street": "Fürstenbergerstraße",
+    "house_number": "139",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Fürstenbergerstraße 139"
+  },
+  "inscription": "Hier wohnte Clara Stern geb. Jessel Jg. 1884 deportiert 22.11.1941 Kaunas ermordert 3.3.1944",
+  "laying_date": "2004-10-15",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 2609378945,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Nordend",
+    "wikimedia_commons": "File:Stolperstein_Füerstenberger_Straße_139_Clara_Stern.jpg",
+    "image": null,
+    "website": "http://www.frankfurt.de/sixcms/dhttps://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-nordend/familien/stern-claraetail.php?id=1907322&_ffmpar[_id_inhalt]=2004807",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:44+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/hansaallee-146a-stolperschwelle-altenheim-der-budge-stiftung",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.134451,
+    8.6693793
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Altenheim der Budge-Stiftung",
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Jüdisch-Christliches Altenheim der Budge- Stiftung, 1939: 23 jüdische Bewohner deportiert, ermordet oder in den Suizid getrieben",
+    "victim_group": null
+  },
+  "address": {
+    "street": "Hansaallee",
+    "house_number": "146a",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Hansaallee 146a"
+  },
+  "marker_type": "stolperschwelle",
+  "inscription": null,
+  "laying_date": "2022-09-14",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/flussgasse-4-anna-mueller",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1258088,
+    8.6144924
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Anna Müller",
+    "birth_date": "1895-11-18",
+    "death_date": "1941-07-03",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Becker",
+    "fate": "\"T4\" - 1940 Merxhausen, 12.6.1941 Heilanstalt Eichberg, 3.7.1941 Tötungsanstalt Hadamar",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Flußgasse",
+    "house_number": "4",
+    "postcode": null,
+    "district": "Rödelheim",
+    "formatted": "Flußgasse 4"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2019-06-23",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

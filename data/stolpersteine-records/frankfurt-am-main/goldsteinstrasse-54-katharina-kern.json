@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/goldsteinstrasse-54-katharina-kern",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Katharina Kern",
+    "birth_date": "1896-12-30",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Gumbart",
+    "fate": "\"Widerstand\" KPD, Haft 1935-1937 Frankfurt, Kassel, Ziegenhain, Aichach, Laufen, entlassen",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Goldsteinstraße",
+    "house_number": "54",
+    "postcode": null,
+    "district": "Niederrad",
+    "formatted": "Goldsteinstraße 54"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2023-09-25",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

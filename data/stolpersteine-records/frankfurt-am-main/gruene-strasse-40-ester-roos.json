@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/gruene-strasse-40-ester-roos",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1155592,
+    8.6965346
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Ester Roos",
+    "birth_date": "1908-08-31",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "1934 Italien, 1939 USA"
+  },
+  "address": {
+    "street": "Grüne Straße",
+    "house_number": "40",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Grüne Straße 40"
+  },
+  "inscription": "Hier wohnte Ester Roos Jg. 1908 Flücht 1934 Italien 1939 USA",
+  "laying_date": "2019-06-23",
+  "artist": null,
+  "material": "brass",
+  "refs": {
+    "osm_id": 9513322504,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_gruene_str_40_roos_ester.ashx?la=de-de&v=1951823776&mw=1184&mh=650&hash=9420C82D7DB3604B23CAEA1986E38F9E95C73D73",
+    "website": "https://frankfurt.de/de-de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-ostend/familien/roos-dorette-jakob-judith-und-ester",
+    "network": "Stolpersteine Frankfurt am Main"
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:45+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/grueneburgweg-82-gerd-gruenebaum",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Gerd Grünebaum",
+    "birth_date": "1922-04-08",
+    "death_date": "1942-02-13",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "19.10.1941 Ghetto Łódź",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Grüneburgweg",
+    "house_number": "82",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Grüneburgweg 82"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2025-10-29",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

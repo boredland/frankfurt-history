@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/weberstrasse-64-andreas-portune",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1260361,
+    8.68726
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Andreas Portune",
+    "birth_date": "1905-02-17",
+    "death_date": "1945-05-23",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" - 22.3.1943 Gefängnis Frankfurt, 1944 KZ Roßlau",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Weberstraße",
+    "house_number": "64",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Weberstraße 64"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2017-06-24",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

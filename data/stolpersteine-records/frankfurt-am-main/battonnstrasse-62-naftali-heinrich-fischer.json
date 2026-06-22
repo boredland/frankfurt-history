@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/battonnstrasse-62-naftali-heinrich-fischer",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Naftali Heinrich Fischer",
+    "birth_date": "1916",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1933 Frankreich, 1934 Palästina",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Battonnstraße",
+    "house_number": "62",
+    "postcode": null,
+    "district": "Altstadt",
+    "formatted": "Battonnstraße 62"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2025-06-30",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/guentherstrasse-4-karl-schneider",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.0839163,
+    8.6488924
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Karl Schneider",
+    "birth_date": "1891-01-04",
+    "death_date": "1942-05-12",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Haft 1935 Frankfurt, 1939 Flossenbürg, 12.5.1942 Tötungsanstalt Bernburg",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Güntherstraße",
+    "house_number": "4",
+    "postcode": null,
+    "district": "Niederrad",
+    "formatted": "Güntherstraße 4"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2020-10-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/reuterweg-18-moritz-nathan-oppenheim",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Moritz Nathan Oppenheim",
+    "birth_date": "1848-09-15",
+    "death_date": "1933-06-09",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Gedemütigt/entrechtet, Flucht in den Tod",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Reuterweg",
+    "house_number": "18",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Reuterweg 18"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2026-04-25",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

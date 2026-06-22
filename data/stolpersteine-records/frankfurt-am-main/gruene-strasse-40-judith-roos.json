@@ -1,0 +1,53 @@
+{
+  "id": "frankfurt-am-main/gruene-strasse-40-judith-roos",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1155607,
+    8.6965345
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Judith Roos",
+    "birth_date": "1903-05-09",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "1935 Palästina"
+  },
+  "address": {
+    "street": "Grüne Straße",
+    "house_number": "40",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Grüne Straße 40"
+  },
+  "inscription": "Hier wohnte Judith Roos Jg. 1903 Flücht 1935 Palästina",
+  "laying_date": "2019-06-23",
+  "artist": null,
+  "material": "brass",
+  "refs": {
+    "osm_id": 9513322503,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_gruene_str_40_roos_judith.ashx?la=de-de&v=1951823776&mw=1184&mh=650&hash=ABA7FFCC7EB75043010FC480282059DB0CF8FF5A",
+    "website": "https://frankfurt.de/de-de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-ostend/familien/roos-dorette-jakob-judith-und-ester",
+    "network": "Stolpersteine Frankfurt am Main"
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:45+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

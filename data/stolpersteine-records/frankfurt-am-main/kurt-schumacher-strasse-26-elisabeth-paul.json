@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/kurt-schumacher-strasse-26-elisabeth-paul",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.113327,
+    8.688161
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Elisabeth Paul",
+    "birth_date": "1899-10-12",
+    "death_date": "1943-07-17",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Kafka",
+    "fate": "13.5.1943 Auschwitz",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Kurt-Schumacher-Straße",
+    "house_number": "26",
+    "postcode": null,
+    "district": "Innenstadt",
+    "formatted": "Kurt-Schumacher-Straße 26"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2013-11-19",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

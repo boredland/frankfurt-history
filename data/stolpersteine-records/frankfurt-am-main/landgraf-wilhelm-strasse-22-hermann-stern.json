@@ -1,0 +1,76 @@
+{
+  "id": "frankfurt-am-main/landgraf-wilhelm-strasse-22-hermann-stern",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1515517,
+    8.6613349
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Hermann Stern",
+    "birth_date": "1897-02-26",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "4.2.1943 Durchgangslager Westerbork, 20.4.1943 Theresienstadt, 6.10.1944 Auschwitz"
+  },
+  "address": {
+    "street": "Landgraf Wilhelm-Straße",
+    "house_number": "22",
+    "postcode": null,
+    "district": "Eschersheim",
+    "formatted": "Landgraf Wilhelm-Straße 22"
+  },
+  "inscription": "Hier wohnte Hermann Stern;Deportation 4.2.1943 nach Westerbork, am 20.4.1943 nach Theresienstadt, am 6.10.1944 Auschwitz",
+  "laying_date": "2004-10-14",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 928981767,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Eschersheim",
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-eschersheim/familien/stern-paula-und-hermann",
+    "network": null
+  },
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-eschersheim/familien/stern-paula-und-hermann",
+      "lang": "de",
+      "text": "Stern, Paula und Hermann\n\nHermann und Paula Stern hatten eine Tochter Marion Ilse, die am 14.2.1930 geboren wurde. Im Alter von acht Jahren konnte sie wahrscheinlich mit einem  „Kindertransport“ Deutschland nach Großbritannien verlassen, Sie lebte später lebte in den USA. Hermann Stern erhielt ab 1914 eine Ausbildung bei der „Deutschen Effecten- und Wechselbank“. Als Soldat nahm er am Ersten Weltkrieg teil und wurde schwer verletzt. Nach dem Krieg arbeitete er als Kassierer bei dieser Bank. 1938 wurde er, weil er Jude war, entlassen. 1939 oder 1940 gelang Hermann und Paula die Flucht in die Niederlande nach Winschoten, Stationsweg 55.\n\nPaula Stern, geb. May\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n2.2.1901\n\n4.2.1943 nach Westerbork und am 20.4.1943 nach Theresienstadt\n\n14.9.1944\n\nHermann Stern\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n26.2.1897\n\n4.2.1943 nach Westerbork, am 20.4.1943 nach Theresienstadt, am 06.10.1944 nach Auschwitz\n\nunbekannt\n\nteilen\n\ntweet\n\nmitteilen\n\nteilen\n\nmail\n\nBerge, Ignatz\n\nBreslau, Ignatz\n\nFlörsheimer, Elli, Franziska und Jakob\n\nFroehlich, Siegfried und Rosa\n\nGerlach, Magarethe\n\nGoldschmidt, Rosette\n\nHenle, Franz\n\nIsaac, Gustav\n\nKatz, Hanns Ludwig\n\nKeller, Ludwig, Jeruschalmis und Max\n\nKlausing, Friedrich Karl\n\nLehrbach, Emma (Emmi) Magdalena\n\nStern, Paula und Hermann\n\nSternberg, Rosa\n\nWolf, Hermann\n\nWolfskehl, Henry\n\nInitiative Stolpersteine\n\nStandort Stolpersteine\n\nLandgraf-Wilhelm-Straße 22",
+      "text_en": "Stern, Paula and Hermann\n\nHermann and Paula Stern had a daughter, Marion Ilse, who was born on February 14, 1930. At the age of eight, she was probably able to leave Germany for Great Britain on a \"Kindertransport\" and later lived in the USA. Hermann Stern was trained at the \"Deutsche Effecten- und Wechselbank\" from 1914. As a soldier, he took part in the First World War and was seriously injured. After the war, he worked as a cashier at this bank. He was dismissed in 1938 because he was Jewish. In 1939 or 1940, Hermann and Paula managed to flee to the Netherlands to Winschoten, Stationsweg 55.\n\nPaula Stern, née May\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n2.2.1901\n\n4.2.1943 to Westerbork and on 20.4.1943 to Theresienstadt\n\n14.9.1944\n\nHermann Stern\n\nDate of birth:\n\nDeportation:\n\nDate of death:\n\n26.2.1897\n\n4.2.1943 to Westerbork, on 20.4.1943 to Theresienstadt, on 06.10.1944 to Auschwitz\n\nUnknown\n\nshare\n\ntweet\n\nshare\n\nshare\n\nmail\n\nMountains, Ignatz\n\nWroclaw, Ignatz\n\nFlörsheimer, Elli, Franziska and Jakob\n\nFroehlich, Siegfried and Rosa\n\nGerlach, Magarethe\n\nGoldschmidt, Rosette\n\nHenle, Franz\n\nIsaac, Gustav\n\nKatz, Hanns Ludwig\n\nKeller, Ludwig, Jeruschalmis and Max\n\nKlausing, Friedrich Karl\n\nLehrbach, Emma (Emmi) Magdalena\n\nStern, Paula and Hermann\n\nSternberg, Rosa\n\nWolf, Hermann\n\nWolfskehl, Henry\n\nStumbling Stones Initiative\n\nLocation Stolpersteine\n\nLandgraf-Wilhelm-Strasse 22"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/landgraf_wilhelm_strasse_22_haus.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    },
+    {
+      "url": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/eschersheim/landgraf-wilhelm_strasse_22.jpg",
+      "source": "frankfurt.de",
+      "kind": "stone"
+    }
+  ],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:44+00:00"
+    },
+    "frankfurt_de": {
+      "fetched_at": "2026-06-22T21:34:47+00:00",
+      "found": true
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

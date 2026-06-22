@@ -1,0 +1,54 @@
+{
+  "id": "frankfurt-am-main/gruene-strasse-40-dorette-roos",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1155592,
+    8.6965364
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Dorette Roos",
+    "birth_date": "1881-06-09",
+    "death_date": "1942-11-11",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Hirsch",
+    "victim_group": "jüdisch verfolgt",
+    "fate": "18.8.1942 Theresienstadt"
+  },
+  "address": {
+    "street": "Grüne Straße",
+    "house_number": "40",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Grüne Straße 40"
+  },
+  "inscription": "Hier wohnte Dorette Roos gebt. Hirsch Jg. 1881 Deportiert 1942 Theresienstadt Ermordet 11.11.1942",
+  "laying_date": "2019-06-23",
+  "artist": null,
+  "material": "brass",
+  "refs": {
+    "osm_id": 9513322501,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": "https://frankfurt.de/-/media/frankfurtde/frankfurt-entdecken-und-erleben/stadtportrait/stolpersteine/image/stolpersteine/ostend/stolperst_gruene_str_40_roos_dorette.ashx?la=de-de&v=1951823776&mw=1184&mh=650&hash=54EC46E7BB9D7D4AF5D23286CDAB756413D1EE90",
+    "website": "https://frankfurt.de/de-de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-ostend/familien/roos-dorette-jakob-judith-und-ester",
+    "network": "Stolpersteine Frankfurt am Main"
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:45+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "frankfurt-am-main/friedrich-ebert-anlage-22-gertrud-neustadt",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1109499,
+    8.6580983
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Gertrud Neustadt",
+    "birth_date": "1889",
+    "death_date": "1942-04",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Stadthagen",
+    "victim_group": "jüdisch verfolgt",
+    "fate": "1939 Schottland"
+  },
+  "address": {
+    "street": "Friedrich-Ebert-Anlage",
+    "house_number": "22",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Friedrich-Ebert-Anlage 22"
+  },
+  "inscription": "Gertrud Neustadt geb Stadthagen Jg. 1889 Flucht 1939 Schottland Tot April 1942",
+  "laying_date": "2020-10-22",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 13094961442,
+    "osm_version": null,
+    "wikidata": "Q131925072",
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": "https://de.wikipedia.org/wiki/Datei:Stolperst_friedrich-ebert-anlage_22_neustadt_gertrud.jpg",
+    "website": null,
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:46+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

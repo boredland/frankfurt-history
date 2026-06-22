@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/allerheiligenstrasse-20-erwin-levi",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1134179,
+    8.6919072
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Erwin Levi",
+    "birth_date": "1909-02-24",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "6.4.1943 Auschwitz",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Allerheiligenstraße",
+    "house_number": "20",
+    "postcode": null,
+    "district": "Innenstadt",
+    "formatted": "Allerheiligenstraße 20"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2008-04-25",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

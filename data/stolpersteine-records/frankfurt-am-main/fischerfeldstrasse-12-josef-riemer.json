@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/fischerfeldstrasse-12-josef-riemer",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1104913,
+    8.6909737
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Josef Riemer",
+    "birth_date": "1909-05-02",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1939 Belgien, 1940 USA",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Fischerfeldstraße",
+    "house_number": "12",
+    "postcode": null,
+    "district": "Innenstadt",
+    "formatted": "Fischerfeldstraße 12"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2023-07-02",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

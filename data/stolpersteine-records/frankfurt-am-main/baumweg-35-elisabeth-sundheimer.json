@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/baumweg-35-elisabeth-sundheimer",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Elisabeth Sundheimer",
+    "birth_date": "1887-07-14",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Stein",
+    "fate": "1941 USA",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Baumweg",
+    "house_number": "35",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Baumweg 35"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2024-06-17",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

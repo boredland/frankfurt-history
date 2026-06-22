@@ -1,0 +1,54 @@
+{
+  "id": "frankfurt-am-main/lersnerstrasse-34-emmy-saretzki-geb-ullmann",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.123456,
+    8.6784621
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": "Emmy Saretzki geb. Ullmann",
+    "birth_date": "1890-05-01",
+    "death_date": "1944-10-09",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Ullmann",
+    "victim_group": "jüdisch verfolgt",
+    "fate": "18.8.1942 Theresienstadt, 9.10.1944 Auschwitz"
+  },
+  "address": {
+    "street": "Lersnerstraße",
+    "house_number": "34",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Lersnerstraße 34"
+  },
+  "inscription": "Hier wohnte Emmy Saretzki geb. Ullmann Jg. 1890 deportiert 18.8.1942 Theresienstadt 9.10.1944 Auschwitz ermordet",
+  "laying_date": "2005-09-14",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 2607931738,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Nordend",
+    "wikimedia_commons": null,
+    "image": "File:Stolperstein_Lersnerstraße_34_Emmi_Saretzki.jpg",
+    "website": "http://www.frankfurt.de/sixcms/dethttps://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-nordend/familien/saretzki-emmy-nathan-und-ullmann-rosaail.php?id=1907322&_ffmpar[_id_inhalt]=2004782",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:44+00:00"
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

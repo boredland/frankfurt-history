@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/feststrasse-16-karl-krauskopf",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1224033,
+    8.6934717
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Karl Krauskopf",
+    "birth_date": "1930-01-24",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "16.3.1943 Theresienstadt, 16.10.1944 Auschwitz",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Feststraße",
+    "house_number": "16",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Feststraße 16"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2015-05-18",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

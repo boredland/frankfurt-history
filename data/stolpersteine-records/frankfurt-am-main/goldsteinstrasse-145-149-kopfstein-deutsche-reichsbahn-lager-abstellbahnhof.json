@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/goldsteinstrasse-145-149-kopfstein-deutsche-reichsbahn-lager-abstellbahnhof",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.0845067,
+    8.6333027
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Deutsche Reichsbahn Lager Abstellbahnhof",
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Hier als Zwangsarbeiter 100 Franzosen, 115 Belgier, Tschechoslowaken, Ukrainer, Russen",
+    "victim_group": null
+  },
+  "address": {
+    "street": "Goldsteinstraße",
+    "house_number": "145-149",
+    "postcode": null,
+    "district": "Niederrad",
+    "formatted": "Goldsteinstraße 145-149"
+  },
+  "marker_type": "kopfstein",
+  "inscription": null,
+  "laying_date": "2020-06-21",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

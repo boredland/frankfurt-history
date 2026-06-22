@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/loehnunggasse-19-eugen-weisenseel",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1232427,
+    8.7687824
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Eugen Weisenseel",
+    "birth_date": "1899-06-07",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" - 1943 Haft Straßburg, Leonberg,, 1945 KZ Dachau",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Löhnunggasse",
+    "house_number": "19",
+    "postcode": null,
+    "district": "Fechenheim",
+    "formatted": "Löhnunggasse 19"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2016-05-28",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

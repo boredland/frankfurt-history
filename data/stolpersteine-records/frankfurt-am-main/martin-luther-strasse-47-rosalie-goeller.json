@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/martin-luther-strasse-47-rosalie-goeller",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1280062,
+    8.6974252
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Rosalie Göller",
+    "birth_date": "1883-08-31",
+    "death_date": "1943-05-30",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Rosenberger",
+    "fate": "26.4.1943 Auschwitz",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Martin-Luther-Straße",
+    "house_number": "47",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Martin-Luther-Straße 47"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2019-06-25",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

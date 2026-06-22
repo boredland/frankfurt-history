@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/stalburgstrasse-34-franz-maria-mardner",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1246584,
+    8.6828195
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Franz Maria Mardner",
+    "birth_date": "1875-09-01",
+    "death_date": "1941-04-01",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"T4\" - 18.1.1919 Psychiatrie Frankfurt, Herbst 1919 Heilanstalt Herborn, 12.03.1941 Tötungsanstalt Hadamar",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Stalburgstraße",
+    "house_number": "34",
+    "postcode": null,
+    "district": "Nordend",
+    "formatted": "Stalburgstraße 34"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2021-09-04",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

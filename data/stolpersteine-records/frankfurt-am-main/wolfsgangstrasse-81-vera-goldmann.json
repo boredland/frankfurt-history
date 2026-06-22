@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/wolfsgangstrasse-81-vera-goldmann",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1238267,
+    8.6733182
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Vera Goldmann",
+    "birth_date": "1920-11-19",
+    "death_date": "1943-07-06",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "19.4.1943 Auschwitz",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Wolfsgangstraße",
+    "house_number": "81",
+    "postcode": null,
+    "district": "Westend",
+    "formatted": "Wolfsgangstraße 81"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2016-05-20",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

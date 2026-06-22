@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/bornheimer-landwehr-85-lotte-wohl",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1226408,
+    8.7154886
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Lotte Wohl",
+    "birth_date": "1908-10-02",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "24.9.1942 Raasiku/Estland",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Bornheimer Landwehr",
+    "house_number": "85",
+    "postcode": null,
+    "district": "Bornheim",
+    "formatted": "Bornheimer Landwehr 85"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2022-05-10",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

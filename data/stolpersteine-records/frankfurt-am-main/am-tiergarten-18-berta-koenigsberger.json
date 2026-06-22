@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/am-tiergarten-18-berta-koenigsberger",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1136847,
+    8.7011189
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Berta Königsberger",
+    "birth_date": "1878-08-25",
+    "death_date": "1943-11-19",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": "Weiss",
+    "fate": "1939 Holland, Durchgangslager Westerbork, 1943 Auschwitz",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Am Tiergarten",
+    "house_number": "18",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Am Tiergarten 18"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2013-11-19",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

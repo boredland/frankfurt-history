@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/rueckertstrasse-48-kurt-politzer",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1123412,
+    8.6995894
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Kurt Politzer",
+    "birth_date": "1881-07-14",
+    "death_date": "1941-11-25",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "22.11.1941 Ghetto/KZ Kaunas",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Rückertstraße",
+    "house_number": "48",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Rückertstraße 48"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2011-06-03",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

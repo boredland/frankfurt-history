@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/kostheimer-strasse-9-stolperschwelle-zwangsarbeitslager-kostheimer-strasse",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Zwangsarbeitslager Kostheimer Straße",
+    "birth_date": null,
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "Hier war das Zwangsarbeitslager der 'arisierten' Schuhfabrik J.C.A. Schneider, 1942 -1944 wurden hier und später auf dem Werksgelände neugeborene Kinder von Zwangsarbeiterinnen aus der Ukraine, Russland, Litauen untergebracht. Vernachlässigt, unterernährt --- ermordet",
+    "victim_group": null
+  },
+  "address": {
+    "street": "Kostheimer Straße",
+    "house_number": "9",
+    "postcode": null,
+    "district": "Gallus",
+    "formatted": "Kostheimer Straße 9"
+  },
+  "marker_type": "stolperschwelle",
+  "inscription": null,
+  "laying_date": "2026-06-02",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}

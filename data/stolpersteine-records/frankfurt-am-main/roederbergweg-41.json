@@ -1,0 +1,46 @@
+{
+  "id": "frankfurt-am-main/roederbergweg-41",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1142605,
+    8.7043033
+  ],
+  "coords_source": "osm",
+  "person": {
+    "name": null,
+    "birth_date": "21.07.1929",
+    "death_date": "24.08.1942",
+    "birth_place": null,
+    "death_place": null
+  },
+  "address": {
+    "street": "Röderbergweg",
+    "house_number": "41",
+    "postcode": null,
+    "district": "Ostend",
+    "formatted": "Röderbergweg 41"
+  },
+  "inscription": "Hier wohnte Hanna Wermuth;Deportation 1938 nach Bentschen, 1941 Plaszow und Belzec",
+  "laying_date": "2008-04-25",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": 973594929,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": "de:Liste der Stolpersteine in Frankfurt-Ostend",
+    "wikimedia_commons": "File:Stolperstein Röderbergweg 41 Hanna Wermuth.jpg",
+    "image": null,
+    "website": null,
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "osm": {
+      "fetched_at": "2026-06-22T21:34:44+00:00"
+    }
+  }
+}

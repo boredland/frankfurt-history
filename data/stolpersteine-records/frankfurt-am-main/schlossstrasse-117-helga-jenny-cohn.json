@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/schlossstrasse-117-helga-jenny-cohn",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1168379,
+    8.6463126
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Helga Jenny Cohn",
+    "birth_date": "1923-09-02",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1938 Frankreich, 1939 England",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Schloßstraße",
+    "house_number": "117",
+    "postcode": null,
+    "district": "Bockenheim",
+    "formatted": "Schloßstraße 117"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2022-05-11",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-06-22T21:37:24+00:00",
+      "list_stand": "2026-06-16",
+      "found": true
+    }
+  }
+}
