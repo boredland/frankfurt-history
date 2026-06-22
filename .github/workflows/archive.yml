@@ -43,6 +43,19 @@ jobs:
         timeout-minutes: 15
         run: uv run scripts/download_stolperstein_images.py
 
+      - name: Fetch Stolpersteine from OSM
+        continue-on-error: true
+        timeout-minutes: 5
+        run: uv run scripts/fetch_osm_stolpersteine.py --city frankfurt-am-main
+
+      - name: Migrate legacy FFM data into records
+        run: uv run scripts/migrate_ffm_to_records.py
+
+      - name: Enrich records with frankfurt.de biographies
+        continue-on-error: true
+        timeout-minutes: 15
+        run: uv run scripts/enrich_stolpersteine.py --city frankfurt-am-main
+
       - name: Backfill Stolpersteine records (Initiative Frankfurt)
         continue-on-error: true
         timeout-minutes: 5
