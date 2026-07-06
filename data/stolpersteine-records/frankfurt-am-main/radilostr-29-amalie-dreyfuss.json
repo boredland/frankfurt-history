@@ -59,10 +59,10 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-06-29T04:34:20+00:00"
+      "fetched_at": "2026-07-06T04:30:09+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-06-29T04:34:21+00:00",
+      "fetched_at": "2026-07-06T04:30:10+00:00",
       "found": true
     }
   }

@@ -38,21 +38,28 @@
     "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-der-altstadt/familien/zuntz-karl-ella-miriam-esther-und-harry",
     "network": null
   },
-  "biographies": [],
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-der-altstadt/familien/zuntz-karl-ella-miriam-esther-und-harry",
+      "lang": "de",
+      "text": "Zuntz, Karl, Ella, Miriam, Esther und Harry\n\nZuntz, Karl\n\nKarl Zuntz wurde in Frankfurt geboren. Er war in erster Ehe mit Ruth Zuntz, geb. Ephraim, geboren 1889 in Posen, verheiratet. Die Ehefrau starb am 14. 7.1938 in Frankfurt. Danach heiratete er Ella Zuntz, Joelsohn, geboren in Hamburg. Aus der erster Ehe stammten Miriam, Esther und Harry und zwei weitere 1929 und 1931 in Frankfurt geborene Söhne, denen im April 1939 mit einem \"Kindertransport\" der Jugend-Aliyah die Flucht nach Palästina gelang.\n\nRothschildhaus in der Börnerstraße 26, in NS-Zeit Großer Wallgraben 26/IV\n\nKarl Zuntz war Soldat im Ersten Weltkrieg und erlitt eine Verwundung. Er war als Verwalter der Rothschildschen Stiftung bei der Jüdischen Gemeinde in Frankfurt beschäftigt. Zuletzt, nach dem Weggang von Gemeinderabbiner Kirschbaum, wurde er dessen Nachfolger. Spätestens seit 1929 wohnte die Familie im Rothschildhaus Großer Wollgraben 26/IV (Börnestraße). Die Straße existiert heute nicht mehr.\n\nDie Tochter Esther flüchtete 1938 in das niederländische Exil nach Amsterdam in ein Waisenhaus. Sie wurde in das Internierungslager Westerbork eingewiesen und von dort deportiert.\n\nDie Stolpersteine wurden initiiert von Michael (Werner) Zuntz/Californien/USA, dessen Großonkel Karl Zuntz war, und dessen Tochter Barbara Zuntz Bahr/Kassel. Bei der Verlegung waren von Nachkommen von Karl Zuntz anwesend: Sohn Schimon Zuntz/Israel, Enkel Ofer Zuntz/Haifa/Israel, Enkelin Ruth Zuntz/Berlin mit Tochter Romy Ella, Sohn Yehoda Zuntz und Ehefrau Dewora Zuntz/Jerusalem/Israel mit den Enkeln Oded Zuntz/Jerusalem, Amalia Zuntz-Jaron/Jerusalem, Ofra Zuntz-Berman /Kibbuz Schluhot/Israel Anat Zuntz-Rotmann/Mehola, Idiit Zuntz-Harovi/Kibbuz Schluhot und vier Enkel aus Kibbuz Schluhot, Dotan und Dana Rotmann/Tel Aviv, Ajala Rotmann/Mehola, Yafa Jaron/ Jerusalem und Oz Bermann/Tel Aviv anwesend. Anwesend war auch Lilo Günzler, Autorin von \"Endlich reden\" (Frankfurt 2009), die bis zur Zerstörung im März 1944 im Rothschildhaus wohnte.\n\nElla Zuntz, geb. Joelsohn\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n04.03.1895\n\n15.09.1942 nach Theresienstadt\n\nunbekannt\n\nKarl Zuntz\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n20.05.1897\n\n15.09.1942 nach Theresienstadt\n\nunbekannt\n\nMiriam Zuntz\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n15.05.1934\n\n15.09.1942 nach Theresienstadt\n\nunbekannt\n\nEsther Zuntz\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n06.03.1928\n\n06.07.1943 von Westerborg nach Sobibor\n\n23.07.1943\n\nHarry Zuntz\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n14.05.1933\n\n15.09.1942 nach Theresienstadt und nach Auschwitz\n\nunbekannt\n\nQuelle\n\nLiteratur: Marlies Lehmann-Brune, Der Koffer des Karl Zuntz: Fünf Jahrhunderte einer jüdischen Familie, Düsseldorf 1997.\n\nStolperstein Kurt-Schumacher-Straße 35 Karl Zuntz\n\nStolperstein Kurt-Schumacher-Straße 35 Ella Zuntz\n\nStolperstein Kurt-Schumacher-Straße 35 Miriam Zuntz\n\nStolperstein Kurt-Schumacher-Straße 35 Esther Zuntz\n\nStolperstein Kurt-Schumacher-Straße 35 Harry Zuntz\n\nAppel, Franziska und Herta\n\nBorn, Valentin\n\nGeis, Franziska und Hermann\n\nHess, Jakob\n\nKipp Karl\n\nKlein, Kunigunde\n\nNohl, Emma\n\nPerlhefter, Elsa, Emil und Manfred\n\nStrauß, Josef und Robert\n\nvon Halle, Siegfried, Rosa und Friedel\n\nZuntz, Karl, Ella, Miriam, Esther und Harry\n\nInitiative Stolpersteine\n\nStolpersteine Standort\n\nKurt-Schumacher-Straße 35"
+    }
+  ],
   "images": [],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-06-29T04:34:20+00:00"
+      "fetched_at": "2026-07-06T04:30:09+00:00"
     },
     "stolpersteine_frankfurt_de": {
-      "fetched_at": "2026-06-29T04:35:32+00:00",
+      "fetched_at": "2026-07-06T04:31:19+00:00",
       "list_stand": "2026-06-16",
       "found": true
     },
     "frankfurt_de": {
-      "fetched_at": "2026-06-29T04:34:56+00:00",
-      "found": false,
-      "bios": 0,
+      "fetched_at": "2026-07-06T04:30:31+00:00",
+      "found": true,
+      "bios": 1,
       "images": 0
     }
   }

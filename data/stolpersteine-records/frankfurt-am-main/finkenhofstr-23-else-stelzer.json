@@ -4,8 +4,8 @@
   "city_name": "Frankfurt am Main",
   "country": null,
   "coords": [
-    50.1211249,
-    8.6779824
+    50.1211651,
+    8.6780702
   ],
   "coords_source": "osm",
   "person": {
@@ -77,14 +77,14 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-06-29T04:34:20+00:00"
+      "fetched_at": "2026-07-06T04:30:09+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-06-29T04:34:21+00:00",
+      "fetched_at": "2026-07-06T04:30:10+00:00",
       "found": true
     },
     "stolpersteine_frankfurt_de": {
-      "fetched_at": "2026-06-29T04:35:32+00:00",
+      "fetched_at": "2026-07-06T04:31:19+00:00",
       "list_stand": "2026-06-16",
       "found": true
     }
