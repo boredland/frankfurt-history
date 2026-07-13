@@ -2,8 +2,8 @@
 id: 1170
 title: "Gedenkstätte Arbeitserziehungslager Heddernheim"
 subtitle: "Oberschelder Weg 10-12"
-coordinates: [50.16503267080218, 8.63931058996495]
-updated_at: "2026-04-09 14:28:56"
+coordinates: [50.164234013528436, 8.640391285922346]
+updated_at: "2026-07-09 14:36:27"
 categories:
   - "Erinnern und Gedenken"
 filters:
