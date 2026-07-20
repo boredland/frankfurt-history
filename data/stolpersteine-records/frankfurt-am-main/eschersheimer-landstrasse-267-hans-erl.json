@@ -38,21 +38,28 @@
     "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-dornbusch/familien/erl-hans-und-sofie",
     "network": null
   },
-  "biographies": [],
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-dornbusch/familien/erl-hans-und-sofie",
+      "lang": "de",
+      "text": "Erl, Hans und Sofie\n\nHans Erl\n\nHans Erl, geboren in Warschau, war ein bekannter Opernsänger, seit den zwanziger Jahren war er mit Sofie Levi verheiratet, sie hatten keine Kinder. Erl startete seine Karriere am Raimund Theater in Wien, es folgten Augsburg und Chemnitz. Er nahm am Ersten Weltkrieg teil, von dem er als Austauschgefangener aus Russland zurückkehrte. Er fand eine Anstellung an der Frankfurter Oper als Erster Bassist und wurde einer der bekanntesten Sänger (neben Magda Spiegel, für die ein Stolperstein in der Holzhausenstr. 16 verlegt wurde). Glanzrollen waren im Rosenkavalier und in der Zauberflöte. Erl gab Gastspiele im In- und Ausland und bekam beste Kritiken. In einem Interview 1926 bemerkte er: „Auf der Bühne vorbildlich sein,im Leben Mensch bleiben\" Ein Bild zeigt ihn mit seiner Frau, seinen Hunden und seinem PKW Adler Standard.\n\n1932 begann in der Oper der Versuch, jüdische Künstler „freizusetzen\". Erls Vertrag wurde nicht verlängert, 1933 erfolgte die Kündigung aufgrund des Gesetzes zur Wiederherstellung des Berufsbeamtentums. Er klagte und Hans Erl beantragte die Pensionierung. Als er ein Konzert in Zürich gab, wurde er denunziert, man versuchte die Rente zu kürzen. Nach der Pogromnacht 1938 wurde Erl wie die meisten jüdischen Männer in die Festhalle gebracht. Ein SS Mann erkannte ihn und forderte ihn auf, die Arie des Sarastro „In diesen heiligen Hallen kennt man die Rache nicht\" aus Mozarts Zauberflöte zu singen. Danach wurde er freigelassen.\n\nSein Vermögen unterlag der Sicherungsanordnung durch die Devisenstelle, 1942 wurde wie bei allen jüdischen Empfängern die Rente um 37% gekürzt. Im September 1942 schreibt die Gestapo an die Oper: „Der Jude Erl ist bereits am 11.6.1942 nach Osten abgewandert\".\n\n1955 wurde eine Hans Erl-Büste des Künstlers Georg Mahr in der Oper aufgestellt, Erls Name steht auf einer Tafel, die die Namen der deportierten jüdischen Künstler zeigt, und an der Außenwand der Frankfurter Oper angebracht ist.e\n\nHans Erl\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n08.10.1882\n\n10.05.1942 nach Sobibor\n\nunbekannt\n\nSofie Erl, geb. Levi\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n14.11.1883\n\n10.05.1942 nach Sobibor\n\nunbekannt\n\nStolperstein Eschersheimer Landstraße 267 Hans Erl\n\nStolperstein Eschersheimer Landstraße 267 Sofie Erl\n\nBeicht, Karl und Edith\n\nBurgheim, Clara\n\nCahn, Mathilde und Robert\n\nEpstein, Alice Betty und Fritz\n\nEpstein, Paul\n\nFuchs, Nelly und Rosa Natt-Fuchs\n\nGoldstern, Susanne und Ottilie Janik\n\nGrünebaum, Rosa, Gerson und Alfred\n\nHeld, Jella\n\nHild, Willy und Frieda\n\nHofmann, Babette und Alfred Max\n\nKaiser, Siegmund\n\nKanne Anna und Oechler Anna\n\nKinderheim der Flersheim-Sichel-Stiftung\n\nMokrauer, Fanny und Lotte\n\nNeumann, Kurt\n\nReinheimer, Ludwig\n\nReutlinger, Hanna, Gerd und Rolf\n\nRosenberg, Paula\n\nSimon, Liesel, Paul Jacob, Hans Max Joseph und Fritz Ernst Willi\n\nWestheim, Gottfried und Julius\n\nZehden, Artur und Alma\n\nInitiative Stolpersteine\n\nStolpersteine Standort\n\nEschersheimer Landstraße 267"
+    }
+  ],
   "images": [],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-07-13T06:13:22+00:00"
+      "fetched_at": "2026-07-20T06:15:05+00:00"
     },
     "stolpersteine_frankfurt_de": {
-      "fetched_at": "2026-07-13T06:14:27+00:00",
+      "fetched_at": "2026-07-20T06:16:02+00:00",
       "list_stand": "2026-06-16",
       "found": true
     },
     "frankfurt_de": {
-      "fetched_at": "2026-07-13T06:13:33+00:00",
-      "found": false,
-      "bios": 0,
+      "fetched_at": "2026-07-20T06:15:14+00:00",
+      "found": true,
+      "bios": 1,
       "images": 0
     }
   }

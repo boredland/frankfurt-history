@@ -1,14 +1,14 @@
 ---
 id: 2118
-title: "Modesalon- Friedensstraße 2"
+title: "Modesalon - Friedensstraße 2"
 subtitle: "Toni Schiesser - Atelier und Verkaufsraum"
 coordinates: [50.109481, 8.675278]
-updated_at: "2026-04-08 12:53:15"
+updated_at: "2026-07-15 12:33:02"
 filters:
   - "Orte der Arbeit"
 ---
 
-# Modesalon- Friedensstraße 2
+# Modesalon - Friedensstraße 2
 
 *Toni Schiesser - Atelier und Verkaufsraum*
 

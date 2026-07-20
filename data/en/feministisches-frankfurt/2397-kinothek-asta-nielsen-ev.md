@@ -3,7 +3,7 @@ id: 2397
 title: "Kinothek Asta Nielsen e.V."
 subtitle: "Kinothek Asta Nielsen e.V."
 coordinates: [50.114952, 8.683302]
-updated_at: "2026-01-09 13:08:11"
+updated_at: "2026-07-15 12:35:57"
 categories:
   - "Feminismen der Gegenwart Erfahre mehr"
 filters:

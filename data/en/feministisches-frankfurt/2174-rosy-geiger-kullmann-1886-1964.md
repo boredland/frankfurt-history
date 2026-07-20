@@ -3,7 +3,7 @@ id: 2174
 title: "Rosy Geiger-Kullmann (1886-1964)"
 subtitle: "Dedicated Frankfurter, Composer, and Pianist"
 coordinates: [50.1224, 8.675396]
-updated_at: "2026-04-17 11:36:47"
+updated_at: "2026-07-15 12:29:26"
 categories:
   - "Feminismen der Gegenwart Erfahre mehr"
 filters:

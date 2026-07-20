@@ -3,7 +3,7 @@ id: 2170
 title: "Louise Héritte-Viardot (1841-1918)"
 subtitle: "Komponistin und Kämpferin für Gleichberechtigung"
 coordinates: [50.109273, 8.682335]
-updated_at: "2026-06-08 14:31:12"
+updated_at: "2026-07-15 12:34:18"
 categories:
   - "Feminismen der Gegenwart Erfahre mehr"
 filters:

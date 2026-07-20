@@ -3,7 +3,7 @@ id: 2101
 title: "Schauspielhaus"
 subtitle: "Mathilde Einzig – Ausnahmekarriere am Schauspiel"
 coordinates: [50.1086667, 8.67502778]
-updated_at: "2026-04-17 10:56:51"
+updated_at: "2026-07-15 12:28:14"
 filters:
   - "Orte der Arbeit"
 ---

@@ -3,7 +3,7 @@ id: 2104
 title: "Gedenktafel Paulskirche"
 subtitle: "Johanna Kirchner – Gedenkort des Widerstands"
 coordinates: [50.111409, 8.680471]
-updated_at: "2026-04-17 11:17:57"
+updated_at: "2026-07-15 12:40:24"
 filters:
   - "Orte des Erinnerns"
 ---

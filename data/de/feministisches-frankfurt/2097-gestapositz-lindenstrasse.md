@@ -3,7 +3,7 @@ id: 2097
 title: "Gestapositz-Lindenstraße"
 subtitle: "Irene Block - Inhaftierung im NS"
 coordinates: [50.1167778, 8.661111111]
-updated_at: "2026-04-17 11:02:15"
+updated_at: "2026-07-15 12:39:36"
 filters:
   - "Orte der Verfolgung"
 ---

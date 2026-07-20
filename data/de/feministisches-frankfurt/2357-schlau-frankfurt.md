@@ -3,7 +3,7 @@ id: 2357
 title: "SCHLAU Frankfurt"
 subtitle: "Ein queeres Bildungs- und Antidiskriminierungsprojekt"
 coordinates: [50.11375096, 8.687494561]
-updated_at: "2025-12-09 21:03:01"
+updated_at: "2026-07-15 12:27:37"
 categories:
   - "Feminismen der Gegenwart Erfahre mehr"
 filters:
