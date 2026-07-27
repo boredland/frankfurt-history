@@ -38,21 +38,28 @@
     "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-bockenheim/familien/may-hugo-und-johanna",
     "network": null
   },
-  "biographies": [],
+  "biographies": [
+    {
+      "source": "frankfurt.de",
+      "source_url": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-in-bockenheim/familien/may-hugo-und-johanna",
+      "lang": "de",
+      "text": "May, Hugo und Johanna\n\nDer in Flörsheim geborene Bankier und Former Hugo May war der Sohn von David May und Johanna, geb. Marx und mit der in Wächtersbach geborenen Johanna May, geb. Sichel, verw. Rubinstein verheiratet.\n\nDem 1922 in Frankfurt zur Welt gekommenen Sohn gelang 1939 die Flucht in das britische Exil.\n\nHugo May war seit 1928 Alleininhaber der ab 1923 im Handelsregister eingetragenen Bank „Hugo May & Co.\", Neue Mainzer Straße 55. Die geschäftlichen Angelegenheiten regelte die Schwägerin.\n\nNach dem November-Pogrom wurde er in das Konzentrationslager Buchenwald verschleppt, wo er vom 12.11. bis 14.12.1938 inhaftiert war (Häftlingsnummer 26068).\n\nWeitere Frankfurter Adressen waren Hammanstraße 11, Scheffelstraße 11 und zuletzt Hans-Handwerk-Straße 32 (Lange Straße).\n\nJohanna May, geb. Sichel\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n31.08.1881\n\n15.09.1942 nach Theresienstadt und Auschwitz\n\nunbekannt\n\nHugo May\n\nGeburtsdatum:\n\nDeportation:\n\nTodesdatum:\n\n25.01.1880\n\n15.09.1942  nach Theresienstadt und Auschwitz\n\nunbekannt\n\nAbeles, Moritz, Else Hilde, Max Günther und Anne-Marie; sowie Schauss, Karoline\n\nBär, Karl S und Gretel\n\nBernard, Georg\n\nBienes, Arthur, Hermine, Marion und René\n\nBreslau, Klara, Lore und Paul\n\nBrown, Hagar Martin\n\nCohn, Richard Gerson, Margot, Kurt und Helga Jenny\n\nFinkernagel, Karl\n\nFühr, Theresa\n\nHaag, Adam\n\nHirschmann, Hedwig, Helmut Martin und Margot\n\nHöxter, Hilde\n\nHöxter, Ernst, Werner und Alma\n\nHöxter, Walter\n\nKell, Bernhard\n\nLehmann, Alma Rosa, Erich Leo, Julius und Richard\n\nMaaß, Siegmund und Gertrud\n\nMay, Hugo und Johanna\n\nPawel, Martin\n\nRosenthal, Gustav und Rosa\n\nRoth, Salomon\n\nSchwarzschild, Eduard, Blanche, Maximilian, Lilo, Heinz und Franz\n\nSonntag, Paul\n\nSteinthal, Moritz\n\nTellgmann, Gustav\n\nWagner, Georg\n\nWeil, Linda, Henny und Ludwig\n\nWetterhahn, Emma, Siegmund und Ruth\n\nZamojre, Marcus, Josef und Ellinor\n\nInitiative Stolpersteine"
+    }
+  ],
   "images": [],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-07-20T06:15:05+00:00"
+      "fetched_at": "2026-07-27T06:26:45+00:00"
     },
     "stolpersteine_frankfurt_de": {
-      "fetched_at": "2026-07-20T06:16:02+00:00",
+      "fetched_at": "2026-07-27T06:27:29+00:00",
       "list_stand": "2026-06-16",
       "found": true
     },
     "frankfurt_de": {
-      "fetched_at": "2026-07-20T06:15:33+00:00",
-      "found": false,
-      "bios": 0,
+      "fetched_at": "2026-07-27T06:27:00+00:00",
+      "found": true,
+      "bios": 1,
       "images": 0
     }
   }
