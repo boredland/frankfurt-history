@@ -4,8 +4,8 @@
   "city_name": "Frankfurt am Main",
   "country": null,
   "coords": [
-    50.0975016,
-    8.6263789
+    50.0981408,
+    8.6259878
   ],
   "coords_source": "osm",
   "person": {
@@ -64,10 +64,10 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-08-03T06:19:23+00:00"
+      "fetched_at": "2026-08-10T04:29:48+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-08-03T06:19:25+00:00",
+      "fetched_at": "2026-08-10T04:29:49+00:00",
       "found": true
     }
   }
