@@ -18,7 +18,7 @@ so they are pulled forward ahead of the larger correctness work.
 | 001 | Establish a runnable verification baseline (pytest + typecheck) | P1 | M | — | DONE |
 | 002 | Constrain the Worker image proxy and R2 route to an allowlist | P1 | S | — | TODO |
 | 003 | Escape scraped content before it becomes article HTML | P1 | M | — | TODO |
-| 004 | Audit and report Stolpersteine record fragmentation | P1 | M | 001 | TODO |
+| 004 | Audit and report Stolpersteine record fragmentation | P1 | M | 001 | DONE |
 | 005 | Stop `clean_body` from silently deleting article content | P2 | M | 001 | TODO |
 
 Status values: TODO | IN PROGRESS | DONE | BLOCKED (with one-line reason) | REJECTED (with one-line rationale — finding fixed independently or approach abandoned)

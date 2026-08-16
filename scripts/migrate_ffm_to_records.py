@@ -30,6 +30,9 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from _slug import slugify  # noqa: E402  (needs the sys.path line above)
+
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 SCRAPED_DIR = DATA_DIR / "stolpersteine-scraped"
 WFS_PATH = DATA_DIR / "stolpersteine-ffm.json"
@@ -38,13 +41,6 @@ RECORDS_DIR = DATA_DIR / "stolpersteine-records" / "frankfurt-am-main"
 
 def log(msg: str) -> None:
     print(msg, flush=True)
-
-
-def slugify(text: str) -> str:
-    s = text.lower()
-    s = (s.replace("ä", "ae").replace("ö", "oe").replace("ü", "ue").replace("ß", "ss"))
-    s = re.sub(r"[^a-z0-9]+", "-", s)
-    return s.strip("-")
 
 
 def now_iso() -> str:
@@ -265,9 +261,16 @@ def pass2_create_wfs_records(scraped_by_loc_url: dict[str, dict]) -> int:
         if bios:
             with_bios += 1
 
-        (RECORDS_DIR / f"{slug}.json").write_text(
-            json.dumps(record, indent=2, ensure_ascii=False) + "\n"
-        )
+        out_path = RECORDS_DIR / f"{slug}.json"
+        if out_path.exists():
+            log(f"  COLLISION: {slug}.json already exists — writing {slug}-2.json instead")
+            candidate, n = slug, 2
+            while (RECORDS_DIR / f"{candidate}.json").exists():
+                candidate = f"{slug}-{n}"
+                n += 1
+            out_path = RECORDS_DIR / f"{candidate}.json"
+            record["id"] = f"frankfurt-am-main/{candidate}"
+        out_path.write_text(json.dumps(record, indent=2, ensure_ascii=False) + "\n")
         created += 1
 
     log(f"  Pass 2: created {created} WFS-derived location records "
