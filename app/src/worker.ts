@@ -72,12 +72,18 @@ async function handleR2(
 
   if (range) {
     if (!("range" in object)) {
-      return new Response("Range Not Satisfiable", { status: 416 });
+      return unsatisfiableRange(object.size);
     }
     const { offset, length } = object.range as {
       offset: number;
       length: number;
     };
+    // An offset at or past the end yields length 0, which would render as the
+    // nonsense header "bytes 500-499/100" on a 206. PMTiles readers treat that
+    // as a valid partial response and corrupt their index state.
+    if (length <= 0 || offset >= object.size) {
+      return unsatisfiableRange(object.size);
+    }
     headers.set("Content-Length", String(length));
     headers.set(
       "Content-Range",
@@ -120,7 +126,9 @@ async function handleImage(url: URL): Promise<Response> {
     return new Response("Bad Request", { status: 400 });
   }
 
-  if (!ALLOWED_IMAGE_HOSTS.has(origin.hostname)) {
+  // origin.port is "" for the default 443; anything else is a different service
+  // on an allowlisted name and is not what the allowlist vouched for.
+  if (!ALLOWED_IMAGE_HOSTS.has(origin.hostname) || origin.port !== "") {
     return new Response("Forbidden", { status: 403 });
   }
 
@@ -156,6 +164,16 @@ function clampInt(raw: string, min: number, max: number): number | undefined {
   const n = Number.parseInt(raw, 10);
   if (!Number.isFinite(n)) return undefined;
   return Math.min(Math.max(n, min), max);
+}
+
+function unsatisfiableRange(size: number): Response {
+  return new Response("Range Not Satisfiable", {
+    status: 416,
+    headers: {
+      "Content-Range": `bytes */${size}`,
+      "Access-Control-Allow-Origin": "*",
+    },
+  });
 }
 
 function corsResponse(): Response {
