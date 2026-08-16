@@ -73,6 +73,12 @@ def serialize_frontmatter(fm: dict[str, str], body: str) -> str:
     return "\n".join(lines) + "\n"
 
 
+def _has_readable_text(block: str) -> bool:
+    """True when a block contains text beyond HTML markup and punctuation."""
+    without_markup = re.sub(r'<[^>]+>', '', block)
+    return any(ch.isalnum() for ch in without_markup)
+
+
 def clean_body(body: str) -> str:
     """Join fragmented paragraphs and replace single newlines with spaces."""
     if not body:
@@ -213,18 +219,22 @@ def clean_body(body: str) -> str:
         else:
             final_blocks.append(block)            
 
-    # Final cleanup: strip very short fragments from the end of the blocks
+    # Final cleanup: drop trailing blocks that carry no readable text.
+    # Historical note: this rule used to delete ANY block under 30 chars that
+    # lacked terminal punctuation, which silently removed real content such as
+    # venue names ("Städtische Bühnen"), addresses ("Leverkuser Straße 9") and
+    # research credits ("Recherche: Jutta Zwilling"). It is now restricted to
+    # blocks that are empty once markup is stripped.
     cleaned_final = []
-    for i, block in enumerate(final_blocks):
+    dropped_blocks: list[str] = []
+    for block in final_blocks:
         is_structural = block.startswith('#') or block.startswith('-') or '![' in block
-        # Aggressively strip short fragments that don't end in punctuation
-        if not is_structural and len(block) < 30 and not block.endswith('.') and not block.endswith(':') and ': ' not in block:
-            # Check if it's followed by a structural element or it's the last block
-            is_last = i == len(final_blocks) - 1
-            next_is_structural = not is_last and (final_blocks[i+1].startswith('#') or '![' in final_blocks[i+1])
-            if is_last or next_is_structural:
-                continue 
+        if not is_structural and not _has_readable_text(block):
+            dropped_blocks.append(block)
+            continue
         cleaned_final.append(block)
+    if dropped_blocks:
+        print(f"    clean_body: dropped {len(dropped_blocks)} markup-only block(s)")
 
     # Rename "## Links" to "## Sources" for consistent UI
     content = "\n\n".join(cleaned_final)

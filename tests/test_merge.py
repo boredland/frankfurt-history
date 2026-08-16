@@ -56,18 +56,47 @@ def test_clean_body_preserves_normal_paragraph(merge_mod):
     assert "vollstaendiger Absatz" in merge_mod.clean_body(body)
 
 
-def test_clean_body_drops_short_final_fragment_KNOWN_DEFECT(merge_mod):
-    # KNOWN DEFECT (plan 005): a short standalone line before an image or at the
-    # end of the body is deleted. Verified against real content:
-    # data/de/frankfurt-stories/2205-hauptwache.md loses "Frankfurter Mobilitätsorte".
+def test_clean_body_keeps_short_content_line_before_image(merge_mod):
+    # Regression: this line used to be silently deleted.
+    # Real case: data/de/frankfurt-stories/2205-hauptwache.md
     body = (
         "# Hauptwache\n\n"
         "*An der Hauptwache*\n\n"
         "Frankfurter Mobilitätsorte\n\n"
         "![Bild](../../images/x.jpg)\n"
     )
+    assert "Frankfurter Mobilitätsorte" in merge_mod.clean_body(body)
+
+
+def test_clean_body_keeps_short_trailing_venue_name(merge_mod):
+    # Real case: data/de/feministisches-frankfurt/2163-aleida-montijn-1908-1989.md
+    body = "Ein ausreichend langer Absatz als Kontext hier.\n\nStädtische Bühnen\n"
+    assert "Städtische Bühnen" in merge_mod.clean_body(body)
+
+
+def test_clean_body_keeps_short_trailing_address(merge_mod):
+    # Real case: data/de/frankfurt-und-der-ns/2217-wohnhaus-der-familie-levi.md
+    body = "Ein ausreichend langer Absatz als Kontext hier.\n\nLeverkuser Straße 9\n"
+    assert "Leverkuser Straße 9" in merge_mod.clean_body(body)
+
+
+def test_clean_body_keeps_research_credit(merge_mod):
+    # Real case: data/de/frankfurt-und-der-ns/1714-geraubter-ort.md
+    body = "Ein ausreichend langer Absatz als Kontext hier.\n\nRecherche: Jutta Zwilling\n"
+    assert "Jutta Zwilling" in merge_mod.clean_body(body)
+
+
+def test_clean_body_keeps_non_latin1_names(merge_mod):
+    """Victim and place names are not only German: Ł, Š, Ć, Ž must survive."""
+    body = "Ein ausreichend langer Absatz als Kontext hier.\n\nŁódź\n"
+    assert "Łódź" in merge_mod.clean_body(body)
+
+
+def test_clean_body_drops_whitespace_only_block(merge_mod):
+    body = "Ein ausreichend langer Absatz als Kontext hier.\n\n   \n"
     out = merge_mod.clean_body(body)
-    assert "Frankfurter Mobilitätsorte" not in out
+    assert "Absatz" in out
+    assert out.strip().endswith("hier.")
 
 
 def test_clean_body_renames_links_heading_to_sources(merge_mod):
