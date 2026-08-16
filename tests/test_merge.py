@@ -99,6 +99,48 @@ def test_clean_body_drops_whitespace_only_block(merge_mod):
     assert out.strip().endswith("hier.")
 
 
+def test_clean_body_still_drops_markup_only_blocks(merge_mod):
+    """The negative case: the narrowed rule must still remove real junk.
+
+    Without this, a regression that simply deleted the rule would pass every
+    other test in this file.
+    """
+    body = (
+        "Ein ausreichend langer Absatz als Kontext hier.\n\n"
+        "<br/>\n\n"
+        "Ein zweiter ausreichend langer Absatz als Kontext.\n"
+    )
+    out = merge_mod.clean_body(body)
+    assert "<br/>" not in out
+    assert "Absatz als Kontext hier" in out
+
+
+def test_clean_body_drops_entity_only_block(merge_mod):
+    """&nbsp; has an alphanumeric entity NAME; it must still count as empty.
+
+    Asserted in trailing position. An entity block sandwiched between two
+    paragraphs is absorbed earlier by the paragraph-joining heuristic
+    (scripts/merge.py:204-219) and never reaches the readable-text rule — a
+    pre-existing behaviour of that heuristic, out of scope for this change.
+    """
+    body = "Ein ausreichend langer Absatz als Kontext hier.\n\n&nbsp;\n"
+    out = merge_mod.clean_body(body)
+    assert "&nbsp;" not in out
+    assert "Absatz als Kontext hier" in out
+
+
+def test_has_readable_text_unit(merge_mod):
+    """Direct unit coverage of the predicate, independent of the surrounding
+    heuristics that may consume a block before it is reached."""
+    assert merge_mod._has_readable_text("Städtische Bühnen")
+    assert merge_mod._has_readable_text("Łódź")
+    assert merge_mod._has_readable_text('<span class="tab2">K</span>')
+    assert not merge_mod._has_readable_text("   ")
+    assert not merge_mod._has_readable_text("<br/>")
+    assert not merge_mod._has_readable_text("&nbsp;")
+    assert not merge_mod._has_readable_text("<p>&nbsp;</p>")
+
+
 def test_clean_body_renames_links_heading_to_sources(merge_mod):
     body = "Ein ausreichend langer Absatz als Kontext hier.\n\n## Links\n"
     assert "## Sources" in merge_mod.clean_body(body)

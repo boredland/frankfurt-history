@@ -14,6 +14,7 @@ For each locale (de, en):
 Also handles the flat layout fallback (data/<theme>/ without lang prefix).
 """
 
+import html
 import os
 import re
 import shutil
@@ -74,8 +75,12 @@ def serialize_frontmatter(fm: dict[str, str], body: str) -> str:
 
 
 def _has_readable_text(block: str) -> bool:
-    """True when a block contains text beyond HTML markup and punctuation."""
-    without_markup = re.sub(r'<[^>]+>', '', block)
+    """True when a block contains text beyond HTML markup and punctuation.
+
+    Entities are unescaped first so a block of only ``&nbsp;`` (whose entity
+    *name* is alphanumeric) is correctly seen as empty.
+    """
+    without_markup = html.unescape(re.sub(r'<[^>]+>', '', block))
     return any(ch.isalnum() for ch in without_markup)
 
 
@@ -219,7 +224,7 @@ def clean_body(body: str) -> str:
         else:
             final_blocks.append(block)            
 
-    # Final cleanup: drop trailing blocks that carry no readable text.
+    # Final cleanup: drop blocks that carry no readable text, wherever they sit.
     # Historical note: this rule used to delete ANY block under 30 chars that
     # lacked terminal punctuation, which silently removed real content such as
     # venue names ("Städtische Bühnen"), addresses ("Leverkuser Straße 9") and
@@ -242,13 +247,13 @@ def clean_body(body: str) -> str:
     return content
 
 def merge_file(base_path: Path, override_path: Path | None) -> str:
-    base_text = base_path.read_text() if base_path.exists() else ""
+    base_text = base_path.read_text(encoding="utf-8") if base_path.exists() else ""
     if not override_path or not override_path.exists():
         # Even if no override, we might want to clean the base body
         base_fm, base_body = parse_frontmatter(base_text)
         return serialize_frontmatter(base_fm, clean_body(base_body))
 
-    override_text = override_path.read_text()
+    override_text = override_path.read_text(encoding="utf-8")
     base_fm, base_body = parse_frontmatter(base_text)
     override_fm, override_body = parse_frontmatter(override_text)
 
@@ -312,22 +317,24 @@ def merge_lang(lang: str):
             # For non-DE langs, apply structural DE overrides if no lang-specific override
             if not override and de_override_theme and (de_override_theme / filename).exists():
                 de_override = de_override_theme / filename
-                de_fm, _ = parse_frontmatter(de_override.read_text())
+                de_fm, _ = parse_frontmatter(de_override.read_text(encoding="utf-8"))
                 structural_only = {k: v for k, v in de_fm.items() if k in STRUCTURAL_FIELDS}
                 if structural_only and base.exists():
-                    base_fm, base_body = parse_frontmatter(base.read_text())
+                    base_fm, base_body = parse_frontmatter(base.read_text(encoding="utf-8"))
                     for k, v in structural_only.items():
                         if v == "null":
                             base_fm.pop(k, None)
                         else:
                             base_fm[k] = v
-                    (dest / filename).write_text(serialize_frontmatter(base_fm, base_body))
+                    (dest / filename).write_text(
+                        serialize_frontmatter(base_fm, base_body), encoding="utf-8"
+                    )
                     total += 1
                     continue
 
             merged = merge_file(base, override)
             if merged:
-                (dest / filename).write_text(merged)
+                (dest / filename).write_text(merged, encoding="utf-8")
                 total += 1
 
     print(f"  {lang}: {total} files")
@@ -358,7 +365,7 @@ def main():
                 override = (override_theme / md.name) if override_theme and (override_theme / md.name).exists() else None
                 merged = merge_file(md, override)
                 if merged:
-                    (dest / md.name).write_text(merged)
+                    (dest / md.name).write_text(merged, encoding="utf-8")
                     count += 1
             print(f"  flat/{theme_dir.name}: {count} files")
 
