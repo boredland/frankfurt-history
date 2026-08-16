@@ -2,6 +2,19 @@ interface Env {
   ASSETS: R2Bucket;
 }
 
+/** Hosts the image proxy is permitted to fetch from. */
+const ALLOWED_IMAGE_HOSTS = new Set([
+  "pub-d6ff75a2458a49e5b81457a2e7841032.r2.dev",
+  "frankfurt.de",
+  "www.frankfurt.de",
+]);
+
+/** R2 key prefixes the /r2/ route is permitted to serve (must end in "/"). */
+const ALLOWED_R2_PREFIXES = ["images/"];
+
+/** Exact R2 object keys the /r2/ route is permitted to serve. */
+const ALLOWED_R2_KEYS = new Set(["frankfurt.pmtiles"]);
+
 export default {
   async fetch(request: Request, env: Env): Promise<Response> {
     const url = new URL(request.url);
@@ -27,9 +40,20 @@ async function handleR2(
     return corsResponse();
   }
 
+  const keyAllowed =
+    ALLOWED_R2_KEYS.has(key) ||
+    ALLOWED_R2_PREFIXES.some((prefix) => key.startsWith(prefix));
+  if (!keyAllowed) {
+    return new Response("Forbidden", { status: 403 });
+  }
+
   const rangeHeader = request.headers.get("Range");
-  const object = rangeHeader
-    ? await env.ASSETS.get(key, { range: parseRange(rangeHeader) })
+  const range = rangeHeader ? parseRange(rangeHeader) : null;
+  if (rangeHeader && range === null) {
+    return new Response("Range Not Satisfiable", { status: 416 });
+  }
+  const object = range
+    ? await env.ASSETS.get(key, { range })
     : await env.ASSETS.get(key);
 
   if (!object) {
@@ -46,7 +70,10 @@ async function handleR2(
   headers.set("Access-Control-Allow-Origin", "*");
   headers.set("Access-Control-Allow-Headers", "Range");
 
-  if (rangeHeader && "range" in object) {
+  if (range) {
+    if (!("range" in object)) {
+      return new Response("Range Not Satisfiable", { status: 416 });
+    }
     const { offset, length } = object.range as {
       offset: number;
       length: number;
@@ -63,16 +90,15 @@ async function handleR2(
   return new Response(object.body, { status: 200, headers });
 }
 
-function parseRange(header: string): R2Range {
-  const match = header.match(/bytes=(\d+)-(\d*)/);
-  if (!match) return { offset: 0 };
-  const start = match[1] ?? "0";
-  const offset = Number.parseInt(start, 10);
-  const end = match[2] ? Number.parseInt(match[2], 10) : undefined;
-  if (end !== undefined) {
-    return { offset, length: end - offset + 1 };
-  }
-  return { offset };
+function parseRange(header: string): R2Range | null {
+  const match = header.match(/^bytes=(\d+)-(\d*)$/);
+  if (!match) return null;
+  const offset = Number.parseInt(match[1] ?? "0", 10);
+  if (!Number.isFinite(offset)) return null;
+  if (!match[2]) return { offset };
+  const end = Number.parseInt(match[2], 10);
+  if (!Number.isFinite(end) || end < offset) return null;
+  return { offset, length: end - offset + 1 };
 }
 
 async function handleImage(url: URL): Promise<Response> {
@@ -83,8 +109,19 @@ async function handleImage(url: URL): Promise<Response> {
   const params = rest.slice(0, slashIdx);
   const originUrl = rest.slice(slashIdx + 1);
 
-  if (!originUrl.startsWith("http")) {
+  let origin: URL;
+  try {
+    origin = new URL(originUrl);
+  } catch {
     return new Response("Bad Request", { status: 400 });
+  }
+
+  if (origin.protocol !== "https:") {
+    return new Response("Bad Request", { status: 400 });
+  }
+
+  if (!ALLOWED_IMAGE_HOSTS.has(origin.hostname)) {
+    return new Response("Forbidden", { status: 403 });
   }
 
   const cfImage: Record<string, unknown> = {};
@@ -95,16 +132,16 @@ async function handleImage(url: URL): Promise<Response> {
     const v = pair.slice(eqIdx + 1);
     switch (k) {
       case "w":
-        cfImage.width = Number.parseInt(v, 10);
+        cfImage.width = clampInt(v, 1, 4000);
         break;
       case "h":
-        cfImage.height = Number.parseInt(v, 10);
+        cfImage.height = clampInt(v, 1, 4000);
         break;
       case "f":
         if (v !== "auto") cfImage.format = v;
         break;
       case "q":
-        cfImage.quality = Number.parseInt(v, 10);
+        cfImage.quality = clampInt(v, 1, 100);
         break;
       case "fit":
         cfImage.fit = v;
@@ -112,7 +149,13 @@ async function handleImage(url: URL): Promise<Response> {
     }
   }
 
-  return fetch(originUrl, { cf: { image: cfImage } });
+  return fetch(origin.toString(), { cf: { image: cfImage } });
+}
+
+function clampInt(raw: string, min: number, max: number): number | undefined {
+  const n = Number.parseInt(raw, 10);
+  if (!Number.isFinite(n)) return undefined;
+  return Math.min(Math.max(n, min), max);
 }
 
 function corsResponse(): Response {
