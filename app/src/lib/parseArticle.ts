@@ -22,21 +22,42 @@ function escapeHtml(text: string): string {
   return text.replace(/[&<>"']/g, (ch) => HTML_ESCAPES[ch] ?? ch);
 }
 
-const SAFE_URL_SCHEMES = ["http://", "https://", "mailto:"];
+const SAFE_URL_PROTOCOLS = new Set(["http:", "https:", "mailto:"]);
 
-/** Returns the href if it uses a safe scheme or is a relative path, else null. */
+/**
+ * Returns the href if it resolves to a safe absolute URL or stays on this
+ * origin, else null.
+ *
+ * Resolution is delegated to the URL parser rather than string prefixes: a
+ * browser normalises backslashes to slashes, so "/\evil.example" is a
+ * protocol-relative URL pointing off-site even though it starts with a single
+ * "/". Checking the resolved origin catches that; a startsWith("//") test does
+ * not.
+ */
 function safeHref(href: string): string | null {
+  // Already HTML-escaped upstream; resolve against the unescaped form, but
+  // return the escaped one — it is interpolated into an attribute.
   const trimmed = href.trim();
   if (!trimmed) return null;
-  // Already HTML-escaped upstream; compare on the unescaped form.
-  const probe = trimmed.replace(/&amp;/g, "&").toLowerCase();
-  // "//host" is protocol-relative and resolves to an arbitrary third-party
-  // origin — it must NOT be treated as a same-site relative path.
-  if (probe.startsWith("//")) return null;
-  if (probe.startsWith("/") || probe.startsWith("#")) return trimmed;
-  if (SAFE_URL_SCHEMES.some((scheme) => probe.startsWith(scheme)))
-    return trimmed;
-  return null;
+  const probe = trimmed.replace(/&amp;/g, "&");
+
+  const BASE_ORIGIN = "https://frankfurt-history.invalid";
+  let resolved: URL;
+  try {
+    resolved = new URL(probe, `${BASE_ORIGIN}/article/`);
+  } catch {
+    return null;
+  }
+  if (!SAFE_URL_PROTOCOLS.has(resolved.protocol)) return null;
+
+  // Absolute http(s)/mailto URLs that name their own host are fine.
+  const namesOwnHost = /^(?:https?:|mailto:)/i.test(probe);
+  if (namesOwnHost) return trimmed;
+
+  // Otherwise the input was relative. It is only safe if it stayed on the
+  // synthetic base origin — "//evil.example" and "/\evil.example" both escape
+  // it, which is exactly what a string-prefix check fails to notice.
+  return resolved.origin === BASE_ORIGIN ? trimmed : null;
 }
 
 function markdownBlockToHtml(md: string): string {
