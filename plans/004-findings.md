@@ -9,20 +9,23 @@ Produced by executing `plans/004-record-identity-audit.md` against commit
 
 ```
 records:                            2868
+corrupt files (skipped):            0
 anonymous (person.name is null):    528
 biographies stranded on anonymous:  521
 records without coordinates:        360
-addresses split anon+named:         467
+addresses split anon+named:         468
 ```
 
 **Correction to the plan's expected numbers.** The plan predicted
-`addresses split anon+named: 463`. The real figure is **467**. The plan's
+`addresses split anon+named: 463`. The real figure is **468**. The plan's
 estimate came from an ad-hoc key of raw lowercased street + raw house number;
 `check_records.py` keys on the *slugified* address, which correctly merges
 spelling variants of the same street that the raw key kept apart. Verified by
-computing both keys over the same data: raw → 463, slugified → 467. The checker
-is the more accurate of the two; 467 is the number to work from. Every other
-predicted value (2868 / 528 / 521 / 360) matched exactly.
+computing both keys over the same data: raw → 463, slugified → 467. A further
+address (`Loënstraße 9`) joined the count once `ë` was folded correctly (see
+below), giving **468**. The checker is the more accurate of the three; 468 is the
+number to work from. Every other predicted value (2868 / 528 / 521 / 360)
+matched exactly.
 
 ## Shape of the fragmentation
 
@@ -45,10 +48,12 @@ anonymous and at least one is named):
 | 13 | 1 |
 | 22 | 1 |
 
-**No address holds more than one anonymous record** (verified: 0 of 467). This
-is the single most useful fact for the merge follow-up — the anonymous
-location-level record is always unique per address, so the merge is
-one-anonymous-to-many-named, never many-to-many.
+**No address holds more than one anonymous record.** Verified across the *whole*
+dataset, not just the split groups: zero addresses have two or more anonymous
+records, whether or not a named record exists there. This is the single most
+useful fact for the merge follow-up — the anonymous location-level record is
+always unique per address, so the merge is one-anonymous-to-many-named, never
+many-to-many.
 
 Full machine-readable detail: `uv run scripts/check_records.py --json`.
 
@@ -59,17 +64,35 @@ After pointing `scripts/migrate_ffm_to_records.py` at `scripts/_slug.py`, only
 now generate:
 
 ```
-1 records whose filename disagrees with the unified slug
+2 records whose filename disagrees with the unified slug
    linn-strasse-27.json -> linnestrasse-27
+   lo-nstrasse-9.json   -> loenstrasse-9
 ```
+
+The second was found only after adversarial review of this commit: the first
+version of `scripts/_slug.py` carried a hand-written fold table that had no
+entry for `ë`, so `Loënstraße` slugified to the mangled `lo-nstrasse` — the
+letter was dropped, not folded. `slugify` now normalises with NFC, expands the
+German umlauts to digraphs, then strips remaining diacritics via NFKD, which
+covers `ë`, `ł`, `š`, `ž`, `ć`, `ø` and the rest of the Latin range without an
+ever-growing table. `tests/test_slug.py` asserts equivalence with
+`fetch_osm_stolpersteine.py` across **all 3,011** distinct street, house-number,
+district and person strings in the archive, with `Loënstraße` as the single
+documented divergence.
+
+`lo-nstrasse-9.json` holds 1 biography with `person.name: null`, while
+`loenstrasse-9-alice-bendheim.json` and `loenstrasse-9-emmy-bendheim.json` hold
+the names — the same split-record pattern as Linnéstraße 27.
 
 This is the case that motivated the plan. `linn-strasse-27.json` currently holds
 1 biography and 3 images with `person.name: null`, while
 `linnestrasse-27-wilhelm-adam-hugo.json` holds the victim's name and zero
 biographies — one physical stone, split across two files by a slug divergence.
 
-The blast radius of the slug unification is therefore **one filename**, not
-hundreds. That was the main open risk when the plan was written and it is now
+The blast radius of the slug unification is therefore **two filenames**, not
+hundreds. Verified separately that the new `slugify` still reproduces every
+other committed filename once the `marker_type` prefix and the `-2` dedup
+suffix are accounted for (0 unexplained of 2,868). That was the main open risk when the plan was written and it is now
 closed.
 
 ## Idempotence
@@ -98,11 +121,11 @@ pristine (`git status --porcelain data/` → empty, 2868 files).
 
 Scope, in the order I would do it:
 
-1. **Rename the single divergent file.** `linn-strasse-27.json` →
-   `linnestrasse-27.json`. Trivial, and it stops the next cron creating a third
-   record for that stone.
+1. **Rename the two divergent files.** `linn-strasse-27.json` →
+   `linnestrasse-27.json` and `lo-nstrasse-9.json` → `loenstrasse-9.json`.
+   Trivial, and it stops the next cron creating a third record for those stones.
 2. **Merge anonymous location records into their named siblings.** For each of
-   the 467 split addresses: move `biographies` and `images` from the anonymous
+   the 468 split addresses: move `biographies` and `images` from the anonymous
    record onto the named records at that address, then delete the anonymous
    record. Because no address has more than one anonymous record, the source is
    always unambiguous.

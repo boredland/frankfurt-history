@@ -37,8 +37,9 @@ def test_load_records_reads_city_dir(tmp_path, monkeypatch):
         json.dumps(_record("Anna Muster", "Teststraße", "1")), encoding="utf-8"
     )
     monkeypatch.setattr(check, "RECORDS_DIR", tmp_path)
-    records = check.load_records("testcity")
+    records, corrupt = check.load_records("testcity")
     assert len(records) == 1
+    assert corrupt == 0
     assert records[0][1]["person"]["name"] == "Anna Muster"
 
 
@@ -50,9 +51,13 @@ def test_load_records_survives_corrupt_json(tmp_path, monkeypatch, capsys):
         json.dumps(_record("Anna Muster", "Teststraße", "1")), encoding="utf-8"
     )
     monkeypatch.setattr(check, "RECORDS_DIR", tmp_path)
-    records = check.load_records("testcity")
+    records, corrupt = check.load_records("testcity")
     assert len(records) == 1
-    assert "CORRUPT" in capsys.readouterr().out
+    assert corrupt == 1
+    # Diagnostics must go to stderr so --json stays parseable on stdout.
+    captured = capsys.readouterr()
+    assert "CORRUPT" in captured.err
+    assert "CORRUPT" not in captured.out
 
 
 def test_main_exits_nonzero_when_location_is_split(tmp_path, monkeypatch, capsys):
@@ -82,3 +87,51 @@ def test_main_exits_zero_when_clean(tmp_path, monkeypatch):
     monkeypatch.setattr(check, "RECORDS_DIR", tmp_path)
     monkeypatch.setattr("sys.argv", ["check_records.py", "--city", "testcity"])
     assert check.main() == 0
+
+
+def test_main_exits_nonzero_on_corrupt_file(tmp_path, monkeypatch):
+    """A corrupt record must fail the gate, not be silently skipped."""
+    city = tmp_path / "testcity"
+    city.mkdir()
+    (city / "bad.json").write_text("{not json", encoding="utf-8")
+    (city / "good.json").write_text(
+        json.dumps(_record("Anna Muster", "Teststraße", "1")), encoding="utf-8"
+    )
+    monkeypatch.setattr(check, "RECORDS_DIR", tmp_path)
+    monkeypatch.setattr("sys.argv", ["check_records.py", "--city", "testcity"])
+    assert check.main() == 1
+
+
+def test_main_exits_nonzero_when_records_dir_missing(tmp_path, monkeypatch):
+    """An empty or wrong path must fail loudly, not report a clean archive."""
+    monkeypatch.setattr(check, "RECORDS_DIR", tmp_path / "nope")
+    monkeypatch.setattr("sys.argv", ["check_records.py"])
+    assert check.main() == 1
+
+
+def test_main_exits_nonzero_when_no_records_found(tmp_path, monkeypatch):
+    city = tmp_path / "emptycity"
+    city.mkdir()
+    monkeypatch.setattr(check, "RECORDS_DIR", tmp_path)
+    monkeypatch.setattr("sys.argv", ["check_records.py", "--city", "emptycity"])
+    assert check.main() == 1
+
+
+def test_json_output_is_parseable_despite_corrupt_file(tmp_path, monkeypatch, capsys):
+    """--json must emit valid JSON on stdout even when diagnostics are printed."""
+    city = tmp_path / "testcity"
+    city.mkdir()
+    (city / "bad.json").write_text("{not json", encoding="utf-8")
+    (city / "anon.json").write_text(
+        json.dumps(_record(None, "Teststraße", "1", bios=1)), encoding="utf-8"
+    )
+    (city / "named.json").write_text(
+        json.dumps(_record("Anna Muster", "Teststraße", "1")), encoding="utf-8"
+    )
+    monkeypatch.setattr(check, "RECORDS_DIR", tmp_path)
+    monkeypatch.setattr("sys.argv", ["check_records.py", "--city", "testcity", "--json"])
+    check.main()
+    payload = json.loads(capsys.readouterr().out)
+    assert payload["corrupt_files"] == 1
+    assert payload["split_locations"] == 1
+

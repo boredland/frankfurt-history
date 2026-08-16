@@ -21,15 +21,25 @@ DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 RECORDS_DIR = DATA_DIR / "stolpersteine-records"
 
 
-def load_records(city: str | None) -> list[tuple[Path, dict]]:
+def load_records(city: str | None) -> tuple[list[tuple[Path, dict]], int]:
+    """Return (records, corrupt_count). Diagnostics go to stderr, never stdout,
+    so --json output stays machine-parseable."""
     pattern = f"{city}/*.json" if city else "*/*.json"
     out: list[tuple[Path, dict]] = []
+    corrupt = 0
     for path in sorted(RECORDS_DIR.glob(pattern)):
         try:
-            out.append((path, json.loads(path.read_text(encoding="utf-8"))))
+            payload = json.loads(path.read_text(encoding="utf-8"))
         except json.JSONDecodeError as exc:
-            print(f"  CORRUPT {path}: {exc}")
-    return out
+            print(f"  CORRUPT {path}: {exc}", file=sys.stderr)
+            corrupt += 1
+            continue
+        if not isinstance(payload, dict):
+            print(f"  CORRUPT {path}: expected a JSON object", file=sys.stderr)
+            corrupt += 1
+            continue
+        out.append((path, payload))
+    return out, corrupt
 
 
 def addr_key(record: dict) -> tuple[str, str]:
@@ -43,7 +53,14 @@ def main() -> int:
     parser.add_argument("--json", action="store_true", help="emit a JSON report")
     args = parser.parse_args()
 
-    records = load_records(args.city)
+    if not RECORDS_DIR.is_dir():
+        print(f"ERROR: {RECORDS_DIR} does not exist", file=sys.stderr)
+        return 1
+
+    records, corrupt = load_records(args.city)
+    if not records:
+        print("ERROR: no records found — wrong path, or the archive is missing", file=sys.stderr)
+        return 1
     by_address: dict[tuple[str, str], list[tuple[Path, dict]]] = collections.defaultdict(list)
     for path, record in records:
         by_address[addr_key(record)].append((path, record))
@@ -63,6 +80,7 @@ def main() -> int:
 
     report = {
         "records": len(records),
+        "corrupt_files": corrupt,
         "anonymous_records": len(anonymous),
         "biographies_on_anonymous_records": sum(
             len(r.get("biographies") or []) for _, r in orphan_bios
@@ -75,6 +93,7 @@ def main() -> int:
         print(json.dumps({**report, "details": split_locations}, ensure_ascii=False, indent=2))
     else:
         print(f"records:                            {report['records']}")
+        print(f"corrupt files (skipped):            {report['corrupt_files']}")
         print(f"anonymous (person.name is null):    {report['anonymous_records']}")
         print(f"biographies stranded on anonymous:  {report['biographies_on_anonymous_records']}")
         print(f"records without coordinates:        {report['records_without_coords']}")
@@ -84,7 +103,7 @@ def main() -> int:
         if len(split_locations) > 20:
             print(f"  ... and {len(split_locations) - 20} more")
 
-    return 1 if split_locations else 0
+    return 1 if (split_locations or corrupt) else 0
 
 
 if __name__ == "__main__":

@@ -261,13 +261,17 @@ def pass2_create_wfs_records(scraped_by_loc_url: dict[str, dict]) -> int:
         if bios:
             with_bios += 1
 
+        if not slug:
+            log(f"  SKIP: empty slug for address {street!r} {house!r} — refusing to write .json")
+            skipped += 1
+            continue
         out_path = RECORDS_DIR / f"{slug}.json"
         if out_path.exists():
-            log(f"  COLLISION: {slug}.json already exists — writing {slug}-2.json instead")
             candidate, n = slug, 2
             while (RECORDS_DIR / f"{candidate}.json").exists():
                 candidate = f"{slug}-{n}"
                 n += 1
+            log(f"  COLLISION: {slug}.json already exists — writing {candidate}.json instead")
             out_path = RECORDS_DIR / f"{candidate}.json"
             record["id"] = f"frankfurt-am-main/{candidate}"
         out_path.write_text(json.dumps(record, indent=2, ensure_ascii=False) + "\n")
