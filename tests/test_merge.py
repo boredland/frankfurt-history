@@ -1,8 +1,14 @@
 """Characterization tests for scripts/merge.py.
 
-These pin CURRENT behaviour, including known defects. A test marked
-KNOWN DEFECT documents behaviour that plan 005 will deliberately change; when
-that plan lands, the assertion is expected to be updated, not deleted.
+These pin CURRENT behaviour, including known defects.
+
+A test whose name ends in KNOWN_DEFECT asserts behaviour that is WRONG and will
+be deliberately changed by a follow-up commit. They use positive assertions
+rather than `@pytest.mark.xfail` on purpose: xfail would let the behaviour
+change in *either* direction without anyone noticing, whereas a positive
+assertion fails loudly the moment the defect is fixed — which is exactly the
+signal the follow-up needs. When that commit lands, invert the assertion and
+drop the KNOWN_DEFECT suffix; do not delete the test.
 """
 
 
@@ -128,3 +134,51 @@ def test_merge_file_override_only_no_base_file(merge_mod, tmp_path):
 
     out = merge_mod.merge_file(missing, override)
     assert '"Nur Override"' in out
+
+
+def test_de_structural_override_applies_to_en_but_skips_clean_body_KNOWN_DEFECT(
+    merge_mod, tmp_path, monkeypatch
+):
+    """PLAN.md: DE structural fields (coordinates/categories/filters/id) apply to
+    EN when no EN-specific override exists.
+
+    KNOWN DEFECT pinned here: that code path at scripts/merge.py:314 writes
+    `base_body` directly via serialize_frontmatter(), bypassing clean_body(),
+    while every other path cleans the body. An EN article reached through a DE
+    structural override therefore keeps its duplicated H1 title and subtitle
+    that every other article has stripped.
+    """
+    data = tmp_path / "data"
+    overrides = tmp_path / "overrides"
+    content = tmp_path / "content"
+    for lang in ("de", "en"):
+        (data / lang / "theme").mkdir(parents=True)
+    (overrides / "de" / "theme").mkdir(parents=True)
+
+    body = "# Titel\n\n*Untertitel*\n\nEin ausreichend langer Absatz als Inhalt.\n"
+    for lang in ("de", "en"):
+        (data / lang / "theme" / "0001-x.md").write_text(
+            f'---\nid: 1\ntitle: "Titel"\ncoordinates: [1.0, 2.0]\n---\n\n{body}',
+            encoding="utf-8",
+        )
+    (overrides / "de" / "theme" / "0001-x.md").write_text(
+        "---\ncoordinates: [50.1105, 8.6821]\n---\n", encoding="utf-8"
+    )
+
+    monkeypatch.setattr(merge_mod, "DATA_DIR", data)
+    monkeypatch.setattr(merge_mod, "OVERRIDES_DIR", overrides)
+    monkeypatch.setattr(merge_mod, "CONTENT_DIR", content)
+    merge_mod.merge_lang("de")
+    merge_mod.merge_lang("en")
+
+    de_out = (content / "de" / "theme" / "0001-x.md").read_text(encoding="utf-8")
+    en_out = (content / "en" / "theme" / "0001-x.md").read_text(encoding="utf-8")
+
+    # The structural override reached both locales.
+    assert "50.1105" in de_out
+    assert "50.1105" in en_out
+
+    # DE went through clean_body; EN did not.
+    assert "# Titel" not in de_out
+    assert "# Titel" in en_out
+

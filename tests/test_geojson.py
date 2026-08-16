@@ -1,4 +1,8 @@
-"""Characterization tests for scripts/geojson.py frontmatter and coordinate handling."""
+"""Characterization tests for scripts/geojson.py frontmatter and coordinate handling.
+
+Tests whose name ends in KNOWN_DEFECT pin behaviour that is wrong and should be
+fixed later; see the convention note in tests/test_merge.py.
+"""
 
 
 def _write_poi(tmp_path, name, frontmatter):
@@ -63,6 +67,33 @@ def test_bbox_keeps_frankfurt_centre_poi(geojson_mod, tmp_path):
     _write_poi(theme, "0001-mitte.md", 'id: 1\ntitle: "Mitte"\ncoordinates: [50.1105, 8.6821]')
     _meta, gj = geojson_mod.build_theme(theme)
     assert [f["properties"]["slug"] for f in gj["features"]] == ["0001-mitte"]
+
+
+def test_geometry_coordinates_are_lng_lat_not_lat_lng(geojson_mod, tmp_path):
+    """Frontmatter stores [lat, lng]; GeoJSON geometry requires [lng, lat].
+
+    Silently swapping these is the classic GIS regression: every POI would land
+    in the Indian Ocean while every other assertion still passed.
+    """
+    theme = _write_theme(tmp_path)
+    _write_poi(theme, "0001-mitte.md", 'id: 1\ntitle: "Mitte"\ncoordinates: [50.1105, 8.6821]')
+    _meta, gj = geojson_mod.build_theme(theme)
+    assert gj["features"][0]["geometry"]["coordinates"] == [8.6821, 50.1105]
+
+
+def test_non_numeric_coordinates_crash_build_theme_KNOWN_DEFECT(geojson_mod, tmp_path):
+    """KNOWN DEFECT: parse_frontmatter falls back to strings for unparseable
+    coordinates, and build_theme then compares str to float.
+
+    A malformed upstream coordinate therefore aborts the whole theme build
+    rather than skipping one POI. Pinned here so a future fix is deliberate.
+    """
+    import pytest
+
+    theme = _write_theme(tmp_path)
+    _write_poi(theme, "0002-bad.md", 'id: 2\ntitle: "Bad"\ncoordinates: ["nord", "ost"]')
+    with pytest.raises(TypeError):
+        geojson_mod.build_theme(theme)
 
 
 def test_bbox_rejects_utm_style_bad_coordinate(geojson_mod, tmp_path, capsys):
