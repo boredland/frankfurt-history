@@ -3,9 +3,29 @@ name: Validate Data
 on:
   push:
     branches: [main]
-    paths: [data/**, overrides/**, content/**]
+    paths:
+      [
+        data/**,
+        overrides/**,
+        content/**,
+        scripts/**,
+        app/**,
+        archive.py,
+        tests/**,
+        pyproject.toml,
+      ]
   pull_request:
-    paths: [data/**, overrides/**, content/**]
+    paths:
+      [
+        data/**,
+        overrides/**,
+        content/**,
+        scripts/**,
+        app/**,
+        archive.py,
+        tests/**,
+        pyproject.toml,
+      ]
 
 jobs:
   check-coordinates:
@@ -54,3 +74,29 @@ jobs:
           else:
               print(f'All POI coordinates within bounding box.')
           "
+
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: astral-sh/setup-uv@v8.2.0
+
+      - name: Run Python tests
+        run: uv run pytest -q
+
+  app-check:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: app
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: oven-sh/setup-bun@v2
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Typecheck and lint
+        run: bun run check
