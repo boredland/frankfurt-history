@@ -10,8 +10,43 @@ export type ArticleSection =
   | { type: "before-after"; before: ImageRef; after: ImageRef }
   | { type: "timeline"; images: ImageRef[] };
 
+const HTML_ESCAPES: Record<string, string> = {
+  "&": "&amp;",
+  "<": "&lt;",
+  ">": "&gt;",
+  '"': "&quot;",
+  "'": "&#39;",
+};
+
+function escapeHtml(text: string): string {
+  return text.replace(/[&<>"']/g, (ch) => HTML_ESCAPES[ch] ?? ch);
+}
+
+const SAFE_URL_SCHEMES = ["http://", "https://", "mailto:"];
+
+/** Returns the href if it uses a safe scheme or is a relative path, else null. */
+function safeHref(href: string): string | null {
+  const trimmed = href.trim();
+  if (!trimmed) return null;
+  // Already HTML-escaped upstream; compare on the unescaped form.
+  const probe = trimmed.replace(/&amp;/g, "&").toLowerCase();
+  // "//host" is protocol-relative and resolves to an arbitrary third-party
+  // origin — it must NOT be treated as a same-site relative path.
+  if (probe.startsWith("//")) return null;
+  if (probe.startsWith("/") || probe.startsWith("#")) return trimmed;
+  if (SAFE_URL_SCHEMES.some((scheme) => probe.startsWith(scheme)))
+    return trimmed;
+  return null;
+}
+
 function markdownBlockToHtml(md: string): string {
-  let html = md;
+  // Escape FIRST: article bodies are scraped from third-party sources and
+  // archive.py's html.unescape() can turn escaped entities back into raw tag
+  // syntax. Everything below then only re-introduces markup this function
+  // generates itself.
+  let html = escapeHtml(md);
+  // Re-allow the one inline tag present in the archived content.
+  html = html.replace(/&lt;br\s*\/?&gt;/gi, "<br />");
   // Bare URLs → markdown links (before any HTML is generated)
   html = html.replace(/(?<![(["])(https?:\/\/[^\s<)\]]+)/g, "[$1]($1)");
   html = html.replace(/^### (.+)$/gm, "<h3>$1</h3>");
@@ -21,7 +56,14 @@ function markdownBlockToHtml(md: string): string {
   html = html.replace(/!\[([^\]]*)\]\(([^)]+)\)\n?(\*[^*]+\*)?/g, "");
   html = html.replace(
     /\[([^\]]+)\]\(([^)]+)\)/g,
-    '<a href="$2" target="_blank" rel="noopener">$1</a>',
+    (_full, label: string, href: string) => {
+      const safe = safeHref(href);
+      if (!safe) return label;
+      // The href stays entity-encoded (correct inside an attribute); only the
+      // visible label is unescaped so a URL query string reads naturally.
+      const text = label.replace(/&amp;/g, "&");
+      return `<a href="${safe}" target="_blank" rel="noopener">${text}</a>`;
+    },
   );
   html = html.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
   // Require space/start before opening * to avoid matching Gendersternchen (Bürger*innen)
