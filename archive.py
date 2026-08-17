@@ -192,9 +192,13 @@ def poi_to_markdown(poi: dict, depth: int = 1) -> str:
 
     filters = []
     for f in poi.get("filters", []):
-        ft = (f.get("title") or "").strip()
-        if ft:
-            filters.append(ft)
+        # The API splits one label across title + subtitle ("Orte der" +
+        # "Verfolgung"); title alone collides distinct filters into one.
+        f_title = (f.get("title") or "").strip()
+        f_sub = (f.get("subtitle") or "").strip()
+        label = f"{f_title} {f_sub}".strip()
+        if label:
+            filters.append(label)
     if filters:
         lines.append("filters:")
         for f in filters:
@@ -334,14 +338,19 @@ def poi_to_markdown(poi: dict, depth: int = 1) -> str:
 LANGUAGES = ["de", "en"]
 
 
-def archive_language(client: httpx.Client, lang: str, themes: list[dict]):
+def archive_language(client: httpx.Client, lang: str, theme_slugs: dict[int, str]):
     """Archive all POIs and tours for one language."""
     lang_dir = OUT_DIR / lang
     total_pois = 0
 
+    # Theme titles are localised too, so refetch them per language. Directory
+    # names stay keyed off the German title to keep URLs stable across locales.
+    client.headers["Accept-Language"] = lang
+    themes = api_get(client, "themes")["data"]
+
     for theme in themes:
         tid = theme["id"]
-        tslug = slugify(theme["title"])
+        tslug = theme_slugs[tid]
         theme_dir = lang_dir / tslug
         theme_dir.mkdir(parents=True, exist_ok=True)
 
@@ -416,13 +425,14 @@ def main():
     client.headers["Authorization"] = f"Bearer {token}"
 
     print("Fetching themes...")
-    themes_resp = api_get(client, "themes")
-    themes = themes_resp["data"]
+    client.headers["Accept-Language"] = "de"
+    themes = api_get(client, "themes")["data"]
+    theme_slugs = {t["id"]: slugify(t["title"]) for t in themes}
     print(f"Found {len(themes)} themes\n")
 
     for lang in LANGUAGES:
         print(f"[{lang}] Archiving...")
-        archive_language(client, lang, themes)
+        archive_language(client, lang, theme_slugs)
 
     # Write image manifest: filename → source URL
     manifest_path = OUT_DIR / "images.json"
