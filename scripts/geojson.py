@@ -156,6 +156,13 @@ def build_theme(
         if any(f.startswith("Orte mit mehreren") for f in filters):
             continue
 
+        # The dedicated stolpersteine theme supersedes the history-app's
+        # Stolpersteine filter: same stones, per-victim biographies instead of
+        # one shared boilerplate paragraph. Entries whose only filter is
+        # Stolpersteine are dropped here so they are not mapped twice.
+        if theme_slug == "frankfurt-und-der-ns" and filters == ["Stolpersteine"]:
+            continue
+
         slug = poi_path.stem
 
         thumb = ""
