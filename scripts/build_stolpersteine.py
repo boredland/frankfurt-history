@@ -13,6 +13,7 @@ import json
 import re
 import time
 import urllib.parse
+import unicodedata
 import urllib.request
 from pathlib import Path
 
@@ -21,6 +22,7 @@ SCRAPED_DIR = DATA_DIR / "stolpersteine-scraped"
 WFS_PATH = DATA_DIR / "stolpersteine-ffm.json"
 COORD_CACHE_PATH = DATA_DIR / "stolpersteine-coords.json"
 THEME_DIR = DATA_DIR / "stolpersteine"
+RECORDS_DIR = DATA_DIR / "stolpersteine-records" / "frankfurt-am-main"
 
 UA = "FrankfurtHistoryApp/1.0 (https://history.jonas-strassel.de)"
 
@@ -193,6 +195,108 @@ def build_markdown(person_name: str, address: str, laying_date: str,
     return "\n".join(lines)
 
 
+def normalize_address(address: str) -> str:
+    """Collapse spelling variants so record and scrape addresses compare equal.
+
+    Records come from OSM and the Initiative list, articles from frankfurt.de:
+    the same stone appears as "Bolongarostr. 128" / "Bolongarostraße 128" and
+    "Alt Heddernheim 33" / "Alt-Heddernheim 33".
+    """
+    s = (address or "").lower()
+    s = s.replace("ä", "ae").replace("ö", "oe").replace("ü", "ue").replace("ß", "ss")
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    # Expand the "str." abbreviation while the period is still there; it may be
+    # glued to the street name ("Radilostr.") so no leading word boundary holds.
+    s = re.sub(r"str\.", "strasse", s)
+    s = re.sub(r"[^a-z0-9]+", " ", s).strip()
+    s = re.sub(r"\bstr\b", "strasse", s)
+    return s.replace(" ", "")
+
+
+def tidy_address(address: str) -> str:
+    """Expand the "str." abbreviation for display and drop a stray period.
+
+    Record addresses come from mixed sources: "Radilostr. 29" and the
+    misspelled "Hostatostaße. 3" both occur.
+    """
+    s = re.sub(r"str\.(?=\s|$)", "straße", (address or "").strip())
+    s = re.sub(r"(?<=[a-zäöüß])\.(?=\s\d)", "", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def built_addresses() -> set[str]:
+    """Normalised addresses that already have at least one article."""
+    out = set()
+    for md in THEME_DIR.glob("*.md"):
+        if md.stem == "_index":
+            continue
+        m = re.search(r'^subtitle:\s*"([^"]*)"', md.read_text(), re.M)
+        if m:
+            out.add(normalize_address(m.group(1)))
+    return out
+
+
+def record_groups() -> dict[str, list[dict]]:
+    """Group biography-bearing records by normalised address."""
+    groups: dict[str, list[dict]] = {}
+    if not RECORDS_DIR.is_dir():
+        return groups
+    for path in sorted(RECORDS_DIR.glob("*.json")):
+        try:
+            rec = json.loads(path.read_text())
+        except json.JSONDecodeError:
+            continue
+        if not any(b.get("text") for b in (rec.get("biographies") or [])):
+            continue
+        if not rec.get("coords"):
+            continue
+        key = normalize_address((rec.get("address") or {}).get("formatted"))
+        if key:
+            groups.setdefault(key, []).append(rec)
+    return groups
+
+
+def record_person_names(records: list[dict]) -> str:
+    """Render "Surname, Given und Given" for the people sharing one address.
+
+    Location-level records have no `person.name`; they list their victims in
+    `commemorates`, already in "Surname, Given" form.
+    """
+    commemorated: list[str] = []
+    for rec in records:
+        if (rec.get("person") or {}).get("name"):
+            continue
+        for entry in rec.get("commemorates") or []:
+            entry = (entry or "").strip()
+            if entry and entry not in commemorated:
+                commemorated.append(entry)
+
+    by_surname: dict[str, list[str]] = {}
+    order: list[str] = []
+    for rec in records:
+        name = ((rec.get("person") or {}).get("name") or "").strip()
+        if not name:
+            continue
+        parts = name.split()
+        surname, given = parts[-1], " ".join(parts[:-1])
+        if surname not in by_surname:
+            by_surname[surname] = []
+            order.append(surname)
+        if given and given not in by_surname[surname]:
+            by_surname[surname].append(given)
+    chunks = []
+    for surname in order:
+        givens = by_surname[surname]
+        if not givens:
+            chunks.append(surname)
+        elif len(givens) == 1:
+            chunks.append(f"{surname}, {givens[0]}")
+        else:
+            chunks.append(f"{surname}, {', '.join(givens[:-1])} und {givens[-1]}")
+    return "; ".join(chunks or commemorated)
+
+
 def load_coord_cache() -> dict[str, tuple[float, float]]:
     """Load coordinate cache: address → (lat, lng). Seeded from WFS."""
     cache: dict[str, tuple[float, float]] = {}
@@ -292,6 +396,47 @@ def main():
             (THEME_DIR / md_name).write_text(md)
             created += 1
 
+    # Backfill from records: stones the frankfurt.de crawl never produced a page
+    # for, but whose biography the Initiative/OSM enrichers did find. Without
+    # this they exist only as JSON nothing reads.
+    backfilled = 0
+    already = built_addresses()
+    for key, records in sorted(record_groups().items()):
+        if key in already:
+            continue
+        records.sort(key=lambda r: (r.get("person") or {}).get("name") or "")
+        head = records[0]
+        address = tidy_address((head.get("address") or {}).get("formatted") or key)
+        person_name = record_person_names(records) or address
+        bio = max(
+            (b for r in records for b in (r.get("biographies") or []) if b.get("text")),
+            key=lambda b: len(b["text"]),
+        )
+        images = [
+            img["url"]
+            for r in records
+            for img in (r.get("images") or [])
+            if img.get("url")
+        ]
+        lat, lng = head["coords"]
+
+        poi_id += 1
+        md = build_markdown(
+            person_name=person_name,
+            address=address,
+            laying_date=head.get("laying_date") or "",
+            bio_text=bio["text"],
+            bio_images=images[1:],
+            location_images=images[:1],
+            source_url=bio.get("source_url") or (head.get("refs") or {}).get("website", ""),
+            lat=lat,
+            lng=lng,
+            poi_id=poi_id,
+        )
+        (THEME_DIR / f"{poi_id}-{slugify(person_name)}.md").write_text(md)
+        already.add(key)
+        backfilled += 1
+
     # Write theme index
     (THEME_DIR / "_index.md").write_text("""---
 id: 7
@@ -305,6 +450,7 @@ short_title: "Stolpersteine"
     save_coord_cache(coord_cache)
 
     print(f"\nCreated: {created} articles")
+    print(f"Backfilled from records: {backfilled} articles")
     print(f"Skipped: {skipped} (no coordinates)")
     print(f"Geocoded: {geocoded} new addresses")
     print(f"Total: {len(list(THEME_DIR.glob('*.md'))) - 1} articles in {THEME_DIR}")
