@@ -7,7 +7,7 @@ updated_at: "2026-04-14 14:25:54"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Ermittlungen gegen Eva Justin wegen NS-Verbrechen an Sinti und Roma

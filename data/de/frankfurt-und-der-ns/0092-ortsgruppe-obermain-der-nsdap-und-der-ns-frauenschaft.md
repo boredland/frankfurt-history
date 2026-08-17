@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Volksgemeinschaft Kategorie"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # Ortsgruppe Obermain der NSDAP und der NS-Frauenschaft

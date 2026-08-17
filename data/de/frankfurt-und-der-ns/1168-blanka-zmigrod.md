@@ -8,7 +8,7 @@ categories:
   - "Biografien"
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Blanka Zmigrod

@@ -7,7 +7,7 @@ updated_at: "2026-01-06 11:18:43"
 categories:
   - "Where the parliamentary groups met Frankfurt’s Sites of the 1848-1849 Revolution"
 filters:
-  - "Meeting points"
+  - "Meeting points of the political groups"
 ---
 
 # Café Milani (Conservative)

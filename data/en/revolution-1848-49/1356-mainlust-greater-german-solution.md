@@ -7,7 +7,7 @@ updated_at: "2026-01-07 09:06:53"
 categories:
   - "Where the parliamentary groups met Frankfurt’s Sites of the 1848-1849 Revolution"
 filters:
-  - "Meeting points"
+  - "Meeting points of the political groups"
 ---
 
 # Mainlust (‘greater German solution’)

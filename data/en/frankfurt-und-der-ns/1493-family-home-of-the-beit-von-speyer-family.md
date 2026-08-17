@@ -7,7 +7,7 @@ updated_at: "2024-10-08 10:35:01"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Family home of the Beit von Speyer family

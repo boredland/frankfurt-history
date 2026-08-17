@@ -7,7 +7,7 @@ updated_at: "2025-05-22 08:31:53"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Westhausen housing estate

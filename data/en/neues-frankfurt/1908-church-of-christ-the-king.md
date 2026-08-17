@@ -7,7 +7,7 @@ updated_at: "2025-05-22 09:15:26"
 categories:
   - "Churches and cemeteries Places"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # Church of Christ the King

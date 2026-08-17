@@ -5,7 +5,7 @@ subtitle: "Bertha Pappenheim – Jüdische Care Arbeit"
 coordinates: [50.1136944, 8.697722222222222]
 updated_at: "2026-04-17 11:19:32"
 filters:
-  - "Orte des politischen"
+  - "Orte des politischen Widerstands"
 ---
 
 # Suppenküche

@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Verfolgung Kategorie"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Verwaltung der Israelitischen Gemeinde, das Museum jüdischer Altertümer und das Rothschildmuseum

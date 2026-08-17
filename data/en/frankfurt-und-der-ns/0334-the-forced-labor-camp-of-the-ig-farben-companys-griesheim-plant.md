@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Verfolgung Kategorie"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # The Forced Labor Camp of the I.G. Farben Company’s Griesheim Plant

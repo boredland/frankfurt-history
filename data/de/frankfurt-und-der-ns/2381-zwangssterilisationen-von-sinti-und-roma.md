@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:22:36"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Zwangssterilisationen von Sinti und Roma

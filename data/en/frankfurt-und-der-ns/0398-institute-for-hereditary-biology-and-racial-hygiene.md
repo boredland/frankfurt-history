@@ -5,7 +5,7 @@ subtitle: "Gartenstraße 140"
 coordinates: [50.0991204, 8.6666638]
 updated_at: "2026-04-14 14:37:54"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Institute for Hereditary Biology and Racial Hygiene

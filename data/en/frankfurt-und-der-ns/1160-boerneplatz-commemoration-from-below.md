@@ -6,7 +6,7 @@ updated_at: "2026-04-09 14:19:14"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Börneplatz - commemoration “from below”

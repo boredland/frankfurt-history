@@ -7,7 +7,7 @@ updated_at: "2026-03-11 15:20:06"
 categories:
   - "Wirtschaft, Verwaltung, Infrastruktur Erfahre mehr"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Kokerei Gaswerk-Ost

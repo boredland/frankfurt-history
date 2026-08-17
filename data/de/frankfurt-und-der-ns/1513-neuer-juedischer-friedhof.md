@@ -7,7 +7,7 @@ updated_at: "2024-04-17 10:26:06"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Neuer Jüdischer Friedhof

@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:43:57"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Sendesaal Südwestdeutscher Rundfunk

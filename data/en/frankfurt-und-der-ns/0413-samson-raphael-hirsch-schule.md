@@ -5,7 +5,7 @@ subtitle: "Bernhard-Grzimek-Allee 6"
 coordinates: [50.114829, 8.699884]
 updated_at: "2026-04-14 14:43:14"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Samson-Raphael-Hirsch-Schule

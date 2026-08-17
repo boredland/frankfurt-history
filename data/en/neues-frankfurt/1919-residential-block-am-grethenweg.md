@@ -7,7 +7,7 @@ updated_at: "2025-05-22 10:03:18"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Residential block Am Grethenweg

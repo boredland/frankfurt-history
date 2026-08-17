@@ -5,7 +5,7 @@ subtitle: "Fahrgasse 92"
 coordinates: [50.11344, 8.686609]
 updated_at: "2026-04-09 15:26:35"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Die Staufermauer und die ehemalige Judengasse

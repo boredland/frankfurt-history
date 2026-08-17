@@ -7,7 +7,7 @@ updated_at: "2024-10-31 12:19:16"
 categories:
   - "19. Jahrhundert"
 filters:
-  - "Frankfurter"
+  - "Frankfurter Kolonialgeschichte"
 ---
 
 # Beratungsstelle des Frankfurter Auswanderervereins

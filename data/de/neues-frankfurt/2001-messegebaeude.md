@@ -7,7 +7,7 @@ updated_at: "2025-05-22 11:25:42"
 categories:
   - "Kultur, Messe, Veranstaltungen Erfahre mehr"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Messegebäude

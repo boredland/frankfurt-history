@@ -7,7 +7,7 @@ updated_at: "2024-02-13 14:28:21"
 categories:
   - "Biografien"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Paula Lubowitzky

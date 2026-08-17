@@ -7,7 +7,7 @@ updated_at: "2026-02-04 13:12:53"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Rütschlehen housing estate

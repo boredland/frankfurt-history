@@ -7,7 +7,7 @@ updated_at: "2026-04-20 16:02:34"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Persecution of Sinti and Roma by the Social Welfare Office

@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:38:18"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Samson-Raphael-Hirsch-Schule

@@ -7,7 +7,7 @@ updated_at: "2025-05-22 08:41:27"
 categories:
   - "Wirtschaft, Verwaltung, Infrastruktur Erfahre mehr"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Technisches Verwaltungsgebäude der Hoechst AG

@@ -7,7 +7,7 @@ updated_at: "2025-05-28 11:04:41"
 categories:
   - "Vorher-Nachher-Kamera Damals und Heute"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Siedlung Höhenblick

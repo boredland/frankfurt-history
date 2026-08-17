@@ -7,7 +7,7 @@ updated_at: "2025-11-20 10:18:16"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Römerberg

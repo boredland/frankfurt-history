@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Verfolgung Kategorie"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Foundation for the education of physically or mentally endangered Jewish children

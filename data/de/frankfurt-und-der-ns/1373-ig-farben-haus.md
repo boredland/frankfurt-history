@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:38:46"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # IG Farben Haus

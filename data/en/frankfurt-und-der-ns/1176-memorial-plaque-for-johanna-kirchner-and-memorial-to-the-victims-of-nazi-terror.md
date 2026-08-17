@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:34:44"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Memorial plaque for Johanna Kirchner and Memorial to the Victims of Nazi Terror

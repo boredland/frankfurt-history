@@ -5,7 +5,7 @@ subtitle: "5 Orte – 5 Geschichten"
 coordinates: [50.110225, 8.691823]
 updated_at: "2025-03-27 09:51:10"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Albert Flörsheim

@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Volksgemeinschaft Kategorie"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # NSDAP Kreisleitung Groß-Frankfurt (Kreisamt und Kreisführung der NSV)

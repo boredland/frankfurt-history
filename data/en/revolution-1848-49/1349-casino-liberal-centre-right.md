@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:34:54"
 categories:
   - "Where the parliamentary groups met Frankfurt’s Sites of the 1848-1849 Revolution"
 filters:
-  - "Meeting points"
+  - "Meeting points of the political groups"
 ---
 
 # Casino (liberal centre-right)

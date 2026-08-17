@@ -5,7 +5,7 @@ subtitle: "Oberschelder Weg 10-12"
 coordinates: [50.164234013528436, 8.640391285922346]
 updated_at: "2026-07-09 14:32:41"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Arbeitserziehungslager

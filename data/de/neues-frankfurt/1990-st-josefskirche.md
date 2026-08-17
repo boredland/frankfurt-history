@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:54:11"
 categories:
   - "Kirchen und Friedhöfe Orte"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # St. Josefskirche

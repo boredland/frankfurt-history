@@ -7,7 +7,7 @@ updated_at: "2025-12-19 12:56:44"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # Volkshaus Sossenheim

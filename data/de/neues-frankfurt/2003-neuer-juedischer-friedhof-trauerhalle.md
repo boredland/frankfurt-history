@@ -7,7 +7,7 @@ updated_at: "2025-05-22 08:33:06"
 categories:
   - "Kirchen und Friedhöfe Orte"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # Neuer Jüdischer Friedhof, Trauerhalle

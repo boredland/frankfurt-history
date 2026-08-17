@@ -8,7 +8,7 @@ categories:
   - "20. Jahrhundert"
   - "19. Jahrhundert"
 filters:
-  - "Frankfurter"
+  - "Frankfurter Kolonialgeschichte"
 ---
 
 # Adolf Schiel

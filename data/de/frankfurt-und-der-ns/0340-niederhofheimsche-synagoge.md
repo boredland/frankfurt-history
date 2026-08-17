@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Niederhofheim’sche Synagoge

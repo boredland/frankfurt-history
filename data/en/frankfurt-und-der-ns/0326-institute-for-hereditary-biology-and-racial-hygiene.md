@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Volksgemeinschaft Kategorie"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # Institute for Hereditary Biology and Racial Hygiene

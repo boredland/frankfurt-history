@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Volksgemeinschaft Kategorie"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # Sitz der Deutsche Arbeitsfront (DAF)

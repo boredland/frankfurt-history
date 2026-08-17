@@ -5,7 +5,7 @@ subtitle: "Eckenheimer Landstraße 308"
 coordinates: [50.146696, 8.682693]
 updated_at: "2024-04-17 10:34:19"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # NSDAP local group

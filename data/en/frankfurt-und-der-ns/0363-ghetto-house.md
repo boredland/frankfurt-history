@@ -7,7 +7,7 @@ updated_at: "2026-04-15 14:38:45"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # ghetto house

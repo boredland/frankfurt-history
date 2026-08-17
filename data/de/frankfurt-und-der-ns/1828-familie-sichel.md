@@ -5,7 +5,7 @@ subtitle: "Wenn Grenzen überschritten werden!"
 coordinates: [50.117862, 8.685703]
 updated_at: "2026-04-09 15:20:34"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Familie Sichel

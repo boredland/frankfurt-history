@@ -5,7 +5,7 @@ subtitle: "Philipp-Holzmann-Weg"
 coordinates: [50.10972368758075, 8.70559524513679]
 updated_at: "2026-04-14 14:42:34"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Erinnerungsstätte (EZB)

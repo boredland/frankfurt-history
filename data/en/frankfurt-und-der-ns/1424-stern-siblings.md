@@ -5,7 +5,7 @@ subtitle: "5 Places – 5 Stories"
 coordinates: [50.117733, 8.696643]
 updated_at: "2026-04-09 15:04:21"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Stern siblings

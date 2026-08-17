@@ -7,7 +7,7 @@ updated_at: "2026-01-06 11:30:46"
 categories:
   - "Treffpunkte der Fraktionen Orte der Revolution 1848/49"
 filters:
-  - "Treffpunkte"
+  - "Treffpunkte der Fraktionen"
 ---
 
 # Pariser Hof (rechtsliberales Zentrum)

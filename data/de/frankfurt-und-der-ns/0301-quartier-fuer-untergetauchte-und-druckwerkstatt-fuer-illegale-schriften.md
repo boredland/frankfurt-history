@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Widerstand Kategorie"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Quartier für Untergetauchte und Druckwerkstatt für illegale Schriften

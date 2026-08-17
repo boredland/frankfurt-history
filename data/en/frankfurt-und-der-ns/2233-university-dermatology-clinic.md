@@ -10,7 +10,7 @@ categories:
   - "Places"
   - "Verfolgung Kategorie"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # University Dermatology Clinic

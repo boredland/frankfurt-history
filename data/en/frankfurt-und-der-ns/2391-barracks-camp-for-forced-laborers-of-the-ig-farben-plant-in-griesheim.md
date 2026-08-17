@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:49:24"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # Barracks camp for forced laborers of the I.G. Farben plant in Griesheim

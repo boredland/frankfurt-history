@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:57:40"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Finanzamt Frankfurt-Außenbezirk, Verwertungsstelle für entzogenes Vermögen antisemitisch Verfolgter

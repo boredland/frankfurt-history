@@ -7,7 +7,7 @@ updated_at: "2026-02-04 13:49:34"
 categories:
   - "Culture, Trade fair, Events Learn more"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # The second Congrès International d’Architecture Moderne, 1929

@@ -7,7 +7,7 @@ updated_at: "2025-05-22 11:34:31"
 categories:
   - "Wirtschaft, Verwaltung, Infrastruktur Erfahre mehr"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Städtisches Elektrizitätswerk, Prüfamt 6

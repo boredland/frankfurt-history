@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:22:36"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Zwangssterilisationen von Sinti und Roma

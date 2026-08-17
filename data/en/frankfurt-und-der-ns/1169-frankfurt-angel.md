@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:27:30"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Frankfurt Angel

@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Verfolgung Kategorie"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Synagogue of the Israelite Religious Society with mikvah

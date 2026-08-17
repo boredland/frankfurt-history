@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Widerstand Kategorie"
 filters:
-  - "Places of"
+  - "Places of resistance"
 ---
 
 # Swing meeting place "Rokoko-Diele" in the Hotel Kyffhäuser

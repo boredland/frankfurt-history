@@ -7,7 +7,7 @@ updated_at: "2026-01-28 15:46:03"
 categories:
   - "Vorher-Nachher-Kamera Damals und Heute"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Siedlung Praunheim

@@ -7,7 +7,7 @@ updated_at: "2026-06-09 14:05:34"
 categories:
   - "Before-After-Camera Then and now"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Bornheimer Hang housing estate

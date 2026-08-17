@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:17:26"
 categories:
   - "Inklusiver Bildungsurlaub „Deine Stadt und der Nationalsozialismus“"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Stolperstein Karoline Johanna Schmidt

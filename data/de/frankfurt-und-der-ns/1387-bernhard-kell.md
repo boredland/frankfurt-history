@@ -7,7 +7,7 @@ updated_at: "2024-02-13 14:31:51"
 categories:
   - "Biografien"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Bernhard Kell

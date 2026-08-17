@@ -5,7 +5,7 @@ subtitle: "Kettenhofweg 70"
 coordinates: [50.115902, 8.662312]
 updated_at: "2026-04-14 14:09:58"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Fate of Hans Bauer (1918-2013)

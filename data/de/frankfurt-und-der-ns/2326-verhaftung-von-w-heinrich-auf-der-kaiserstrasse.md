@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:18:17"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Ver­haf­tung von W. Heinrich auf der Kai­ser­straße

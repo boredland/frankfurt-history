@@ -5,7 +5,7 @@ subtitle: "Niederräder Ufer 10"
 coordinates: [50.09387827, 8.647369558]
 updated_at: "2026-04-14 14:43:33"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Licht- und Luftbad Niederrad

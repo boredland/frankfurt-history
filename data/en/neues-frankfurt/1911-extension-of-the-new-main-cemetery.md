@@ -7,7 +7,7 @@ updated_at: "2025-05-19 14:47:56"
 categories:
   - "Churches and cemeteries Places"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # Extension of the new main cemetery

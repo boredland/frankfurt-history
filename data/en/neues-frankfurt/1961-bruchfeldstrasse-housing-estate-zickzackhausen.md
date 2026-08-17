@@ -7,7 +7,7 @@ updated_at: "2025-05-26 20:33:28"
 categories:
   - "Before-After-Camera Then and now"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Bruchfeldstraße housing estate / Zickzackhausen

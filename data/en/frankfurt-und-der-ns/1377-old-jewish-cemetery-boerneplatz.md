@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:39:20"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Old Jewish cemetery (Börneplatz)

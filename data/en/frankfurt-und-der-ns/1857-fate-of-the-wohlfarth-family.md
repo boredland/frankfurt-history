@@ -5,7 +5,7 @@ subtitle: "Corneliusstraße 15"
 coordinates: [50.117095, 8.657384]
 updated_at: "2025-03-11 10:28:29"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Fate of the Wohlfarth family

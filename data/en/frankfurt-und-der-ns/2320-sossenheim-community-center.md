@@ -7,7 +7,7 @@ updated_at: "2025-12-19 12:56:44"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # Sossenheim Community Center

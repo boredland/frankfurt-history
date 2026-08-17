@@ -7,7 +7,7 @@ updated_at: "2026-03-19 15:15:01"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # Industriepark Höchst

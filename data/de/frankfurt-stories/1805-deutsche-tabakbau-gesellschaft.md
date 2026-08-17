@@ -7,7 +7,7 @@ updated_at: "2024-11-07 09:39:39"
 categories:
   - "20. Jahrhundert"
 filters:
-  - "Frankfurter"
+  - "Frankfurter Kolonialgeschichte"
 ---
 
 # Deutsche Tabakbau-Gesellschaft

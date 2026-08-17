@@ -7,7 +7,7 @@ updated_at: "2026-03-18 13:40:33"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # forced labor company

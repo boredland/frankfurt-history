@@ -5,7 +5,7 @@ subtitle: "Mathilde Battenberg – Art education at the Städel"
 coordinates: [50.1025278, 8.67555556]
 updated_at: "2026-04-17 11:27:02"
 filters:
-  - "Places of learning"
+  - "Places of learning and teaching"
 ---
 
 # Städelsche Kunstinstitut  (Städel Art Institute)

@@ -7,7 +7,7 @@ updated_at: "2026-05-28 12:55:24"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # Rathaus Römer

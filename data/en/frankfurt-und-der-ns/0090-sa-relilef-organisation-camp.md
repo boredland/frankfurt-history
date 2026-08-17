@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Volksgemeinschaft Kategorie"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # SA Relilef Organisation Camp

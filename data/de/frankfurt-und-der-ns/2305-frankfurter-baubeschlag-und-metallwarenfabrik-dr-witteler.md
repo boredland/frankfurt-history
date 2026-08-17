@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:43:48"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # Frankfurter Baubeschlag- und Metallwarenfabrik Dr. Witteler

@@ -5,7 +5,7 @@ subtitle: "Fahrgasse 92"
 coordinates: [50.11344, 8.686609]
 updated_at: "2026-04-09 15:26:35"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # The Staufer Wall with former Judengasse

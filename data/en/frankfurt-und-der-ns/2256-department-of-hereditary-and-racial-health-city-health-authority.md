@@ -15,7 +15,7 @@ categories:
   - "Places"
   - "Volksgemeinschaft Kategorie"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # “Department of Hereditary and Racial Health”, City Health Authority

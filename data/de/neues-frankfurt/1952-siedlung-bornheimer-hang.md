@@ -7,7 +7,7 @@ updated_at: "2026-06-09 14:05:34"
 categories:
   - "Vorher-Nachher-Kamera Damals und Heute"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Siedlung Bornheimer Hang

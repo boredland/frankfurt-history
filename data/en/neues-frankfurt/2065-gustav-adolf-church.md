@@ -7,7 +7,7 @@ updated_at: "2026-03-11 11:02:37"
 categories:
   - "Churches and cemeteries Places"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # Gustav Adolf church

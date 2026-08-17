@@ -5,7 +5,7 @@ subtitle: "Hospitalstraße 18"
 coordinates: [50.10752850651673, 8.54798331606014]
 updated_at: "2024-06-28 07:32:00"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Das verschwundene Gefängnis

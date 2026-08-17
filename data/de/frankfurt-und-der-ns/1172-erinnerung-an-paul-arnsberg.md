@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:30:26"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Erinnerung an Paul Arnsberg

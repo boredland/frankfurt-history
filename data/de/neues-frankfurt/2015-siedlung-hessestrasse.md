@@ -7,7 +7,7 @@ updated_at: "2025-05-21 09:37:30"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Siedlung Hessestraße

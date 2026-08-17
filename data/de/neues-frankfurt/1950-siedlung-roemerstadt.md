@@ -7,7 +7,7 @@ updated_at: "2025-05-22 14:23:02"
 categories:
   - "Vorher-Nachher-Kamera Damals und Heute"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Siedlung Römerstadt

@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:47:53"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # Gleisbautrupp 6

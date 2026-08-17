@@ -7,7 +7,7 @@ updated_at: "2026-03-12 13:51:28"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Gedenkstätte Börneplatz

@@ -7,7 +7,7 @@ updated_at: "2025-04-02 13:42:08"
 categories:
   - "19th century"
 filters:
-  - "Reiffensteins Frankfurt"
+  - "Reiffensteins Frankfurt (1820-1893)"
 ---
 
 # Kühhornshof

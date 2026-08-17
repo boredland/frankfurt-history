@@ -7,7 +7,7 @@ updated_at: "2024-04-17 11:13:26"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # House of the Frohnhausen and Cohn families

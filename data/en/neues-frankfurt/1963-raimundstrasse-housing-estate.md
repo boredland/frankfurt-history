@@ -7,7 +7,7 @@ updated_at: "2025-05-28 11:04:44"
 categories:
   - "Before-After-Camera Then and now"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Raimundstraße housing estate

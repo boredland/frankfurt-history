@@ -7,7 +7,7 @@ updated_at: "2025-04-16 10:30:02"
 categories:
   - "Frankfurt und die Revolution"
 filters:
-  - "Frankfurt"
+  - "Frankfurt und die Revolution"
 ---
 
 # Paulskirche

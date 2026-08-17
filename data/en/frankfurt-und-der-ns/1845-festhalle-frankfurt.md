@@ -7,7 +7,7 @@ updated_at: "2026-04-09 15:23:46"
 categories:
   - "Places"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Festhalle Frankfurt

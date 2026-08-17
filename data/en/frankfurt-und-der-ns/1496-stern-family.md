@@ -5,7 +5,7 @@ subtitle: "Kantstrasse 6"
 coordinates: [50.119957, 8.697859]
 updated_at: "2026-04-09 15:16:22"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Stern family

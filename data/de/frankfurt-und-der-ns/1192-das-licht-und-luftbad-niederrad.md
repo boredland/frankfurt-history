@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:12:09"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Das Licht- und Luftbad Niederrad

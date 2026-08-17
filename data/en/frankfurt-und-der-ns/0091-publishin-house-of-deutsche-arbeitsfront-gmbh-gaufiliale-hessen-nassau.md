@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Volksgemeinschaft Kategorie"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # Publishin House of Deutsche Arbeitsfront GmbH Gaufiliale Hessen-Nassau

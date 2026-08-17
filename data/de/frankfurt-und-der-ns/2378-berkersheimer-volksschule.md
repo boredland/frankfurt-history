@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:22:07"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Berkersheimer Volksschule

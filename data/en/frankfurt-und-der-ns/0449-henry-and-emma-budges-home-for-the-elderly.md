@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Verfolgung Kategorie"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Henry and Emma Budge's home for the elderly

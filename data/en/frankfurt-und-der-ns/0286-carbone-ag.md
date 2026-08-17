@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Verfolgung Kategorie"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # Carbone AG

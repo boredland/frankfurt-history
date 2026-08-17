@@ -1,9 +1,9 @@
 ---
 id: 4
-title: "Neues Frankfurt"
-short_title: "Neues Frankfurt"
+title: "New Frankfurt"
+short_title: "New Frankfurt"
 ---
 
-# Neues Frankfurt
+# New Frankfurt
 
 

@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:43:09"
 categories:
   - "Orte"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Café Ahl / Café Goetheplatz

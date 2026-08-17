@@ -7,7 +7,7 @@ updated_at: "2026-03-12 13:52:11"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Mahnmal "Opfer des Naziterrors"

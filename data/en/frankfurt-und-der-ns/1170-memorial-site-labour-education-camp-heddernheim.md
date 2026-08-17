@@ -7,7 +7,7 @@ updated_at: "2026-07-09 14:36:27"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Memorial Site Labour Education Camp Heddernheim

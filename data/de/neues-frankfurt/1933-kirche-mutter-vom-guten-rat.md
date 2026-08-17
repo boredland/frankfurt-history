@@ -7,7 +7,7 @@ updated_at: "2025-05-22 08:34:17"
 categories:
   - "Kirchen und Friedhöfe Orte"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # Kirche Mutter vom Guten Rat

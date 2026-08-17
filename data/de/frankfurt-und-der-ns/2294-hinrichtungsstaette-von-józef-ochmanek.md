@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:39:34"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # Hinrichtungsstätte von Józef Ochmanek

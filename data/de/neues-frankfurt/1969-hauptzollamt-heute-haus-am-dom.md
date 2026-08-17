@@ -7,7 +7,7 @@ updated_at: "2026-06-09 14:03:50"
 categories:
   - "Vorher-Nachher-Kamera Damals und Heute"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Hauptzollamt (heute: Haus am Dom)

@@ -5,7 +5,7 @@ subtitle: "Gebäude von Fritz Epstein"
 coordinates: [50.12685542874398, 8.65373919977138]
 updated_at: "2025-01-24 07:20:19"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Villa aus dem Jahr 1923

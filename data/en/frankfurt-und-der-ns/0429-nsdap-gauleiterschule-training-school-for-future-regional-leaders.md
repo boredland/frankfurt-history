@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Volksgemeinschaft Kategorie"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # NSDAP-Gauleit­erschule (trai­ning school for future regio­nal lea­ders)

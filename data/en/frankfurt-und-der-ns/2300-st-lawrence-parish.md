@@ -9,7 +9,7 @@ categories:
   - "Self-assertion and resistance"
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # St. Lawrence Parish

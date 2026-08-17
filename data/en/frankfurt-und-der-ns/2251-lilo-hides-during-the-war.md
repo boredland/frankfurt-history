@@ -5,7 +5,7 @@ subtitle: "Out and about in Frankfurt with Lilo"
 coordinates: [50.132115, 8.670578]
 updated_at: "2026-04-15 10:23:15"
 filters:
-  - "History"
+  - "History for kids"
 ---
 
 # Lilo Hides during the War

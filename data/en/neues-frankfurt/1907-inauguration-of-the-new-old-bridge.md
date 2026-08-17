@@ -7,7 +7,7 @@ updated_at: "2026-01-09 15:07:20"
 categories:
   - "Culture, Trade fair, Events Learn more"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Inauguration of the new “Old Bridge”

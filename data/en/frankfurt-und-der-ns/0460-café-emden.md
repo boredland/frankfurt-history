@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:41:59"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of resistance"
 ---
 
 # Café Emden

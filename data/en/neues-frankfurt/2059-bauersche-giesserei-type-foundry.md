@@ -7,7 +7,7 @@ updated_at: "2026-04-17 11:46:59"
 categories:
   - "Economy, administration, infrastructure Learn more"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # “Bauersche Gießerei” type foundry

@@ -5,7 +5,7 @@ subtitle: "Hasengasse 2"
 coordinates: [50.112484, 8.684443]
 updated_at: "2026-04-07 15:55:56"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # NS-Organisationen

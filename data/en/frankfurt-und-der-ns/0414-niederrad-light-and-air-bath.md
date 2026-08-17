@@ -5,7 +5,7 @@ subtitle: "Niederräder Ufer 10"
 coordinates: [50.09387827, 8.647369558]
 updated_at: "2026-04-14 14:43:33"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Niederrad Light and Air Bath

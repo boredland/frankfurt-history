@@ -7,7 +7,7 @@ updated_at: "2026-01-09 15:07:20"
 categories:
   - "Kultur, Messe, Veranstaltungen Erfahre mehr"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Brückenweihe / Neue Alte Brücke

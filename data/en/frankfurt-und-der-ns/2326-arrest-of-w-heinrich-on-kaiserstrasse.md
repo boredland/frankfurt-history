@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:18:17"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Arrest of W. Heinrich on Kai­ser­straße

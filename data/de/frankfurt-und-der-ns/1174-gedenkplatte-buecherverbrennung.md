@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:33:01"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Gedenkplatte Bücherverbrennung

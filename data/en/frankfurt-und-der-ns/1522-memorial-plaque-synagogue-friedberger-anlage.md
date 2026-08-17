@@ -7,7 +7,7 @@ updated_at: "2025-07-02 10:55:58"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Memorial plaque synagogue Friedberger Anlage

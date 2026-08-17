@@ -5,7 +5,7 @@ subtitle: "Rohrbachstraße 58"
 coordinates: [50.127838, 8.693418]
 updated_at: "2024-02-13 14:19:30"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Memorial stele

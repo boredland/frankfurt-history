@@ -5,7 +5,7 @@ subtitle: "Schwabstraße 18"
 coordinates: [50.144029, 8.680724]
 updated_at: "2024-04-17 10:40:45"
 filters:
-  - "Places of"
+  - "Places of resistance"
 ---
 
 # Streetcar depot

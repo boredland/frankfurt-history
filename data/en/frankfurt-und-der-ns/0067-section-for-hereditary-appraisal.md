@@ -8,7 +8,7 @@ categories:
   - "Volksgemeinschaft Kategorie"
   - "Places"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # Section for ‘Hereditary Appraisal’

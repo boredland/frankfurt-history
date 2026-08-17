@@ -5,7 +5,7 @@ subtitle: "Oppenheimer Landstraße 83"
 coordinates: [50.095919, 8.680826]
 updated_at: "2026-04-09 15:03:24"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Charlotte Kohlhaas

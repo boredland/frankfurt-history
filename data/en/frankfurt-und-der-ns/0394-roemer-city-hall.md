@@ -5,7 +5,7 @@ subtitle: "Römerberg 23"
 coordinates: [50.1105355, 8.6816325]
 updated_at: "2026-04-14 14:36:28"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Römer City Hall

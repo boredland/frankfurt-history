@@ -7,7 +7,7 @@ updated_at: "2026-01-07 11:15:13"
 categories:
   - "Site of the September uprising 1848 Frankfurt’s Sites of the 1848-1849 Revolution"
 filters:
-  - "Scenes from"
+  - "Scenes from the September Riots"
 ---
 
 # Gräber’s Wine Tavern – The radicals’ meeting point

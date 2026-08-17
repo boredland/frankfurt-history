@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Verfolgung Kategorie"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Freiherrliche Carl von Rothschildsche öffentliche Bibliothek

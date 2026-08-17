@@ -5,7 +5,7 @@ subtitle: "Anna Beyer - Kochen im Widerstand"
 coordinates: [50.113498, 8.677624]
 updated_at: "2026-04-17 11:00:28"
 filters:
-  - "Orte des politischen"
+  - "Orte des politischen Widerstands"
 ---
 
 # Vegetarische Gaststätte

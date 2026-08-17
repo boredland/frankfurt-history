@@ -5,7 +5,7 @@ subtitle: "Lore Wolf – Witness to the Bücherverbrennung (book burning)"
 coordinates: [50.110431, 8.682059]
 updated_at: "2026-04-17 10:55:36"
 filters:
-  - "Places of political"
+  - "Places of political resistance"
 ---
 
 # Römerberg

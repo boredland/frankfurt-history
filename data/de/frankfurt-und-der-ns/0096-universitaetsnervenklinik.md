@@ -11,7 +11,7 @@ categories:
   - "Orte"
   - "Verfolgung Kategorie"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Universitätsnervenklinik

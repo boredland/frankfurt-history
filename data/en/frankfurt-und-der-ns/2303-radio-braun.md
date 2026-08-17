@@ -7,7 +7,7 @@ updated_at: "2026-03-16 15:00:27"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # Radio Braun

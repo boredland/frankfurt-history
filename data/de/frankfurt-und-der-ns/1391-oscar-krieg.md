@@ -7,7 +7,7 @@ updated_at: "2024-02-13 14:30:02"
 categories:
   - "Biografien"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Oscar Krieg

@@ -5,7 +5,7 @@ subtitle: "Out and about in Frankfurt with Lilo"
 coordinates: [50.112180092410206, 8.68928291846081]
 updated_at: "2026-04-15 10:20:03"
 filters:
-  - "History"
+  - "History for kids"
 ---
 
 # The Burning of the Börneplatz Synagogue

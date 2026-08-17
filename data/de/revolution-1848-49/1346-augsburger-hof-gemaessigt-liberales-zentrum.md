@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:36:13"
 categories:
   - "Treffpunkte der Fraktionen Orte der Revolution 1848/49"
 filters:
-  - "Treffpunkte"
+  - "Treffpunkte der Fraktionen"
 ---
 
 # Augsburger Hof (gemäßigt-liberales Zentrum)

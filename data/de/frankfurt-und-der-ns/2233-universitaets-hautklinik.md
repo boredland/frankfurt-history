@@ -10,7 +10,7 @@ categories:
   - "Orte"
   - "Verfolgung Kategorie"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Universitäts-Hautklinik

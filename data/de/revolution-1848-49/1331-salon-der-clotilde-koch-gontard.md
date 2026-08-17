@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:48:34"
 categories:
   - "Schauplätze der Revolution Orte der Revolution 1848/49"
 filters:
-  - "Schauplätze"
+  - "Schauplätze der Revolution"
 ---
 
 # Salon der Clotilde Koch-Gontard

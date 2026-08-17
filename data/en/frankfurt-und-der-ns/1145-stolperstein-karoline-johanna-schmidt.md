@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:17:26"
 categories:
   - "Inclusive educational vacation \"Your city and National Socialism\""
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Stolperstein Karoline Johanna Schmidt

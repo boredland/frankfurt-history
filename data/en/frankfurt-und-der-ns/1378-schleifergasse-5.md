@@ -5,7 +5,7 @@ subtitle: "Schleifergasse 5"
 coordinates: [50.099994, 8.546923]
 updated_at: "2026-04-07 15:21:01"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Schleifergasse 5

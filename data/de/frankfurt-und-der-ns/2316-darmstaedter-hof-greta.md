@@ -7,7 +7,7 @@ updated_at: "2026-05-21 14:14:31"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # Darmstädter Hof („Greta")

@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:37:25"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Memorial Site for Vicitims of National Socialism

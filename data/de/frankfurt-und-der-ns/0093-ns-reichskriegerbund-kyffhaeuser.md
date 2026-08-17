@@ -7,7 +7,7 @@ updated_at: "2025-10-15 09:19:37"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # NS-Reichskriegerbund „Kyffhäuser“

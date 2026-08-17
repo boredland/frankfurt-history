@@ -7,7 +7,7 @@ updated_at: "2026-01-28 15:46:03"
 categories:
   - "Before-After-Camera Then and now"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Praunheim housing estate

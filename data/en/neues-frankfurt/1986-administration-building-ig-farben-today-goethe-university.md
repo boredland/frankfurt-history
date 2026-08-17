@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:41:44"
 categories:
   - "Economy, administration, infrastructure Learn more"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Administration building I.G. Farben (today: Goethe University)

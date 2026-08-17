@@ -7,7 +7,7 @@ updated_at: "2026-04-14 14:25:01"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Investigation of Robert Ritter for Nazi Crimes against Sinti and Roma

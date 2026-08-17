@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Verfolgung Kategorie"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Assassination of Heiner Studer

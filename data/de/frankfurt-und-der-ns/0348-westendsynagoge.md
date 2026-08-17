@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Selbstbehauptung und Widerstand"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Westendsynagoge

@@ -5,7 +5,7 @@ subtitle: "Lindenstraße 27"
 coordinates: [50.116774, 8.660926]
 updated_at: "2026-04-14 20:00:20"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Gestapo Building

@@ -8,7 +8,7 @@ categories:
   - "Remembering and commemorating"
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Bockenheim Synagoge

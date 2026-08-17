@@ -7,7 +7,7 @@ updated_at: "2025-05-22 09:14:56"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Goethe University boathouse

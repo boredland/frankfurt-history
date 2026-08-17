@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:38:41"
 categories:
   - "Widerstand Kategorie"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Auswandererberatungsstelle

@@ -7,7 +7,7 @@ updated_at: "2026-06-09 14:03:50"
 categories:
   - "Before-After-Camera Then and now"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Main customs office (today: Haus am Dom)

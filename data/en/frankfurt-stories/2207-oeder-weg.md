@@ -7,7 +7,7 @@ updated_at: "2026-01-30 13:46:34"
 categories:
   - "21th century"
 filters:
-  - "Frankfurt"
+  - "Frankfurt mobility locations"
 ---
 
 # Oeder Weg

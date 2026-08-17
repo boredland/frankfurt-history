@@ -7,7 +7,7 @@ updated_at: "2024-10-31 12:19:07"
 categories:
   - "20. Jahrhundert"
 filters:
-  - "Frankfurter"
+  - "Frankfurter Kolonialgeschichte"
 ---
 
 # Südwestafrikanisches Minen-Syndikat

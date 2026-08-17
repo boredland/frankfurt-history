@@ -5,7 +5,7 @@ subtitle: "Alexanderstraße 96"
 coordinates: [50.128053, 8.614025]
 updated_at: "2026-04-17 11:59:11"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # The Rödelheim Siechenhaus nursery home and hospital – Reconstructions and annexes (destroyed)

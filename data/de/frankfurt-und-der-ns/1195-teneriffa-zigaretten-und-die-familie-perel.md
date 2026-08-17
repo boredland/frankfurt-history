@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:12:37"
 categories:
   - "Biografien"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Teneriffa-Zigaretten und die Familie Perel

@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:41:44"
 categories:
   - "Wirtschaft, Verwaltung, Infrastruktur Erfahre mehr"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Verwaltungsgebäude I.G. Farben (heute: Johann Wolfgang Goethe-Universität)

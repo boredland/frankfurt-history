@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:40:03"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # "Zur Krone" Inn

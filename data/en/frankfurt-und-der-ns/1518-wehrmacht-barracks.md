@@ -7,7 +7,7 @@ updated_at: "2024-04-17 10:38:37"
 categories:
   - "Places"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # Wehrmacht barracks

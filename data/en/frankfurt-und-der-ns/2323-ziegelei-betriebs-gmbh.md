@@ -7,7 +7,7 @@ updated_at: "2025-12-08 18:32:11"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # Ziegelei-Betriebs-GmbH

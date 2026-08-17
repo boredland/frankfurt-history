@@ -7,7 +7,7 @@ updated_at: "2025-11-18 10:59:37"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # NSV Ortsgruppe Oberrad

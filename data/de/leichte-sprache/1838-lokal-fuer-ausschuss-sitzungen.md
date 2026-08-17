@@ -7,7 +7,7 @@ updated_at: "2025-04-16 10:27:10"
 categories:
   - "Frankfurt und die Revolution"
 filters:
-  - "Frankfurt"
+  - "Frankfurt und die Revolution"
 ---
 
 # Lokal für Ausschuss-Sitzungen

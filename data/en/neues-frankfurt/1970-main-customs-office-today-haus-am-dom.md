@@ -7,7 +7,7 @@ updated_at: "2025-05-22 09:45:58"
 categories:
   - "Economy, administration, infrastructure Learn more"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Main customs office (today: Haus am Dom)

@@ -7,7 +7,7 @@ updated_at: "2025-10-28 10:52:52"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Praunheim housing estate

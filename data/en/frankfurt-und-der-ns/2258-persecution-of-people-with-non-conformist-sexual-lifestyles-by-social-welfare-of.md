@@ -10,7 +10,7 @@ categories:
   - "Places"
   - "Verfolgung Kategorie"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Persecution of people with non-conformist sexual lifestyles by Social Welfare Office and Care Office

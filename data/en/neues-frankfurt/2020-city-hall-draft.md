@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:43:09"
 categories:
   - "Economy, administration, infrastructure Learn more"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # City hall – draft

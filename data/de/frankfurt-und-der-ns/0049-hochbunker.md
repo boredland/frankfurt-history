@@ -8,7 +8,7 @@ categories:
   - "Volksgemeinschaft Kategorie"
   - "Kriegsschauplätze"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # Hochbunker

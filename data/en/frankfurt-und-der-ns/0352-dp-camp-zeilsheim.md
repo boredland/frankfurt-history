@@ -5,7 +5,7 @@ subtitle: "Bechtenwaldpark"
 coordinates: [50.09932466374236, 8.500063576729577]
 updated_at: "2026-04-14 14:35:21"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # DP Camp Zeilsheim

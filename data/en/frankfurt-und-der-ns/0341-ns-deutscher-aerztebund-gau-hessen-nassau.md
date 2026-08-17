@@ -7,7 +7,7 @@ updated_at: "2025-11-17 11:04:50"
 categories:
   - "Places"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # NS Deutscher Ärztebund Gau Hessen-Nassau

@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:43:38"
 categories:
   - "Selbstbehauptung und Widerstand"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Bar Kochba Frankfurt

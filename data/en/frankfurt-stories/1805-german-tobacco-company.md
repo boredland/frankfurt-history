@@ -7,7 +7,7 @@ updated_at: "2024-11-07 09:39:39"
 categories:
   - "20th century"
 filters:
-  - "Colonial history"
+  - "Colonial history Frankfurt"
 ---
 
 # German Tobacco Company

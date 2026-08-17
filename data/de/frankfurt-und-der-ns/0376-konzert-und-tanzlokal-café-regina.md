@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Widerstand Kategorie"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Konzert- und Tanzlokal „Café Regina“

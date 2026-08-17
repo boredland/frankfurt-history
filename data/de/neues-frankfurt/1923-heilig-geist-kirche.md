@@ -7,7 +7,7 @@ updated_at: "2025-05-22 09:03:55"
 categories:
   - "Kirchen und Friedhöfe Orte"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # Heilig-Geist-Kirche

@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:27:10"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Reception and observation ward of the municipal hospital Sachsenhausen – no longer extant

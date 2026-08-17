@@ -5,7 +5,7 @@ subtitle: "Kleyerstraße 17"
 coordinates: [50.102001042350096, 8.641892173231097]
 updated_at: "2026-04-14 14:44:40"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Adlerwerke -  KZ „Katzbach" und Zwangsarbeitslager

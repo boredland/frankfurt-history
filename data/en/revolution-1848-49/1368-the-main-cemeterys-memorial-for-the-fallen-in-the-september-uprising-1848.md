@@ -7,7 +7,7 @@ updated_at: "2026-01-08 10:35:11"
 categories:
   - "Site of the September uprising 1848 Frankfurt’s Sites of the 1848-1849 Revolution"
 filters:
-  - "Scenes from"
+  - "Scenes from the September Riots"
 ---
 
 # The main cemetery’s Memorial for the Fallen in the September Uprising 1848

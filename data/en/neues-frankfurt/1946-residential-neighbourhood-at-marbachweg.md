@@ -7,7 +7,7 @@ updated_at: "2025-05-19 14:53:36"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Residential neighbourhood at Marbachweg

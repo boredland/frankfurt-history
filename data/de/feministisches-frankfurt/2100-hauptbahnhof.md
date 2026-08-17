@@ -5,7 +5,7 @@ subtitle: "Anna Edinger - Abfahrt zum Friedenskongress"
 coordinates: [50.1073333, 8.66425]
 updated_at: "2026-04-17 11:13:26"
 filters:
-  - "Orte des politischen"
+  - "Orte des politischen Widerstands"
 ---
 
 # Hauptbahnhof

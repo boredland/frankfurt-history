@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Widerstand Kategorie"
 filters:
-  - "Places of"
+  - "Places of resistance"
 ---
 
 # Quarter for people in hiding and printing workshop for illegal publications

@@ -5,7 +5,7 @@ subtitle: "5 Places – 5 Stories"
 coordinates: [50.11789, 8.696463]
 updated_at: "2026-04-09 15:03:56"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Bernhard Israel Karpf

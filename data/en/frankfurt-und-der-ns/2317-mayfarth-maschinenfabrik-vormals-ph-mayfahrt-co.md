@@ -7,7 +7,7 @@ updated_at: "2026-03-11 13:48:14"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # May­farth Maschi­nen­fabrik (vor­mals Ph. Mayfahrt & Co)

@@ -1,9 +1,9 @@
 ---
 id: 6
-title: "Feministisches Frankfurt"
-short_title: "Feministisches FFM"
+title: "Feminist Frankfurt"
+short_title: "Feminist Frankfurt"
 ---
 
-# Feministisches Frankfurt
+# Feminist Frankfurt
 
 

@@ -7,7 +7,7 @@ updated_at: "2026-02-23 14:39:29"
 categories:
   - "Kirchen und Friedhöfe Orte"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # St. Bonifatius-Kapelle Bonames

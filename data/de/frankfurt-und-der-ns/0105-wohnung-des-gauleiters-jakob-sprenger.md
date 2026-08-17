@@ -7,7 +7,7 @@ updated_at: "2025-10-15 09:20:59"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # Wohnung des Gauleiters Jakob Sprenger

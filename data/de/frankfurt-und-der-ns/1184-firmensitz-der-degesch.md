@@ -7,7 +7,7 @@ updated_at: "2026-03-11 16:47:54"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # Firmensitz der DeGeSch

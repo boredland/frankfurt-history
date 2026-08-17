@@ -5,7 +5,7 @@ subtitle: "Kettelerallee"
 coordinates: [50.12846222962451, 8.719529832503946]
 updated_at: "2025-04-16 06:58:26"
 filters:
-  - "125 years FSV"
+  - "125 years FSV (1899-2024)"
 ---
 
 # Stadium on Bornheimer Hang

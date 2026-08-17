@@ -7,7 +7,7 @@ updated_at: "2026-01-13 13:37:04"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # Gasthaus „Zur schönen Aussicht"

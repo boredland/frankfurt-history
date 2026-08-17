@@ -5,7 +5,7 @@ subtitle: "Berger Straße 233"
 coordinates: [50.12797825805268, 8.711028668855963]
 updated_at: "2025-04-16 07:00:06"
 filters:
-  - "125 Jahre FSV"
+  - "125 Jahre FSV (1899-2024)"
 ---
 
 # Schlagbaum/Schönberger

@@ -7,7 +7,7 @@ updated_at: "2026-01-08 08:54:34"
 categories:
   - "Drei Tage im September 1848 Orte der Revolution 1848/49"
 filters:
-  - "Szenen der"
+  - "Szenen der Septemberunruhen"
 ---
 
 # Volksversammlung auf der Pfingstweide

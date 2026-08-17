@@ -5,7 +5,7 @@ subtitle: "Kleine Rittergasse 39"
 coordinates: [50.105406, 8.689744]
 updated_at: "2026-04-15 15:20:45"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Wohnhaus von Johanna Klawuhn

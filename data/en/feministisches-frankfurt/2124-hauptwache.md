@@ -5,7 +5,7 @@ subtitle: "Annett Stoltze – Participation in the Revolution"
 coordinates: [50.11348228201427, 8.678753584572721]
 updated_at: "2026-04-17 11:01:14"
 filters:
-  - "Places of political"
+  - "Places of political resistance"
 ---
 
 # Hauptwache

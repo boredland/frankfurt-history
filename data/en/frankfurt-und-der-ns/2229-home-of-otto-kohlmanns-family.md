@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Places"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Home of Otto Kohlmann’s family

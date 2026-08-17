@@ -7,7 +7,7 @@ updated_at: "2025-05-26 20:33:28"
 categories:
   - "Vorher-Nachher-Kamera Damals und Heute"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Siedlung Bruchfeldstraße / Zickzackhausen

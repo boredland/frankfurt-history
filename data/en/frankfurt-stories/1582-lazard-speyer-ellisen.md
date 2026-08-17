@@ -7,7 +7,7 @@ updated_at: "2024-10-31 12:19:50"
 categories:
   - "20th century"
 filters:
-  - "Colonial history"
+  - "Colonial history Frankfurt"
 ---
 
 # Lazard Speyer-Ellisen

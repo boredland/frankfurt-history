@@ -5,7 +5,7 @@ subtitle: "Rödelheimer Parkweg 13, 60489 Frankfurt am Main"
 coordinates: [50.125718, 8.619928]
 updated_at: "2026-02-04 12:03:33"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Brentanobad – Luft- und Strandbad im Brentanopark

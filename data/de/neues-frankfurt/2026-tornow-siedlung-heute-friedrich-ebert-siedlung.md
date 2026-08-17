@@ -7,7 +7,7 @@ updated_at: "2025-05-22 04:14:52"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Tornow-Siedlung (heute: Friedrich-Ebert-Siedlung)

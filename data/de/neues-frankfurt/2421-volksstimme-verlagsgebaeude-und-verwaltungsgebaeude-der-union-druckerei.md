@@ -8,7 +8,7 @@ categories:
   - "Bauten Orte"
   - "Wirtschaft, Verwaltung, Infrastruktur Erfahre mehr"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # „Volksstimme“ – Verlagsgebäude und Verwaltungsgebäude der Union-Druckerei

@@ -5,7 +5,7 @@ subtitle: "Friedberger Anlage 5"
 coordinates: [50.11464092836658, 8.695680796241277]
 updated_at: "2026-04-14 14:37:06"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Hochbunker Friedberger Anlage

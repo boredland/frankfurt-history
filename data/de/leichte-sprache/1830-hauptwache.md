@@ -7,7 +7,7 @@ updated_at: "2025-04-16 10:29:05"
 categories:
   - "Frankfurt und die Revolution"
 filters:
-  - "Frankfurt"
+  - "Frankfurt und die Revolution"
 ---
 
 # Hauptwache

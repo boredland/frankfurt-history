@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:56:50"
 categories:
   - "Biografien"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Martin Bertram

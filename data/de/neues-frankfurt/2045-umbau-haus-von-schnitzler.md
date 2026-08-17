@@ -7,7 +7,7 @@ updated_at: "2026-02-04 13:20:03"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Umbau Haus von Schnitzler

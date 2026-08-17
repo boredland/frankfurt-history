@@ -7,7 +7,7 @@ updated_at: "2025-10-15 09:20:59"
 categories:
   - "Places"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # apartment of the Gauleiter Jakob Sprenger

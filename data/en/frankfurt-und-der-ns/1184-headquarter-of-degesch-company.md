@@ -7,7 +7,7 @@ updated_at: "2026-03-11 16:47:54"
 categories:
   - "Places"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # headquarter of DeGeSch company

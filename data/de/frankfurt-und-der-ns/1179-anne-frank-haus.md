@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:36:49"
 categories:
   - "Biografien"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Anne Frank Haus

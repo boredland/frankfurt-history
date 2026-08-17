@@ -7,7 +7,7 @@ updated_at: "2026-02-04 13:11:55"
 categories:
   - "Vorher-Nachher-Kamera Damals und Heute"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Siedlung Riederwald

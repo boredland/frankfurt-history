@@ -7,7 +7,7 @@ updated_at: "2026-04-17 11:28:33"
 categories:
   - "Feminismen der Gegenwart Erfahre mehr"
 filters:
-  - "Places of political"
+  - "Places of political resistance"
 ---
 
 # Yael Bartana: "Das Waisen-Karussell" (The Orphan Carousel) 2021

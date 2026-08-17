@@ -10,7 +10,7 @@ categories:
   - "Verfolgung Kategorie"
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Persecution of people stigmatized as "asocial"

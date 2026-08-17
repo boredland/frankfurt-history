@@ -7,7 +7,7 @@ updated_at: "2025-05-22 12:26:14"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Kindergarten Praunheim – Entwurf

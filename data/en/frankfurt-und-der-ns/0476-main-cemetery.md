@@ -7,7 +7,7 @@ updated_at: "2026-03-12 12:56:41"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Main Cemetery

@@ -5,7 +5,7 @@ subtitle: "Liebigstraße 27"
 coordinates: [50.120112, 8.665519]
 updated_at: "2024-11-08 07:53:53"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Naphtali Fromm

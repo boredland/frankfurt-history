@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Verfolgung Kategorie"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # Zwangs­arbei­ter­lager der IG Far­ben, Werk Gries­heim

@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:50:56"
 categories:
   - "Biographies"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Marie Schättle

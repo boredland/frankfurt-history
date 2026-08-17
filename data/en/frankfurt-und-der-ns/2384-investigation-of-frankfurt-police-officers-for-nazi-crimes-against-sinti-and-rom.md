@@ -7,7 +7,7 @@ updated_at: "2026-04-14 14:26:23"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Investigation of Frankfurt Police Officers for Nazi Crimes against Sinti and Roma

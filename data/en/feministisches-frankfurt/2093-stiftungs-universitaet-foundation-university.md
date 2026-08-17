@@ -5,7 +5,7 @@ subtitle: "Erna Auerbach – First place of study for women"
 coordinates: [50.118321, 8.651681]
 updated_at: "2026-04-17 11:26:33"
 filters:
-  - "Places of learning"
+  - "Places of learning and teaching"
 ---
 
 # Stiftungs Universität (Foundation University)

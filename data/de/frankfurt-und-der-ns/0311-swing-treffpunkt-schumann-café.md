@@ -5,7 +5,7 @@ subtitle: "gegenüber dem Hauptbahnhof"
 coordinates: [50.1083532, 8.6635126]
 updated_at: "2026-04-15 15:33:32"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Swing-Treffpunkt Schumann-Café

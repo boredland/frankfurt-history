@@ -5,7 +5,7 @@ subtitle: "Unterlindau 23"
 coordinates: [50.118273, 8.668118]
 updated_at: "2026-04-09 15:18:05"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # (Ehemalige) Synagoge Unterlindau

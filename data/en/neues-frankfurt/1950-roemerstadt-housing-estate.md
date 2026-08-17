@@ -7,7 +7,7 @@ updated_at: "2025-05-22 14:23:02"
 categories:
   - "Before-After-Camera Then and now"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Römerstadt housing estate

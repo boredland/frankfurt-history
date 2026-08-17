@@ -5,7 +5,7 @@ subtitle: "Bockenheimer Landstraße 67"
 coordinates: [50.11809, 8.662345]
 updated_at: "2026-04-09 15:26:04"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Café Laumer

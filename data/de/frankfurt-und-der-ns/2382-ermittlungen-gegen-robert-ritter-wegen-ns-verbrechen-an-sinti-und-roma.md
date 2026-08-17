@@ -7,7 +7,7 @@ updated_at: "2026-04-14 14:25:01"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Ermittlungen gegen Robert Ritter wegen NS-Verbrechen an Sinti und Roma

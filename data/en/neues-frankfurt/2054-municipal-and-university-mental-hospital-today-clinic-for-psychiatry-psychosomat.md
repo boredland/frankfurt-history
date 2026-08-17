@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:35:04"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Municipal and university mental hospital (today: Clinic for psychiatry, psychosomatic medicine, and psychotherapy)

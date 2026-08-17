@@ -10,7 +10,7 @@ categories:
   - "Orte"
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Sterilisation von Prostituierten und Personen mit unangepasstem Sexualleben

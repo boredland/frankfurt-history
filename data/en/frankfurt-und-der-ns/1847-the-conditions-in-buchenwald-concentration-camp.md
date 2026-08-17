@@ -5,7 +5,7 @@ subtitle: "Corneliusstraße 15"
 coordinates: [50.117095, 8.657384]
 updated_at: "2026-04-09 15:25:03"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # The conditions in Buchenwald concentration camp

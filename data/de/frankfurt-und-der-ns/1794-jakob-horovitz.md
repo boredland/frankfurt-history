@@ -5,7 +5,7 @@ subtitle: "Staufenstraße 33"
 coordinates: [50.118956, 8.667499]
 updated_at: "2026-04-09 15:18:28"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Jakob Horovitz

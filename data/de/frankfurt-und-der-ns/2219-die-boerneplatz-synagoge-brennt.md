@@ -5,7 +5,7 @@ subtitle: "Mit Lilo in Frankfurt unterwegs"
 coordinates: [50.112180092410206, 8.68928291846081]
 updated_at: "2026-04-15 10:20:03"
 filters:
-  - "Geschichte"
+  - "Geschichte für Kinder"
 ---
 
 # Die Börneplatz Synagoge brennt

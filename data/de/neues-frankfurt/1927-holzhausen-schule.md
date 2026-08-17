@@ -7,7 +7,7 @@ updated_at: "2025-05-22 09:09:14"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Holzhausen-Schule

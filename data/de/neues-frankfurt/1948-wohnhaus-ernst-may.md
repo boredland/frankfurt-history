@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:12:31"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Wohnhaus Ernst May

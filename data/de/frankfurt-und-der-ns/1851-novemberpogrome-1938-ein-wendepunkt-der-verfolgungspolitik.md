@@ -5,7 +5,7 @@ subtitle: "Ludwig-Erhard-Anlage 1"
 coordinates: [50.112332, 8.65071]
 updated_at: "2026-04-14 14:07:52"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Novemberpogrome 1938: Ein Wendepunkt der Verfolgungspolitik

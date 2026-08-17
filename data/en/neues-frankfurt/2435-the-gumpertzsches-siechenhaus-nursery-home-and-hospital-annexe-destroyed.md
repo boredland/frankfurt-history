@@ -8,7 +8,7 @@ categories:
   - "Constructions Places"
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # The Gumpertz’sches Siechenhaus nursery home and hospital – annexe (destroyed)

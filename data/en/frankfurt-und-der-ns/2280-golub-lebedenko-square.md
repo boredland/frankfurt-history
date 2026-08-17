@@ -7,7 +7,7 @@ updated_at: "2026-04-14 14:21:06"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Golub Lebedenko Square

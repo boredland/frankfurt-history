@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # DP Camp Zeilsheim

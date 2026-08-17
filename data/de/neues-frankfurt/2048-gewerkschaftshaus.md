@@ -7,7 +7,7 @@ updated_at: "2025-05-26 20:33:31"
 categories:
   - "Vorher-Nachher-Kamera Damals und Heute"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Gewerkschaftshaus

@@ -7,7 +7,7 @@ updated_at: "2025-07-17 16:42:30"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Denkmal JVA Preungesheim

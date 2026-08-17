@@ -7,7 +7,7 @@ updated_at: "2025-12-15 11:01:59"
 categories:
   - "Churches and cemeteries Places"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # Paul Gerhardt community centre

@@ -5,7 +5,7 @@ subtitle: "5 Places – 5 Stories"
 coordinates: [50.116987, 8.701531]
 updated_at: "2025-03-27 09:52:39"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Bamberger family

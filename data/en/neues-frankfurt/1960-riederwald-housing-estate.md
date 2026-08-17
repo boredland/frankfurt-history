@@ -7,7 +7,7 @@ updated_at: "2025-05-22 09:44:49"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Riederwald housing estate

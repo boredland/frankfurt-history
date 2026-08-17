@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:22:21"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Römerberg – 600 Jahre Roma und Sinti in Frankfurt

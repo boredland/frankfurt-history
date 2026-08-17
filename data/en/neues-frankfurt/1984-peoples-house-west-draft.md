@@ -7,7 +7,7 @@ updated_at: "2025-05-20 08:26:33"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # People’s house West - draft

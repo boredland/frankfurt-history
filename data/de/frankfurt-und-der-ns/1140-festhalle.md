@@ -7,7 +7,7 @@ updated_at: "2025-11-11 08:22:08"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Festhalle

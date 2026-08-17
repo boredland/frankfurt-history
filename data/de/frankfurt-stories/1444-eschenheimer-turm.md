@@ -7,7 +7,7 @@ updated_at: "2026-03-11 11:26:02"
 categories:
   - "19. Jahrhundert"
 filters:
-  - "Reiffensteins Frankfurt"
+  - "Reiffensteins Frankfurt (1820-1893)"
 ---
 
 # Eschenheimer Turm

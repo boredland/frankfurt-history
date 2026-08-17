@@ -8,7 +8,7 @@ categories:
   - "Volksgemeinschaft Kategorie"
   - "Places of War"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # Bomb shelter

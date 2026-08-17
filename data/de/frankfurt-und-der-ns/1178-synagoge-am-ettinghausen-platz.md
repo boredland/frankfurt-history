@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:36:13"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Synagoge am Ettinghausen-Platz

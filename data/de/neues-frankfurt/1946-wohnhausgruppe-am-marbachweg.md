@@ -7,7 +7,7 @@ updated_at: "2025-05-19 14:53:36"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Wohnhausgruppe am Marbachweg

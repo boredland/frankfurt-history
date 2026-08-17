@@ -5,7 +5,7 @@ subtitle: "Mit Lilo in Frankfurt unterwegs"
 coordinates: [50.085371, 8.586951]
 updated_at: "2026-04-15 10:24:49"
 filters:
-  - "Geschichte"
+  - "Geschichte für Kinder"
 ---
 
 # Lilo bekommt eine Straße

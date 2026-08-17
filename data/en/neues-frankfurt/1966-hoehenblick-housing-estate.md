@@ -7,7 +7,7 @@ updated_at: "2025-05-22 09:45:28"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Höhenblick housing estate

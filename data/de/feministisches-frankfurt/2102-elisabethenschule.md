@@ -5,7 +5,7 @@ subtitle: "Henriette Fürth – Berufsausbildungen für Frauen"
 coordinates: [50.1260833, 8.6755]
 updated_at: "2026-04-17 11:06:15"
 filters:
-  - "Orte des Lernens"
+  - "Orte des Lernens und Lehrens"
 ---
 
 # Elisabethenschule

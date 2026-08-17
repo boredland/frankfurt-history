@@ -5,7 +5,7 @@ subtitle: "Frankfurt Rhein-Main"
 coordinates: [50.0393464, 8.5623763]
 updated_at: "2026-04-14 14:42:52"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Flughafen Frankfurt

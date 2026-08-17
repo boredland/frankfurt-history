@@ -7,7 +7,7 @@ updated_at: "2026-04-17 11:36:13"
 categories:
   - "Feminismen der Gegenwart Erfahre mehr"
 filters:
-  - "Orte des politischen"
+  - "Orte des politischen Widerstands"
 ---
 
 # Rosemarie Trockel:  Frankfurter Engel (1994)

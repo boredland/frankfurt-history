@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:09:46"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Walter Thurecht's restaurant

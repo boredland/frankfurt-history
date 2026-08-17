@@ -5,7 +5,7 @@ subtitle: "Im Prüfling 64"
 coordinates: [50.130820901224155, 8.709165160707446]
 updated_at: "2025-04-16 06:59:50"
 filters:
-  - "125 Jahre FSV"
+  - "125 Jahre FSV (1899-2024)"
 ---
 
 # Das Sporteck

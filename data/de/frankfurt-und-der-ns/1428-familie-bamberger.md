@@ -5,7 +5,7 @@ subtitle: "5 Orte – 5 Geschichten"
 coordinates: [50.116987, 8.701531]
 updated_at: "2025-03-27 09:52:39"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Familie Bamberger

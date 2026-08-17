@@ -7,7 +7,7 @@ updated_at: "2026-07-09 14:36:27"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Gedenkstätte Arbeitserziehungslager Heddernheim

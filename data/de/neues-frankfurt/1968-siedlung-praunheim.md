@@ -7,7 +7,7 @@ updated_at: "2025-10-28 10:52:52"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Siedlung Praunheim

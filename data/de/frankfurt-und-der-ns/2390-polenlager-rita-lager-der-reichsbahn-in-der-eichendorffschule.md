@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:48:39"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # "Polenlager Rita" Lager der Reichsbahn in der Eichendorffschule

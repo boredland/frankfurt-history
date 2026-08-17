@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:09:46"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Die Gaststätte von Walter Thurecht

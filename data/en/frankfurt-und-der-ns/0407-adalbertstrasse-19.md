@@ -5,7 +5,7 @@ subtitle: "Adalbertstraße 19"
 coordinates: [50.1195565, 8.6450553]
 updated_at: "2026-04-14 14:41:15"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Adalbertstraße 19

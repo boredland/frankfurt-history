@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:13:02"
 categories:
   - "Selbstbehauptung und Widerstand"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Hachschara-Zentrum

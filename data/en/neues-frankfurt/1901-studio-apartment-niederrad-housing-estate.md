@@ -7,7 +7,7 @@ updated_at: "2025-05-22 10:49:02"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Studio apartment, Niederrad housing estate

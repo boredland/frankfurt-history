@@ -5,7 +5,7 @@ subtitle: "Kleyerstraße 17"
 coordinates: [50.102001042350096, 8.641892173231097]
 updated_at: "2026-04-14 14:44:40"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Adlerwerke - "Katzbach" concentration camp and forced labor camp

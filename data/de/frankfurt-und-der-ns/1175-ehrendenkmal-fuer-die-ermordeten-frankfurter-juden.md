@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:33:41"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Ehrendenkmal für die ermordeten Frankfurter Juden

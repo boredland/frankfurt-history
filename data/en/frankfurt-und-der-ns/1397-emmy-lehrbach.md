@@ -7,7 +7,7 @@ updated_at: "2024-02-13 14:47:09"
 categories:
   - "Biographies"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Emmy Lehrbach

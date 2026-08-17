@@ -5,7 +5,7 @@ subtitle: "Mit Lilo in Frankfurt unterwegs"
 coordinates: [50.132115, 8.670578]
 updated_at: "2026-04-15 10:23:15"
 filters:
-  - "Geschichte"
+  - "Geschichte für Kinder"
 ---
 
 # Der Zweite Weltkrieg – Lilo versteckt sich

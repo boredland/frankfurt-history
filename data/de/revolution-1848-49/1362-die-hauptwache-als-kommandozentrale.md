@@ -7,7 +7,7 @@ updated_at: "2026-01-07 10:50:15"
 categories:
   - "Drei Tage im September 1848 Orte der Revolution 1848/49"
 filters:
-  - "Szenen der"
+  - "Szenen der Septemberunruhen"
 ---
 
 # Die Hauptwache als Kommandozentrale

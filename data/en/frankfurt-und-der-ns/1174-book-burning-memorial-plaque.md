@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:33:01"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Book Burning Memorial Plaque

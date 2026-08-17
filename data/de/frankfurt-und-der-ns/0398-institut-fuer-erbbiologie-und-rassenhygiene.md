@@ -5,7 +5,7 @@ subtitle: "Gartenstraße 140"
 coordinates: [50.0991204, 8.6666638]
 updated_at: "2026-04-14 14:37:54"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Institut für Erbbiologie und Rassenhygiene

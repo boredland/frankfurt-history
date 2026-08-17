@@ -7,7 +7,7 @@ updated_at: "2026-03-19 15:15:01"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # Industriepark Höchst

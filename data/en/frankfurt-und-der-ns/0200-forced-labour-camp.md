@@ -7,7 +7,7 @@ updated_at: "2026-04-03 14:51:02"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # forced labour camp

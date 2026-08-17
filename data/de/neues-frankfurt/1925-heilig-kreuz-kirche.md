@@ -7,7 +7,7 @@ updated_at: "2025-05-22 11:19:13"
 categories:
   - "Kirchen und Friedhöfe Orte"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # Heilig-Kreuz-Kirche

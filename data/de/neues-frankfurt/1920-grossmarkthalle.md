@@ -7,7 +7,7 @@ updated_at: "2025-05-22 10:55:51"
 categories:
   - "Wirtschaft, Verwaltung, Infrastruktur Erfahre mehr"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Großmarkthalle

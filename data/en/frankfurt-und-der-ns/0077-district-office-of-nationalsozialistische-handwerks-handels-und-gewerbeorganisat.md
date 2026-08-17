@@ -7,7 +7,7 @@ updated_at: "2025-11-18 08:25:39"
 categories:
   - "Places"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # district office of Nationalsozialistische Handwerks, Handels-und Gewerbeorganisation (NS Hago)

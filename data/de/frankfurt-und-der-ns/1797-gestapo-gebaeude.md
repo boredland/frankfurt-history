@@ -5,7 +5,7 @@ subtitle: "Lindenstraße 27"
 coordinates: [50.116774, 8.660926]
 updated_at: "2024-11-07 11:59:58"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Gestapo-Gebäude

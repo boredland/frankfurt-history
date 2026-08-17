@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # Forced Labor Camp

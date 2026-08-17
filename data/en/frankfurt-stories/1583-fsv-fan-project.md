@@ -7,7 +7,7 @@ updated_at: "2025-04-16 06:58:13"
 categories:
   - "21th century"
 filters:
-  - "125 years FSV"
+  - "125 years FSV (1899-2024)"
 ---
 
 # FSV fan project

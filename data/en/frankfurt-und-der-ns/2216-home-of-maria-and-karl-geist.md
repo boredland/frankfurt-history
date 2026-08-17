@@ -7,7 +7,7 @@ updated_at: "2026-04-14 14:17:08"
 categories:
   - "Places"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Home of Maria and Karl Geist

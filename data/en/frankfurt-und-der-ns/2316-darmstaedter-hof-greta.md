@@ -7,7 +7,7 @@ updated_at: "2026-05-21 14:14:31"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # Darmstädter Hof („Greta")

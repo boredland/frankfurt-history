@@ -7,7 +7,7 @@ updated_at: "2024-10-08 10:35:01"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Wohnhaus der Familie Beit von Speyer

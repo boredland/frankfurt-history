@@ -10,7 +10,7 @@ categories:
   - "Verfolgung Kategorie"
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Verfolgung von als "asozial" stigmatisierten Menschen

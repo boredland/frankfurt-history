@@ -7,7 +7,7 @@ updated_at: "2024-04-17 11:13:26"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Wohnhaus der Familien Frohnhausen und Cohn

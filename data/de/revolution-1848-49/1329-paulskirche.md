@@ -7,7 +7,7 @@ updated_at: "2026-03-12 14:53:57"
 categories:
   - "Schauplätze der Revolution Orte der Revolution 1848/49"
 filters:
-  - "Schauplätze"
+  - "Schauplätze der Revolution"
 ---
 
 # Paulskirche

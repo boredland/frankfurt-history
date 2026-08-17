@@ -7,7 +7,7 @@ updated_at: "2025-05-22 11:19:13"
 categories:
   - "Churches and cemeteries Places"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # Church of the Holy Cross

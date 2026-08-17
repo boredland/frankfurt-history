@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:12:37"
 categories:
   - "Biographies"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Tenerife cigarettes and the Perel family

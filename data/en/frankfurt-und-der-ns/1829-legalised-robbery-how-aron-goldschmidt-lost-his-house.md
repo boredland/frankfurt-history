@@ -5,7 +5,7 @@ subtitle: "When lines are crossed!"
 coordinates: [50.118421, 8.697217]
 updated_at: "2024-12-27 08:25:37"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Legalised Robbery: How Aron Goldschmidt lost his house.

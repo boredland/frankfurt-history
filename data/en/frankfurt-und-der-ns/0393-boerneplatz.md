@@ -5,7 +5,7 @@ subtitle: "Börneplatz"
 coordinates: [50.1119738156944, 8.68949644609941]
 updated_at: "2026-04-14 14:36:07"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Börneplatz

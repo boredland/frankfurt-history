@@ -7,7 +7,7 @@ updated_at: "2026-03-19 15:07:13"
 categories:
   - "Orte"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Unterkunft von Jean Artigues

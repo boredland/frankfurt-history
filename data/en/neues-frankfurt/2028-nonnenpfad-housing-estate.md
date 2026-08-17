@@ -7,7 +7,7 @@ updated_at: "2025-05-22 04:14:14"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Nonnenpfad housing estate

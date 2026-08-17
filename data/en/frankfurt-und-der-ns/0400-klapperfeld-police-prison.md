@@ -5,7 +5,7 @@ subtitle: "Klapperfeldstraße 5"
 coordinates: [50.1153035, 8.6895835]
 updated_at: "2026-04-14 14:38:41"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Klapperfeld police prison

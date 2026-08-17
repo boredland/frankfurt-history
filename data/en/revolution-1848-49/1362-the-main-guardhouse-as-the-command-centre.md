@@ -7,7 +7,7 @@ updated_at: "2026-01-07 10:50:15"
 categories:
   - "Site of the September uprising 1848 Frankfurt’s Sites of the 1848-1849 Revolution"
 filters:
-  - "Scenes from"
+  - "Scenes from the September Riots"
 ---
 
 # The Main Guardhouse as the command centre

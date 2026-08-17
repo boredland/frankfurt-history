@@ -8,7 +8,7 @@ categories:
   - "19. Jahrhundert"
   - "20. Jahrhundert"
 filters:
-  - "Frankfurter"
+  - "Frankfurter Kolonialgeschichte"
 ---
 
 # Verein für Geographie und Statistik

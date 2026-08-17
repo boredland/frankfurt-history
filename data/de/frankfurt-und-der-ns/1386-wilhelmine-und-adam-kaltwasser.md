@@ -7,7 +7,7 @@ updated_at: "2024-02-13 15:00:16"
 categories:
   - "Biografien"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Wilhelmine und Adam Kaltwasser

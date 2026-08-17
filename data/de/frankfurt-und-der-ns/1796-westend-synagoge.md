@@ -5,7 +5,7 @@ subtitle: "Freiherr-von-Stein Straße 30-32"
 coordinates: [50.1210878535171, 8.66421068710309]
 updated_at: "2024-11-07 11:59:23"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Westend Synagoge

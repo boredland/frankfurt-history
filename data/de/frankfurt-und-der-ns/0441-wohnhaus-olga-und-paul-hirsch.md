@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Verfolgung Kategorie"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Wohnhaus Olga und Paul Hirsch

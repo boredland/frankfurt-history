@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:34:44"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Gedenktafel für Johanna Kirchner und Mahnmal für die Opfer des nationalsozialistischen Terrors

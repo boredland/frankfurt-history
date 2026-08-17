@@ -5,7 +5,7 @@ subtitle: "When lines are crossed!"
 coordinates: [50.117862, 8.685703]
 updated_at: "2026-04-09 15:20:34"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Sichel family

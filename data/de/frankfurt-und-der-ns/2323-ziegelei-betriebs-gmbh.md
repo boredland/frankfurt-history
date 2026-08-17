@@ -7,7 +7,7 @@ updated_at: "2025-12-08 18:32:11"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # Ziegelei-Betriebs-GmbH

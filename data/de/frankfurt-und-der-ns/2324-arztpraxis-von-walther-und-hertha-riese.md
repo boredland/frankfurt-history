@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:48:05"
 categories:
   - "Orte"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Arztpraxis von Walther und Hertha Riese

@@ -7,7 +7,7 @@ updated_at: "2025-05-22 12:25:02"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Gemeinschaftshaus Niederrad

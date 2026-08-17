@@ -5,7 +5,7 @@ subtitle: "5 Orte – 5 Geschichten"
 coordinates: [50.117733, 8.696643]
 updated_at: "2026-04-09 15:04:21"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Geschwister Stern

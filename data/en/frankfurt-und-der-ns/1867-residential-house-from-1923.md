@@ -5,7 +5,7 @@ subtitle: "built by Fritz Epstein"
 coordinates: [50.127499285153334, 8.680233298070297]
 updated_at: "2025-01-24 07:20:13"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Residential house from 1923

@@ -7,7 +7,7 @@ updated_at: "2026-03-12 12:56:41"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Das Gräberfeld am Hauptfriedhof

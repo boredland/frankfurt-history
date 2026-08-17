@@ -7,7 +7,7 @@ updated_at: "2026-04-14 14:26:23"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Ermittlungen gegen Frankfurter Polizeibeamte wegen NS-Verbrechen an Sinti und Roma

@@ -5,7 +5,7 @@ subtitle: "Neue Mainzer Straße 76"
 coordinates: [50.114414, 8.672416]
 updated_at: "2026-04-14 14:10:58"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Fate of Emanuel Rothschild (1895-1975)

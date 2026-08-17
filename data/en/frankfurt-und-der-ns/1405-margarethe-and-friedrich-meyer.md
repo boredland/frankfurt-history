@@ -7,7 +7,7 @@ updated_at: "2024-02-13 14:22:46"
 categories:
   - "Biographies"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Margarethe and Friedrich Meyer

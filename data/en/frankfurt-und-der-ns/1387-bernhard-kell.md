@@ -7,7 +7,7 @@ updated_at: "2024-02-13 14:31:51"
 categories:
   - "Biographies"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Bernhard Kell

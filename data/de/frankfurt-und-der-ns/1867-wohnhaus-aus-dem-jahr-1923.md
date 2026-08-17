@@ -5,7 +5,7 @@ subtitle: "Gebäude von Fritz Epstein"
 coordinates: [50.127499285153334, 8.680233298070297]
 updated_at: "2025-01-24 07:20:13"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Wohnhaus aus dem Jahr 1923

@@ -7,7 +7,7 @@ updated_at: "2026-01-30 13:47:12"
 categories:
   - "19th century"
 filters:
-  - "Frankfurt"
+  - "Frankfurt mobility locations"
 ---
 
 # Wall Park

@@ -5,7 +5,7 @@ subtitle: "Gebäude von Fritz Epstein"
 coordinates: [50.15143431119451, 8.661612733786976]
 updated_at: "2025-01-24 07:20:26"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Mietshaus aus dem Jahr 1930

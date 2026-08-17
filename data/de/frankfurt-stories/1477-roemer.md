@@ -7,7 +7,7 @@ updated_at: "2026-05-13 11:42:50"
 categories:
   - "19. Jahrhundert"
 filters:
-  - "Reiffensteins Frankfurt"
+  - "Reiffensteins Frankfurt (1820-1893)"
 ---
 
 # Römer

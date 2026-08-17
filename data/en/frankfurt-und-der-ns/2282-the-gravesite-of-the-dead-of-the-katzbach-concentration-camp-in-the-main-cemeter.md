@@ -7,7 +7,7 @@ updated_at: "2026-04-14 14:22:42"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # The Gravesite of the Dead of the “Katzbach” Concentration Camp in the Main Cemetery

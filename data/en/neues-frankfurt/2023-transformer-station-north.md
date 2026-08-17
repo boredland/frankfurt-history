@@ -7,7 +7,7 @@ updated_at: "2026-02-23 14:33:11"
 categories:
   - "Economy, administration, infrastructure Learn more"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Transformer station North

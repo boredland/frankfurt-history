@@ -5,7 +5,7 @@ subtitle: "Gaußstraße 14"
 coordinates: [50.1209459004956, 8.692683866971095]
 updated_at: "2025-11-12 08:10:32"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Gaußstraße 14

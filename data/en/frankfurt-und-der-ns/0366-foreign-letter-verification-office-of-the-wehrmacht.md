@@ -7,7 +7,7 @@ updated_at: "2026-04-15 14:39:42"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Foreign letter verification office of the Wehrmacht

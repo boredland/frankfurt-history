@@ -7,7 +7,7 @@ updated_at: "2026-04-09 15:23:10"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Friedhof Westhausen - Italienischer Ehrenfriedhof

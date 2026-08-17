@@ -5,7 +5,7 @@ subtitle: "built by Fritz Epstein"
 coordinates: [50.127409931210934, 8.652963200351097]
 updated_at: "2026-04-14 14:14:29"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Villas from 1921 (right) and 1922 (center)  Am Leon­hardsbrunn 11 and 13

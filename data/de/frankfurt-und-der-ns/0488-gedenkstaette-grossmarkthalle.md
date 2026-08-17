@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Orte"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Gedenkstätte Großmarkthalle

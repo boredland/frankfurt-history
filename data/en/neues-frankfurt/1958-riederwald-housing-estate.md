@@ -7,7 +7,7 @@ updated_at: "2026-02-04 13:11:55"
 categories:
   - "Before-After-Camera Then and now"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Riederwald housing estate

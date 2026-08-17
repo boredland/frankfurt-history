@@ -7,7 +7,7 @@ updated_at: "2026-04-20 16:12:28"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Secondary residence of G. Wild

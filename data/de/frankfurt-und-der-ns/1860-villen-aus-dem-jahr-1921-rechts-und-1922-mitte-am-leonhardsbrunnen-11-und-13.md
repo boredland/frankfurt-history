@@ -5,7 +5,7 @@ subtitle: "Gebäude von Fritz Epstein"
 coordinates: [50.127409931210934, 8.652963200351097]
 updated_at: "2026-04-14 14:14:29"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Villen aus dem Jahr 1921 (rechts) und 1922 (mitte) Am Leonhardsbrunnen 11 und 13

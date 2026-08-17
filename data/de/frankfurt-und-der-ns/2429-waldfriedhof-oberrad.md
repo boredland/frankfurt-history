@@ -7,7 +7,7 @@ updated_at: "2026-04-13 13:03:16"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Waldfriedhof Oberrad

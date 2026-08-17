@@ -7,7 +7,7 @@ updated_at: "2026-02-13 14:16:01"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Retirement home of the Henry und Emma Budge-Stiftung

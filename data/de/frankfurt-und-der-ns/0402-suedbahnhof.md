@@ -5,7 +5,7 @@ subtitle: "Südbahnhof"
 coordinates: [50.0997704, 8.6853227]
 updated_at: "2026-04-14 14:39:28"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Südbahnhof

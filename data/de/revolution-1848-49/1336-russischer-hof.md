@@ -7,7 +7,7 @@ updated_at: "2026-01-05 11:56:23"
 categories:
   - "Schauplätze der Revolution Orte der Revolution 1848/49"
 filters:
-  - "Schauplätze"
+  - "Schauplätze der Revolution"
 ---
 
 # Russischer Hof

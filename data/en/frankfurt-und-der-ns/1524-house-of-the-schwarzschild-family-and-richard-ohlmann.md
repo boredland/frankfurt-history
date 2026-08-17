@@ -7,7 +7,7 @@ updated_at: "2024-04-30 02:23:53"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # House of the Schwarzschild family and Richard Ohlmann

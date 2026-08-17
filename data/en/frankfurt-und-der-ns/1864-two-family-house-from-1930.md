@@ -5,7 +5,7 @@ subtitle: "built by Fritz Epstein"
 coordinates: [50.15004390364696, 8.66748755710232]
 updated_at: "2025-01-24 07:20:51"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Two-family house from 1930

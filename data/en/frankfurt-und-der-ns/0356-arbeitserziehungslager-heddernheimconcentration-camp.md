@@ -8,7 +8,7 @@ categories:
   - "Verfolgung Kategorie"
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # Arbeitserziehungslager Heddernheim/Concentration Camp

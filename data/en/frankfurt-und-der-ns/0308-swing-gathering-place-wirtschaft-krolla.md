@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Widerstand Kategorie"
 filters:
-  - "Places of"
+  - "Places of resistance"
 ---
 
 # Swing gathering place „Wirtschaft Krolla“

@@ -7,7 +7,7 @@ updated_at: "2026-01-13 13:37:04"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # "Zur schönen Aussicht" inn

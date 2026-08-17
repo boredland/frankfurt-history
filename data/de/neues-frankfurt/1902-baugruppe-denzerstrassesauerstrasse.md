@@ -7,7 +7,7 @@ updated_at: "2025-05-19 14:47:12"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Baugruppe Denzerstraße/Sauerstraße

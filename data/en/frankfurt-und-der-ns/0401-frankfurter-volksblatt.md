@@ -5,7 +5,7 @@ subtitle: "Neue Mainzer Straße 8"
 coordinates: [50.10915417726733, 8.67554151109167]
 updated_at: "2026-04-14 14:39:06"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Frankfurter Volksblatt

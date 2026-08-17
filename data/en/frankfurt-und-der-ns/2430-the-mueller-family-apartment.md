@@ -7,7 +7,7 @@ updated_at: "2026-04-28 08:03:40"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # The Müller family apartment

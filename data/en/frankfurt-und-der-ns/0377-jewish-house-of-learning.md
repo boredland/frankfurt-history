@@ -8,7 +8,7 @@ categories:
   - "Widerstand Kategorie"
   - "Self-assertion and resistance"
 filters:
-  - "Places of"
+  - "Places of resistance"
 ---
 
 # Jewish House of Learning

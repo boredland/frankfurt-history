@@ -7,7 +7,7 @@ updated_at: "2026-02-04 12:05:50"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Mental hospital director’s villa

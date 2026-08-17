@@ -7,7 +7,7 @@ updated_at: "2024-02-13 14:25:02"
 categories:
   - "Biografien"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Elisabeth Mayer

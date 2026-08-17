@@ -7,7 +7,7 @@ updated_at: "2026-03-12 12:55:32"
 categories:
   - "Orte"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Gestapo-Hauptquartier

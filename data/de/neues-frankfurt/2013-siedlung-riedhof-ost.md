@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:18:07"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Siedlung Riedhof-Ost

@@ -5,7 +5,7 @@ subtitle: "Eulengasse 46"
 coordinates: [50.13155702257172, 8.712109971366186]
 updated_at: "2025-04-16 06:58:05"
 filters:
-  - "125 Jahre FSV"
+  - "125 Jahre FSV (1899-2024)"
 ---
 
 # Die Eulenburg - Vereinslokal

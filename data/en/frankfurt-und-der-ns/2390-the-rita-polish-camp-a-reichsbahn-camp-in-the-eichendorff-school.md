@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:48:39"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # "The Rita Polish camp" A Reichsbahn camp in the Eichendorff School

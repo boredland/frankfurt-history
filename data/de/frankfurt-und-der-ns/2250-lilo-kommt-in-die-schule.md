@@ -5,7 +5,7 @@ subtitle: "Mit Lilo in Frankfurt unterwegs"
 coordinates: [50.116727, 8.6849]
 updated_at: "2026-04-15 10:22:38"
 filters:
-  - "Geschichte"
+  - "Geschichte für Kinder"
 ---
 
 # Lilo kommt in die Schule

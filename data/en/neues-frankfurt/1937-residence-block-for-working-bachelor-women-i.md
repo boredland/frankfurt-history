@@ -7,7 +7,7 @@ updated_at: "2025-05-22 11:23:19"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Residence block for working bachelor women I

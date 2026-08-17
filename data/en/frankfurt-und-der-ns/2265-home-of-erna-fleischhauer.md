@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:17:17"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Home of Erna Fleischhauer

@@ -5,7 +5,7 @@ subtitle: "Gebäude von Fritz Epstein"
 coordinates: [50.11729355562227, 8.709971725751917]
 updated_at: "2025-01-24 07:20:59"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Wohnhausgruppe der Gemeinnützigen Gesellschaft für Wohnungsbau, 1924-29

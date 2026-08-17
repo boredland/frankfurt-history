@@ -7,7 +7,7 @@ updated_at: "2025-11-20 10:36:40"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # Redaktion des Frankfurter Volksblattes

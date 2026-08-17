@@ -7,7 +7,7 @@ updated_at: "2026-03-11 11:15:42"
 categories:
   - "19th century"
 filters:
-  - "Reiffensteins Frankfurt"
+  - "Reiffensteins Frankfurt (1820-1893)"
 ---
 
 # Löhergasse

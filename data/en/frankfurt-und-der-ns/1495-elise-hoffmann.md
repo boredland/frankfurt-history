@@ -5,7 +5,7 @@ subtitle: "Hansaallee 146"
 coordinates: [50.134052, 8.668592]
 updated_at: "2026-04-09 15:08:16"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Elise Hoffmann

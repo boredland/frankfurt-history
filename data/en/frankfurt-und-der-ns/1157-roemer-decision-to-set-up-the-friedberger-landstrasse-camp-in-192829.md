@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:10:47"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Römer - Decision to set up the Friedberger Landstraße camp in 1928/29

@@ -7,7 +7,7 @@ updated_at: "2025-07-02 10:55:58"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Gedenktafel Synagoge Friedberger Anlage

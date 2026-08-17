@@ -5,7 +5,7 @@ subtitle: "Kurt-Schumacher-Straße 41"
 coordinates: [50.113636, 8.687601]
 updated_at: "2026-04-09 15:27:30"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Memorial plaques to the former main synagogue

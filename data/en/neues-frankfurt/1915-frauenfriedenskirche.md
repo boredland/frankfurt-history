@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:52:39"
 categories:
   - "Churches and cemeteries Places"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # Frauenfriedenskirche

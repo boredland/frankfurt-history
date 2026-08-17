@@ -5,7 +5,7 @@ subtitle: "Niederräder Landstraße 10"
 coordinates: [50.08801333043957, 8.664098582273253]
 updated_at: "2026-04-14 14:40:12"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Niederräder Landstraße 10

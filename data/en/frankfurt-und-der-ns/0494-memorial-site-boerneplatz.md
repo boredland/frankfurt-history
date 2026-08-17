@@ -7,7 +7,7 @@ updated_at: "2026-03-12 13:51:28"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Memorial Site Börneplatz

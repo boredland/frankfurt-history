@@ -7,7 +7,7 @@ updated_at: "2026-02-04 12:22:28"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Hallenschwimmbad Moltke-Allee – Entwurf

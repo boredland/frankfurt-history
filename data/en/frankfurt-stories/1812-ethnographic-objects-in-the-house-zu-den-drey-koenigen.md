@@ -7,7 +7,7 @@ updated_at: "2026-03-11 11:49:02"
 categories:
   - "19th century"
 filters:
-  - "Colonial history"
+  - "Colonial history Frankfurt"
 ---
 
 # Ethnographic objects in the house ‘Zu den Drey Königen’

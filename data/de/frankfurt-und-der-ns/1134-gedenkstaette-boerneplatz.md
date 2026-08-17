@@ -7,7 +7,7 @@ updated_at: "2025-07-17 16:42:21"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Gedenkstätte Börneplatz

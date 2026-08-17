@@ -5,7 +5,7 @@ subtitle: "heute Theodor-W.-Adorno-Platz 6"
 coordinates: [50.1286, 8.67]
 updated_at: "2026-04-15 15:19:03"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Städtische Heilanstalt

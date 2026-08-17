@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:39:59"
 categories:
   - "Wirtschaft, Verwaltung, Infrastruktur Erfahre mehr"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Gewerkschaftshaus

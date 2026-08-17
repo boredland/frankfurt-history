@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:18:07"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Riedhof-Ost housing estate

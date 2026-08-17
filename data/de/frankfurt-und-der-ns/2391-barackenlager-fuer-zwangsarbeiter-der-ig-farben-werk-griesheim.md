@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:49:24"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # Barackenlager für Zwangsarbeiter der I.G. Farben, Werk Griesheim

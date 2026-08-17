@@ -5,7 +5,7 @@ subtitle: "Danziger Platz 2"
 coordinates: [50.112771, 8.7062906]
 updated_at: "2026-04-14 14:40:55"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Headquarters of Nazi organizations

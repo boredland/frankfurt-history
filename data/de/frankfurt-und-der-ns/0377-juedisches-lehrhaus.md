@@ -8,7 +8,7 @@ categories:
   - "Widerstand Kategorie"
   - "Selbstbehauptung und Widerstand"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Jüdisches Lehrhaus

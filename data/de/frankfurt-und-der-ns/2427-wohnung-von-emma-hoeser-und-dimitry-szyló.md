@@ -7,7 +7,7 @@ updated_at: "2026-04-22 13:33:45"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Wohnung von Emma Höser und Dimitry Szyló

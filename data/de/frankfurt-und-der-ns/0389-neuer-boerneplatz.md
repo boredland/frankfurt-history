@@ -7,7 +7,7 @@ updated_at: "2026-03-12 12:54:19"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Neuer Börneplatz

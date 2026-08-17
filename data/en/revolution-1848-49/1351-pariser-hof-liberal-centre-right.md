@@ -7,7 +7,7 @@ updated_at: "2026-01-06 11:30:46"
 categories:
   - "Where the parliamentary groups met Frankfurt’s Sites of the 1848-1849 Revolution"
 filters:
-  - "Meeting points"
+  - "Meeting points of the political groups"
 ---
 
 # Pariser Hof (liberal centre-right)

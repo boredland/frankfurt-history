@@ -5,7 +5,7 @@ subtitle: "5 Places – 5 Stories"
 coordinates: [50.110225, 8.691823]
 updated_at: "2025-03-27 09:51:10"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Albert Flörsheim

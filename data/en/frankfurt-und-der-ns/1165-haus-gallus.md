@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:23:15"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Haus Gallus

@@ -7,7 +7,7 @@ updated_at: "2026-05-28 12:55:24"
 categories:
   - "Places"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # Römer City Hall

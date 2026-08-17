@@ -9,7 +9,7 @@ categories:
   - "Verfolgung Kategorie"
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Frankfurt Outskirts Tax Office

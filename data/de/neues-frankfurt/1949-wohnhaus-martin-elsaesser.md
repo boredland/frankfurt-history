@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:13:11"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Wohnhaus Martin Elsaesser

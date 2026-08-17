@@ -7,7 +7,7 @@ updated_at: "2025-07-17 12:03:36"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # Nationalsozialistische Verlags-Gesellschaft mbH

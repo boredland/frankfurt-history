@@ -7,7 +7,7 @@ updated_at: "2024-10-31 12:29:31"
 categories:
   - "19. Jahrhundert"
 filters:
-  - "Reiffensteins Frankfurt"
+  - "Reiffensteins Frankfurt (1820-1893)"
 ---
 
 # Fleischschirne des Ehepaars Lautenschläger

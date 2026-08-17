@@ -7,7 +7,7 @@ updated_at: "2024-02-13 14:21:30"
 categories:
   - "Biografien"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Daniël Hamerslag

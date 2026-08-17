@@ -5,7 +5,7 @@ subtitle: "Freiherr-vom-Stein-Straße 28-32"
 coordinates: [50.1210878535171, 8.66421068710309]
 updated_at: "2026-04-14 14:36:46"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Westend Synagoge

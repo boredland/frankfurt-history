@@ -5,7 +5,7 @@ subtitle: "When lines are crossed!"
 coordinates: [50.12011, 8.679572]
 updated_at: "2024-12-18 08:28:38"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Sander family

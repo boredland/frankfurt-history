@@ -7,7 +7,7 @@ updated_at: "2024-10-31 12:19:16"
 categories:
   - "19th century"
 filters:
-  - "Colonial history"
+  - "Colonial history Frankfurt"
 ---
 
 # Advice centre of the Frankfurt Emigration Association

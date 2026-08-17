@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:43:09"
 categories:
   - "Wirtschaft, Verwaltung, Infrastruktur Erfahre mehr"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Rathaus – Entwurf

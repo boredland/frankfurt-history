@@ -7,7 +7,7 @@ updated_at: "2025-12-03 18:04:03"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Das Waisen-Karussel

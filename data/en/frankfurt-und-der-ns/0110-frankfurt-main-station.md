@@ -6,7 +6,7 @@ updated_at: "2026-04-14 19:52:45"
 categories:
   - "Verfolgung Kategorie"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Frankfurt main station

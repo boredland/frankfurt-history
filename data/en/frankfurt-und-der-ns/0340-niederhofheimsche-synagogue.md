@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Niederhofheim'sche synagogue

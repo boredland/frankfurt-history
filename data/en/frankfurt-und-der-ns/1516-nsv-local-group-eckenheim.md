@@ -7,7 +7,7 @@ updated_at: "2025-07-17 09:24:13"
 categories:
   - "Places"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # NSV local group Eckenheim

@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:13:02"
 categories:
   - "Self-assertion and resistance"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Hachshara Center

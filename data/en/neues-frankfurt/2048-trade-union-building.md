@@ -7,7 +7,7 @@ updated_at: "2025-05-26 20:33:31"
 categories:
   - "Before-After-Camera Then and now"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Trade union building

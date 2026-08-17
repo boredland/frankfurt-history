@@ -5,7 +5,7 @@ subtitle: "Mit Lilo in Frankfurt unterwegs"
 coordinates: [50.1107867833473, 8.689001724405566]
 updated_at: "2026-04-15 10:20:46"
 filters:
-  - "Geschichte"
+  - "Geschichte für Kinder"
 ---
 
 # Spielen und Leben in der Frankfurter Altstadt

@@ -7,7 +7,7 @@ updated_at: "2025-04-16 06:58:20"
 categories:
   - "20. Jahrhundert"
 filters:
-  - "125 Jahre FSV"
+  - "125 Jahre FSV (1899-2024)"
 ---
 
 # Gedenkstein: Der FSV im Nationalsozialismus

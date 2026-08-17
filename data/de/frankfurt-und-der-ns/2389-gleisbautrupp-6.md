@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:47:53"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # Gleisbautrupp 6

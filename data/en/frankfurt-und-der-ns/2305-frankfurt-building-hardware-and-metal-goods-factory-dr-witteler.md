@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:43:48"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # Frankfurt Building Hardware and Metal Goods Factory Dr. Witteler

@@ -7,7 +7,7 @@ updated_at: "2024-10-31 12:18:57"
 categories:
   - "20. Jahrhundert"
 filters:
-  - "Frankfurter"
+  - "Frankfurter Kolonialgeschichte"
 ---
 
 # Der Mord an Georg Puchert

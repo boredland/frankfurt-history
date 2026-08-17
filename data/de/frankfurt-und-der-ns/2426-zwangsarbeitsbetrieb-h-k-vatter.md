@@ -7,7 +7,7 @@ updated_at: "2026-04-13 13:02:21"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # Zwangsarbeitsbetrieb H. & K. Vatter

@@ -7,7 +7,7 @@ updated_at: "2026-03-12 13:59:34"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # DP Lager Zeilsheim

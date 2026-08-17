@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Widerstand Kategorie"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Wohn­haus der Wider­ständlerin Lore Wolf

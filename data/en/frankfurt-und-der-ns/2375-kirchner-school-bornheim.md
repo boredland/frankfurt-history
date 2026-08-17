@@ -5,7 +5,7 @@ subtitle: "Berger Straße"
 coordinates: [50.12848249766901, 8.711777167879216]
 updated_at: "2026-03-18 15:00:04"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # Kirchner School Bornheim

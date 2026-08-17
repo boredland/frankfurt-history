@@ -5,7 +5,7 @@ subtitle: "Eckenheimer Landstraße 84"
 coordinates: [50.124913, 8.686477]
 updated_at: "2024-09-16 10:07:20"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Familie Ebe & Lederwarenladen Ebe

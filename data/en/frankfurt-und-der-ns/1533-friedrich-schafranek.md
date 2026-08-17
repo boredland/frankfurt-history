@@ -7,7 +7,7 @@ updated_at: "2026-04-09 15:17:36"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Friedrich Schafranek

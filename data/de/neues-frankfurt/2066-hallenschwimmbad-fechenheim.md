@@ -7,7 +7,7 @@ updated_at: "2026-02-23 14:31:05"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Hallenschwimmbad Fechenheim

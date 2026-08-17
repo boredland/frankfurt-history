@@ -5,7 +5,7 @@ subtitle: "Bertha Pappenheim – Jewish Care Work"
 coordinates: [50.1136944, 8.697722222222222]
 updated_at: "2026-04-17 11:19:32"
 filters:
-  - "Places of political"
+  - "Places of political resistance"
 ---
 
 # Soup Kitchen

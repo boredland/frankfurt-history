@@ -5,7 +5,7 @@ subtitle: "Wenn Grenzen überschritten werden!"
 coordinates: [50.118543, 8.697337]
 updated_at: "2024-12-18 08:39:01"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Wie das NS-Regime das Leben von Sali Seligmann veränderte

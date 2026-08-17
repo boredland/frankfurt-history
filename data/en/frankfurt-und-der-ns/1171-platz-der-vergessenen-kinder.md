@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:29:47"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Platz der Vergessenen Kinder

@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Self-assertion and resistance"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Westend Synagoge

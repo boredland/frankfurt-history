@@ -7,7 +7,7 @@ updated_at: "2025-05-22 11:23:19"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Ledigenheim für berufstätige Frauen I

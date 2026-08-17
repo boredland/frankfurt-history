@@ -7,7 +7,7 @@ updated_at: "2026-04-20 16:02:34"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Verfolgung von Sinti und Roma durch das Fürsorgeamt

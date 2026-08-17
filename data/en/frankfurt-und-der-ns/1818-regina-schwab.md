@@ -5,7 +5,7 @@ subtitle: "When lines are crossed!"
 coordinates: [50.118087, 8.697566]
 updated_at: "2026-04-09 15:19:36"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Regina Schwab

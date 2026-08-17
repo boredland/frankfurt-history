@@ -7,7 +7,7 @@ updated_at: "2026-04-28 08:03:40"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Wohnung der Familie Müller

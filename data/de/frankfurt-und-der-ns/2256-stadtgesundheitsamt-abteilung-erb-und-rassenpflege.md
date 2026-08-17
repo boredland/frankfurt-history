@@ -15,7 +15,7 @@ categories:
   - "Orte"
   - "Volksgemeinschaft Kategorie"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Stadtgesundheitsamt Abteilung „Erb- und Rassenpflege“

@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:35:25"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Synagogue Memorial Site

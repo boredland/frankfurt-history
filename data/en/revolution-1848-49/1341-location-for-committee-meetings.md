@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:40:00"
 categories:
   - "Sites of the Revolution Frankfurt’s Sites of the 1848-1849 Revolution"
 filters:
-  - "Theatres"
+  - "Theatres of the Revolution"
 ---
 
 # Location for committee meetings

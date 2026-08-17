@@ -5,7 +5,7 @@ subtitle: "Offenbacher Landstraße"
 coordinates: [50.10024027070471, 8.719742024585123]
 updated_at: "2026-04-14 14:38:18"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Offenbacher Landstraße

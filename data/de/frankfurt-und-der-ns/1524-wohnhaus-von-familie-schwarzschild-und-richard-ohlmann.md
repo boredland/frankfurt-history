@@ -7,7 +7,7 @@ updated_at: "2024-04-30 02:23:53"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Wohnhaus von Familie Schwarzschild und Richard Ohlmann

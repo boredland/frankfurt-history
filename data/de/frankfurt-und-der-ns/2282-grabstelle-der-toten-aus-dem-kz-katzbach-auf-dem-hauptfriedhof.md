@@ -7,7 +7,7 @@ updated_at: "2026-04-14 14:22:42"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Grabstelle der Toten aus dem KZ „Katzbach“ auf dem Hauptfriedhof

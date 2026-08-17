@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:26:41"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Institute for Social Research (destroyed)

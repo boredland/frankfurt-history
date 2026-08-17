@@ -7,7 +7,7 @@ updated_at: "2025-05-21 09:30:55"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Mammolshainer Straße housing estate

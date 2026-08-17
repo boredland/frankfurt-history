@@ -7,7 +7,7 @@ updated_at: "2026-04-22 13:33:45"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Emma Höser und Dimitry Szyló's Appartment

@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:38:41"
 categories:
   - "Widerstand Kategorie"
 filters:
-  - "Places of"
+  - "Places of resistance"
 ---
 
 # Emigration Advice Office

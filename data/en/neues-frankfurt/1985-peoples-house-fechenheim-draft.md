@@ -7,7 +7,7 @@ updated_at: "2026-02-04 13:27:06"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # People’s house Fechenheim - draft

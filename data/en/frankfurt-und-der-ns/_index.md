@@ -1,9 +1,9 @@
 ---
 id: 1
-title: "Frankfurt und der NS"
-short_title: "Frankfurt und der NS"
+title: "Frankfurt and the NS"
+short_title: "Frankfurt and the NS"
 ---
 
-# Frankfurt und der NS
+# Frankfurt and the NS
 
 

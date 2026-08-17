@@ -7,7 +7,7 @@ updated_at: "2026-02-13 14:16:01"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Altenheim der Henry und Emma Budge-Stiftung

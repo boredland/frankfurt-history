@@ -7,7 +7,7 @@ updated_at: "2026-08-12 12:48:26"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Kaufhaus Schiff

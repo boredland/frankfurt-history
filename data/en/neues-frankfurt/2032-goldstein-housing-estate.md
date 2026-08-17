@@ -7,7 +7,7 @@ updated_at: "2025-05-22 04:12:27"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Goldstein housing estate

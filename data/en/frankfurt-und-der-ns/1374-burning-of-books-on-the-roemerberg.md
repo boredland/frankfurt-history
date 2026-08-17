@@ -5,7 +5,7 @@ subtitle: "Römerberg"
 coordinates: [50.11035428339835, 8.682208987866147]
 updated_at: "2026-04-14 14:45:41"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Burning of books on the Römerberg

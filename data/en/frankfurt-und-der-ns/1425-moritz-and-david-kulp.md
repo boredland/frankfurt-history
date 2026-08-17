@@ -5,7 +5,7 @@ subtitle: "5 Places – 5 Stories"
 coordinates: [50.112877, 8.695545]
 updated_at: "2026-04-09 15:04:44"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Moritz and David Kulp

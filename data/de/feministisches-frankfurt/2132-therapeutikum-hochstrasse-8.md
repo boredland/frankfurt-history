@@ -5,7 +5,7 @@ subtitle: "Else Wüst - Arbeiten im Widerstand"
 coordinates: [50.117036, 8.678902]
 updated_at: "2026-04-17 10:54:41"
 filters:
-  - "Orte des politischen"
+  - "Orte des politischen Widerstands"
 ---
 
 # „Therapeutikum“ - Hochstraße 8

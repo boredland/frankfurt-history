@@ -7,7 +7,7 @@ updated_at: "2026-01-06 10:54:57"
 categories:
   - "Treffpunkte der Fraktionen Orte der Revolution 1848/49"
 filters:
-  - "Treffpunkte"
+  - "Treffpunkte der Fraktionen"
 ---
 
 # Braunfels (kleindeutsch-konstitutionell)

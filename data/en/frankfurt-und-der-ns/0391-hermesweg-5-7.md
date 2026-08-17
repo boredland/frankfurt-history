@@ -5,7 +5,7 @@ subtitle: "Hermesweg 5-7"
 coordinates: [50.11771309234706, 8.693720912182982]
 updated_at: "2026-04-14 14:35:43"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Hermesweg 5-7

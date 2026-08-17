@@ -5,7 +5,7 @@ subtitle: "Berger Straße 385"
 coordinates: [50.136343857801116, 8.7148363262428]
 updated_at: "2025-04-16 06:58:33"
 filters:
-  - "125 years FSV"
+  - "125 years FSV (1899-2024)"
 ---
 
 # Sport ground at Seckbacher Landstraße

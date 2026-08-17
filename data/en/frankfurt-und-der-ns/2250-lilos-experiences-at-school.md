@@ -5,7 +5,7 @@ subtitle: "Out and about in Frankfurt with Lilo"
 coordinates: [50.116727, 8.6849]
 updated_at: "2026-04-15 10:22:38"
 filters:
-  - "History"
+  - "History for kids"
 ---
 
 # Lilo’s Experiences at School

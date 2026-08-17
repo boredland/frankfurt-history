@@ -7,7 +7,7 @@ updated_at: "2025-05-22 09:15:26"
 categories:
   - "Kirchen und Friedhöfe Orte"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # Christ-König-Kirche

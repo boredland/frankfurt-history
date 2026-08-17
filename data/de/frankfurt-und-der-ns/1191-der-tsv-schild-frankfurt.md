@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:44:07"
 categories:
   - "Selbstbehauptung und Widerstand"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Der TSV Schild Frankfurt

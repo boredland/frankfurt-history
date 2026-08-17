@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Widerstand Kategorie"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Wohnung und Praxis der Familie Kahl

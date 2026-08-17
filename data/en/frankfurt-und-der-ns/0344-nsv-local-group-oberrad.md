@@ -7,7 +7,7 @@ updated_at: "2025-11-18 10:59:37"
 categories:
   - "Places"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # NSV local group Oberrad

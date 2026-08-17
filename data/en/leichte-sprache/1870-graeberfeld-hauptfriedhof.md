@@ -7,7 +7,7 @@ updated_at: "2025-04-16 10:26:38"
 categories:
   - "Frankfurt und der National-Sozialimus"
 filters:
-  - "Frankfurt"
+  - "Frankfurt and the NS"
 ---
 
 # Gräberfeld Hauptfriedhof

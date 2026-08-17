@@ -7,7 +7,7 @@ updated_at: "2026-04-03 14:55:01"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # Zwangsarbeitslager

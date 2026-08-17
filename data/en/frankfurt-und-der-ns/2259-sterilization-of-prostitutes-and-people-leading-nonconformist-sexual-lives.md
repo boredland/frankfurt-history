@@ -10,7 +10,7 @@ categories:
   - "Places"
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Sterilization of prostitutes and people leading nonconformist sexual lives

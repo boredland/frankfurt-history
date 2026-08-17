@@ -8,7 +8,7 @@ categories:
   - "Bauten Orte"
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Aufnahmeabteilung und Beobachtungsstation des Städtischen Krankenhauses Sachsenhausen – nicht erhalten

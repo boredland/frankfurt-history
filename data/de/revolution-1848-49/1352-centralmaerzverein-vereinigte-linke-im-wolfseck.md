@@ -7,7 +7,7 @@ updated_at: "2026-01-06 11:39:27"
 categories:
   - "Treffpunkte der Fraktionen Orte der Revolution 1848/49"
 filters:
-  - "Treffpunkte"
+  - "Treffpunkte der Fraktionen"
 ---
 
 # Centralmärzverein (vereinigte Linke im Wolfseck)

@@ -8,7 +8,7 @@ categories:
   - "Constructions Places"
   - "Economy, administration, infrastructure Learn more"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # The “Volksstimme” (“The People’s Voice”) – Publishing company building and administration building of the Union-Druckerei printing firm

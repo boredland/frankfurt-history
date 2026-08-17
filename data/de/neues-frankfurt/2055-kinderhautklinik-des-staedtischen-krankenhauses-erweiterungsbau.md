@@ -7,7 +7,7 @@ updated_at: "2026-02-04 13:06:21"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Kinderhautklinik des städtischen Krankenhauses – Erweiterungsbau

@@ -7,7 +7,7 @@ updated_at: "2026-04-13 13:03:16"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Waldfriedhof Oberrad

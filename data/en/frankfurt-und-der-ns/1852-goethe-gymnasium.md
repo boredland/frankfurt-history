@@ -5,7 +5,7 @@ subtitle: "Beethovenstraße 7B"
 coordinates: [50.113346, 8.656511]
 updated_at: "2026-04-14 14:08:22"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Goethe Gymnasium

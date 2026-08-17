@@ -7,7 +7,7 @@ updated_at: "2025-05-22 04:12:43"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Heimatsiedlung housing estate (Riedhof-West)

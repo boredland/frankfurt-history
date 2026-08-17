@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:34:54"
 categories:
   - "Treffpunkte der Fraktionen Orte der Revolution 1848/49"
 filters:
-  - "Treffpunkte"
+  - "Treffpunkte der Fraktionen"
 ---
 
 # Casino (rechtsliberales Zentrum)

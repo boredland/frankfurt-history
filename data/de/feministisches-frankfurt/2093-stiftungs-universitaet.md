@@ -5,7 +5,7 @@ subtitle: "Erna Auerbach – Erster Studienort für Frauen"
 coordinates: [50.118321, 8.651681]
 updated_at: "2026-04-17 11:26:33"
 filters:
-  - "Orte des Lernens"
+  - "Orte des Lernens und Lehrens"
 ---
 
 # Stiftungs Universität

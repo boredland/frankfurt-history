@@ -5,7 +5,7 @@ subtitle: "Klapperfeldstraße 5"
 coordinates: [50.1153035, 8.6895835]
 updated_at: "2026-04-14 14:38:41"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Polizeigefängnis Klapperfeld

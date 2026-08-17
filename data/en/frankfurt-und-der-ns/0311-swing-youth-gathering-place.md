@@ -5,7 +5,7 @@ subtitle: "opposite the main station"
 coordinates: [50.1083532, 8.6635126]
 updated_at: "2026-04-15 15:33:32"
 filters:
-  - "Places of"
+  - "Places of resistance"
 ---
 
 # swing youth gathering place

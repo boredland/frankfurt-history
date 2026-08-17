@@ -5,7 +5,7 @@ subtitle: "Eppsteiner Straße 11"
 coordinates: [50.120574, 8.668967]
 updated_at: "2026-04-14 14:23:09"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Residence of Margarete Wagner and Ignaz Hain

@@ -5,7 +5,7 @@ subtitle: "Wittelsbacherallee 10"
 coordinates: [50.11774155225684, 8.702131933226786]
 updated_at: "2026-04-14 14:37:29"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Wittelsbacherallee 10

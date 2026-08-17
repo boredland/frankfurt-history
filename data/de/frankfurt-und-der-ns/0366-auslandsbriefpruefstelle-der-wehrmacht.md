@@ -7,7 +7,7 @@ updated_at: "2026-04-15 14:39:42"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Auslandsbriefprüfstelle der Wehrmacht

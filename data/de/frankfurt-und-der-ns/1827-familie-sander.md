@@ -5,7 +5,7 @@ subtitle: "Wenn Grenzen überschritten werden!"
 coordinates: [50.12011, 8.679572]
 updated_at: "2024-12-18 08:28:38"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Familie Sander

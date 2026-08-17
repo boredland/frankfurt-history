@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Widerstand Kategorie"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Swing-Treffpunkt „Rokoko-Diele“ im Hotel Kyffhäuser

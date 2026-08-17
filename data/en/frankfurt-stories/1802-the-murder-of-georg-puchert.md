@@ -7,7 +7,7 @@ updated_at: "2024-10-31 12:18:57"
 categories:
   - "20th century"
 filters:
-  - "Colonial history"
+  - "Colonial history Frankfurt"
 ---
 
 # The murder of Georg Puchert

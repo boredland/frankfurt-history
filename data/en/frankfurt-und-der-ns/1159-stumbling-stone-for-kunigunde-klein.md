@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:17:47"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Stumbling stone for Kunigunde Klein

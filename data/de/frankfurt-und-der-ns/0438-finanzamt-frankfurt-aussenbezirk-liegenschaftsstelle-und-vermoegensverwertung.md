@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Verfolgung Kategorie"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Finanzamt Frankfurt-Außenbezirk Liegenschaftsstelle und Vermögensverwertung

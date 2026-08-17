@@ -7,7 +7,7 @@ updated_at: "2026-04-15 14:33:12"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Universitätsinstitut für Erbbiologie und Rassenhygiene

@@ -5,7 +5,7 @@ subtitle: "5 Orte – 5 Geschichten"
 coordinates: [50.11789, 8.696463]
 updated_at: "2026-04-09 15:03:56"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Bernhard Israel Karpf

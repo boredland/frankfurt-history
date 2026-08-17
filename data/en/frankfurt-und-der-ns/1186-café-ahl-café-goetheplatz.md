@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:43:09"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of resistance"
 ---
 
 # Café Ahl / Café Goetheplatz

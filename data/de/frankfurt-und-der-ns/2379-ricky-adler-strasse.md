@@ -7,7 +7,7 @@ updated_at: "2026-04-14 14:23:31"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Ricky-Adler-Straße

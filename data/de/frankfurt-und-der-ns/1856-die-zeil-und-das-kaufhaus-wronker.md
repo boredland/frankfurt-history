@@ -5,7 +5,7 @@ subtitle: "Zeil 85-93"
 coordinates: [50.11413, 8.682368]
 updated_at: "2026-04-14 14:06:42"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Die Zeil und das Kaufhaus Wronker

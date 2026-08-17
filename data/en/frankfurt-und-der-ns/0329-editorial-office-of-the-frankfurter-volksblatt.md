@@ -7,7 +7,7 @@ updated_at: "2025-11-20 10:36:40"
 categories:
   - "Places"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # Editorial Office of the Frankfurter Volksblatt

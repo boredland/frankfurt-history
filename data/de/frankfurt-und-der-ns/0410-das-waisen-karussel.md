@@ -5,7 +5,7 @@ subtitle: "Gallusanlage"
 coordinates: [50.109325435059105, 8.671710796826131]
 updated_at: "2026-04-14 14:42:16"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Das Waisen-Karussel

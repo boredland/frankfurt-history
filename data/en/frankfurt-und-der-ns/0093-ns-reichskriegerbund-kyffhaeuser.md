@@ -7,7 +7,7 @@ updated_at: "2025-10-15 09:19:37"
 categories:
   - "Places"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # NS-Reichskriegerbund „Kyffhäuser“

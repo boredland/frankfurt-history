@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:11:37"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # District Court – Inves­tiga­ti­ons into Nazi Per­pet­ra­tors

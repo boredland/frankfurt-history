@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:42:40"
 categories:
   - "Selbstbehauptung und Widerstand"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Das Hippodrom

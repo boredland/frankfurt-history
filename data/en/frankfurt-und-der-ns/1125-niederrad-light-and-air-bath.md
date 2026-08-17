@@ -7,7 +7,7 @@ updated_at: "2026-03-12 13:58:13"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Niederrad light and air bath

@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:22:21"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Römerberg - 600 years of Roma and Sinti in Frankfurt

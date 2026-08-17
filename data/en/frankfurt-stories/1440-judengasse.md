@@ -7,7 +7,7 @@ updated_at: "2026-03-11 11:22:25"
 categories:
   - "19th century"
 filters:
-  - "Reiffensteins Frankfurt"
+  - "Reiffensteins Frankfurt (1820-1893)"
 ---
 
 # Judengasse

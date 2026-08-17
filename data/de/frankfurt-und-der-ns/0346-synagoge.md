@@ -7,7 +7,7 @@ updated_at: "2026-04-15 14:32:38"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Synagoge

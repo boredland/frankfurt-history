@@ -5,7 +5,7 @@ subtitle: "Ludwig-Erhard-Anlage 1"
 coordinates: [50.11211754998629, 8.65147534106072]
 updated_at: "2026-04-14 14:41:56"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Festhalle Frankfurt

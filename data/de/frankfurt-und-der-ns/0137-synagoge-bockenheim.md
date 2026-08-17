@@ -8,7 +8,7 @@ categories:
   - "Erinnern und Gedenken"
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Synagoge Bockenheim

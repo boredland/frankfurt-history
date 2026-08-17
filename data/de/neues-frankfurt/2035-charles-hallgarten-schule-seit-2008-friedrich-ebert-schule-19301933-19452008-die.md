@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:34:07"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Charles-Hallgarten-Schule (seit 2008) / Friedrich-Ebert-Schule (1930–1933, 1945–2008), Dietrich-Eckhart-Schule (1933–1945)

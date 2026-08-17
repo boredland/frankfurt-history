@@ -5,7 +5,7 @@ subtitle: "Zeil 85-93"
 coordinates: [50.11413, 8.682368]
 updated_at: "2026-04-14 14:06:42"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Zeil and Wronker department store

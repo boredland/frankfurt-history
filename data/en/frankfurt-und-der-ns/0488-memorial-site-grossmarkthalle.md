@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Places"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Memorial Site Großmarkthalle

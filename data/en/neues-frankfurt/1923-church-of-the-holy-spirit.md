@@ -7,7 +7,7 @@ updated_at: "2025-05-22 09:03:55"
 categories:
   - "Churches and cemeteries Places"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # Church of the Holy Spirit

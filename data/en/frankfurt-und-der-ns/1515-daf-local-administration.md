@@ -5,7 +5,7 @@ subtitle: "Kurzröderstraße 18"
 coordinates: [50.14298, 8.684522]
 updated_at: "2024-10-07 07:21:14"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # DAF local administration

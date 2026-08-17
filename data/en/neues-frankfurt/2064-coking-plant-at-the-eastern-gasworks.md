@@ -7,7 +7,7 @@ updated_at: "2026-03-11 15:20:06"
 categories:
   - "Economy, administration, infrastructure Learn more"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Coking plant at the eastern gasworks

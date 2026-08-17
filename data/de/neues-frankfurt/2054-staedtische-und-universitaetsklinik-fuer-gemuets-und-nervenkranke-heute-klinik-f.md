@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:35:04"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Städtische und Universitätsklinik für Gemüts- und Nervenkranke (heute: Klinik für Psychiatrie, Psychosomatik und Psychotherapie)

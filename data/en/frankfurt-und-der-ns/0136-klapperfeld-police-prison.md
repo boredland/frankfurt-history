@@ -8,7 +8,7 @@ categories:
   - "Verfolgung Kategorie"
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Klapperfeld police prison

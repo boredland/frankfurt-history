@@ -7,7 +7,7 @@ updated_at: "2026-02-23 14:33:11"
 categories:
   - "Wirtschaft, Verwaltung, Infrastruktur Erfahre mehr"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Umspannwerk Nord

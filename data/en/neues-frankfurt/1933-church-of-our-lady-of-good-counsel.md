@@ -7,7 +7,7 @@ updated_at: "2025-05-22 08:34:17"
 categories:
   - "Churches and cemeteries Places"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # Church of Our Lady of Good Counsel

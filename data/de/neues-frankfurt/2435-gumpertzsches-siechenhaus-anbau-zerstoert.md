@@ -8,7 +8,7 @@ categories:
   - "Bauten Orte"
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Gumpertz’sches Siechenhaus – Anbau (zerstört)

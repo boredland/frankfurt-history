@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:57:40"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Frankfurt Outskirts Tax Office, Collecting Office for seized property of anti-Semitic Persecutees

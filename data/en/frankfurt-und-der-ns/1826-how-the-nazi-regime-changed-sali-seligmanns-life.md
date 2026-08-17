@@ -5,7 +5,7 @@ subtitle: "When lines are crossed!"
 coordinates: [50.118543, 8.697337]
 updated_at: "2024-12-18 08:39:01"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # How the Nazi regime changed Sali Seligmann's life

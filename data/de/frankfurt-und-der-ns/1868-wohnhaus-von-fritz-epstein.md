@@ -5,7 +5,7 @@ subtitle: "Architekt in Frankfurt"
 coordinates: [50.11868511643619, 8.668153945518684]
 updated_at: "2025-11-11 12:15:25"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Wohnhaus von Fritz Epstein

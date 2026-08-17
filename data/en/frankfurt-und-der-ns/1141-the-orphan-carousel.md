@@ -7,7 +7,7 @@ updated_at: "2025-12-03 18:04:03"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # The orphan carousel

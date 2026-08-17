@@ -10,7 +10,7 @@ categories:
   - "Places"
   - "Places"
 filters:
-  - "Places of"
+  - "Places of resistance"
 ---
 
 # Blum family residence

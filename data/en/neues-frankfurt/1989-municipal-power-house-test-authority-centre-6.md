@@ -7,7 +7,7 @@ updated_at: "2025-05-22 11:34:31"
 categories:
   - "Economy, administration, infrastructure Learn more"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Municipal power house, test authority centre 6

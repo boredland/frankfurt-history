@@ -5,7 +5,7 @@ subtitle: "Anna Edinger – Departure for the Peace Congress"
 coordinates: [50.1073333, 8.66425]
 updated_at: "2026-04-17 11:13:26"
 filters:
-  - "Places of political"
+  - "Places of political resistance"
 ---
 
 # Hauptbahnhof (Central Station)

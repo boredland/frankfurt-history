@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:38:40"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # Forced Labor Camp Adlerwerke

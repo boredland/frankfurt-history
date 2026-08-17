@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Widerstand Kategorie"
 filters:
-  - "Places of"
+  - "Places of resistance"
 ---
 
 # Office of the resis­tance figh­ter Lore Wolf

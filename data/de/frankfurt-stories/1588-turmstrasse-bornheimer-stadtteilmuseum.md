@@ -5,7 +5,7 @@ subtitle: "Turmstraße 11"
 coordinates: [50.13093605480533, 8.710948296557044]
 updated_at: "2025-04-16 06:58:46"
 filters:
-  - "125 Jahre FSV"
+  - "125 Jahre FSV (1899-2024)"
 ---
 
 # Turmstraße Bornheimer Stadtteilmuseum

@@ -7,7 +7,7 @@ updated_at: "2026-04-17 11:46:59"
 categories:
   - "Wirtschaft, Verwaltung, Infrastruktur Erfahre mehr"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Bauersche Gießerei

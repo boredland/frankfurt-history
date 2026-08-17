@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:10:47"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Römer – Beschluss zur Einrichtung des Lagers Friedberger Landstraße 1928/29

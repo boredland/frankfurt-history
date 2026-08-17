@@ -7,7 +7,7 @@ updated_at: "2026-03-11 11:49:02"
 categories:
   - "19. Jahrhundert"
 filters:
-  - "Frankfurter"
+  - "Frankfurter Kolonialgeschichte"
 ---
 
 # Ethnographische Objekte im Haus »Zu den Drey Königen«

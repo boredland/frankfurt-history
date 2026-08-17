@@ -7,7 +7,7 @@ updated_at: "2025-05-22 10:49:02"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Atelierwohnung Siedlung Niederrad

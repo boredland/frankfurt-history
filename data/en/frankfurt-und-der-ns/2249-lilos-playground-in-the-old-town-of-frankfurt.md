@@ -5,7 +5,7 @@ subtitle: "Out and about in Frankfurt with Lilo"
 coordinates: [50.1107867833473, 8.689001724405566]
 updated_at: "2026-04-15 10:20:46"
 filters:
-  - "History"
+  - "History for kids"
 ---
 
 # Lilo’s Playground in the Old Town of Frankfurt

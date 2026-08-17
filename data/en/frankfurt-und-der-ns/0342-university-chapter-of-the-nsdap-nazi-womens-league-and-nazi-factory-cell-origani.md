@@ -7,7 +7,7 @@ updated_at: "2025-11-25 10:15:14"
 categories:
   - "Places"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # Uni­ver­sity chap­ter of the NSDAP, Nazi Women's League and Nazi Factory Cell Origa­niza­t­ion (NSBO)

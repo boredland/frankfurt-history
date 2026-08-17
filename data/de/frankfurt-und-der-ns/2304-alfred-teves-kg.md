@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:43:10"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # Alfred Teves KG

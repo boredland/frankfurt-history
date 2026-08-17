@@ -5,7 +5,7 @@ subtitle: "Marbachweg 307"
 coordinates: [50.14022500977552, 8.676695910910468]
 updated_at: "2026-04-14 14:46:17"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Anne Frank Geburtshaus

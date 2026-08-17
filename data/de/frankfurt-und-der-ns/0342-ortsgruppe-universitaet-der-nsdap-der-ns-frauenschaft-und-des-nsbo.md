@@ -7,7 +7,7 @@ updated_at: "2025-11-25 10:15:14"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # Ortsgruppe Universität der NSDAP, der NS-Frauenschaft und des NSBO

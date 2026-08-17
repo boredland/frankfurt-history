@@ -7,7 +7,7 @@ updated_at: "2025-11-12 11:01:56"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Bruno-Asch-Anlage

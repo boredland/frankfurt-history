@@ -7,7 +7,7 @@ updated_at: "2025-05-22 08:41:27"
 categories:
   - "Economy, administration, infrastructure Learn more"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Hoechst AG technical administration building

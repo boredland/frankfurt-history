@@ -7,7 +7,7 @@ updated_at: "2024-02-13 14:28:21"
 categories:
   - "Biographies"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Paula Lubowitzky

@@ -8,7 +8,7 @@ categories:
   - "Verfolgung Kategorie"
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Samson-Raphael-Hirsch-Schule/Heinrich-von-Gagern-Gymnasium

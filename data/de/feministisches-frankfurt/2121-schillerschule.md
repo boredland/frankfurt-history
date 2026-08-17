@@ -5,7 +5,7 @@ subtitle: "Elisabeth Schwarzhaupt – Bildung für Mädchen"
 coordinates: [50.1016389, 8.67719444]
 updated_at: "2026-04-17 11:12:19"
 filters:
-  - "Orte des Lernens"
+  - "Orte des Lernens und Lehrens"
 ---
 
 # Schillerschule

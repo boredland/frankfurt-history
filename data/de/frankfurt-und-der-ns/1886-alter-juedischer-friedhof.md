@@ -5,7 +5,7 @@ subtitle: "in Bockenheim"
 coordinates: [50.12467684829167, 8.647536105053575]
 updated_at: "2025-04-23 06:32:08"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Alter jüdischer Friedhof

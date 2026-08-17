@@ -7,7 +7,7 @@ updated_at: "2026-04-14 14:16:18"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Kindertransporte (Children’s Transports) and Orphans' Roundabout

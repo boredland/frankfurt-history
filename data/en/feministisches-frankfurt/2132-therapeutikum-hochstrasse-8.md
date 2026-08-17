@@ -5,7 +5,7 @@ subtitle: "Else Wüst – Working in the Resistance"
 coordinates: [50.117036, 8.678902]
 updated_at: "2026-04-17 10:54:41"
 filters:
-  - "Places of political"
+  - "Places of political resistance"
 ---
 
 # “Therapeutikum” – Hochstraße 8

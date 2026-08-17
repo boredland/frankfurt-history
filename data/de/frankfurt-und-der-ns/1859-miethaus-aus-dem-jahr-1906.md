@@ -5,7 +5,7 @@ subtitle: "Gebäude von Fritz Epstein"
 coordinates: [50.12366134684105, 8.684678987457065]
 updated_at: "2026-04-14 14:11:53"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Miethaus aus dem Jahr 1906

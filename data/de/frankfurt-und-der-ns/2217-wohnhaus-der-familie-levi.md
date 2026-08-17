@@ -7,7 +7,7 @@ updated_at: "2026-04-14 14:17:42"
 categories:
   - "Orte"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Wohnhaus der Familie Levi

@@ -7,7 +7,7 @@ updated_at: "2025-07-17 09:24:13"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # NSV Ortsgruppe Eckenheim

@@ -5,7 +5,7 @@ subtitle: "Rechneigrabenstraße 3-5"
 coordinates: [50.11115722239579, 8.691727176673286]
 updated_at: "2026-04-14 14:40:36"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Rechneigrabenstraße 3-5

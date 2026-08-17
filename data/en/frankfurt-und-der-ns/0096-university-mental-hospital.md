@@ -11,7 +11,7 @@ categories:
   - "Places"
   - "Verfolgung Kategorie"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # University Mental Hospital

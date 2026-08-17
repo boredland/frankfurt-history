@@ -5,7 +5,7 @@ subtitle: "built by Fritz Epstein"
 coordinates: [50.14977265453594, 8.667182571434864]
 updated_at: "2025-01-24 07:21:09"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Detached house from 1929

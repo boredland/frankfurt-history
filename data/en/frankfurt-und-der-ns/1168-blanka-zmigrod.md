@@ -8,7 +8,7 @@ categories:
   - "Biographies"
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Blanka Zmigrod

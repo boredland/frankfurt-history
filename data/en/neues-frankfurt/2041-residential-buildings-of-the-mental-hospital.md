@@ -7,7 +7,7 @@ updated_at: "2026-02-04 13:43:30"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Residential buildings of the mental hospital

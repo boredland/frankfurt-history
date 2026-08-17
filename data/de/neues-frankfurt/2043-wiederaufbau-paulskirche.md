@@ -7,7 +7,7 @@ updated_at: "2026-02-04 13:40:55"
 categories:
   - "Kirchen und Friedhöfe Orte"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # Wiederaufbau Paulskirche

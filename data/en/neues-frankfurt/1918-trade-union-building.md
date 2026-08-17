@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:39:59"
 categories:
   - "Economy, administration, infrastructure Learn more"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Trade union building

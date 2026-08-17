@@ -7,7 +7,7 @@ updated_at: "2025-05-19 14:47:56"
 categories:
   - "Kirchen und Friedhöfe Orte"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # Erweiterung des Neuen Hauptfriedhofs

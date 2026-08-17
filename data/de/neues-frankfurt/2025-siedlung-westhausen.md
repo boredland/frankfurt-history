@@ -7,7 +7,7 @@ updated_at: "2025-05-22 04:15:12"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Siedlung Westhausen

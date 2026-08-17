@@ -5,7 +5,7 @@ subtitle: "Paulsplatz 11"
 coordinates: [50.1111124, 8.6808512]
 updated_at: "2026-04-14 14:45:21"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # St. Pauls church

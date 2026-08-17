@@ -7,7 +7,7 @@ updated_at: "2026-02-04 12:05:50"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Direktorenvilla der Klinik für Gemüts- und Nervenkranke

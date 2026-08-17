@@ -5,7 +5,7 @@ subtitle: "built by Fritz Epstein"
 coordinates: [50.12685542874398, 8.65373919977138]
 updated_at: "2025-01-24 07:20:19"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Villa built in 1923

@@ -7,7 +7,7 @@ updated_at: "2025-07-17 16:42:21"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Börneplatz memorial site

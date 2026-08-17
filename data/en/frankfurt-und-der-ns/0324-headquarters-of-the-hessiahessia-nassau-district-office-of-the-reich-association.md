@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Verfolgung Kategorie"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Headquarters of the Hessia/Hessia-Nassau district office of the Reich Association of Jews in Germany

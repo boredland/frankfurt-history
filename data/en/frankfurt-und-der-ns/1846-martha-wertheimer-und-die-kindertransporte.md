@@ -5,7 +5,7 @@ subtitle: "Guiollettstraße 18"
 coordinates: [50.114439, 8.66766]
 updated_at: "2026-04-09 15:24:27"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Martha Wertheimer und die Kindertransporte

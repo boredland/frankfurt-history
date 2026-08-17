@@ -7,7 +7,7 @@ updated_at: "2025-11-18 08:25:39"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # Nationalsozialistische Handwerks, Handels-und Gewerbeorganisation (NS Hago) Kreisamtsleitung

@@ -7,7 +7,7 @@ updated_at: "2026-01-08 10:35:11"
 categories:
   - "Drei Tage im September 1848 Orte der Revolution 1848/49"
 filters:
-  - "Szenen der"
+  - "Szenen der Septemberunruhen"
 ---
 
 # Gedenken an die Gefallenen des Septemberaufstands 1848 auf dem Hauptfriedhof

@@ -9,7 +9,7 @@ categories:
   - "20. Jahrhundert"
   - "21. Jahrhundert"
 filters:
-  - "Frankfurter"
+  - "Frankfurter Mobilitätsorte"
 ---
 
 # Eschenheimer Tor

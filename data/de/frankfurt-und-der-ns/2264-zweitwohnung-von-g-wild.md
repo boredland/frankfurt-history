@@ -7,7 +7,7 @@ updated_at: "2026-04-20 16:12:28"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Zweitwohnung von G. Wild

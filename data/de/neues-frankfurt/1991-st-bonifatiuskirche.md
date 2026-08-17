@@ -7,7 +7,7 @@ updated_at: "2025-05-22 08:42:16"
 categories:
   - "Kirchen und Friedhöfe Orte"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # St. Bonifatiuskirche

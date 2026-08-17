@@ -8,7 +8,7 @@ categories:
   - "19th century"
   - "20th century"
 filters:
-  - "Colonial history"
+  - "Colonial history Frankfurt"
 ---
 
 # Chamber of Commerce

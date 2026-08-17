@@ -5,7 +5,7 @@ subtitle: "Wenn Grenzen überschritten werden!"
 coordinates: [50.118421, 8.697217]
 updated_at: "2024-12-27 08:25:37"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Legalisierter Raub: Wie Aron Goldschmidt sein Haus verlor.

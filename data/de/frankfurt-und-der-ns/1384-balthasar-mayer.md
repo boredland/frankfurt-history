@@ -7,7 +7,7 @@ updated_at: "2024-02-13 14:32:38"
 categories:
   - "Biografien"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Balthasar Mayer

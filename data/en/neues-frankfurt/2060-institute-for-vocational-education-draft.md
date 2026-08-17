@@ -7,7 +7,7 @@ updated_at: "2026-04-07 15:54:14"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Institute for vocational education - draft

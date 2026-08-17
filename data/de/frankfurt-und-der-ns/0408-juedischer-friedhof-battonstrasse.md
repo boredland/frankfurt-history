@@ -5,7 +5,7 @@ subtitle: "Battonstraße 47"
 coordinates: [50.112473912369865, 8.69030546055609]
 updated_at: "2026-04-14 14:41:38"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Jüdischer Friedhof Battonstraße

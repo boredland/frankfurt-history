@@ -7,7 +7,7 @@ updated_at: "2025-05-22 10:03:18"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Wohnhausblock Am Grethenweg

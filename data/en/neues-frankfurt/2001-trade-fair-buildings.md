@@ -7,7 +7,7 @@ updated_at: "2025-05-22 11:25:42"
 categories:
   - "Culture, Trade fair, Events Learn more"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Trade fair buildings

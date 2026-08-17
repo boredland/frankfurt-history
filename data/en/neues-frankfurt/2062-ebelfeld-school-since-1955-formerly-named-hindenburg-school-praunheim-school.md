@@ -7,7 +7,7 @@ updated_at: "2026-04-17 11:49:53"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Ebelfeld school (since 1955) / formerly named: Hindenburg school, Praunheim school

@@ -7,7 +7,7 @@ updated_at: "2025-11-20 09:30:05"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Klapperfeld

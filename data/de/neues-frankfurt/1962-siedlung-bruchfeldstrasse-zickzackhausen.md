@@ -7,7 +7,7 @@ updated_at: "2025-05-22 09:50:52"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Siedlung Bruchfeldstraße / Zickzackhausen

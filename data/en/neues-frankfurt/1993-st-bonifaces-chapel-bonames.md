@@ -7,7 +7,7 @@ updated_at: "2026-02-23 14:39:29"
 categories:
   - "Churches and cemeteries Places"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # St Boniface’s chapel, Bonames

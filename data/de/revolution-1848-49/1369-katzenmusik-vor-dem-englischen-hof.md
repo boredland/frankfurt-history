@@ -7,7 +7,7 @@ updated_at: "2026-01-08 11:07:13"
 categories:
   - "Drei Tage im September 1848 Orte der Revolution 1848/49"
 filters:
-  - "Szenen der"
+  - "Szenen der Septemberunruhen"
 ---
 
 # „Katzenmusik“ vor dem Englischen Hof

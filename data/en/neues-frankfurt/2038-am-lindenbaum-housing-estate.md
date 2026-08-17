@@ -7,7 +7,7 @@ updated_at: "2025-05-22 08:44:49"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Am Lindenbaum housing estate

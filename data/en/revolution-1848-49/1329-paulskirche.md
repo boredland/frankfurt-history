@@ -7,7 +7,7 @@ updated_at: "2026-03-12 14:53:57"
 categories:
   - "Sites of the Revolution Frankfurt’s Sites of the 1848-1849 Revolution"
 filters:
-  - "Theatres"
+  - "Theatres of the Revolution"
 ---
 
 # Paulskirche

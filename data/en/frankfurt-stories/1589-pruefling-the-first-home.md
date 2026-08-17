@@ -5,7 +5,7 @@ subtitle: "Im Prüfling 63"
 coordinates: [50.129273829929595, 8.707298819896327]
 updated_at: "2026-03-11 11:12:53"
 filters:
-  - "125 years FSV"
+  - "125 years FSV (1899-2024)"
 ---
 
 # Prüfling - the first home

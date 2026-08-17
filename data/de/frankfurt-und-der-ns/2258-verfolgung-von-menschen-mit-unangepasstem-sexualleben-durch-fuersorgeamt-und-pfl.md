@@ -10,7 +10,7 @@ categories:
   - "Orte"
   - "Verfolgung Kategorie"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Verfolgung von Menschen mit unange­pass­tem Sexu­alle­ben durch Fürsorgeamt und Pflegeamt

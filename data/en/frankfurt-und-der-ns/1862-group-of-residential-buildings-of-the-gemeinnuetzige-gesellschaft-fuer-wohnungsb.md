@@ -5,7 +5,7 @@ subtitle: "built by Fritz Epstein"
 coordinates: [50.11729355562227, 8.709971725751917]
 updated_at: "2025-01-24 07:20:59"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Group of residential buildings of the Gemeinnützige Gesellschaft für Wohnungsbau, 1924-29,

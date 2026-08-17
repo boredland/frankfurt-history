@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:39:34"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # Execution site of Józef Ochmanek

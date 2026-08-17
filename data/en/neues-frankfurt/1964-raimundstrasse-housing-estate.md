@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:16:15"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Raimundstraße housing estate

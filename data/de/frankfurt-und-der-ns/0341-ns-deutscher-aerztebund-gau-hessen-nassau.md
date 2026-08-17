@@ -7,7 +7,7 @@ updated_at: "2025-11-17 11:04:50"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # NS Deutscher Ärztebund Gau Hessen-Nassau

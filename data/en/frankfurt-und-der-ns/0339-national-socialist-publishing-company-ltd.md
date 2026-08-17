@@ -7,7 +7,7 @@ updated_at: "2025-07-17 12:03:36"
 categories:
   - "Places"
 filters:
-  - "Places of the"
+  - "Places of the 'Volksgemeinschaft'"
 ---
 
 # National Socialist Publishing Company Ltd.

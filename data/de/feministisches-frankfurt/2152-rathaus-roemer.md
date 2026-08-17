@@ -5,7 +5,7 @@ subtitle: "Meta Quarck-Hammerschlag – Kommunalpolitikerin"
 coordinates: [50.110522, 8.682007]
 updated_at: "2026-04-08 12:57:27"
 filters:
-  - "Orte des politischen"
+  - "Orte des politischen Widerstands"
 ---
 
 # Rathaus - Römer

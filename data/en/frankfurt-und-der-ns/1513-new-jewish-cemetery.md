@@ -7,7 +7,7 @@ updated_at: "2024-04-17 10:26:06"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # New Jewish cemetery

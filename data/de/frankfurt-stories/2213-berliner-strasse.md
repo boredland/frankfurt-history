@@ -7,7 +7,7 @@ updated_at: "2026-01-30 13:47:45"
 categories:
   - "20. Jahrhundert"
 filters:
-  - "Frankfurter"
+  - "Frankfurter Mobilitätsorte"
 ---
 
 # Berliner Straße

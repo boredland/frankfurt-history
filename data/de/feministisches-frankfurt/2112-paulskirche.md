@@ -5,7 +5,7 @@ subtitle: "Louise Mittermaier – Aktiv am Revolutionsort"
 coordinates: [50.1108889, 8.68088889]
 updated_at: "2026-04-17 11:16:06"
 filters:
-  - "Orte des politischen"
+  - "Orte des politischen Widerstands"
 ---
 
 # Paulskirche

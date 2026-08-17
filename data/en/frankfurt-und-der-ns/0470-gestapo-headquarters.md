@@ -7,7 +7,7 @@ updated_at: "2026-03-12 12:55:32"
 categories:
   - "Places"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Gestapo Headquarters

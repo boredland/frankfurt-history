@@ -7,7 +7,7 @@ updated_at: "2026-04-07 16:01:13"
 categories:
   - "Volksgemeinschaft Kategorie"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # Hochbunker

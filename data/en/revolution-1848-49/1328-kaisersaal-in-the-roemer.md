@@ -7,7 +7,7 @@ updated_at: "2026-01-05 10:19:54"
 categories:
   - "Sites of the Revolution Frankfurt’s Sites of the 1848-1849 Revolution"
 filters:
-  - "Theatres"
+  - "Theatres of the Revolution"
 ---
 
 # Kaisersaal in the Römer

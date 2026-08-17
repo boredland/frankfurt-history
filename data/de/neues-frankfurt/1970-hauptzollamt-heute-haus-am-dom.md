@@ -7,7 +7,7 @@ updated_at: "2025-05-22 09:45:58"
 categories:
   - "Wirtschaft, Verwaltung, Infrastruktur Erfahre mehr"
 filters:
-  - "Wirtschaft, Verwaltung"
+  - "Wirtschaft, Verwaltung und Infrastruktur"
 ---
 
 # Hauptzollamt (heute: Haus am Dom)

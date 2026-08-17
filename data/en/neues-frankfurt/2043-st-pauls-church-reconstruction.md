@@ -7,7 +7,7 @@ updated_at: "2026-02-04 13:40:55"
 categories:
   - "Churches and cemeteries Places"
 filters:
-  - "Kirchen"
+  - "Kirchen und Friedhöfe"
 ---
 
 # St Paul’s church reconstruction

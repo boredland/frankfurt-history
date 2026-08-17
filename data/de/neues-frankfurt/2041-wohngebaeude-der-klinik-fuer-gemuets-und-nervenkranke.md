@@ -7,7 +7,7 @@ updated_at: "2026-02-04 13:43:30"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Wohngebäude der Klinik für Gemüts- und Nervenkranke

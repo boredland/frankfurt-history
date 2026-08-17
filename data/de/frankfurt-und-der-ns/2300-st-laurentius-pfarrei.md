@@ -9,7 +9,7 @@ categories:
   - "Selbstbehauptung und Widerstand"
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # St. Laurentius-Pfarrei

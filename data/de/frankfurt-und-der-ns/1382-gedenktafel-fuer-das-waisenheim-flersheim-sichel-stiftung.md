@@ -5,7 +5,7 @@ subtitle: "Ebersheimstraße 5"
 coordinates: [50.13861881985264, 8.67725640531043]
 updated_at: "2025-03-21 08:07:46"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Gedenktafel für das Waisenheim Flersheim-Sichel-Stiftung

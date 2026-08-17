@@ -7,7 +7,7 @@ updated_at: "2025-11-20 10:18:16"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Römerberg

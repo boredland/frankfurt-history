@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Verfolgung Kategorie"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Administration of the Jewish Community, the Museum of Jewish Antiquities and the Rothschild Museum

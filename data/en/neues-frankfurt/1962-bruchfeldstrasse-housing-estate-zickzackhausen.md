@@ -7,7 +7,7 @@ updated_at: "2025-05-22 09:50:52"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Bruchfeldstraße housing estate / Zickzackhausen

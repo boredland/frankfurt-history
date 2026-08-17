@@ -8,7 +8,7 @@ categories:
   - "Bauten Orte"
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Volksschule Niederursel (heute: Heinrich-Kromer-Schule)

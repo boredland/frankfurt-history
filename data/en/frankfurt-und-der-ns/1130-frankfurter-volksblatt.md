@@ -7,7 +7,7 @@ updated_at: "2026-03-12 14:00:35"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Frankfurter Volksblatt

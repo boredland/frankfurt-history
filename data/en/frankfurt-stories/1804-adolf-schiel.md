@@ -8,7 +8,7 @@ categories:
   - "20th century"
   - "19th century"
 filters:
-  - "Colonial history"
+  - "Colonial history Frankfurt"
 ---
 
 # Adolf Schiel

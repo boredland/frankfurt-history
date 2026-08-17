@@ -7,7 +7,7 @@ updated_at: "2026-02-04 12:24:19"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Haus der Jugend

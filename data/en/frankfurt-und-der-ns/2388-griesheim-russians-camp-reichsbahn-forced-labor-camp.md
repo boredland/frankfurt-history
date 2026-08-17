@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:47:19"
 categories:
   - "Places"
 filters:
-  - "PubPlaces of"
+  - "PubPlaces of forced labours"
 ---
 
 # “Griesheim Russians’ Camp” Reichsbahn Forced Labor Camp

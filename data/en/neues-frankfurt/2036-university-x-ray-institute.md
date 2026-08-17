@@ -7,7 +7,7 @@ updated_at: "2025-05-22 08:32:50"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # University X-ray institute

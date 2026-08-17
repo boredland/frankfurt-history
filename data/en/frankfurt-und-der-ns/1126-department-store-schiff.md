@@ -7,7 +7,7 @@ updated_at: "2026-08-12 12:48:26"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Department store Schiff

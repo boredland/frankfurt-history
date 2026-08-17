@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:21:23"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Forced camp Friedberger Landstraße

@@ -7,7 +7,7 @@ updated_at: "2026-04-14 14:39:51"
 categories:
   - "Places"
 filters:
-  - "Places with multiple"
+  - "Places with multiple perspectives"
 ---
 
 # Philanthropin

@@ -8,7 +8,7 @@ categories:
   - "Volksgemeinschaft Kategorie"
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # Erbbegutachtungsstelle für Ehestandsdarlehen des Gesundheitsamts

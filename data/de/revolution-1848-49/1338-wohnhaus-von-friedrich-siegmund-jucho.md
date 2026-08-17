@@ -7,7 +7,7 @@ updated_at: "2026-01-06 09:11:05"
 categories:
   - "Schauplätze der Revolution Orte der Revolution 1848/49"
 filters:
-  - "Schauplätze"
+  - "Schauplätze der Revolution"
 ---
 
 # Wohnhaus von Friedrich Siegmund Jucho

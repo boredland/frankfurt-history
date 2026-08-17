@@ -7,7 +7,7 @@ updated_at: "2026-01-06 09:34:09"
 categories:
   - "Sites of the Revolution Frankfurt’s Sites of the 1848-1849 Revolution"
 filters:
-  - "Theatres"
+  - "Theatres of the Revolution"
 ---
 
 # Dreikönigskirche

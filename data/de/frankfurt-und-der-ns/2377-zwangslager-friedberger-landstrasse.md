@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:21:23"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Zwangslager Friedberger Landstraße

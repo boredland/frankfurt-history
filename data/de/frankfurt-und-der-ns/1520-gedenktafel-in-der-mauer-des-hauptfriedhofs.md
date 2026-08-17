@@ -7,7 +7,7 @@ updated_at: "2025-07-17 14:47:10"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Gedenktafel in der Mauer des Hauptfriedhofs

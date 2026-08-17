@@ -7,7 +7,7 @@ updated_at: "2025-05-22 08:43:31"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Konrad-Haenisch-Schule (heute: Pestalozzi–Schule)

@@ -8,7 +8,7 @@ categories:
   - "Orte"
   - "Verfolgung Kategorie"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Sitz der Bezirksstelle Hessen/Hessen-Nassau der Reichsvereinigung der Juden in Deutschland

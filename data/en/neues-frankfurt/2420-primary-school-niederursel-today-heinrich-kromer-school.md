@@ -8,7 +8,7 @@ categories:
   - "Constructions Places"
   - "Estates and residential buildings Places"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Primary school Niederursel (today: Heinrich Kromer School)

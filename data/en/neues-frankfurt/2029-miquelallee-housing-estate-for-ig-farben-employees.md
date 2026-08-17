@@ -7,7 +7,7 @@ updated_at: "2025-05-21 20:10:33"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Miquelallee housing estate (for I.G. Farben employees)

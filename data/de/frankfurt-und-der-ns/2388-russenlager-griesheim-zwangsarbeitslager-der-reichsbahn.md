@@ -7,7 +7,7 @@ updated_at: "2026-04-14 19:47:19"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # „Russenlager Griesheim“ Zwangsarbeitslager der Reichsbahn

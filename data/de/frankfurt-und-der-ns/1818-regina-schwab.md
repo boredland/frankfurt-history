@@ -5,7 +5,7 @@ subtitle: "Wenn Grenzen überschritten werden!"
 coordinates: [50.118087, 8.697566]
 updated_at: "2026-04-09 15:19:36"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Regina Schwab

@@ -7,7 +7,7 @@ updated_at: "2025-12-02 14:08:51"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Gedenktafel für die Opfer des KZ „Katzbach"

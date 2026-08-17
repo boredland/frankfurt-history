@@ -8,7 +8,7 @@ categories:
   - "20. Jahrhundert"
   - "21. Jahrhundert"
 filters:
-  - "125 Jahre FSV"
+  - "125 Jahre FSV (1899-2024)"
 ---
 
 # Richard-Herrmann-Kiosk

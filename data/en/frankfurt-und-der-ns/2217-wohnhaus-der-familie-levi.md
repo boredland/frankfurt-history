@@ -7,7 +7,7 @@ updated_at: "2026-04-14 14:17:42"
 categories:
   - "Places"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Wohnhaus der Familie Levi

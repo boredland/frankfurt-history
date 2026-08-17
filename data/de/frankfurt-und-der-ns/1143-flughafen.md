@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:11:39"
 categories:
   - "Inklusiver Bildungsurlaub „Deine Stadt und der Nationalsozialismus“"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Flughafen

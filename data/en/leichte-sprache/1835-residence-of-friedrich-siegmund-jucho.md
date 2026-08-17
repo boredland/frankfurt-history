@@ -7,7 +7,7 @@ updated_at: "2025-04-16 10:28:00"
 categories:
   - "Frankfurt und die Revolution"
 filters:
-  - "Frankfurt"
+  - "Frankfurt and the revolution"
 ---
 
 # Residence of Friedrich Siegmund Jucho

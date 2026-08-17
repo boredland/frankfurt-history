@@ -7,7 +7,7 @@ updated_at: "2026-04-09 15:01:45"
 categories:
   - "Biographies"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Rosa Hägele

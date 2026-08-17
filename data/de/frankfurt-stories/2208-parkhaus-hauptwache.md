@@ -7,7 +7,7 @@ updated_at: "2026-01-30 12:47:57"
 categories:
   - "20. Jahrhundert"
 filters:
-  - "Frankfurter"
+  - "Frankfurter Mobilitätsorte"
 ---
 
 # Parkhaus Hauptwache

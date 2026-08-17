@@ -7,7 +7,7 @@ updated_at: "2025-05-22 04:12:27"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Siedlung Goldstein

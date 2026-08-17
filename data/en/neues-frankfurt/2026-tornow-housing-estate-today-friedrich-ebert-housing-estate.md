@@ -7,7 +7,7 @@ updated_at: "2025-05-22 04:14:52"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Tornow housing estate (today: Friedrich Ebert housing estate)

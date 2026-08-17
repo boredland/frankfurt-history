@@ -5,7 +5,7 @@ subtitle: "Am Hauptbahnhof"
 coordinates: [50.1065324, 8.6599731]
 updated_at: "2026-04-14 14:43:55"
 filters:
-  - "Orte mit mehreren"
+  - "Orte mit mehreren Perspektiven"
 ---
 
 # Hauptbahnhof Frankfurt

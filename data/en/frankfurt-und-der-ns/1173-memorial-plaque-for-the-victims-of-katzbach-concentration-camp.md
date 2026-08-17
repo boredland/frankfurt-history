@@ -7,7 +7,7 @@ updated_at: "2025-12-02 14:08:51"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Memorial plaque for the victims of "Katzbach" Concentration Camp

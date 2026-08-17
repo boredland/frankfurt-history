@@ -7,7 +7,7 @@ updated_at: "2026-03-11 10:12:31"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Ernst May’s residential home

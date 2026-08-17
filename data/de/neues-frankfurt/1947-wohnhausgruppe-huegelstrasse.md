@@ -7,7 +7,7 @@ updated_at: "2025-05-22 08:33:53"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Wohnhausgruppe Hügelstraße

@@ -9,7 +9,7 @@ categories:
   - "20th century"
   - "21th century"
 filters:
-  - "Frankfurt"
+  - "Frankfurt mobility locations"
 ---
 
 # Eschenheimer City Gate

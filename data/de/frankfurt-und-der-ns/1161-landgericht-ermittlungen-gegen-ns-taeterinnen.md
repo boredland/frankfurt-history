@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:11:37"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Landgericht – Ermittlungen gegen NS-Täter*innen

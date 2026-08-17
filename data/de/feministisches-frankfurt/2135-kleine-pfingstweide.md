@@ -5,7 +5,7 @@ subtitle: "Henriette Zobel – Eskalierender Protest 1848"
 coordinates: [50.113826, 8.700664]
 updated_at: "2026-04-17 10:53:22"
 filters:
-  - "Orte des politischen"
+  - "Orte des politischen Widerstands"
 ---
 
 # Kleine Pfingstweide

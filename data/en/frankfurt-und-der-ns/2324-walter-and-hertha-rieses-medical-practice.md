@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:48:05"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of resistance"
 ---
 
 # Walter and Hertha Riese's medical practice

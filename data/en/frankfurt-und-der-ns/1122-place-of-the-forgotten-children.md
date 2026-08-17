@@ -7,7 +7,7 @@ updated_at: "2026-03-12 13:56:41"
 categories:
   - "Videos Schultheater-Studio"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Place of the Forgotten Children

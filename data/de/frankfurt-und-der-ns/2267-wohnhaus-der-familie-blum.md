@@ -10,7 +10,7 @@ categories:
   - "Orte"
   - "Orte"
 filters:
-  - "Orte des"
+  - "Orte des Widerstands"
 ---
 
 # Wohnhaus der Familie Blum

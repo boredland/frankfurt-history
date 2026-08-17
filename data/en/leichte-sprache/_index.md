@@ -1,9 +1,9 @@
 ---
 id: 5
-title: "Leichte Sprache"
-short_title: "Leichte Sprache"
+title: "Easy read (in german)"
+short_title: "Easy read (german)"
 ---
 
-# Leichte Sprache
+# Easy read (in german)
 
 

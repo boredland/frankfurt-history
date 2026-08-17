@@ -7,7 +7,7 @@ updated_at: "2024-10-31 12:19:07"
 categories:
   - "20th century"
 filters:
-  - "Colonial history"
+  - "Colonial history Frankfurt"
 ---
 
 # South West African Mining Syndicate

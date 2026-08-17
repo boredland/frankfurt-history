@@ -7,7 +7,7 @@ updated_at: "2025-05-28 09:31:53"
 categories:
   - "Estates and residential buildings Places"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Gardeners’ “Teller” housing estate

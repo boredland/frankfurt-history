@@ -7,7 +7,7 @@ updated_at: "2024-04-17 10:49:34"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Verfolgung"
 ---
 
 # Nebengebäude Neuer jüdischer Friedhof

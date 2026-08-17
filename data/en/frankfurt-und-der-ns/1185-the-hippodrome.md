@@ -7,7 +7,7 @@ updated_at: "2026-04-15 15:42:40"
 categories:
   - "Self-assertion and resistance"
 filters:
-  - "Places of"
+  - "Places of resistance"
 ---
 
 # The Hippodrome

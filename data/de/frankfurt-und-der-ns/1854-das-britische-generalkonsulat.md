@@ -5,7 +5,7 @@ subtitle: "Guiolettstraße 62"
 coordinates: [50.114771, 8.662277]
 updated_at: "2026-04-14 14:10:28"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Das Britische Generalkonsulat

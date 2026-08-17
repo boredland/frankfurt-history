@@ -5,7 +5,7 @@ subtitle: "Henriette Fürth – Professional training for women"
 coordinates: [50.1260833, 8.6755]
 updated_at: "2026-04-17 11:06:15"
 filters:
-  - "Places of learning"
+  - "Places of learning and teaching"
 ---
 
 # Elisabethenschule

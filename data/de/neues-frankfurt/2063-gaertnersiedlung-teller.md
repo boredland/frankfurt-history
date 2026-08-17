@@ -7,7 +7,7 @@ updated_at: "2025-05-28 09:31:53"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Gärtnersiedlung „Teller“

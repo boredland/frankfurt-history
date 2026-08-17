@@ -7,7 +7,7 @@ updated_at: "2025-07-17 14:47:10"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Memorial plaque in the wall of the main cemetery

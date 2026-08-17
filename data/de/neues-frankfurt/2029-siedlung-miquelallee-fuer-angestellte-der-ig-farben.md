@@ -7,7 +7,7 @@ updated_at: "2025-05-21 20:10:33"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Siedlung Miquelallee (für Angestellte der I.G. Farben)

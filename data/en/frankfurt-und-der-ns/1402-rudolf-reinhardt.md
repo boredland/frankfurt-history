@@ -7,7 +7,7 @@ updated_at: "2024-02-13 14:24:05"
 categories:
   - "Biographies"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Rudolf Reinhardt

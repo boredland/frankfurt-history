@@ -7,7 +7,7 @@ updated_at: "2024-04-17 10:38:37"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der ‚Volksgemeinschaft’"
 ---
 
 # Wehrmachtskasernen

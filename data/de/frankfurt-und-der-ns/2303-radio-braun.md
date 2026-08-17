@@ -7,7 +7,7 @@ updated_at: "2026-03-16 15:00:27"
 categories:
   - "Orte"
 filters:
-  - "Orte der"
+  - "Orte der Zwangsarbeit"
 ---
 
 # Radio Braun

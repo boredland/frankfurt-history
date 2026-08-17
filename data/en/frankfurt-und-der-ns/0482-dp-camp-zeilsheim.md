@@ -8,7 +8,7 @@ categories:
   - "Places"
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # DP Camp Zeilsheim

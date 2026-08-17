@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:48:51"
 categories:
   - "Biografien"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Frieda und Willy Hild

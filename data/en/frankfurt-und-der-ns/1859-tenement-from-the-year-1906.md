@@ -5,7 +5,7 @@ subtitle: "built by Fritz Epstein"
 coordinates: [50.12366134684105, 8.684678987457065]
 updated_at: "2026-04-14 14:11:53"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Tenement from the year 1906

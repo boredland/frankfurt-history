@@ -7,7 +7,7 @@ updated_at: "2025-05-22 11:22:32"
 categories:
   - "Bildung, Gesundheit, Gemeinschaft Orte"
 filters:
-  - "Bildung, Gesundheit"
+  - "Bildung, Gesundheit und Gemeinschaft"
 ---
 
 # Kunstgewerbeschule - Entwurf

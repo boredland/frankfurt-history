@@ -9,7 +9,7 @@ categories:
   - "19th century"
   - "20th century"
 filters:
-  - "Frankfurt"
+  - "Frankfurt mobility locations"
 ---
 
 # Thurn and Taxis Palace

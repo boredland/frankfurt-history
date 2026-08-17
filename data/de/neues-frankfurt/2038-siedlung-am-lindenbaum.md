@@ -7,7 +7,7 @@ updated_at: "2025-05-22 08:44:49"
 categories:
   - "Siedlungen und Wohnbauten Orte"
 filters:
-  - "Siedlungen"
+  - "Siedlungen und Wohnbauten"
 ---
 
 # Siedlung am Lindenbaum

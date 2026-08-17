@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:19:52"
 categories:
   - "Remembering and commemorating"
 filters:
-  - "Places of debate"
+  - "Places of debate & remembrance"
 ---
 
 # Paulskirche - Remembering the victims of National Socialism, a long way to go

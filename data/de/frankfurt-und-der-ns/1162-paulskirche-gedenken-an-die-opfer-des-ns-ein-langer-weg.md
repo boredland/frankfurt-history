@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:19:52"
 categories:
   - "Erinnern und Gedenken"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Paulskirche – Gedenken an die Opfer des NS, ein langer Weg

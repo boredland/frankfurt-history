@@ -7,7 +7,7 @@ updated_at: "2024-04-17 10:49:34"
 categories:
   - "Places"
 filters:
-  - "Places of"
+  - "Places of persecution"
 ---
 
 # Building New Jewish cemetery

@@ -5,7 +5,7 @@ subtitle: "Kurt-Schumacher-Straße 41"
 coordinates: [50.113636, 8.687601]
 updated_at: "2026-04-09 15:27:30"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Gedenktafeln zur ehemaligen Hauptsynagoge

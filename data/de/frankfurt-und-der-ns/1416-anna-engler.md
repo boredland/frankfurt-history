@@ -7,7 +7,7 @@ updated_at: "2026-04-09 14:58:01"
 categories:
   - "Biografien"
 filters:
-  - "Orte des Erinnerns &"
+  - "Orte des Erinnerns & Auseinandersetzens"
 ---
 
 # Anna Engler

@@ -5,7 +5,7 @@ subtitle: "Out and about in Frankfurt with Lilo"
 coordinates: [50.085371, 8.586951]
 updated_at: "2026-04-15 10:24:49"
 filters:
-  - "History"
+  - "History for kids"
 ---
 
 # A Street for Lilo

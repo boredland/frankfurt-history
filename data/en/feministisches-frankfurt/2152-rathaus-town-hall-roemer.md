@@ -5,7 +5,7 @@ subtitle: "Meta Quarck-Hammerschlag – Municipal Politician"
 coordinates: [50.110522, 8.682007]
 updated_at: "2026-04-08 12:57:27"
 filters:
-  - "Places of political"
+  - "Places of political resistance"
 ---
 
 # Rathaus (Town Hall) – Römer
