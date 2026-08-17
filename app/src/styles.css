@@ -105,6 +105,21 @@ body,
   }
 }
 
+/* vaul disables text selection on any drawer under a fine pointer so its drag
+   gesture cannot start mid-selection. The article panel is only draggable on
+   mobile — `dismissible` and `snapPoints` are unset on desktop, so vaul's
+   onPress() bails there and nothing is dragged. On a pointer that can select,
+   reading and copying is all the panel is for.
+
+   The selector is doubled on purpose: vaul injects its own stylesheet at
+   runtime, after this one, using the identical selector and media query, so an
+   equally specific rule would lose on source order. */
+@media (hover: hover) and (pointer: fine) {
+  [data-vaul-drawer][data-vaul-drawer] {
+    user-select: text;
+  }
+}
+
 @media print {
   header,
   .maplibregl-map,
