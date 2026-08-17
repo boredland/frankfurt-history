@@ -4,8 +4,8 @@
   "city_name": "Frankfurt am Main",
   "country": null,
   "coords": [
-    50.1048119,
-    8.5419257
+    50.1047467,
+    8.541885
   ],
   "coords_source": "osm",
   "person": {
@@ -24,7 +24,7 @@
     "district": "Höchst",
     "formatted": "Gebeschusstraße 22-24"
   },
-  "inscription": null,
+  "inscription": "Hier lernte  \nHermann Josef Wehrle  \nJG. 1899  \nAbitur 1917  \nVerhaftet 1944  \nIm Widerstand  \nHingerichtet 14.9.1944   \nBerlin-Plötzensee",
   "laying_date": "2010-10-25",
   "artist": null,
   "material": null,
@@ -71,14 +71,14 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-08-10T04:29:48+00:00"
+      "fetched_at": "2026-08-17T03:40:58+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-08-10T04:29:49+00:00",
+      "fetched_at": "2026-08-17T03:40:59+00:00",
       "found": true
     },
     "stolpersteine_frankfurt_de": {
-      "fetched_at": "2026-08-10T04:30:32+00:00",
+      "fetched_at": "2026-08-17T03:41:33+00:00",
       "list_stand": "2026-06-16",
       "found": true
     }

@@ -2,8 +2,8 @@
 id: 1126
 title: "Kaufhaus Schiff"
 subtitle: "Video Schultheater-Studio"
-coordinates: [50.101417664702794, 8.549266301539648]
-updated_at: "2026-03-12 13:58:35"
+coordinates: [50.10152367636793, 8.54851139021301]
+updated_at: "2026-08-12 12:48:26"
 categories:
   - "Videos Schultheater-Studio"
 filters:

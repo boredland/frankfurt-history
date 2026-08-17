@@ -4,8 +4,8 @@
   "city_name": "Frankfurt am Main",
   "country": null,
   "coords": [
-    50.1004459,
-    8.5459653
+    50.1004812,
+    8.5460463
   ],
   "coords_source": "osm",
   "person": {
@@ -25,7 +25,7 @@
     "district": "Höchst",
     "formatted": "Emmerich-Josef-Straße 39"
   },
-  "inscription": "Hier wohnte Berta Ettinghausen;Deportation 1943 von Westerborg nach Sobibor",
+  "inscription": "Hier wohnte Berta Ettinghausen; Geb. Feitler; Jg. 1861; Flucht 1933 Holland; Deportiert 1943; Sobibor; Ermordet 21.5.1943",
   "laying_date": "2007-11-05",
   "artist": null,
   "material": null,
@@ -62,14 +62,14 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-08-10T04:29:48+00:00"
+      "fetched_at": "2026-08-17T03:40:58+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-08-10T04:29:49+00:00",
+      "fetched_at": "2026-08-17T03:40:59+00:00",
       "found": true
     },
     "stolpersteine_frankfurt_de": {
-      "fetched_at": "2026-08-10T04:30:32+00:00",
+      "fetched_at": "2026-08-17T03:41:33+00:00",
       "list_stand": "2026-06-16",
       "found": true
     }

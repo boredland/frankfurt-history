@@ -2,8 +2,8 @@
 id: 190
 title: "Zwangsarbeitslager"
 subtitle: "Bolongarostraße 90"
-coordinates: [50.1017066, 8.5512131]
-updated_at: "2026-04-03 14:36:22"
+coordinates: [50.102283072492384, 8.554209793407827]
+updated_at: "2026-08-14 12:47:59"
 categories:
   - "Orte"
 filters:

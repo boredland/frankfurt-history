@@ -3,7 +3,7 @@ id: 2399
 title: "LIBS e.V"
 subtitle: "LIBS e.V"
 coordinates: [50.11823330094723, 8.686030320350813]
-updated_at: "2026-01-09 14:13:25"
+updated_at: "2026-08-12 12:29:10"
 filters:
   - "Places of the present"
 ---
@@ -15,9 +15,9 @@ filters:
 
 In the courtyard of LIBS e.V., Ute Kraft, one of the seven founding women of LIBS, talks about her experiences during the early days of LIBS and the range of services offered in the early 1990s.
 
-Further information about LIBS e.V. and the JuLe Treff:
+Weitere Infos über LIBS e.V. and the QuT- Queer-feministischer Treff (formerly as JuLe Treff): 
 www.libs-ffm.de
-Instagram: @juletreffimlibs
+Instagram: @qut_libs , @qub_libs
 
 *Author: LIBS e. V | License: LIBS e. V*
 
