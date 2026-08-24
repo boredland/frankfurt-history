@@ -44,12 +44,12 @@
   "images": [],
   "enrichers": {
     "stolpersteine_frankfurt_de": {
-      "fetched_at": "2026-08-17T09:53:24+00:00",
+      "fetched_at": "2026-08-24T03:45:44+00:00",
       "list_stand": "2026-06-16",
       "found": true
     },
     "frankfurt_de": {
-      "fetched_at": "2026-08-17T09:52:54+00:00",
+      "fetched_at": "2026-08-24T03:45:05+00:00",
       "found": false,
       "bios": 0,
       "images": 0

@@ -121,14 +121,14 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-08-17T09:52:41+00:00"
+      "fetched_at": "2026-08-24T03:44:48+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-08-17T09:52:42+00:00",
+      "fetched_at": "2026-08-24T03:44:49+00:00",
       "found": true
     },
     "stolpersteine_frankfurt_de": {
-      "fetched_at": "2026-08-17T09:53:23+00:00",
+      "fetched_at": "2026-08-24T03:45:44+00:00",
       "list_stand": "2026-06-16",
       "found": true
     }
