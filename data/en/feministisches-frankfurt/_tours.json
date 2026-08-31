@@ -1,0 +1,202 @@
+[
+  {
+    "id": 84,
+    "title": "Lesbisch unterwegs – Geschichten aus Frankfurt am Main ",
+    "type": "classic",
+    "subtitle": "Von LIBS  ",
+    "description": "Der Rundgang widmet sich der Frage nach der Sichtbarkeit lesbischen Lebens",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 820,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.685971,
+            50.118155
+          ]
+        },
+        "title": "1.Teaser",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 1,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p>Der Audio­walk widmet sich auch der Frage nach der Sichtbarkeit lesbi­schen Lebens. Sichtbarkeit kann der Motor der Initia­tive sein, der Wunsch nach Reprä­senta­tion und der Schaffung sichtba­rer Orte und Anlauf­stel­len, die immer auch als Vor­bild für andere gedacht sind. Sichtbarkeit kann sich aber auch als Druck und Zer­reiß­probe dar­stel­len und Unsichtbarkeit kann als Über­lebens­st­rategie die­nen.<br />Für Gene­ra­tio­nen, die selbst nicht die 80er/90er Jahre in Frankfurt mit­erlebt haben, bie­tet der Audio­walk einen ers­ten Ein­blick in eine andere Zeit und dama­lige Weg­gefährt*innen ent­de­cken womög­lich die ein oder andere Anekdote, an die sie sich noch sehr gut erinnern kön­nen.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/AIsBeEy96uJs52iXqGxEFAD2u.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": " ",
+              "description": " ",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": true,
+            "initialPlayer": true,
+            "updatedAt": "2026-01-09 14:19:08"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 23698,
+            "pos": 2,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "FemFFM_platzhalter_lores.jpg",
+                "date": null,
+                "dateString": "2025",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 908,
+                    "url": "https://api.frankfurthistory.app/storage/images/FemFFM_pla_828af982bce4f33cdd99638cdbdcba33_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 454,
+                    "url": "https://api.frankfurthistory.app/storage/images/FemFFM_pla_828af982bce4f33cdd99638cdbdcba33_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Platzhalter</p>",
+                  "accessibleDescription": "",
+                  "author": "Hannah Rödel",
+                  "copyright": "HMF/Hannah Rödel",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": []
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2026-01-09 14:19:18"
+          }
+        ],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 26,
+            "title": "Places of political",
+            "subtitle": "resistance",
+            "colour": "lila",
+            "icon": null,
+            "published": 1
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "b415a0143a4b9716e8716cd6708974a6_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 480,
+          "height": 270,
+          "url": "https://api.frankfurthistory.app/storage/images/c976f8b13696ea05aecd177c7248baa0_original.jpg"
+        },
+        {
+          "type": "large",
+          "width": 3200,
+          "height": 1800,
+          "url": "https://api.frankfurthistory.app/storage/images/c976f8b13696ea05aecd177c7248baa0_large.jpg"
+        },
+        {
+          "type": "medium",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/c976f8b13696ea05aecd177c7248baa0_medium.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/c976f8b13696ea05aecd177c7248baa0_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": []
+    },
+    "duration": 3900,
+    "filters": [
+      {
+        "id": 26,
+        "title": "Places of political",
+        "subtitle": "resistance",
+        "colour": "lila",
+        "icon": null,
+        "published": 1
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "globalPos": null,
+    "updatedAt": "2026-08-26 08:45:37"
+  }
+]
