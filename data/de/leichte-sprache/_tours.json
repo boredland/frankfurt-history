@@ -3,6 +3,7 @@
     "id": 67,
     "title": "Schauplätze der Revolution",
     "type": "classic",
+    "themeId": 5,
     "subtitle": "Die Revolution in den Jahren 1848 und 1849",
     "description": "",
     "prologue": "",
@@ -143,7 +144,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -202,7 +204,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -261,7 +264,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -312,7 +316,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 5400,
     "filters": [
@@ -335,6 +340,7 @@
     "id": 71,
     "title": "Nicht ohne uns über uns!",
     "type": "classic",
+    "themeId": 5,
     "subtitle": "Erinnern an die NS-Morde am Gräberfeld Hauptfriedhof",
     "description": "Die NS-Morde in den Jahren 1933 bis 1945",
     "prologue": "",
@@ -475,7 +481,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -534,7 +541,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -593,7 +601,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -644,7 +653,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 3600,
     "filters": [

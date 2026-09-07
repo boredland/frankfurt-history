@@ -3,6 +3,7 @@
     "id": 84,
     "title": "Lesbisch unterwegs – Geschichten aus Frankfurt am Main ",
     "type": "classic",
+    "themeId": 6,
     "subtitle": "Von LIBS  ",
     "description": "Der Rundgang widmet sich der Frage nach der Sichtbarkeit lesbischen Lebens",
     "prologue": "",
@@ -117,7 +118,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -180,7 +182,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 3900,
     "filters": [

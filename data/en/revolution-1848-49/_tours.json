@@ -3,6 +3,7 @@
     "id": 21,
     "title": "Sites of the Revolution",
     "type": "classic",
+    "themeId": 2,
     "subtitle": "Frankfurt’s sites of the 1848-1849 Revolution",
     "description": "",
     "prologue": "",
@@ -108,7 +109,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 5400,
     "filters": [
@@ -131,6 +133,7 @@
     "id": 22,
     "title": "Where the parliamentary groups met ",
     "type": "classic",
+    "themeId": 2,
     "subtitle": "Frankfurt’s Sites of the 1848-1849 Revolution",
     "description": "",
     "prologue": "",
@@ -245,7 +248,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -296,7 +300,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 5400,
     "filters": [
@@ -319,6 +324,7 @@
     "id": 23,
     "title": "Site of the September uprising 1848",
     "type": "classic",
+    "themeId": 2,
     "subtitle": "Frankfurt’s Sites of the 1848-1849 Revolution",
     "description": "",
     "prologue": "",
@@ -446,7 +452,8 @@
                   "icon": null,
                   "published": 1
                 }
-              ]
+              ],
+              "themeId": null
             },
             "filters": [
               {
@@ -519,7 +526,8 @@
                     "icon": null,
                     "published": 1
                   }
-                ]
+                ],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -564,7 +572,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 7200,
     "filters": [
@@ -587,6 +596,7 @@
     "id": 26,
     "title": "Schauplätze der Revolution (Einfache Sprache)",
     "type": "classic",
+    "themeId": 2,
     "subtitle": "Routen der Revolution 1848/49",
     "description": "Ein Rundgang in einfacher Sprache",
     "prologue": "",
@@ -671,7 +681,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 5400,
     "filters": [
@@ -694,6 +705,7 @@
     "id": 25,
     "title": "Treffpunkte der Fraktionen (Einfache Sprache)",
     "type": "classic",
+    "themeId": 2,
     "subtitle": "Routen der Revolution 1848/49",
     "description": "Ein Rundgang in einfacher Sprache",
     "prologue": "",
@@ -787,7 +799,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -838,7 +851,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 5400,
     "filters": [
@@ -861,6 +875,7 @@
     "id": 27,
     "title": "Drei Tage im September 1848 (Einfache Sprache)",
     "type": "classic",
+    "themeId": 2,
     "subtitle": "Routen der Revolution 1848/49",
     "description": "Ein Rundgang in einfacher Sprache",
     "prologue": "",
@@ -887,7 +902,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 7200,
     "filters": [

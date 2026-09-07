@@ -3,6 +3,7 @@
     "id": 68,
     "title": "Tour of the Italian Military Cemetery of Honour in Frankfurt ",
     "type": "classic",
+    "themeId": 1,
     "subtitle": "",
     "description": "",
     "prologue": "",
@@ -117,7 +118,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               },
               {
                 "type": null,
@@ -149,7 +151,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               },
               {
                 "type": null,
@@ -181,7 +184,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               },
               {
                 "type": null,
@@ -213,7 +217,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -264,7 +269,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 4500,
     "filters": [
@@ -287,6 +293,7 @@
     "id": 69,
     "title": "Tour del cimitero militare d'onore di Francoforte",
     "type": "classic",
+    "themeId": 1,
     "subtitle": "Rundgang auf Italienisch",
     "description": "",
     "prologue": "",
@@ -401,7 +408,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               },
               {
                 "type": null,
@@ -433,7 +441,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               },
               {
                 "type": null,
@@ -465,7 +474,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               },
               {
                 "type": null,
@@ -497,7 +507,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -548,7 +559,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 4500,
     "filters": [
@@ -571,6 +583,7 @@
     "id": 70,
     "title": "Route of remembrance: Frankfurt Messe and the NS",
     "type": "classic",
+    "themeId": 1,
     "subtitle": "A city tour about the November pogroms of 1938",
     "description": "A project by Messe Frankfurt and students of the Frankfurt University of Applied Science",
     "prologue": "",
@@ -695,7 +708,8 @@
                   "icon": null,
                   "published": 1
                 }
-              ]
+              ],
+              "themeId": null
             },
             "filters": [
               {
@@ -756,7 +770,8 @@
                     "icon": null,
                     "published": 1
                   }
-                ]
+                ],
+                "themeId": null
               },
               {
                 "type": null,
@@ -803,7 +818,8 @@
                     "icon": null,
                     "published": 1
                   }
-                ]
+                ],
+                "themeId": null
               },
               {
                 "type": null,
@@ -844,7 +860,8 @@
                     "icon": null,
                     "published": 1
                   }
-                ]
+                ],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -895,7 +912,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 7200,
     "filters": [
@@ -918,6 +936,7 @@
     "id": 2,
     "title": "Frankfurt and National Socialism",
     "type": "classic",
+    "themeId": 1,
     "subtitle": "Overview tour from the Historical Museum Frankfurt to Börneplatz",
     "description": "Overview tour from the Historical Museum to Börneplatz",
     "prologue": "",
@@ -978,7 +997,8 @@
                 }
               ],
               "metadata": null,
-              "filters": []
+              "filters": [],
+              "themeId": null
             },
             "metadata": {
               "title": "",
@@ -1026,7 +1046,8 @@
                 }
               ],
               "metadata": null,
-              "filters": []
+              "filters": [],
+              "themeId": null
             },
             "filters": [
               {
@@ -1093,7 +1114,8 @@
                     "icon": null,
                     "published": 1
                   }
-                ]
+                ],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -1150,7 +1172,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 3600,
     "filters": [
@@ -1173,6 +1196,7 @@
     "id": 5,
     "title": "Not without us about us!",
     "type": "classic",
+    "themeId": 1,
     "subtitle": "Remembering Nazi-Euthanasia at the Main Cemetery Burial Site",
     "description": "Remembering Nazi Euthanasia at the Main Cemetery Burial Site",
     "prologue": "",
@@ -1296,7 +1320,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -1353,7 +1378,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 3600,
     "filters": [
@@ -1376,6 +1402,7 @@
     "id": 6,
     "title": "Spurensuche mit dem Stift",
     "type": "classic",
+    "themeId": 1,
     "subtitle": "Ein Zeichen-Rundgang mit Künstlerin Katharina Müller",
     "description": "Ein Zeichen-Rundgang mit Künstlerin Katharina Müller",
     "prologue": "",
@@ -1559,7 +1586,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 3600,
     "filters": [
@@ -1582,6 +1610,7 @@
     "id": 20,
     "title": "Was hat der Nationalsozialismus mit mir zu tun?",
     "type": "classic",
+    "themeId": 1,
     "subtitle": "Ein Rundgang für Jugendliche und Familien",
     "description": "Ein Rundgang für Jugendliche und Familien",
     "prologue": "",
@@ -1696,7 +1725,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -1747,7 +1777,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 1500,
     "filters": [
@@ -1770,6 +1801,7 @@
     "id": 66,
     "title": "Journey to the past: Jewish life in Westend 100 years ago",
     "type": "classic",
+    "themeId": 1,
     "subtitle": "A project of the Protestant Reformed Church",
     "description": "",
     "prologue": "",
@@ -1863,7 +1895,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -1914,7 +1947,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 3600,
     "filters": [
@@ -1937,6 +1971,7 @@
     "id": 72,
     "title": " “War Graves” – The Graves of Victims of War and Tyranny",
     "type": "classic",
+    "themeId": 1,
     "subtitle": " Tour on Frankfurt’s Main Cemetery",
     "description": "",
     "prologue": "",
@@ -2051,7 +2086,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -2102,7 +2138,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 5400,
     "filters": [
@@ -2125,6 +2162,7 @@
     "id": 74,
     "title": "Frankfurt und der Nationalsozialismus",
     "type": "classic",
+    "themeId": 1,
     "subtitle": "Spaziergang in Leichter Sprache",
     "description": "",
     "prologue": "",
@@ -2282,7 +2320,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -2335,7 +2374,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -2394,7 +2434,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -2453,7 +2494,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -2498,7 +2540,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 7200,
     "filters": [
@@ -2521,6 +2564,7 @@
     "id": 76,
     "title": "DP-Camp Zeilsheim",
     "type": "classic",
+    "themeId": 1,
     "subtitle": "The Displaced Persons Camp for Holocaust Survivors",
     "description": "A Tour of Frankfurt’s Zeilsheim District",
     "prologue": "",
@@ -2626,7 +2670,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 3600,
     "filters": [
@@ -2649,6 +2694,7 @@
     "id": 77,
     "title": "Dancing out of the line",
     "type": "classic",
+    "themeId": 1,
     "subtitle": "A tour around the Ring of Statues",
     "description": "Beauty ideals in the Nazi era and today",
     "prologue": " ",
@@ -2733,7 +2779,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 1800,
     "filters": [
@@ -2756,6 +2803,7 @@
     "id": 78,
     "title": "Forced Labor in Gallus and the Katzbach Concentration Camp",
     "type": "classic",
+    "themeId": 1,
     "subtitle": "A tour of Frankfurt's Gallus district",
     "description": "A tour of Frankfurt's Gallus district",
     "prologue": " ",
@@ -2870,7 +2918,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               },
               {
                 "type": null,
@@ -2902,7 +2951,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -2953,7 +3003,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 3600,
     "filters": [
@@ -2976,6 +3027,7 @@
     "id": 79,
     "title": "Frankfurt und der Nationalsozialismus",
     "type": "classic",
+    "themeId": 1,
     "subtitle": "Überblicksrundgang in Deutscher Gebärdensprache",
     "description": "Überblicksrundgang in Deutscher Gebärdensprache",
     "prologue": "",
@@ -3089,7 +3141,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -3140,7 +3193,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 3600,
     "filters": [
@@ -3163,6 +3217,7 @@
     "id": 81,
     "title": "Griesheim during National Socialism",
     "type": "classic",
+    "themeId": 1,
     "subtitle": "A tour of Frankfurt-Griesheim",
     "description": "A tour of Frankfurt-Griesheim",
     "prologue": " ",
@@ -3277,7 +3332,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -3328,7 +3384,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 2700,
     "filters": [

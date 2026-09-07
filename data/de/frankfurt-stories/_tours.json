@@ -3,6 +3,7 @@
     "id": 65,
     "title": "Vereins- und Kneipengeschichte des FSV Frankfurt",
     "type": "classic",
+    "themeId": 3,
     "subtitle": "125 Jahre FSV (1899-2024)",
     "description": "",
     "prologue": "",
@@ -102,7 +103,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 7200,
     "filters": [
@@ -125,6 +127,7 @@
     "id": 51,
     "title": "Carl Theodor Reiffenstein",
     "type": "classic",
+    "themeId": 3,
     "subtitle": "Ein Frankfurter Künstler auf Altstadterkundung",
     "description": "",
     "prologue": "",
@@ -239,7 +242,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               },
               {
                 "type": null,
@@ -271,7 +275,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               },
               {
                 "type": null,
@@ -303,7 +308,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               },
               {
                 "type": null,
@@ -335,7 +341,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -386,7 +393,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 3600,
     "filters": [
@@ -409,6 +417,7 @@
     "id": 73,
     "title": "Auf den Spuren von Albert Mangelsdorff",
     "type": "classic",
+    "themeId": 3,
     "subtitle": "Never let it end",
     "description": "",
     "prologue": "",
@@ -502,7 +511,8 @@
                   "contentType": "App\\Models\\Image",
                   "expires": null
                 },
-                "filters": []
+                "filters": [],
+                "themeId": null
               }
             ],
             "afterImageHighestRating": null,
@@ -553,7 +563,8 @@
         }
       ],
       "metadata": null,
-      "filters": []
+      "filters": [],
+      "themeId": null
     },
     "duration": 7200,
     "filters": [

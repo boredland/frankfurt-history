@@ -33,8 +33,8 @@
     "osm_version": null,
     "wikidata": null,
     "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Bahnhofsviertel",
-    "wikimedia_commons": null,
-    "image": "File:Stolperstein-ffm-adolf-moritz-steinschneider-505.jpg",
+    "wikimedia_commons": "File:Stolperstein-ffm-adolf-moritz-steinschneider-505.jpg",
+    "image": null,
     "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-bahnhofsviertel/familien/steinschneider-adolf-moritz",
     "network": null
   },
@@ -66,14 +66,14 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-08-24T03:44:48+00:00"
+      "fetched_at": "2026-09-07T07:39:37+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-08-31T09:01:30+00:00",
+      "fetched_at": "2026-09-07T07:39:38+00:00",
       "found": true
     },
     "stolpersteine_frankfurt_de": {
-      "fetched_at": "2026-08-31T09:02:15+00:00",
+      "fetched_at": "2026-09-07T07:40:22+00:00",
       "list_stand": "2026-06-16",
       "found": true
     }
