@@ -2,8 +2,8 @@
 id: 1869
 title: "Kindertransporte (Children’s Transports) and Orphans' Roundabout"
 subtitle: "Gallusanlage"
-coordinates: [50.109325435059105, 8.671710796826131]
-updated_at: "2026-04-14 14:16:18"
+coordinates: [50.10916881179196, 8.671758321099883]
+updated_at: "2026-09-09 13:49:12"
 categories:
   - "Remembering and commemorating"
 filters:
