@@ -18,3 +18,8 @@ Duration: 3600s
 ID: 73
 Duration: 7200s
 
+## The Gallus District in Transition
+ID: 87
+*Tracing History, Gentrification, and Resistance*
+Duration: 3600s
+

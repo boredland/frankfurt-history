@@ -582,5 +582,307 @@
     "hasToken": false,
     "globalPos": null,
     "updatedAt": "2026-02-06 14:06:19"
+  },
+  {
+    "id": 87,
+    "title": "The Gallus District in Transition",
+    "type": "classic",
+    "themeId": 3,
+    "subtitle": "Tracing History, Gentrification, and Resistance",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 879,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.644277096936994,
+            50.1046975360221
+          ]
+        },
+        "title": "Welcome to the Gallus – A District in Transition",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p>When the S-Bahn stops at Gallus­warte, you exit through Exit B onto Franken­allee and enter a neighborhood with a rich past and a changing present. Here, where brick façades meet con­struc­tion sites, our walk begins [see M0.1].</p>\n<p>Gallus took shape in the late 19th cen­tury during indus­trializa­t­ion. Factories and compa­nies such as Adler, VDO, and Hartmann &amp; Braun pro­vided workers’ families with hou­sing close to their work­pla­ces [see M0.2].</p>\n<p>From the 1970s onward, many factories clo­sed, and jobs were lost. At the same time, migra­tion, affor­dable hou­sing, and gro­wing social diver­sity came to shape the neighborhood. In the 2000s, the area began to change once again: urban rene­wal, inves­tment, and large-scale new con­struc­tion pro­je­cts such as the Euro­pavier­tel pla­ced Gallus at the heart of Frankfurt’s urban deve­lopment strategies – with direct con­sequen­ces for its residents.</p>\n<p>For the past 15 years, the district has been undergo­ing rapid trans­forma­tion. Its cen­tral loca­tion, pro­xi­mity to the trade fair grounds, and the banking district have made Gallus incre­asin­gly attrac­tive to inves­tors. Large-scale pro­je­cts – above all the Euro­pavier­tel – are drawing in new, more aff­luent residents. At the same time, long-term ten­ants are under pressure: rents are rising, moder­niza­t­ion measu­res are announced, and old ren­tal contracts are being termi­nated.</p>\n<p>In this audio walk, we tell the story of Gallus and the stories of the people who live here. We fol­low a ten­ant named Ilse through six stops along the way [see M0.3].</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Sarah Klosterkamp, Max Busch-Geertsema, Sarah Knechtel",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/ziaZ6SWxmVAd6jgfLpFpNTBil.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Welcome to the Gallus",
+              "description": "A District in Transition",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2026-03-31 11:55:05"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 23742,
+            "pos": 2,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galery for tourstep",
+              "description": "not for the index",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "M0.png",
+                "date": null,
+                "dateString": "September 2025",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 908,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_png_2b80c238a3915475283d42413bcc24a5_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 454,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_png_2b80c238a3915475283d42413bcc24a5_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>M0.0: Gallus in Transition</p>",
+                  "accessibleDescription": "",
+                  "author": "Philip Bellmann, Marie Teigler",
+                  "copyright": "gemeinfrei",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [],
+                "themeId": null
+              },
+              {
+                "type": null,
+                "originalName": "M0.1.jpeg",
+                "date": null,
+                "dateString": "September 2025",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 908,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_1_jpeg_f10e888f546472eddc7cabc4dd30cace_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 454,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_1_jpeg_f10e888f546472eddc7cabc4dd30cace_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>M0.1: Overview of the entire route with marked stops</p>",
+                  "accessibleDescription": "",
+                  "author": "Philip Bellmann, Marie Teigler",
+                  "copyright": "gemeinfrei",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [],
+                "themeId": null
+              },
+              {
+                "type": null,
+                "originalName": "M0.2.jpeg",
+                "date": null,
+                "dateString": "around 1937",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 908,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_2_jpeg_4d94c190cb80001620745195335f8731_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 454,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_2_jpeg_4d94c190cb80001620745195335f8731_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>M0.2: Idsteiner Straße, 1937</p>",
+                  "accessibleDescription": "",
+                  "author": "Philip Bellmann, Marie Teigler",
+                  "copyright": "Geschichtswerkstatt Gallus",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [],
+                "themeId": null
+              },
+              {
+                "type": null,
+                "originalName": "M0.3.jpeg",
+                "date": null,
+                "dateString": "September 2025",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 908,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_3_jpeg_0427169d8cc3c1a949c334dc02804687_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 454,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_3_jpeg_0427169d8cc3c1a949c334dc02804687_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>M0.3: Ilse, 84-year-old resident</p>",
+                  "accessibleDescription": "",
+                  "author": "Philip Bellmann, Marie Teigler",
+                  "copyright": "gemeinfrei",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [],
+                "themeId": null
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2026-03-31 11:20:06"
+          }
+        ],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 35,
+            "title": "Gallus in transition",
+            "subtitle": "",
+            "colour": "pink",
+            "icon": null,
+            "published": 1
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "c92ed7cf9dc96f5ea1df8fd439494fcf_original.png",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/e924f1300c7686441190019e586ac1a9_original.png"
+        },
+        {
+          "type": "large",
+          "width": 3200,
+          "height": 1800,
+          "url": "https://api.frankfurthistory.app/storage/images/e924f1300c7686441190019e586ac1a9_large.png"
+        },
+        {
+          "type": "medium",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/e924f1300c7686441190019e586ac1a9_medium.png"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/e924f1300c7686441190019e586ac1a9_small.png"
+        }
+      ],
+      "metadata": null,
+      "filters": [],
+      "themeId": null
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 35,
+        "title": "Gallus in transition",
+        "subtitle": "",
+        "colour": "pink",
+        "icon": null,
+        "published": 1
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "globalPos": null,
+    "updatedAt": "2026-09-17 22:08:00"
   }
 ]

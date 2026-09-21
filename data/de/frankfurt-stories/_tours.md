@@ -19,3 +19,8 @@ ID: 73
 *Never let it end*
 Duration: 7200s
 
+## Das Gallusviertel im Wandel
+ID: 87
+*Eine Spurensuche zwischen Geschichte, Gentrifizierung und Widerstand*
+Duration: 3600s
+
