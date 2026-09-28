@@ -674,7 +674,7 @@
             "images": [
               {
                 "type": null,
-                "originalName": "M0.png",
+                "originalName": "M0_png_2b80c238a3915475283d42413bcc24a5_original.jpg",
                 "date": null,
                 "dateString": "September 2025",
                 "weight": null,
@@ -683,13 +683,25 @@
                     "type": "original",
                     "width": 1600,
                     "height": 908,
-                    "url": "https://api.frankfurthistory.app/storage/images/M0_png_2b80c238a3915475283d42413bcc24a5_original.jpg"
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_png_2b8_76019ddb4d61de95c885b7c5247036d0_original.jpg"
+                  },
+                  {
+                    "type": "large",
+                    "width": 3200,
+                    "height": 1816,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_png_2b8_76019ddb4d61de95c885b7c5247036d0_large.jpg"
+                  },
+                  {
+                    "type": "medium",
+                    "width": 1600,
+                    "height": 908,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_png_2b8_76019ddb4d61de95c885b7c5247036d0_medium.jpg"
                   },
                   {
                     "type": "small",
                     "width": 800,
                     "height": 454,
-                    "url": "https://api.frankfurthistory.app/storage/images/M0_png_2b80c238a3915475283d42413bcc24a5_small.jpg"
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_png_2b8_76019ddb4d61de95c885b7c5247036d0_small.jpg"
                   }
                 ],
                 "metadata": {
@@ -707,22 +719,34 @@
               },
               {
                 "type": null,
-                "originalName": "M0.1.jpeg",
+                "originalName": "M0.1_NEU.jpg",
                 "date": null,
                 "dateString": "September 2025",
                 "weight": null,
                 "urls": [
                   {
                     "type": "original",
+                    "width": 640,
+                    "height": 363,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_1_NEU_j_2e04ba576719c49e399bde3ba8900127_original.jpg"
+                  },
+                  {
+                    "type": "large",
+                    "width": 3200,
+                    "height": 1815,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_1_NEU_j_2e04ba576719c49e399bde3ba8900127_large.jpg"
+                  },
+                  {
+                    "type": "medium",
                     "width": 1600,
                     "height": 908,
-                    "url": "https://api.frankfurthistory.app/storage/images/M0_1_jpeg_f10e888f546472eddc7cabc4dd30cace_original.jpg"
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_1_NEU_j_2e04ba576719c49e399bde3ba8900127_medium.jpg"
                   },
                   {
                     "type": "small",
                     "width": 800,
                     "height": 454,
-                    "url": "https://api.frankfurthistory.app/storage/images/M0_1_jpeg_f10e888f546472eddc7cabc4dd30cace_small.jpg"
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_1_NEU_j_2e04ba576719c49e399bde3ba8900127_small.jpg"
                   }
                 ],
                 "metadata": {
@@ -740,7 +764,7 @@
               },
               {
                 "type": null,
-                "originalName": "M0.2.jpeg",
+                "originalName": "M0_2_jpeg_4d94c190cb80001620745195335f8731_original.jpg",
                 "date": null,
                 "dateString": "around 1937",
                 "weight": null,
@@ -749,13 +773,25 @@
                     "type": "original",
                     "width": 1600,
                     "height": 908,
-                    "url": "https://api.frankfurthistory.app/storage/images/M0_2_jpeg_4d94c190cb80001620745195335f8731_original.jpg"
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_2_jpeg__943790c355a17ef0a9a05747a7126296_original.jpg"
+                  },
+                  {
+                    "type": "large",
+                    "width": 3200,
+                    "height": 1816,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_2_jpeg__943790c355a17ef0a9a05747a7126296_large.jpg"
+                  },
+                  {
+                    "type": "medium",
+                    "width": 1600,
+                    "height": 908,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_2_jpeg__943790c355a17ef0a9a05747a7126296_medium.jpg"
                   },
                   {
                     "type": "small",
                     "width": 800,
                     "height": 454,
-                    "url": "https://api.frankfurthistory.app/storage/images/M0_2_jpeg_4d94c190cb80001620745195335f8731_small.jpg"
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_2_jpeg__943790c355a17ef0a9a05747a7126296_small.jpg"
                   }
                 ],
                 "metadata": {
@@ -773,7 +809,7 @@
               },
               {
                 "type": null,
-                "originalName": "M0.3.jpeg",
+                "originalName": "M0_3_jpeg_0427169d8cc3c1a949c334dc02804687_original.jpg",
                 "date": null,
                 "dateString": "September 2025",
                 "weight": null,
@@ -782,13 +818,25 @@
                     "type": "original",
                     "width": 1600,
                     "height": 908,
-                    "url": "https://api.frankfurthistory.app/storage/images/M0_3_jpeg_0427169d8cc3c1a949c334dc02804687_original.jpg"
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_3_jpeg__71d2b7b3d4e2ca1d50feb95ccf78913f_original.jpg"
+                  },
+                  {
+                    "type": "large",
+                    "width": 3200,
+                    "height": 1816,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_3_jpeg__71d2b7b3d4e2ca1d50feb95ccf78913f_large.jpg"
+                  },
+                  {
+                    "type": "medium",
+                    "width": 1600,
+                    "height": 908,
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_3_jpeg__71d2b7b3d4e2ca1d50feb95ccf78913f_medium.jpg"
                   },
                   {
                     "type": "small",
                     "width": 800,
                     "height": 454,
-                    "url": "https://api.frankfurthistory.app/storage/images/M0_3_jpeg_0427169d8cc3c1a949c334dc02804687_small.jpg"
+                    "url": "https://api.frankfurthistory.app/storage/images/M0_3_jpeg__71d2b7b3d4e2ca1d50feb95ccf78913f_small.jpg"
                   }
                 ],
                 "metadata": {
@@ -806,7 +854,7 @@
               }
             ],
             "afterImageHighestRating": null,
-            "updatedAt": "2026-03-31 11:20:06"
+            "updatedAt": "2026-09-23 13:38:14"
           }
         ],
         "interactiveGalleryContents": [],
@@ -834,7 +882,7 @@
     ],
     "thumbnail": {
       "type": null,
-      "originalName": "c92ed7cf9dc96f5ea1df8fd439494fcf_original.png",
+      "originalName": "2854909c9c4cc22a25a4c5bf0d625955_original.png",
       "date": null,
       "dateString": "",
       "weight": null,
@@ -843,25 +891,25 @@
           "type": "original",
           "width": 1600,
           "height": 900,
-          "url": "https://api.frankfurthistory.app/storage/images/e924f1300c7686441190019e586ac1a9_original.png"
+          "url": "https://api.frankfurthistory.app/storage/images/37b0f761d5aaeb786fbc993969543b84_original.png"
         },
         {
           "type": "large",
           "width": 3200,
           "height": 1800,
-          "url": "https://api.frankfurthistory.app/storage/images/e924f1300c7686441190019e586ac1a9_large.png"
+          "url": "https://api.frankfurthistory.app/storage/images/37b0f761d5aaeb786fbc993969543b84_large.png"
         },
         {
           "type": "medium",
           "width": 1600,
           "height": 900,
-          "url": "https://api.frankfurthistory.app/storage/images/e924f1300c7686441190019e586ac1a9_medium.png"
+          "url": "https://api.frankfurthistory.app/storage/images/37b0f761d5aaeb786fbc993969543b84_medium.png"
         },
         {
           "type": "small",
           "width": 800,
           "height": 450,
-          "url": "https://api.frankfurthistory.app/storage/images/e924f1300c7686441190019e586ac1a9_small.png"
+          "url": "https://api.frankfurthistory.app/storage/images/37b0f761d5aaeb786fbc993969543b84_small.png"
         }
       ],
       "metadata": null,
@@ -883,6 +931,6 @@
     "zoomLevel": 17,
     "hasToken": false,
     "globalPos": null,
-    "updatedAt": "2026-09-17 22:08:00"
+    "updatedAt": "2026-09-23 13:53:55"
   }
 ]
