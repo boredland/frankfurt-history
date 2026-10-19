@@ -3,7 +3,7 @@ id: 418
 title: "Synagogue of the Jewish Community Heddernheim"
 subtitle: "Alt Heddernheim 33"
 coordinates: [50.1575376, 8.6485421]
-updated_at: "2026-04-15 14:45:07"
+updated_at: "2026-10-13 11:46:15"
 categories:
   - "Places"
   - "Verfolgung Kategorie"
@@ -27,6 +27,6 @@ Replacing an older dilapidated synagogue, the new building from around 1760 prov
 ## Gallery
 
 <!-- gallery:standard -->
-![Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de](../../images/Hier%20fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
-*Author: HMF | License: gemeinfrei | Description: Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de*
+![Draft of the institute for vocational education in Bockenheim](../../images/Berufspaed_a8a05340ab0fdaf68bfcf1731a24771e_original.jpg)
+*Author: Martin Elsaesser | License: Martin Elsaesser: Bauten und Entwürfe aus den Jahren 1924–1932, Berlin 1933 | Description: Draft of the institute for vocational education in Bockenheim*
 

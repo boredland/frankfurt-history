@@ -1,32 +1,80 @@
 [
   {
-    "id": 65,
-    "title": "Vereins- und Kneipengeschichte des FSV Frankfurt",
+    "id": 98,
+    "title": "Die Kinogeschichte des Bahnhofsviertels",
     "type": "classic",
     "themeId": 3,
-    "subtitle": "125 Jahre FSV (1899-2024)",
+    "subtitle": "Auf den Spuren verschwundener Kinos",
     "description": "",
     "prologue": "",
     "steps": [
       {
-        "id": 624,
+        "id": 967,
         "location": {
           "type": "Point",
           "coordinates": [
-            8.707217,
-            50.12591
+            8.664012484337238,
+            50.10730273876431
           ]
         },
-        "title": "Start: Richard-Hermann-Kiosk",
+        "title": "Einführung",
         "type": "start",
         "splitPosition": "split",
         "splitAnchor": 1.02,
         "turnByTurn": 0,
         "textContents": [
           {
-            "pos": 1,
+            "pos": 3,
             "template": "plain",
-            "body": "<p>Herzlich Will­kommen bei der Stadt­führung zum Thema FSV Frankfurt und Born­hei­mer Knei­pen­ge­schichte.</p>\n<p>Die Stadt­führung wurde erstellt von der Geschichts­gruppe der Fan- und Förder­ab­tei­lung des FSV Frankfurt und wir wün­schen euch viel Spaß dabei.</p>",
+            "body": "<p>Frankfurt war einst eine Kino­metro­pole. Über 100 Spiel­stät­ten wur­den seit der Erfindung des Films im gesam­ten Stadt­gebiet eröffnet – im Spitzen­jahr 1959 waren sogar 85 Kinos gleichzei­tig in Betrieb. Heute ist davon nur noch wenig sichtbar. Viele Gebäude wur­den umge­n­utzt, umgebaut oder abge­ris­sen, Namen und Erinnerun­gen sind ver­blasst. Mit unse­rer Führung laden wir Sie ein, sich mit uns auf eine Spuren­su­che durch die Kino­ge­schichte zu bege­ben.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Sina Scherer",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 5,
+            "template": "plain",
+            "body": "<p>Die Kino­ge­schichte Frankfurts nahm dabei aus­ge­rech­net dort ihren Anfang, wo man es heute kaum ver­mu­tet: im Bahnhofsvier­tel. Zwi­schen Haupt­bahnhof und Innen­stadt ent­wi­ckelte sich Ende des 19. Jahrhunderts ein gründerzeit­lich-reprä­senta­tives Vier­tel mit impo­san­ten Fas­saden, elegan­ten Geschäf­ten und fei­nen Cafés. Die Kai­ser­straße galt als Frankfurts Haupt- und Geschäfts­straße par excel­lence – eine Fla­niermeile des Bürgertums mit welt­städ­ti­schem Flair. In dieser noblen Umge­bung ent­standen ab 1906 die ers­ten ortsfes­ten Kinos der Stadt. Ihre Lage mit­ten in der vor­neh­men Geschäfts­adresse zeigt, dass das Kino in Frankfurt von Beginn an mehr sein wollte als bloße Unter­hal­tung für die breite Masse.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Sina Scherer",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 8,
+            "template": "plain",
+            "body": "<p>Die Führung beginnt am Frankfur­ter Haupt­bahnhof und ver­läuft ent­lang der Kai­ser­straße mit klei­nen Abste­chern in die angrenzenden Straßen. Einzelne his­tori­sche Gebäude exis­tie­ren noch, andere müs­sen wir mit Hilfe von Beschreibun­gen und Bildern in unse­rer Vor­stel­lung  rekon­stru­ie­ren.</p>\n<p>Der Rundgang folgt den Spuren des Medi­ums von sei­nen Vor­läufern im 19. Jahrhundert bis ins aus­ge­hende 20. Jahrhundert. Thema­ti­siert wer­den dabei nicht nur Orte und Gebäude, sondern auch die Ent­wick­lung der Pro­gramme und Publikums und die wechsel­volle Rolle des Kinos im urba­nen Gefüge.</p>\n<p>Kon­zi­piert wurde diese Führung im Win­ter­se­mes­ter 2024/25 von Student*innen der Goe­the-Uni­ver­sität Frankfurt. Ent­standen ist sie im Rah­men des Seminars <strong>„Kino­ge­schichte als Stadt­ge­schichte: Topogra­fi­sche Per­spek­tiven auf eine unsichtbare Kultur“</strong>, gelei­tet von Dr. Andrea Hal­ler und Svetlana Svyatskaya. </p>\n<p>Wir bedanken uns bei Claudia Schüs­s­ler vom Insti­tut für Stadt­ge­schichte Frankfurt für die Unter­stützung bei der Bild­re­cher­che und Digi­tali­sierung.</p>\n<p>Ziel war es, die Geschichte des Frankfur­ter Kinos – exem­plarisch am Bei­spiel des Bahnhofsvier­tels – wieder sichtbar und erfahrbar zu machen.</p>\n<p>Wir hoffen, es ist uns gelun­gen.</p>\n<p><strong>Anke Gross, Fran Evers, Johanna Fieber­ling, Aline Fuß, Anne Haferung, René Hanauer, Hauke Henkel, Clara Itter­beck, Ogulcan Korkmaz, Rosa Krohn, Mai Nguyen, Laura Palys, Anna Rott­län­der,  Sina Sche­rer, Mariia Senoko­sova, Carla Sternburg.</strong></p>\n<p> </p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Sina Scherer",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          },
+          {
+            "pos": 7,
+            "template": "plain",
+            "body": "<p>Im Aus­schnitt aus G.I. BLUES (USA 1960, R.: Norman Tau­rog) sind bei der Fahrt durch die Bahnhof­straße drei Frankfur­ter Kinos zu sehen: das AKI, das Schu­mann-Thea­ter und das Luxor.</p>",
             "metadata": {
               "title": "",
               "description": "",
@@ -42,11 +90,11 @@
         ],
         "audioContents": [
           {
-            "pos": 2,
-            "url": "https://api.frankfurthistory.app/storage/audio/Joih8g3Fgaagl3hFqNAVreAVf.mp3",
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/sqD4YtO38bfjzLcu2VzEiwiR6.mp3",
             "thumbnail": null,
             "metadata": {
-              "title": "Intro",
+              "title": "Einführung",
               "description": "",
               "accessibleDescription": "",
               "author": null,
@@ -59,138 +107,34 @@
             "excludeFromRegister": false,
             "autoplay": false,
             "initialPlayer": false,
-            "updatedAt": "2025-04-15 05:50:25"
+            "updatedAt": "2026-10-05 09:28:12"
           }
         ],
         "arContents": [],
-        "videoContents": [],
-        "galleryContents": [],
-        "interactiveGalleryContents": [],
-        "detailGalleryContents": [],
-        "linkContents": [],
-        "quizContents": [],
-        "filters": [
+        "videoContents": [
           {
-            "id": 14,
-            "title": "125 Jahre FSV",
-            "subtitle": "(1899-2024)",
-            "colour": "darkgray",
-            "icon": null,
-            "published": 1
-          }
-        ]
-      }
-    ],
-    "quizGratulations": [
-      {
-        "congratulationText": "",
-        "rangeStart": 0,
-        "rangeEnd": 100
-      }
-    ],
-    "thumbnail": {
-      "type": null,
-      "originalName": "239feea05ca8f96e80558847e3fdde84_original.png",
-      "date": null,
-      "dateString": "",
-      "weight": null,
-      "urls": [
-        {
-          "type": "original",
-          "width": 601,
-          "height": 338,
-          "url": "https://api.frankfurthistory.app/storage/images/7fd7113d82504e855fd9672079db5175_original.png"
-        }
-      ],
-      "metadata": null,
-      "filters": [],
-      "themeId": null
-    },
-    "duration": 7200,
-    "filters": [
-      {
-        "id": 14,
-        "title": "125 Jahre FSV",
-        "subtitle": "(1899-2024)",
-        "colour": "darkgray",
-        "icon": null,
-        "published": 1
-      }
-    ],
-    "categories": [],
-    "zoomLevel": 18,
-    "hasToken": false,
-    "globalPos": null,
-    "updatedAt": "2026-03-11 11:12:42"
-  },
-  {
-    "id": 51,
-    "title": "Carl Theodor Reiffenstein",
-    "type": "classic",
-    "themeId": 3,
-    "subtitle": "Ein Frankfurter Künstler auf Altstadterkundung",
-    "description": "",
-    "prologue": "",
-    "steps": [
-      {
-        "id": 387,
-        "location": {
-          "type": "Point",
-          "coordinates": [
-            8.682594070786337,
-            50.10959403062543
-          ]
-        },
-        "title": "Ein Frankfurter Künstler auf Altstadterkundung",
-        "type": "start",
-        "splitPosition": "split",
-        "splitAnchor": 1.02,
-        "turnByTurn": 1,
-        "textContents": [
-          {
-            "pos": 3,
-            "template": "plain",
-            "body": "<p>Erkunden Sie zusammen mit Carl Theodor Reiffenstein (1820-1893) die Frankfur­ter Alt­stadt des 19. Jahrhunderts!</p>\n<p>Der Landschafts­ma­ler wurde selbst im Her­zen der Alt­stadt in der Grau­ben­gasse geboren (heute Kleinmarkthalle). Zu jeder freien Stunde zog er mit dem Skizzenbuch durch seine Heimat­stadt und ihre Umge­bung. Reiffenstein inter­es­sierte sich vor allem für die Bau­werke, Straßen und Plätze, aber auch für die Stadt­mauern, Höfe und Gär­ten.</p>\n<p>Seine Ein­drü­cke hielt er in 2.000 Aquarel­len und Zeich­nun­gen sowie auf 2.400 Manu­skript-Sei­ten fest. Meist zeichnete er vor Ort mit dem Blei­stift – erst spä­ter fasste er die Zeich­nun­gen farbig. Neben Orts­be­schreibun­gen und Details zur Bau­ge­schichte fül­len auch his­tori­sche Ereig­nisse und Anekdo­ten die Sei­ten.</p>\n<p>Heute sind viele dieser Orte ver­schwunden, nur wenige haben sich unve­r­än­dert erhal­ten oder wur­den rekon­stru­iert.</p>",
-            "metadata": {
-              "title": "",
-              "description": "",
-              "accessibleDescription": "",
-              "author": "Carina Koch",
-              "copyright": null,
-              "ticketLink": null,
-              "contentType": "App\\Models\\TextContent",
-              "expires": null
-            },
-            "filters": []
-          }
-        ],
-        "audioContents": [
-          {
-            "pos": 1,
-            "url": "https://api.frankfurthistory.app/storage/audio/YpQTH8vYTukCxaHTB7Dt3PTf2.mp3",
+            "pos": 6,
+            "url": "https://www.youtube.com/watch?v=GyZwnENRq7g",
+            "vimeoId": "",
             "thumbnail": null,
             "metadata": {
-              "title": "Ein Frankfurter Künstler auf Altstadterkundung",
+              "title": "Erfahre mehr",
               "description": "",
               "accessibleDescription": "",
               "author": null,
               "copyright": null,
               "ticketLink": null,
-              "contentType": "App\\Models\\AudioContent",
+              "contentType": "App\\Models\\VideoContent",
               "expires": null
             },
             "filters": [],
             "excludeFromRegister": false,
-            "autoplay": true,
-            "initialPlayer": true,
-            "updatedAt": "2024-09-04 19:05:47"
+            "updatedAt": "2026-08-26 10:22:21"
           }
         ],
-        "arContents": [],
-        "videoContents": [],
         "galleryContents": [
           {
-            "id": 21778,
+            "id": 23852,
             "pos": 2,
             "type": "gallery",
             "isPortrait": false,
@@ -214,129 +158,42 @@
             "images": [
               {
                 "type": null,
-                "originalName": "B0874.png",
+                "originalName": "00_Einf%25C3_0b2e5b9e634504e38648843634403df1_original.jpg",
                 "date": null,
-                "dateString": "1845",
+                "dateString": "um 1950",
                 "weight": null,
                 "urls": [
                   {
                     "type": "original",
-                    "width": 1137,
-                    "height": 1444,
-                    "url": "https://api.frankfurthistory.app/storage/images/B0874_png_b690a03051ecff44e8a016a569a2a2e5_original.jpg"
+                    "width": 999,
+                    "height": 585,
+                    "url": "https://api.frankfurthistory.app/storage/images/00_Einf%2525_3ff3c2f968cf52eaf06233c90b166536_original.jpg"
                   },
                   {
-                    "type": "small",
-                    "width": 630,
-                    "height": 800,
-                    "url": "https://api.frankfurthistory.app/storage/images/B0874_png_b690a03051ecff44e8a016a569a2a2e5_small.jpg"
-                  }
-                ],
-                "metadata": {
-                  "title": "",
-                  "description": "<p>Georg Wittemann, Porträt des Malers Carl Theodor Reiffenstein, 1845, Ölgemälde, HMF B0874, Historisches Museum Frankfurt, CC-BY-SA 4.0, Foto: Horst Ziegenfusz</p>",
-                  "accessibleDescription": "",
-                  "author": "Georg Wittemann",
-                  "copyright": "HMF",
-                  "ticketLink": null,
-                  "contentType": "App\\Models\\Image",
-                  "expires": null
-                },
-                "filters": [],
-                "themeId": null
-              },
-              {
-                "type": null,
-                "originalName": "Inv. Bibl.2009.5142,01-12.jpg",
-                "date": null,
-                "dateString": "",
-                "weight": null,
-                "urls": [
+                    "type": "large",
+                    "width": 3200,
+                    "height": 1874,
+                    "url": "https://api.frankfurthistory.app/storage/images/00_Einf%2525_3ff3c2f968cf52eaf06233c90b166536_large.jpg"
+                  },
                   {
-                    "type": "original",
+                    "type": "medium",
                     "width": 1600,
-                    "height": 944,
-                    "url": "https://api.frankfurthistory.app/storage/images/Inv_%20Bibl__d08b800b1e5454655347a0dc36b04471_original.jpg"
+                    "height": 937,
+                    "url": "https://api.frankfurthistory.app/storage/images/00_Einf%2525_3ff3c2f968cf52eaf06233c90b166536_medium.jpg"
                   },
                   {
                     "type": "small",
                     "width": 800,
-                    "height": 472,
-                    "url": "https://api.frankfurthistory.app/storage/images/Inv_%20Bibl__d08b800b1e5454655347a0dc36b04471_small.jpg"
+                    "height": 469,
+                    "url": "https://api.frankfurthistory.app/storage/images/00_Einf%2525_3ff3c2f968cf52eaf06233c90b166536_small.jpg"
                   }
                 ],
                 "metadata": {
                   "title": "",
-                  "description": "<p>Carl Theodor Reiffenstein, Text zur Sammlung Frankfurter Ansichten (11 Bände Manuskript und eine Mappe mit Einzelblättern), Inv.Bibl.2009.5142,01-12</p>",
+                  "description": "<p>Kaiserstraße um 1950</p>",
                   "accessibleDescription": "",
-                  "author": "HMF",
-                  "copyright": "HMF",
-                  "ticketLink": null,
-                  "contentType": "App\\Models\\Image",
-                  "expires": null
-                },
-                "filters": [],
-                "themeId": null
-              },
-              {
-                "type": null,
-                "originalName": "G1366.png",
-                "date": null,
-                "dateString": "1881",
-                "weight": null,
-                "urls": [
-                  {
-                    "type": "original",
-                    "width": 1273,
-                    "height": 1600,
-                    "url": "https://api.frankfurthistory.app/storage/images/G1366_png_2abcd4e5de400cf8b9d1d4049731dd6b_original.jpg"
-                  },
-                  {
-                    "type": "small",
-                    "width": 637,
-                    "height": 800,
-                    "url": "https://api.frankfurthistory.app/storage/images/G1366_png_2abcd4e5de400cf8b9d1d4049731dd6b_small.jpg"
-                  }
-                ],
-                "metadata": {
-                  "title": "",
-                  "description": "<p>Carl Theodor Reiffenstein, Der Frankfurter Stadtwald, 1881, Ölgemälde, HMF G1366 / Dauerleihgabe Städel Museum, Historisches Museum Frankfurt, CC-BY-SA 4.0, Foto: Horst Ziegenfusz</p>",
-                  "accessibleDescription": "",
-                  "author": "Carl Theodor Reiffenstein",
-                  "copyright": "HMF",
-                  "ticketLink": null,
-                  "contentType": "App\\Models\\Image",
-                  "expires": null
-                },
-                "filters": [],
-                "themeId": null
-              },
-              {
-                "type": null,
-                "originalName": "B0834.png",
-                "date": null,
-                "dateString": "1879",
-                "weight": null,
-                "urls": [
-                  {
-                    "type": "original",
-                    "width": 1333,
-                    "height": 1600,
-                    "url": "https://api.frankfurthistory.app/storage/images/B0834_png_45e7fc4e509476cbb132d0d234145f1f_original.jpg"
-                  },
-                  {
-                    "type": "small",
-                    "width": 667,
-                    "height": 800,
-                    "url": "https://api.frankfurthistory.app/storage/images/B0834_png_45e7fc4e509476cbb132d0d234145f1f_small.jpg"
-                  }
-                ],
-                "metadata": {
-                  "title": "",
-                  "description": "<p>Carl Theodor Reiffenstein, Felsengegend, 1879, Ölgemälde, HMF B0834, Historisches Museum Frankfurt, CC-BY-SA 4.0, Foto: Horst Ziegenfusz</p>",
-                  "accessibleDescription": "",
-                  "author": "Carl Theodor Reiffenstein",
-                  "copyright": "HMF",
+                  "author": "DFF",
+                  "copyright": "DFF",
                   "ticketLink": null,
                   "contentType": "App\\Models\\Image",
                   "expires": null
@@ -346,7 +203,259 @@
               }
             ],
             "afterImageHighestRating": null,
-            "updatedAt": "2024-02-29 11:03:44"
+            "updatedAt": "2026-10-05 09:28:21"
+          },
+          {
+            "id": 23853,
+            "pos": 4,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "isg_ffm_s7_5559471e24e82cff5df6ac7208284292_original.jpg",
+                "date": null,
+                "dateString": "um 1890",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1049,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s7_b04202c83c57323576353ca55b0a79dc_original.jpg"
+                  },
+                  {
+                    "type": "large",
+                    "width": 3200,
+                    "height": 2098,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s7_b04202c83c57323576353ca55b0a79dc_large.jpg"
+                  },
+                  {
+                    "type": "medium",
+                    "width": 1600,
+                    "height": 1049,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s7_b04202c83c57323576353ca55b0a79dc_medium.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 525,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s7_b04202c83c57323576353ca55b0a79dc_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Blick auf den Hauptbahnhof entlang der noch unbebauten Kaiserstraße (um 1890)</p>",
+                  "accessibleDescription": "",
+                  "author": "unbekannt/unkown",
+                  "copyright": "Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), S7A Nr. 1998-11432, E. Meyer-Wegelin",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [],
+                "themeId": null
+              },
+              {
+                "type": null,
+                "originalName": "isg_ffm_s1_a4e8d40df6c5f0d81544584c44c787f3_original.jpg",
+                "date": null,
+                "dateString": "um 1900",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1049,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s1_91ee457a830f57390ebc8dff8428dba2_original.jpg"
+                  },
+                  {
+                    "type": "large",
+                    "width": 3200,
+                    "height": 2098,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s1_91ee457a830f57390ebc8dff8428dba2_large.jpg"
+                  },
+                  {
+                    "type": "medium",
+                    "width": 1600,
+                    "height": 1049,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s1_91ee457a830f57390ebc8dff8428dba2_medium.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 525,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s1_91ee457a830f57390ebc8dff8428dba2_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Die Kaiserstraße um 1900</p>",
+                  "accessibleDescription": "",
+                  "author": "unbekannt/unkown",
+                  "copyright": "Institut für Stadtgeschichte Frankfurt am Main (ISG FFM), S17/550.12",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [],
+                "themeId": null
+              },
+              {
+                "type": null,
+                "originalName": "isg_ffm_s1_09e95ed5f82f0b24dcb2302f2486d9b6_original.jpg",
+                "date": null,
+                "dateString": "um 1900",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1034,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s1_200b76e9751f4946d05f581afdffe75a_original.jpg"
+                  },
+                  {
+                    "type": "large",
+                    "width": 3200,
+                    "height": 2068,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s1_200b76e9751f4946d05f581afdffe75a_large.jpg"
+                  },
+                  {
+                    "type": "medium",
+                    "width": 1600,
+                    "height": 1034,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s1_200b76e9751f4946d05f581afdffe75a_medium.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 517,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s1_200b76e9751f4946d05f581afdffe75a_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Blick vom Hauptbahnhof in die Kaiserstraße, kolorierte Postkarte um 1900.</p>",
+                  "accessibleDescription": "",
+                  "author": "unbekannt/unkown",
+                  "copyright": "IInstitut für Stadtgeschichte Frankfurt am Main (ISG FFM), S7A Nr. 1998-11432",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [],
+                "themeId": null
+              },
+              {
+                "type": null,
+                "originalName": "isg_ffm_s7_26475398c92025be62febe9209fdc37c_original.jpg",
+                "date": null,
+                "dateString": "um 1910",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1222,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s7_3eeebfe58a4563fde769de3a41239f49_original.jpg"
+                  },
+                  {
+                    "type": "large",
+                    "width": 3200,
+                    "height": 2444,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s7_3eeebfe58a4563fde769de3a41239f49_large.jpg"
+                  },
+                  {
+                    "type": "medium",
+                    "width": 1600,
+                    "height": 1222,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s7_3eeebfe58a4563fde769de3a41239f49_medium.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 611,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s7_3eeebfe58a4563fde769de3a41239f49_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Nordseite der Kaiserstraße mit zahlreichen Textilfirmen und Banken – eine der besten Geschäftsadressen Frankfurts (um 1910).</p>",
+                  "accessibleDescription": "",
+                  "author": "unbekannt/unkown",
+                  "copyright": "IInstitut für Stadtgeschichte Frankfurt am Main (ISG FFM), S7A Nr. 1998-11432",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [],
+                "themeId": null
+              },
+              {
+                "type": null,
+                "originalName": "isg_ffm_s7_e9d698d58d6ad1fccd3ff323e1cd97fe_original.jpg",
+                "date": null,
+                "dateString": "um 1913",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1056,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s7_fe25173a1df391b6af5ee62447eb48c9_original.jpg"
+                  },
+                  {
+                    "type": "large",
+                    "width": 3200,
+                    "height": 2112,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s7_fe25173a1df391b6af5ee62447eb48c9_large.jpg"
+                  },
+                  {
+                    "type": "medium",
+                    "width": 1600,
+                    "height": 1056,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s7_fe25173a1df391b6af5ee62447eb48c9_medium.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 528,
+                    "url": "https://api.frankfurthistory.app/storage/images/isg_ffm_s7_fe25173a1df391b6af5ee62447eb48c9_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Das fertge Bahnhofsviertel im Luftbild (um 1913)</p>",
+                  "accessibleDescription": "",
+                  "author": "unbekannt/unkown",
+                  "copyright": "IInstitut für Stadtgeschichte Frankfurt am Main (ISG FFM), S7A Nr. 1998-11432",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [],
+                "themeId": null
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2026-10-05 09:28:26"
           }
         ],
         "interactiveGalleryContents": [],
@@ -355,10 +464,10 @@
         "quizContents": [],
         "filters": [
           {
-            "id": 11,
-            "title": "Reiffensteins Frankfurt",
-            "subtitle": "(1820-1893)",
-            "colour": "lightblue",
+            "id": 33,
+            "title": "Kinogeschichte",
+            "subtitle": "im Bahnhofsviertel",
+            "colour": "winered",
             "icon": null,
             "published": 1
           }
@@ -374,22 +483,34 @@
     ],
     "thumbnail": {
       "type": null,
-      "originalName": "7550dbffe7531115d35f46c9fd0a2f5e_original.png",
+      "originalName": "1a2716a2f0c43afc56d3e4c86ed83a17_original.jpg",
       "date": null,
       "dateString": "",
       "weight": null,
       "urls": [
         {
           "type": "original",
-          "width": 1166,
-          "height": 656,
-          "url": "https://api.frankfurthistory.app/storage/images/fd5131aea8478abfddbe76be15b4a47c_original.png"
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/4cc9c91607b56d06a908cfdfbca0aa22_original.jpg"
+        },
+        {
+          "type": "large",
+          "width": 3200,
+          "height": 1800,
+          "url": "https://api.frankfurthistory.app/storage/images/4cc9c91607b56d06a908cfdfbca0aa22_large.jpg"
+        },
+        {
+          "type": "medium",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/4cc9c91607b56d06a908cfdfbca0aa22_medium.jpg"
         },
         {
           "type": "small",
           "width": 800,
           "height": 450,
-          "url": "https://api.frankfurthistory.app/storage/images/fd5131aea8478abfddbe76be15b4a47c_small.png"
+          "url": "https://api.frankfurthistory.app/storage/images/4cc9c91607b56d06a908cfdfbca0aa22_small.jpg"
         }
       ],
       "metadata": null,
@@ -399,189 +520,19 @@
     "duration": 3600,
     "filters": [
       {
-        "id": 11,
-        "title": "Reiffensteins Frankfurt",
-        "subtitle": "(1820-1893)",
-        "colour": "lightblue",
+        "id": 33,
+        "title": "Kinogeschichte",
+        "subtitle": "im Bahnhofsviertel",
+        "colour": "winered",
         "icon": null,
         "published": 1
       }
     ],
     "categories": [],
-    "zoomLevel": 18,
+    "zoomLevel": 17,
     "hasToken": false,
     "globalPos": null,
-    "updatedAt": "2026-03-11 11:38:40"
-  },
-  {
-    "id": 73,
-    "title": "Auf den Spuren von Albert Mangelsdorff",
-    "type": "classic",
-    "themeId": 3,
-    "subtitle": "Never let it end",
-    "description": "",
-    "prologue": "",
-    "steps": [
-      {
-        "id": 668,
-        "location": {
-          "type": "Point",
-          "coordinates": [
-            8.68434,
-            50.13647
-          ]
-        },
-        "title": "Begrüßung - \"Wart g’schwind“",
-        "type": "start",
-        "splitPosition": "split",
-        "splitAnchor": 1.02,
-        "turnByTurn": 0,
-        "textContents": [
-          {
-            "pos": 1,
-            "template": "plain",
-            "body": "<p>Ein Spaziergang von Jürgen Schwab für das Kultur­amt der Stadt Frankfurt im Jahr 2025 aus Anlass des 20. Todes­tages von Albert Mangelsdorff.</p>\n<p>Herzlich will­kommen bei diesem Spaziergang, der in 9 Sta­tio­nen vom Hauptfriedhof bis zum Dialogmuseum führt. Er ist als Audio-Walk kon­zi­piert. Sie genießen ihn am bes­ten mit Kopf­hörern. Ralph Mangelsdorff, Chris­tof Lauer, Wolfgang Haffner, Wolfgang Sandner u.a. erzäh­len von ihren Begeg­nun­gen mit dem Posau­nis­ten, der außer­dem selbst zu Wort kommt, vor allem natür­lich musikalisch! Jede Sta­tion ist übrigens nach einer Kompo­si­tion von ihm benannt. </p>\n<p>Die Wege zwi­schen den Sta­tio­nen kön­nen Sie mit einer Naviga­ti­ons­app zurück­le­gen. Um den jeweils ruhigs­ten, grüns­ten Weg zur nächs­ten Sta­tion zu neh­men, wie es auch unser Prot­ago­nist getan hätte, folgen Sie am bes­ten den Weg­be­schreibun­gen. Dort wird auch erklärt, wie Sie den rela­tiv lan­gen Weg vom Hes­si­schen Rundfunk zur Musikhoch­schule mit der U-Bahn abkür­zen kön­nen.</p>",
-            "metadata": {
-              "title": "",
-              "description": "",
-              "accessibleDescription": "",
-              "author": null,
-              "copyright": null,
-              "ticketLink": null,
-              "contentType": "App\\Models\\TextContent",
-              "expires": null
-            },
-            "filters": []
-          }
-        ],
-        "audioContents": [],
-        "arContents": [],
-        "videoContents": [],
-        "galleryContents": [
-          {
-            "id": 23409,
-            "pos": 2,
-            "type": "gallery",
-            "isPortrait": false,
-            "thumbnail": null,
-            "filters": [],
-            "categories": [],
-            "excludeFromRegister": true,
-            "isLocked": false,
-            "openCaption": false,
-            "overrideFilter": null,
-            "metadata": {
-              "title": "Galerie für Tourstep",
-              "description": "nicht für das Register",
-              "accessibleDescription": "",
-              "author": null,
-              "copyright": null,
-              "ticketLink": null,
-              "contentType": "App\\Models\\GalleryContent",
-              "expires": null
-            },
-            "images": [
-              {
-                "type": null,
-                "originalName": "0-a Albert Mangelsdorff 2004 (Uwe Dettmar, ISG FFM S7Z Nr. 2014-25)(2).JPG",
-                "date": null,
-                "dateString": "02.09.2004",
-                "weight": null,
-                "urls": [
-                  {
-                    "type": "original",
-                    "width": 1600,
-                    "height": 1066,
-                    "url": "https://api.frankfurthistory.app/storage/images/0-a%20Albert_dc5978330e0c63ae842c7630b3de36ee_original.jpg"
-                  },
-                  {
-                    "type": "small",
-                    "width": 800,
-                    "height": 533,
-                    "url": "https://api.frankfurthistory.app/storage/images/0-a%20Albert_dc5978330e0c63ae842c7630b3de36ee_small.jpg"
-                  }
-                ],
-                "metadata": {
-                  "title": "",
-                  "description": "<p>Albert Mangelsdorff 2004</p>",
-                  "accessibleDescription": "",
-                  "author": "Uwe Dettmar",
-                  "copyright": "Uwe Dettmar",
-                  "ticketLink": null,
-                  "contentType": "App\\Models\\Image",
-                  "expires": null
-                },
-                "filters": [],
-                "themeId": null
-              }
-            ],
-            "afterImageHighestRating": null,
-            "updatedAt": "2025-10-24 11:17:07"
-          }
-        ],
-        "interactiveGalleryContents": [],
-        "detailGalleryContents": [],
-        "linkContents": [],
-        "quizContents": [],
-        "filters": [
-          {
-            "id": 23,
-            "title": "Short Stories",
-            "subtitle": "",
-            "colour": "firered",
-            "icon": null,
-            "published": 1
-          }
-        ]
-      }
-    ],
-    "quizGratulations": [
-      {
-        "congratulationText": "",
-        "rangeStart": 0,
-        "rangeEnd": 100
-      }
-    ],
-    "thumbnail": {
-      "type": null,
-      "originalName": "8879660b83ccc9f92fb4c9b79c620848_original.jpg",
-      "date": null,
-      "dateString": "",
-      "weight": null,
-      "urls": [
-        {
-          "type": "original",
-          "width": 1600,
-          "height": 900,
-          "url": "https://api.frankfurthistory.app/storage/images/5663193906e4edcedb07b41606a10dcb_original.jpg"
-        },
-        {
-          "type": "small",
-          "width": 800,
-          "height": 450,
-          "url": "https://api.frankfurthistory.app/storage/images/5663193906e4edcedb07b41606a10dcb_small.jpg"
-        }
-      ],
-      "metadata": null,
-      "filters": [],
-      "themeId": null
-    },
-    "duration": 7200,
-    "filters": [
-      {
-        "id": 23,
-        "title": "Short Stories",
-        "subtitle": "",
-        "colour": "firered",
-        "icon": null,
-        "published": 1
-      }
-    ],
-    "categories": [],
-    "zoomLevel": 18,
-    "hasToken": false,
-    "globalPos": null,
-    "updatedAt": "2026-02-06 14:06:19"
+    "updatedAt": "2026-10-15 15:23:49"
   },
   {
     "id": 87,
@@ -931,6 +882,590 @@
     "zoomLevel": 17,
     "hasToken": false,
     "globalPos": null,
-    "updatedAt": "2026-09-23 13:53:55"
+    "updatedAt": "2026-10-13 13:18:37"
+  },
+  {
+    "id": 65,
+    "title": "Vereins- und Kneipengeschichte des FSV Frankfurt",
+    "type": "classic",
+    "themeId": 3,
+    "subtitle": "125 Jahre FSV (1899-2024)",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 624,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.707217,
+            50.12591
+          ]
+        },
+        "title": "Start: Richard-Hermann-Kiosk",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 1,
+            "template": "plain",
+            "body": "<p>Herzlich Will­kommen bei der Stadt­führung zum Thema FSV Frankfurt und Born­hei­mer Knei­pen­ge­schichte.</p>\n<p>Die Stadt­führung wurde erstellt von der Geschichts­gruppe der Fan- und Förder­ab­tei­lung des FSV Frankfurt und wir wün­schen euch viel Spaß dabei.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 2,
+            "url": "https://api.frankfurthistory.app/storage/audio/Joih8g3Fgaagl3hFqNAVreAVf.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Intro",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2025-04-15 05:50:25"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 14,
+            "title": "125 Jahre FSV",
+            "subtitle": "(1899-2024)",
+            "colour": "darkgray",
+            "icon": null,
+            "published": 1
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "239feea05ca8f96e80558847e3fdde84_original.png",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 601,
+          "height": 338,
+          "url": "https://api.frankfurthistory.app/storage/images/7fd7113d82504e855fd9672079db5175_original.png"
+        }
+      ],
+      "metadata": null,
+      "filters": [],
+      "themeId": null
+    },
+    "duration": 7200,
+    "filters": [
+      {
+        "id": 14,
+        "title": "125 Jahre FSV",
+        "subtitle": "(1899-2024)",
+        "colour": "darkgray",
+        "icon": null,
+        "published": 1
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "globalPos": null,
+    "updatedAt": "2026-10-13 13:18:37"
+  },
+  {
+    "id": 51,
+    "title": "Carl Theodor Reiffenstein",
+    "type": "classic",
+    "themeId": 3,
+    "subtitle": "Ein Frankfurter Künstler auf Altstadterkundung",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 387,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.682594070786337,
+            50.10959403062543
+          ]
+        },
+        "title": "Ein Frankfurter Künstler auf Altstadterkundung",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 1,
+        "textContents": [
+          {
+            "pos": 3,
+            "template": "plain",
+            "body": "<p>Erkunden Sie zusammen mit Carl Theodor Reiffenstein (1820-1893) die Frankfur­ter Alt­stadt des 19. Jahrhunderts!</p>\n<p>Der Landschafts­ma­ler wurde selbst im Her­zen der Alt­stadt in der Grau­ben­gasse geboren (heute Kleinmarkthalle). Zu jeder freien Stunde zog er mit dem Skizzenbuch durch seine Heimat­stadt und ihre Umge­bung. Reiffenstein inter­es­sierte sich vor allem für die Bau­werke, Straßen und Plätze, aber auch für die Stadt­mauern, Höfe und Gär­ten.</p>\n<p>Seine Ein­drü­cke hielt er in 2.000 Aquarel­len und Zeich­nun­gen sowie auf 2.400 Manu­skript-Sei­ten fest. Meist zeichnete er vor Ort mit dem Blei­stift – erst spä­ter fasste er die Zeich­nun­gen farbig. Neben Orts­be­schreibun­gen und Details zur Bau­ge­schichte fül­len auch his­tori­sche Ereig­nisse und Anekdo­ten die Sei­ten.</p>\n<p>Heute sind viele dieser Orte ver­schwunden, nur wenige haben sich unve­r­än­dert erhal­ten oder wur­den rekon­stru­iert.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Carina Koch",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/YpQTH8vYTukCxaHTB7Dt3PTf2.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Ein Frankfurter Künstler auf Altstadterkundung",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": true,
+            "initialPlayer": true,
+            "updatedAt": "2024-09-04 19:05:47"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 21778,
+            "pos": 2,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "B0874.png",
+                "date": null,
+                "dateString": "1845",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1137,
+                    "height": 1444,
+                    "url": "https://api.frankfurthistory.app/storage/images/B0874_png_b690a03051ecff44e8a016a569a2a2e5_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 630,
+                    "height": 800,
+                    "url": "https://api.frankfurthistory.app/storage/images/B0874_png_b690a03051ecff44e8a016a569a2a2e5_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Georg Wittemann, Porträt des Malers Carl Theodor Reiffenstein, 1845, Ölgemälde, HMF B0874, Historisches Museum Frankfurt, CC-BY-SA 4.0, Foto: Horst Ziegenfusz</p>",
+                  "accessibleDescription": "",
+                  "author": "Georg Wittemann",
+                  "copyright": "HMF",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [],
+                "themeId": null
+              },
+              {
+                "type": null,
+                "originalName": "Inv. Bibl.2009.5142,01-12.jpg",
+                "date": null,
+                "dateString": "",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 944,
+                    "url": "https://api.frankfurthistory.app/storage/images/Inv_%20Bibl__d08b800b1e5454655347a0dc36b04471_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 472,
+                    "url": "https://api.frankfurthistory.app/storage/images/Inv_%20Bibl__d08b800b1e5454655347a0dc36b04471_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Carl Theodor Reiffenstein, Text zur Sammlung Frankfurter Ansichten (11 Bände Manuskript und eine Mappe mit Einzelblättern), Inv.Bibl.2009.5142,01-12</p>",
+                  "accessibleDescription": "",
+                  "author": "HMF",
+                  "copyright": "HMF",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [],
+                "themeId": null
+              },
+              {
+                "type": null,
+                "originalName": "G1366.png",
+                "date": null,
+                "dateString": "1881",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1273,
+                    "height": 1600,
+                    "url": "https://api.frankfurthistory.app/storage/images/G1366_png_2abcd4e5de400cf8b9d1d4049731dd6b_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 637,
+                    "height": 800,
+                    "url": "https://api.frankfurthistory.app/storage/images/G1366_png_2abcd4e5de400cf8b9d1d4049731dd6b_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Carl Theodor Reiffenstein, Der Frankfurter Stadtwald, 1881, Ölgemälde, HMF G1366 / Dauerleihgabe Städel Museum, Historisches Museum Frankfurt, CC-BY-SA 4.0, Foto: Horst Ziegenfusz</p>",
+                  "accessibleDescription": "",
+                  "author": "Carl Theodor Reiffenstein",
+                  "copyright": "HMF",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [],
+                "themeId": null
+              },
+              {
+                "type": null,
+                "originalName": "B0834.png",
+                "date": null,
+                "dateString": "1879",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1333,
+                    "height": 1600,
+                    "url": "https://api.frankfurthistory.app/storage/images/B0834_png_45e7fc4e509476cbb132d0d234145f1f_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 667,
+                    "height": 800,
+                    "url": "https://api.frankfurthistory.app/storage/images/B0834_png_45e7fc4e509476cbb132d0d234145f1f_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Carl Theodor Reiffenstein, Felsengegend, 1879, Ölgemälde, HMF B0834, Historisches Museum Frankfurt, CC-BY-SA 4.0, Foto: Horst Ziegenfusz</p>",
+                  "accessibleDescription": "",
+                  "author": "Carl Theodor Reiffenstein",
+                  "copyright": "HMF",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [],
+                "themeId": null
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2024-02-29 11:03:44"
+          }
+        ],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 11,
+            "title": "Reiffensteins Frankfurt",
+            "subtitle": "(1820-1893)",
+            "colour": "lightblue",
+            "icon": null,
+            "published": 1
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "7550dbffe7531115d35f46c9fd0a2f5e_original.png",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1166,
+          "height": 656,
+          "url": "https://api.frankfurthistory.app/storage/images/fd5131aea8478abfddbe76be15b4a47c_original.png"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/fd5131aea8478abfddbe76be15b4a47c_small.png"
+        }
+      ],
+      "metadata": null,
+      "filters": [],
+      "themeId": null
+    },
+    "duration": 3600,
+    "filters": [
+      {
+        "id": 11,
+        "title": "Reiffensteins Frankfurt",
+        "subtitle": "(1820-1893)",
+        "colour": "lightblue",
+        "icon": null,
+        "published": 1
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "globalPos": null,
+    "updatedAt": "2026-10-13 13:18:37"
+  },
+  {
+    "id": 73,
+    "title": "Auf den Spuren von Albert Mangelsdorff",
+    "type": "classic",
+    "themeId": 3,
+    "subtitle": "Never let it end",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 668,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.68434,
+            50.13647
+          ]
+        },
+        "title": "Begrüßung - \"Wart g’schwind“",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 1,
+            "template": "plain",
+            "body": "<p>Ein Spaziergang von Jürgen Schwab für das Kultur­amt der Stadt Frankfurt im Jahr 2025 aus Anlass des 20. Todes­tages von Albert Mangelsdorff.</p>\n<p>Herzlich will­kommen bei diesem Spaziergang, der in 9 Sta­tio­nen vom Hauptfriedhof bis zum Dialogmuseum führt. Er ist als Audio-Walk kon­zi­piert. Sie genießen ihn am bes­ten mit Kopf­hörern. Ralph Mangelsdorff, Chris­tof Lauer, Wolfgang Haffner, Wolfgang Sandner u.a. erzäh­len von ihren Begeg­nun­gen mit dem Posau­nis­ten, der außer­dem selbst zu Wort kommt, vor allem natür­lich musikalisch! Jede Sta­tion ist übrigens nach einer Kompo­si­tion von ihm benannt. </p>\n<p>Die Wege zwi­schen den Sta­tio­nen kön­nen Sie mit einer Naviga­ti­ons­app zurück­le­gen. Um den jeweils ruhigs­ten, grüns­ten Weg zur nächs­ten Sta­tion zu neh­men, wie es auch unser Prot­ago­nist getan hätte, folgen Sie am bes­ten den Weg­be­schreibun­gen. Dort wird auch erklärt, wie Sie den rela­tiv lan­gen Weg vom Hes­si­schen Rundfunk zur Musikhoch­schule mit der U-Bahn abkür­zen kön­nen.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [
+          {
+            "id": 23409,
+            "pos": 2,
+            "type": "gallery",
+            "isPortrait": false,
+            "thumbnail": null,
+            "filters": [],
+            "categories": [],
+            "excludeFromRegister": true,
+            "isLocked": false,
+            "openCaption": false,
+            "overrideFilter": null,
+            "metadata": {
+              "title": "Galerie für Tourstep",
+              "description": "nicht für das Register",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\GalleryContent",
+              "expires": null
+            },
+            "images": [
+              {
+                "type": null,
+                "originalName": "0-a Albert Mangelsdorff 2004 (Uwe Dettmar, ISG FFM S7Z Nr. 2014-25)(2).JPG",
+                "date": null,
+                "dateString": "02.09.2004",
+                "weight": null,
+                "urls": [
+                  {
+                    "type": "original",
+                    "width": 1600,
+                    "height": 1066,
+                    "url": "https://api.frankfurthistory.app/storage/images/0-a%20Albert_dc5978330e0c63ae842c7630b3de36ee_original.jpg"
+                  },
+                  {
+                    "type": "small",
+                    "width": 800,
+                    "height": 533,
+                    "url": "https://api.frankfurthistory.app/storage/images/0-a%20Albert_dc5978330e0c63ae842c7630b3de36ee_small.jpg"
+                  }
+                ],
+                "metadata": {
+                  "title": "",
+                  "description": "<p>Albert Mangelsdorff 2004</p>",
+                  "accessibleDescription": "",
+                  "author": "Uwe Dettmar",
+                  "copyright": "Uwe Dettmar",
+                  "ticketLink": null,
+                  "contentType": "App\\Models\\Image",
+                  "expires": null
+                },
+                "filters": [],
+                "themeId": null
+              }
+            ],
+            "afterImageHighestRating": null,
+            "updatedAt": "2025-10-24 11:17:07"
+          }
+        ],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 23,
+            "title": "Short Stories",
+            "subtitle": "",
+            "colour": "firered",
+            "icon": null,
+            "published": 1
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "8879660b83ccc9f92fb4c9b79c620848_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/5663193906e4edcedb07b41606a10dcb_original.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/5663193906e4edcedb07b41606a10dcb_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": [],
+      "themeId": null
+    },
+    "duration": 7200,
+    "filters": [
+      {
+        "id": 23,
+        "title": "Short Stories",
+        "subtitle": "",
+        "colour": "firered",
+        "icon": null,
+        "published": 1
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 18,
+    "hasToken": false,
+    "globalPos": null,
+    "updatedAt": "2026-10-13 13:18:37"
   }
 ]

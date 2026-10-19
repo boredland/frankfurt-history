@@ -3,7 +3,7 @@ id: 377
 title: "Jewish House of Learning"
 subtitle: "Fuchshohl 13"
 coordinates: [50.1458649, 8.6534873]
-updated_at: "2026-04-15 15:41:22"
+updated_at: "2026-10-13 11:46:14"
 categories:
   - "Widerstand Kategorie"
   - "Self-assertion and resistance"
@@ -21,6 +21,6 @@ filters:
 ## Gallery
 
 <!-- gallery:standard -->
-![Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de](../../images/Hier%20fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
-*Author: HMF | License: gemeinfrei | Description: Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de*
+![Draft of the institute for vocational education in Bockenheim](../../images/Berufspaed_a8a05340ab0fdaf68bfcf1731a24771e_original.jpg)
+*Author: Martin Elsaesser | License: Martin Elsaesser: Bauten und Entwürfe aus den Jahren 1924–1932, Berlin 1933 | Description: Draft of the institute for vocational education in Bockenheim*
 

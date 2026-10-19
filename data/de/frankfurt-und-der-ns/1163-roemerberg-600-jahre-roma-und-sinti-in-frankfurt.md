@@ -3,7 +3,7 @@ id: 1163
 title: "Römerberg – 600 Jahre Roma und Sinti in Frankfurt"
 subtitle: "Römerberg"
 coordinates: [50.1105355, 8.6816325]
-updated_at: "2026-04-09 14:22:21"
+updated_at: "2026-10-13 11:46:14"
 categories:
   - "Erinnern und Gedenken"
 filters:
@@ -28,6 +28,6 @@ Seit dem Mittelalter wurden in Frankfurt zwei große Messen im Jahr abgehalten �
 ## Gallery
 
 <!-- gallery:standard -->
-![Leider fehlt hier ein Bild. Dafür kann es verschiedene Gründe geben, z. B. wurde von der Person oder de Ort kein Bild zur Verfügung gestellt. Wenn Sie einen Vorschlag für ein Bild haben, freuen wir uns über eine E-Mail an frankfurthistory@stadt-frankfurt.de.](../../images/Hier%20fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
-*Author: HMF | License: gemeinfrei | Description: Leider fehlt hier ein Bild. Dafür kann es verschiedene Gründe geben, z. B. wurde von der Person oder de Ort kein Bild zur Verfügung gestellt. Wenn Sie einen Vorschlag für ein Bild haben, freuen wir uns über eine E-Mail an frankfurthistory@stadt-frankfurt.de.*
+![Entwurf des Berufspädagogischen Instituts in Bockenheim](../../images/Berufspaed_a8a05340ab0fdaf68bfcf1731a24771e_original.jpg)
+*Author: Martin Elsaesser | License: Martin Elsaesser: Bauten und Entwürfe aus den Jahren 1924–1932, Berlin 1933 | Description: Entwurf des Berufspädagogischen Instituts in Bockenheim*
 

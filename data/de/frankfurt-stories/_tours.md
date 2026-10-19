@@ -4,6 +4,16 @@ theme_id: 3
 
 # Tours
 
+## Die Kinogeschichte des Bahnhofsviertels
+ID: 98
+*Auf den Spuren verschwundener Kinos*
+Duration: 3600s
+
+## Das Gallusviertel im Wandel
+ID: 87
+*Eine Spurensuche zwischen Geschichte, Gentrifizierung und Widerstand*
+Duration: 3600s
+
 ## Vereins- und Kneipengeschichte des FSV Frankfurt
 ID: 65
 *125 Jahre FSV (1899-2024)*
@@ -18,9 +28,4 @@ Duration: 3600s
 ID: 73
 *Never let it end*
 Duration: 7200s
-
-## Das Gallusviertel im Wandel
-ID: 87
-*Eine Spurensuche zwischen Geschichte, Gentrifizierung und Widerstand*
-Duration: 3600s
 

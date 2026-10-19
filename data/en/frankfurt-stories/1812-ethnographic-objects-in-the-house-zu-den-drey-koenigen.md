@@ -3,7 +3,7 @@ id: 1812
 title: "Ethnographic objects in the house ‘Zu den Drey Königen’"
 subtitle: "Zeil/corner of Große Eschenheimer Straße (Galeria Frankfurt building)"
 coordinates: [50.114335268567885, 8.67984985114822]
-updated_at: "2026-03-11 11:49:02"
+updated_at: "2026-10-13 11:46:15"
 categories:
   - "19th century"
 filters:
@@ -26,8 +26,8 @@ In 1805, the Frankfurt painter Louise von Barckhaus-Wiesenhütten married the Du
 ## Gallery
 
 <!-- gallery:standard -->
-![Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de](../../images/Hier%20fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
-*Author: HMF | License: gemeinfrei | Description: Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de*
+![Draft of the institute for vocational education in Bockenheim](../../images/Berufspaed_a8a05340ab0fdaf68bfcf1731a24771e_original.jpg)
+*Author: Martin Elsaesser | License: Martin Elsaesser: Bauten und Entwürfe aus den Jahren 1924–1932, Berlin 1933 | Description: Draft of the institute for vocational education in Bockenheim*
 
 
 ## Links

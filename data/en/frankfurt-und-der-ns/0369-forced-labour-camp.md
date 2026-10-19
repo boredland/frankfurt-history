@@ -3,7 +3,7 @@ id: 369
 title: "Forced labour camp"
 subtitle: "Emser Straße"
 coordinates: [50.1141670514955, 8.639787794467809]
-updated_at: "2026-04-14 19:30:59"
+updated_at: "2026-10-13 11:46:14"
 categories:
   - "Places"
 filters:
@@ -28,6 +28,6 @@ At this site, the VDM aviation works operated a forced labour camp that existed 
 ## Gallery
 
 <!-- gallery:standard -->
-![Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de](../../images/Hier%20fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
-*Author: HMF | License: gemeinfrei | Description: Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de*
+![Draft of the institute for vocational education in Bockenheim](../../images/Berufspaed_a8a05340ab0fdaf68bfcf1731a24771e_original.jpg)
+*Author: Martin Elsaesser | License: Martin Elsaesser: Bauten und Entwürfe aus den Jahren 1924–1932, Berlin 1933 | Description: Draft of the institute for vocational education in Bockenheim*
 

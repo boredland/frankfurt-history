@@ -3,7 +3,7 @@ id: 270
 title: "Forced labour camp"
 subtitle: "Röderbergweg 122"
 coordinates: [50.116298513051184, 8.71179306202885]
-updated_at: "2026-04-14 19:03:52"
+updated_at: "2026-10-13 11:46:14"
 categories:
   - "Places"
   - "Verfolgung Kategorie"
@@ -25,8 +25,8 @@ Röderbergfelsenkeller Wilhelm Mank was a restaurant at Röderbergweg 122 that s
 ## Gallery
 
 <!-- gallery:standard -->
-![Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de](../../images/Hier%20fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
-*Author: HMF | License: gemeinfrei | Description: Unfortunately, an image is missing here. There may be various reasons for this, e.g., no image was provided by the person or the location. If you have a suggestion for an image, we would be happy to receive an email at frankfurthistory@stadt-frankfurt.de*
+![Draft of the institute for vocational education in Bockenheim](../../images/Berufspaed_a8a05340ab0fdaf68bfcf1731a24771e_original.jpg)
+*Author: Martin Elsaesser | License: Martin Elsaesser: Bauten und Entwürfe aus den Jahren 1924–1932, Berlin 1933 | Description: Draft of the institute for vocational education in Bockenheim*
 
 
 ## Links

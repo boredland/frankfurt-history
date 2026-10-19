@@ -3,7 +3,7 @@ id: 2258
 title: "Verfolgung von Menschen mit unange­pass­tem Sexu­alle­ben durch Fürsorgeamt und Pflegeamt"
 subtitle: "Braubachstraße 18-22"
 coordinates: [50.11141864983114, 8.683294607061441]
-updated_at: "2026-04-15 15:15:38"
+updated_at: "2026-10-13 14:19:24"
 categories:
   - "Orte"
   - "Orte"

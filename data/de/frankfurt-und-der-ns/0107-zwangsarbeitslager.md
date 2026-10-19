@@ -3,7 +3,7 @@ id: 107
 title: "Zwangsarbeitslager"
 subtitle: "Mainzer Landstraße 134-142"
 coordinates: [50.10713239462759, 8.654060589576572]
-updated_at: "2026-03-18 13:35:33"
+updated_at: "2026-10-13 11:46:15"
 categories:
   - "Orte"
   - "Verfolgung Kategorie"
@@ -25,6 +25,6 @@ Die Firma Telefonbau & Normalzeit beschäftigte Zwangsarbeiter*innen aus Osteuro
 ## Gallery
 
 <!-- gallery:standard -->
-![Leider fehlt hier ein Bild. Dafür kann es verschiedene Gründe geben, z. B. wurde von der Person oder de Ort kein Bild zur Verfügung gestellt. Wenn Sie einen Vorschlag für ein Bild haben, freuen wir uns über eine E-Mail an frankfurthistory@stadt-frankfurt.de.](../../images/Hier%20fehlt_85e868b84cfff009ac7ec64f65cdbdba_original.jpg)
-*Author: HMF | License: gemeinfrei | Description: Leider fehlt hier ein Bild. Dafür kann es verschiedene Gründe geben, z. B. wurde von der Person oder de Ort kein Bild zur Verfügung gestellt. Wenn Sie einen Vorschlag für ein Bild haben, freuen wir uns über eine E-Mail an frankfurthistory@stadt-frankfurt.de.*
+![Entwurf des Berufspädagogischen Instituts in Bockenheim](../../images/Berufspaed_a8a05340ab0fdaf68bfcf1731a24771e_original.jpg)
+*Author: Martin Elsaesser | License: Martin Elsaesser: Bauten und Entwürfe aus den Jahren 1924–1932, Berlin 1933 | Description: Entwurf des Berufspädagogischen Instituts in Bockenheim*
 
