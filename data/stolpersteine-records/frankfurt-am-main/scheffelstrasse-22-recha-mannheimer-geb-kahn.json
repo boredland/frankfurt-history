@@ -34,8 +34,8 @@
     "osm_version": null,
     "wikidata": null,
     "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Nordend",
-    "wikimedia_commons": null,
-    "image": "File:Stolperstein_Scheffelstraße_22_Recha_Mannheimer.jpg",
+    "wikimedia_commons": "File:Stolperstein_Scheffelstraße_22_Recha_Mannheimer.jpg",
+    "image": null,
     "website": "http://www.frankfuhttps://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-nordend/familien/mannheimer-recha-und-kahn-irene",
     "network": null
   },
@@ -43,15 +43,15 @@
   "images": [],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-10-26T08:15:49+00:00"
+      "fetched_at": "2026-11-02T10:16:00+00:00"
     },
     "stolpersteine_frankfurt_de": {
-      "fetched_at": "2026-10-26T08:16:35+00:00",
+      "fetched_at": "2026-11-02T10:16:21+00:00",
       "list_stand": "2026-06-16",
       "found": true
     },
     "frankfurt_de": {
-      "fetched_at": "2026-10-26T08:16:02+00:00",
+      "fetched_at": "2026-11-02T10:16:06+00:00",
       "found": false,
       "bios": 0,
       "images": 0

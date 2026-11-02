@@ -31,8 +31,8 @@
     "osm_version": null,
     "wikidata": null,
     "wikipedia": "de:Liste der Stolpersteine in Frankfurt am Main-Nordend",
-    "wikimedia_commons": null,
-    "image": "File:Stolperstein_Hebelstrasse_13_Sophie_Adler.jpg",
+    "wikimedia_commons": "File:Stolperstein_Hebelstrasse_13_Sophie_Adler.jpg",
+    "image": null,
     "website": "https://frankfurt.de/frankfurt-entdecken-und-erleben/stadtportrait/stadtgeschichte/stolpersteine/stolpersteine-im-nordend/familien/adler-sophie-und-bernhard",
     "network": null
   },
@@ -69,10 +69,10 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-10-26T08:15:49+00:00"
+      "fetched_at": "2026-11-02T10:16:00+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-10-26T08:15:50+00:00",
+      "fetched_at": "2026-11-02T10:16:01+00:00",
       "found": true
     }
   }
