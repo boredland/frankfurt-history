@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/hoehenstrasse-18-josef-levitus",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1235276,
+    8.7011287
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Josef Levitus",
+    "birth_date": "1930-02-23",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1942 Region Lublin",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Höhenstraße",
+    "house_number": "18",
+    "postcode": null,
+    "district": "Bornheim",
+    "formatted": "Höhenstraße 18"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2007-11-06",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-11-09T10:35:48+00:00",
+      "list_stand": "2026-11-06",
+      "found": true
+    }
+  }
+}

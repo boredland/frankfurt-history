@@ -14,8 +14,8 @@
     "death_date": "1942-03-13",
     "birth_place": null,
     "death_place": null,
-    "victim_group": "jüdisch verfolgt",
-    "fate": "\"T4\" - 16.9.1939 KZ Buchenwald, Tötungsanstalt Bernburg"
+    "victim_group": "T4 (Krankenmorde)",
+    "fate": "\"Euthanasie\" - 16.9.1939 KZ Buchenwald, Tötungsanstalt Bernburg"
   },
   "address": {
     "street": "Fischerfeldstraße",
@@ -71,15 +71,15 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-11-02T10:16:00+00:00"
+      "fetched_at": "2026-11-09T10:35:28+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-11-02T10:16:01+00:00",
+      "fetched_at": "2026-11-09T10:35:29+00:00",
       "found": true
     },
     "stolpersteine_frankfurt_de": {
-      "fetched_at": "2026-11-02T10:16:21+00:00",
-      "list_stand": "2026-06-16",
+      "fetched_at": "2026-11-09T10:35:48+00:00",
+      "list_stand": "2026-11-06",
       "found": true
     }
   }

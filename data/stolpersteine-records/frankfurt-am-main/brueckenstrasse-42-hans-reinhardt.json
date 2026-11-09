@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/brueckenstrasse-42-hans-reinhardt",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Hans Reinhardt",
+    "birth_date": "1905-01-03",
+    "death_date": "1942-11-07",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Euthanasie\" - Mai 1942 Nervenklinik Frankfurt-Niederrad, 16.6.1942 \"Heilanstalt\" Eichberg",
+    "victim_group": "T4 (Krankenmorde)"
+  },
+  "address": {
+    "street": "Brückenstraße",
+    "house_number": "42",
+    "postcode": null,
+    "district": "Sachsenhausen",
+    "formatted": "Brückenstraße 42"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2026-10-30",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-11-09T10:35:48+00:00",
+      "list_stand": "2026-11-06",
+      "found": true
+    }
+  }
+}

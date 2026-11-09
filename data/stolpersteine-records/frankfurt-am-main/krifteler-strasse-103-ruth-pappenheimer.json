@@ -14,8 +14,8 @@
     "death_date": "1944-10-20",
     "birth_place": null,
     "death_place": null,
-    "victim_group": "als 'asozial'/'BV' verfolgt",
-    "fate": "\"T4\" \"asozial\" - 1944 Anstalt Idstein- Kalmenhof"
+    "victim_group": "T4 (Krankenmorde)",
+    "fate": "\"Euthanasie\" \"asozial\" - 1944 Anstalt Idstein- Kalmenhof"
   },
   "address": {
     "street": "Krifteler Straße",
@@ -66,15 +66,15 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-11-02T10:16:00+00:00"
+      "fetched_at": "2026-11-09T10:35:29+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-11-02T10:16:01+00:00",
+      "fetched_at": "2026-11-09T10:35:30+00:00",
       "found": true
     },
     "stolpersteine_frankfurt_de": {
-      "fetched_at": "2026-11-02T10:16:21+00:00",
-      "list_stand": "2026-06-16",
+      "fetched_at": "2026-11-09T10:35:48+00:00",
+      "list_stand": "2026-11-06",
       "found": true
     }
   }

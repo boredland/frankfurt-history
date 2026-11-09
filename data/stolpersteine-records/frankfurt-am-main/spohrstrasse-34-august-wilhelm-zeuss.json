@@ -13,13 +13,15 @@
     "birth_date": "1912",
     "death_date": "1944-04-14",
     "birth_place": null,
-    "death_place": null
+    "death_place": null,
+    "victim_group": "politisch verfolgt",
+    "fate": "\"Widerstand\" - 1941 KZ Sachsenhausen, 1942 KZ Dachau, 1944 Vernichtungslager Majdanek, 14.4.1944 Auschwitz"
   },
   "address": {
     "street": "Spohrstraße",
     "house_number": "34",
     "postcode": "60318",
-    "district": null,
+    "district": "Nordend",
     "formatted": "Spohrstraße 34"
   },
   "inscription": "Hier wohnte August Wilhelm Zeuss Jg. 1912 deportiert 1941 Sachsenhausen 1942 Dachau 1944 Majdanek und 14.4.1944 in Auschwitz ermordet",
@@ -64,10 +66,15 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-11-02T10:16:00+00:00"
+      "fetched_at": "2026-11-09T10:35:29+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-11-02T10:16:01+00:00",
+      "fetched_at": "2026-11-09T10:35:30+00:00",
+      "found": true
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-11-09T10:35:48+00:00",
+      "list_stand": "2026-11-06",
       "found": true
     }
   }

@@ -1,0 +1,52 @@
+{
+  "id": "frankfurt-am-main/klingerstrasse-25-fritz-elison",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": [
+    50.1152465,
+    8.6891054
+  ],
+  "coords_source": "address-match",
+  "person": {
+    "name": "Fritz Elison",
+    "birth_date": "1886-08-23",
+    "death_date": null,
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "\"Widerstand\" - 13.3.1935 und 1938 Frankfurt- Preungesheim, 4.2.1937–21.5.1940 Butzbach Freiendiez",
+    "victim_group": "politisch verfolgt"
+  },
+  "address": {
+    "street": "Klingerstraße",
+    "house_number": "25",
+    "postcode": null,
+    "district": "Innenstadt",
+    "formatted": "Klingerstraße 25"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2017-06-24",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-11-09T10:35:48+00:00",
+      "list_stand": "2026-11-06",
+      "found": true
+    }
+  }
+}

@@ -13,15 +13,13 @@
     "birth_date": "1918",
     "death_date": null,
     "birth_place": null,
-    "death_place": null,
-    "victim_group": "jüdisch verfolgt",
-    "fate": "1933 England"
+    "death_place": null
   },
   "address": {
     "street": "Schumannstraße",
     "house_number": "10",
     "postcode": "60325",
-    "district": "Westend",
+    "district": null,
     "formatted": "Schumannstraße 10"
   },
   "inscription": "Hier wohnte|Friedel|Rothschild|Jg. 1918|Flucht 1933|England",
@@ -42,7 +40,7 @@
   "images": [],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-11-02T10:16:00+00:00"
+      "fetched_at": "2026-11-09T10:35:29+00:00"
     },
     "stolpersteine_frankfurt_de": {
       "fetched_at": "2026-11-02T10:16:21+00:00",
@@ -50,7 +48,7 @@
       "found": true
     },
     "frankfurt_de": {
-      "fetched_at": "2026-11-02T10:16:06+00:00",
+      "fetched_at": "2026-11-09T10:35:31+00:00",
       "found": false,
       "bios": 0,
       "images": 0

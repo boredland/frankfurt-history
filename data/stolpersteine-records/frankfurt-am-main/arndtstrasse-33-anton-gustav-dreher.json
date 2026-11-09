@@ -13,9 +13,7 @@
     "birth_date": "1914-09-02",
     "death_date": "1943-09-29",
     "birth_place": null,
-    "death_place": null,
-    "victim_group": "jüdisch verfolgt",
-    "fate": "Holland, 4.2.1942 - 29.9.1943 U-Haft Berlin- Moabit und Wittenauer Heilstätten, 28.9.1943 Auschwitz"
+    "death_place": null
   },
   "address": {
     "street": "Arndtstraße",
@@ -25,7 +23,7 @@
     "formatted": "Arndtstraße 33"
   },
   "inscription": "Hier wohnte Anton G. Dreher,  JG. 1914, Flucht 1937 Holland, verhaftet 1942, Gefängnis Berlin-Moabit, deportiert 1943 Richtung Auschwitz, tot auf Transport 29.9.1943",
-  "laying_date": "2021-12-06",
+  "laying_date": null,
   "artist": null,
   "material": null,
   "refs": {
@@ -76,10 +74,10 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-11-02T10:16:00+00:00"
+      "fetched_at": "2026-11-09T10:35:29+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-11-02T10:16:01+00:00",
+      "fetched_at": "2026-11-09T10:35:29+00:00",
       "found": true
     },
     "stolpersteine_frankfurt_de": {

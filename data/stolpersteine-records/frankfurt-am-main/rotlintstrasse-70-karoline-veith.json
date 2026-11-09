@@ -13,13 +13,15 @@
     "birth_date": "1883",
     "death_date": "1942-06-13",
     "birth_place": null,
-    "death_place": null
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "Zeugin Jehovas - Haft 1936, 1938 KZ Lichtenburg, KZ Ravensbrück, Tötungsanstalt Bernburg"
   },
   "address": {
     "street": "Rotlintstraße",
     "house_number": "70",
     "postcode": null,
-    "district": null,
+    "district": "Nordend",
     "formatted": "Rotlintstraße 70"
   },
   "inscription": "Hier wohnte Karoline Veith Jg. 1883 Mai 1936 Haft, Aug. 1938 KZ Lichtenburg, Ravensbrück ermordet 13.6.1942",
@@ -64,10 +66,15 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-11-02T10:16:00+00:00"
+      "fetched_at": "2026-11-09T10:35:29+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-11-02T10:16:01+00:00",
+      "fetched_at": "2026-11-09T10:35:30+00:00",
+      "found": true
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-11-09T10:35:48+00:00",
+      "list_stand": "2026-11-06",
       "found": true
     }
   }

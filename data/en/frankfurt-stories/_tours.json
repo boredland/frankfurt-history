@@ -578,7 +578,7 @@
         "audioContents": [
           {
             "pos": 1,
-            "url": "https://api.frankfurthistory.app/storage/audio/ziaZ6SWxmVAd6jgfLpFpNTBil.mp3",
+            "url": "https://api.frankfurthistory.app/storage/audio/vs0aiDKnAhZoWNA0kgGIcxK2A.mp3",
             "thumbnail": null,
             "metadata": {
               "title": "Welcome to the Gallus",
@@ -594,7 +594,7 @@
             "excludeFromRegister": false,
             "autoplay": false,
             "initialPlayer": false,
-            "updatedAt": "2026-03-31 11:55:05"
+            "updatedAt": "2026-11-03 14:25:14"
           }
         ],
         "arContents": [],
@@ -882,7 +882,7 @@
     "zoomLevel": 17,
     "hasToken": false,
     "globalPos": null,
-    "updatedAt": "2026-10-13 13:18:37"
+    "updatedAt": "2026-11-03 14:41:54"
   },
   {
     "id": 65,

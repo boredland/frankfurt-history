@@ -13,17 +13,19 @@
     "birth_date": "1885-10-06",
     "death_date": "1942-10-08",
     "birth_place": null,
-    "death_place": null
+    "death_place": null,
+    "victim_group": "jüdisch verfolgt",
+    "fate": "25.7.1942 KZ Ravensbrück, Oktober 1942 Auschwitz"
   },
   "address": {
     "street": "Hans-Thoma-Straße",
     "house_number": "24",
     "postcode": null,
-    "district": null,
+    "district": "Sachsenhausen",
     "formatted": "Hans-Thoma-Straße 24"
   },
   "inscription": "Hier wohnte Frida Amram Jg. 1885 deportiert 1942 Ravensbrück ermordet 8.10.1942 in Auschwitz",
-  "laying_date": null,
+  "laying_date": "2013-06-20",
   "artist": null,
   "material": null,
   "refs": {
@@ -89,10 +91,15 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-11-02T10:16:00+00:00"
+      "fetched_at": "2026-11-09T10:35:29+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-11-02T10:16:01+00:00",
+      "fetched_at": "2026-11-09T10:35:30+00:00",
+      "found": true
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-11-09T10:35:48+00:00",
+      "list_stand": "2026-11-06",
       "found": true
     }
   }

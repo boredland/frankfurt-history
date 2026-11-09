@@ -49,11 +49,11 @@
   "images": [],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-11-02T10:16:00+00:00"
+      "fetched_at": "2026-11-09T10:35:28+00:00"
     },
     "stolpersteine_frankfurt_de": {
-      "fetched_at": "2026-11-02T10:16:21+00:00",
-      "list_stand": "2026-06-16",
+      "fetched_at": "2026-11-09T10:35:48+00:00",
+      "list_stand": "2026-11-06",
       "found": true
     },
     "frankfurt_de": {

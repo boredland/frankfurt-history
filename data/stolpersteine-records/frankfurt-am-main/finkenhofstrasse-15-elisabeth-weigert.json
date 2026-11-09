@@ -13,10 +13,7 @@
     "birth_date": "1889-05-19",
     "death_date": "1942-09-10",
     "birth_place": null,
-    "death_place": null,
-    "birth_name": "Süss",
-    "victim_group": "jüdisch verfolgt",
-    "fate": "Flucht in den Tod"
+    "death_place": null
   },
   "address": {
     "street": "Finkenhofstraße",
@@ -77,10 +74,10 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-11-02T10:16:00+00:00"
+      "fetched_at": "2026-11-09T10:35:28+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-11-02T10:16:01+00:00",
+      "fetched_at": "2026-11-09T10:35:29+00:00",
       "found": true
     },
     "stolpersteine_frankfurt_de": {

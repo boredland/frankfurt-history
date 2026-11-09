@@ -1,0 +1,49 @@
+{
+  "id": "frankfurt-am-main/rechneigrabenstrasse-5-nathan-weisberg",
+  "city": "frankfurt-am-main",
+  "city_name": "Frankfurt am Main",
+  "country": null,
+  "coords": null,
+  "coords_source": "none",
+  "person": {
+    "name": "Nathan Weisberg",
+    "birth_date": "1898-10-10",
+    "death_date": "1941-05-02",
+    "birth_place": null,
+    "death_place": null,
+    "birth_name": null,
+    "fate": "1939 F-Preungesheim, 13.7.1940 KZ Dachau,16.8.1940 KZ Natzweiler, KZ Mauthausen",
+    "victim_group": "jüdisch verfolgt"
+  },
+  "address": {
+    "street": "Rechneigrabenstraße",
+    "house_number": "5",
+    "postcode": null,
+    "district": "Innenstadt",
+    "formatted": "Rechneigrabenstraße 5"
+  },
+  "marker_type": null,
+  "inscription": null,
+  "laying_date": "2026-10-27",
+  "artist": null,
+  "material": null,
+  "refs": {
+    "osm_id": null,
+    "osm_version": null,
+    "wikidata": null,
+    "wikipedia": null,
+    "wikimedia_commons": null,
+    "image": null,
+    "website": "https://www.stolpersteine-frankfurt.de/de/dokumentation",
+    "network": null
+  },
+  "biographies": [],
+  "images": [],
+  "enrichers": {
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-11-09T10:35:48+00:00",
+      "list_stand": "2026-11-06",
+      "found": true
+    }
+  }
+}

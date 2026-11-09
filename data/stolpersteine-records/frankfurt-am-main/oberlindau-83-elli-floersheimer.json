@@ -13,7 +13,10 @@
     "birth_date": "1909",
     "death_date": null,
     "birth_place": null,
-    "death_place": null
+    "death_place": null,
+    "birth_name": "Markus",
+    "victim_group": "jüdisch verfolgt",
+    "fate": "1936 Holland, 19.7.1942 Durchgangslager Westerbork, 25.2.1944 Theresienstadt"
   },
   "address": {
     "street": "Oberlindau",
@@ -23,7 +26,7 @@
     "formatted": "Oberlindau 83"
   },
   "inscription": "Hier wohnte Elli Floersheimer, geb. Markus; Jg. 1909; Flucht 1936 Holland; Interniert Westerbork; Deportiert 1944; Theresienstadt; Ermordet in Auschwitz",
-  "laying_date": null,
+  "laying_date": "2015-05-18",
   "artist": null,
   "material": null,
   "refs": {
@@ -64,10 +67,15 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-11-02T10:16:00+00:00"
+      "fetched_at": "2026-11-09T10:35:29+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-11-02T10:16:01+00:00",
+      "fetched_at": "2026-11-09T10:35:30+00:00",
+      "found": true
+    },
+    "stolpersteine_frankfurt_de": {
+      "fetched_at": "2026-11-09T10:35:48+00:00",
+      "list_stand": "2026-11-06",
       "found": true
     }
   }

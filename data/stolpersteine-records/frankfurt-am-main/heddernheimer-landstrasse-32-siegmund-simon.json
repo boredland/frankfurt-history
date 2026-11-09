@@ -10,18 +10,16 @@
   "coords_source": "osm",
   "person": {
     "name": "Siegmund Simon",
-    "birth_date": "1872-07-26",
-    "death_date": "1943-03-08",
+    "birth_date": null,
+    "death_date": null,
     "birth_place": null,
-    "death_place": null,
-    "victim_group": "jüdisch verfolgt",
-    "fate": "15.9.1942 Theresienstadt"
+    "death_place": null
   },
   "address": {
     "street": "Heddernheimer Landstraße",
     "house_number": "32",
     "postcode": null,
-    "district": "Heddernheim",
+    "district": null,
     "formatted": "Heddernheimer Landstraße 32"
   },
   "inscription": "Hier wohnte Siegmund Simon",
@@ -66,10 +64,10 @@
   ],
   "enrichers": {
     "osm": {
-      "fetched_at": "2026-11-02T10:16:00+00:00"
+      "fetched_at": "2026-11-09T10:35:29+00:00"
     },
     "frankfurt_de": {
-      "fetched_at": "2026-11-02T10:16:01+00:00",
+      "fetched_at": "2026-11-09T10:35:30+00:00",
       "found": true
     },
     "stolpersteine_frankfurt_de": {
