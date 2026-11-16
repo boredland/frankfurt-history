@@ -1,0 +1,282 @@
+[
+  {
+    "id": 101,
+    "title": "Rundgang Dornbusch - Architektur für Alte, Junge und Ledige ",
+    "type": "classic",
+    "themeId": 4,
+    "subtitle": "",
+    "description": "",
+    "prologue": "",
+    "steps": [
+      {
+        "id": 982,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            8.66936,
+            50.13476
+          ]
+        },
+        "title": "Begrüßung",
+        "type": "start",
+        "splitPosition": "split",
+        "splitAnchor": 1.02,
+        "turnByTurn": 0,
+        "textContents": [
+          {
+            "pos": 2,
+            "template": "plain",
+            "body": "<p>Herzlich will­kommen zum Rundgang im Dornbusch zum Henry und Emma Budge-Heim, dem Haus der Jugend und einem Ledigen­heim!</p>\n<p><br />Im Frankfurt der Weima­rer Republik herrschte großer Wohn­raummangel, den man mit dem Bau zahlrei­cher Sied­lun­gen behe­ben wollte. Es wurde vor­rangig für Familien geplant, aber auch andere gesellschaft­li­che Grup­pen benö­tig­ten Woh­nun­gen und Begeg­nungsorte, die ihren Bedürf­nis­sen ent­spra­chen. Bei deren Umsetzung spiel­ten private Stif­tun­gen, Ver­eine und Initia­tiven eine ent­schei­dende Rolle. </p>\n<p><br />Der etwa 40-minü­tige Rundgang im Stadt­teil Dornbusch stellt drei besondere Bau­ty­pen vor: ein Alten­heim, ein Jugend­haus und einen Wohnblock für unver­hei­ra­tete Frauen. Sie alle ent­standen um 1930 auf weitge­hend unbebau­tem Stadt­gebiet. Land­wirt­schaft­li­che Nutzung wie durch den Grünhof und erste Wohnblocks an der Rai­mund­straße und Eschers­hei­mer Land­straße stießen hier auf­ein­ander. </p>\n<p><br />Wir begin­nen den Rundgang mit dem ehema­ligen Henry und Emma Budge-Heim. Es liegt hin­ter einem Gar­ten­zaun, der es von der Straße abschirmt. Der Edin­ger­weg links vom Gelände führt um die Anlage, sodass man sie auch von einer ande­ren Seite betrach­ten kann.</p>",
+            "metadata": {
+              "title": "",
+              "description": "",
+              "accessibleDescription": "",
+              "author": "Ulrike May, Dr. Mircea Ogrin (Übersetzung)",
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\TextContent",
+              "expires": null
+            },
+            "filters": []
+          }
+        ],
+        "audioContents": [
+          {
+            "pos": 1,
+            "url": "https://api.frankfurthistory.app/storage/audio/dx8hPV96DhqQ8uWx9XlVaaAfn.mp3",
+            "thumbnail": null,
+            "metadata": {
+              "title": "Begrüßung",
+              "description": "",
+              "accessibleDescription": "",
+              "author": null,
+              "copyright": null,
+              "ticketLink": null,
+              "contentType": "App\\Models\\AudioContent",
+              "expires": null
+            },
+            "filters": [],
+            "excludeFromRegister": false,
+            "autoplay": false,
+            "initialPlayer": false,
+            "updatedAt": "2026-10-19 14:01:19"
+          }
+        ],
+        "arContents": [],
+        "videoContents": [],
+        "galleryContents": [],
+        "interactiveGalleryContents": [],
+        "detailGalleryContents": [],
+        "linkContents": [],
+        "quizContents": [],
+        "filters": [
+          {
+            "id": 20,
+            "title": "Siedlungen",
+            "subtitle": "und Wohnbauten",
+            "colour": "grey",
+            "icon": null,
+            "published": 1
+          }
+        ]
+      }
+    ],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "2218f62d7437b972dba87ad91f61acc5_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1598,
+          "height": 899,
+          "url": "https://api.frankfurthistory.app/storage/images/9e9b4c7a8bd09548769d6f1c952a1d6f_original.jpg"
+        },
+        {
+          "type": "large",
+          "width": 3200,
+          "height": 1800,
+          "url": "https://api.frankfurthistory.app/storage/images/9e9b4c7a8bd09548769d6f1c952a1d6f_large.jpg"
+        },
+        {
+          "type": "medium",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/9e9b4c7a8bd09548769d6f1c952a1d6f_medium.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/9e9b4c7a8bd09548769d6f1c952a1d6f_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": [],
+      "themeId": null
+    },
+    "duration": 2400,
+    "filters": [
+      {
+        "id": 20,
+        "title": "Siedlungen",
+        "subtitle": "und Wohnbauten",
+        "colour": "grey",
+        "icon": null,
+        "published": 1
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 17,
+    "hasToken": false,
+    "globalPos": null,
+    "updatedAt": "2026-11-10 14:35:19"
+  },
+  {
+    "id": 103,
+    "title": "Rundgang durch die Siedlung Bornheimer Hang ",
+    "type": "classic",
+    "themeId": 4,
+    "subtitle": "",
+    "description": "",
+    "prologue": "",
+    "steps": [],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "43c2b6f08b7fdd1eab393575f6d4e9ea_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/799f2802d304dda24ea805ef8c054974_original.jpg"
+        },
+        {
+          "type": "large",
+          "width": 3200,
+          "height": 1800,
+          "url": "https://api.frankfurthistory.app/storage/images/799f2802d304dda24ea805ef8c054974_large.jpg"
+        },
+        {
+          "type": "medium",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/799f2802d304dda24ea805ef8c054974_medium.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/799f2802d304dda24ea805ef8c054974_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": [],
+      "themeId": null
+    },
+    "duration": 4200,
+    "filters": [
+      {
+        "id": 20,
+        "title": "Siedlungen",
+        "subtitle": "und Wohnbauten",
+        "colour": "grey",
+        "icon": null,
+        "published": 1
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 14,
+    "hasToken": false,
+    "globalPos": null,
+    "updatedAt": "2026-11-10 14:35:29"
+  },
+  {
+    "id": 104,
+    "title": "Rundgang Römerstadt",
+    "type": "classic",
+    "themeId": 4,
+    "subtitle": "",
+    "description": "",
+    "prologue": "",
+    "steps": [],
+    "quizGratulations": [
+      {
+        "congratulationText": "",
+        "rangeStart": 0,
+        "rangeEnd": 100
+      }
+    ],
+    "thumbnail": {
+      "type": null,
+      "originalName": "d2810616061710cceab43ec20efc1e32_original.jpg",
+      "date": null,
+      "dateString": "",
+      "weight": null,
+      "urls": [
+        {
+          "type": "original",
+          "width": 1575,
+          "height": 886,
+          "url": "https://api.frankfurthistory.app/storage/images/2ab3d428383ae9513549e6d9d813006a_original.jpg"
+        },
+        {
+          "type": "large",
+          "width": 3200,
+          "height": 1800,
+          "url": "https://api.frankfurthistory.app/storage/images/2ab3d428383ae9513549e6d9d813006a_large.jpg"
+        },
+        {
+          "type": "medium",
+          "width": 1600,
+          "height": 900,
+          "url": "https://api.frankfurthistory.app/storage/images/2ab3d428383ae9513549e6d9d813006a_medium.jpg"
+        },
+        {
+          "type": "small",
+          "width": 800,
+          "height": 450,
+          "url": "https://api.frankfurthistory.app/storage/images/2ab3d428383ae9513549e6d9d813006a_small.jpg"
+        }
+      ],
+      "metadata": null,
+      "filters": [],
+      "themeId": null
+    },
+    "duration": 4200,
+    "filters": [
+      {
+        "id": 20,
+        "title": "Siedlungen",
+        "subtitle": "und Wohnbauten",
+        "colour": "grey",
+        "icon": null,
+        "published": 1
+      }
+    ],
+    "categories": [],
+    "zoomLevel": 14,
+    "hasToken": false,
+    "globalPos": null,
+    "updatedAt": "2026-11-10 14:35:39"
+  }
+]
